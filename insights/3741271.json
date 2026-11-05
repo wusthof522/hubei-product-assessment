@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3741271",
+  "level": "L2",
+  "categoryPathEn": "Appliances > Dishwashers",
+  "categoryPathCn": "家电 > 洗碗机",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 92,
+    "totalRevenue": 2843236,
+    "avgRevenue": 30905,
+    "medianPrice": 546.73,
+    "priceBand": "$317.36 - $732.28",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0CVX5GBY5",
+      "title": "EUHOMY Countertop Dishwasher Portable, 6 Programs with 40 dB, No Hookup",
+      "brand": "EUHOMY",
+      "price": 249.0,
+      "salesParent": 1276,
+      "revenue": 325009.97,
+      "rating": 4.4,
+      "reviews": 1053
+    },
+    {
+      "rank": 2,
+      "asin": "B09ST4M8VF",
+      "title": "COMFEE’ Countertop Dishwasher, Energy Star Portable Dishwasher, 6 Place Settings &amp; 8 Washing Programs, Speed, Baby-Care, ECO&amp; Glass, Dish Washer for Dorm, RV&amp; Apartment, Black",
+      "brand": "COMFEE'",
+      "price": 278.97,
+      "salesParent": 903,
+      "revenue": 256614.53,
+      "rating": 4.1,
+      "reviews": 3773
+    },
+    {
+      "rank": 3,
+      "asin": "B09QCJ6TDZ",
+      "title": "COMFEE' Portable Mini Dishwasher Countertop with 1.32Gal Built-in Water Tank for Apartments&amp; RVs, No Hookup Needed, 6 Programs, 360° Dual Spray, 162℉ High-Temp&amp; Air-Dry Function",
+      "brand": "COMFEE'",
+      "price": 248.99,
+      "salesParent": 779,
+      "revenue": 207837.19,
+      "rating": 4.0,
+      "reviews": 3326
+    },
+    {
+      "rank": 4,
+      "asin": "B0GHY7P6PT",
+      "title": "COMFEE' 18 Inch Built-in Dishwasher, Energy Star &amp; NSF, Stainless Steel Tub",
+      "brand": "COMFEE'",
+      "price": 448.98,
+      "salesParent": 351,
+      "revenue": 165068.28,
+      "rating": 4.3,
+      "reviews": 49
+    },
+    {
+      "rank": 5,
+      "asin": "B0DPFVBM8B",
+      "title": "Hermitlux Countertop Dishwasher, 7 Washing Programs Portable Dishwasher",
+      "brand": "Hermitlux",
+      "price": 299.99,
+      "salesParent": 444,
+      "revenue": 133195.56,
+      "rating": 4.4,
+      "reviews": 4635
+    },
+    {
+      "rank": 6,
+      "asin": "B0C84MCVWM",
+      "title": "Midea 18 Inch Built-in Dishwasher, 8 Place Settings, Stainless Steel Tub",
+      "brand": "Midea",
+      "price": 498.97,
+      "salesParent": 258,
+      "revenue": 128664.6,
+      "rating": 4.1,
+      "reviews": 562
+    },
+    {
+      "rank": 7,
+      "asin": "B0FPDFG65H",
+      "title": "EUHOMY Countertop Dishwasher Portable, 8 Programs with 5L Tank, Black, 40dB",
+      "brand": "EUHOMY",
+      "price": 264.15,
+      "salesParent": 346,
+      "revenue": 94824.76,
+      "rating": 4.5,
+      "reviews": 312
+    },
+    {
+      "rank": 8,
+      "asin": "B089YD3Z91",
+      "title": "NOVETE Portable Countertop Dishwashers for Small Apartments",
+      "brand": "NOVETE",
+      "price": 269.99,
+      "salesParent": 281,
+      "revenue": 90813.58,
+      "rating": 4.4,
+      "reviews": 2528
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -9,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -9,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 2843236,
+    "priorHeadRevenue": 3123183,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 92,
+      "newCount": 35,
+      "pct": 38,
+      "unknownLaunch": 1,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 57,
+      "brandCount": 42,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 3.93,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0CVX5GBY5",
+        "title": "EUHOMY Countertop Dishwasher Portable, 6 Programs with 40 dB, No Hookup",
+        "rating": 4.4,
+        "reviews": 1053
+      },
+      {
+        "rank": 2,
+        "asin": "B09ST4M8VF",
+        "title": "COMFEE’ Countertop Dishwasher, Energy Star Portable Dishwasher, 6 Place Settings &amp; 8 Washing Programs, Speed, Baby-Care, ECO&amp; Glass, Dish Washer for Dorm, RV&amp; Apartment, Black",
+        "rating": 4.1,
+        "reviews": 3773
+      },
+      {
+        "rank": 3,
+        "asin": "B09QCJ6TDZ",
+        "title": "COMFEE' Portable Mini Dishwasher Countertop with 1.32Gal Built-in Water Tank for Apartments&amp; RVs, No Hookup Needed, 6 Programs, 360° Dual Spray, 162℉ High-Temp&amp; Air-Dry Function",
+        "rating": 4.0,
+        "reviews": 3326
+      },
+      {
+        "rank": 4,
+        "asin": "B0GHY7P6PT",
+        "title": "COMFEE' 18 Inch Built-in Dishwasher, Energy Star &amp; NSF, Stainless Steel Tub",
+        "rating": 4.3,
+        "reviews": 49
+      },
+      {
+        "rank": 5,
+        "asin": "B0DPFVBM8B",
+        "title": "Hermitlux Countertop Dishwasher, 7 Washing Programs Portable Dishwasher",
+        "rating": 4.4,
+        "reviews": 4635
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "2619525011:3741271",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

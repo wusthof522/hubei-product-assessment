@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "10824421",
+  "level": "L4",
+  "categoryPathEn": "Home & Kitchen > Furniture > Home Office Furniture > Bookcases",
+  "categoryPathCn": "家居用品 > 家具 > 家庭办公家具 > 书架",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 94,
+    "totalRevenue": 14192921,
+    "avgRevenue": 150989,
+    "medianPrice": 98.99,
+    "priceBand": "$70.31 - $149.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B074NHRZQX",
+      "title": "Furinno LUDER Book Shelf, 3-Cube Bookshelf, Bookcase with Open Shelves, 9.3 x 12 x 31.5, Easy Assembly, for Living Room, Bedroom, Home Office, White",
+      "brand": "Furinno",
+      "price": 27.96,
+      "salesParent": 27183,
+      "revenue": 684467.94,
+      "rating": 4.4,
+      "reviews": 26772
+    },
+    {
+      "rank": 2,
+      "asin": "B0BZJWKNW5",
+      "title": "Furinno Pasir 4-Tier Corner Open Shelf Bookcase, Blackwood",
+      "brand": "Furinno",
+      "price": 45.65,
+      "salesParent": 16254,
+      "revenue": 565801.75,
+      "rating": 4.4,
+      "reviews": 785
+    },
+    {
+      "rank": 3,
+      "asin": "B0BNJ2SCR9",
+      "title": "VASAGLE Bookshelf, 23.6 Inches Wide, 6-Tier Open Bookcase with Adjustable Storage Shelves, Floor Standing Unit, Cloud White ULBC166T14",
+      "brand": "VASAGLE",
+      "price": 75.99,
+      "salesParent": 6541,
+      "revenue": 480371.06,
+      "rating": 4.3,
+      "reviews": 1749
+    },
+    {
+      "rank": 4,
+      "asin": "B0G39JVFZB",
+      "title": "Furinno PASIR Book Shelf, 2-Tier Modern Bookshelf, Open Shelves Bookcase 9 x 12 x 21, Easy Assembly, for Living Room, Bedroom, Home Office, Sage Green",
+      "brand": "Furinno",
+      "price": 29.62,
+      "salesParent": 15846,
+      "revenue": 459058.59,
+      "rating": 3.6,
+      "reviews": 7
+    },
+    {
+      "rank": 5,
+      "asin": "B0F8VNDNMH",
+      "title": "Furinno DALY Book Shelf, 8-Cube Bookshelf, Horizontal Cube Storage Organizer Bookcase, 10.9 x 47.2 x 39.4, for Living Room, Bedroom, Home Office, Amber Pine",
+      "brand": "Furinno",
+      "price": 86.06,
+      "salesParent": 4277,
+      "revenue": 390618.41,
+      "rating": 3.1,
+      "reviews": 3
+    },
+    {
+      "rank": 6,
+      "asin": "B006R9VNSG",
+      "title": "Sauder Miscellaneous Storage 5-Shelf Bookcase/ Book shelf, Select Cherry finish",
+      "brand": "Sauder",
+      "price": 179.58,
+      "salesParent": 1959,
+      "revenue": 352424.09,
+      "rating": 4.2,
+      "reviews": 12825
+    },
+    {
+      "rank": 7,
+      "asin": "B0F6CNTRHW",
+      "title": "81&quot; Tall Arched Cabinets,Bookcase with storage,Mid-Century Modern 6-Tier Bookshelf with Door,2 Book Risers and Adjustable Shelves offering more storage space for Living Room,Kitchen,Home Office,Black",
+      "brand": "UPOSOJA",
+      "price": 199.98,
+      "salesParent": 1552,
+      "revenue": 307559.84,
+      "rating": 4.5,
+      "reviews": 186
+    },
+    {
+      "rank": 8,
+      "asin": "B0F6BLD4BZ",
+      "title": "Aheaplus 6 Tier Rotating Bookshelf Tower, Revolving Bookcase, Rustic Brown",
+      "brand": "Aheaplus",
+      "price": 159.99,
+      "salesParent": 1713,
+      "revenue": 269643.34,
+      "rating": 4.7,
+      "reviews": 504
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 5,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 5,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 14192921,
+    "priorHeadRevenue": 13560496,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 94,
+      "newCount": 33,
+      "pct": 35,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 41,
+      "brandCount": 51,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.33,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B074NHRZQX",
+        "title": "Furinno LUDER Book Shelf, 3-Cube Bookshelf, Bookcase with Open Shelves, 9.3 x 12 x 31.5, Easy Assembly, for Living Room, Bedroom, Home Office, White",
+        "rating": 4.4,
+        "reviews": 26772
+      },
+      {
+        "rank": 2,
+        "asin": "B0BZJWKNW5",
+        "title": "Furinno Pasir 4-Tier Corner Open Shelf Bookcase, Blackwood",
+        "rating": 4.4,
+        "reviews": 785
+      },
+      {
+        "rank": 3,
+        "asin": "B0BNJ2SCR9",
+        "title": "VASAGLE Bookshelf, 23.6 Inches Wide, 6-Tier Open Bookcase with Adjustable Storage Shelves, Floor Standing Unit, Cloud White ULBC166T14",
+        "rating": 4.3,
+        "reviews": 1749
+      },
+      {
+        "rank": 4,
+        "asin": "B0G39JVFZB",
+        "title": "Furinno PASIR Book Shelf, 2-Tier Modern Bookshelf, Open Shelves Bookcase 9 x 12 x 21, Easy Assembly, for Living Room, Bedroom, Home Office, Sage Green",
+        "rating": 3.6,
+        "reviews": 7
+      },
+      {
+        "rank": 5,
+        "asin": "B0F8VNDNMH",
+        "title": "Furinno DALY Book Shelf, 8-Cube Bookshelf, Horizontal Cube Storage Organizer Bookcase, 10.9 x 47.2 x 39.4, for Living Room, Bedroom, Home Office, Amber Pine",
+        "rating": 3.1,
+        "reviews": 3
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "1055398:1063306:1063312:10824421",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

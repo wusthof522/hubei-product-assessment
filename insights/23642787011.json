@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23642787011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Vehicles > Construction Vehicles > Cranes",
+  "categoryPathCn": "玩具 > 车辆 > 建筑车辆 > 起重机",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 77,
+    "totalRevenue": 495548,
+    "avgRevenue": 6436,
+    "medianPrice": 32.99,
+    "priceBand": "$20.14 - $59.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B07SRZ87DF",
+      "title": "4 Pack Monster Trucks Toys for Boys 2 3 4 5 6 7 Year Old, Friction Powered Pull Back Car Toys for Toddlers Kids Ages 3-5 2-4 4-7, Best Birthday Christmas Party Gift for Boys and Toddlers",
+      "brand": "ANAOER",
+      "price": 17.86,
+      "salesParent": 10793,
+      "revenue": 190388.52,
+      "rating": 4.7,
+      "reviews": 3520
+    },
+    {
+      "rank": 2,
+      "asin": "B09W2L82X5",
+      "title": "CAT Construction Toys, Little Machines Mega Set – 40+ Pieces with XL Crane &amp; Excavator, 10 Mini Vehicles, Road Signs, Cones, Boulders &amp; Barricades, Indoor/Outdoor STEM Toy for Kids Ages 3 +",
+      "brand": "CAT",
+      "price": 19.99,
+      "salesParent": 2946,
+      "revenue": 58890.54,
+      "rating": 4.8,
+      "reviews": 810
+    },
+    {
+      "rank": 3,
+      "asin": "B0GFPZRTLN",
+      "title": "Disney Store Official Toy Story Alien Crane Game with Sound - Rocket Ship Claw Machine that Includes 10 Little Green Men - Inspired by Disney &amp; Pixar's Toy Story Films - Perfect for Kids Toys",
+      "brand": "Disney Store",
+      "price": 59.99,
+      "salesParent": 614,
+      "revenue": 35618.14,
+      "rating": 4.6,
+      "reviews": 38
+    },
+    {
+      "rank": 4,
+      "asin": "B00FZMDAJG",
+      "title": "Melissa &amp; Doug Magnetic Car Loader Wooden Toy Set with 4 Toy Cars",
+      "brand": "Melissa &amp; Doug",
+      "price": 25.62,
+      "salesParent": 1878,
+      "revenue": 35550.54,
+      "rating": 4.8,
+      "reviews": 7093
+    },
+    {
+      "rank": 5,
+      "asin": "B09LR5YY3N",
+      "title": "Cranes Car Toys for 1 2 Year Old Boy Gifts,Toddler Stocking Stuffers",
+      "brand": "ALASOU",
+      "price": 19.99,
+      "salesParent": 1200,
+      "revenue": 23724.0,
+      "rating": 4.7,
+      "reviews": 3471
+    },
+    {
+      "rank": 6,
+      "asin": "B003XWZZJI",
+      "title": "Bruder 02818 Mack Granite Liebherr Crane Truck",
+      "brand": "Bruder",
+      "price": 138.99,
+      "salesParent": 127,
+      "revenue": 16776.7,
+      "rating": 4.8,
+      "reviews": 1285
+    },
+    {
+      "rank": 7,
+      "asin": "B0D7GTL7NK",
+      "title": "CUTE STONE Cargo Ship Toy &amp; Gantry Crane, Toy Boat and Crane Playset with Sounds &amp; Lights, Transport Containers, Push and Go Vehicle Cars, Kids Play Boats for Boys Girls",
+      "brand": "CUTE STONE",
+      "price": 38.99,
+      "salesParent": 291,
+      "revenue": 11346.09,
+      "rating": 4.3,
+      "reviews": 239
+    },
+    {
+      "rank": 8,
+      "asin": "B0027TGLV4",
+      "title": "BRIO World 33698 - Clever Crane Wagon Set - 4 Piece Wooden Toy Train Set for Kids | Imaginative Play | Compatibility with Other Sets | FSC-Certified Wood",
+      "brand": "Brio",
+      "price": 18.99,
+      "salesParent": 351,
+      "revenue": 8574.93,
+      "rating": 4.8,
+      "reviews": 3134
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 19,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 19,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 495548,
+    "priorHeadRevenue": 416337,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 77,
+      "newCount": 27,
+      "pct": 35,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 70,
+      "brandCount": 64,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.21,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B07SRZ87DF",
+        "title": "4 Pack Monster Trucks Toys for Boys 2 3 4 5 6 7 Year Old, Friction Powered Pull Back Car Toys for Toddlers Kids Ages 3-5 2-4 4-7, Best Birthday Christmas Party Gift for Boys and Toddlers",
+        "rating": 4.7,
+        "reviews": 3520
+      },
+      {
+        "rank": 2,
+        "asin": "B09W2L82X5",
+        "title": "CAT Construction Toys, Little Machines Mega Set – 40+ Pieces with XL Crane &amp; Excavator, 10 Mini Vehicles, Road Signs, Cones, Boulders &amp; Barricades, Indoor/Outdoor STEM Toy for Kids Ages 3 +",
+        "rating": 4.8,
+        "reviews": 810
+      },
+      {
+        "rank": 3,
+        "asin": "B0GFPZRTLN",
+        "title": "Disney Store Official Toy Story Alien Crane Game with Sound - Rocket Ship Claw Machine that Includes 10 Little Green Men - Inspired by Disney &amp; Pixar's Toy Story Films - Perfect for Kids Toys",
+        "rating": 4.6,
+        "reviews": 38
+      },
+      {
+        "rank": 4,
+        "asin": "B00FZMDAJG",
+        "title": "Melissa &amp; Doug Magnetic Car Loader Wooden Toy Set with 4 Toy Cars",
+        "rating": 4.8,
+        "reviews": 7093
+      },
+      {
+        "rank": 5,
+        "asin": "B09LR5YY3N",
+        "title": "Cranes Car Toys for 1 2 Year Old Boy Gifts,Toddler Stocking Stuffers",
+        "rating": 4.7,
+        "reviews": 3471
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:23539911011:23627233011:23642787011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

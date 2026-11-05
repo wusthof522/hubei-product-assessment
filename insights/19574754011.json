@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "19574754011",
+  "level": "L4",
+  "categoryPathEn": "Clothing, Shoes & Jewelry > Sport Specific Clothing > Baseball > Boys",
+  "categoryPathCn": "服装、鞋履和珠宝 > 运动专用服装 > 棒球 > 同学们",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 97,
+    "totalRevenue": 2239070,
+    "avgRevenue": 23083,
+    "medianPrice": 21.99,
+    "priceBand": "$14.99 - $27.97",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B09JKZ5SYG",
+      "title": "Under Armour Boys' Utility Baseball Pant",
+      "brand": "Under Armour",
+      "price": 24.49,
+      "salesParent": 9828,
+      "revenue": 245306.88,
+      "rating": 4.5,
+      "reviews": 3581
+    },
+    {
+      "rank": 2,
+      "asin": "B09BG2N8VF",
+      "title": "Easton Boy's PRO+ Baseball Pants | Youth Sizes | Full Length | Elastic Bottom | Multiple Colors",
+      "brand": "Easton",
+      "price": 14.97,
+      "salesParent": 10446,
+      "revenue": 157630.14,
+      "rating": 4.4,
+      "reviews": 6239
+    },
+    {
+      "rank": 3,
+      "asin": "B0CVNFS84H",
+      "title": "Champro Boys Triple Crown 2.0 Baseball Knickers",
+      "brand": "CHAMPRO",
+      "price": 19.99,
+      "salesParent": 5687,
+      "revenue": 113683.0,
+      "rating": 4.7,
+      "reviews": 836
+    },
+    {
+      "rank": 4,
+      "asin": "B09PQTFQYQ",
+      "title": "QBK 2T/3T/4T/5T to Youth Toddler Boys Baseball Pants Girl Softball Pants Kids Tee Ball Pants",
+      "brand": "QBK",
+      "price": 19.99,
+      "salesParent": 5967,
+      "revenue": 105377.22,
+      "rating": 4.6,
+      "reviews": 2045
+    },
+    {
+      "rank": 5,
+      "asin": "B0CZL2QRWH",
+      "title": "XZQTIVE Baseball Softball Socks and Baseball Softball Belt Combo Set Knee-High Soccer Socks for Kids Youth Adult",
+      "brand": "XZQTIVE",
+      "price": 11.99,
+      "salesParent": 6249,
+      "revenue": 81174.51,
+      "rating": 4.7,
+      "reviews": 567
+    },
+    {
+      "rank": 6,
+      "asin": "B017HWJW5C",
+      "title": "Under Armour Boys' Utility Baseball Pants with Snap Closure (Sizes 4-7)",
+      "brand": "Under Armour",
+      "price": 13.99,
+      "salesParent": 4428,
+      "revenue": 73327.68,
+      "rating": 4.5,
+      "reviews": 8590
+    },
+    {
+      "rank": 7,
+      "asin": "B09GNCKTT1",
+      "title": "Youth #30 Sandlot Benny The Jet Rodriguez Movie Kids Baseball Jersey Stitched Christmas Summer",
+      "brand": "luqiaomaoyi",
+      "price": 26.98,
+      "salesParent": 2965,
+      "revenue": 70418.75,
+      "rating": 4.7,
+      "reviews": 311
+    },
+    {
+      "rank": 8,
+      "asin": "B089QZMFVM",
+      "title": "Easton | Rival+ Baseball Pants | Full Length Semi-Relaxed Fit | Youth Sizes | Solid | Multiple Colors",
+      "brand": "Easton",
+      "price": 27.95,
+      "salesParent": 1903,
+      "revenue": 53188.85,
+      "rating": 4.6,
+      "reviews": 1358
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 10,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 10,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 2239070,
+    "priorHeadRevenue": 2036019,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 97,
+      "newCount": 22,
+      "pct": 23,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 62,
+      "brandCount": 44,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.52,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B09JKZ5SYG",
+        "title": "Under Armour Boys' Utility Baseball Pant",
+        "rating": 4.5,
+        "reviews": 3581
+      },
+      {
+        "rank": 2,
+        "asin": "B09BG2N8VF",
+        "title": "Easton Boy's PRO+ Baseball Pants | Youth Sizes | Full Length | Elastic Bottom | Multiple Colors",
+        "rating": 4.4,
+        "reviews": 6239
+      },
+      {
+        "rank": 3,
+        "asin": "B0CVNFS84H",
+        "title": "Champro Boys Triple Crown 2.0 Baseball Knickers",
+        "rating": 4.7,
+        "reviews": 836
+      },
+      {
+        "rank": 4,
+        "asin": "B09PQTFQYQ",
+        "title": "QBK 2T/3T/4T/5T to Youth Toddler Boys Baseball Pants Girl Softball Pants Kids Tee Ball Pants",
+        "rating": 4.6,
+        "reviews": 2045
+      },
+      {
+        "rank": 5,
+        "asin": "B0CZL2QRWH",
+        "title": "XZQTIVE Baseball Softball Socks and Baseball Softball Belt Combo Set Knee-High Soccer Socks for Kids Youth Adult",
+        "rating": 4.7,
+        "reviews": 567
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "7141123011:23575629011:19574753011:19574754011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

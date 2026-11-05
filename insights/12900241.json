@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "12900241",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Learning & Education > Optics > Microscope Accessories",
+  "categoryPathCn": "玩具 > 学习 > 光学元件 > 显微镜配件",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 48281,
+    "avgRevenue": 488,
+    "medianPrice": 22.14,
+    "priceBand": "$13.67 - $58.58",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0FJ1F8QDH",
+      "title": "4K UHD Digital Microscope Camera High Speed 4K 1080P 60fps HDMI Measurement Camera Color CMOS USB Storage Dual HDMI USB3.0 Output Compatible Windows/iOS Support Calibration (HY-6805)",
+      "brand": "HAYEAR",
+      "price": 448.0,
+      "salesParent": 17,
+      "revenue": 7616.0,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "rank": 2,
+      "asin": "B0H5KY6TQQ",
+      "title": "Industrial Camera Machine Vision Experiment Stand, Microscope Support Bracket,Manual Lift Sliding Rail Workstation, with Adjustable Light Source Rack, 12-inch Base Plate(800mm)",
+      "brand": "Generic",
+      "price": 1097.77,
+      "salesParent": 6,
+      "revenue": 6485.58,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "rank": 3,
+      "asin": "B0F5JSNRQF",
+      "title": "4K Compact Microscope Camera with 8X Magnification, CS Lens Mount, HD Video Output, Button and Remote Control for Microscopy (US",
+      "brand": "Walfront",
+      "price": 189.19,
+      "salesParent": 27,
+      "revenue": 5431.05,
+      "rating": 4.0,
+      "reviews": 3
+    },
+    {
+      "rank": 4,
+      "asin": "B0CW8YSQ18",
+      "title": "14 in 1 Fiber Optic Cleaning Kit, 400X Fiber Microscope FTTH Cleaner Set, SC LC MPO MTP 2.5/1.25mm Connector, Optical Fiber Cable Connector Endface Clean Tool Set,800+ Cleans,Fiber Cleaner Tools",
+      "brand": "BAOSHLA",
+      "price": 119.0,
+      "salesParent": 38,
+      "revenue": 4522.0,
+      "rating": 4.6,
+      "reviews": 10
+    },
+    {
+      "rank": 5,
+      "asin": "B01G7J0688",
+      "title": "Celestron 5MP Digital Microscope Imager for High-Resolution Imaging",
+      "brand": "Celestron",
+      "price": 116.8,
+      "salesParent": 28,
+      "revenue": 3270.4,
+      "rating": 3.9,
+      "reviews": 122
+    },
+    {
+      "rank": 6,
+      "asin": "B0CZHHRN11",
+      "title": "13 in 1 Fiber Optic Cleaning Tool kit with 400x Optical Fiber Microscope SC/LC Cleaning Pen 2.5mm 1.25mm Interface Cleaning Box with Replace core Fiber Optic Cleaner kit FTTH Clean Tool Kit",
+      "brand": "SAIVXIAN",
+      "price": 85.0,
+      "salesParent": 30,
+      "revenue": 2527.5,
+      "rating": 3.5,
+      "reviews": 2
+    },
+    {
+      "rank": 7,
+      "asin": "B0CD845RQY",
+      "title": "Microscope Immersion Oil, 3/4 oz (25ML), Type A, Microscope Specific, Easy to Remove",
+      "brand": "Wryxia",
+      "price": 14.99,
+      "salesParent": 167,
+      "revenue": 2438.2,
+      "rating": 4.7,
+      "reviews": 42
+    },
+    {
+      "rank": 8,
+      "asin": "B0DR2DX4P7",
+      "title": "Microscope Ring Light Polarized Ring Lamp Adjustable 72 LED Ring Light Source Anti Glare Eliminates Reflection Illuminator for Stereo Microscope &amp; Camera",
+      "brand": "DIYPHONE",
+      "price": 29.99,
+      "salesParent": 56,
+      "revenue": 1679.44,
+      "rating": 3.8,
+      "reviews": 22
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 14,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 14,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 48281,
+    "priorHeadRevenue": 42323,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 70,
+      "pct": 72,
+      "unknownLaunch": 2,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 58,
+      "brandCount": 78,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.34,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0FJ1F8QDH",
+        "title": "4K UHD Digital Microscope Camera High Speed 4K 1080P 60fps HDMI Measurement Camera Color CMOS USB Storage Dual HDMI USB3.0 Output Compatible Windows/iOS Support Calibration (HY-6805)",
+        "rating": null,
+        "reviews": null
+      },
+      {
+        "rank": 2,
+        "asin": "B0H5KY6TQQ",
+        "title": "Industrial Camera Machine Vision Experiment Stand, Microscope Support Bracket,Manual Lift Sliding Rail Workstation, with Adjustable Light Source Rack, 12-inch Base Plate(800mm)",
+        "rating": null,
+        "reviews": null
+      },
+      {
+        "rank": 3,
+        "asin": "B0F5JSNRQF",
+        "title": "4K Compact Microscope Camera with 8X Magnification, CS Lens Mount, HD Video Output, Button and Remote Control for Microscopy (US",
+        "rating": 4.0,
+        "reviews": 3
+      },
+      {
+        "rank": 4,
+        "asin": "B0CW8YSQ18",
+        "title": "14 in 1 Fiber Optic Cleaning Kit, 400X Fiber Microscope FTTH Cleaner Set, SC LC MPO MTP 2.5/1.25mm Connector, Optical Fiber Cable Connector Endface Clean Tool Set,800+ Cleans,Fiber Cleaner Tools",
+        "rating": 4.6,
+        "reviews": 10
+      },
+      {
+        "rank": 5,
+        "asin": "B01G7J0688",
+        "title": "Celestron 5MP Digital Microscope Imager for High-Resolution Imaging",
+        "rating": 3.9,
+        "reviews": 122
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166269011:19318811011:12900241",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

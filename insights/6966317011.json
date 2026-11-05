@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "6966317011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins, Minerals & Supplements > Herbal Supplements > Chlorella",
+  "categoryPathCn": "健康与家居 > 身、泳和附剂 > 草本补充 > 小球藻",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 3959639,
+    "avgRevenue": 39596,
+    "medianPrice": 27.47,
+    "priceBand": "$19.99 - $37.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0D44CQ9T4",
+      "title": "Gruns Adult Greens Gummies Sugar Free Multivitamin &amp; Prebiotic Fiber, 28 ct",
+      "brand": "Grüns",
+      "price": 73.45,
+      "salesParent": 29011,
+      "revenue": 2145943.75,
+      "rating": 4.3,
+      "reviews": 2248
+    },
+    {
+      "rank": 2,
+      "asin": "B0CKBXPBLH",
+      "title": "Kiala Nutrition Super Greens Powder with Spirulina &amp; Chlorella for Digestion, Gut Health, Immunity, Adaptogens, Energy, Gluten Free, Vegan, Sugar Free, Watermelon Slush, 30 Servings",
+      "brand": "Kiala Nutrition",
+      "price": 39.95,
+      "salesParent": 5037,
+      "revenue": 201228.16,
+      "rating": 4.1,
+      "reviews": 3079
+    },
+    {
+      "rank": 3,
+      "asin": "B01DPW5JSW",
+      "title": "Micro Ingredients Organic Spirulina Chlorella Tablets, 720 Count",
+      "brand": "Micro Ingredients",
+      "price": 29.95,
+      "salesParent": 6680,
+      "revenue": 191248.39,
+      "rating": 4.6,
+      "reviews": 9916
+    },
+    {
+      "rank": 4,
+      "asin": "B06Y6NDCGV",
+      "title": "RECOVERYbits Chlorella Tablets, Algae, Detox, Greens, 1000 Tablets",
+      "brand": "ENERGYBITS",
+      "price": 130.0,
+      "salesParent": 781,
+      "revenue": 101530.0,
+      "rating": 4.6,
+      "reviews": 312
+    },
+    {
+      "rank": 5,
+      "asin": "B084ZVBGQ6",
+      "title": "Primal Harvest Greens - Daily Supplement Powder, Gluten, Dairy &amp; Soy Free",
+      "brand": "Primal Harvest",
+      "price": 51.45,
+      "salesParent": 1630,
+      "revenue": 83863.5,
+      "rating": 4.3,
+      "reviews": 3293
+    },
+    {
+      "rank": 6,
+      "asin": "B08LX8FYMT",
+      "title": "VITALITYbits Spirulina Chlorella Tablets, Algae Blend, 1000 Tablets",
+      "brand": "ENERGYBITS",
+      "price": 130.0,
+      "salesParent": 624,
+      "revenue": 81120.0,
+      "rating": 4.4,
+      "reviews": 525
+    },
+    {
+      "rank": 7,
+      "asin": "B09C2MSK82",
+      "title": "8Greens Supergreens Daily Gummies, Apple, 50 Servings",
+      "brand": "8Greens",
+      "price": 18.69,
+      "salesParent": 3629,
+      "revenue": 76281.58,
+      "rating": 4.3,
+      "reviews": 2476
+    },
+    {
+      "rank": 8,
+      "asin": "B0DK7WVQQY",
+      "title": "Micro Ingredients Super Greens Powder, 100 Superfoods, Green Drink Mix, 1lb",
+      "brand": "Micro Ingredients",
+      "price": 24.99,
+      "salesParent": 2775,
+      "revenue": 69347.25,
+      "rating": 4.6,
+      "reviews": 819
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 18,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 18,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 3959639,
+    "priorHeadRevenue": 3353807,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 18,
+      "pct": 18,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 76,
+      "brandCount": 70,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.49,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0D44CQ9T4",
+        "title": "Gruns Adult Greens Gummies Sugar Free Multivitamin &amp; Prebiotic Fiber, 28 ct",
+        "rating": 4.3,
+        "reviews": 2248
+      },
+      {
+        "rank": 2,
+        "asin": "B0CKBXPBLH",
+        "title": "Kiala Nutrition Super Greens Powder with Spirulina &amp; Chlorella for Digestion, Gut Health, Immunity, Adaptogens, Energy, Gluten Free, Vegan, Sugar Free, Watermelon Slush, 30 Servings",
+        "rating": 4.1,
+        "reviews": 3079
+      },
+      {
+        "rank": 3,
+        "asin": "B01DPW5JSW",
+        "title": "Micro Ingredients Organic Spirulina Chlorella Tablets, 720 Count",
+        "rating": 4.6,
+        "reviews": 9916
+      },
+      {
+        "rank": 4,
+        "asin": "B06Y6NDCGV",
+        "title": "RECOVERYbits Chlorella Tablets, Algae, Detox, Greens, 1000 Tablets",
+        "rating": 4.6,
+        "reviews": 312
+      },
+      {
+        "rank": 5,
+        "asin": "B084ZVBGQ6",
+        "title": "Primal Harvest Greens - Daily Supplement Powder, Gluten, Dairy &amp; Soy Free",
+        "rating": 4.3,
+        "reviews": 3293
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:23675621011:3764461:6966317011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

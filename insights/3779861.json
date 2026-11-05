@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3779861",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Health Care > Ear Care > Ear Drops",
+  "categoryPathCn": "健康与家居 > 卫生保健 > 耳朵护理 > 滴耳液",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 870242,
+    "avgRevenue": 8790,
+    "medianPrice": 15.18,
+    "priceBand": "$11.95 - $19.88",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0BGKR4C7F",
+      "title": "Hyland's Dry Ear Oil, Fast Itch &amp; Irritation Relief Day or Night, 0.5oz",
+      "brand": "Hyland's",
+      "price": 10.47,
+      "salesParent": 14019,
+      "revenue": 146778.94,
+      "rating": 4.3,
+      "reviews": 2538
+    },
+    {
+      "rank": 2,
+      "asin": "B0001AGMWE",
+      "title": "Miracell ProEar, Ear Drops for Itchy Ears, Ear Wax Softener, Clogged Ears, Dry Ears, for Adults Babies. 0.5oz",
+      "brand": "Miracell",
+      "price": 11.95,
+      "salesParent": 4934,
+      "revenue": 58961.3,
+      "rating": 4.3,
+      "reviews": 10142
+    },
+    {
+      "rank": 3,
+      "asin": "B00Y271VC8",
+      "title": "Herb Pharm Kids Mullein Garlic Ear Oil: Alcohol-Free Herbal Ally for Kids, Made with Certified Organic Mullein, Certified Organic Garlic, &amp; USDA Organic Calendula, Topical Use Only, for Children, 1 oz",
+      "brand": "Herb Pharm",
+      "price": 12.49,
+      "salesParent": 3912,
+      "revenue": 49056.48,
+      "rating": 4.7,
+      "reviews": 3631
+    },
+    {
+      "rank": 4,
+      "asin": "B0GQ1TKX3V",
+      "title": "Ear Pain MD +Plus Earache Relief Drops – 4% Lidocaine + Antiseptic for Pain Relief &amp; Infection Protection – Swimmer's Ear, Ear Infections, Allergies",
+      "brand": "Eosera",
+      "price": 15.97,
+      "salesParent": 2816,
+      "revenue": 44971.52,
+      "rating": 4.0,
+      "reviews": 312
+    },
+    {
+      "rank": 5,
+      "asin": "B0G5JPDWFC",
+      "title": "Auil Mineral Oil Ear Drops - Pharmaceutical Grade - Adults &amp; Kids",
+      "brand": "Otolaryngological Anthropology",
+      "price": 14.99,
+      "salesParent": 2920,
+      "revenue": 43770.8,
+      "rating": 4.5,
+      "reviews": 339
+    },
+    {
+      "rank": 6,
+      "asin": "B0GQ157VLM",
+      "title": "Ear Itch MD +Plus Anti-Itch Spray - 10 mL - 1% Hydrocortisone - Ear Drops for Itchy Ears, Inflammation, Psoriasis, and Eczema Relief",
+      "brand": "Eosera",
+      "price": 14.97,
+      "salesParent": 2623,
+      "revenue": 39581.07,
+      "rating": 4.3,
+      "reviews": 251
+    },
+    {
+      "rank": 7,
+      "asin": "B0FDLF8CCR",
+      "title": "eosera Ear Itch MD Dry Ear Relief Oil Spray - 17 mL Soothes Dry, Itchy Ears",
+      "brand": "Eosera",
+      "price": 15.99,
+      "salesParent": 1982,
+      "revenue": 31692.18,
+      "rating": 4.2,
+      "reviews": 1526
+    },
+    {
+      "rank": 8,
+      "asin": "B001E8DBU8",
+      "title": "Herb Pharm Mullein Garlic Oil: Infused Oil for Topical External Use with Certified Organic Mullein Extract, Garlic Extract, Calendula &amp; Responsibly Wildcrafted St. John's Wort, 1 oz",
+      "brand": "Herb Pharm",
+      "price": 15.18,
+      "salesParent": 1776,
+      "revenue": 26959.68,
+      "rating": 4.4,
+      "reviews": 8016
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -6,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -6,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 870242,
+    "priorHeadRevenue": 921806,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 42,
+      "pct": 42,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 55,
+      "brandCount": 64,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.28,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0BGKR4C7F",
+        "title": "Hyland's Dry Ear Oil, Fast Itch &amp; Irritation Relief Day or Night, 0.5oz",
+        "rating": 4.3,
+        "reviews": 2538
+      },
+      {
+        "rank": 2,
+        "asin": "B0001AGMWE",
+        "title": "Miracell ProEar, Ear Drops for Itchy Ears, Ear Wax Softener, Clogged Ears, Dry Ears, for Adults Babies. 0.5oz",
+        "rating": 4.3,
+        "reviews": 10142
+      },
+      {
+        "rank": 3,
+        "asin": "B00Y271VC8",
+        "title": "Herb Pharm Kids Mullein Garlic Ear Oil: Alcohol-Free Herbal Ally for Kids, Made with Certified Organic Mullein, Certified Organic Garlic, &amp; USDA Organic Calendula, Topical Use Only, for Children, 1 oz",
+        "rating": 4.7,
+        "reviews": 3631
+      },
+      {
+        "rank": 4,
+        "asin": "B0GQ1TKX3V",
+        "title": "Ear Pain MD +Plus Earache Relief Drops – 4% Lidocaine + Antiseptic for Pain Relief &amp; Infection Protection – Swimmer's Ear, Ear Infections, Allergies",
+        "rating": 4.0,
+        "reviews": 312
+      },
+      {
+        "rank": 5,
+        "asin": "B0G5JPDWFC",
+        "title": "Auil Mineral Oil Ear Drops - Pharmaceutical Grade - Adults &amp; Kids",
+        "rating": 4.5,
+        "reviews": 339
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3760941:3779681:3779861",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

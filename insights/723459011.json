@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "723459011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Stationery & Gift Wrapping Supplies > Gift Wrapping Supplies > Wrapping Sets",
+  "categoryPathCn": "健康与家居 > 文具和礼品包装用品 > 办公礼品包装 > 包装套装",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 96,
+    "totalRevenue": 721406,
+    "avgRevenue": 7515,
+    "medianPrice": 26.39,
+    "priceBand": "$18.99 - $35.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0FZK9V5JH",
+      "title": "Sunshine Gift Baskets Get Well Care Package Birthday Gifts for Women Friend",
+      "brand": "Mirasphere",
+      "price": 39.99,
+      "salesParent": 2152,
+      "revenue": 82464.64,
+      "rating": 4.7,
+      "reviews": 147
+    },
+    {
+      "rank": 2,
+      "asin": "B0DXTDKXR6",
+      "title": "Crweety 50 Pcs Organza Bags 3x4, Pink Small Mesh Gift Wrap Set Drawstring",
+      "brand": "Crweety",
+      "price": 5.99,
+      "salesParent": 13439,
+      "revenue": 80499.61,
+      "rating": 4.7,
+      "reviews": 1309
+    },
+    {
+      "rank": 3,
+      "asin": "B0H695G897",
+      "title": "Thank You Gifts for Boss Female, Boss Gifts for Women",
+      "brand": "LUICONMO",
+      "price": 21.99,
+      "salesParent": 1555,
+      "revenue": 36371.45,
+      "rating": 4.9,
+      "reviews": 98
+    },
+    {
+      "rank": 4,
+      "asin": "B0G2LLXTD2",
+      "title": "Funnymoom 12 Pcs Pastel Plaid Gift Baskets with Cellophane Bags and Pull Bows, Macaron Color Paper Gift Basket for Summer Party Favors, Wedding Birthday, Baby Shower 9.8 x 6.5 x 4.3 Inch",
+      "brand": "Funnymoom",
+      "price": 21.99,
+      "salesParent": 932,
+      "revenue": 20494.68,
+      "rating": 4.6,
+      "reviews": 45
+    },
+    {
+      "rank": 5,
+      "asin": "B0CBB1C4LR",
+      "title": "AFOROEOA 10PACK Baskets For Gifts Empty, 10x12”Thick Kraft Gift Basket with 10 Bows 10 Bags Empty Gift Baskets for Christmas, Valentine’s Day, Easter, Birthdays, Snacks, Farmers Market",
+      "brand": "AFOROEOA",
+      "price": 39.99,
+      "salesParent": 553,
+      "revenue": 19355.0,
+      "rating": 4.6,
+      "reviews": 347
+    },
+    {
+      "rank": 6,
+      "asin": "B0FD9XHWXT",
+      "title": "Orchidleaf 2 Set Baskets for Gifts Empty, Woven Bamboo gift baskets empty",
+      "brand": "Orchidleaf",
+      "price": 18.99,
+      "salesParent": 916,
+      "revenue": 17394.84,
+      "rating": 4.7,
+      "reviews": 341
+    },
+    {
+      "rank": 7,
+      "asin": "B0G5DCYSHJ",
+      "title": "48 Pcs/8 Sets Employee Appreciation Gifts, Bulk Gifts for Coworkers",
+      "brand": "TBULAPUS",
+      "price": 32.99,
+      "salesParent": 507,
+      "revenue": 16725.93,
+      "rating": 4.8,
+      "reviews": 84
+    },
+    {
+      "rank": 8,
+      "asin": "B0H8CH9GMW",
+      "title": "Boo Basket for Men, Black Halloween Gifts Baskets Stuffers for Teen Boys, Build a Boo Basket Kit for Him Adults Husband Friend Teacher, 10 PCS Halloween Gifts Set with Glow in the Dark Blanket",
+      "brand": "Trouvaile",
+      "price": 48.99,
+      "salesParent": 353,
+      "revenue": 16622.77,
+      "rating": 4.6,
+      "reviews": 26
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": null,
+    "direction": "flat",
+    "comparable": false,
+    "rawYoyPct": 263,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 721406,
+    "priorHeadRevenue": 198587,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 96,
+      "newCount": 82,
+      "pct": 85,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 37,
+      "brandCount": 83,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.6,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0FZK9V5JH",
+        "title": "Sunshine Gift Baskets Get Well Care Package Birthday Gifts for Women Friend",
+        "rating": 4.7,
+        "reviews": 147
+      },
+      {
+        "rank": 2,
+        "asin": "B0DXTDKXR6",
+        "title": "Crweety 50 Pcs Organza Bags 3x4, Pink Small Mesh Gift Wrap Set Drawstring",
+        "rating": 4.7,
+        "reviews": 1309
+      },
+      {
+        "rank": 3,
+        "asin": "B0H695G897",
+        "title": "Thank You Gifts for Boss Female, Boss Gifts for Women",
+        "rating": 4.9,
+        "reviews": 98
+      },
+      {
+        "rank": 4,
+        "asin": "B0G2LLXTD2",
+        "title": "Funnymoom 12 Pcs Pastel Plaid Gift Baskets with Cellophane Bags and Pull Bows, Macaron Color Paper Gift Basket for Summer Party Favors, Wedding Birthday, Baby Shower 9.8 x 6.5 x 4.3 Inch",
+        "rating": 4.6,
+        "reviews": 45
+      },
+      {
+        "rank": 5,
+        "asin": "B0CBB1C4LR",
+        "title": "AFOROEOA 10PACK Baskets For Gifts Empty, 10x12”Thick Kraft Gift Basket with 10 Bows 10 Bags Empty Gift Baskets for Christmas, Valentine’s Day, Easter, Birthdays, Snacks, Farmers Market",
+        "rating": 4.6,
+        "reviews": 347
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:723418011:723452011:723459011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

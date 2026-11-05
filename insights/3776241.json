@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3776241",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Medical Supplies & Equipment > Mobility & Daily Living Aids > Visual Impairment Aids",
+  "categoryPathCn": "健康与家居 > 医疗用品和设备 > 行动和日常生活辅助工具 > 视力辅助用品",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 3164091,
+    "avgRevenue": 31961,
+    "medianPrice": 23.99,
+    "priceBand": "$17.99 - $44.79",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B08XXF1VCS",
+      "title": "JMH Magnifying Glass with Light, Handheld Large Magnifying Glass 18LED Cold and Warm Light with 3 Modes, Illuminated Lighted Magnifier for Seniors Reading, Coins, Jewelry",
+      "brand": "JMH",
+      "price": 9.98,
+      "salesParent": 14398,
+      "revenue": 143692.03,
+      "rating": 4.4,
+      "reviews": 16677
+    },
+    {
+      "rank": 2,
+      "asin": "B0FB8W3Q7Z",
+      "title": "YOCTOSUN Magnifying Glasses with Light,0.75X-4.0X Magnifying Headset",
+      "brand": "YOCTOSUN",
+      "price": 23.99,
+      "salesParent": 5548,
+      "revenue": 133096.52,
+      "rating": 4.6,
+      "reviews": 597
+    },
+    {
+      "rank": 3,
+      "asin": "B0H6H773YX",
+      "title": "MAGNIPROS 5X LED Page Magnifying Glass, Detachable Stand, 3 Color Modes",
+      "brand": "MagniPros",
+      "price": 23.95,
+      "salesParent": 4417,
+      "revenue": 105787.16,
+      "rating": 4.3,
+      "reviews": 5089
+    },
+    {
+      "rank": 4,
+      "asin": "B0D4LMTKBD",
+      "title": "Magnifying Glass with Light, 1.5X-5.0X Magnifying Glasses 4 Lenses",
+      "brand": "GUOUBUO",
+      "price": 23.99,
+      "salesParent": 3989,
+      "revenue": 95696.11,
+      "rating": 4.4,
+      "reviews": 1957
+    },
+    {
+      "rank": 5,
+      "asin": "B0DC69PWQH",
+      "title": "Large Magnifying Glass with 37 LED Light, 10X 20X 45X Handheld Illuminated",
+      "brand": "GABORISH",
+      "price": 26.99,
+      "salesParent": 3381,
+      "revenue": 80670.66,
+      "rating": 4.5,
+      "reviews": 903
+    },
+    {
+      "rank": 6,
+      "asin": "B0H49L15JM",
+      "title": "30X 12X Rectangle Magnifying Glass with Light and Stand, Real Glass Lens",
+      "brand": "MagnieOpti",
+      "price": 36.99,
+      "salesParent": 2128,
+      "revenue": 78714.73,
+      "rating": 4.6,
+      "reviews": 206
+    },
+    {
+      "rank": 7,
+      "asin": "B07S5RZJDR",
+      "title": "MagniPros 5X Rechargeable LED Page Magnifier with 3 Color Light Modes-Black",
+      "brand": "MagniPros",
+      "price": 19.95,
+      "salesParent": 3732,
+      "revenue": 74453.41,
+      "rating": 4.4,
+      "reviews": 8341
+    },
+    {
+      "rank": 8,
+      "asin": "B0GXYCLLRZ",
+      "title": "Large Magnifying Glass with Light: 10X 30X 5IN Lighted Handheld Magnifier with 13 LED Lights 3 Modes, 1150mAh Rechargeable Magnifying Lens Gift for Seniors Reading Coins Close Work-Black+White",
+      "brand": "Yuftechs",
+      "price": 19.98,
+      "salesParent": 3762,
+      "revenue": 71816.58,
+      "rating": 4.6,
+      "reviews": 247
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 20,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 20,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 3164091,
+    "priorHeadRevenue": 2634644,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 44,
+      "pct": 44,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 34,
+      "brandCount": 64,
+      "level": "分散",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.37,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B08XXF1VCS",
+        "title": "JMH Magnifying Glass with Light, Handheld Large Magnifying Glass 18LED Cold and Warm Light with 3 Modes, Illuminated Lighted Magnifier for Seniors Reading, Coins, Jewelry",
+        "rating": 4.4,
+        "reviews": 16677
+      },
+      {
+        "rank": 2,
+        "asin": "B0FB8W3Q7Z",
+        "title": "YOCTOSUN Magnifying Glasses with Light,0.75X-4.0X Magnifying Headset",
+        "rating": 4.6,
+        "reviews": 597
+      },
+      {
+        "rank": 3,
+        "asin": "B0H6H773YX",
+        "title": "MAGNIPROS 5X LED Page Magnifying Glass, Detachable Stand, 3 Color Modes",
+        "rating": 4.3,
+        "reviews": 5089
+      },
+      {
+        "rank": 4,
+        "asin": "B0D4LMTKBD",
+        "title": "Magnifying Glass with Light, 1.5X-5.0X Magnifying Glasses 4 Lenses",
+        "rating": 4.4,
+        "reviews": 1957
+      },
+      {
+        "rank": 5,
+        "asin": "B0DC69PWQH",
+        "title": "Large Magnifying Glass with 37 LED Light, 10X 20X 45X Handheld Illuminated",
+        "rating": 4.5,
+        "reviews": 903
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3775161:8624314011:3776241",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

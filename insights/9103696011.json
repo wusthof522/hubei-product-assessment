@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "9103696011",
+  "level": "L4",
+  "categoryPathEn": "Clothing, Shoes & Jewelry > Novelty & More > Clothing > Novelty",
+  "categoryPathCn": "服装、鞋履和珠宝 > 新颖性及更多 > 服装 > 新奇",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 94,
+    "totalRevenue": 56909940,
+    "avgRevenue": 605425,
+    "medianPrice": 29.99,
+    "priceBand": "$19.99 - $37.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0D77K99ZR",
+      "title": "COSUSKET Snug Fit Unisex Adult Onesie Pajamas, Flannel Cosplay Animal One Piece Halloween Costume Sleepwear Homewear",
+      "brand": "COSUSKET",
+      "price": 29.99,
+      "salesParent": 134696,
+      "revenue": 4346640.0,
+      "rating": 4.7,
+      "reviews": 6640
+    },
+    {
+      "rank": 2,
+      "asin": "B0H8XWCVRS",
+      "title": "Unisex Adult Onesie Pajamas Animal One Piece Snug Fit Halloween Costume Sleepwear Homewear",
+      "brand": "JUOLOET",
+      "price": 39.99,
+      "salesParent": 75550,
+      "revenue": 3021244.75,
+      "rating": 4.6,
+      "reviews": 752
+    },
+    {
+      "rank": 3,
+      "asin": "B0H25YSLDD",
+      "title": "Women's Y2K Mini Skirt Ruffle Lace Mesh Asymmetrical Flowy Short Skort",
+      "brand": "EnchantingEssence",
+      "price": 36.99,
+      "salesParent": 76950,
+      "revenue": 2846380.75,
+      "rating": 5.0,
+      "reviews": 2
+    },
+    {
+      "rank": 4,
+      "asin": "B0BRMV3N9R",
+      "title": "Snug Fit Unisex Adult Onesie Pajamas, Flannel Cosplay Animal One Piece Halloween Costume Sleepwear Homewear",
+      "brand": "COSUSKET",
+      "price": 32.99,
+      "salesParent": 57899,
+      "revenue": 1753181.75,
+      "rating": 4.7,
+      "reviews": 4354
+    },
+    {
+      "rank": 5,
+      "asin": "B0CXPNMZ1F",
+      "title": "Women's Chiffon Elastic High Waist Pleated A-Line Maxi Skirts",
+      "brand": "NASHALYLY",
+      "price": 40.99,
+      "salesParent": 35123,
+      "revenue": 1439691.88,
+      "rating": 4.5,
+      "reviews": 11892
+    },
+    {
+      "rank": 6,
+      "asin": "B07YVM3XM2",
+      "title": "Funziez! Adult Onesie Halloween Costume One Piece Cosplay for Men and Women",
+      "brand": "Funziez!",
+      "price": 29.99,
+      "salesParent": 45613,
+      "revenue": 1406704.88,
+      "rating": 4.4,
+      "reviews": 24589
+    },
+    {
+      "rank": 7,
+      "asin": "B0CDL7WDYL",
+      "title": "ATOZ Onesie for Kids, Animal Pajamas Halloween Cosplay Costume Girls Boys",
+      "brand": "ATOZ",
+      "price": 38.99,
+      "salesParent": 40873,
+      "revenue": 1342269.38,
+      "rating": 4.4,
+      "reviews": 2769
+    },
+    {
+      "rank": 8,
+      "asin": "B0C6QZJTP8",
+      "title": "Women's Satin High Waisted Maxi Skirts A Line Silk Long Skirt",
+      "brand": "Outoshe",
+      "price": 37.99,
+      "salesParent": 30783,
+      "revenue": 1090026.0,
+      "rating": 4.4,
+      "reviews": 2615
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 24,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 24,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 56909940,
+    "priorHeadRevenue": 45922809,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 94,
+      "newCount": 41,
+      "pct": 44,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 34,
+      "brandCount": 76,
+      "level": "分散",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.37,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0D77K99ZR",
+        "title": "COSUSKET Snug Fit Unisex Adult Onesie Pajamas, Flannel Cosplay Animal One Piece Halloween Costume Sleepwear Homewear",
+        "rating": 4.7,
+        "reviews": 6640
+      },
+      {
+        "rank": 2,
+        "asin": "B0H8XWCVRS",
+        "title": "Unisex Adult Onesie Pajamas Animal One Piece Snug Fit Halloween Costume Sleepwear Homewear",
+        "rating": 4.6,
+        "reviews": 752
+      },
+      {
+        "rank": 3,
+        "asin": "B0H25YSLDD",
+        "title": "Women's Y2K Mini Skirt Ruffle Lace Mesh Asymmetrical Flowy Short Skort",
+        "rating": 5.0,
+        "reviews": 2
+      },
+      {
+        "rank": 4,
+        "asin": "B0BRMV3N9R",
+        "title": "Snug Fit Unisex Adult Onesie Pajamas, Flannel Cosplay Animal One Piece Halloween Costume Sleepwear Homewear",
+        "rating": 4.7,
+        "reviews": 4354
+      },
+      {
+        "rank": 5,
+        "asin": "B0CXPNMZ1F",
+        "title": "Women's Chiffon Elastic High Waist Pleated A-Line Maxi Skirts",
+        "rating": 4.5,
+        "reviews": 11892
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "7141123011:7147445011:12035955011:9103696011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

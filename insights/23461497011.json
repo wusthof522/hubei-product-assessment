@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23461497011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Medical Supplies & Equipment > Medical Compression Garments > Socks",
+  "categoryPathCn": "健康与家居 > 医疗用品和设备 > 医用压缩服 > 袜子",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 97,
+    "totalRevenue": 3396180,
+    "avgRevenue": 35012,
+    "medianPrice": 19.99,
+    "priceBand": "$17.48 - $31.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B01LA8QK68",
+      "title": "SB SOX Compression Socks for Men &amp; Women (20-30mmHg) | Best Quality Compression Socks for Flying, Medical, Sports, Wide Calf Fit, Pregnancy, and Daily Wear. Trusted since 2016.",
+      "brand": "SB SOX",
+      "price": 18.95,
+      "salesParent": 13998,
+      "revenue": 257003.28,
+      "rating": 4.4,
+      "reviews": 55343
+    },
+    {
+      "rank": 2,
+      "asin": "B0C3RMTKZG",
+      "title": "Doctor's Select® Plus Size Compression Socks for Women Wide Calf - 3 Pairs",
+      "brand": "Doctor's Select",
+      "price": 25.95,
+      "salesParent": 5429,
+      "revenue": 134639.2,
+      "rating": 4.4,
+      "reviews": 4385
+    },
+    {
+      "rank": 3,
+      "asin": "B019HLGR4A",
+      "title": "ABSOLUTE SUPPORT Sheer Womens Compression Socks 15-20 mmHg",
+      "brand": "ABSOLUTE SUPPORT",
+      "price": 19.98,
+      "salesParent": 6517,
+      "revenue": 127211.84,
+      "rating": 4.3,
+      "reviews": 8420
+    },
+    {
+      "rank": 4,
+      "asin": "B0DWVDFLM3",
+      "title": "Copper Fit Mobilizer Compression Socks Easy On &amp; Off Improves Circulation, Reduces Swelling for Men &amp; Women, Work &amp; Running",
+      "brand": "Copper Fit",
+      "price": 59.97,
+      "salesParent": 2102,
+      "revenue": 126057.0,
+      "rating": 4.3,
+      "reviews": 1040
+    },
+    {
+      "rank": 5,
+      "asin": "B0BWF64QPV",
+      "title": "LEVSOX Plus Size Compression Socks for Women Men Wide Calf Extra Large 15-20 mmHg Knee High Sock for Nurses Pregnant Travel",
+      "brand": "LEVSOX",
+      "price": 19.98,
+      "salesParent": 4908,
+      "revenue": 109742.88,
+      "rating": 4.5,
+      "reviews": 5092
+    },
+    {
+      "rank": 6,
+      "asin": "B07X4HLHL2",
+      "title": "Ankle Compression Sleeve - 1-Pair, Plantar Fasciitis Braces - Open Toe Compression Socks for Swelling, Sprain, Neuropathy, Foot Arch Support for Men and Women - 20-30mmhg, S/M, Beige",
+      "brand": "KEMFORD",
+      "price": 14.95,
+      "salesParent": 7131,
+      "revenue": 106608.0,
+      "rating": 4.3,
+      "reviews": 11125
+    },
+    {
+      "rank": 7,
+      "asin": "B0H6PTF31L",
+      "title": "Compression Socks Women &amp; Men for Nurse Travel Flying Running Cycling",
+      "brand": "RUIXUE",
+      "price": 14.97,
+      "salesParent": 3644,
+      "revenue": 102797.0,
+      "rating": 4.5,
+      "reviews": 861
+    },
+    {
+      "rank": 8,
+      "asin": "B0CL17V9M2",
+      "title": "TheraMagic® Zipper Compression Socks for Men &amp; Women, 20-30mmHg Closed Toe Graduated Zippered Compression Stocking",
+      "brand": "Theramagic",
+      "price": 25.95,
+      "salesParent": 3328,
+      "revenue": 86361.6,
+      "rating": 4.3,
+      "reviews": 506
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -12,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -12,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 3396180,
+    "priorHeadRevenue": 3843257,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 97,
+      "newCount": 16,
+      "pct": 16,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 34,
+      "brandCount": 50,
+      "level": "分散",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.28,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B01LA8QK68",
+        "title": "SB SOX Compression Socks for Men &amp; Women (20-30mmHg) | Best Quality Compression Socks for Flying, Medical, Sports, Wide Calf Fit, Pregnancy, and Daily Wear. Trusted since 2016.",
+        "rating": 4.4,
+        "reviews": 55343
+      },
+      {
+        "rank": 2,
+        "asin": "B0C3RMTKZG",
+        "title": "Doctor's Select® Plus Size Compression Socks for Women Wide Calf - 3 Pairs",
+        "rating": 4.4,
+        "reviews": 4385
+      },
+      {
+        "rank": 3,
+        "asin": "B019HLGR4A",
+        "title": "ABSOLUTE SUPPORT Sheer Womens Compression Socks 15-20 mmHg",
+        "rating": 4.3,
+        "reviews": 8420
+      },
+      {
+        "rank": 4,
+        "asin": "B0DWVDFLM3",
+        "title": "Copper Fit Mobilizer Compression Socks Easy On &amp; Off Improves Circulation, Reduces Swelling for Men &amp; Women, Work &amp; Running",
+        "rating": 4.3,
+        "reviews": 1040
+      },
+      {
+        "rank": 5,
+        "asin": "B0BWF64QPV",
+        "title": "LEVSOX Plus Size Compression Socks for Women Men Wide Calf Extra Large 15-20 mmHg Knee High Sock for Nurses Pregnant Travel",
+        "rating": 4.5,
+        "reviews": 5092
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3775161:23461496011:23461497011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3733831",
+  "level": "L4",
+  "categoryPathEn": "Home & Kitchen > Furniture > Kitchen & Dining Room Furniture > Buffets & Sideboards",
+  "categoryPathCn": "家居用品 > 家具 > 厨房 > 餐边柜、餐具柜",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 87,
+    "totalRevenue": 6410235,
+    "avgRevenue": 73681,
+    "medianPrice": 229.99,
+    "priceBand": "$159.99 - $329.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0H3KC5GQ9",
+      "title": "BELLEZE Bijou 64&quot; Sideboard Buffet Cabinet - Ebony",
+      "brand": "BELLEZE",
+      "price": 379.99,
+      "salesParent": 762,
+      "revenue": 289552.38,
+      "rating": 3.0,
+      "reviews": 2
+    },
+    {
+      "rank": 2,
+      "asin": "B0H3KJG12S",
+      "title": "BELLEZE Bijou 64&quot; Sideboard Buffet Cabinet - Camel",
+      "brand": "BELLEZE",
+      "price": 399.99,
+      "salesParent": 727,
+      "revenue": 271658.09,
+      "rating": 1.5,
+      "reviews": 2
+    },
+    {
+      "rank": 3,
+      "asin": "B0DRRTR25P",
+      "title": "Evermagin 67&quot; Fluted Walnut Buffet Cabinet with Storage",
+      "brand": "Evermagin",
+      "price": 329.99,
+      "salesParent": 754,
+      "revenue": 222739.14,
+      "rating": 4.3,
+      "reviews": 301
+    },
+    {
+      "rank": 4,
+      "asin": "B0DTKDC297",
+      "title": "HOSTACK 60&quot; W Sideboard Buffet Cabinet with Storage, Kitchen Cabinet, White",
+      "brand": "HOSTACK",
+      "price": 227.99,
+      "salesParent": 849,
+      "revenue": 193563.52,
+      "rating": 4.3,
+      "reviews": 501
+    },
+    {
+      "rank": 5,
+      "asin": "B0H82DLFMW",
+      "title": "usikey 63&quot; Buffet Cabinet with Storage &amp; 4 Adjustable Shelves",
+      "brand": "usikey",
+      "price": 199.99,
+      "salesParent": 852,
+      "revenue": 166898.28,
+      "rating": 4.2,
+      "reviews": 1
+    },
+    {
+      "rank": 6,
+      "asin": "B0CTZW95B8",
+      "title": "HOSTACK Kitchen Buffet Sideboard Storage Cabinet, Coffee Bar Cabinet, White",
+      "brand": "HOSTACK",
+      "price": 169.99,
+      "salesParent": 965,
+      "revenue": 164069.3,
+      "rating": 4.5,
+      "reviews": 1449
+    },
+    {
+      "rank": 7,
+      "asin": "B0H4V5DSPV",
+      "title": "usikey 63&quot; Buffet Cabinet with Storage, 2 Adjustable Shelves &amp; 2 Drawers",
+      "brand": "usikey",
+      "price": 169.97,
+      "salesParent": 877,
+      "revenue": 149063.69,
+      "rating": 4.1,
+      "reviews": 7
+    },
+    {
+      "rank": 8,
+      "asin": "B0GQ3HP7H2",
+      "title": "VividVibe Sideboard Cabinet, 94.11&quot; Buffet Fluted Cabinet, Light Oak",
+      "brand": "VividVibe",
+      "price": 507.99,
+      "salesParent": 298,
+      "revenue": 148406.98,
+      "rating": 4.4,
+      "reviews": 38
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -7,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -7,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 6410235,
+    "priorHeadRevenue": 6856722,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 87,
+      "newCount": 54,
+      "pct": 62,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 42,
+      "brandCount": 50,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.36,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0H3KC5GQ9",
+        "title": "BELLEZE Bijou 64&quot; Sideboard Buffet Cabinet - Ebony",
+        "rating": 3.0,
+        "reviews": 2
+      },
+      {
+        "rank": 2,
+        "asin": "B0H3KJG12S",
+        "title": "BELLEZE Bijou 64&quot; Sideboard Buffet Cabinet - Camel",
+        "rating": 1.5,
+        "reviews": 2
+      },
+      {
+        "rank": 3,
+        "asin": "B0DRRTR25P",
+        "title": "Evermagin 67&quot; Fluted Walnut Buffet Cabinet with Storage",
+        "rating": 4.3,
+        "reviews": 301
+      },
+      {
+        "rank": 4,
+        "asin": "B0DTKDC297",
+        "title": "HOSTACK 60&quot; W Sideboard Buffet Cabinet with Storage, Kitchen Cabinet, White",
+        "rating": 4.3,
+        "reviews": 501
+      },
+      {
+        "rank": 5,
+        "asin": "B0H82DLFMW",
+        "title": "usikey 63&quot; Buffet Cabinet with Storage &amp; 4 Adjustable Shelves",
+        "rating": 4.2,
+        "reviews": 1
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "1055398:1063306:3733781:3733831",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

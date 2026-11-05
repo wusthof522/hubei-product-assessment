@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "166244011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Games & Accessories > Card Games > Standard Playing Card Decks",
+  "categoryPathCn": "玩具 > 游戏 > 纸牌游戏 > 标准扑克牌组",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 1698431,
+    "avgRevenue": 16984,
+    "medianPrice": 12.95,
+    "priceBand": "$9.91 - $21.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B00E4AMFKK",
+      "title": "Bicycle Playing Cards 2 Pack Standard Poker Size Red and Blue",
+      "brand": "Bicycle",
+      "price": 5.34,
+      "salesParent": 54635,
+      "revenue": 295575.34,
+      "rating": 4.8,
+      "reviews": 1582
+    },
+    {
+      "rank": 2,
+      "asin": "B08DJ7BM11",
+      "title": "Bicycle Rider Back Playing Cards 12 Pack Poker Size Standard Index",
+      "brand": "Bicycle",
+      "price": 24.99,
+      "salesParent": 5558,
+      "revenue": 138894.42,
+      "rating": 4.8,
+      "reviews": 6569
+    },
+    {
+      "rank": 3,
+      "asin": "B07YYS5VMK",
+      "title": "Maverick Playing Cards 12 Pack, Standard Index, Bulk Red and Blue Decks",
+      "brand": "Maverick",
+      "price": 11.99,
+      "salesParent": 9848,
+      "revenue": 126152.88,
+      "rating": 4.7,
+      "reviews": 9734
+    },
+    {
+      "rank": 4,
+      "asin": "B071G7Y3XL",
+      "title": "LotFancy Playing Cards, 12 Pack, Decks of Cards Bulk, Standard Poker Size",
+      "brand": "LotFancy",
+      "price": 16.99,
+      "salesParent": 5152,
+      "revenue": 83307.84,
+      "rating": 4.7,
+      "reviews": 14353
+    },
+    {
+      "rank": 5,
+      "asin": "B0CX4PJMSN",
+      "title": "Disney Alice in Wonderland Inspired Playing Cards 1 Deck by Bicycle",
+      "brand": "Bicycle",
+      "price": 9.94,
+      "salesParent": 6727,
+      "revenue": 63839.23,
+      "rating": 4.8,
+      "reviews": 829
+    },
+    {
+      "rank": 6,
+      "asin": "B0GS5V4W4M",
+      "title": "Playing Cards, 16 Decks of Cards Bulk Standard Size Poker Cards, Perfect for Classic Card Games, Party Games, Blackjack, Card Games for Families &amp; Magic Performances (Red/Blue)",
+      "brand": "BGUP",
+      "price": 14.99,
+      "salesParent": 2750,
+      "revenue": 41195.0,
+      "rating": 4.6,
+      "reviews": 147
+    },
+    {
+      "rank": 7,
+      "asin": "B000J3Z7TC",
+      "title": "Hoyle Waterproof Clear Plastic Playing Cards 1 Deck Outdoor Pool",
+      "brand": "Hoyle",
+      "price": 5.69,
+      "salesParent": 7062,
+      "revenue": 40182.78,
+      "rating": 4.7,
+      "reviews": 25035
+    },
+    {
+      "rank": 8,
+      "asin": "B000SA5BJ2",
+      "title": "Copag 1546 Design 100% Plastic Playing Cards, Poker Size (Standard) Red/Blue (Jumbo Index, 1 Set)",
+      "brand": "Copag",
+      "price": 21.99,
+      "salesParent": 1758,
+      "revenue": 38658.42,
+      "rating": 4.7,
+      "reviews": 1888
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -4,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -4,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1698431,
+    "priorHeadRevenue": 1774336,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 24,
+      "pct": 24,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 64,
+      "brandCount": 48,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.65,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B00E4AMFKK",
+        "title": "Bicycle Playing Cards 2 Pack Standard Poker Size Red and Blue",
+        "rating": 4.8,
+        "reviews": 1582
+      },
+      {
+        "rank": 2,
+        "asin": "B08DJ7BM11",
+        "title": "Bicycle Rider Back Playing Cards 12 Pack Poker Size Standard Index",
+        "rating": 4.8,
+        "reviews": 6569
+      },
+      {
+        "rank": 3,
+        "asin": "B07YYS5VMK",
+        "title": "Maverick Playing Cards 12 Pack, Standard Index, Bulk Red and Blue Decks",
+        "rating": 4.7,
+        "reviews": 9734
+      },
+      {
+        "rank": 4,
+        "asin": "B071G7Y3XL",
+        "title": "LotFancy Playing Cards, 12 Pack, Decks of Cards Bulk, Standard Poker Size",
+        "rating": 4.7,
+        "reviews": 14353
+      },
+      {
+        "rank": 5,
+        "asin": "B0CX4PJMSN",
+        "title": "Disney Alice in Wonderland Inspired Playing Cards 1 Deck by Bicycle",
+        "rating": 4.8,
+        "reviews": 829
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166220011:166239011:166244011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

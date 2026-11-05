@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "228899",
+  "level": "L2",
+  "categoryPathEn": "Tools & Home Improvement > Paint, Wall Treatments & Supplies",
+  "categoryPathCn": "工具 > 正面，正面照",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 18363320,
+    "avgRevenue": 185488,
+    "medianPrice": 39.88,
+    "priceBand": "$16.78 - $92.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0171RENA2",
+      "title": "Rust-Oleum Stops Rust Spray Paint, Semi-Gloss Black",
+      "brand": "Rust-Oleum",
+      "price": 41.88,
+      "salesParent": 24885,
+      "revenue": 1013068.31,
+      "rating": 4.7,
+      "reviews": 8827
+    },
+    {
+      "rank": 2,
+      "asin": "B002BWOS5I",
+      "title": "Rust-Oleum Painter's Touch 2X Ultra Cover Spray Paint, Gloss Clear",
+      "brand": "Rust-Oleum",
+      "price": 5.99,
+      "salesParent": 107706,
+      "revenue": 645158.94,
+      "rating": 4.7,
+      "reviews": 41224
+    },
+    {
+      "rank": 3,
+      "asin": "B01NCAOAQI",
+      "title": "ALL-IN-ONE Paint by Heirloom Traditions, Iron Gate, Quart",
+      "brand": "Heirloom Traditions Paint",
+      "price": 44.4,
+      "salesParent": 11464,
+      "revenue": 509001.62,
+      "rating": 4.4,
+      "reviews": 12963
+    },
+    {
+      "rank": 4,
+      "asin": "B0BJ2JYPGG",
+      "title": "VONFORN Paint Sprayer, 700W Spray Paint Gun with 4 Nozzles &amp; 3 Patterns",
+      "brand": "VONFORN",
+      "price": 59.99,
+      "salesParent": 8103,
+      "revenue": 415683.91,
+      "rating": 4.3,
+      "reviews": 8281
+    },
+    {
+      "rank": 5,
+      "asin": "B00OA5V19K",
+      "title": "Rubio Monocoat Oil Plus 2C, 175 ft², Wood Stain, Pure, 350 mL",
+      "brand": "Rubio Monocoat",
+      "price": 62.99,
+      "salesParent": 5863,
+      "revenue": 369310.38,
+      "rating": 4.6,
+      "reviews": 5728
+    },
+    {
+      "rank": 6,
+      "asin": "B07JHQ4L4F",
+      "title": "Pro Grade Paint Brushes, Paint Brush Set for Walls, Trim &amp; Stain, 5-Piece",
+      "brand": "Pro Grade",
+      "price": 7.98,
+      "salesParent": 46202,
+      "revenue": 369153.97,
+      "rating": 4.6,
+      "reviews": 72599
+    },
+    {
+      "rank": 7,
+      "asin": "B01N5UWECM",
+      "title": "Rust-Oleum Professional High Performance Gloss Black Spray Paint",
+      "brand": "Rust-Oleum",
+      "price": 46.54,
+      "salesParent": 7733,
+      "revenue": 359893.81,
+      "rating": 4.7,
+      "reviews": 13801
+    },
+    {
+      "rank": 8,
+      "asin": "B07TRCJJS3",
+      "title": "Coogam 60PCS Halloween Bats Decoration, 4 Different Sizes Realistic PVC Black 3D Scary Bat Sticker for Home Decor DIY Wall Decal Bathroom Indoor Hallowmas Party Supplies",
+      "brand": "Coogam",
+      "price": 10.99,
+      "salesParent": 35499,
+      "revenue": 351085.12,
+      "rating": 4.4,
+      "reviews": 8205
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 23,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 23,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 18363320,
+    "priorHeadRevenue": 14902532,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 19,
+      "pct": 19,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 45,
+      "brandCount": 62,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.37,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0171RENA2",
+        "title": "Rust-Oleum Stops Rust Spray Paint, Semi-Gloss Black",
+        "rating": 4.7,
+        "reviews": 8827
+      },
+      {
+        "rank": 2,
+        "asin": "B002BWOS5I",
+        "title": "Rust-Oleum Painter's Touch 2X Ultra Cover Spray Paint, Gloss Clear",
+        "rating": 4.7,
+        "reviews": 41224
+      },
+      {
+        "rank": 3,
+        "asin": "B01NCAOAQI",
+        "title": "ALL-IN-ONE Paint by Heirloom Traditions, Iron Gate, Quart",
+        "rating": 4.4,
+        "reviews": 12963
+      },
+      {
+        "rank": 4,
+        "asin": "B0BJ2JYPGG",
+        "title": "VONFORN Paint Sprayer, 700W Spray Paint Gun with 4 Nozzles &amp; 3 Patterns",
+        "rating": 4.3,
+        "reviews": 8281
+      },
+      {
+        "rank": 5,
+        "asin": "B00OA5V19K",
+        "title": "Rubio Monocoat Oil Plus 2C, 175 ft², Wood Stain, Pure, 350 mL",
+        "rating": 4.6,
+        "reviews": 5728
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "228013:228899",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

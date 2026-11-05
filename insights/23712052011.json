@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23712052011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Remote & App Controlled Vehicles & Parts > Remote & App Controlled Vehicles > Armored Fighting Vehicles",
+  "categoryPathCn": "玩具 > 遥控 > 遥控 > 装甲战车",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 261776,
+    "avgRevenue": 2644,
+    "medianPrice": 127.99,
+    "priceBand": "$47.99 - $212.0",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0FZGXDKWZ",
+      "title": "1/24 RC Tank-Remote Control Army Tank toy that Shoot BBS with Smoke,Light",
+      "brand": "Supdex",
+      "price": 45.99,
+      "salesParent": 274,
+      "revenue": 13006.78,
+      "rating": 4.3,
+      "reviews": 112
+    },
+    {
+      "rank": 2,
+      "asin": "B0DXFHGQDT",
+      "title": "1/24 RC Tank, Remote Control Ger Leopard II Army Model Tank with Sound Effects, Lights and Smoke, 2.4G Military Model Toy, Perfect Birthday for Boys 8+ Years Old",
+      "brand": "Supdex",
+      "price": 39.99,
+      "salesParent": 271,
+      "revenue": 10837.29,
+      "rating": 4.6,
+      "reviews": 81
+    },
+    {
+      "rank": 3,
+      "asin": "B07BCMDMLD",
+      "title": "1/16 2.4ghz Remote Control German Tiger I Gray Color Tank Adults Model Toy(Upgraded/Metal Road Wheel &amp; Tracks &amp; Sprocket Wheel &amp; Idle Wheel)(Steel Gear Gearbox)(5000mah Nimh Battery)(Airsoft)",
+      "brand": "Heng Long",
+      "price": 269.99,
+      "salesParent": 33,
+      "revenue": 8909.67,
+      "rating": 4.4,
+      "reviews": 102
+    },
+    {
+      "rank": 4,
+      "asin": "B0FHVK3388",
+      "title": "2 Pack Cute Cartoon Remote Control Battle Tanks with Laser tag",
+      "brand": "bessome",
+      "price": 42.99,
+      "salesParent": 177,
+      "revenue": 8869.47,
+      "rating": 4.4,
+      "reviews": 141
+    },
+    {
+      "rank": 5,
+      "asin": "B0DFYB1LHX",
+      "title": "1/16 RC Tank, Heng Long US M1A2 Abrams Army Toy with Smoke, Sound and Lights, Remote Control Tank that Shoots with Upgraded Metal Tracks, Idler and Sprocket Wheel, Steel Gearbox, Batteries*2",
+      "brand": "Supdex",
+      "price": 299.99,
+      "salesParent": 29,
+      "revenue": 8699.71,
+      "rating": 3.9,
+      "reviews": 18
+    },
+    {
+      "rank": 6,
+      "asin": "B07BFF9YQF",
+      "title": "Modified Edition 1/16 2.4ghz Remote Control German King Tiger Henschel Tank Model(360-Degree Rotating Turret)(Steel Gear Gearbox)(3800mah Battery)(Metal Tracks &amp;Sprocket Wheel &amp; Idle Wheel)",
+      "brand": "Heng Long",
+      "price": 279.99,
+      "salesParent": 27,
+      "revenue": 7559.73,
+      "rating": 4.4,
+      "reviews": 132
+    },
+    {
+      "rank": 7,
+      "asin": "B0FZHY14YH",
+      "title": "1:18 RC Tank, 2.4G US Metal M1A2 Remote Control Tank that Shoot BBS Model Toys, Army Toy with Smoke, Lights, Sound and Recoil,Military RC Vehicle for boy 8+ Years Old",
+      "brand": "Supdex",
+      "price": 159.99,
+      "salesParent": 41,
+      "revenue": 6559.59,
+      "rating": 4.7,
+      "reviews": 17
+    },
+    {
+      "rank": 8,
+      "asin": "B0FZ8VJXXD",
+      "title": "1/18 RC Tank, 2.4G US M4A3 Sherman Remote Control Tank that Shoot BBS with Smoke, Sound and Lights, 165ft Remote Control Army Model Toy, Military All-Terrain Vehicle for 8 yesrs Old",
+      "brand": "Supdex",
+      "price": 129.99,
+      "salesParent": 47,
+      "revenue": 6109.53,
+      "rating": 4.3,
+      "reviews": 24
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -17,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -17,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 261776,
+    "priorHeadRevenue": 315123,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 46,
+      "pct": 46,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 67,
+      "brandCount": 40,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.43,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0FZGXDKWZ",
+        "title": "1/24 RC Tank-Remote Control Army Tank toy that Shoot BBS with Smoke,Light",
+        "rating": 4.3,
+        "reviews": 112
+      },
+      {
+        "rank": 2,
+        "asin": "B0DXFHGQDT",
+        "title": "1/24 RC Tank, Remote Control Ger Leopard II Army Model Tank with Sound Effects, Lights and Smoke, 2.4G Military Model Toy, Perfect Birthday for Boys 8+ Years Old",
+        "rating": 4.6,
+        "reviews": 81
+      },
+      {
+        "rank": 3,
+        "asin": "B07BCMDMLD",
+        "title": "1/16 2.4ghz Remote Control German Tiger I Gray Color Tank Adults Model Toy(Upgraded/Metal Road Wheel &amp; Tracks &amp; Sprocket Wheel &amp; Idle Wheel)(Steel Gear Gearbox)(5000mah Nimh Battery)(Airsoft)",
+        "rating": 4.4,
+        "reviews": 102
+      },
+      {
+        "rank": 4,
+        "asin": "B0FHVK3388",
+        "title": "2 Pack Cute Cartoon Remote Control Battle Tanks with Laser tag",
+        "rating": 4.4,
+        "reviews": 141
+      },
+      {
+        "rank": 5,
+        "asin": "B0DFYB1LHX",
+        "title": "1/16 RC Tank, Heng Long US M1A2 Abrams Army Toy with Smoke, Sound and Lights, Remote Control Tank that Shoots with Upgraded Metal Tracks, Idler and Sprocket Wheel, Steel Gearbox, Batteries*2",
+        "rating": 3.9,
+        "reviews": 18
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:6925830011:166583011:23712052011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

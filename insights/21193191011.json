@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "21193191011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Oral Care > Teeth Whitening > Whitening Kits",
+  "categoryPathCn": "Health & Household > Oral Care > Teeth Whitening > Whitening Kits",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 8839704,
+    "avgRevenue": 89290,
+    "medianPrice": 29.99,
+    "priceBand": "$19.99 - $54.39",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B00ER5NN3K",
+      "title": "Opalescence Go 15% Mint - Prefilled Teeth Whitening Trays - 5194",
+      "brand": "Opalescence",
+      "price": 84.0,
+      "salesParent": 20915,
+      "revenue": 1748494.0,
+      "rating": 4.3,
+      "reviews": 11139
+    },
+    {
+      "rank": 2,
+      "asin": "B0BVT76MFH",
+      "title": "Crest 3DWhitestrips Sensitive White At-Home Teeth Whitening Kit, 18 Treatments, Gently Removes 15 Years of Stains",
+      "brand": "Crest",
+      "price": 34.38,
+      "salesParent": 44155,
+      "revenue": 1568385.62,
+      "rating": 4.4,
+      "reviews": 6474
+    },
+    {
+      "rank": 3,
+      "asin": "B0DT7KSRJM",
+      "title": "Opalescence GO 15 Teeth Whitening Trays Bundle - Hydrogen Peroxide 6288-T",
+      "brand": "Opalescence",
+      "price": 64.0,
+      "salesParent": 14970,
+      "revenue": 958080.0,
+      "rating": 4.3,
+      "reviews": 3035
+    },
+    {
+      "rank": 4,
+      "asin": "B0BK2SC18T",
+      "title": "GuruNanda Teeth Whitening Strips - 4X Whiter Teeth, 7-Day Whitening Kit",
+      "brand": "GuruNanda",
+      "price": 9.97,
+      "salesParent": 84862,
+      "revenue": 846074.19,
+      "rating": 4.4,
+      "reviews": 22922
+    },
+    {
+      "rank": 5,
+      "asin": "B077YCC84H",
+      "title": "Crest Teeth Whitening Strips, Crest 3D Whitestrips Vivid Plus, Enamel Safe Teeth Whitening Kit, 12 Treatments (24 Strips), Visibly Whitens in Days, 8 Levels Whiter",
+      "brand": "Crest",
+      "price": 29.99,
+      "salesParent": 22786,
+      "revenue": 674921.31,
+      "rating": 4.6,
+      "reviews": 71202
+    },
+    {
+      "rank": 6,
+      "asin": "B09S8JPWMK",
+      "title": "Crest 3D Whitestrips Professional Effects + LED Light – Teeth Whitening Kit, 1 Light + 20 Treatments, Each with 1 Upper/1Lower, 40 Strips – Crest 3DWhite Teeth Whitening Strips",
+      "brand": "Crest",
+      "price": 79.99,
+      "salesParent": 5164,
+      "revenue": 411054.41,
+      "rating": 4.5,
+      "reviews": 3053
+    },
+    {
+      "rank": 7,
+      "asin": "B0H27FTZFB",
+      "title": "Opalescence Go 15 Prefilled Teeth Whitening Trays (7qt) &amp; Toothpaste 6238TS",
+      "brand": "Opalescence",
+      "price": 64.0,
+      "salesParent": 5226,
+      "revenue": 317793.06,
+      "rating": 4.4,
+      "reviews": 851
+    },
+    {
+      "rank": 8,
+      "asin": "B09XJJTGC5",
+      "title": "Opalescence GO Teeth Whitening Trays 15 &amp; Original Toothpaste 5194-5166",
+      "brand": "Opalescence",
+      "price": 89.0,
+      "salesParent": 3222,
+      "revenue": 283439.34,
+      "rating": 4.5,
+      "reviews": 871
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 90,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 90,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 8839704,
+    "priorHeadRevenue": 4655045,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 26,
+      "pct": 26,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 90,
+      "brandCount": 59,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.22,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B00ER5NN3K",
+        "title": "Opalescence Go 15% Mint - Prefilled Teeth Whitening Trays - 5194",
+        "rating": 4.3,
+        "reviews": 11139
+      },
+      {
+        "rank": 2,
+        "asin": "B0BVT76MFH",
+        "title": "Crest 3DWhitestrips Sensitive White At-Home Teeth Whitening Kit, 18 Treatments, Gently Removes 15 Years of Stains",
+        "rating": 4.4,
+        "reviews": 6474
+      },
+      {
+        "rank": 3,
+        "asin": "B0DT7KSRJM",
+        "title": "Opalescence GO 15 Teeth Whitening Trays Bundle - Hydrogen Peroxide 6288-T",
+        "rating": 4.3,
+        "reviews": 3035
+      },
+      {
+        "rank": 4,
+        "asin": "B0BK2SC18T",
+        "title": "GuruNanda Teeth Whitening Strips - 4X Whiter Teeth, 7-Day Whitening Kit",
+        "rating": 4.4,
+        "reviews": 22922
+      },
+      {
+        "rank": 5,
+        "asin": "B077YCC84H",
+        "title": "Crest Teeth Whitening Strips, Crest 3D Whitestrips Vivid Plus, Enamel Safe Teeth Whitening Kit, 12 Treatments (24 Strips), Visibly Whitens in Days, 8 Levels Whiter",
+        "rating": 4.6,
+        "reviews": 71202
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:10079992011:3778441:21193191011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

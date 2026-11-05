@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "10786421",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Sexual Wellness > Safer Sex > Lubricants",
+  "categoryPathCn": "健康与家居 > 性健康 > 安全避孕 > 润滑助性",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "insufficient",
+  "marketSize": {
+    "sampleCount": 8,
+    "totalRevenue": 20527,
+    "avgRevenue": 2566,
+    "medianPrice": 12.95,
+    "priceBand": "$7.5 - $22.49",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0DJ6C54JN",
+      "title": "(Regular) Premium Oil-Based Personal Lubricant for Men - Long Lasting, No Drying Out, Easy Clean Up, Moisturizing 6oz",
+      "brand": "Bator Balm",
+      "price": 24.99,
+      "salesParent": 693,
+      "revenue": 17318.07,
+      "rating": 4.1,
+      "reviews": 56
+    },
+    {
+      "rank": 2,
+      "asin": "B0H9WTDC24",
+      "title": "Female Arousal Gel, Excite Gel for Her, Pleasure Booster- Awakens Natural Arousal and Heightens Sensitivity, Elevates Intimate Experiences for Couples",
+      "brand": "Generic",
+      "price": 17.99,
+      "salesParent": 56,
+      "revenue": 1034.32,
+      "rating": 5.0,
+      "reviews": 1
+    },
+    {
+      "rank": 3,
+      "asin": "B000E260XU",
+      "title": "Surgilube Lubricating Jelly - Sterile - 4.25 Oz Tube - by Fougera",
+      "brand": "Surgilube",
+      "price": 9.98,
+      "salesParent": 94,
+      "revenue": 938.12,
+      "rating": 4.5,
+      "reviews": 730
+    },
+    {
+      "rank": 4,
+      "asin": "B004MEDB4W",
+      "title": "Lubricating Jelly Dyna Lube 4 oz. Tube Sterile",
+      "brand": "Dynarex",
+      "price": 6.92,
+      "salesParent": 104,
+      "revenue": 775.84,
+      "rating": 4.3,
+      "reviews": 76
+    },
+    {
+      "rank": 5,
+      "asin": "B0H261YRR7",
+      "title": "Male Enhancement Grow Cream, Man Re-Vitalize Creams for Private Part",
+      "brand": "QUYAO",
+      "price": 23.99,
+      "salesParent": 12,
+      "revenue": 287.88,
+      "rating": 3.5,
+      "reviews": 2
+    },
+    {
+      "rank": 6,
+      "asin": "B002PNHQC0",
+      "title": "neogen corporation 79212 OB Lube, 8 OZ, General Lubricant",
+      "brand": "Neogen",
+      "price": 9.25,
+      "salesParent": 16,
+      "revenue": 148.0,
+      "rating": 4.3,
+      "reviews": 12
+    },
+    {
+      "rank": 7,
+      "asin": "B0FXZRVSVL",
+      "title": "Lube Applicator Injectors with 10ml Precise Scales, 6.5” Long, Anal Shooter with Air-Proof Silicone Cap, Lubricant Applicator for Men, Women &amp; Couples (Black)",
+      "brand": "BitOffun",
+      "price": 4.98,
+      "salesParent": 5,
+      "revenue": 24.9,
+      "rating": 4.0,
+      "reviews": 7
+    },
+    {
+      "rank": 8,
+      "asin": "B00A4NIS84",
+      "title": "Motiv Power Gel Scuff 16 oz.",
+      "brand": "MOTIV",
+      "price": 15.93,
+      "salesParent": 0,
+      "revenue": 0.0,
+      "rating": 4.5,
+      "reviews": 87
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": null,
+    "direction": "flat",
+    "comparable": null,
+    "rawYoyPct": -94,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 20527,
+    "priorHeadRevenue": 350185,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 8,
+      "newCount": 3,
+      "pct": 38,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 99,
+      "brandCount": 8,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.28,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0DJ6C54JN",
+        "title": "(Regular) Premium Oil-Based Personal Lubricant for Men - Long Lasting, No Drying Out, Easy Clean Up, Moisturizing 6oz",
+        "rating": 4.1,
+        "reviews": 56
+      },
+      {
+        "rank": 2,
+        "asin": "B0H9WTDC24",
+        "title": "Female Arousal Gel, Excite Gel for Her, Pleasure Booster- Awakens Natural Arousal and Heightens Sensitivity, Elevates Intimate Experiences for Couples",
+        "rating": 5.0,
+        "reviews": 1
+      },
+      {
+        "rank": 3,
+        "asin": "B000E260XU",
+        "title": "Surgilube Lubricating Jelly - Sterile - 4.25 Oz Tube - by Fougera",
+        "rating": 4.5,
+        "reviews": 730
+      },
+      {
+        "rank": 4,
+        "asin": "B004MEDB4W",
+        "title": "Lubricating Jelly Dyna Lube 4 oz. Tube Sterile",
+        "rating": 4.3,
+        "reviews": 76
+      },
+      {
+        "rank": 5,
+        "asin": "B0H261YRR7",
+        "title": "Male Enhancement Grow Cream, Man Re-Vitalize Creams for Private Part",
+        "rating": 3.5,
+        "reviews": 2
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3777371:3777411:10786421",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

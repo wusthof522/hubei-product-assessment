@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3777311",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Medical Supplies & Equipment > Home Tests > Health Tests",
+  "categoryPathCn": "健康与家居 > 医疗用品和设备 > 家用体检用品 > 健康测试",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 4881144,
+    "avgRevenue": 49304,
+    "medianPrice": 74.0,
+    "priceBand": "$25.95 - $149.0",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B00TRLVKW0",
+      "title": "AncestryDNA Genetic Test Kit: Personalized Results, Ethnicity Test, Find Relatives, 4800+ Regions &amp; Journeys, Most Accurate DNA, 25M+ Users",
+      "brand": "AncestryDNA",
+      "price": 99.0,
+      "salesParent": 10740,
+      "revenue": 1063260.0,
+      "rating": 4.6,
+      "reviews": 91727
+    },
+    {
+      "rank": 2,
+      "asin": "B07J1FZQBC",
+      "title": "AncestryDNA + Traits Genetic Test Kit: Personalized Genetic Traits, DNA Ethnicity Test, Origins &amp; Ethnicities, Complete DNA Test, Ancestry Reports",
+      "brand": "AncestryDNA",
+      "price": 119.0,
+      "salesParent": 2787,
+      "revenue": 331653.0,
+      "rating": 4.6,
+      "reviews": 33911
+    },
+    {
+      "rank": 3,
+      "asin": "B096XB53YW",
+      "title": "23andMe Premium Ancestry + Health DNA Test Kit, Includes 1-Year Membership",
+      "brand": "23andMe",
+      "price": 199.0,
+      "salesParent": 1526,
+      "revenue": 303674.0,
+      "rating": 4.6,
+      "reviews": 4815
+    },
+    {
+      "rank": 4,
+      "asin": "B00854L57U",
+      "title": "AZO Urinary Tract Infection (UTI) Test Strips, Results in 2 Mins, 3 Count",
+      "brand": "AZO",
+      "price": 9.92,
+      "salesParent": 24753,
+      "revenue": 241836.83,
+      "rating": 4.5,
+      "reviews": 14196
+    },
+    {
+      "rank": 5,
+      "asin": "B01LZ5K87Z",
+      "title": "23andMe Ancestry Service Personal DNA Test Kit, Ethnicity &amp; Heritage",
+      "brand": "23andMe",
+      "price": 99.0,
+      "salesParent": 2178,
+      "revenue": 215622.0,
+      "rating": 4.6,
+      "reviews": 37397
+    },
+    {
+      "rank": 6,
+      "asin": "B0FGHBLCV4",
+      "title": "SneakPeek Early Gender Test, Snap Standard, 1 at-Home Test Kit",
+      "brand": "SneakPeek",
+      "price": 74.0,
+      "salesParent": 2905,
+      "revenue": 214970.0,
+      "rating": 4.0,
+      "reviews": 1951
+    },
+    {
+      "rank": 7,
+      "asin": "B01G7PYQTM",
+      "title": "23andMe Health + Ancestry Service DNA Test Kit, with FDA-Authorized Reports",
+      "brand": "23andMe",
+      "price": 199.0,
+      "salesParent": 1012,
+      "revenue": 201388.0,
+      "rating": 4.6,
+      "reviews": 36914
+    },
+    {
+      "rank": 8,
+      "asin": "B09YB9KW1W",
+      "title": "KETO-MOJO GK+ Glucose &amp; Ketone Meter Kit, 140 Strips, Keto Diabetes",
+      "brand": "Keto-Mojo",
+      "price": 107.78,
+      "salesParent": 1365,
+      "revenue": 147119.7,
+      "rating": 4.7,
+      "reviews": 572
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -21,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -21,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 4881144,
+    "priorHeadRevenue": 6164180,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 39,
+      "pct": 39,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 59,
+      "brandCount": 65,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.11,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B00TRLVKW0",
+        "title": "AncestryDNA Genetic Test Kit: Personalized Results, Ethnicity Test, Find Relatives, 4800+ Regions &amp; Journeys, Most Accurate DNA, 25M+ Users",
+        "rating": 4.6,
+        "reviews": 91727
+      },
+      {
+        "rank": 2,
+        "asin": "B07J1FZQBC",
+        "title": "AncestryDNA + Traits Genetic Test Kit: Personalized Genetic Traits, DNA Ethnicity Test, Origins &amp; Ethnicities, Complete DNA Test, Ancestry Reports",
+        "rating": 4.6,
+        "reviews": 33911
+      },
+      {
+        "rank": 3,
+        "asin": "B096XB53YW",
+        "title": "23andMe Premium Ancestry + Health DNA Test Kit, Includes 1-Year Membership",
+        "rating": 4.6,
+        "reviews": 4815
+      },
+      {
+        "rank": 4,
+        "asin": "B00854L57U",
+        "title": "AZO Urinary Tract Infection (UTI) Test Strips, Results in 2 Mins, 3 Count",
+        "rating": 4.5,
+        "reviews": 14196
+      },
+      {
+        "rank": 5,
+        "asin": "B01LZ5K87Z",
+        "title": "23andMe Ancestry Service Personal DNA Test Kit, Ethnicity &amp; Heritage",
+        "rating": 4.6,
+        "reviews": 37397
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3775161:3777241:3777311",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

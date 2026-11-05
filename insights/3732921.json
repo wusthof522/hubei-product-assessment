@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3732921",
+  "level": "L4",
+  "categoryPathEn": "Home & Kitchen > Furniture > Bathroom Furniture > Bathroom Sets",
+  "categoryPathCn": "家居用品 > 家具 > 浴室家具 > 浴室家具套装",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 85,
+    "totalRevenue": 290272,
+    "avgRevenue": 3415,
+    "medianPrice": 309.98,
+    "priceBand": "$161.99 - $729.48",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0BWMLC9BJ",
+      "title": "QEEIG Bathroom Shelves Over Toilet Wall Mounted (Brown, Set of 3, 15.7&quot;)",
+      "brand": "QEEIG",
+      "price": 34.82,
+      "salesParent": 7088,
+      "revenue": 207961.92,
+      "rating": 4.7,
+      "reviews": 5735
+    },
+    {
+      "rank": 2,
+      "asin": "B07H87L8ZQ",
+      "title": "VASAGLE Floor Storage Cabinet, Freestanding Organizer with 4 Drawers",
+      "brand": "VASAGLE",
+      "price": 59.99,
+      "salesParent": 387,
+      "revenue": 21799.71,
+      "rating": 4.2,
+      "reviews": 2610
+    },
+    {
+      "rank": 3,
+      "asin": "B0H9LRRF1T",
+      "title": "OmySalon Shampoo Bowl and Chair Set, Tilting Ceramic Sink with Neck Rest, Hair Washing Station for Salon Spa Barbershop, Black",
+      "brand": "OmySalon",
+      "price": 399.99,
+      "salesParent": 37,
+      "revenue": 14799.63,
+      "rating": 5.0,
+      "reviews": 2
+    },
+    {
+      "rank": 4,
+      "asin": "B0HFRSRRVM",
+      "title": "60 Inch White Bathroom Vanity with Double Sink, 60 Bathroom Vanity Set with Double Vanities (Separate), 2 Bathroom Vanities with Storage Shelf, and Divided Drawers (Mirror not Included)",
+      "brand": "Mirightone",
+      "price": 409.99,
+      "salesParent": 23,
+      "revenue": 9429.77,
+      "rating": 4.2,
+      "reviews": 59
+    },
+    {
+      "rank": 5,
+      "asin": "B0HBBN8MMW",
+      "title": "24 Inches Bathroom Vanity with Sink, Modern MDF Small Bathroom Sink Cabinet Combo Set with Fluted Soft-Close Doors,Smooth Storage Drawer. White Resin Sink Combo Set (Oak)",
+      "brand": "Algherohein",
+      "price": 229.99,
+      "salesParent": 21,
+      "revenue": 4829.79,
+      "rating": 1.0,
+      "reviews": 1
+    },
+    {
+      "rank": 6,
+      "asin": "B0DFTZR6XM",
+      "title": "Double Bathroom Vanity - Double Wall Mounted Cabinet Set with Led Light &amp; Defogger Mirror | Abundant Storage Space, 4 Drawers, Luxurious French Vintage Bathroom Vanity Set for Bathroom, Black (84IN)",
+      "brand": "Genpai",
+      "price": 3379.99,
+      "salesParent": 1,
+      "revenue": 3379.99,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "rank": 7,
+      "asin": "B0H4XRCNGR",
+      "title": "3 Piece Bedroom Furniture Set, 6 Drawer Dresser &amp; 2 Nightstands, Oversized Wood Bedroom Set with Thick Legs, Modern Storage Bedroom Set for Bedroom, Living Room, Entryway, Walnut",
+      "brand": "ModernMate",
+      "price": 799.99,
+      "salesParent": 4,
+      "revenue": 3199.96,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "rank": 8,
+      "asin": "B0F1N7JQ51",
+      "title": "80'' Double Sink Floating Vanity Set,Modern Bathroom Cabinet with Double Sink &amp; Smart Defogger Mirror Cabinet with Open Storage Compartment &amp; Side Vanity Table,for Large Bathrooms",
+      "brand": "DEVLOIVI",
+      "price": 2991.88,
+      "salesParent": 1,
+      "revenue": 2991.88,
+      "rating": null,
+      "reviews": null
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": null,
+    "direction": "flat",
+    "comparable": false,
+    "rawYoyPct": 588,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 290272,
+    "priorHeadRevenue": 42214,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 85,
+      "newCount": 47,
+      "pct": 56,
+      "unknownLaunch": 1,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 91,
+      "brandCount": 51,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 3.91,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0BWMLC9BJ",
+        "title": "QEEIG Bathroom Shelves Over Toilet Wall Mounted (Brown, Set of 3, 15.7&quot;)",
+        "rating": 4.7,
+        "reviews": 5735
+      },
+      {
+        "rank": 2,
+        "asin": "B07H87L8ZQ",
+        "title": "VASAGLE Floor Storage Cabinet, Freestanding Organizer with 4 Drawers",
+        "rating": 4.2,
+        "reviews": 2610
+      },
+      {
+        "rank": 3,
+        "asin": "B0H9LRRF1T",
+        "title": "OmySalon Shampoo Bowl and Chair Set, Tilting Ceramic Sink with Neck Rest, Hair Washing Station for Salon Spa Barbershop, Black",
+        "rating": 5.0,
+        "reviews": 2
+      },
+      {
+        "rank": 4,
+        "asin": "B0HFRSRRVM",
+        "title": "60 Inch White Bathroom Vanity with Double Sink, 60 Bathroom Vanity Set with Double Vanities (Separate), 2 Bathroom Vanities with Storage Shelf, and Divided Drawers (Mirror not Included)",
+        "rating": 4.2,
+        "reviews": 59
+      },
+      {
+        "rank": 5,
+        "asin": "B0HBBN8MMW",
+        "title": "24 Inches Bathroom Vanity with Sink, Modern MDF Small Bathroom Sink Cabinet Combo Set with Fluted Soft-Close Doors,Smooth Storage Drawer. White Resin Sink Combo Set (Oak)",
+        "rating": 1.0,
+        "reviews": 1
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "1055398:1063306:5392425011:3732921",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

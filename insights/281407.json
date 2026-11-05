@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "281407",
+  "level": "L2",
+  "categoryPathEn": "Electronics > Accessories & Supplies",
+  "categoryPathCn": "电子产品 > 辅料",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 98,
+    "totalRevenue": 29274428,
+    "avgRevenue": 298719,
+    "medianPrice": 19.99,
+    "priceBand": "$11.94 - $27.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0FFGZH2S2",
+      "title": "Anker Nano Power Strip, Desk Clamp, 70W Max, 1500J Surge Protector, 2 USB C",
+      "brand": "Anker",
+      "price": 69.99,
+      "salesParent": 17505,
+      "revenue": 1225174.88,
+      "rating": 4.8,
+      "reviews": 969
+    },
+    {
+      "rank": 2,
+      "asin": "B0DG5R4461",
+      "title": "Anker Power Strip with 2100J Surge Protector, Outlet Extender, 20W, 12 AC",
+      "brand": "Anker",
+      "price": 34.33,
+      "salesParent": 32887,
+      "revenue": 1129010.75,
+      "rating": 4.8,
+      "reviews": 20164
+    },
+    {
+      "rank": 3,
+      "asin": "B09SG2Q23M",
+      "title": "Anker Power Strip with 2100J Surge Protector, Outlet Extender, 20W, 12 AC",
+      "brand": "Anker",
+      "price": 28.99,
+      "salesParent": 35265,
+      "revenue": 1021274.38,
+      "rating": 4.8,
+      "reviews": 20616
+    },
+    {
+      "rank": 4,
+      "asin": "B0D46YJR1N",
+      "title": "2 Prong Flat Plug Power Strip, Olcorife 2 Prong to 3 Prong Outlet Adapter, 10 FT Flat Extension Cord with 6 Outlets 3 USB Ports(1 USB C), US to Japan Plug Adapter",
+      "brand": "olcorife",
+      "price": 19.99,
+      "salesParent": 49348,
+      "revenue": 986466.5,
+      "rating": 4.6,
+      "reviews": 89
+    },
+    {
+      "rank": 5,
+      "asin": "B0CQHJKBJK",
+      "title": "SUPERDANNY Extension Cord,Flat Plug Surge Protector Power Strip,6Ft",
+      "brand": "SUPERDANNY",
+      "price": 16.99,
+      "salesParent": 57364,
+      "revenue": 974614.38,
+      "rating": 4.6,
+      "reviews": 1012
+    },
+    {
+      "rank": 6,
+      "asin": "B09PDLBFKY",
+      "title": "6Ft Surge Protector Power Strip with 8 Widely Outlets &amp; 4 USB Ports",
+      "brand": "YISHU",
+      "price": 9.98,
+      "salesParent": 81675,
+      "revenue": 910676.25,
+      "rating": 4.6,
+      "reviews": 54952
+    },
+    {
+      "rank": 7,
+      "asin": "B08R6S1M1K",
+      "title": "Wall Charger, Surge Protector, QINLIANF 5 Outlet Extender with 4 USB Ports",
+      "brand": "QINLIANF",
+      "price": 9.98,
+      "salesParent": 64303,
+      "revenue": 751702.06,
+      "rating": 4.7,
+      "reviews": 120082
+    },
+    {
+      "rank": 8,
+      "asin": "B0DC17VXTL",
+      "title": "Power Watchdog PWD50EPOW Smart RV Surge Protector, 50A, WiFi, IP65",
+      "brand": "Power Watchdog",
+      "price": 369.99,
+      "salesParent": 1863,
+      "revenue": 694563.69,
+      "rating": 4.8,
+      "reviews": 296
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 26,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 26,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 29274428,
+    "priorHeadRevenue": 23291995,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 98,
+      "newCount": 16,
+      "pct": 16,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 42,
+      "brandCount": 64,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.69,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0FFGZH2S2",
+        "title": "Anker Nano Power Strip, Desk Clamp, 70W Max, 1500J Surge Protector, 2 USB C",
+        "rating": 4.8,
+        "reviews": 969
+      },
+      {
+        "rank": 2,
+        "asin": "B0DG5R4461",
+        "title": "Anker Power Strip with 2100J Surge Protector, Outlet Extender, 20W, 12 AC",
+        "rating": 4.8,
+        "reviews": 20164
+      },
+      {
+        "rank": 3,
+        "asin": "B09SG2Q23M",
+        "title": "Anker Power Strip with 2100J Surge Protector, Outlet Extender, 20W, 12 AC",
+        "rating": 4.8,
+        "reviews": 20616
+      },
+      {
+        "rank": 4,
+        "asin": "B0D46YJR1N",
+        "title": "2 Prong Flat Plug Power Strip, Olcorife 2 Prong to 3 Prong Outlet Adapter, 10 FT Flat Extension Cord with 6 Outlets 3 USB Ports(1 USB C), US to Japan Plug Adapter",
+        "rating": 4.6,
+        "reviews": 89
+      },
+      {
+        "rank": 5,
+        "asin": "B0CQHJKBJK",
+        "title": "SUPERDANNY Extension Cord,Flat Plug Surge Protector Power Strip,6Ft",
+        "rating": 4.6,
+        "reviews": 1012
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "172282:281407",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

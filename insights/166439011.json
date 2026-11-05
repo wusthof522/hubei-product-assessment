@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "166439011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Sports & Outdoor Play > Pools & Water Toys > Lawn Water Slides",
+  "categoryPathCn": "玩具 > 体育 > 游泳池 > 草地水滑梯",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 89,
+    "totalRevenue": 419905,
+    "avgRevenue": 4718,
+    "medianPrice": 51.99,
+    "priceBand": "$43.99 - $79.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B09B2XWK16",
+      "title": "JAMBO Premium Triple Water Slide with 3 Bodyboards, 20Ft Heavy Duty Slip Splash and Slides-Advanced 3-Way Sprinkler System, Splash Pad Mat Backyard Summer Outdoor Water Toys n Long Slides for Kids",
+      "brand": "JAMBO",
+      "price": 45.99,
+      "salesParent": 895,
+      "revenue": 41161.05,
+      "rating": 4.0,
+      "reviews": 9255
+    },
+    {
+      "rank": 2,
+      "asin": "B0DYFTRDHG",
+      "title": "JAMBO 25ft Double Lane Slip Splash and Slide with 2 Bodyboards with Built in Sprinkler for Backyard Outdoor Water Fun for Kids",
+      "brand": "JAMBO",
+      "price": 39.99,
+      "salesParent": 866,
+      "revenue": 34631.34,
+      "rating": 4.0,
+      "reviews": 9252
+    },
+    {
+      "rank": 3,
+      "asin": "B000S5MWE4",
+      "title": "INTEX Kool Splash Inflatable Water Slide for Swimming Pool Fun",
+      "brand": "Intex",
+      "price": 109.9,
+      "salesParent": 259,
+      "revenue": 28464.1,
+      "rating": 3.8,
+      "reviews": 8578
+    },
+    {
+      "rank": 4,
+      "asin": "B0C76FHH3Z",
+      "title": "Bestway H2OGO! Tidal Trifecta Kids Inflatable Water Park | Inflatable Triple Slide and Splash Pool | Great for Kids Ages 5 and Up",
+      "brand": "Bestway",
+      "price": 869.99,
+      "salesParent": 28,
+      "revenue": 24359.72,
+      "rating": 4.5,
+      "reviews": 260
+    },
+    {
+      "rank": 5,
+      "asin": "B0895J4Z39",
+      "title": "JOYIN 22.5ft Water Slides and 2 Bodyboards, Lawn Water Slide Summer Slip Waterslides Water Toy with Build in Sprinkler for Backyard Outdoor Water Fun for Kids",
+      "brand": "JOYIN",
+      "price": 39.99,
+      "salesParent": 478,
+      "revenue": 19115.22,
+      "rating": 4.0,
+      "reviews": 6277
+    },
+    {
+      "rank": 6,
+      "asin": "B093XBSKKQ",
+      "title": "JumpOrange 19’ Mermaid Water Slide Inflatable with Splash Pool, Commercial Grade, Kids and Adults, Tall Blow Up Waterslide, Outdoor Indoor, Wet Dry Use, Summer Fun, Backyard Water Park (with Blower)",
+      "brand": "JumpOrange",
+      "price": 2597.0,
+      "salesParent": 6,
+      "revenue": 15582.0,
+      "rating": 4.8,
+      "reviews": 11
+    },
+    {
+      "rank": 7,
+      "asin": "B0C6JCKHZP",
+      "title": "Slip and Slide 40ft X 6ft Heavy Duty with 2 Bodyboards, Thicker Lawn Water Slide, Tear-Resistant Design, Easy to Set-Up, Backyard Summer Outdoor Water Play for Adults and Teens, 2026 New",
+      "brand": "Gnimihz",
+      "price": 79.99,
+      "salesParent": 142,
+      "revenue": 11358.58,
+      "rating": 4.3,
+      "reviews": 80
+    },
+    {
+      "rank": 8,
+      "asin": "B07HSKVMRW",
+      "title": "L.O.L. Surprise Inflatable River Race Water Slide with Blower",
+      "brand": "Little Tikes",
+      "price": 299.99,
+      "salesParent": 35,
+      "revenue": 10613.4,
+      "rating": 4.2,
+      "reviews": 162
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 14,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 14,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 419905,
+    "priorHeadRevenue": 368876,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 89,
+      "newCount": 41,
+      "pct": 46,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 51,
+      "brandCount": 44,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 3.94,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B09B2XWK16",
+        "title": "JAMBO Premium Triple Water Slide with 3 Bodyboards, 20Ft Heavy Duty Slip Splash and Slides-Advanced 3-Way Sprinkler System, Splash Pad Mat Backyard Summer Outdoor Water Toys n Long Slides for Kids",
+        "rating": 4.0,
+        "reviews": 9255
+      },
+      {
+        "rank": 2,
+        "asin": "B0DYFTRDHG",
+        "title": "JAMBO 25ft Double Lane Slip Splash and Slide with 2 Bodyboards with Built in Sprinkler for Backyard Outdoor Water Fun for Kids",
+        "rating": 4.0,
+        "reviews": 9252
+      },
+      {
+        "rank": 3,
+        "asin": "B000S5MWE4",
+        "title": "INTEX Kool Splash Inflatable Water Slide for Swimming Pool Fun",
+        "rating": 3.8,
+        "reviews": 8578
+      },
+      {
+        "rank": 4,
+        "asin": "B0C76FHH3Z",
+        "title": "Bestway H2OGO! Tidal Trifecta Kids Inflatable Water Park | Inflatable Triple Slide and Splash Pool | Great for Kids Ages 5 and Up",
+        "rating": 4.5,
+        "reviews": 260
+      },
+      {
+        "rank": 5,
+        "asin": "B0895J4Z39",
+        "title": "JOYIN 22.5ft Water Slides and 2 Bodyboards, Lawn Water Slide Summer Slip Waterslides Water Toy with Build in Sprinkler for Backyard Outdoor Water Fun for Kids",
+        "rating": 4.0,
+        "reviews": 6277
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166420011:166437011:166439011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

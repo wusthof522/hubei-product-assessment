@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "166459011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Sports & Outdoor Play > Toy Sports > Toy Soccer",
+  "categoryPathCn": "玩具 > 体育 > 玩具运动 > 玩具足球",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 1436081,
+    "avgRevenue": 14361,
+    "medianPrice": 25.63,
+    "priceBand": "$19.99 - $45.74",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0D5JX1QQF",
+      "title": "Hover Soccer Light-Up Ball - Birthday Gift for Boys - Kids Gifts Ages 5-12",
+      "brand": "Ninja Blast",
+      "price": 19.98,
+      "salesParent": 10993,
+      "revenue": 222278.45,
+      "rating": 4.5,
+      "reviews": 4239
+    },
+    {
+      "rank": 2,
+      "asin": "B0CJG3CV9P",
+      "title": "Soccer Bot - Ultimate Indoor Soccer Game with Score Tracker, Speed Modes &amp; Training Features for Kids Ages 6+",
+      "brand": "Strikesphere",
+      "price": 57.99,
+      "salesParent": 2999,
+      "revenue": 176611.11,
+      "rating": 4.0,
+      "reviews": 1507
+    },
+    {
+      "rank": 3,
+      "asin": "B0B61B4T5J",
+      "title": "Ocditikl 2 Pack Hover Soccer Ball with 8 Pcs Batteries, Air Floating Soccer Toy with LED Lights &amp; Foam Bumper, Indoor Games for Kids 4-8-12, Birthday Toys for 3 4 5 6 7 8 9 Year Old Boys Girls",
+      "brand": "Ocditikl",
+      "price": 21.99,
+      "salesParent": 3966,
+      "revenue": 79121.7,
+      "rating": 4.4,
+      "reviews": 2343
+    },
+    {
+      "rank": 4,
+      "asin": "B0B6HXZ69W",
+      "title": "HopeRock 2 Pack Hover Soccer Ball for Kids Ages 3-12, Light-Up Soccer Toy",
+      "brand": "HopeRock",
+      "price": 19.99,
+      "salesParent": 2573,
+      "revenue": 49427.33,
+      "rating": 4.3,
+      "reviews": 2484
+    },
+    {
+      "rank": 5,
+      "asin": "B07X5NN5GN",
+      "title": "Toyk Boy Toys - LED Hover Soccer Ball - Indoor Outdoor Game Sport Toy",
+      "brand": "Toyk",
+      "price": 17.99,
+      "salesParent": 2744,
+      "revenue": 47004.72,
+      "rating": 4.4,
+      "reviews": 8222
+    },
+    {
+      "rank": 6,
+      "asin": "B0FH4SJ5YD",
+      "title": "Boy Toys Hover Soccer Ball for Kids 2 LED Soccer Ball Toys Indoor Games Gifts for Boy Age 6-8, 8-12, Floating Football Birthday Gifts for 4 5 6 7 8 9 10 11 12 Year Old Kids Sport Toy",
+      "brand": "Thusine",
+      "price": 23.99,
+      "salesParent": 1837,
+      "revenue": 45649.45,
+      "rating": 4.3,
+      "reviews": 291
+    },
+    {
+      "rank": 7,
+      "asin": "B0BNL5R49N",
+      "title": "S3 Edge Bench Soccer Game with Mat and Ball, Portable Table Set",
+      "brand": "SUBSOCCER",
+      "price": 467.49,
+      "salesParent": 77,
+      "revenue": 35683.34,
+      "rating": 4.4,
+      "reviews": 20
+    },
+    {
+      "rank": 8,
+      "asin": "B0FFS327XP",
+      "title": "HopeRock Indoor Soccer Ball, Size 4, Soft Foam, for Kids 3-12 Years Old",
+      "brand": "HopeRock",
+      "price": 19.99,
+      "salesParent": 1796,
+      "revenue": 34590.96,
+      "rating": 4.6,
+      "reviews": 296
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 30,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 30,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1436081,
+    "priorHeadRevenue": 1108123,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 56,
+      "pct": 56,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 43,
+      "brandCount": 83,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.27,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0D5JX1QQF",
+        "title": "Hover Soccer Light-Up Ball - Birthday Gift for Boys - Kids Gifts Ages 5-12",
+        "rating": 4.5,
+        "reviews": 4239
+      },
+      {
+        "rank": 2,
+        "asin": "B0CJG3CV9P",
+        "title": "Soccer Bot - Ultimate Indoor Soccer Game with Score Tracker, Speed Modes &amp; Training Features for Kids Ages 6+",
+        "rating": 4.0,
+        "reviews": 1507
+      },
+      {
+        "rank": 3,
+        "asin": "B0B61B4T5J",
+        "title": "Ocditikl 2 Pack Hover Soccer Ball with 8 Pcs Batteries, Air Floating Soccer Toy with LED Lights &amp; Foam Bumper, Indoor Games for Kids 4-8-12, Birthday Toys for 3 4 5 6 7 8 9 Year Old Boys Girls",
+        "rating": 4.4,
+        "reviews": 2343
+      },
+      {
+        "rank": 4,
+        "asin": "B0B6HXZ69W",
+        "title": "HopeRock 2 Pack Hover Soccer Ball for Kids Ages 3-12, Light-Up Soccer Toy",
+        "rating": 4.3,
+        "reviews": 2484
+      },
+      {
+        "rank": 5,
+        "asin": "B07X5NN5GN",
+        "title": "Toyk Boy Toys - LED Hover Soccer Ball - Indoor Outdoor Game Sport Toy",
+        "rating": 4.4,
+        "reviews": 8222
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166420011:166453011:166459011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

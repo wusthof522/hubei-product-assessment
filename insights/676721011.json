@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "676721011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Arts & Crafts > Craft Kits > Paint with Water Kits",
+  "categoryPathCn": "玩具 > 艺术 > 工艺品套装 > 水彩画套装",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 98,
+    "totalRevenue": 3206503,
+    "avgRevenue": 32719,
+    "medianPrice": 18.49,
+    "priceBand": "$9.99 - $25.61",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0DDLZV8YM",
+      "title": "Dan&amp;Darci Magic Gel Water Pets Kit - Birthday Gifts - Squishy Maker",
+      "brand": "Dan&amp;Darci",
+      "price": 24.98,
+      "salesParent": 15503,
+      "revenue": 396721.78,
+      "rating": 4.6,
+      "reviews": 3279
+    },
+    {
+      "rank": 2,
+      "asin": "B0D5R6WWPZ",
+      "title": "Pottery Wheel for Kids, Pottery Painting Craft Kit Sensory Toy Gift Girl 6+",
+      "brand": "Aujazyble",
+      "price": 29.99,
+      "salesParent": 5936,
+      "revenue": 160093.92,
+      "rating": 4.4,
+      "reviews": 1637
+    },
+    {
+      "rank": 3,
+      "asin": "B09PGVGCH5",
+      "title": "Horizon Group USA Bluey Aqua Art - Reusable Water Reveal Activity Pages With Water Pen for No-Mess Drawing and Coloring",
+      "brand": "Horizon Group USA",
+      "price": 5.99,
+      "salesParent": 25585,
+      "revenue": 153510.0,
+      "rating": 4.7,
+      "reviews": 11477
+    },
+    {
+      "rank": 4,
+      "asin": "B0GFPL5G1Z",
+      "title": "Horizon Group USA Aqua Art, Teenage Mutant Ninja Turtles",
+      "brand": "Horizon Group USA",
+      "price": 6.49,
+      "salesParent": 21598,
+      "revenue": 143626.7,
+      "rating": 4.2,
+      "reviews": 12
+    },
+    {
+      "rank": 5,
+      "asin": "B0CRHCJDPH",
+      "title": "Kiditos Magic Water Elf Toy Kit,Squishies for Kids, DIY Sensory Craft Kit",
+      "brand": "Kiditos",
+      "price": 27.99,
+      "salesParent": 5257,
+      "revenue": 142464.7,
+      "rating": 4.6,
+      "reviews": 4521
+    },
+    {
+      "rank": 6,
+      "asin": "B0GX1242YR",
+      "title": "Timetome Water Coloring Book, 3 Pack Water Painting Books for Toddlers 1-3",
+      "brand": "Timetome",
+      "price": 29.99,
+      "salesParent": 4427,
+      "revenue": 137812.5,
+      "rating": 4.8,
+      "reviews": 118
+    },
+    {
+      "rank": 7,
+      "asin": "B0CNX1MKM7",
+      "title": "Paint Your Own Cat Lamp Kit, Crafts for Kids Ages 6-12, Gifts for Girls Boy",
+      "brand": "LAOESE",
+      "price": 12.98,
+      "salesParent": 8954,
+      "revenue": 116223.0,
+      "rating": 4.4,
+      "reviews": 4536
+    },
+    {
+      "rank": 8,
+      "asin": "B0CN6YJSBQ",
+      "title": "Klever Kits DIY 3D Moon Night Light- Paint Your Own Moon Lamp for Kids 6-12",
+      "brand": "Klever Kits",
+      "price": 19.99,
+      "salesParent": 4464,
+      "revenue": 89235.36,
+      "rating": 4.6,
+      "reviews": 2629
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 11,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 11,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 3206503,
+    "priorHeadRevenue": 2900459,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 98,
+      "newCount": 54,
+      "pct": 55,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 43,
+      "brandCount": 61,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.54,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0DDLZV8YM",
+        "title": "Dan&amp;Darci Magic Gel Water Pets Kit - Birthday Gifts - Squishy Maker",
+        "rating": 4.6,
+        "reviews": 3279
+      },
+      {
+        "rank": 2,
+        "asin": "B0D5R6WWPZ",
+        "title": "Pottery Wheel for Kids, Pottery Painting Craft Kit Sensory Toy Gift Girl 6+",
+        "rating": 4.4,
+        "reviews": 1637
+      },
+      {
+        "rank": 3,
+        "asin": "B09PGVGCH5",
+        "title": "Horizon Group USA Bluey Aqua Art - Reusable Water Reveal Activity Pages With Water Pen for No-Mess Drawing and Coloring",
+        "rating": 4.7,
+        "reviews": 11477
+      },
+      {
+        "rank": 4,
+        "asin": "B0GFPL5G1Z",
+        "title": "Horizon Group USA Aqua Art, Teenage Mutant Ninja Turtles",
+        "rating": 4.2,
+        "reviews": 12
+      },
+      {
+        "rank": 5,
+        "asin": "B0CRHCJDPH",
+        "title": "Kiditos Magic Water Elf Toy Kit,Squishies for Kids, DIY Sensory Craft Kit",
+        "rating": 4.6,
+        "reviews": 4521
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166057011:166064011:676721011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

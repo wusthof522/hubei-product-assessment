@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23642766011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Toy Figures & Playsets > Play Figure Vehicles > Trains",
+  "categoryPathCn": "玩具 > 玩具图 > 游戏人物车辆 > 火车",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 43,
+    "totalRevenue": 345594,
+    "avgRevenue": 8037,
+    "medianPrice": 42.95,
+    "priceBand": "$24.99 - $86.1",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0F631VP61",
+      "title": "hahaland Montessori Farm Train Set, Toddler Learning Toys for 2-3 Year Olds",
+      "brand": "hahaland",
+      "price": 26.99,
+      "salesParent": 4298,
+      "revenue": 124298.0,
+      "rating": 4.6,
+      "reviews": 1352
+    },
+    {
+      "rank": 2,
+      "asin": "B0FQJFBMJD",
+      "title": "Animal Montessori Learning Toys for 2 3 4 5 Year Old Kids, Toddler Animals Train Locks &amp; Keys Matching Toys Counting &amp; Sorting Trains Set, Preschool Toy Boys Girls Christmas Birthday Gifts Age 2-4 3-5",
+      "brand": "IPOURUP",
+      "price": 24.99,
+      "salesParent": 1990,
+      "revenue": 45073.5,
+      "rating": 4.6,
+      "reviews": 353
+    },
+    {
+      "rank": 3,
+      "asin": "B0GZ2RSJVY",
+      "title": "hahaland Electric Train Set for Kids Ages 4-8, Flexible Race Track - 64PCs",
+      "brand": "hahaland",
+      "price": 35.99,
+      "salesParent": 966,
+      "revenue": 33829.32,
+      "rating": 4.4,
+      "reviews": 87
+    },
+    {
+      "rank": 4,
+      "asin": "B0FN775MFR",
+      "title": "Stay Fun Train Set for Toddlers with Steam, Music, Lights and 3 Animal Cars",
+      "brand": "Stay Fun",
+      "price": 32.99,
+      "salesParent": 1007,
+      "revenue": 29434.61,
+      "rating": 4.5,
+      "reviews": 314
+    },
+    {
+      "rank": 5,
+      "asin": "B0H3215KM7",
+      "title": "131PCS Electric Train Set Kid Toys with Upgraded Bigger Magic Tracks",
+      "brand": "Nisuez",
+      "price": 119.99,
+      "salesParent": 155,
+      "revenue": 18598.45,
+      "rating": 5.0,
+      "reviews": 11
+    },
+    {
+      "rank": 6,
+      "asin": "B0F66QY1JH",
+      "title": "Funwee Electric Christmas Train Set with Smokes,Lights and Sound for Kids",
+      "brand": "Funwee",
+      "price": 45.99,
+      "salesParent": 292,
+      "revenue": 12243.56,
+      "rating": 4.5,
+      "reviews": 219
+    },
+    {
+      "rank": 7,
+      "asin": "B0H25R5P61",
+      "title": "Montessori Toys Farm Train Set, Toddler Toys for 1 2 3 Year Old Boys Girls",
+      "brand": "PULASIDO",
+      "price": 16.99,
+      "salesParent": 570,
+      "revenue": 10014.9,
+      "rating": 4.7,
+      "reviews": 46
+    },
+    {
+      "rank": 8,
+      "asin": "B0FSJZ4YMP",
+      "title": "Montessori Farm Electric Train Set for Toddlers 1-3, Girl Toys Gift Age 2",
+      "brand": "Cmiolacuna",
+      "price": 34.99,
+      "salesParent": 258,
+      "revenue": 9257.04,
+      "rating": 4.4,
+      "reviews": 450
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 194,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 194,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 345594,
+    "priorHeadRevenue": 117623,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 43,
+      "newCount": 31,
+      "pct": 72,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 77,
+      "brandCount": 31,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.61,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0F631VP61",
+        "title": "hahaland Montessori Farm Train Set, Toddler Learning Toys for 2-3 Year Olds",
+        "rating": 4.6,
+        "reviews": 1352
+      },
+      {
+        "rank": 2,
+        "asin": "B0FQJFBMJD",
+        "title": "Animal Montessori Learning Toys for 2 3 4 5 Year Old Kids, Toddler Animals Train Locks &amp; Keys Matching Toys Counting &amp; Sorting Trains Set, Preschool Toy Boys Girls Christmas Birthday Gifts Age 2-4 3-5",
+        "rating": 4.6,
+        "reviews": 353
+      },
+      {
+        "rank": 3,
+        "asin": "B0GZ2RSJVY",
+        "title": "hahaland Electric Train Set for Kids Ages 4-8, Flexible Race Track - 64PCs",
+        "rating": 4.4,
+        "reviews": 87
+      },
+      {
+        "rank": 4,
+        "asin": "B0FN775MFR",
+        "title": "Stay Fun Train Set for Toddlers with Steam, Music, Lights and 3 Animal Cars",
+        "rating": 4.5,
+        "reviews": 314
+      },
+      {
+        "rank": 5,
+        "asin": "B0H3215KM7",
+        "title": "131PCS Electric Train Set Kid Toys with Upgraded Bigger Magic Tracks",
+        "rating": 5.0,
+        "reviews": 11
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:165993011:274293011:23642766011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

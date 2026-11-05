@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "18116194011",
+  "level": "L2",
+  "categoryPathEn": "Appliances > Laundry Appliances",
+  "categoryPathCn": "家电 > 洗衣房用具",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 92,
+    "totalRevenue": 6266923,
+    "avgRevenue": 68119,
+    "medianPrice": 254.5,
+    "priceBand": "$120.74 - $998.04",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B08LLGT5SW",
+      "title": "BLACK+DECKER 2.0 Cu. Ft. Portable Washer, 15.4 lb. Capacity, BPWM20W, White",
+      "brand": "BLACK+DECKER",
+      "price": 377.99,
+      "salesParent": 1501,
+      "revenue": 567363.0,
+      "rating": 4.4,
+      "reviews": 9378
+    },
+    {
+      "rank": 2,
+      "asin": "B0DVPX32JQ",
+      "title": "ROVSUN 25LBS Portable Washing Machine, Full-Automatic Electric Laundry Machine with Stainless Steel Drum, Compact Washer and Spin Dryer Combo with Drain Pump for Home, Apartment",
+      "brand": "ROVSUN",
+      "price": 319.99,
+      "salesParent": 1028,
+      "revenue": 316726.81,
+      "rating": 4.2,
+      "reviews": 969
+    },
+    {
+      "rank": 3,
+      "asin": "B082YGFMQZ",
+      "title": "BLACK+DECKER 3.5 Cu. Ft. Portable Dryer, 13.2 lb. Capacity, 120V, BCED37",
+      "brand": "BLACK+DECKER",
+      "price": 399.99,
+      "salesParent": 728,
+      "revenue": 291192.72,
+      "rating": 4.1,
+      "reviews": 2870
+    },
+    {
+      "rank": 4,
+      "asin": "B09YLKMHLH",
+      "title": "Portable Washing Machine, 28lbs Twin Tub Washer Mini Compact Laundry Machine with Drain Pump, Semi-automatic 18lbs Washer 10lbs Spinner Combo for Dorms, Apartments, RVs",
+      "brand": "Auertech",
+      "price": 179.99,
+      "salesParent": 1173,
+      "revenue": 211128.28,
+      "rating": 4.2,
+      "reviews": 4232
+    },
+    {
+      "rank": 5,
+      "asin": "B0FDDHCKVZ",
+      "title": "Samsung Smart 4.7 Cu Ft Top Load Washer &amp; 7.4 Cu Ft Electric Dryer, Sensor Stops Overdrying, Low Vibration Quiet Wash, WaterJet w/Power Cords, Hoses, Vent Duct, 1 Year CPS Protection Bundle (Black)",
+      "brand": "Samsung",
+      "price": 1598.0,
+      "salesParent": 107,
+      "revenue": 171897.64,
+      "rating": 4.6,
+      "reviews": 50
+    },
+    {
+      "rank": 6,
+      "asin": "B07YT3GPBM",
+      "title": "Hamilton Beach 2.65 Cu Ft All-In-One Apartment Size Washer and Dryer Combo",
+      "brand": "Hamilton Beach",
+      "price": 899.0,
+      "salesParent": 166,
+      "revenue": 149234.0,
+      "rating": 3.2,
+      "reviews": 293
+    },
+    {
+      "rank": 7,
+      "asin": "B0CX518TCS",
+      "title": "Midea Washer Dryer Combo 2.7 Cu.ft 24&quot; All-in-One Front Load 1400 RPM White",
+      "brand": "Midea",
+      "price": 999.0,
+      "salesParent": 147,
+      "revenue": 143020.7,
+      "rating": 3.6,
+      "reviews": 201
+    },
+    {
+      "rank": 8,
+      "asin": "B0C2GPVLHS",
+      "title": "MOJOCO Portable Clothes Dryer - 600w Compact Dryer for Apartment, Travel",
+      "brand": "MOJOCO",
+      "price": 58.99,
+      "salesParent": 2492,
+      "revenue": 141047.2,
+      "rating": 4.3,
+      "reviews": 1403
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 0,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 0,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 6266923,
+    "priorHeadRevenue": 6271669,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 92,
+      "newCount": 40,
+      "pct": 43,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 49,
+      "brandCount": 47,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.18,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B08LLGT5SW",
+        "title": "BLACK+DECKER 2.0 Cu. Ft. Portable Washer, 15.4 lb. Capacity, BPWM20W, White",
+        "rating": 4.4,
+        "reviews": 9378
+      },
+      {
+        "rank": 2,
+        "asin": "B0DVPX32JQ",
+        "title": "ROVSUN 25LBS Portable Washing Machine, Full-Automatic Electric Laundry Machine with Stainless Steel Drum, Compact Washer and Spin Dryer Combo with Drain Pump for Home, Apartment",
+        "rating": 4.2,
+        "reviews": 969
+      },
+      {
+        "rank": 3,
+        "asin": "B082YGFMQZ",
+        "title": "BLACK+DECKER 3.5 Cu. Ft. Portable Dryer, 13.2 lb. Capacity, 120V, BCED37",
+        "rating": 4.1,
+        "reviews": 2870
+      },
+      {
+        "rank": 4,
+        "asin": "B09YLKMHLH",
+        "title": "Portable Washing Machine, 28lbs Twin Tub Washer Mini Compact Laundry Machine with Drain Pump, Semi-automatic 18lbs Washer 10lbs Spinner Combo for Dorms, Apartments, RVs",
+        "rating": 4.2,
+        "reviews": 4232
+      },
+      {
+        "rank": 5,
+        "asin": "B0FDDHCKVZ",
+        "title": "Samsung Smart 4.7 Cu Ft Top Load Washer &amp; 7.4 Cu Ft Electric Dryer, Sensor Stops Overdrying, Low Vibration Quiet Wash, WaterJet w/Power Cords, Hoses, Vent Duct, 1 Year CPS Protection Bundle (Black)",
+        "rating": 4.6,
+        "reviews": 50
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "2619525011:18116194011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

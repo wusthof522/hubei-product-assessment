@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3754161",
+  "level": "L2",
+  "categoryPathEn": "Tools & Home Improvement > Kitchen & Bath Fixtures",
+  "categoryPathCn": "工具 > 厨房",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 97,
+    "totalRevenue": 65782942,
+    "avgRevenue": 678175,
+    "medianPrice": 99.99,
+    "priceBand": "$36.99 - $347.07",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0CKV2BNZL",
+      "title": "Brita Plus Replacement Water Filter, For Pitchers and Dispensers, 4 Pack",
+      "brand": "BRITA",
+      "price": 25.99,
+      "salesParent": 98261,
+      "revenue": 2553803.25,
+      "rating": 4.7,
+      "reviews": 12926
+    },
+    {
+      "rank": 2,
+      "asin": "B0DQHJR1YB",
+      "title": "Rain Shower Head with Handheld Showerhead, Chrome 1.8GPM 460311",
+      "brand": "BOZYBO",
+      "price": 47.44,
+      "salesParent": 36580,
+      "revenue": 2430009.5,
+      "rating": 4.4,
+      "reviews": 13382
+    },
+    {
+      "rank": 3,
+      "asin": "B01MU7973W",
+      "title": "Brita Elite Replacement Water Filter, Pitchers and Dispensers, 2 Pack",
+      "brand": "BRITA",
+      "price": 29.78,
+      "salesParent": 60722,
+      "revenue": 1786441.25,
+      "rating": 4.6,
+      "reviews": 56563
+    },
+    {
+      "rank": 4,
+      "asin": "B0GHNXHLHS",
+      "title": "DREO Reverse Osmosis Water Filter Countertop, RO Filtration System, 3:1 Pure to Drain, TDS &amp; Filter Life &amp; 2 Autofill Pitchers, Install-Free, Self-Cleaning Water Purifier, RO Water Filter",
+      "brand": "DREO",
+      "price": 199.99,
+      "salesParent": 9062,
+      "revenue": 1740719.5,
+      "rating": 4.4,
+      "reviews": 1102
+    },
+    {
+      "rank": 5,
+      "asin": "B07P1XFYJP",
+      "title": "Waterdrop G3P600 Tankless Reverse Osmosis Water Filter System Silver Faucet",
+      "brand": "Waterdrop",
+      "price": 439.0,
+      "salesParent": 3586,
+      "revenue": 1595088.62,
+      "rating": 4.5,
+      "reviews": 4240
+    },
+    {
+      "rank": 6,
+      "asin": "B001CUQ1C8",
+      "title": "ZeroWater Official Replacement Water Filter Removes PFOA/PFOS 2-Pack",
+      "brand": "ZeroWater",
+      "price": 23.67,
+      "salesParent": 61847,
+      "revenue": 1552978.25,
+      "rating": 4.4,
+      "reviews": 98845
+    },
+    {
+      "rank": 7,
+      "asin": "B01MUBU0YC",
+      "title": "Aquabliss SF100 Daily Revitalize Shower Filter - Chrome",
+      "brand": "Aquabliss",
+      "price": 36.99,
+      "salesParent": 38764,
+      "revenue": 1430391.62,
+      "rating": 4.4,
+      "reviews": 70278
+    },
+    {
+      "rank": 8,
+      "asin": "B08RJ93846",
+      "title": "Aquabliss SFC100 Daily Revitalize Filter Cartridge (3-Pack)",
+      "brand": "Aquabliss",
+      "price": 42.99,
+      "salesParent": 30560,
+      "revenue": 1313774.5,
+      "rating": 4.7,
+      "reviews": 20830
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 5,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 5,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 65782942,
+    "priorHeadRevenue": 62893985,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 97,
+      "newCount": 17,
+      "pct": 18,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 34,
+      "brandCount": 57,
+      "level": "分散",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.48,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0CKV2BNZL",
+        "title": "Brita Plus Replacement Water Filter, For Pitchers and Dispensers, 4 Pack",
+        "rating": 4.7,
+        "reviews": 12926
+      },
+      {
+        "rank": 2,
+        "asin": "B0DQHJR1YB",
+        "title": "Rain Shower Head with Handheld Showerhead, Chrome 1.8GPM 460311",
+        "rating": 4.4,
+        "reviews": 13382
+      },
+      {
+        "rank": 3,
+        "asin": "B01MU7973W",
+        "title": "Brita Elite Replacement Water Filter, Pitchers and Dispensers, 2 Pack",
+        "rating": 4.6,
+        "reviews": 56563
+      },
+      {
+        "rank": 4,
+        "asin": "B0GHNXHLHS",
+        "title": "DREO Reverse Osmosis Water Filter Countertop, RO Filtration System, 3:1 Pure to Drain, TDS &amp; Filter Life &amp; 2 Autofill Pitchers, Install-Free, Self-Cleaning Water Purifier, RO Water Filter",
+        "rating": 4.4,
+        "reviews": 1102
+      },
+      {
+        "rank": 5,
+        "asin": "B07P1XFYJP",
+        "title": "Waterdrop G3P600 Tankless Reverse Osmosis Water Filter System Silver Faucet",
+        "rating": 4.5,
+        "reviews": 4240
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "228013:3754161",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

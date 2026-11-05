@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3780081",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Health Care > Foot Health > Inserts & Insoles",
+  "categoryPathCn": "健康与家居 > 卫生保健 > 足部护理 > 衬垫和鞋垫",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 96,
+    "totalRevenue": 27877636,
+    "avgRevenue": 290392,
+    "medianPrice": 29.99,
+    "priceBand": "$14.67 - $58.25",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0HDPPQ69F",
+      "title": "Dr. Scholl’s Advanced Pain Relief Insoles - Men Women,Heavy Duty Orthotics - Work Shoes&amp;Boots,Plantar Fasciitis&amp;Arch Support,Shock-Absorbing,up to 340 lbs, I Men 12.5-13|Women 13.5-14 (Pack of 12)",
+      "brand": "Dr. Scholl's",
+      "price": 359.88,
+      "salesParent": 16307,
+      "revenue": 5868563.0,
+      "rating": 4.3,
+      "reviews": 4471
+    },
+    {
+      "rank": 2,
+      "asin": "B0BM63Y76W",
+      "title": "VALSOLE Heavy Duty Support Pain Relief Orthotics - 220+ lbs Plantar Fasciitis High Arch Support Insoles for Men Women, Flat Feet Orthotic Insert, Work Boot Shoe Insole, Absorb Shock with Every Step",
+      "brand": "VALSOLE",
+      "price": 35.98,
+      "salesParent": 44792,
+      "revenue": 1408708.38,
+      "rating": 4.3,
+      "reviews": 32298
+    },
+    {
+      "rank": 3,
+      "asin": "B000KPKMX0",
+      "title": "PowerStep Pinnacle Insoles, Plantar Fasciitis Relief (M 10-10.5, W 12-12.5)",
+      "brand": "PowerStep",
+      "price": 47.5,
+      "salesParent": 25289,
+      "revenue": 1297831.5,
+      "rating": 4.5,
+      "reviews": 31982
+    },
+    {
+      "rank": 4,
+      "asin": "B0DK786TKV",
+      "title": "WalkHero 220+lbs Pain Relief Insoles, High Arch Support Inserts Women Men",
+      "brand": "WALK·HERO COMFORT AND SUPPORT",
+      "price": 17.99,
+      "salesParent": 72228,
+      "revenue": 1148425.12,
+      "rating": 4.4,
+      "reviews": 4489
+    },
+    {
+      "rank": 5,
+      "asin": "B075YH3D7N",
+      "title": "WalkHero Plantar Fasciitis Insoles, Arch Support Inserts for Pain Relief",
+      "brand": "WALK·HERO COMFORT AND SUPPORT",
+      "price": 14.99,
+      "salesParent": 55883,
+      "revenue": 1078541.88,
+      "rating": 4.3,
+      "reviews": 76183
+    },
+    {
+      "rank": 6,
+      "asin": "B0033BPBD4",
+      "title": "Superfeet All-Purpose High Arch Support Insoles, 9.5–11 M / 10.5–12 W",
+      "brand": "Superfeet",
+      "price": 59.95,
+      "salesParent": 15136,
+      "revenue": 907403.19,
+      "rating": 4.4,
+      "reviews": 34704
+    },
+    {
+      "rank": 7,
+      "asin": "B079J1PT1T",
+      "title": "CURREX RunPro Insoles for Running Shoes, Arch Support Inserts to Help Reduce Fatigue, Prevent Injuries, Boost Performance for Men &amp; Women (Medium Arch, Size Large)",
+      "brand": "currex",
+      "price": 59.95,
+      "salesParent": 13223,
+      "revenue": 792718.88,
+      "rating": 4.5,
+      "reviews": 3159
+    },
+    {
+      "rank": 8,
+      "asin": "B01M7VGCTI",
+      "title": "Dr. Scholl's Work All-Day Superior Comfort Insoles (with) Massaging Gel, Men, 1 Pair, Trim to Fit",
+      "brand": "Dr. Scholl's",
+      "price": 12.97,
+      "salesParent": 50427,
+      "revenue": 651012.56,
+      "rating": 4.5,
+      "reviews": 62056
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 27,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 27,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 27877636,
+    "priorHeadRevenue": 22000635,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 96,
+      "newCount": 10,
+      "pct": 10,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 73,
+      "brandCount": 42,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.37,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0HDPPQ69F",
+        "title": "Dr. Scholl’s Advanced Pain Relief Insoles - Men Women,Heavy Duty Orthotics - Work Shoes&amp;Boots,Plantar Fasciitis&amp;Arch Support,Shock-Absorbing,up to 340 lbs, I Men 12.5-13|Women 13.5-14 (Pack of 12)",
+        "rating": 4.3,
+        "reviews": 4471
+      },
+      {
+        "rank": 2,
+        "asin": "B0BM63Y76W",
+        "title": "VALSOLE Heavy Duty Support Pain Relief Orthotics - 220+ lbs Plantar Fasciitis High Arch Support Insoles for Men Women, Flat Feet Orthotic Insert, Work Boot Shoe Insole, Absorb Shock with Every Step",
+        "rating": 4.3,
+        "reviews": 32298
+      },
+      {
+        "rank": 3,
+        "asin": "B000KPKMX0",
+        "title": "PowerStep Pinnacle Insoles, Plantar Fasciitis Relief (M 10-10.5, W 12-12.5)",
+        "rating": 4.5,
+        "reviews": 31982
+      },
+      {
+        "rank": 4,
+        "asin": "B0DK786TKV",
+        "title": "WalkHero 220+lbs Pain Relief Insoles, High Arch Support Inserts Women Men",
+        "rating": 4.4,
+        "reviews": 4489
+      },
+      {
+        "rank": 5,
+        "asin": "B075YH3D7N",
+        "title": "WalkHero Plantar Fasciitis Insoles, Arch Support Inserts for Pain Relief",
+        "rating": 4.3,
+        "reviews": 76183
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3760941:3779911:3780081",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

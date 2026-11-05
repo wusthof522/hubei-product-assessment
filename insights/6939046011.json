@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "6939046011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins, Minerals & Supplements > Herbal Supplements > Green Coffee Bean Extract",
+  "categoryPathCn": "健康与家居 > 身、泳和附剂 > 草本补充 > 绿咖啡豆提取物",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 35,
+    "totalRevenue": 475303,
+    "avgRevenue": 13580,
+    "medianPrice": 21.99,
+    "priceBand": "$16.99 - $24.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0BG5J57KH",
+      "title": "Uric Acid Cleanse Support with Green Coffee Beans Extract - 120 Capsules",
+      "brand": "Natures Craft",
+      "price": 29.99,
+      "salesParent": 10787,
+      "revenue": 323502.12,
+      "rating": 4.5,
+      "reviews": 13010
+    },
+    {
+      "rank": 2,
+      "asin": "B0DPQVS82S",
+      "title": "Green Tea Extract 20:1 + Green Coffee Bean &amp; Apple Cider Vinegar - 120 Caps",
+      "brand": "NUTRAHARMONY",
+      "price": 17.89,
+      "salesParent": 1964,
+      "revenue": 33466.56,
+      "rating": 4.4,
+      "reviews": 996
+    },
+    {
+      "rank": 3,
+      "asin": "B00H28YG1C",
+      "title": "Old School Labs Premium Thermogenic Fat Burner for Men &amp; Women, 120 Caps",
+      "brand": "Old School Labs",
+      "price": 49.99,
+      "salesParent": 496,
+      "revenue": 24795.04,
+      "rating": 4.1,
+      "reviews": 15885
+    },
+    {
+      "rank": 4,
+      "asin": "B0CJY8DR9W",
+      "title": "Green Coffee Bean Extract Powder, Slim Green Coffee, 18 Sachets",
+      "brand": "FARWIX",
+      "price": 23.79,
+      "salesParent": 629,
+      "revenue": 14963.91,
+      "rating": 4.4,
+      "reviews": 280
+    },
+    {
+      "rank": 5,
+      "asin": "B009VUZJTM",
+      "title": "NatureWise Green Coffee Bean Extract 800mg Supplement, 60 Capsules",
+      "brand": "NatureWise",
+      "price": 21.99,
+      "salesParent": 602,
+      "revenue": 13027.28,
+      "rating": 4.1,
+      "reviews": 7035
+    },
+    {
+      "rank": 6,
+      "asin": "B074WGLHFM",
+      "title": "Pure Green Coffee Bean Extract, 4 Ounce | Natural Caffeine, Green Coffee Bean with 50% Chlorogenic Acid | Vegan Friendly, Filler Free",
+      "brand": "Micro Ingredients",
+      "price": 19.99,
+      "salesParent": 526,
+      "revenue": 10498.96,
+      "rating": 4.2,
+      "reviews": 1427
+    },
+    {
+      "rank": 7,
+      "asin": "B00QVMKM0Y",
+      "title": "Neurobiologix Full Focus, Brain &amp; Mood Support Supplement, 90 Capsules",
+      "brand": "Neurobiologix",
+      "price": 45.95,
+      "salesParent": 191,
+      "revenue": 8776.45,
+      "rating": 4.3,
+      "reviews": 161
+    },
+    {
+      "rank": 8,
+      "asin": "B01N2I2MH7",
+      "title": "Green Coffee Bean Extract - Metabolism &amp; Weight Maintenance Support - 60 Ct",
+      "brand": "Natures Craft",
+      "price": 14.99,
+      "salesParent": 372,
+      "revenue": 5576.28,
+      "rating": 4.2,
+      "reviews": 3259
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -8,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -8,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 475303,
+    "priorHeadRevenue": 518942,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 35,
+      "newCount": 15,
+      "pct": 43,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 88,
+      "brandCount": 28,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.25,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0BG5J57KH",
+        "title": "Uric Acid Cleanse Support with Green Coffee Beans Extract - 120 Capsules",
+        "rating": 4.5,
+        "reviews": 13010
+      },
+      {
+        "rank": 2,
+        "asin": "B0DPQVS82S",
+        "title": "Green Tea Extract 20:1 + Green Coffee Bean &amp; Apple Cider Vinegar - 120 Caps",
+        "rating": 4.4,
+        "reviews": 996
+      },
+      {
+        "rank": 3,
+        "asin": "B00H28YG1C",
+        "title": "Old School Labs Premium Thermogenic Fat Burner for Men &amp; Women, 120 Caps",
+        "rating": 4.1,
+        "reviews": 15885
+      },
+      {
+        "rank": 4,
+        "asin": "B0CJY8DR9W",
+        "title": "Green Coffee Bean Extract Powder, Slim Green Coffee, 18 Sachets",
+        "rating": 4.4,
+        "reviews": 280
+      },
+      {
+        "rank": 5,
+        "asin": "B009VUZJTM",
+        "title": "NatureWise Green Coffee Bean Extract 800mg Supplement, 60 Capsules",
+        "rating": 4.1,
+        "reviews": 7035
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:23675621011:3764461:6939046011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

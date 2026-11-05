@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23777920011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins, Minerals & Supplements > Herbal Supplements > Gotu Kola",
+  "categoryPathCn": "健康与家居 > 身、泳和附剂 > 草本补充 > 哥图科拉",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 35,
+    "totalRevenue": 559316,
+    "avgRevenue": 15980,
+    "medianPrice": 18.95,
+    "priceBand": "$12.99 - $29.95",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B081FVJK5N",
+      "title": "NeuroQ Memory &amp; Focus Supplement - Brain Health Support - 60 Capsules",
+      "brand": "LifeSeasons",
+      "price": 69.95,
+      "salesParent": 5531,
+      "revenue": 386893.44,
+      "rating": 4.2,
+      "reviews": 2024
+    },
+    {
+      "rank": 2,
+      "asin": "B0DHZJH5YS",
+      "title": "Organifi Happy Drops Natural Mood Lifting Gummies, 60 Count",
+      "brand": "Organifi",
+      "price": 34.95,
+      "salesParent": 1337,
+      "revenue": 46728.15,
+      "rating": 3.9,
+      "reviews": 397
+    },
+    {
+      "rank": 3,
+      "asin": "B0979FQRM6",
+      "title": "Carlyle Gotu Kola Supplement | 180 Capsules | Traditional Herbal Extract",
+      "brand": "Carlyle",
+      "price": 9.99,
+      "salesParent": 1484,
+      "revenue": 14825.16,
+      "rating": 4.7,
+      "reviews": 2232
+    },
+    {
+      "rank": 4,
+      "asin": "B0036THM8A",
+      "title": "Gaia Herbs Hair, Skin &amp; Nails, 60 Vegan Capsules, 30 Servings",
+      "brand": "Gaia Herbs",
+      "price": 31.49,
+      "salesParent": 440,
+      "revenue": 13855.6,
+      "rating": 4.6,
+      "reviews": 364
+    },
+    {
+      "rank": 5,
+      "asin": "B003PG6OMO",
+      "title": "ORGANIC INDIA Gotu Kola, Centella Asiatica Herbal Supplement, 90 Capsules",
+      "brand": "ORGANIC INDIA",
+      "price": 22.99,
+      "salesParent": 607,
+      "revenue": 13839.6,
+      "rating": 4.5,
+      "reviews": 1152
+    },
+    {
+      "rank": 6,
+      "asin": "B0C168J9MM",
+      "title": "Wild &amp; Organic Gotu Kola Extract Drops - Brain Support Supplement - 4 oz",
+      "brand": "Wild &amp; Organic",
+      "price": 29.99,
+      "salesParent": 380,
+      "revenue": 11396.2,
+      "rating": 4.5,
+      "reviews": 389
+    },
+    {
+      "rank": 7,
+      "asin": "B0B6DY6R1G",
+      "title": "Centella Asiatica 500 mg 60 Capsules by Natural Systems - Gotu Kola Herb Moisturizer for Your Skin - Extract Also Beneficial for Calming Mind Tiredness",
+      "brand": "Natural Systems Naturasys",
+      "price": 12.65,
+      "salesParent": 813,
+      "revenue": 10284.45,
+      "rating": 4.8,
+      "reviews": 1345
+    },
+    {
+      "rank": 8,
+      "asin": "B091N2B1X6",
+      "title": "Himalaya USDA Organic Gotu Kola Capsules with Adaptogens, 650 mg,90 Caplets",
+      "brand": "Himalaya",
+      "price": 16.99,
+      "salesParent": 455,
+      "revenue": 7730.45,
+      "rating": 4.5,
+      "reviews": 459
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 186,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 186,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 559316,
+    "priorHeadRevenue": 195297,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 35,
+      "newCount": 10,
+      "pct": 29,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 85,
+      "brandCount": 33,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.49,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B081FVJK5N",
+        "title": "NeuroQ Memory &amp; Focus Supplement - Brain Health Support - 60 Capsules",
+        "rating": 4.2,
+        "reviews": 2024
+      },
+      {
+        "rank": 2,
+        "asin": "B0DHZJH5YS",
+        "title": "Organifi Happy Drops Natural Mood Lifting Gummies, 60 Count",
+        "rating": 3.9,
+        "reviews": 397
+      },
+      {
+        "rank": 3,
+        "asin": "B0979FQRM6",
+        "title": "Carlyle Gotu Kola Supplement | 180 Capsules | Traditional Herbal Extract",
+        "rating": 4.7,
+        "reviews": 2232
+      },
+      {
+        "rank": 4,
+        "asin": "B0036THM8A",
+        "title": "Gaia Herbs Hair, Skin &amp; Nails, 60 Vegan Capsules, 30 Servings",
+        "rating": 4.6,
+        "reviews": 364
+      },
+      {
+        "rank": 5,
+        "asin": "B003PG6OMO",
+        "title": "ORGANIC INDIA Gotu Kola, Centella Asiatica Herbal Supplement, 90 Capsules",
+        "rating": 4.5,
+        "reviews": 1152
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:23675621011:3764461:23777920011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

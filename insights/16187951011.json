@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "16187951011",
+  "level": "L4",
+  "categoryPathEn": "Home & Kitchen > Furniture > Kids' Furniture > Poufs",
+  "categoryPathCn": "家居用品 > 家具 > 儿童家具 > 蒲团",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "insufficient",
+  "marketSize": {
+    "sampleCount": 11,
+    "totalRevenue": 1609,
+    "avgRevenue": 146,
+    "medianPrice": 89.0,
+    "priceBand": "$34.29 - $200.0",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0BW2CQP5X",
+      "title": "Jaxx Mallo Modular Pouf Classroom Bean Bag Seat, Premium Vinyl - Royal Blue",
+      "brand": "Jaxx",
+      "price": 200.0,
+      "salesParent": 7,
+      "revenue": 1400.0,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "rank": 2,
+      "asin": "B08833MY3H",
+      "title": "Waterproof Cushion Plush Animal Storage Oxford Chair Zipper Cover Cushion Stool Plush Soft Toy Leisure Seat Sofa-1",
+      "brand": "QIROG",
+      "price": 34.29,
+      "salesParent": 4,
+      "revenue": 137.16,
+      "rating": 2.6,
+      "reviews": 2
+    },
+    {
+      "rank": 3,
+      "asin": "B0BZK1V9QH",
+      "title": "Sweet Jojo Designs Blush Pink Yellow Vintage Floral Boho Girl Ottoman Pouf Cover Unstuffed Poof Floor Footstool Square Cube Pouffe Storage Baby Nursery Kids Room Bohemian Shabby Chic Farmhouse White",
+      "brand": "Sweet Jojo Designs",
+      "price": 23.99,
+      "salesParent": 3,
+      "revenue": 71.97,
+      "rating": 3.3,
+      "reviews": 18
+    },
+    {
+      "rank": 4,
+      "asin": "B07XRYQZWD",
+      "title": "Lorena Canals Pouffe",
+      "brand": "Lorena Canals",
+      "price": 259.0,
+      "salesParent": 0,
+      "revenue": 0.0,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "rank": 5,
+      "asin": "B08XK5BZJQ",
+      "title": "GAMENOTE Round Floor Cushions for Classroom - Comfy Memory Flexible Seating Floor Seat Cushion for Kids Distance Learning (6 Pieces)",
+      "brand": "GAMENOTE",
+      "price": 39.99,
+      "salesParent": 0,
+      "revenue": 0.0,
+      "rating": 4.8,
+      "reviews": 78
+    },
+    {
+      "rank": 6,
+      "asin": "B0C1HTLD69",
+      "title": "Soft and Comfortable Kids Ottoman Toddler Pouf Seating for Your Little One's Playroom or Nursery (Basil Mint)",
+      "brand": "GooseWaddle",
+      "price": 119.99,
+      "salesParent": 0,
+      "revenue": 0.0,
+      "rating": 4.9,
+      "reviews": 16
+    },
+    {
+      "rank": 7,
+      "asin": "B0CKKWFF63",
+      "title": "Airplane Seat Extender for Kids Toddler Airplane Bed Baby Hammock Foot Rest for Flying Nap Cot for Flight Kid Plane Footrest Portable Sleeping Mats Child Travel Essentials Accessories Must Haves Black",
+      "brand": "Unichild",
+      "price": 26.99,
+      "salesParent": 0,
+      "revenue": 0.0,
+      "rating": 3.3,
+      "reviews": 35
+    },
+    {
+      "rank": 8,
+      "asin": "B0CN78CQ5Q",
+      "title": "Kaplan Early Learning Company Washable Wicker Poufs - Set of 4",
+      "brand": "Kaplan Early Learning Company",
+      "price": 169.95,
+      "salesParent": 0,
+      "revenue": 0.0,
+      "rating": null,
+      "reviews": null
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": null,
+    "direction": "flat",
+    "comparable": null,
+    "rawYoyPct": -44,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1609,
+    "priorHeadRevenue": 2856,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 11,
+      "newCount": 3,
+      "pct": 27,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 100,
+      "brandCount": 10,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 3.87,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0BW2CQP5X",
+        "title": "Jaxx Mallo Modular Pouf Classroom Bean Bag Seat, Premium Vinyl - Royal Blue",
+        "rating": null,
+        "reviews": null
+      },
+      {
+        "rank": 2,
+        "asin": "B08833MY3H",
+        "title": "Waterproof Cushion Plush Animal Storage Oxford Chair Zipper Cover Cushion Stool Plush Soft Toy Leisure Seat Sofa-1",
+        "rating": 2.6,
+        "reviews": 2
+      },
+      {
+        "rank": 3,
+        "asin": "B0BZK1V9QH",
+        "title": "Sweet Jojo Designs Blush Pink Yellow Vintage Floral Boho Girl Ottoman Pouf Cover Unstuffed Poof Floor Footstool Square Cube Pouffe Storage Baby Nursery Kids Room Bohemian Shabby Chic Farmhouse White",
+        "rating": 3.3,
+        "reviews": 18
+      },
+      {
+        "rank": 4,
+        "asin": "B07XRYQZWD",
+        "title": "Lorena Canals Pouffe",
+        "rating": null,
+        "reviews": null
+      },
+      {
+        "rank": 5,
+        "asin": "B08XK5BZJQ",
+        "title": "GAMENOTE Round Floor Cushions for Classroom - Comfy Memory Flexible Seating Floor Seat Cushion for Kids Distance Learning (6 Pieces)",
+        "rating": 4.8,
+        "reviews": 78
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "1055398:1063306:1063314:16187951011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "16412251",
+  "level": "L2",
+  "categoryPathEn": "Industrial & Scientific > Industrial Hardware",
+  "categoryPathCn": "工业类 > 工业硬件",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 96,
+    "totalRevenue": 5692445,
+    "avgRevenue": 59296,
+    "medianPrice": 16.99,
+    "priceBand": "$9.99 - $26.74",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B077PZLX6M",
+      "title": "Magnetic Hooks 20pcs 30lbs+ Cruise Essentials 2026 Magnet Hook",
+      "brand": "DIYMAG",
+      "price": 8.99,
+      "salesParent": 54962,
+      "revenue": 525436.75,
+      "rating": 4.4,
+      "reviews": 27232
+    },
+    {
+      "rank": 2,
+      "asin": "B0BR8SX468",
+      "title": "Optish Over The Door Hooks, Door Hanger Hook for Hanging, Towel Racks for Bathroom with 12 Coat Hook, Coat Rack College Dorm Essentials Bathroom Accessories（1 Pack, Black）",
+      "brand": "Optish",
+      "price": 9.99,
+      "salesParent": 20669,
+      "revenue": 192635.08,
+      "rating": 4.4,
+      "reviews": 7460
+    },
+    {
+      "rank": 3,
+      "asin": "B0D94YXWSB",
+      "title": "LYNK Professional® Home™ Over the Door Hooks - 9 Hook – Over the Door Coat Rack - Over the Door Hanger - Hanging Towels or Clothes - Bathroom, Bedroom, Laundry Room - Lifetime Ltd. Warranty, Black",
+      "brand": "LYNK",
+      "price": 25.99,
+      "salesParent": 7058,
+      "revenue": 183437.42,
+      "rating": 4.7,
+      "reviews": 17898
+    },
+    {
+      "rank": 4,
+      "asin": "B0B12RPYR2",
+      "title": "803Pcs Grommet Eyelet Pliers Kit, 1/4 Inch Grommet Tool Kit with 800 Metal Eyelets, Grommet Hand Press kit for Leather Crafts(Inside Dia: 6.4mm/Outer Dia: 12mm (A.I.S.)/Flange Width: ~3mm)",
+      "brand": "PAXCOO",
+      "price": 9.99,
+      "salesParent": 17528,
+      "revenue": 175104.72,
+      "rating": 4.4,
+      "reviews": 8673
+    },
+    {
+      "rank": 5,
+      "asin": "B0B5GHLB5C",
+      "title": "FINDMAG Magnetic Hooks for Cruise Cabins, 20 Pack 50LB+ Black Magnet Hooks",
+      "brand": "FINDMAG",
+      "price": 15.99,
+      "salesParent": 10712,
+      "revenue": 171284.88,
+      "rating": 4.2,
+      "reviews": 2520
+    },
+    {
+      "rank": 6,
+      "asin": "B0D78W36ZJ",
+      "title": "Grommet Tool Kit 1/2 1/4 3/8, Heavy Duty Tarp Grommet Kit for Fabric",
+      "brand": "HAPDEN",
+      "price": 49.99,
+      "salesParent": 3218,
+      "revenue": 154882.34,
+      "rating": 4.5,
+      "reviews": 3848
+    },
+    {
+      "rank": 7,
+      "asin": "B096G6QJ93",
+      "title": "ADIIL Q Hanger Ceiling Screw Hooks for Hanging Outdoor String Light, Plants",
+      "brand": "ADIIL",
+      "price": 9.99,
+      "salesParent": 15184,
+      "revenue": 151688.16,
+      "rating": 4.7,
+      "reviews": 8761
+    },
+    {
+      "rank": 8,
+      "asin": "B0DG7XXMV7",
+      "title": "Optish Over The Door Hooks, Door Hanger Hook, Over The Doors Towel Rack for Bathroom, Doors Towel Hanger for Hanging Coats Hats (1Pack, White)",
+      "brand": "Optish",
+      "price": 9.49,
+      "salesParent": 15537,
+      "revenue": 146047.8,
+      "rating": 4.5,
+      "reviews": 3718
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 8,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 8,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 5692445,
+    "priorHeadRevenue": 5290545,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 96,
+      "newCount": 17,
+      "pct": 18,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 34,
+      "brandCount": 67,
+      "level": "分散",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.53,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B077PZLX6M",
+        "title": "Magnetic Hooks 20pcs 30lbs+ Cruise Essentials 2026 Magnet Hook",
+        "rating": 4.4,
+        "reviews": 27232
+      },
+      {
+        "rank": 2,
+        "asin": "B0BR8SX468",
+        "title": "Optish Over The Door Hooks, Door Hanger Hook for Hanging, Towel Racks for Bathroom with 12 Coat Hook, Coat Rack College Dorm Essentials Bathroom Accessories（1 Pack, Black）",
+        "rating": 4.4,
+        "reviews": 7460
+      },
+      {
+        "rank": 3,
+        "asin": "B0D94YXWSB",
+        "title": "LYNK Professional® Home™ Over the Door Hooks - 9 Hook – Over the Door Coat Rack - Over the Door Hanger - Hanging Towels or Clothes - Bathroom, Bedroom, Laundry Room - Lifetime Ltd. Warranty, Black",
+        "rating": 4.7,
+        "reviews": 17898
+      },
+      {
+        "rank": 4,
+        "asin": "B0B12RPYR2",
+        "title": "803Pcs Grommet Eyelet Pliers Kit, 1/4 Inch Grommet Tool Kit with 800 Metal Eyelets, Grommet Hand Press kit for Leather Crafts(Inside Dia: 6.4mm/Outer Dia: 12mm (A.I.S.)/Flange Width: ~3mm)",
+        "rating": 4.4,
+        "reviews": 8673
+      },
+      {
+        "rank": 5,
+        "asin": "B0B5GHLB5C",
+        "title": "FINDMAG Magnetic Hooks for Cruise Cabins, 20 Pack 50LB+ Black Magnet Hooks",
+        "rating": 4.2,
+        "reviews": 2520
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "16310091:16412251",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

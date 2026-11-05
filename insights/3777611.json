@@ -1,0 +1,26 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3777611",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Sexual Wellness > Sensual Delights > Bath Items",
+  "categoryPathCn": "健康与家居 > 性健康 > 感官愉悦用品 > 女士洗液",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "empty",
+  "marketSize": {
+    "sampleCount": 0
+  },
+  "topProducts": [],
+  "trend": {
+    "yoyPct": null,
+    "direction": "flat"
+  },
+  "competition": {},
+  "voc": {
+    "avgRating": null,
+    "top5": [],
+    "painPoints": []
+  }
+}

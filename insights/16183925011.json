@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "16183925011",
+  "level": "L4",
+  "categoryPathEn": "Home & Kitchen > Furniture > Living Room Furniture > Poufs",
+  "categoryPathCn": "家居用品 > 家具 > 客厅家具 > 蒲团",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 96,
+    "totalRevenue": 1361853,
+    "avgRevenue": 14186,
+    "medianPrice": 55.99,
+    "priceBand": "$39.98 - $78.49",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0D9VWDHV9",
+      "title": "HIGOGOGO Round Stuffed Pouf Ottoman, Corduroy Poufs with Foam Chunk Filling, Furry and Fluffy Pouf Foot Stool Storage Ottoman, 20 X 15 Floor Poufs Foot Rest for Living Room, Dark Grey",
+      "brand": "HIGOGOGO",
+      "price": 29.99,
+      "salesParent": 2403,
+      "revenue": 79827.66,
+      "rating": 4.1,
+      "reviews": 2724
+    },
+    {
+      "rank": 2,
+      "asin": "B0G2LBV78X",
+      "title": "23.6in Pouf Ottoman, Corduroy Footstool Foot Rest Seating, Beige",
+      "brand": "Fabulcozy",
+      "price": 59.84,
+      "salesParent": 971,
+      "revenue": 65571.63,
+      "rating": 4.6,
+      "reviews": 213
+    },
+    {
+      "rank": 3,
+      "asin": "B0FWQPC3TD",
+      "title": "Round Stuffed Pouf Ottoman (Gray, 20&quot; D x 20&quot; W x 15&quot; H)",
+      "brand": "Manyday",
+      "price": 38.99,
+      "salesParent": 1595,
+      "revenue": 62189.05,
+      "rating": 4.4,
+      "reviews": 302
+    },
+    {
+      "rank": 4,
+      "asin": "B0F21VRS8L",
+      "title": "HIGOGOGO Pouf Ottoman Stuffed Round Modern Foam Filled Foot Rest Poufs for Living Room Chair Decorative 20 X 15 Inches Boho Relax Stool for Wedding Christmas Party, Beige",
+      "brand": "HIGOGOGO",
+      "price": 45.99,
+      "salesParent": 1309,
+      "revenue": 55409.97,
+      "rating": 4.1,
+      "reviews": 505
+    },
+    {
+      "rank": 5,
+      "asin": "B0DMSDMVR7",
+      "title": "HIGOGOGO Square Stuffed Pouf Ottoman, Corduroy Poufs with Foam Chunk Filling, Furry and Fluffy Pouf Foot Stool Storage Ottoman, 21 X 21 Floor Poufs Foot Rest for Living Room, Dark Grey",
+      "brand": "HIGOGOGO",
+      "price": 44.99,
+      "salesParent": 1120,
+      "revenue": 49728.0,
+      "rating": 4.4,
+      "reviews": 663
+    },
+    {
+      "rank": 6,
+      "asin": "B0FH22LR8D",
+      "title": "SHOUREN Stuffed Round Ottoman,Pouf Ottoman Foot Rest,18 X 14,Beige",
+      "brand": "SHOUREN",
+      "price": 29.98,
+      "salesParent": 1304,
+      "revenue": 49304.24,
+      "rating": 4.2,
+      "reviews": 250
+    },
+    {
+      "rank": 7,
+      "asin": "B0HCNX45N1",
+      "title": "Hobestluk Round Stuffed Pouf Ottoman L-Chevron Brown",
+      "brand": "Hobestluk",
+      "price": 219.99,
+      "salesParent": 222,
+      "revenue": 48837.78,
+      "rating": 5.0,
+      "reviews": 4
+    },
+    {
+      "rank": 8,
+      "asin": "B0FH42ZJ26",
+      "title": "Round Pouf Ottoman,Corduroy Foot Rest,Beige,20x15 in",
+      "brand": "INSPIRE CRAFTER",
+      "price": 39.98,
+      "salesParent": 1356,
+      "revenue": 45114.12,
+      "rating": 4.2,
+      "reviews": 230
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 7,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 7,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1361853,
+    "priorHeadRevenue": 1274597,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 96,
+      "newCount": 61,
+      "pct": 64,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 52,
+      "brandCount": 48,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.27,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0D9VWDHV9",
+        "title": "HIGOGOGO Round Stuffed Pouf Ottoman, Corduroy Poufs with Foam Chunk Filling, Furry and Fluffy Pouf Foot Stool Storage Ottoman, 20 X 15 Floor Poufs Foot Rest for Living Room, Dark Grey",
+        "rating": 4.1,
+        "reviews": 2724
+      },
+      {
+        "rank": 2,
+        "asin": "B0G2LBV78X",
+        "title": "23.6in Pouf Ottoman, Corduroy Footstool Foot Rest Seating, Beige",
+        "rating": 4.6,
+        "reviews": 213
+      },
+      {
+        "rank": 3,
+        "asin": "B0FWQPC3TD",
+        "title": "Round Stuffed Pouf Ottoman (Gray, 20&quot; D x 20&quot; W x 15&quot; H)",
+        "rating": 4.4,
+        "reviews": 302
+      },
+      {
+        "rank": 4,
+        "asin": "B0F21VRS8L",
+        "title": "HIGOGOGO Pouf Ottoman Stuffed Round Modern Foam Filled Foot Rest Poufs for Living Room Chair Decorative 20 X 15 Inches Boho Relax Stool for Wedding Christmas Party, Beige",
+        "rating": 4.1,
+        "reviews": 505
+      },
+      {
+        "rank": 5,
+        "asin": "B0DMSDMVR7",
+        "title": "HIGOGOGO Square Stuffed Pouf Ottoman, Corduroy Poufs with Foam Chunk Filling, Furry and Fluffy Pouf Foot Stool Storage Ottoman, 21 X 21 Floor Poufs Foot Rest for Living Room, Dark Grey",
+        "rating": 4.4,
+        "reviews": 663
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "1055398:1063306:1063318:16183925011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

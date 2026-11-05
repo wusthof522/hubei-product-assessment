@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3774561",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins, Minerals & Supplements > Antioxidants > CoQ10",
+  "categoryPathCn": "健康与家居 > 身、泳和附剂 > 抗拒 > CoQ10",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 19324194,
+    "avgRevenue": 193242,
+    "medianPrice": 34.99,
+    "priceBand": "$25.51 - $54.8",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0BL1Z8MVD",
+      "title": "Qunol Ultra CoQ10 100mg, 3x Better Absorption, Antioxidant, 90 Softgels",
+      "brand": "Qunol",
+      "price": 23.39,
+      "salesParent": 65754,
+      "revenue": 1595192.0,
+      "rating": 4.7,
+      "reviews": 29082
+    },
+    {
+      "rank": 2,
+      "asin": "B0055OUOQQ",
+      "title": "Qunol Ultra CoQ10 100mg, 3X Better Absorption, Antioxidant, 120 Softgels",
+      "brand": "Qunol",
+      "price": 29.97,
+      "salesParent": 37597,
+      "revenue": 1126782.12,
+      "rating": 4.7,
+      "reviews": 60381
+    },
+    {
+      "rank": 3,
+      "asin": "B0FX3FMMJ7",
+      "title": "CYMBIOTIKA Liposomal Glutathione – PQQ, CoQ10, Detox &amp; Skin Support",
+      "brand": "CYMBIOTIKA",
+      "price": 54.34,
+      "salesParent": 16040,
+      "revenue": 1042118.81,
+      "rating": 4.4,
+      "reviews": 312
+    },
+    {
+      "rank": 4,
+      "asin": "B0BNTF1DRM",
+      "title": "Qunol Ultra CoQ10 200mg, Ultra-High Absorption, Antioxidant, 60 Softgels",
+      "brand": "Qunol",
+      "price": 26.78,
+      "salesParent": 34320,
+      "revenue": 949634.38,
+      "rating": 4.6,
+      "reviews": 10599
+    },
+    {
+      "rank": 5,
+      "asin": "B073VK5TP4",
+      "title": "Qunol Ubiquinol 200mg, Extra Strength, Powerful Antioxidant, 60 Softgels",
+      "brand": "Qunol",
+      "price": 35.98,
+      "salesParent": 20406,
+      "revenue": 760939.75,
+      "rating": 4.5,
+      "reviews": 8856
+    },
+    {
+      "rank": 6,
+      "asin": "B072LD2NZ7",
+      "title": "Qunol Mega Ubiquinol CoQ10 100mg, Superior Absorption, 100 Softgels",
+      "brand": "Qunol",
+      "price": 26.96,
+      "salesParent": 23423,
+      "revenue": 646709.06,
+      "rating": 4.6,
+      "reviews": 23462
+    },
+    {
+      "rank": 7,
+      "asin": "B07CDXRBVJ",
+      "title": "Nature Made CoQ10 200mg Softgels for Heart Health Support, 105 Softgels",
+      "brand": "Nature Made",
+      "price": 28.49,
+      "salesParent": 19829,
+      "revenue": 630165.62,
+      "rating": 4.7,
+      "reviews": 14283
+    },
+    {
+      "rank": 8,
+      "asin": "B00H4HT0EE",
+      "title": "Life Extension Super Ubiquinol CoQ10, Shilajit, 100 mg, 60 Softgels",
+      "brand": "Life Extension",
+      "price": 37.37,
+      "salesParent": 16973,
+      "revenue": 616289.62,
+      "rating": 4.6,
+      "reviews": 3085
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 10,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 10,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 19324194,
+    "priorHeadRevenue": 17623142,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 8,
+      "pct": 8,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 53,
+      "brandCount": 53,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.64,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0BL1Z8MVD",
+        "title": "Qunol Ultra CoQ10 100mg, 3x Better Absorption, Antioxidant, 90 Softgels",
+        "rating": 4.7,
+        "reviews": 29082
+      },
+      {
+        "rank": 2,
+        "asin": "B0055OUOQQ",
+        "title": "Qunol Ultra CoQ10 100mg, 3X Better Absorption, Antioxidant, 120 Softgels",
+        "rating": 4.7,
+        "reviews": 60381
+      },
+      {
+        "rank": 3,
+        "asin": "B0FX3FMMJ7",
+        "title": "CYMBIOTIKA Liposomal Glutathione – PQQ, CoQ10, Detox &amp; Skin Support",
+        "rating": 4.4,
+        "reviews": 312
+      },
+      {
+        "rank": 4,
+        "asin": "B0BNTF1DRM",
+        "title": "Qunol Ultra CoQ10 200mg, Ultra-High Absorption, Antioxidant, 60 Softgels",
+        "rating": 4.6,
+        "reviews": 10599
+      },
+      {
+        "rank": 5,
+        "asin": "B073VK5TP4",
+        "title": "Qunol Ubiquinol 200mg, Extra Strength, Powerful Antioxidant, 60 Softgels",
+        "rating": 4.5,
+        "reviews": 8856
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:23675621011:3774521:3774561",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

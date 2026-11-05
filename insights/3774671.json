@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3774671",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins, Minerals & Supplements > Vitamins > Vitamin B",
+  "categoryPathCn": "健康与家居 > 身、泳和附剂 > 形象 > 图片B",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 50416266,
+    "avgRevenue": 504163,
+    "medianPrice": 25.97,
+    "priceBand": "$19.73 - $37.24",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B08FGZSW8L",
+      "title": "WEEM Hair Skin and Nails Gummies - Supports Healthy Hair - Vegan biotin Vitamins for Women &amp; Men Supports Faster Hair Growth, Stronger Nails, Healthy Skin, Extra Strength (1)",
+      "brand": "WEEM",
+      "price": 32.9,
+      "salesParent": 130175,
+      "revenue": 4471511.0,
+      "rating": 4.4,
+      "reviews": 29184
+    },
+    {
+      "rank": 2,
+      "asin": "B07WP7Q5BF",
+      "title": "ONNIT Alpha Brain Nootropic Brain Supplement for Focus &amp; Memory, 90 Count",
+      "brand": "ONNIT",
+      "price": 79.95,
+      "salesParent": 27567,
+      "revenue": 2202603.25,
+      "rating": 4.1,
+      "reviews": 73617
+    },
+    {
+      "rank": 3,
+      "asin": "B09RKDGYJD",
+      "title": "Biotin, Collagen &amp; Keratin + Full B-Complex - Hair Growth Support - 60 Caps",
+      "brand": "NUTRAHARMONY",
+      "price": 27.99,
+      "salesParent": 68888,
+      "revenue": 1790399.12,
+      "rating": 4.5,
+      "reviews": 20165
+    },
+    {
+      "rank": 4,
+      "asin": "B07TK5K5TQ",
+      "title": "TRU NIAGEN NAD Supplement, Nicotinamide Riboside 300mg, 30 Daily Servings",
+      "brand": "TRU NIAGEN",
+      "price": 49.0,
+      "salesParent": 32795,
+      "revenue": 1606955.0,
+      "rating": 4.3,
+      "reviews": 14703
+    },
+    {
+      "rank": 5,
+      "asin": "B07HX2DMY8",
+      "title": "Wholesome Story Myo-Inositol &amp; D-Chiro Inositol Supplement for Women | Fertility Supplements for Hormonal Balance &amp; Ovarian Health Support | Myoinositol | Ideal 40:1 Ratio | 30 Servings",
+      "brand": "Wholesome Story",
+      "price": 27.95,
+      "salesParent": 56457,
+      "revenue": 1560471.5,
+      "rating": 4.4,
+      "reviews": 36391
+    },
+    {
+      "rank": 6,
+      "asin": "B0CNDDQ4WR",
+      "title": "MaryRuth's Hair Growth Max Liposomal 10000mcg Biotin, Thicker Hair, 15.22oz",
+      "brand": "MARYRUTH'S",
+      "price": 69.95,
+      "salesParent": 26072,
+      "revenue": 1546330.38,
+      "rating": 4.3,
+      "reviews": 3276
+    },
+    {
+      "rank": 7,
+      "asin": "B0938NKV1G",
+      "title": "L Methyl Folate 15mg + Methyl B12 Cofactor, High Potency Active 5-MTHF Form",
+      "brand": "Triquetra Health",
+      "price": 21.99,
+      "salesParent": 68379,
+      "revenue": 1503654.25,
+      "rating": 4.6,
+      "reviews": 9881
+    },
+    {
+      "rank": 8,
+      "asin": "B00JYFN6DU",
+      "title": "Pure Encapsulations B-Complex Plus, 120 Capsules",
+      "brand": "Pure Encapsulations",
+      "price": 42.0,
+      "salesParent": 35166,
+      "revenue": 1476972.0,
+      "rating": 4.8,
+      "reviews": 11559
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 24,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 24,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 50416266,
+    "priorHeadRevenue": 40818326,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 8,
+      "pct": 8,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 32,
+      "brandCount": 57,
+      "level": "分散",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.59,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B08FGZSW8L",
+        "title": "WEEM Hair Skin and Nails Gummies - Supports Healthy Hair - Vegan biotin Vitamins for Women &amp; Men Supports Faster Hair Growth, Stronger Nails, Healthy Skin, Extra Strength (1)",
+        "rating": 4.4,
+        "reviews": 29184
+      },
+      {
+        "rank": 2,
+        "asin": "B07WP7Q5BF",
+        "title": "ONNIT Alpha Brain Nootropic Brain Supplement for Focus &amp; Memory, 90 Count",
+        "rating": 4.1,
+        "reviews": 73617
+      },
+      {
+        "rank": 3,
+        "asin": "B09RKDGYJD",
+        "title": "Biotin, Collagen &amp; Keratin + Full B-Complex - Hair Growth Support - 60 Caps",
+        "rating": 4.5,
+        "reviews": 20165
+      },
+      {
+        "rank": 4,
+        "asin": "B07TK5K5TQ",
+        "title": "TRU NIAGEN NAD Supplement, Nicotinamide Riboside 300mg, 30 Daily Servings",
+        "rating": 4.3,
+        "reviews": 14703
+      },
+      {
+        "rank": 5,
+        "asin": "B07HX2DMY8",
+        "title": "Wholesome Story Myo-Inositol &amp; D-Chiro Inositol Supplement for Women | Fertility Supplements for Hormonal Balance &amp; Ovarian Health Support | Myoinositol | Ideal 40:1 Ratio | 30 Servings",
+        "rating": 4.4,
+        "reviews": 36391
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:23675621011:6936790011:3774671",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

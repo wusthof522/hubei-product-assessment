@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "122389972011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Oral Care > Dental Floss & Picks > Floss Threaders",
+  "categoryPathCn": "健康与家居 > 口腔护理 > 齿间清理 > 牙线穿引器",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 20,
+    "totalRevenue": 71610,
+    "avgRevenue": 3580,
+    "medianPrice": 8.28,
+    "priceBand": "$6.71 - $15.77",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B00DURFAFU",
+      "title": "GUM EEZ-Thru Floss Threaders, Dental Flossers for Braces, Bridges, &amp; Implants",
+      "brand": "GUM",
+      "price": 6.61,
+      "salesParent": 7717,
+      "revenue": 47228.04,
+      "rating": 4.7,
+      "reviews": 10469
+    },
+    {
+      "rank": 2,
+      "asin": "B0G1TJRPQ3",
+      "title": "Floss Threaders for Braces, Bridges &amp; Dental Work, 500 Count (5 Packs of 100) | Dental Floss Threader | Easy Clean Between Teeth, Braces, Retainers &amp; Implants | Nylon, Disposable",
+      "brand": "RUCRZE",
+      "price": 7.99,
+      "salesParent": 1585,
+      "revenue": 12664.15,
+      "rating": 4.8,
+      "reviews": 195
+    },
+    {
+      "rank": 3,
+      "asin": "B0G1VS8S75",
+      "title": "GUM EEZ-Thru Floss Threaders, 840PQA, Dental Flossers for Braces, Bridges, &amp; Implants, Professional Samples, 5 Count (Pack of 100)",
+      "brand": "GUM",
+      "price": 38.03,
+      "salesParent": 100,
+      "revenue": 3780.0,
+      "rating": 4.4,
+      "reviews": 4
+    },
+    {
+      "rank": 4,
+      "asin": "B0FS1TN2D6",
+      "title": "Floss Threaders for Braces, Bridges &amp; Implants, Deep Clean, 560ct",
+      "brand": "Rizuko",
+      "price": 8.58,
+      "salesParent": 312,
+      "revenue": 2527.2,
+      "rating": 4.8,
+      "reviews": 28
+    },
+    {
+      "rank": 5,
+      "asin": "B0FCDYZW4R",
+      "title": "Pre-Cut 3-in-1 Floss, Spongy Threader Strands, Braces, 80 Units",
+      "brand": "GLI-Smile",
+      "price": 7.99,
+      "salesParent": 313,
+      "revenue": 2500.87,
+      "rating": 4.4,
+      "reviews": 149
+    },
+    {
+      "rank": 6,
+      "asin": "B0FPLV228F",
+      "title": "DanTicy 3-in-1 Floss Threader for Braces, Bridges &amp; Implants, 80 Strands",
+      "brand": "DanTicy",
+      "price": 7.99,
+      "salesParent": 304,
+      "revenue": 2428.96,
+      "rating": 4.3,
+      "reviews": 256
+    },
+    {
+      "rank": 7,
+      "asin": "B0HH9YFR1D",
+      "title": "1500 Count Floss Threaders, Deep Clean Dental Floss Threader for Bridges, Braces, Retainers &amp; Implants",
+      "brand": "ATZNZIK",
+      "price": 18.99,
+      "salesParent": 21,
+      "revenue": 416.85,
+      "rating": 5.0,
+      "reviews": 3
+    },
+    {
+      "rank": 8,
+      "asin": "B01ACPZDEK",
+      "title": "DenTek Floss Threaders 50 Count (Pack of 4)",
+      "brand": "DenTek",
+      "price": 16.86,
+      "salesParent": 3,
+      "revenue": 50.01,
+      "rating": 3.9,
+      "reviews": 4
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": null,
+    "direction": "flat",
+    "comparable": null,
+    "rawYoyPct": 200,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 71610,
+    "priorHeadRevenue": 23857,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 20,
+      "newCount": 11,
+      "pct": 55,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 99,
+      "brandCount": 15,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.51,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B00DURFAFU",
+        "title": "GUM EEZ-Thru Floss Threaders, Dental Flossers for Braces, Bridges, &amp; Implants",
+        "rating": 4.7,
+        "reviews": 10469
+      },
+      {
+        "rank": 2,
+        "asin": "B0G1TJRPQ3",
+        "title": "Floss Threaders for Braces, Bridges &amp; Dental Work, 500 Count (5 Packs of 100) | Dental Floss Threader | Easy Clean Between Teeth, Braces, Retainers &amp; Implants | Nylon, Disposable",
+        "rating": 4.8,
+        "reviews": 195
+      },
+      {
+        "rank": 3,
+        "asin": "B0G1VS8S75",
+        "title": "GUM EEZ-Thru Floss Threaders, 840PQA, Dental Flossers for Braces, Bridges, &amp; Implants, Professional Samples, 5 Count (Pack of 100)",
+        "rating": 4.4,
+        "reviews": 4
+      },
+      {
+        "rank": 4,
+        "asin": "B0FS1TN2D6",
+        "title": "Floss Threaders for Braces, Bridges &amp; Implants, Deep Clean, 560ct",
+        "rating": 4.8,
+        "reviews": 28
+      },
+      {
+        "rank": 5,
+        "asin": "B0FCDYZW4R",
+        "title": "Pre-Cut 3-in-1 Floss, Spongy Threader Strands, Braces, 80 Units",
+        "rating": 4.4,
+        "reviews": 149
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:10079992011:13213824011:122389972011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

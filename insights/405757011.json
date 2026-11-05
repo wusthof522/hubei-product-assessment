@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "405757011",
+  "level": "L2",
+  "categoryPathEn": "Musical Instruments > Live Sound & Stage",
+  "categoryPathCn": "乐器 > 现场声音",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 98,
+    "totalRevenue": 17482229,
+    "avgRevenue": 178390,
+    "medianPrice": 125.49,
+    "priceBand": "$44.5 - $304.41",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0DZNQ7MM5",
+      "title": "800W Fog Machine, 4500CFM for Halloween, Disco Light &amp; Remote",
+      "brand": "Dashsafe",
+      "price": 55.97,
+      "salesParent": 16199,
+      "revenue": 922695.0,
+      "rating": 4.3,
+      "reviews": 928
+    },
+    {
+      "rank": 2,
+      "asin": "B0FM443ZHM",
+      "title": "1200W Fog Machine, 6000CFM for Halloween, Disco Light &amp; Remote",
+      "brand": "Dashsafe",
+      "price": 59.99,
+      "salesParent": 12048,
+      "revenue": 841191.38,
+      "rating": 4.1,
+      "reviews": 621
+    },
+    {
+      "rank": 3,
+      "asin": "B07T28NQKX",
+      "title": "AGPTEK Fog Machine, 12 Colors, 600W Smoke Machine, Low Fluid Auto Shutoff",
+      "brand": "AGPTEK",
+      "price": 59.98,
+      "salesParent": 14398,
+      "revenue": 797217.25,
+      "rating": 4.2,
+      "reviews": 6152
+    },
+    {
+      "rank": 4,
+      "asin": "B0777S56RB",
+      "title": "FogWorx Extreme High Density Fog Juice - Quart – 32 Fluid Ounces of Long Lasting, High Output, Odorless Water Based Machine Fluid for 400 to 1500 Watt Machines",
+      "brand": "Sanco Industries",
+      "price": 17.99,
+      "salesParent": 44348,
+      "revenue": 778307.38,
+      "rating": 4.6,
+      "reviews": 22516
+    },
+    {
+      "rank": 5,
+      "asin": "B0H9KKHGGR",
+      "title": "1200W Fog Machine, 6000CFM for Halloween, Disco Light &amp; Remote",
+      "brand": "Dashsafe",
+      "price": 99.99,
+      "salesParent": 8773,
+      "revenue": 647973.81,
+      "rating": 2.5,
+      "reviews": 22
+    },
+    {
+      "rank": 6,
+      "asin": "B081YNQG29",
+      "title": "Fog Machine, Smoke Machine with Remote Control for Halloween, Party",
+      "brand": "VIRFUN",
+      "price": 38.99,
+      "salesParent": 13600,
+      "revenue": 539920.0,
+      "rating": 4.1,
+      "reviews": 1331
+    },
+    {
+      "rank": 7,
+      "asin": "B0D86TTLGZ",
+      "title": "Karaoke Machine for Adults with 2 Wireless Microphones, 200W PA System",
+      "brand": "PPMIC",
+      "price": 129.74,
+      "salesParent": 3445,
+      "revenue": 446954.31,
+      "rating": 4.3,
+      "reviews": 2026
+    },
+    {
+      "rank": 8,
+      "asin": "B0DDLDS5GT",
+      "title": "Fog Machine Liquid, 32 oz, High-Density, Long-Lasting, Water-Based Formula",
+      "brand": "Tillbrook",
+      "price": 16.99,
+      "salesParent": 26482,
+      "revenue": 425830.56,
+      "rating": 4.6,
+      "reviews": 1521
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 14,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 14,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 17482229,
+    "priorHeadRevenue": 15284028,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 98,
+      "newCount": 28,
+      "pct": 29,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 33,
+      "brandCount": 72,
+      "level": "分散",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.31,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0DZNQ7MM5",
+        "title": "800W Fog Machine, 4500CFM for Halloween, Disco Light &amp; Remote",
+        "rating": 4.3,
+        "reviews": 928
+      },
+      {
+        "rank": 2,
+        "asin": "B0FM443ZHM",
+        "title": "1200W Fog Machine, 6000CFM for Halloween, Disco Light &amp; Remote",
+        "rating": 4.1,
+        "reviews": 621
+      },
+      {
+        "rank": 3,
+        "asin": "B07T28NQKX",
+        "title": "AGPTEK Fog Machine, 12 Colors, 600W Smoke Machine, Low Fluid Auto Shutoff",
+        "rating": 4.2,
+        "reviews": 6152
+      },
+      {
+        "rank": 4,
+        "asin": "B0777S56RB",
+        "title": "FogWorx Extreme High Density Fog Juice - Quart – 32 Fluid Ounces of Long Lasting, High Output, Odorless Water Based Machine Fluid for 400 to 1500 Watt Machines",
+        "rating": 4.6,
+        "reviews": 22516
+      },
+      {
+        "rank": 5,
+        "asin": "B0H9KKHGGR",
+        "title": "1200W Fog Machine, 6000CFM for Halloween, Disco Light &amp; Remote",
+        "rating": 2.5,
+        "reviews": 22
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "11091801:405757011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

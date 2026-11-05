@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "679541011",
+  "level": "L4",
+  "categoryPathEn": "Home & Kitchen > Furniture > Game & Recreation Room Furniture > Gliders",
+  "categoryPathCn": "家居用品 > 家具 > 游戏 > 摆动式沙发长躺椅",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 93,
+    "totalRevenue": 3760286,
+    "avgRevenue": 40433,
+    "medianPrice": 329.99,
+    "priceBand": "$194.99 - $459.49",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0DJ77Q6CD",
+      "title": "Modern Nursery Rocking Chair, Teddy Upholstered Rocking Chair with Footrest, Comfortable Rocker Glider with Side Pocket, Rocker Glider for Living Room, Bedroom, Nursing Room (Beige)",
+      "brand": "NIOIIKIT",
+      "price": 175.98,
+      "salesParent": 1262,
+      "revenue": 232637.08,
+      "rating": 4.4,
+      "reviews": 413
+    },
+    {
+      "rank": 2,
+      "asin": "B0DHGXQXHG",
+      "title": "Mamazing Lullapod Power Nursery Rocking Chair with HugAssist Armrest",
+      "brand": "MAMAZING",
+      "price": 759.99,
+      "salesParent": 292,
+      "revenue": 222010.52,
+      "rating": 4.5,
+      "reviews": 312
+    },
+    {
+      "rank": 3,
+      "asin": "B0DF753NCB",
+      "title": "Rocking Chair Nursery Teddy Upholstered Glider Rocker Rocking Accent Chair Padded Seat with High Backrest Armchair Comfy Side Chair for Living Room Bedroom Offices (Grey Teddy)",
+      "brand": "SAETSFEG",
+      "price": 114.98,
+      "salesParent": 1682,
+      "revenue": 190873.36,
+      "rating": 4.3,
+      "reviews": 1148
+    },
+    {
+      "rank": 4,
+      "asin": "B0C2W853R8",
+      "title": "Nurture&amp; The Glider Plus - Premium Nursery Power Recliner | Swivel Chair with Adjustable Head Support and Adjustable Lumbar Support | Built-in USB - The Ultimate Comfort for Nursing, Relaxing (Ivory)",
+      "brand": "Nurture&amp;",
+      "price": 1149.0,
+      "salesParent": 127,
+      "revenue": 151958.05,
+      "rating": 4.5,
+      "reviews": 146
+    },
+    {
+      "rank": 5,
+      "asin": "B0CSTC81XZ",
+      "title": "Delta Children Mercer Electronic Power Recliner and Swivel Glider with USB Port in LiveSmart Performance Fabric - Water Repellent &amp; Stain Resistant, Pearl",
+      "brand": "Delta Children",
+      "price": 399.99,
+      "salesParent": 370,
+      "revenue": 148344.09,
+      "rating": 4.3,
+      "reviews": 117
+    },
+    {
+      "rank": 6,
+      "asin": "B0CBLP5G97",
+      "title": "Swivel Rocker Recliner Chair, Nursery Glider Chair, Nursery Rocking Chairs, Manual Reclining Chair, White",
+      "brand": "CANMOV",
+      "price": 299.99,
+      "salesParent": 389,
+      "revenue": 116696.11,
+      "rating": 4.4,
+      "reviews": 834
+    },
+    {
+      "rank": 7,
+      "asin": "B0GX8CB826",
+      "title": "GarveeHome Rocking Chair, Nursery Glider Chair with Footrest, White",
+      "brand": "GarveeHome",
+      "price": 169.99,
+      "salesParent": 536,
+      "revenue": 91982.96,
+      "rating": 3.9,
+      "reviews": 9
+    },
+    {
+      "rank": 8,
+      "asin": "B0CH9BX36T",
+      "title": "Namesake Crewe Nursery Glider Recliner w/ 360° Swivel, Tan Gingham",
+      "brand": "NAMESAKE",
+      "price": 799.0,
+      "salesParent": 112,
+      "revenue": 89488.0,
+      "rating": 4.5,
+      "reviews": 141
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -10,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -10,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 3760286,
+    "priorHeadRevenue": 4159921,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 93,
+      "newCount": 56,
+      "pct": 60,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 33,
+      "brandCount": 52,
+      "level": "分散",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.46,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0DJ77Q6CD",
+        "title": "Modern Nursery Rocking Chair, Teddy Upholstered Rocking Chair with Footrest, Comfortable Rocker Glider with Side Pocket, Rocker Glider for Living Room, Bedroom, Nursing Room (Beige)",
+        "rating": 4.4,
+        "reviews": 413
+      },
+      {
+        "rank": 2,
+        "asin": "B0DHGXQXHG",
+        "title": "Mamazing Lullapod Power Nursery Rocking Chair with HugAssist Armrest",
+        "rating": 4.5,
+        "reviews": 312
+      },
+      {
+        "rank": 3,
+        "asin": "B0DF753NCB",
+        "title": "Rocking Chair Nursery Teddy Upholstered Glider Rocker Rocking Accent Chair Padded Seat with High Backrest Armchair Comfy Side Chair for Living Room Bedroom Offices (Grey Teddy)",
+        "rating": 4.3,
+        "reviews": 1148
+      },
+      {
+        "rank": 4,
+        "asin": "B0C2W853R8",
+        "title": "Nurture&amp; The Glider Plus - Premium Nursery Power Recliner | Swivel Chair with Adjustable Head Support and Adjustable Lumbar Support | Built-in USB - The Ultimate Comfort for Nursing, Relaxing (Ivory)",
+        "rating": 4.5,
+        "reviews": 146
+      },
+      {
+        "rank": 5,
+        "asin": "B0CSTC81XZ",
+        "title": "Delta Children Mercer Electronic Power Recliner and Swivel Glider with USB Port in LiveSmart Performance Fabric - Water Repellent &amp; Stain Resistant, Pearl",
+        "rating": 4.3,
+        "reviews": 117
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "1055398:1063306:5422303011:679541011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

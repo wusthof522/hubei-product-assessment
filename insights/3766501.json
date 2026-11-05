@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3766501",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins, Minerals & Supplements > Herbal Supplements > Noni",
+  "categoryPathCn": "健康与家居 > 身、泳和附剂 > 草本补充 > 诺丽果",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 41,
+    "totalRevenue": 497290,
+    "avgRevenue": 12129,
+    "medianPrice": 26.95,
+    "priceBand": "$13.98 - $34.94",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B07FLDK6ZY",
+      "title": "Super Greens Powder, 40+ Organic Superfoods, Probiotics &amp; Enzymes for Energy, Digestion, Gut Health &amp; Bloating | Organic Fruit &amp; Veggie Drink Mix with Prebiotic Fiber, Daily Green Juice Smoothie Blend",
+      "brand": "NutraChamps",
+      "price": 31.6,
+      "salesParent": 7901,
+      "revenue": 249671.61,
+      "rating": 4.3,
+      "reviews": 14908
+    },
+    {
+      "rank": 2,
+      "asin": "B0F33RYMVG",
+      "title": "Zeolite Binder Detox with Clinoptilolite, Chlorella, Cilantro &amp; NAC, 90ct",
+      "brand": "Etta Vita",
+      "price": 29.94,
+      "salesParent": 2488,
+      "revenue": 75610.32,
+      "rating": 4.5,
+      "reviews": 1118
+    },
+    {
+      "rank": 3,
+      "asin": "B0D45ZFQR6",
+      "title": "NEW AGE Resveratrol, Berberine, Grape Seed Extract, Quercetin, Polyphenol Supplement for Women and Men with Noni Extract, N-Acetyl Cysteine, Acai Extract - 120 Capsules",
+      "brand": "NEW AGE",
+      "price": 34.95,
+      "salesParent": 1074,
+      "revenue": 37536.3,
+      "rating": 4.5,
+      "reviews": 1720
+    },
+    {
+      "rank": 4,
+      "asin": "B00121USSU",
+      "title": "TAHITIAN NONI Juice by Morinda, Authentic Pure Noni Fruit Juice, 1L Bottle",
+      "brand": "Tahitian Noni",
+      "price": 70.94,
+      "salesParent": 490,
+      "revenue": 34760.6,
+      "rating": 4.6,
+      "reviews": 6006
+    },
+    {
+      "rank": 5,
+      "asin": "B0DYVGPSH5",
+      "title": "Resveratrol + Berberine, Quercetin, ACV, Acai &amp; Noni Supplement - 120 Caps",
+      "brand": "NUTRAHARMONY",
+      "price": 17.89,
+      "salesParent": 2034,
+      "revenue": 34679.7,
+      "rating": 4.5,
+      "reviews": 927
+    },
+    {
+      "rank": 6,
+      "asin": "B0CBSRZJ4Y",
+      "title": "Hawaiian Pure Noni Juice, Authentic Aged Noni Fruit Juice, 1x 32oz Bottle",
+      "brand": "Healing Noni",
+      "price": 34.94,
+      "salesParent": 248,
+      "revenue": 8665.12,
+      "rating": 4.1,
+      "reviews": 122
+    },
+    {
+      "rank": 7,
+      "asin": "B0DP864G76",
+      "title": "Liberty Lifestyle Resveratrol, Berberine, Grape Seed Extract, Quercetin, Polyphenol Supplement for Women and Men with Noni Extract, N-Acetyl Cysteine, Acai Extract - 2-Pack",
+      "brand": "Liberty Lifestyle",
+      "price": 26.95,
+      "salesParent": 246,
+      "revenue": 6629.7,
+      "rating": 4.4,
+      "reviews": 209
+    },
+    {
+      "rank": 8,
+      "asin": "B01E7WWVY4",
+      "title": "Colon Cleanser and Detox for Digestive Support, 15 Day Fast-Acting Cleanse",
+      "brand": "BioSchwartz",
+      "price": 13.97,
+      "salesParent": 395,
+      "revenue": 5518.15,
+      "rating": 3.9,
+      "reviews": 10398
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -35,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -35,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 497290,
+    "priorHeadRevenue": 770462,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 41,
+      "newCount": 3,
+      "pct": 7,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 87,
+      "brandCount": 37,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.35,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B07FLDK6ZY",
+        "title": "Super Greens Powder, 40+ Organic Superfoods, Probiotics &amp; Enzymes for Energy, Digestion, Gut Health &amp; Bloating | Organic Fruit &amp; Veggie Drink Mix with Prebiotic Fiber, Daily Green Juice Smoothie Blend",
+        "rating": 4.3,
+        "reviews": 14908
+      },
+      {
+        "rank": 2,
+        "asin": "B0F33RYMVG",
+        "title": "Zeolite Binder Detox with Clinoptilolite, Chlorella, Cilantro &amp; NAC, 90ct",
+        "rating": 4.5,
+        "reviews": 1118
+      },
+      {
+        "rank": 3,
+        "asin": "B0D45ZFQR6",
+        "title": "NEW AGE Resveratrol, Berberine, Grape Seed Extract, Quercetin, Polyphenol Supplement for Women and Men with Noni Extract, N-Acetyl Cysteine, Acai Extract - 120 Capsules",
+        "rating": 4.5,
+        "reviews": 1720
+      },
+      {
+        "rank": 4,
+        "asin": "B00121USSU",
+        "title": "TAHITIAN NONI Juice by Morinda, Authentic Pure Noni Fruit Juice, 1L Bottle",
+        "rating": 4.6,
+        "reviews": 6006
+      },
+      {
+        "rank": 5,
+        "asin": "B0DYVGPSH5",
+        "title": "Resveratrol + Berberine, Quercetin, ACV, Acai &amp; Noni Supplement - 120 Caps",
+        "rating": 4.5,
+        "reviews": 927
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:23675621011:3764461:3766501",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

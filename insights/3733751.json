@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3733751",
+  "level": "L4",
+  "categoryPathEn": "Home & Kitchen > Furniture > Home Office Furniture > Computer Armoires & Hutches",
+  "categoryPathCn": "家居用品 > 家具 > 家庭办公家具 > 电脑桌书柜组合",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 55,
+    "totalRevenue": 46059,
+    "avgRevenue": 837,
+    "medianPrice": 221.01,
+    "priceBand": "$118.0 - $476.01",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0DD7ZRRPM",
+      "title": "NBF Credenza Desk with Hutch Storage for Executive Office, Gray",
+      "brand": "nbf signature series",
+      "price": 1450.9,
+      "salesParent": 9,
+      "revenue": 13058.1,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "rank": 2,
+      "asin": "B0H63D2832",
+      "title": "BOLUO Desk Hutch Dorm Room, Desktop Bookshelf for Computer Desk 37&quot; Hutch Organizer Tabletop Storage Rack for College Essentials Home Office Black",
+      "brand": "BOLUO",
+      "price": 59.99,
+      "salesParent": 115,
+      "revenue": 6898.85,
+      "rating": 3.6,
+      "reviews": 37
+    },
+    {
+      "rank": 3,
+      "asin": "B01HUPZ7Q4",
+      "title": "Boss Office Products Holland 71&quot; Executive U-Shape Desk with File Storage Pedestal and Hutch, Mocha",
+      "brand": "Boss Office Products",
+      "price": 1395.99,
+      "salesParent": 4,
+      "revenue": 5586.88,
+      "rating": 4.3,
+      "reviews": 9
+    },
+    {
+      "rank": 4,
+      "asin": "B0F5GPWSJ6",
+      "title": "Furinno Classic Desk Shelf, 3-Shelf Desktop Hutch, Book Shelf, 3-Tier Desk Organzier, for Office Supplies, Office Desk Accessories, for Home Office, College, Dorm, White",
+      "brand": "Furinno",
+      "price": 49.34,
+      "salesParent": 76,
+      "revenue": 3665.48,
+      "rating": 4.5,
+      "reviews": 57
+    },
+    {
+      "rank": 5,
+      "asin": "B0051U4LI6",
+      "title": "Global Industrial Mobile LCD Console Computer Cabinet for 21&quot; Diagonal Monitors, Steel Construction, 24-1/2&quot;W x 22-1/2&quot;D x 55-1/2&quot;H, Black Powder Coat Finish",
+      "brand": "Global Industrial",
+      "price": 517.48,
+      "salesParent": 6,
+      "revenue": 3092.46,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "rank": 6,
+      "asin": "B0B35944PZ",
+      "title": "Boss Office Products 71 Inch Executive U-Shape Desk with File Storage Pedestal and 4 Door Hutch, Driftwood",
+      "brand": "Boss Office Products",
+      "price": 1415.99,
+      "salesParent": 2,
+      "revenue": 2803.98,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "rank": 7,
+      "asin": "B0045AHU7W",
+      "title": "Sauder Heritage Hill Hutch For 404944, Classic Cherry finish",
+      "brand": "Sauder",
+      "price": 221.01,
+      "salesParent": 11,
+      "revenue": 2343.99,
+      "rating": 4.0,
+      "reviews": 97
+    },
+    {
+      "rank": 8,
+      "asin": "B08MBBVNHR",
+      "title": "Office-Depot Realspace® Magellan Performance 71&quot; W Hutch for L-Shaped Corner Desk, Espresso",
+      "brand": "Office-Depot",
+      "price": 231.01,
+      "salesParent": 9,
+      "revenue": 2079.09,
+      "rating": 4.6,
+      "reviews": 30
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": null,
+    "direction": "flat",
+    "comparable": false,
+    "rawYoyPct": -75,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 46059,
+    "priorHeadRevenue": 185211,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 55,
+      "newCount": 6,
+      "pct": 11,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 76,
+      "brandCount": 23,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 3.96,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0DD7ZRRPM",
+        "title": "NBF Credenza Desk with Hutch Storage for Executive Office, Gray",
+        "rating": null,
+        "reviews": null
+      },
+      {
+        "rank": 2,
+        "asin": "B0H63D2832",
+        "title": "BOLUO Desk Hutch Dorm Room, Desktop Bookshelf for Computer Desk 37&quot; Hutch Organizer Tabletop Storage Rack for College Essentials Home Office Black",
+        "rating": 3.6,
+        "reviews": 37
+      },
+      {
+        "rank": 3,
+        "asin": "B01HUPZ7Q4",
+        "title": "Boss Office Products Holland 71&quot; Executive U-Shape Desk with File Storage Pedestal and Hutch, Mocha",
+        "rating": 4.3,
+        "reviews": 9
+      },
+      {
+        "rank": 4,
+        "asin": "B0F5GPWSJ6",
+        "title": "Furinno Classic Desk Shelf, 3-Shelf Desktop Hutch, Book Shelf, 3-Tier Desk Organzier, for Office Supplies, Office Desk Accessories, for Home Office, College, Dorm, White",
+        "rating": 4.5,
+        "reviews": 57
+      },
+      {
+        "rank": 5,
+        "asin": "B0051U4LI6",
+        "title": "Global Industrial Mobile LCD Console Computer Cabinet for 21&quot; Diagonal Monitors, Steel Construction, 24-1/2&quot;W x 22-1/2&quot;D x 55-1/2&quot;H, Black Powder Coat Finish",
+        "rating": null,
+        "reviews": null
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "1055398:1063306:1063312:3733751",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

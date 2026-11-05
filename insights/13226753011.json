@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "13226753011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Health Care > Feminine Care > Feminine Wipes",
+  "categoryPathCn": "健康与家居 > 卫生保健 > 女士卫生护理 > 湿巾",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 2460291,
+    "avgRevenue": 24851,
+    "medianPrice": 12.39,
+    "priceBand": "$9.49 - $18.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B08CMP263B",
+      "title": "Lume Acidified Deodorant Wipes - 15 ct, 3 pk (Cool Cucumber)",
+      "brand": "Lume",
+      "price": 19.99,
+      "salesParent": 32748,
+      "revenue": 630726.5,
+      "rating": 4.3,
+      "reviews": 38255
+    },
+    {
+      "rank": 2,
+      "asin": "B0B984P2VB",
+      "title": "薇姿净味每日清新女性湿巾，20片装（3包装）",
+      "brand": "Vagisil",
+      "price": 8.39,
+      "salesParent": 25397,
+      "revenue": 220699.92,
+      "rating": 4.7,
+      "reviews": 24630
+    },
+    {
+      "rank": 3,
+      "asin": "B078JG7HWT",
+      "title": "The Honey Pot Company - Feminine Wipes - Sensitive - 30ct, Pack of 1",
+      "brand": "The Honey Pot Company",
+      "price": 9.88,
+      "salesParent": 21395,
+      "revenue": 211382.61,
+      "rating": 4.6,
+      "reviews": 8781
+    },
+    {
+      "rank": 4,
+      "asin": "B076HFFX3J",
+      "title": "Summer's Eve Gentle Feminine Wipes, Simply Sensitive, 32 Count, 4 Pk",
+      "brand": "Summer's Eve",
+      "price": 15.48,
+      "salesParent": 12764,
+      "revenue": 197969.64,
+      "rating": 4.8,
+      "reviews": 13507
+    },
+    {
+      "rank": 5,
+      "asin": "B082VVQJBD",
+      "title": "BOOTY WIPES Feminine Flushable Wipes Wome, 320 Count (4 Packs of 80) Wet Wipes for Adults, pH Balanced with Aloe and Vitamin E, Gentle Cleansing Female Toilet Wipes for Sensitive Skin",
+      "brand": "BOOTY WIPES",
+      "price": 34.99,
+      "salesParent": 3261,
+      "revenue": 107286.91,
+      "rating": 4.5,
+      "reviews": 14278
+    },
+    {
+      "rank": 6,
+      "asin": "B0DFW5KSYZ",
+      "title": "Love Wellness pH Balanced Wipes | Fragrance-Free | 2-Pack",
+      "brand": "Love Wellness",
+      "price": 17.98,
+      "salesParent": 4458,
+      "revenue": 80154.84,
+      "rating": 4.5,
+      "reviews": 1201
+    },
+    {
+      "rank": 7,
+      "asin": "B0D96NZPSM",
+      "title": "Summer's Eve Gentle Feminine Wipes, Simply Sensitive, 12 Count",
+      "brand": "Summer's Eve",
+      "price": 2.18,
+      "salesParent": 28232,
+      "revenue": 61545.76,
+      "rating": 4.8,
+      "reviews": 7770
+    },
+    {
+      "rank": 8,
+      "asin": "B078RYNNPS",
+      "title": "Rael Gentle Feminine Wipes, Intimate Care with pH Level, Flushable (30 Ct)",
+      "brand": "Rael",
+      "price": 9.99,
+      "salesParent": 5438,
+      "revenue": 54325.62,
+      "rating": 4.5,
+      "reviews": 5968
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -24,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -24,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 2460291,
+    "priorHeadRevenue": 3223380,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 28,
+      "pct": 28,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 73,
+      "brandCount": 72,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.56,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B08CMP263B",
+        "title": "Lume Acidified Deodorant Wipes - 15 ct, 3 pk (Cool Cucumber)",
+        "rating": 4.3,
+        "reviews": 38255
+      },
+      {
+        "rank": 2,
+        "asin": "B0B984P2VB",
+        "title": "薇姿净味每日清新女性湿巾，20片装（3包装）",
+        "rating": 4.7,
+        "reviews": 24630
+      },
+      {
+        "rank": 3,
+        "asin": "B078JG7HWT",
+        "title": "The Honey Pot Company - Feminine Wipes - Sensitive - 30ct, Pack of 1",
+        "rating": 4.6,
+        "reviews": 8781
+      },
+      {
+        "rank": 4,
+        "asin": "B076HFFX3J",
+        "title": "Summer's Eve Gentle Feminine Wipes, Simply Sensitive, 32 Count, 4 Pk",
+        "rating": 4.8,
+        "reviews": 13507
+      },
+      {
+        "rank": 5,
+        "asin": "B082VVQJBD",
+        "title": "BOOTY WIPES Feminine Flushable Wipes Wome, 320 Count (4 Packs of 80) Wet Wipes for Adults, pH Balanced with Aloe and Vitamin E, Gentle Cleansing Female Toilet Wipes for Sensitive Skin",
+        "rating": 4.5,
+        "reviews": 14278
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3760941:3779501:13226753011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

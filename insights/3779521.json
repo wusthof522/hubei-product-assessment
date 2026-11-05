@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3779521",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Health Care > Feminine Care > Deodorant Sprays",
+  "categoryPathCn": "健康与家居 > 卫生保健 > 女士卫生护理 > 除臭喷雾剂",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 80,
+    "totalRevenue": 610285,
+    "avgRevenue": 7629,
+    "medianPrice": 16.7,
+    "priceBand": "$12.21 - $24.1",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B07KRTZW7D",
+      "title": "Summer's Eve Daily Freshing Feminine Spray, Ultra, 2 Oz, 3 Pk",
+      "brand": "Summer's Eve",
+      "price": 9.87,
+      "salesParent": 18271,
+      "revenue": 180334.77,
+      "rating": 4.7,
+      "reviews": 26028
+    },
+    {
+      "rank": 2,
+      "asin": "B0FMGTDXNG",
+      "title": "Lume Whole Body Deodorant Spray Aluminum Free - 3.6 oz (Unscented)",
+      "brand": "Lume",
+      "price": 24.76,
+      "salesParent": 3907,
+      "revenue": 96737.32,
+      "rating": 3.7,
+      "reviews": 2016
+    },
+    {
+      "rank": 3,
+      "asin": "B0CJBNFT2S",
+      "title": "Secret Whole Body Deodorant Stick for Women, Peach &amp; Vanilla Blossom 2.4 oz",
+      "brand": "Secret",
+      "price": 8.68,
+      "salesParent": 4238,
+      "revenue": 39031.98,
+      "rating": 4.3,
+      "reviews": 5137
+    },
+    {
+      "rank": 4,
+      "asin": "B0H2DM95V2",
+      "title": "Baudie Deodorant Enhancer® Probiotic Underarm Toner - St.Tropez - Patented Pre-Deodorant Spray That Helps Deodorants Last Longer and Helps Sweat Stay Odorless - Spray, Wipe, Apply",
+      "brand": "Deodorant Enhancer",
+      "price": 26.99,
+      "salesParent": 1409,
+      "revenue": 37704.84,
+      "rating": 3.8,
+      "reviews": 74
+    },
+    {
+      "rank": 5,
+      "asin": "B0FSRJHPWV",
+      "title": "Luna Daily Spray-To-Wipe Trio | Cooling Body Mist &amp; Odor Control",
+      "brand": "Luna Daily",
+      "price": 34.0,
+      "salesParent": 885,
+      "revenue": 30090.0,
+      "rating": 4.3,
+      "reviews": 371
+    },
+    {
+      "rank": 6,
+      "asin": "B093CCS271",
+      "title": "Vagisil Scentsitive Scents Dry Spray, Peach Blossom, 2.6 Oz (4 Pack)",
+      "brand": "Vagisil",
+      "price": 11.88,
+      "salesParent": 2517,
+      "revenue": 29901.96,
+      "rating": 4.5,
+      "reviews": 18998
+    },
+    {
+      "rank": 7,
+      "asin": "B002ZG8HAW",
+      "title": "Norforms Feminine Deodorant Suppositories, Island Escape, 12 Ct, 3 Pk",
+      "brand": "Norforms",
+      "price": 13.63,
+      "salesParent": 1420,
+      "revenue": 20575.8,
+      "rating": 4.7,
+      "reviews": 6661
+    },
+    {
+      "rank": 8,
+      "asin": "B0F9F2YQF1",
+      "title": "LACTOMEDI Feminine Intimate Deodorant Spray | pH Balancing Spray | Artificial Fragrance-Free | Clinically Formulated for Odor Neutralization | Gentle, and Convenient | 1.01 fl oz (Aqua bloom)",
+      "brand": "LACTOMEDI",
+      "price": 15.99,
+      "salesParent": 1053,
+      "revenue": 16837.47,
+      "rating": 4.3,
+      "reviews": 258
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -54,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -54,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 610285,
+    "priorHeadRevenue": 1323570,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 80,
+      "newCount": 22,
+      "pct": 28,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 72,
+      "brandCount": 36,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.45,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B07KRTZW7D",
+        "title": "Summer's Eve Daily Freshing Feminine Spray, Ultra, 2 Oz, 3 Pk",
+        "rating": 4.7,
+        "reviews": 26028
+      },
+      {
+        "rank": 2,
+        "asin": "B0FMGTDXNG",
+        "title": "Lume Whole Body Deodorant Spray Aluminum Free - 3.6 oz (Unscented)",
+        "rating": 3.7,
+        "reviews": 2016
+      },
+      {
+        "rank": 3,
+        "asin": "B0CJBNFT2S",
+        "title": "Secret Whole Body Deodorant Stick for Women, Peach &amp; Vanilla Blossom 2.4 oz",
+        "rating": 4.3,
+        "reviews": 5137
+      },
+      {
+        "rank": 4,
+        "asin": "B0H2DM95V2",
+        "title": "Baudie Deodorant Enhancer® Probiotic Underarm Toner - St.Tropez - Patented Pre-Deodorant Spray That Helps Deodorants Last Longer and Helps Sweat Stay Odorless - Spray, Wipe, Apply",
+        "rating": 3.8,
+        "reviews": 74
+      },
+      {
+        "rank": 5,
+        "asin": "B0FSRJHPWV",
+        "title": "Luna Daily Spray-To-Wipe Trio | Cooling Body Mist &amp; Odor Control",
+        "rating": 4.3,
+        "reviews": 371
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3760941:3779501:3779521",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

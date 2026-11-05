@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "15718791",
+  "level": "L2",
+  "categoryPathEn": "Automotive > Oils & Fluids",
+  "categoryPathCn": "汽车 > 油类",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 24014720,
+    "avgRevenue": 240147,
+    "medianPrice": 38.18,
+    "priceBand": "$29.97 - $68.61",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B00J00X5YO",
+      "title": "Mobil 1 Advanced Fuel Economy Full Synthetic Motor Oil 0W-20, 5 Quart",
+      "brand": "Mobil",
+      "price": 31.97,
+      "salesParent": 73278,
+      "revenue": 2342697.5,
+      "rating": 4.8,
+      "reviews": 6561
+    },
+    {
+      "rank": 2,
+      "asin": "B00GZKC6EW",
+      "title": "Valvoline Advanced Full Synthetic SAE 0W-20 Motor Oil 5 QT",
+      "brand": "Valvoline",
+      "price": 31.47,
+      "salesParent": 52605,
+      "revenue": 1681255.75,
+      "rating": 4.8,
+      "reviews": 10691
+    },
+    {
+      "rank": 3,
+      "asin": "B00AM1Z67O",
+      "title": "Valvoline MaxLife High Mileage 5W-30 Synthetic Blend Motor Oil 5 Quart",
+      "brand": "Valvoline",
+      "price": 22.97,
+      "salesParent": 46447,
+      "revenue": 1066887.5,
+      "rating": 4.8,
+      "reviews": 14179
+    },
+    {
+      "rank": 4,
+      "asin": "B08QSLLNM8",
+      "title": "Archoil AR6500 Diesel Treatment (40 oz) Two Pack - Treats 800 Gallons, Diesel Fuel Additive - Lubricity Improver, Injector Cleaner, DPF &amp; Turbo Deposit Control, Cetane Booster",
+      "brand": "Archoil",
+      "price": 79.9,
+      "salesParent": 10989,
+      "revenue": 871207.94,
+      "rating": 4.8,
+      "reviews": 4095
+    },
+    {
+      "rank": 5,
+      "asin": "B07PSVLF6G",
+      "title": "Shell Rotella T6 Full Synthetic 15W-40 Diesel Engine Oil, 1 Gallon (3 Pack)",
+      "brand": "Shell Rotella",
+      "price": 84.98,
+      "salesParent": 8942,
+      "revenue": 759891.19,
+      "rating": 4.7,
+      "reviews": 3435
+    },
+    {
+      "rank": 6,
+      "asin": "B00JMCCE6U",
+      "title": "Pennzoil Ultra Platinum Full Synthetic 0W-40 Motor Oil, 1 Quart (6 Pack)",
+      "brand": "Pennzoil",
+      "price": 65.82,
+      "salesParent": 9967,
+      "revenue": 655529.56,
+      "rating": 4.8,
+      "reviews": 3020
+    },
+    {
+      "rank": 7,
+      "asin": "B00JTUBTU2",
+      "title": "Mobil 1 High Mileage Full Synthetic Motor Oil 5W-30, 5 Quart",
+      "brand": "Mobil",
+      "price": 31.97,
+      "salesParent": 19862,
+      "revenue": 634988.12,
+      "rating": 4.9,
+      "reviews": 10604
+    },
+    {
+      "rank": 8,
+      "asin": "B0DW3MFN2F",
+      "title": "Prolube Oil Treatment - Engine Oil Additive for Gas &amp; Diesel Engines - Reduces Wear, Noise, Vibration - Boosts Fuel Economy &amp; Horsepower - Works on Transmissions &amp; Differentials (1QT)",
+      "brand": "Prolube",
+      "price": 36.5,
+      "salesParent": 16665,
+      "revenue": 627437.25,
+      "rating": 4.6,
+      "reviews": 4008
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 39,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 39,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 24014720,
+    "priorHeadRevenue": 17227715,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 7,
+      "pct": 7,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 52,
+      "brandCount": 48,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.76,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B00J00X5YO",
+        "title": "Mobil 1 Advanced Fuel Economy Full Synthetic Motor Oil 0W-20, 5 Quart",
+        "rating": 4.8,
+        "reviews": 6561
+      },
+      {
+        "rank": 2,
+        "asin": "B00GZKC6EW",
+        "title": "Valvoline Advanced Full Synthetic SAE 0W-20 Motor Oil 5 QT",
+        "rating": 4.8,
+        "reviews": 10691
+      },
+      {
+        "rank": 3,
+        "asin": "B00AM1Z67O",
+        "title": "Valvoline MaxLife High Mileage 5W-30 Synthetic Blend Motor Oil 5 Quart",
+        "rating": 4.8,
+        "reviews": 14179
+      },
+      {
+        "rank": 4,
+        "asin": "B08QSLLNM8",
+        "title": "Archoil AR6500 Diesel Treatment (40 oz) Two Pack - Treats 800 Gallons, Diesel Fuel Additive - Lubricity Improver, Injector Cleaner, DPF &amp; Turbo Deposit Control, Cetane Booster",
+        "rating": 4.8,
+        "reviews": 4095
+      },
+      {
+        "rank": 5,
+        "asin": "B07PSVLF6G",
+        "title": "Shell Rotella T6 Full Synthetic 15W-40 Diesel Engine Oil, 1 Gallon (3 Pack)",
+        "rating": 4.7,
+        "reviews": 3435
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "15684181:15718791",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "6973683011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Diet & Sports Nutrition > Sports Nutrition > Healthy Snacks & Beverages",
+  "categoryPathCn": "健康与家居 > 暮和喜欢 > 运动营养 > 健康零食和饮料",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 9321036,
+    "avgRevenue": 93210,
+    "medianPrice": 24.56,
+    "priceBand": "$14.99 - $32.74",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B09GLBLPYG",
+      "title": "Quest Nutrition Tortilla Style Protein Chips Variety Pack, 12 Count",
+      "brand": "Quest",
+      "price": 27.45,
+      "salesParent": 128563,
+      "revenue": 3570194.5,
+      "rating": 4.5,
+      "reviews": 12551
+    },
+    {
+      "rank": 2,
+      "asin": "B09WCWK8LM",
+      "title": "Quest Nutrition Protein Chips Variety Pack, BBQ, Cheddar &amp; Sour Cream, Sour Cream &amp; Onion, High Protein, Low Carb, 1.1 oz (Pack of 12)",
+      "brand": "Quest",
+      "price": 26.98,
+      "salesParent": 59855,
+      "revenue": 1741780.5,
+      "rating": 4.4,
+      "reviews": 8484
+    },
+    {
+      "rank": 3,
+      "asin": "B0B5M5YB9G",
+      "title": "Quest Nutrition Cheese Crackers, 10g Protein, 5g Net Carbs, Made with Real Cheese, High Protein Snack, 12 Packs (1.06 oz Bags)",
+      "brand": "Quest",
+      "price": 21.96,
+      "salesParent": 18321,
+      "revenue": 401596.31,
+      "rating": 4.4,
+      "reviews": 6581
+    },
+    {
+      "rank": 4,
+      "asin": "B0B9WDZ7K9",
+      "title": "WILDE Protein Chips Variety Pack, 12g Protein, 1.34 oz Bags, Pack of 12",
+      "brand": "Wilde Chips",
+      "price": 35.99,
+      "salesParent": 7716,
+      "revenue": 377698.22,
+      "rating": 4.2,
+      "reviews": 3438
+    },
+    {
+      "rank": 5,
+      "asin": "B0BCXGYF2D",
+      "title": "Twin Peaks Low Carb, Keto Friendly Protein Puffs, 2 Serving 12 Pack, (60g, 42g Protein, 4g Carbs)",
+      "brand": "TWIN PEAKS INGREDIENTS",
+      "price": 64.99,
+      "salesParent": 5120,
+      "revenue": 332748.78,
+      "rating": 3.2,
+      "reviews": 44
+    },
+    {
+      "rank": 6,
+      "asin": "B0BGQKGYBK",
+      "title": "AWAKE - Caffeinated Chocolate Bites - 50mg Caffeine - Variety Pack (3 Flavors), 50 pieces - Peanut Butter, Milk, &amp; Caramel - Energy Bites - Coffee Alternative - Fairtrade, Gluten Free, Non GMO - 0.48oz",
+      "brand": "AWAKE Caffeinated Chocolate",
+      "price": 37.99,
+      "salesParent": 8552,
+      "revenue": 314371.5,
+      "rating": 4.7,
+      "reviews": 792
+    },
+    {
+      "rank": 7,
+      "asin": "B0FFKWKVMG",
+      "title": "Legendary Foods 22g Protein Chips, Zesty Ranch, Popped Not Fried Snack",
+      "brand": "Legendary Foods",
+      "price": 59.99,
+      "salesParent": 3823,
+      "revenue": 221389.92,
+      "rating": 4.6,
+      "reviews": 146
+    },
+    {
+      "rank": 8,
+      "asin": "B0BW4MHHDX",
+      "title": "Pure Protein Sour Cream &amp; Onion Popped Crisps, 12g Plant Based Protein",
+      "brand": "Pure Protein",
+      "price": 23.74,
+      "salesParent": 7082,
+      "revenue": 169330.62,
+      "rating": 4.3,
+      "reviews": 498
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 18,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 18,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 9321036,
+    "priorHeadRevenue": 7870557,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 42,
+      "pct": 42,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 82,
+      "brandCount": 59,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.13,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B09GLBLPYG",
+        "title": "Quest Nutrition Tortilla Style Protein Chips Variety Pack, 12 Count",
+        "rating": 4.5,
+        "reviews": 12551
+      },
+      {
+        "rank": 2,
+        "asin": "B09WCWK8LM",
+        "title": "Quest Nutrition Protein Chips Variety Pack, BBQ, Cheddar &amp; Sour Cream, Sour Cream &amp; Onion, High Protein, Low Carb, 1.1 oz (Pack of 12)",
+        "rating": 4.4,
+        "reviews": 8484
+      },
+      {
+        "rank": 3,
+        "asin": "B0B5M5YB9G",
+        "title": "Quest Nutrition Cheese Crackers, 10g Protein, 5g Net Carbs, Made with Real Cheese, High Protein Snack, 12 Packs (1.06 oz Bags)",
+        "rating": 4.4,
+        "reviews": 6581
+      },
+      {
+        "rank": 4,
+        "asin": "B0B9WDZ7K9",
+        "title": "WILDE Protein Chips Variety Pack, 12g Protein, 1.34 oz Bags, Pack of 12",
+        "rating": 4.2,
+        "reviews": 3438
+      },
+      {
+        "rank": 5,
+        "asin": "B0BCXGYF2D",
+        "title": "Twin Peaks Low Carb, Keto Friendly Protein Puffs, 2 Serving 12 Pack, (60g, 42g Protein, 4g Carbs)",
+        "rating": 3.2,
+        "reviews": 44
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3764441:6973663011:6973683011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

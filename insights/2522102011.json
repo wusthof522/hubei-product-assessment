@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "2522102011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Dolls & Accessories > Paper & Magnetic Dolls > Paper Dolls",
+  "categoryPathCn": "Toys & Games > Dolls & Accessories > Paper & Magnetic Dolls > Paper Dolls",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 44,
+    "totalRevenue": 23142,
+    "avgRevenue": 526,
+    "medianPrice": 23.31,
+    "priceBand": "$15.5 - $47.19",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B00X4MY5ZM",
+      "title": "eeBoo Musician and Artist Paper Dolls Set - Reusable Dress-Up Play with Stand-Up Scene, Travel-Friendly Screen-Free Fun for Kids Ages 5 and up",
+      "brand": "eeBoo",
+      "price": 17.99,
+      "salesParent": 344,
+      "revenue": 6188.56,
+      "rating": 4.5,
+      "reviews": 335
+    },
+    {
+      "rank": 2,
+      "asin": "B0D2PNBGTB",
+      "title": "MGA's Miniverse - Make It Mini Happy Hour 6PK",
+      "brand": "MGA's Miniverse",
+      "price": 59.94,
+      "salesParent": 102,
+      "revenue": 5836.44,
+      "rating": 4.3,
+      "reviews": 226
+    },
+    {
+      "rank": 3,
+      "asin": "B0DKP1K8RL",
+      "title": "jackinthebox Sticker/Paint by Number Baby Animal book craft for Girls",
+      "brand": "jackinthebox",
+      "price": 9.99,
+      "salesParent": 425,
+      "revenue": 4509.25,
+      "rating": 4.5,
+      "reviews": 140
+    },
+    {
+      "rank": 4,
+      "asin": "B0H25MSJXB",
+      "title": "Ellephantt &amp; Piggiee 1-25 Complete Collection Series，Paperback Edition",
+      "brand": "Xorz",
+      "price": 65.99,
+      "salesParent": 19,
+      "revenue": 1121.19,
+      "rating": 5.0,
+      "reviews": 1
+    },
+    {
+      "rank": 5,
+      "asin": "B0GJYJ71HL",
+      "title": "Dress Up Dolls for Girls – Premium Style &amp; Play 3D Pop-Up Boutique Paper Dolls Kit, Lula &amp; Ivy, 3 Pets &amp; 100+ Mix &amp; Match Outfits – Screen-Free Birthday Gift for 5 6 7 8 9 Year Old Girls",
+      "brand": "Beeplii",
+      "price": 49.99,
+      "salesParent": 19,
+      "revenue": 949.81,
+      "rating": 4.2,
+      "reviews": 27
+    },
+    {
+      "rank": 6,
+      "asin": "B0DB1KDP5R",
+      "title": "Magnetic Dress up Dolls - Girls Fun Mix and Match Play Magnetic Paper Dolls with 4 Themed Magnetic Costume Stickers for Creating Imaginative Birthday Gifts",
+      "brand": "Lovyan",
+      "price": 17.99,
+      "salesParent": 37,
+      "revenue": 665.63,
+      "rating": 4.6,
+      "reviews": 78
+    },
+    {
+      "rank": 7,
+      "asin": "B00O5Y03TA",
+      "title": "Klutz Magical Mermaids Book Kit",
+      "brand": "Klutz",
+      "price": 24.36,
+      "salesParent": 25,
+      "revenue": 633.5,
+      "rating": 4.8,
+      "reviews": 44
+    },
+    {
+      "rank": 8,
+      "asin": "B0GTNCWJ4S",
+      "title": "Dress Up Dolls for Girls – Meet Mia Premium Paper Doll Kit, Flip &amp; Play Wardrobe &amp; Showcase Studio, 50+ Reusable Mix &amp; Match Outfits – Screen-Free Birthday Gift for 5 6 7 8 9 Year Old Girls",
+      "brand": "Beeplii",
+      "price": 29.99,
+      "salesParent": 17,
+      "revenue": 509.83,
+      "rating": 4.4,
+      "reviews": 25
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 49,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 49,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 23142,
+    "priorHeadRevenue": 15569,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 44,
+      "newCount": 14,
+      "pct": 32,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 83,
+      "brandCount": 40,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.6,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B00X4MY5ZM",
+        "title": "eeBoo Musician and Artist Paper Dolls Set - Reusable Dress-Up Play with Stand-Up Scene, Travel-Friendly Screen-Free Fun for Kids Ages 5 and up",
+        "rating": 4.5,
+        "reviews": 335
+      },
+      {
+        "rank": 2,
+        "asin": "B0D2PNBGTB",
+        "title": "MGA's Miniverse - Make It Mini Happy Hour 6PK",
+        "rating": 4.3,
+        "reviews": 226
+      },
+      {
+        "rank": 3,
+        "asin": "B0DKP1K8RL",
+        "title": "jackinthebox Sticker/Paint by Number Baby Animal book craft for Girls",
+        "rating": 4.5,
+        "reviews": 140
+      },
+      {
+        "rank": 4,
+        "asin": "B0H25MSJXB",
+        "title": "Ellephantt &amp; Piggiee 1-25 Complete Collection Series，Paperback Edition",
+        "rating": 5.0,
+        "reviews": 1
+      },
+      {
+        "rank": 5,
+        "asin": "B0GJYJ71HL",
+        "title": "Dress Up Dolls for Girls – Premium Style &amp; Play 3D Pop-Up Boutique Paper Dolls Kit, Lula &amp; Ivy, 3 Pets &amp; 100+ Mix &amp; Match Outfits – Screen-Free Birthday Gift for 5 6 7 8 9 Year Old Girls",
+        "rating": 4.2,
+        "reviews": 27
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166118011:2522101011:2522102011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

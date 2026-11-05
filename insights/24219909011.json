@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "24219909011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Games & Accessories > Game Accessories > Game Master Screens",
+  "categoryPathCn": "玩具与游戏 > 游戏与配件 > 游戏配件 > 游戏主屏幕",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 48,
+    "totalRevenue": 145408,
+    "avgRevenue": 3029,
+    "medianPrice": 32.94,
+    "priceBand": "$21.24 - $43.74",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0HF1HNBRM",
+      "title": "Dungeons &amp; Dragons: World of Warcraft Bundle (Includes Wow Gameplay Expansion Book, Icecrown Citadel Adventure Map Pack + Wow Dungeon Master Screen)",
+      "brand": "Dungeons &amp; Dragons",
+      "price": 114.97,
+      "salesParent": 317,
+      "revenue": 36445.49,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "rank": 2,
+      "asin": "B0H6WLV764",
+      "title": "2026 Mah-Jong Cards Rules Large Size Revised Version - 4 Pcs",
+      "brand": "Featyyu",
+      "price": 9.99,
+      "salesParent": 1129,
+      "revenue": 12407.71,
+      "rating": 4.5,
+      "reviews": 53
+    },
+    {
+      "rank": 3,
+      "asin": "B0FP2D4LMG",
+      "title": "Stamp It! World Tour, Educational Map Geography Board Game for Kids 8-12",
+      "brand": "Clever Fox Play",
+      "price": 24.99,
+      "salesParent": 435,
+      "revenue": 10209.45,
+      "rating": 4.6,
+      "reviews": 43
+    },
+    {
+      "rank": 4,
+      "asin": "B0BRR4N4DS",
+      "title": "DND DM Screen 5e - D&amp;D Dungeon Master Screen 3D Faux Leather with Customizable Inserts - Dungeons &amp; Dragons GM / Game Master Accessories Gift for Man or Woman. Hide Dice Rolls, Maps &amp; Books (Bronze).",
+      "brand": "LYNX",
+      "price": 39.95,
+      "salesParent": 232,
+      "revenue": 9268.4,
+      "rating": 4.8,
+      "reviews": 757
+    },
+    {
+      "rank": 5,
+      "asin": "B0CD31W3LH",
+      "title": "CASEMATIX DM Screen Faux Leather 8-Panel Deluxe GM Screen - Eight Panel Folding Game Master Screen with 2 Swinging Panels and Wet Erase Pockets for TTRPGs, Inserts Not Included, Brown",
+      "brand": "CASEMATIX",
+      "price": 49.99,
+      "salesParent": 165,
+      "revenue": 8248.35,
+      "rating": 4.7,
+      "reviews": 407
+    },
+    {
+      "rank": 6,
+      "asin": "B0D3CSCMSR",
+      "title": "4-Panel DM Screen | Customizable DND Dungeon Master Guide with Inserts for Dungeon Masters | D&amp;D Starter Set | DND Starter kit d&amp;d Accessories | DND Gifts | DND dm Supplies",
+      "brand": "TIDYBOSS",
+      "price": 17.99,
+      "salesParent": 433,
+      "revenue": 7876.27,
+      "rating": 4.5,
+      "reviews": 267
+    },
+    {
+      "rank": 7,
+      "asin": "B0FMXXB8HS",
+      "title": "Dm Screen 5e, DND Dungeon Master Screen",
+      "brand": "Trymaker",
+      "price": 36.99,
+      "salesParent": 211,
+      "revenue": 7832.32,
+      "rating": 4.8,
+      "reviews": 150
+    },
+    {
+      "rank": 8,
+      "asin": "B09SKW2BNJ",
+      "title": "CZYY Faux Leather Dungeon Master Screen, 4-Panel DM Screen with Pockets",
+      "brand": "CZYY",
+      "price": 38.99,
+      "salesParent": 182,
+      "revenue": 7096.18,
+      "rating": 4.8,
+      "reviews": 1551
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 5,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 5,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 145408,
+    "priorHeadRevenue": 137954,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 48,
+      "newCount": 23,
+      "pct": 48,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 58,
+      "brandCount": 40,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.63,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0HF1HNBRM",
+        "title": "Dungeons &amp; Dragons: World of Warcraft Bundle (Includes Wow Gameplay Expansion Book, Icecrown Citadel Adventure Map Pack + Wow Dungeon Master Screen)",
+        "rating": null,
+        "reviews": null
+      },
+      {
+        "rank": 2,
+        "asin": "B0H6WLV764",
+        "title": "2026 Mah-Jong Cards Rules Large Size Revised Version - 4 Pcs",
+        "rating": 4.5,
+        "reviews": 53
+      },
+      {
+        "rank": 3,
+        "asin": "B0FP2D4LMG",
+        "title": "Stamp It! World Tour, Educational Map Geography Board Game for Kids 8-12",
+        "rating": 4.6,
+        "reviews": 43
+      },
+      {
+        "rank": 4,
+        "asin": "B0BRR4N4DS",
+        "title": "DND DM Screen 5e - D&amp;D Dungeon Master Screen 3D Faux Leather with Customizable Inserts - Dungeons &amp; Dragons GM / Game Master Accessories Gift for Man or Woman. Hide Dice Rolls, Maps &amp; Books (Bronze).",
+        "rating": 4.8,
+        "reviews": 757
+      },
+      {
+        "rank": 5,
+        "asin": "B0CD31W3LH",
+        "title": "CASEMATIX DM Screen Faux Leather 8-Panel Deluxe GM Screen - Eight Panel Folding Game Master Screen with 2 Swinging Panels and Wet Erase Pockets for TTRPGs, Inserts Not Included, Brown",
+        "rating": 4.7,
+        "reviews": 407
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166220011:166221011:24219909011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

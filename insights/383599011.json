@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "383599011",
+  "level": "L2",
+  "categoryPathEn": "Industrial & Scientific > Fasteners",
+  "categoryPathCn": "工业类 > 紧固件",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 95,
+    "totalRevenue": 6723675,
+    "avgRevenue": 70776,
+    "medianPrice": 25.99,
+    "priceBand": "$13.99 - $49.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B07XFX1HGW",
+      "title": "Deck Plus Deck Screws, #10 x 3in, 930 Pack, Red Epoxy",
+      "brand": "Deck Plus",
+      "price": 119.0,
+      "salesParent": 2655,
+      "revenue": 315945.0,
+      "rating": 4.4,
+      "reviews": 31
+    },
+    {
+      "rank": 2,
+      "asin": "B0DQ8DPPRD",
+      "title": "Pressure Rivet Nut Tool Kit, 430Pcs Metric Rivet Nut Combination",
+      "brand": "AskWay",
+      "price": 31.49,
+      "salesParent": 6595,
+      "revenue": 207676.55,
+      "rating": 4.6,
+      "reviews": 616
+    },
+    {
+      "rank": 3,
+      "asin": "B0D3J7VYMZ",
+      "title": "Mighty Fasteners 304 Stainless Steel Wedge Anchors 5/8&quot; X 7&quot; - 50 Pack",
+      "brand": "Mighty Fasteners",
+      "price": 349.99,
+      "salesParent": 521,
+      "revenue": 182344.78,
+      "rating": 4.6,
+      "reviews": 192
+    },
+    {
+      "rank": 4,
+      "asin": "B0CDBWS5ZB",
+      "title": "Wensilon #10 x 3 Deck Screws, 137PCS 2LB Bronze Exterior Wood Screws",
+      "brand": "Wensilon",
+      "price": 9.99,
+      "salesParent": 14533,
+      "revenue": 141115.44,
+      "rating": 4.6,
+      "reviews": 2917
+    },
+    {
+      "rank": 5,
+      "asin": "B0B9CLMMJY",
+      "title": "Deck Plus Deck Screws #10 x 3in, 310 Pieces,5 Lb Box, Brown",
+      "brand": "Deck Plus",
+      "price": 34.98,
+      "salesParent": 3975,
+      "revenue": 131493.0,
+      "rating": 4.7,
+      "reviews": 411
+    },
+    {
+      "rank": 6,
+      "asin": "B001PD2NYW",
+      "title": "GRK Fasteners RSS™ 5/16 x 4 Rugged Structural Framing Screws, 400 PCS",
+      "brand": "GRK",
+      "price": 178.95,
+      "salesParent": 706,
+      "revenue": 131457.2,
+      "rating": 4.8,
+      "reviews": 988
+    },
+    {
+      "rank": 7,
+      "asin": "B08HDFNDRP",
+      "title": "Drywall Anchors and Screws Assortment Kit, 270Pcs Dry Wall Anchors",
+      "brand": "KURUI",
+      "price": 9.99,
+      "salesParent": 13536,
+      "revenue": 131299.2,
+      "rating": 4.6,
+      "reviews": 5286
+    },
+    {
+      "rank": 8,
+      "asin": "B0100IKVFU",
+      "title": "Deck Plus Wood Screws, #10 x 2-1/2in, 5lb Box, 365 Pieces, Green",
+      "brand": "Deck Plus",
+      "price": 32.98,
+      "salesParent": 3975,
+      "revenue": 131095.5,
+      "rating": 4.8,
+      "reviews": 595
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 31,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 31,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 6723675,
+    "priorHeadRevenue": 5118587,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 95,
+      "newCount": 26,
+      "pct": 27,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 42,
+      "brandCount": 55,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.59,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B07XFX1HGW",
+        "title": "Deck Plus Deck Screws, #10 x 3in, 930 Pack, Red Epoxy",
+        "rating": 4.4,
+        "reviews": 31
+      },
+      {
+        "rank": 2,
+        "asin": "B0DQ8DPPRD",
+        "title": "Pressure Rivet Nut Tool Kit, 430Pcs Metric Rivet Nut Combination",
+        "rating": 4.6,
+        "reviews": 616
+      },
+      {
+        "rank": 3,
+        "asin": "B0D3J7VYMZ",
+        "title": "Mighty Fasteners 304 Stainless Steel Wedge Anchors 5/8&quot; X 7&quot; - 50 Pack",
+        "rating": 4.6,
+        "reviews": 192
+      },
+      {
+        "rank": 4,
+        "asin": "B0CDBWS5ZB",
+        "title": "Wensilon #10 x 3 Deck Screws, 137PCS 2LB Bronze Exterior Wood Screws",
+        "rating": 4.6,
+        "reviews": 2917
+      },
+      {
+        "rank": 5,
+        "asin": "B0B9CLMMJY",
+        "title": "Deck Plus Deck Screws #10 x 3in, 310 Pieces,5 Lb Box, Brown",
+        "rating": 4.7,
+        "reviews": 411
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "16310091:383599011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

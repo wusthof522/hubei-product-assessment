@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "51554011",
+  "level": "L2",
+  "categoryPathEn": "Tools & Home Improvement > Featured Categories",
+  "categoryPathCn": "工具 > 特色分类",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 80,
+    "totalRevenue": 321430,
+    "avgRevenue": 4018,
+    "medianPrice": 91.31,
+    "priceBand": "$39.99 - $195.53",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B07MT7PK82",
+      "title": "1/2/3 Inch Random Orbital Air Sander, Mini Pneumatic Sander for Auto Body Work, High Speed Air Powered Polisher with 15 Polishing Buffing Pads,18 Sandpapers",
+      "brand": "ZFE",
+      "price": 49.99,
+      "salesParent": 437,
+      "revenue": 21657.72,
+      "rating": 4.2,
+      "reviews": 1161
+    },
+    {
+      "rank": 2,
+      "asin": "B00065TPK0",
+      "title": "Dynabrade (59020) Dynorbital-Spirit 5&quot; (127 mm) Diameter Random Orbital Sander, Non-Vacuum | 3/16&quot; (5 mm) Diameter Orbit | 12000 RPM Pneumatic Motor",
+      "brand": "Dynabrade",
+      "price": 203.15,
+      "salesParent": 92,
+      "revenue": 19012.72,
+      "rating": 4.7,
+      "reviews": 175
+    },
+    {
+      "rank": 3,
+      "asin": "B000NDOF46",
+      "title": "Dynabrade 40320 Dynafile II Abrasive Belt Tool, 0.5 hp",
+      "brand": "Dynabrade",
+      "price": 688.35,
+      "salesParent": 28,
+      "revenue": 16933.84,
+      "rating": 4.8,
+      "reviews": 6
+    },
+    {
+      "rank": 4,
+      "asin": "B00004XOT5",
+      "title": "Ingersoll Rand 315 2.75&quot; x 15&quot; Straight-Line Air Sander",
+      "brand": "Ingersoll Rand",
+      "price": 186.86,
+      "salesParent": 104,
+      "revenue": 16801.2,
+      "rating": 4.6,
+      "reviews": 709
+    },
+    {
+      "rank": 5,
+      "asin": "B00L50MKJS",
+      "title": "Astro Pneumatic 3037 Air Belt Sander (1/2&quot; x 18&quot;) with 3pc Belts (#36, #40 &amp; #60)",
+      "brand": "AP",
+      "price": 92.99,
+      "salesParent": 178,
+      "revenue": 16201.56,
+      "rating": 4.7,
+      "reviews": 1300
+    },
+    {
+      "rank": 6,
+      "asin": "B072PY2XR3",
+      "title": "Professional Air Random Orbital Palm Sander, Dual Action Pneumatic Sander, Low Vibration, Heavy Duty … (6 inch)",
+      "brand": "Gedu",
+      "price": 58.99,
+      "salesParent": 356,
+      "revenue": 15429.04,
+      "rating": 4.3,
+      "reviews": 856
+    },
+    {
+      "rank": 7,
+      "asin": "B000E60TR4",
+      "title": "Ingersoll Rand 1077XPA 1/2&quot; Air Ratchet Wrench, 54 ft-lb Torque, 160 RPM",
+      "brand": "Ingersoll Rand",
+      "price": 100.0,
+      "salesParent": 145,
+      "revenue": 14476.8,
+      "rating": 4.6,
+      "reviews": 533
+    },
+    {
+      "rank": 8,
+      "asin": "B00064YL5A",
+      "title": "Ingersoll Rand 4152 Random Orbital Air Sander",
+      "brand": "Ingersoll Rand",
+      "price": 186.4,
+      "salesParent": 84,
+      "revenue": 14314.44,
+      "rating": 4.3,
+      "reviews": 131
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 0,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 0,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 321430,
+    "priorHeadRevenue": 321608,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 80,
+      "newCount": 5,
+      "pct": 6,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 76,
+      "brandCount": 44,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.38,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B07MT7PK82",
+        "title": "1/2/3 Inch Random Orbital Air Sander, Mini Pneumatic Sander for Auto Body Work, High Speed Air Powered Polisher with 15 Polishing Buffing Pads,18 Sandpapers",
+        "rating": 4.2,
+        "reviews": 1161
+      },
+      {
+        "rank": 2,
+        "asin": "B00065TPK0",
+        "title": "Dynabrade (59020) Dynorbital-Spirit 5&quot; (127 mm) Diameter Random Orbital Sander, Non-Vacuum | 3/16&quot; (5 mm) Diameter Orbit | 12000 RPM Pneumatic Motor",
+        "rating": 4.7,
+        "reviews": 175
+      },
+      {
+        "rank": 3,
+        "asin": "B000NDOF46",
+        "title": "Dynabrade 40320 Dynafile II Abrasive Belt Tool, 0.5 hp",
+        "rating": 4.8,
+        "reviews": 6
+      },
+      {
+        "rank": 4,
+        "asin": "B00004XOT5",
+        "title": "Ingersoll Rand 315 2.75&quot; x 15&quot; Straight-Line Air Sander",
+        "rating": 4.6,
+        "reviews": 709
+      },
+      {
+        "rank": 5,
+        "asin": "B00L50MKJS",
+        "title": "Astro Pneumatic 3037 Air Belt Sander (1/2&quot; x 18&quot;) with 3pc Belts (#36, #40 &amp; #60)",
+        "rating": 4.7,
+        "reviews": 1300
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "228013:51554011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

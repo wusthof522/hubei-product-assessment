@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "2234135011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Remote & App Controlled Vehicles & Parts > Remote & App Controlled Vehicle Parts > Battery Chargers",
+  "categoryPathCn": "玩具 > 遥控 > 遥控 > 电池充电器",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 1140980,
+    "avgRevenue": 11410,
+    "medianPrice": 85.99,
+    "priceBand": "$37.99 - $133.42",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0C9Q8FCND",
+      "title": "12V Kids Charger for Ride On Car, 12V Various Electric Ride-on Toys Car Battery Charger，12 V Universal Kids Riding Toy Chargers",
+      "brand": "TUAGUI",
+      "price": 9.99,
+      "salesParent": 3856,
+      "revenue": 38521.44,
+      "rating": 4.4,
+      "reviews": 1117
+    },
+    {
+      "rank": 2,
+      "asin": "B0C5CRFFBL",
+      "title": "WhoopStor V3 6 Ports 1S LiPo Battery Storage Charger and Discharger with LCD Display Tiny Whoop Charger with PH2.0 and BT2.0 Connectors",
+      "brand": "VIFLY",
+      "price": 32.99,
+      "salesParent": 1046,
+      "revenue": 34507.54,
+      "rating": 4.5,
+      "reviews": 715
+    },
+    {
+      "rank": 3,
+      "asin": "B0CLTX5QLR",
+      "title": "OVONIC X1 Pro Dual RC Lipo Battery Balance Charger for 1s 2s 3s 4s 5s 6s Lipo Batteries, Life/NiCd/NiMH/LiHV Batteries - AC 300W / DC 700W 16A Smart Fast Charging, with Sync Charging Mode",
+      "brand": "OVONIC",
+      "price": 105.99,
+      "salesParent": 257,
+      "revenue": 27239.43,
+      "rating": 4.4,
+      "reviews": 343
+    },
+    {
+      "rank": 4,
+      "asin": "B0BKK12CMQ",
+      "title": "Spektrum S2100 G2 2x100W AC Smart Charger SPMXC2000",
+      "brand": "Spektrum",
+      "price": 197.99,
+      "salesParent": 125,
+      "revenue": 24972.5,
+      "rating": 4.6,
+      "reviews": 236
+    },
+    {
+      "rank": 5,
+      "asin": "B0F5QD91WR",
+      "title": "LiPo Battery Charger Dual 10A RC Fast Balance Battery Charger Discharger",
+      "brand": "Aorika",
+      "price": 61.99,
+      "salesParent": 353,
+      "revenue": 23665.12,
+      "rating": 4.4,
+      "reviews": 381
+    },
+    {
+      "rank": 6,
+      "asin": "B0CJMQKZXS",
+      "title": "Spektrum SMART Smart S250 AC Charger, 2x50W, SPMXC2060",
+      "brand": "Spektrum",
+      "price": 128.69,
+      "salesParent": 180,
+      "revenue": 23216.4,
+      "rating": 4.4,
+      "reviews": 75
+    },
+    {
+      "rank": 7,
+      "asin": "B00EB7812C",
+      "title": "EBL AA AAA Battery Charger, 8-Bay Individual Charger for NiMH NiCD Rechargeable Batteries with AC Plug Fast Charging RC Battery Chargers",
+      "brand": "EBL",
+      "price": 14.99,
+      "salesParent": 1675,
+      "revenue": 22796.75,
+      "rating": 4.5,
+      "reviews": 15940
+    },
+    {
+      "rank": 8,
+      "asin": "B0HCBF3X7J",
+      "title": "Original Battery &amp; 200W Charging Hub Bundle for DJI Matrice 4T (3 Battery + Charging Manager)",
+      "brand": "JLYXBFP",
+      "price": 759.99,
+      "salesParent": 29,
+      "revenue": 22039.71,
+      "rating": null,
+      "reviews": null
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -3,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -3,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1140980,
+    "priorHeadRevenue": 1175678,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 51,
+      "pct": 51,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 36,
+      "brandCount": 51,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.44,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0C9Q8FCND",
+        "title": "12V Kids Charger for Ride On Car, 12V Various Electric Ride-on Toys Car Battery Charger，12 V Universal Kids Riding Toy Chargers",
+        "rating": 4.4,
+        "reviews": 1117
+      },
+      {
+        "rank": 2,
+        "asin": "B0C5CRFFBL",
+        "title": "WhoopStor V3 6 Ports 1S LiPo Battery Storage Charger and Discharger with LCD Display Tiny Whoop Charger with PH2.0 and BT2.0 Connectors",
+        "rating": 4.5,
+        "reviews": 715
+      },
+      {
+        "rank": 3,
+        "asin": "B0CLTX5QLR",
+        "title": "OVONIC X1 Pro Dual RC Lipo Battery Balance Charger for 1s 2s 3s 4s 5s 6s Lipo Batteries, Life/NiCd/NiMH/LiHV Batteries - AC 300W / DC 700W 16A Smart Fast Charging, with Sync Charging Mode",
+        "rating": 4.4,
+        "reviews": 343
+      },
+      {
+        "rank": 4,
+        "asin": "B0BKK12CMQ",
+        "title": "Spektrum S2100 G2 2x100W AC Smart Charger SPMXC2000",
+        "rating": 4.6,
+        "reviews": 236
+      },
+      {
+        "rank": 5,
+        "asin": "B0F5QD91WR",
+        "title": "LiPo Battery Charger Dual 10A RC Fast Balance Battery Charger Discharger",
+        "rating": 4.4,
+        "reviews": 381
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:6925830011:2234126011:2234135011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

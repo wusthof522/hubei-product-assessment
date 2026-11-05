@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "4078751",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Health Care > Smoking Cessation > Smokeless Inhalers",
+  "categoryPathCn": "健康与家居 > 卫生保健 > 戒烟 > 无烟吸入器",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 94,
+    "totalRevenue": 1135679,
+    "avgRevenue": 12082,
+    "medianPrice": 23.99,
+    "priceBand": "$16.99 - $32.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0CXX5J8H5",
+      "title": "Cigtrus Smokeless Inhaler, Non-Electric Quit Smoking Aid - Variety Pack",
+      "brand": "cigtrus",
+      "price": 25.99,
+      "salesParent": 2614,
+      "revenue": 67937.86,
+      "rating": 3.0,
+      "reviews": 2145
+    },
+    {
+      "rank": 2,
+      "asin": "B0DLDKW52N",
+      "title": "MOXE Natural Menthol Smokeless Inhaler, Non-Electric Craving Relief, 1 PK",
+      "brand": "MOXE",
+      "price": 13.99,
+      "salesParent": 4772,
+      "revenue": 66760.28,
+      "rating": 3.4,
+      "reviews": 577
+    },
+    {
+      "rank": 3,
+      "asin": "B0D5SR1R32",
+      "title": "FÜM Solano Flavored Air Device | Walnut Barrel, Onyx Mouthpiece",
+      "brand": "FÜM",
+      "price": 63.95,
+      "salesParent": 896,
+      "revenue": 57299.2,
+      "rating": 3.6,
+      "reviews": 220
+    },
+    {
+      "rank": 4,
+      "asin": "B0G275WK61",
+      "title": "Quitz Peppermint Smokeless Inhaler | Nicotine-Free Flavored Air Inhaler | Non-Electric Oral Fixation Habit Aid | Break the Smoking &amp; Vaping Habit | Fresh Peppermint",
+      "brand": "Quitz",
+      "price": 16.99,
+      "salesParent": 2947,
+      "revenue": 50069.53,
+      "rating": 3.2,
+      "reviews": 181
+    },
+    {
+      "rank": 5,
+      "asin": "B0FY7WL85B",
+      "title": "CHEWZ BAR Smokeless Inhaler for Smoking Cessation – Replaceable Refill Cores, Helps Stop Smoking, Portable, Quit-Smoking - Mix 4 Pack",
+      "brand": "Health Chews",
+      "price": 29.95,
+      "salesParent": 1479,
+      "revenue": 43157.22,
+      "rating": 3.2,
+      "reviews": 426
+    },
+    {
+      "rank": 6,
+      "asin": "B0CWVR3JWM",
+      "title": "Berserker Focus Pouches - Sweden's Fish - Caffeine Infused - 100mg Per Pouch - Nootropic Enhanced - 5 Pack - Tobacco &amp; Nicotine Free - Energy Drink Replacement",
+      "brand": "OUTLAW DIP COMPANY",
+      "price": 40.0,
+      "salesParent": 1056,
+      "revenue": 42240.0,
+      "rating": 4.0,
+      "reviews": 95
+    },
+    {
+      "rank": 7,
+      "asin": "B0GJ6QDX3G",
+      "title": "Cigtrus Mullein Leaf, Peppermint, 3-Pack - Nicotine-Free, Smokeless Inhaler",
+      "brand": "cigtrus",
+      "price": 19.99,
+      "salesParent": 1935,
+      "revenue": 38680.65,
+      "rating": 3.6,
+      "reviews": 113
+    },
+    {
+      "rank": 8,
+      "asin": "B0GGTVS4J7",
+      "title": "O₂ Cigtrus Oxygen Inhaler – Portable Energy Drink Inhale to Help Replace Smoking &amp; Vaping Habits, Pocket-Size Design for Daily Craving Relief &amp; Mindful Hand-to-Mouth Action",
+      "brand": "cigtrus",
+      "price": 35.99,
+      "salesParent": 755,
+      "revenue": 27172.45,
+      "rating": 2.7,
+      "reviews": 55
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -21,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -21,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1135679,
+    "priorHeadRevenue": 1441887,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 94,
+      "newCount": 73,
+      "pct": 78,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 41,
+      "brandCount": 56,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 3.54,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0CXX5J8H5",
+        "title": "Cigtrus Smokeless Inhaler, Non-Electric Quit Smoking Aid - Variety Pack",
+        "rating": 3.0,
+        "reviews": 2145
+      },
+      {
+        "rank": 2,
+        "asin": "B0DLDKW52N",
+        "title": "MOXE Natural Menthol Smokeless Inhaler, Non-Electric Craving Relief, 1 PK",
+        "rating": 3.4,
+        "reviews": 577
+      },
+      {
+        "rank": 3,
+        "asin": "B0D5SR1R32",
+        "title": "FÜM Solano Flavored Air Device | Walnut Barrel, Onyx Mouthpiece",
+        "rating": 3.6,
+        "reviews": 220
+      },
+      {
+        "rank": 4,
+        "asin": "B0G275WK61",
+        "title": "Quitz Peppermint Smokeless Inhaler | Nicotine-Free Flavored Air Inhaler | Non-Electric Oral Fixation Habit Aid | Break the Smoking &amp; Vaping Habit | Fresh Peppermint",
+        "rating": 3.2,
+        "reviews": 181
+      },
+      {
+        "rank": 5,
+        "asin": "B0FY7WL85B",
+        "title": "CHEWZ BAR Smokeless Inhaler for Smoking Cessation – Replaceable Refill Cores, Helps Stop Smoking, Portable, Quit-Smoking - Mix 4 Pack",
+        "rating": 3.2,
+        "reviews": 426
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3760941:3764401:4078751",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

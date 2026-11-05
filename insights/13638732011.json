@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "13638732011",
+  "level": "L2",
+  "categoryPathEn": "Patio, Lawn & Garden > Outdoor Heating & Cooling",
+  "categoryPathCn": "庭院、草坪和园艺 > 取暖炉、壁炉",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 92,
+    "totalRevenue": 19664150,
+    "avgRevenue": 213741,
+    "medianPrice": 159.99,
+    "priceBand": "$101.11 - $249.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0FDMBP1BM",
+      "title": "Ninja Fireside360 Fire Pit &amp; Heater, 80,000 BTU, 3 Modes, Push Start, Black",
+      "brand": "Ninja",
+      "price": 479.99,
+      "salesParent": 3193,
+      "revenue": 1442214.25,
+      "rating": 4.5,
+      "reviews": 255
+    },
+    {
+      "rank": 2,
+      "asin": "B0F3ZGF53T",
+      "title": "Solo Stove Bonfire Amazon Exclusive | Smokeless Fire Pit Bundle with Stand, Lid, Shelter &amp; Ash Pan | Ideal for 4–6 People | Stainless Steel Wood Burning Camping Pit – 19.5&quot; Wide, 34lbs",
+      "brand": "Solo Stove",
+      "price": 358.99,
+      "salesParent": 3083,
+      "revenue": 1235234.75,
+      "rating": 4.8,
+      "reviews": 123
+    },
+    {
+      "rank": 3,
+      "asin": "B0DWKF284C",
+      "title": "43-Inch Rectangular Propane Fire Pit with 60,000 BTU Output, Fire Pit Table Premium Gas for Outside Patio with 304 Stainless Steel H-Burner, Glass Stones, and Wind Guard,Black",
+      "brand": "Ciays",
+      "price": 206.02,
+      "salesParent": 4405,
+      "revenue": 1019933.69,
+      "rating": 4.5,
+      "reviews": 691
+    },
+    {
+      "rank": 4,
+      "asin": "B0DG2T8YVR",
+      "title": "32 Inch Propane Fire Pit, CSA-Listed Outdoor Gas Fire Pits 50,000 BTU Steel Fire Pit Table with Lid, Add Warmth and Ambience to Gatherings and Parties On Patio Deck Garden, Black, CIFPT4B",
+      "brand": "Ciays",
+      "price": 199.99,
+      "salesParent": 4001,
+      "revenue": 755788.88,
+      "rating": 4.5,
+      "reviews": 2917
+    },
+    {
+      "rank": 5,
+      "asin": "B0F3ZG9QZ3",
+      "title": "Solo Stove Yukon Amazon Exclusive Bundle | 27&quot; Smokeless Wood Fire Pit",
+      "brand": "Solo Stove",
+      "price": 586.99,
+      "salesParent": 1030,
+      "revenue": 677925.38,
+      "rating": 4.1,
+      "reviews": 44
+    },
+    {
+      "rank": 6,
+      "asin": "B082XHVGZM",
+      "title": "TIKI Patio 25-Inch Smokeless Outdoor Wood Burning Fire Pit with Cover",
+      "brand": "TIKI",
+      "price": 395.0,
+      "salesParent": 1838,
+      "revenue": 674546.0,
+      "rating": 4.7,
+      "reviews": 2388
+    },
+    {
+      "rank": 7,
+      "asin": "B0CZP21NKT",
+      "title": "Large Propane Fire Pit 24 Inch, Gas Fire Pit with Grill Grate, Folding Legs, Hose Hooks, Propane Tank Holder, Cover &amp; Carry Strap, Portable Outdoor Fire Pit for Camping, 58,000 BTU",
+      "brand": "Ciays",
+      "price": 159.99,
+      "salesParent": 4003,
+      "revenue": 659093.94,
+      "rating": 4.6,
+      "reviews": 937
+    },
+    {
+      "rank": 8,
+      "asin": "B0C64VCSKN",
+      "title": "OutVue 36 Inch Fire Pit with 2 Grills,Wood Burning Fire Pits for Outside",
+      "brand": "OutVue",
+      "price": 129.99,
+      "salesParent": 4118,
+      "revenue": 533981.06,
+      "rating": 4.3,
+      "reviews": 2967
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 21,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 21,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 19664150,
+    "priorHeadRevenue": 16232837,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 92,
+      "newCount": 21,
+      "pct": 23,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 47,
+      "brandCount": 57,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.45,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0FDMBP1BM",
+        "title": "Ninja Fireside360 Fire Pit &amp; Heater, 80,000 BTU, 3 Modes, Push Start, Black",
+        "rating": 4.5,
+        "reviews": 255
+      },
+      {
+        "rank": 2,
+        "asin": "B0F3ZGF53T",
+        "title": "Solo Stove Bonfire Amazon Exclusive | Smokeless Fire Pit Bundle with Stand, Lid, Shelter &amp; Ash Pan | Ideal for 4–6 People | Stainless Steel Wood Burning Camping Pit – 19.5&quot; Wide, 34lbs",
+        "rating": 4.8,
+        "reviews": 123
+      },
+      {
+        "rank": 3,
+        "asin": "B0DWKF284C",
+        "title": "43-Inch Rectangular Propane Fire Pit with 60,000 BTU Output, Fire Pit Table Premium Gas for Outside Patio with 304 Stainless Steel H-Burner, Glass Stones, and Wind Guard,Black",
+        "rating": 4.5,
+        "reviews": 691
+      },
+      {
+        "rank": 4,
+        "asin": "B0DG2T8YVR",
+        "title": "32 Inch Propane Fire Pit, CSA-Listed Outdoor Gas Fire Pits 50,000 BTU Steel Fire Pit Table with Lid, Add Warmth and Ambience to Gatherings and Parties On Patio Deck Garden, Black, CIFPT4B",
+        "rating": 4.5,
+        "reviews": 2917
+      },
+      {
+        "rank": 5,
+        "asin": "B0F3ZG9QZ3",
+        "title": "Solo Stove Yukon Amazon Exclusive Bundle | 27&quot; Smokeless Wood Fire Pit",
+        "rating": 4.1,
+        "reviews": 44
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "2972638011:13638732011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

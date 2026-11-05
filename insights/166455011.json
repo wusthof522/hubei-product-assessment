@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "166455011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Sports & Outdoor Play > Toy Sports > Toy Basketball",
+  "categoryPathCn": "玩具 > 体育 > 玩具运动 > 玩具篮球",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 97,
+    "totalRevenue": 3641211,
+    "avgRevenue": 37538,
+    "medianPrice": 39.99,
+    "priceBand": "$29.99 - $49.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B08HC44TBP",
+      "title": "JOYIN Arcade Basketball Game Set with 4 Balls and Hoop for Kids 3+ Years Old Indoor Outdoor Sport Play - Easy Set Up - Air Pump Included - Ideal for Competition",
+      "brand": "JOYIN",
+      "price": 49.99,
+      "salesParent": 7706,
+      "revenue": 385222.94,
+      "rating": 4.4,
+      "reviews": 4211
+    },
+    {
+      "rank": 2,
+      "asin": "B0D56JMVH9",
+      "title": "Toddler Basketball Hoop, Kids Toys Basketball Hoops for Indoor Outdoor Play",
+      "brand": "GMAOPHY",
+      "price": 39.99,
+      "salesParent": 7821,
+      "revenue": 298136.5,
+      "rating": 4.6,
+      "reviews": 1731
+    },
+    {
+      "rank": 3,
+      "asin": "B01C5A2WJO",
+      "title": "Little Tikes Easy Score Basketball Set, Blue, 3 Balls - Amazon Exclusive, 23.75 x 22 x 61 inches",
+      "brand": "Little Tikes",
+      "price": 49.99,
+      "salesParent": 4962,
+      "revenue": 248050.39,
+      "rating": 4.8,
+      "reviews": 47689
+    },
+    {
+      "rank": 4,
+      "asin": "B0B4C4S7T8",
+      "title": "QDRAGON Mini Basketball Hoop",
+      "brand": "QDRAGON",
+      "price": 29.99,
+      "salesParent": 3149,
+      "revenue": 93588.28,
+      "rating": 4.4,
+      "reviews": 1998
+    },
+    {
+      "rank": 5,
+      "asin": "B0FGDRKPQ8",
+      "title": "Fisher-Price™ Grow-to-Pro Basketball Hoop for Toddlers &amp; Kids - Adjustable Height Indoor/Outdoor Play Set with Ball, 18 Months - 5 Year",
+      "brand": "Fisher-Price",
+      "price": 67.2,
+      "salesParent": 1384,
+      "revenue": 86084.81,
+      "rating": 4.8,
+      "reviews": 117
+    },
+    {
+      "rank": 6,
+      "asin": "B07NRXSYSD",
+      "title": "VTech Smart Shots Sports Center (Frustration Free Packaging), Red",
+      "brand": "VTech",
+      "price": 44.99,
+      "salesParent": 1911,
+      "revenue": 85975.89,
+      "rating": 4.7,
+      "reviews": 28334
+    },
+    {
+      "rank": 7,
+      "asin": "B0DFM7DBVC",
+      "title": "Toddler Basketball Hoop &amp; Soccer Goal, Toys for 1 2 3 Year Old Boys Girls, Kids Sports Toy with Light Sound Music, Montessori Toys for Baby 12-18 Months, Christmas Birthday Gifts for Ages 1-3, Blue",
+      "brand": "GMAOPHY",
+      "price": 29.99,
+      "salesParent": 2773,
+      "revenue": 80832.95,
+      "rating": 4.7,
+      "reviews": 795
+    },
+    {
+      "rank": 8,
+      "asin": "B0GZ94FQLL",
+      "title": "Little Tikes Cloud Collection - TotSports Easy Score Basketball Set w/ 3 Balls – White",
+      "brand": "Little Tikes",
+      "price": 34.99,
+      "salesParent": 2297,
+      "revenue": 80372.03,
+      "rating": 4.9,
+      "reviews": 36
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -6,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -6,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 3641211,
+    "priorHeadRevenue": 3889339,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 97,
+      "newCount": 37,
+      "pct": 38,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 44,
+      "brandCount": 73,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.45,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B08HC44TBP",
+        "title": "JOYIN Arcade Basketball Game Set with 4 Balls and Hoop for Kids 3+ Years Old Indoor Outdoor Sport Play - Easy Set Up - Air Pump Included - Ideal for Competition",
+        "rating": 4.4,
+        "reviews": 4211
+      },
+      {
+        "rank": 2,
+        "asin": "B0D56JMVH9",
+        "title": "Toddler Basketball Hoop, Kids Toys Basketball Hoops for Indoor Outdoor Play",
+        "rating": 4.6,
+        "reviews": 1731
+      },
+      {
+        "rank": 3,
+        "asin": "B01C5A2WJO",
+        "title": "Little Tikes Easy Score Basketball Set, Blue, 3 Balls - Amazon Exclusive, 23.75 x 22 x 61 inches",
+        "rating": 4.8,
+        "reviews": 47689
+      },
+      {
+        "rank": 4,
+        "asin": "B0B4C4S7T8",
+        "title": "QDRAGON Mini Basketball Hoop",
+        "rating": 4.4,
+        "reviews": 1998
+      },
+      {
+        "rank": 5,
+        "asin": "B0FGDRKPQ8",
+        "title": "Fisher-Price™ Grow-to-Pro Basketball Hoop for Toddlers &amp; Kids - Adjustable Height Indoor/Outdoor Play Set with Ball, 18 Months - 5 Year",
+        "rating": 4.8,
+        "reviews": 117
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166420011:166453011:166455011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

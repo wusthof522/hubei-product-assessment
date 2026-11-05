@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23870327011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Household Supplies > Household Cleaning > Carpet Cleaners",
+  "categoryPathCn": "健康与家居 > 家居用品 > 家庭清洁剂 > 地毯清洁剂",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 97,
+    "totalRevenue": 10915935,
+    "avgRevenue": 112535,
+    "medianPrice": 20.99,
+    "priceBand": "$15.62 - $29.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0DG6M24RR",
+      "title": "BISSELL TurboClean Upright Carpet Cleaner, OXY Formula, 3952",
+      "brand": "Bissell",
+      "price": 123.99,
+      "salesParent": 14461,
+      "revenue": 1711025.5,
+      "rating": 4.5,
+      "reviews": 5962
+    },
+    {
+      "rank": 2,
+      "asin": "B07BV5LT27",
+      "title": "Bissell PET PRO OXY Urine Eliminator with Febreze Carpet Deep Clean Solution, with StainProtect Technology, for use in leading upright carpet cleaners, 48oz, Our best formula for pet messes &amp; odors",
+      "brand": "Bissell",
+      "price": 23.99,
+      "salesParent": 54189,
+      "revenue": 1268022.62,
+      "rating": 4.7,
+      "reviews": 30001
+    },
+    {
+      "rank": 3,
+      "asin": "B004H1R8TY",
+      "title": "Bissell 78H63 Deep Clean Pro 4X Deep Cleaning Concentrated Carpet Shampoo, 48 ounces - Silver",
+      "brand": "Bissell",
+      "price": 21.99,
+      "salesParent": 51212,
+      "revenue": 1126151.88,
+      "rating": 4.7,
+      "reviews": 41061
+    },
+    {
+      "rank": 4,
+      "asin": "B00HVJ3JM4",
+      "title": "Bissell PRO OXY Carpet Deep Clean Solution, for use in leading upright carpet cleaners, 48oz, Removes deep down dirt, stains &amp; odors",
+      "brand": "Bissell",
+      "price": 19.99,
+      "salesParent": 49133,
+      "revenue": 982168.69,
+      "rating": 4.7,
+      "reviews": 3848
+    },
+    {
+      "rank": 5,
+      "asin": "B0CDD4B6RL",
+      "title": "Shark Deep Clean Pro &amp; OXY Formula Bundle for Tough Stains/Odor PXCMBUNDLE",
+      "brand": "Shark",
+      "price": 20.39,
+      "salesParent": 25332,
+      "revenue": 561103.81,
+      "rating": 4.7,
+      "reviews": 2546
+    },
+    {
+      "rank": 6,
+      "asin": "B0DY9DWCX2",
+      "title": "FOLEX Instant Carpet Spot Remover 32 oz – Powerful Stain Remover for Carpets, Upholstery &amp; Rugs – Eliminates Pet Stains, Grease, Red Wine, Food, Makeup &amp; More – With Reusable Cleaning Cloth - 1 Pack",
+      "brand": "FOLEX",
+      "price": 26.99,
+      "salesParent": 17853,
+      "revenue": 481852.47,
+      "rating": 4.6,
+      "reviews": 2690
+    },
+    {
+      "rank": 7,
+      "asin": "B09MQXHJR5",
+      "title": "Bissell PET PRO OXY Spot &amp; Stain Formula for Portable Carpet Cleaners, 32 oz., 2034",
+      "brand": "Bissell",
+      "price": 10.99,
+      "salesParent": 34630,
+      "revenue": 380583.69,
+      "rating": 4.8,
+      "reviews": 12486
+    },
+    {
+      "rank": 8,
+      "asin": "B004D92G10",
+      "title": "FOLEX Professional Carpet Stain Remover Spray – Stain Remover for Old Stains – Best Remover for Pets – Rug Stain Remover &amp; Upholstery Cleaner – Cleaner Solution for Couches &amp; Car Interiors – 34 oz",
+      "brand": "FOLEX",
+      "price": 26.75,
+      "salesParent": 13729,
+      "revenue": 367113.47,
+      "rating": 4.6,
+      "reviews": 1919
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 19,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 19,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 10915935,
+    "priorHeadRevenue": 9196382,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 97,
+      "newCount": 12,
+      "pct": 12,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 81,
+      "brandCount": 42,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.55,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0DG6M24RR",
+        "title": "BISSELL TurboClean Upright Carpet Cleaner, OXY Formula, 3952",
+        "rating": 4.5,
+        "reviews": 5962
+      },
+      {
+        "rank": 2,
+        "asin": "B07BV5LT27",
+        "title": "Bissell PET PRO OXY Urine Eliminator with Febreze Carpet Deep Clean Solution, with StainProtect Technology, for use in leading upright carpet cleaners, 48oz, Our best formula for pet messes &amp; odors",
+        "rating": 4.7,
+        "reviews": 30001
+      },
+      {
+        "rank": 3,
+        "asin": "B004H1R8TY",
+        "title": "Bissell 78H63 Deep Clean Pro 4X Deep Cleaning Concentrated Carpet Shampoo, 48 ounces - Silver",
+        "rating": 4.7,
+        "reviews": 41061
+      },
+      {
+        "rank": 4,
+        "asin": "B00HVJ3JM4",
+        "title": "Bissell PRO OXY Carpet Deep Clean Solution, for use in leading upright carpet cleaners, 48oz, Removes deep down dirt, stains &amp; odors",
+        "rating": 4.7,
+        "reviews": 3848
+      },
+      {
+        "rank": 5,
+        "asin": "B0CDD4B6RL",
+        "title": "Shark Deep Clean Pro &amp; OXY Formula Bundle for Tough Stains/Odor PXCMBUNDLE",
+        "rating": 4.7,
+        "reviews": 2546
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:15342811:15342821:23870327011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

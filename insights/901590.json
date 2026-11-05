@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "901590",
+  "level": "L2",
+  "categoryPathEn": "Home & Kitchen > Event & Party Supplies",
+  "categoryPathCn": "家居用品 > 活动",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 98,
+    "totalRevenue": 11007779,
+    "avgRevenue": 112324,
+    "medianPrice": 14.99,
+    "priceBand": "$9.97 - $25.24",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B07ZV31J31",
+      "title": "100 Glow Sticks Bulk Party Pack, 8&quot; Halloween Glow Bracelets and Necklaces",
+      "brand": "Glow Mind",
+      "price": 8.99,
+      "salesParent": 40327,
+      "revenue": 362539.72,
+      "rating": 4.6,
+      "reviews": 31473
+    },
+    {
+      "rank": 2,
+      "asin": "B0FF9JJX96",
+      "title": "4 Pack Halloween Tablecloth 54 x 108 Inch Pumpkin Spider Web Table Cover",
+      "brand": "QZYL",
+      "price": 12.99,
+      "salesParent": 23141,
+      "revenue": 249459.97,
+      "rating": 4.6,
+      "reviews": 2051
+    },
+    {
+      "rank": 3,
+      "asin": "B0D454ZJKF",
+      "title": "12 PCS Halloween Witch Hats, Black Hanging Witch Hats Porch Yard Decor",
+      "brand": "Helimoto",
+      "price": 14.99,
+      "salesParent": 16944,
+      "revenue": 248907.36,
+      "rating": 4.6,
+      "reviews": 1343
+    },
+    {
+      "rank": 4,
+      "asin": "B0G5Q919DF",
+      "title": "Top Cup Aluminum Party Cups, Americana Cup, 20oz, 20 Count",
+      "brand": "Top Cup",
+      "price": 24.99,
+      "salesParent": 9902,
+      "revenue": 244183.31,
+      "rating": 4.5,
+      "reviews": 1062
+    },
+    {
+      "rank": 5,
+      "asin": "B0D541GN5M",
+      "title": "Moucuny 4 Pcs Thanksgiving Table Decor Wooden Stacked Maple Leaf Fall Decor",
+      "brand": "Moucuny",
+      "price": 11.99,
+      "salesParent": 15439,
+      "revenue": 239613.28,
+      "rating": 4.5,
+      "reviews": 2320
+    },
+    {
+      "rank": 6,
+      "asin": "B0D7MLZ9H7",
+      "title": "White Plastic Table Cloth - 4 Pack 54&quot; × 108&quot; Rectangle Disposable Tablecloths for 6FT Tables, Table Cover for Party, Holiday &amp; Gathering Use",
+      "brand": "Niuara",
+      "price": 5.98,
+      "salesParent": 36796,
+      "revenue": 236966.23,
+      "rating": 4.4,
+      "reviews": 3356
+    },
+    {
+      "rank": 7,
+      "asin": "B08GYNHQN3",
+      "title": "Black Orange Happy Halloween Trick or Treat Banner Paper Fan Balloons &amp; Swirl Streamers Goul Bat Cat Bird Ghost Pumpkin Lantern for Halloween Decorations",
+      "brand": "FECEDY",
+      "price": 14.97,
+      "salesParent": 16998,
+      "revenue": 230662.86,
+      "rating": 4.7,
+      "reviews": 2682
+    },
+    {
+      "rank": 8,
+      "asin": "B0DZCJB7FD",
+      "title": "68Pcs Pink and Purple Balloons 12 Inch Metallic Purple Pink Latex Balloon Confetti ballons with Ribbons Party Balloons for Wedding Girls Birthday Baby Shower Decorations.",
+      "brand": "KUULBELA",
+      "price": 8.39,
+      "salesParent": 25142,
+      "revenue": 208427.17,
+      "rating": 4.6,
+      "reviews": 3552
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 36,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 36,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 11007779,
+    "priorHeadRevenue": 8086657,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 98,
+      "newCount": 35,
+      "pct": 36,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 20,
+      "brandCount": 80,
+      "level": "分散",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.5,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B07ZV31J31",
+        "title": "100 Glow Sticks Bulk Party Pack, 8&quot; Halloween Glow Bracelets and Necklaces",
+        "rating": 4.6,
+        "reviews": 31473
+      },
+      {
+        "rank": 2,
+        "asin": "B0FF9JJX96",
+        "title": "4 Pack Halloween Tablecloth 54 x 108 Inch Pumpkin Spider Web Table Cover",
+        "rating": 4.6,
+        "reviews": 2051
+      },
+      {
+        "rank": 3,
+        "asin": "B0D454ZJKF",
+        "title": "12 PCS Halloween Witch Hats, Black Hanging Witch Hats Porch Yard Decor",
+        "rating": 4.6,
+        "reviews": 1343
+      },
+      {
+        "rank": 4,
+        "asin": "B0G5Q919DF",
+        "title": "Top Cup Aluminum Party Cups, Americana Cup, 20oz, 20 Count",
+        "rating": 4.5,
+        "reviews": 1062
+      },
+      {
+        "rank": 5,
+        "asin": "B0D541GN5M",
+        "title": "Moucuny 4 Pcs Thanksgiving Table Decor Wooden Stacked Maple Leaf Fall Decor",
+        "rating": 4.5,
+        "reviews": 2320
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "1055398:901590",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "8619064011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Medical Supplies & Equipment > Health Monitors > Body Composition Monitors",
+  "categoryPathCn": "健康与家居 > 医疗用品和设备 > 健康音响 > 人体成分监测仪",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 94,
+    "totalRevenue": 1709121,
+    "avgRevenue": 18182,
+    "medianPrice": 68.24,
+    "priceBand": "$29.96 - $129.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0DSY137KK",
+      "title": "Hume Health The Body Pod - Home Body Analyzer Bluetooth App - 45+ Key Health Metrics - Accurate Personalized Data - Body Composition Scale - Smart Scale for Body Weight",
+      "brand": "Hume Health",
+      "price": 235.0,
+      "salesParent": 1614,
+      "revenue": 384277.25,
+      "rating": 3.4,
+      "reviews": 746
+    },
+    {
+      "rank": 2,
+      "asin": "B0DR2L3FLF",
+      "title": "GE Smart Scale for Body Weight, BMI, Body Fat, Muscle Mass, Large Display",
+      "brand": "GE",
+      "price": 49.99,
+      "salesParent": 6897,
+      "revenue": 286363.44,
+      "rating": 4.6,
+      "reviews": 1699
+    },
+    {
+      "rank": 3,
+      "asin": "B0HFWYPR7Z",
+      "title": "GE Smart Scale for Body Fat with BMI Muscle Mass: 5.3-inch Handle Display",
+      "brand": "GE",
+      "price": 89.99,
+      "salesParent": 2516,
+      "revenue": 267601.75,
+      "rating": 4.6,
+      "reviews": 948
+    },
+    {
+      "rank": 4,
+      "asin": "B09LV8NN61",
+      "title": "RENPHO Scale for Body Weight and Fat Percentage, Smart Scale with 8 Electrodes Larger Platform, Body Analyzer for BMI, Body Fat, Muscle Mass, High Precision",
+      "brand": "RENPHO",
+      "price": 139.99,
+      "salesParent": 1160,
+      "revenue": 162388.41,
+      "rating": 4.6,
+      "reviews": 1084
+    },
+    {
+      "rank": 5,
+      "asin": "B0C34ZWCXH",
+      "title": "WITHINGS Body Comp - Scale for Body Weight and Complete Body Analysis, Wi-Fi &amp; Bluetooth, Baby Digital Scale, Accurate Visceral Fat, Heart Health, Scales Compatible with Apple",
+      "brand": "Withings",
+      "price": 229.95,
+      "salesParent": 640,
+      "revenue": 139091.2,
+      "rating": 3.8,
+      "reviews": 1450
+    },
+    {
+      "rank": 6,
+      "asin": "B0CRVGZWX6",
+      "title": "GE Smart Scale for Body Weight: Full-Body Composition Analysis, Purple 14&quot;",
+      "brand": "GE",
+      "price": 76.83,
+      "salesParent": 836,
+      "revenue": 64229.88,
+      "rating": 4.6,
+      "reviews": 378
+    },
+    {
+      "rank": 7,
+      "asin": "B0D2NYLPVT",
+      "title": "Smart Scale for Body Weight, BMI, Body Fat Bathroom Scale 450lb",
+      "brand": "Ovutek",
+      "price": 39.99,
+      "salesParent": 1572,
+      "revenue": 62817.12,
+      "rating": 4.6,
+      "reviews": 1356
+    },
+    {
+      "rank": 8,
+      "asin": "B0HCWDDKNL",
+      "title": "OMRON VIVA 360+ Body Composition Monitor and Smart Scale",
+      "brand": "Omron",
+      "price": 129.99,
+      "salesParent": 376,
+      "revenue": 48876.24,
+      "rating": 4.5,
+      "reviews": 9
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -50,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -50,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1709121,
+    "priorHeadRevenue": 3440093,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 94,
+      "newCount": 27,
+      "pct": 29,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 82,
+      "brandCount": 54,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.0,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0DSY137KK",
+        "title": "Hume Health The Body Pod - Home Body Analyzer Bluetooth App - 45+ Key Health Metrics - Accurate Personalized Data - Body Composition Scale - Smart Scale for Body Weight",
+        "rating": 3.4,
+        "reviews": 746
+      },
+      {
+        "rank": 2,
+        "asin": "B0DR2L3FLF",
+        "title": "GE Smart Scale for Body Weight, BMI, Body Fat, Muscle Mass, Large Display",
+        "rating": 4.6,
+        "reviews": 1699
+      },
+      {
+        "rank": 3,
+        "asin": "B0HFWYPR7Z",
+        "title": "GE Smart Scale for Body Fat with BMI Muscle Mass: 5.3-inch Handle Display",
+        "rating": 4.6,
+        "reviews": 948
+      },
+      {
+        "rank": 4,
+        "asin": "B09LV8NN61",
+        "title": "RENPHO Scale for Body Weight and Fat Percentage, Smart Scale with 8 Electrodes Larger Platform, Body Analyzer for BMI, Body Fat, Muscle Mass, High Precision",
+        "rating": 4.6,
+        "reviews": 1084
+      },
+      {
+        "rank": 5,
+        "asin": "B0C34ZWCXH",
+        "title": "WITHINGS Body Comp - Scale for Body Weight and Complete Body Analysis, Wi-Fi &amp; Bluetooth, Baby Digital Scale, Accurate Visceral Fat, Heart Health, Scales Compatible with Apple",
+        "rating": 3.8,
+        "reviews": 1450
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3775161:3777131:8619064011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

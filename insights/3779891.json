@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3779891",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Health Care > Ear Care > Earwax Removal",
+  "categoryPathCn": "健康与家居 > 卫生保健 > 耳朵护理 > 清除耳垢",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 94,
+    "totalRevenue": 6389221,
+    "avgRevenue": 67970,
+    "medianPrice": 26.98,
+    "priceBand": "$13.75 - $42.29",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B09KZ8TS7L",
+      "title": "LEIPUT Ear Wax Removal - Ear Cleaner with 1080P Camera - FSA&amp;HSA Black",
+      "brand": "LEIPUT",
+      "price": 9.99,
+      "salesParent": 36257,
+      "revenue": 477504.69,
+      "rating": 4.3,
+      "reviews": 23837
+    },
+    {
+      "rank": 2,
+      "asin": "B0GBW8Y6FR",
+      "title": "LEIPUT Ear Wax Removal - Earwax Remover Tool with 7 Pcs Ear Set - Ear Canal Cleaner with 1080P Camera - Ear Cleaning Kit with 6 Ear Spoon - Ear Camera for iOS &amp; Android (Blue)",
+      "brand": "LEIPUT",
+      "price": 21.99,
+      "salesParent": 31450,
+      "revenue": 461686.0,
+      "rating": 4.1,
+      "reviews": 665
+    },
+    {
+      "rank": 3,
+      "asin": "B08M9G18H3",
+      "title": "BEBIRD R1 Ear Wax Removal:Ear Cleaner with HD Ear Camera FSA, Black",
+      "brand": "BEBIRD",
+      "price": 26.99,
+      "salesParent": 17460,
+      "revenue": 442087.19,
+      "rating": 4.3,
+      "reviews": 12587
+    },
+    {
+      "rank": 4,
+      "asin": "B0011WFO1G",
+      "title": "Debrox Ear Wax Removal Kit, Bulb Syringe &amp; 0.5 Fl Oz Removal Ear Drops",
+      "brand": "Debrox",
+      "price": 8.67,
+      "salesParent": 48858,
+      "revenue": 432393.31,
+      "rating": 4.3,
+      "reviews": 35832
+    },
+    {
+      "rank": 5,
+      "asin": "B0DP4Y85B2",
+      "title": "Bebird D39R Ear Wax Removal: Ear Camera with Storage Case&amp;Painless Tweezers",
+      "brand": "BEBIRD",
+      "price": 42.29,
+      "salesParent": 7342,
+      "revenue": 329362.12,
+      "rating": 4.3,
+      "reviews": 4490
+    },
+    {
+      "rank": 6,
+      "asin": "B086P6M944",
+      "title": "BEBIRD R1 Ultra Ear Wax Removal Tweezers: 1296P HD Ear Camera Cleaner IP67",
+      "brand": "BEBIRD",
+      "price": 27.99,
+      "salesParent": 11182,
+      "revenue": 312984.19,
+      "rating": 4.2,
+      "reviews": 12020
+    },
+    {
+      "rank": 7,
+      "asin": "B0GRST3JFJ",
+      "title": "Bebird Ultra 2K Ear Wax Removal Tool Camera, Visual Tweezers &amp; Dropper Kit",
+      "brand": "BEBIRD",
+      "price": 69.99,
+      "salesParent": 4028,
+      "revenue": 267459.22,
+      "rating": 4.4,
+      "reviews": 193
+    },
+    {
+      "rank": 8,
+      "asin": "B00ANL4Z4I",
+      "title": "Debrox Earwax Removal Aid, 0.5 oz Earwax Removal Drops",
+      "brand": "Debrox",
+      "price": 13.1,
+      "salesParent": 27399,
+      "revenue": 266318.28,
+      "rating": 4.3,
+      "reviews": 54654
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -19,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -19,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 6389221,
+    "priorHeadRevenue": 7877454,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 94,
+      "newCount": 43,
+      "pct": 46,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 66,
+      "brandCount": 55,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.18,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B09KZ8TS7L",
+        "title": "LEIPUT Ear Wax Removal - Ear Cleaner with 1080P Camera - FSA&amp;HSA Black",
+        "rating": 4.3,
+        "reviews": 23837
+      },
+      {
+        "rank": 2,
+        "asin": "B0GBW8Y6FR",
+        "title": "LEIPUT Ear Wax Removal - Earwax Remover Tool with 7 Pcs Ear Set - Ear Canal Cleaner with 1080P Camera - Ear Cleaning Kit with 6 Ear Spoon - Ear Camera for iOS &amp; Android (Blue)",
+        "rating": 4.1,
+        "reviews": 665
+      },
+      {
+        "rank": 3,
+        "asin": "B08M9G18H3",
+        "title": "BEBIRD R1 Ear Wax Removal:Ear Cleaner with HD Ear Camera FSA, Black",
+        "rating": 4.3,
+        "reviews": 12587
+      },
+      {
+        "rank": 4,
+        "asin": "B0011WFO1G",
+        "title": "Debrox Ear Wax Removal Kit, Bulb Syringe &amp; 0.5 Fl Oz Removal Ear Drops",
+        "rating": 4.3,
+        "reviews": 35832
+      },
+      {
+        "rank": 5,
+        "asin": "B0DP4Y85B2",
+        "title": "Bebird D39R Ear Wax Removal: Ear Camera with Storage Case&amp;Painless Tweezers",
+        "rating": 4.3,
+        "reviews": 4490
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3760941:3779681:3779891",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "21490698011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Baby & Toddler Toys > Early Development & Activity Toys > Bead Mazes",
+  "categoryPathCn": "玩具 > 婴幼儿 > 早期发展 > 珠子迷宫",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 68,
+    "totalRevenue": 430772,
+    "avgRevenue": 6335,
+    "medianPrice": 27.09,
+    "priceBand": "$19.99 - $49.74",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0D83BK9B7",
+      "title": "Vanplay 8 in 1 Wooden Activity Table, Montessori Toys for 2 Year Old Gift",
+      "brand": "Vanplay",
+      "price": 31.29,
+      "salesParent": 2802,
+      "revenue": 87674.59,
+      "rating": 4.2,
+      "reviews": 1030
+    },
+    {
+      "rank": 2,
+      "asin": "B000SONEQA",
+      "title": "Melissa &amp; Doug First Bead Maze Wooden Educational Baby Toy",
+      "brand": "Melissa &amp; Doug",
+      "price": 15.29,
+      "salesParent": 4478,
+      "revenue": 68244.72,
+      "rating": 4.7,
+      "reviews": 8858
+    },
+    {
+      "rank": 3,
+      "asin": "B0BKVSFTX2",
+      "title": "Busy Board Montessori Toys for Toddler, Wooden Sensory Board Switch Toy with Shape Sorter LED Light Up Toys Educational Plane Travel Activity for Girls &amp; Boys",
+      "brand": "TINTECUSA",
+      "price": 19.99,
+      "salesParent": 2017,
+      "revenue": 38423.85,
+      "rating": 4.6,
+      "reviews": 2114
+    },
+    {
+      "rank": 4,
+      "asin": "B0FH66WB4L",
+      "title": "Weilim Montessori Activity Table for 1 Year Old, Wooden Farm Toddler Toy",
+      "brand": "Weilim",
+      "price": 59.99,
+      "salesParent": 532,
+      "revenue": 31914.68,
+      "rating": 4.0,
+      "reviews": 550
+    },
+    {
+      "rank": 5,
+      "asin": "B0F3HT2PBR",
+      "title": "Montessori Wooden Activity Table for Toddlers 1-3, 9 in 1 Sensory Toy",
+      "brand": "Hewaurorion",
+      "price": 48.99,
+      "salesParent": 638,
+      "revenue": 31255.62,
+      "rating": 4.3,
+      "reviews": 618
+    },
+    {
+      "rank": 6,
+      "asin": "B0H7X7ZQ72",
+      "title": "Toddler Activity Table, 12 in 1 Wooden Montessori Toys for 1-3 Year Old",
+      "brand": "LFACHTER",
+      "price": 59.99,
+      "salesParent": 277,
+      "revenue": 16511.97,
+      "rating": 5.0,
+      "reviews": 12
+    },
+    {
+      "rank": 7,
+      "asin": "B07B4Z9QGF",
+      "title": "Hape Jungle Adventure Railway Table | Kids Bead Maze Puzzle Table with Accessories, African Scene Graphics, Child Sized Table for Individual and Group Play",
+      "brand": "Hape",
+      "price": 99.99,
+      "salesParent": 102,
+      "revenue": 10197.96,
+      "rating": 4.7,
+      "reviews": 924
+    },
+    {
+      "rank": 8,
+      "asin": "B0DP6WQ5XH",
+      "title": "Giant bean® Wooden Activity Table for 1 Year Old,Montessori Learning Table",
+      "brand": "Giant bean",
+      "price": 65.99,
+      "salesParent": 144,
+      "revenue": 8756.64,
+      "rating": 4.3,
+      "reviews": 272
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 60,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 60,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 430772,
+    "priorHeadRevenue": 268861,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 68,
+      "newCount": 32,
+      "pct": 47,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 62,
+      "brandCount": 52,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.44,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0D83BK9B7",
+        "title": "Vanplay 8 in 1 Wooden Activity Table, Montessori Toys for 2 Year Old Gift",
+        "rating": 4.2,
+        "reviews": 1030
+      },
+      {
+        "rank": 2,
+        "asin": "B000SONEQA",
+        "title": "Melissa &amp; Doug First Bead Maze Wooden Educational Baby Toy",
+        "rating": 4.7,
+        "reviews": 8858
+      },
+      {
+        "rank": 3,
+        "asin": "B0BKVSFTX2",
+        "title": "Busy Board Montessori Toys for Toddler, Wooden Sensory Board Switch Toy with Shape Sorter LED Light Up Toys Educational Plane Travel Activity for Girls &amp; Boys",
+        "rating": 4.6,
+        "reviews": 2114
+      },
+      {
+        "rank": 4,
+        "asin": "B0FH66WB4L",
+        "title": "Weilim Montessori Activity Table for 1 Year Old, Wooden Farm Toddler Toy",
+        "rating": 4.0,
+        "reviews": 550
+      },
+      {
+        "rank": 5,
+        "asin": "B0F3HT2PBR",
+        "title": "Montessori Wooden Activity Table for Toddlers 1-3, 9 in 1 Sensory Toy",
+        "rating": 4.3,
+        "reviews": 618
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:196601011:21490695011:21490698011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

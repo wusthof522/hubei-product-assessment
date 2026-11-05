@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "6939950011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins, Minerals & Supplements > Amino Acids > L-Arginine",
+  "categoryPathCn": "健康与家居 > 身、泳和附剂 > 设计 > 左旋精氨酸",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 3073085,
+    "avgRevenue": 30731,
+    "medianPrice": 24.36,
+    "priceBand": "$18.23 - $37.44",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B01MS461VC",
+      "title": "L-Arginine and L-Citrulline for Men, Nitric Oxide Support, 30 Servings",
+      "brand": "HAVASU NUTRITION",
+      "price": 24.99,
+      "salesParent": 13511,
+      "revenue": 337639.88,
+      "rating": 4.3,
+      "reviews": 55307
+    },
+    {
+      "rank": 2,
+      "asin": "B081K83ZQ1",
+      "title": "Nature's Pure Blend Nitric Oxide Supplements for Men – L-Arginine L-Citrulline – Heart Support &amp; Flow Circulation Booster – 1500MG L Arginine and L Citrulline, Preworkout, Bodybuilding",
+      "brand": "Nature's Pure Blend",
+      "price": 39.99,
+      "salesParent": 8169,
+      "revenue": 326678.31,
+      "rating": 4.3,
+      "reviews": 6116
+    },
+    {
+      "rank": 3,
+      "asin": "B00L83XT6A",
+      "title": "Now Foods L-Arginine 1000 mg, 120 Tablet (2 Pack)",
+      "brand": "Now Foods",
+      "price": 30.95,
+      "salesParent": 7319,
+      "revenue": 226523.06,
+      "rating": 4.5,
+      "reviews": 15625
+    },
+    {
+      "rank": 4,
+      "asin": "B01H6BTRFO",
+      "title": "Cardio Miracle Nitric Oxide Supplement 90 Servings - Beet Root Powder with L-Arginine to Support Circulation, Blood Flow, Energy, Endurance, Stamina &amp; Heart Health for Men and Women",
+      "brand": "Cardio Miracle",
+      "price": 159.97,
+      "salesParent": 1206,
+      "revenue": 192706.73,
+      "rating": 4.2,
+      "reviews": 1203
+    },
+    {
+      "rank": 5,
+      "asin": "B0016RBXE8",
+      "title": "Pure Encapsulations L-Arginine, 180 Capsules",
+      "brand": "Pure Encapsulations",
+      "price": 49.5,
+      "salesParent": 3121,
+      "revenue": 154489.5,
+      "rating": 4.6,
+      "reviews": 1094
+    },
+    {
+      "rank": 6,
+      "asin": "B07KVZBNMF",
+      "title": "Dr. Emil L-Arginine 3000, High Dose Nitric Oxide Booster, 90 Tablets",
+      "brand": "DR. EMIL NUTRITION",
+      "price": 26.95,
+      "salesParent": 3840,
+      "revenue": 103411.2,
+      "rating": 4.4,
+      "reviews": 7818
+    },
+    {
+      "rank": 7,
+      "asin": "B000FH13LI",
+      "title": "THORNE L-Arginine, Sustained Release Formula, 120 Capsules",
+      "brand": "THORNE",
+      "price": 44.0,
+      "salesParent": 2349,
+      "revenue": 103356.0,
+      "rating": 4.6,
+      "reviews": 719
+    },
+    {
+      "rank": 8,
+      "asin": "B0897XWNM7",
+      "title": "Nutricost L-Arginine L-Citrulline Complex 750mg, 240 Capsules - Non-GMO",
+      "brand": "Nutricost",
+      "price": 18.95,
+      "salesParent": 5028,
+      "revenue": 95280.6,
+      "rating": 4.6,
+      "reviews": 3626
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -11,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -11,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 3073085,
+    "priorHeadRevenue": 3437100,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 10,
+      "pct": 10,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 45,
+      "brandCount": 61,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.41,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B01MS461VC",
+        "title": "L-Arginine and L-Citrulline for Men, Nitric Oxide Support, 30 Servings",
+        "rating": 4.3,
+        "reviews": 55307
+      },
+      {
+        "rank": 2,
+        "asin": "B081K83ZQ1",
+        "title": "Nature's Pure Blend Nitric Oxide Supplements for Men – L-Arginine L-Citrulline – Heart Support &amp; Flow Circulation Booster – 1500MG L Arginine and L Citrulline, Preworkout, Bodybuilding",
+        "rating": 4.3,
+        "reviews": 6116
+      },
+      {
+        "rank": 3,
+        "asin": "B00L83XT6A",
+        "title": "Now Foods L-Arginine 1000 mg, 120 Tablet (2 Pack)",
+        "rating": 4.5,
+        "reviews": 15625
+      },
+      {
+        "rank": 4,
+        "asin": "B01H6BTRFO",
+        "title": "Cardio Miracle Nitric Oxide Supplement 90 Servings - Beet Root Powder with L-Arginine to Support Circulation, Blood Flow, Energy, Endurance, Stamina &amp; Heart Health for Men and Women",
+        "rating": 4.2,
+        "reviews": 1203
+      },
+      {
+        "rank": 5,
+        "asin": "B0016RBXE8",
+        "title": "Pure Encapsulations L-Arginine, 180 Capsules",
+        "rating": 4.6,
+        "reviews": 1094
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:23675621011:10781161:6939950011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

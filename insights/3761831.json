@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3761831",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Health Care > Diabetes Care > Lancets",
+  "categoryPathCn": "健康与家居 > 卫生保健 > 糖尿病护理 > 刺血针",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 946409,
+    "avgRevenue": 9464,
+    "medianPrice": 11.04,
+    "priceBand": "$8.99 - $19.19",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0CXYVL8G6",
+      "title": "OneTouch Delica Plus 30-Gauge Lancets for Diabetes Testing, 200 Count",
+      "brand": "OneTouch",
+      "price": 27.99,
+      "salesParent": 5085,
+      "revenue": 142329.16,
+      "rating": 4.8,
+      "reviews": 2633
+    },
+    {
+      "rank": 2,
+      "asin": "B00APQ8HZ4",
+      "title": "Accu-Chek Softclix Diabetes Lancets, Pack of 100",
+      "brand": "Accu-Chek",
+      "price": 11.99,
+      "salesParent": 5742,
+      "revenue": 68616.9,
+      "rating": 4.8,
+      "reviews": 2222
+    },
+    {
+      "rank": 3,
+      "asin": "B0GRKKYQ8T",
+      "title": "Ascensia MICROLET NEXT Lancets for Blood Glucose Testing, 100 Count",
+      "brand": "Ascensia",
+      "price": 12.76,
+      "salesParent": 5279,
+      "revenue": 65934.71,
+      "rating": 4.9,
+      "reviews": 21
+    },
+    {
+      "rank": 4,
+      "asin": "B01N704MMD",
+      "title": "McKesson Lancets for Diabetes Testing Lancing Device, 28 g, 1.5 mm, 100 ct",
+      "brand": "McKesson",
+      "price": 17.25,
+      "salesParent": 2116,
+      "revenue": 36056.64,
+      "rating": 4.7,
+      "reviews": 5348
+    },
+    {
+      "rank": 5,
+      "asin": "B0CQR4DF8B",
+      "title": "Lancets for Diabetes Testing - 30 Gauge Diabetic Lancets for Blood Testing and Glucose Testing - Fits Most Lancing Devices - 310 Count (Colourful)",
+      "brand": "CARELIVING",
+      "price": 7.99,
+      "salesParent": 4527,
+      "revenue": 34903.17,
+      "rating": 4.8,
+      "reviews": 2234
+    },
+    {
+      "rank": 6,
+      "asin": "B013PT28XO",
+      "title": "Genteel Plus Lancing Device with Organizer Pouch, Pain-Free Blood Sampling",
+      "brand": "Genteel",
+      "price": 119.97,
+      "salesParent": 229,
+      "revenue": 27473.13,
+      "rating": 4.2,
+      "reviews": 1608
+    },
+    {
+      "rank": 7,
+      "asin": "B0B76732HQ",
+      "title": "Metene 310 Lancets for Diabetes Testing, 30 Gauge, Dark Blue",
+      "brand": "Metene",
+      "price": 9.99,
+      "salesParent": 2742,
+      "revenue": 27392.58,
+      "rating": 4.8,
+      "reviews": 4034
+    },
+    {
+      "rank": 8,
+      "asin": "B07731BKTL",
+      "title": "Pip Safety Lancets for Diabetes Testing, 30G 1.0mm, Blue, 100 Count",
+      "brand": "Pip",
+      "price": 11.97,
+      "salesParent": 2120,
+      "revenue": 25376.4,
+      "rating": 4.7,
+      "reviews": 1693
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -2,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -2,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 946409,
+    "priorHeadRevenue": 964961,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 9,
+      "pct": 9,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 44,
+      "brandCount": 58,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.6,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0CXYVL8G6",
+        "title": "OneTouch Delica Plus 30-Gauge Lancets for Diabetes Testing, 200 Count",
+        "rating": 4.8,
+        "reviews": 2633
+      },
+      {
+        "rank": 2,
+        "asin": "B00APQ8HZ4",
+        "title": "Accu-Chek Softclix Diabetes Lancets, Pack of 100",
+        "rating": 4.8,
+        "reviews": 2222
+      },
+      {
+        "rank": 3,
+        "asin": "B0GRKKYQ8T",
+        "title": "Ascensia MICROLET NEXT Lancets for Blood Glucose Testing, 100 Count",
+        "rating": 4.9,
+        "reviews": 21
+      },
+      {
+        "rank": 4,
+        "asin": "B01N704MMD",
+        "title": "McKesson Lancets for Diabetes Testing Lancing Device, 28 g, 1.5 mm, 100 ct",
+        "rating": 4.7,
+        "reviews": 5348
+      },
+      {
+        "rank": 5,
+        "asin": "B0CQR4DF8B",
+        "title": "Lancets for Diabetes Testing - 30 Gauge Diabetic Lancets for Blood Testing and Glucose Testing - Fits Most Lancing Devices - 310 Count (Colourful)",
+        "rating": 4.8,
+        "reviews": 2234
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3760941:3761401:3761831",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

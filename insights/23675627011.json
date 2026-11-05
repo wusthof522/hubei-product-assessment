@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23675627011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins, Minerals & Supplements > Herbal Supplements > Fruit Extracts",
+  "categoryPathCn": "健康与家居 > 身、泳和附剂 > 草本补充 > 水果提取物",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 18564765,
+    "avgRevenue": 185648,
+    "medianPrice": 24.97,
+    "priceBand": "$16.11 - $34.31",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B07SRK1F3Y",
+      "title": "Humann SuperBeets Heart Chews, Pomegranate Berry Flavor, 60 Ct",
+      "brand": "Humann",
+      "price": 39.95,
+      "salesParent": 56608,
+      "revenue": 2261489.75,
+      "rating": 4.5,
+      "reviews": 75873
+    },
+    {
+      "rank": 2,
+      "asin": "B00MJ7VL1O",
+      "title": "Nature's Way Sambucus Elderberry Gummies for Immune Support* Ages 4+, 60 ct",
+      "brand": "Nature's Way",
+      "price": 14.24,
+      "salesParent": 101221,
+      "revenue": 1402923.0,
+      "rating": 4.8,
+      "reviews": 115153
+    },
+    {
+      "rank": 3,
+      "asin": "B004RR1FF6",
+      "title": "AZO Cranberry Pills for Women &amp; Men, Urinary Tract Health, 100 Softgels",
+      "brand": "AZO",
+      "price": 12.32,
+      "salesParent": 63551,
+      "revenue": 816630.38,
+      "rating": 4.7,
+      "reviews": 64937
+    },
+    {
+      "rank": 4,
+      "asin": "B0CQ3XQC72",
+      "title": "Humann SuperBeets Heart Chews 5-in-1 + 3X Absorption, 150mg CoQ10, 60 Ct",
+      "brand": "Humann",
+      "price": 39.95,
+      "salesParent": 12916,
+      "revenue": 515994.22,
+      "rating": 4.6,
+      "reviews": 2941
+    },
+    {
+      "rank": 5,
+      "asin": "B0F5YY3WG2",
+      "title": "ellura Cranberry Fruit Juice Extract 36 mg Bioactive PACs, 90 Capsules",
+      "brand": "ellura",
+      "price": 129.99,
+      "salesParent": 3723,
+      "revenue": 483952.78,
+      "rating": 4.8,
+      "reviews": 377
+    },
+    {
+      "rank": 6,
+      "asin": "B086PHR52V",
+      "title": "Viva Naturals Elderberry with Vitamin C and Zinc for Adults - 5 in 1 Sambucus Black Elderberry Capsules with Vitamin D3 5000 IU Immunity Supplement, Sambucus Elderberry Immune Support Supplement",
+      "brand": "Viva Naturals",
+      "price": 23.95,
+      "salesParent": 17578,
+      "revenue": 420993.12,
+      "rating": 4.7,
+      "reviews": 46835
+    },
+    {
+      "rank": 7,
+      "asin": "B07P3H2VH1",
+      "title": "MARYRUTH'S Organic Elderberry Liquid Drops for Adults &amp; Kids, Immunity, 1oz",
+      "brand": "MARYRUTH'S",
+      "price": 14.99,
+      "salesParent": 27715,
+      "revenue": 414893.56,
+      "rating": 4.8,
+      "reviews": 12916
+    },
+    {
+      "rank": 8,
+      "asin": "B00Q5OW97M",
+      "title": "Zarbee's Kids Elderberry Immune Support Gummies, 42 ct",
+      "brand": "Zarbee's",
+      "price": 15.28,
+      "salesParent": 25840,
+      "revenue": 394835.19,
+      "rating": 4.8,
+      "reviews": 21814
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -14,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -14,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 18564765,
+    "priorHeadRevenue": 21498885,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 14,
+      "pct": 14,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 43,
+      "brandCount": 67,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.63,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B07SRK1F3Y",
+        "title": "Humann SuperBeets Heart Chews, Pomegranate Berry Flavor, 60 Ct",
+        "rating": 4.5,
+        "reviews": 75873
+      },
+      {
+        "rank": 2,
+        "asin": "B00MJ7VL1O",
+        "title": "Nature's Way Sambucus Elderberry Gummies for Immune Support* Ages 4+, 60 ct",
+        "rating": 4.8,
+        "reviews": 115153
+      },
+      {
+        "rank": 3,
+        "asin": "B004RR1FF6",
+        "title": "AZO Cranberry Pills for Women &amp; Men, Urinary Tract Health, 100 Softgels",
+        "rating": 4.7,
+        "reviews": 64937
+      },
+      {
+        "rank": 4,
+        "asin": "B0CQ3XQC72",
+        "title": "Humann SuperBeets Heart Chews 5-in-1 + 3X Absorption, 150mg CoQ10, 60 Ct",
+        "rating": 4.6,
+        "reviews": 2941
+      },
+      {
+        "rank": 5,
+        "asin": "B0F5YY3WG2",
+        "title": "ellura Cranberry Fruit Juice Extract 36 mg Bioactive PACs, 90 Capsules",
+        "rating": 4.8,
+        "reviews": 377
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:23675621011:3764461:23675627011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

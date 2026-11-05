@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "166088011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Arts & Crafts > Drawing & Painting Supplies > Coloring Pens & Markers",
+  "categoryPathCn": "玩具 > 艺术 > 绘图 > 着色笔",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 4924993,
+    "avgRevenue": 49747,
+    "medianPrice": 19.99,
+    "priceBand": "$11.71 - $29.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0DTB2N2D9",
+      "title": "Crayola Marker Airbrush Spray Art Kit, Arts &amp; Crafts Toys, Holiday Gift",
+      "brand": "Crayola",
+      "price": 20.99,
+      "salesParent": 24862,
+      "revenue": 502461.0,
+      "rating": 4.8,
+      "reviews": 1603
+    },
+    {
+      "rank": 2,
+      "asin": "B013RQPB5C",
+      "title": "Crayola Ultra Clean Washable Markers 40ct, Holiday Gift for Kids &amp; Teachers",
+      "brand": "Crayola",
+      "price": 18.61,
+      "salesParent": 27531,
+      "revenue": 471606.0,
+      "rating": 4.8,
+      "reviews": 32058
+    },
+    {
+      "rank": 3,
+      "asin": "B08LQYT546",
+      "title": "Crayola Clicks Retractable Markers 10ct, Washable Markers, Stocking Stuffer",
+      "brand": "Crayola",
+      "price": 12.7,
+      "salesParent": 30549,
+      "revenue": 377585.62,
+      "rating": 4.7,
+      "reviews": 6759
+    },
+    {
+      "rank": 4,
+      "asin": "B07GSZM4YM",
+      "title": "Mr. Sketch Scented Markers, Chisel Tip, Assorted Colors, 22 Count - Fun for Kids, Coloring, Spark Creativity, Arts &amp; Crafts",
+      "brand": "Mr. Sketch",
+      "price": 12.99,
+      "salesParent": 17575,
+      "revenue": 217578.5,
+      "rating": 4.8,
+      "reviews": 15025
+    },
+    {
+      "rank": 5,
+      "asin": "B01MA68J0O",
+      "title": "Crayola Color Wonder Toddler Mess Free Coloring Activity Set, Holiday Gift",
+      "brand": "Crayola",
+      "price": 14.09,
+      "salesParent": 10968,
+      "revenue": 184920.48,
+      "rating": 4.8,
+      "reviews": 19177
+    },
+    {
+      "rank": 6,
+      "asin": "B0002T3WLS",
+      "title": "Crayola Broad Line Markers Classpack (256 Ct), Bulk Classroom Must Haves",
+      "brand": "Crayola",
+      "price": 59.99,
+      "salesParent": 3036,
+      "revenue": 182129.64,
+      "rating": 4.9,
+      "reviews": 2143
+    },
+    {
+      "rank": 7,
+      "asin": "B003HGGPLW",
+      "title": "Crayola Broad Line Markers (12 Count), Washable Markers for Kids, Assorted Colors, Arts &amp; Crafts Supplies, For Coloring Books &amp; Art Projects, Ages 3+",
+      "brand": "Crayola",
+      "price": 7.95,
+      "salesParent": 19973,
+      "revenue": 155190.2,
+      "rating": 4.8,
+      "reviews": 20886
+    },
+    {
+      "rank": 8,
+      "asin": "B0H7Z98FPB",
+      "title": "Ultimate Stationery Dot Markers, Bingo Daubers, Washable 8 Colors Dot Markers for Toddlers and Kids Dot Art. Toddler arts and crafts (Pack of 3)",
+      "brand": "Ultimate Stationery",
+      "price": 41.97,
+      "salesParent": 3198,
+      "revenue": 134220.06,
+      "rating": 4.5,
+      "reviews": 3691
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 23,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 23,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 4924993,
+    "priorHeadRevenue": 4016703,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 29,
+      "pct": 29,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 71,
+      "brandCount": 45,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.64,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0DTB2N2D9",
+        "title": "Crayola Marker Airbrush Spray Art Kit, Arts &amp; Crafts Toys, Holiday Gift",
+        "rating": 4.8,
+        "reviews": 1603
+      },
+      {
+        "rank": 2,
+        "asin": "B013RQPB5C",
+        "title": "Crayola Ultra Clean Washable Markers 40ct, Holiday Gift for Kids &amp; Teachers",
+        "rating": 4.8,
+        "reviews": 32058
+      },
+      {
+        "rank": 3,
+        "asin": "B08LQYT546",
+        "title": "Crayola Clicks Retractable Markers 10ct, Washable Markers, Stocking Stuffer",
+        "rating": 4.7,
+        "reviews": 6759
+      },
+      {
+        "rank": 4,
+        "asin": "B07GSZM4YM",
+        "title": "Mr. Sketch Scented Markers, Chisel Tip, Assorted Colors, 22 Count - Fun for Kids, Coloring, Spark Creativity, Arts &amp; Crafts",
+        "rating": 4.8,
+        "reviews": 15025
+      },
+      {
+        "rank": 5,
+        "asin": "B01MA68J0O",
+        "title": "Crayola Color Wonder Toddler Mess Free Coloring Activity Set, Holiday Gift",
+        "rating": 4.8,
+        "reviews": 19177
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166057011:2488275011:166088011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

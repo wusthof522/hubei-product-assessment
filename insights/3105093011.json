@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3105093011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Stationery & Gift Wrapping Supplies > Gift Wrapping Supplies > Gift Wrap Tags",
+  "categoryPathCn": "健康与家居 > 文具和礼品包装用品 > 办公礼品包装 > 礼品包装标签",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 97,
+    "totalRevenue": 733819,
+    "avgRevenue": 7565,
+    "medianPrice": 7.99,
+    "priceBand": "$6.39 - $10.77",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B01767EKXC",
+      "title": "SALLYFASHION 100PCS Gift Tags with String Attached, Kraft Paper Hang Tags",
+      "brand": "SallyFashion",
+      "price": 5.39,
+      "salesParent": 14080,
+      "revenue": 82368.0,
+      "rating": 4.8,
+      "reviews": 13791
+    },
+    {
+      "rank": 2,
+      "asin": "B0D53Y3FBG",
+      "title": "500 PCS Christmas Gift Tags,Christmas Decorations,Self Adhesive Xmas Gifts",
+      "brand": "OHOME",
+      "price": 5.99,
+      "salesParent": 7322,
+      "revenue": 53011.28,
+      "rating": 4.8,
+      "reviews": 1977
+    },
+    {
+      "rank": 3,
+      "asin": "B0HKC75CC2",
+      "title": "50 PCS Wedding Send-Off Sparkle Tags",
+      "brand": "Kubidy",
+      "price": 24.98,
+      "salesParent": 1366,
+      "revenue": 34122.68,
+      "rating": 3.2,
+      "reviews": 12
+    },
+    {
+      "rank": 4,
+      "asin": "B0H3TXWX8K",
+      "title": "Alynta Halloween Tags with String 50Pcs Happy Halloween Paper Gift Tags",
+      "brand": "Alynta",
+      "price": 8.99,
+      "salesParent": 2475,
+      "revenue": 21309.75,
+      "rating": 4.8,
+      "reviews": 49
+    },
+    {
+      "rank": 5,
+      "asin": "B076CL8JMB",
+      "title": "SallyFashion Kraft Gift Tags with String, 200 Pack 1.6 X 2.8 inch",
+      "brand": "SallyFashion",
+      "price": 7.99,
+      "salesParent": 2430,
+      "revenue": 19415.7,
+      "rating": 4.8,
+      "reviews": 7705
+    },
+    {
+      "rank": 6,
+      "asin": "B0H3ZLKFCS",
+      "title": "24-Inch Wedding Send-Off Tags — Pack of80 Tags &amp; Accessories — Holiday, Christmas, and Party Decorations",
+      "brand": "CLNXMT",
+      "price": 75.5,
+      "salesParent": 210,
+      "revenue": 16403.1,
+      "rating": 5.0,
+      "reviews": 2
+    },
+    {
+      "rank": 7,
+      "asin": "B0GZYB6MS5",
+      "title": "50 Plantable Butterfly Memorial Gift Tags, in Loving Memory",
+      "brand": "Seed Bloom",
+      "price": 21.99,
+      "salesParent": 710,
+      "revenue": 15293.4,
+      "rating": 4.3,
+      "reviews": 176
+    },
+    {
+      "rank": 8,
+      "asin": "B0HCNS14SX",
+      "title": "Christmas Gift Tags Stickers - 500Pcs 3x2'' Christmas Tags for Gifts",
+      "brand": "Anwyll",
+      "price": 7.99,
+      "salesParent": 1774,
+      "revenue": 14653.24,
+      "rating": 5.0,
+      "reviews": 38
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 4,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 4,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 733819,
+    "priorHeadRevenue": 705249,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 97,
+      "newCount": 55,
+      "pct": 57,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 44,
+      "brandCount": 57,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.64,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B01767EKXC",
+        "title": "SALLYFASHION 100PCS Gift Tags with String Attached, Kraft Paper Hang Tags",
+        "rating": 4.8,
+        "reviews": 13791
+      },
+      {
+        "rank": 2,
+        "asin": "B0D53Y3FBG",
+        "title": "500 PCS Christmas Gift Tags,Christmas Decorations,Self Adhesive Xmas Gifts",
+        "rating": 4.8,
+        "reviews": 1977
+      },
+      {
+        "rank": 3,
+        "asin": "B0HKC75CC2",
+        "title": "50 PCS Wedding Send-Off Sparkle Tags",
+        "rating": 3.2,
+        "reviews": 12
+      },
+      {
+        "rank": 4,
+        "asin": "B0H3TXWX8K",
+        "title": "Alynta Halloween Tags with String 50Pcs Happy Halloween Paper Gift Tags",
+        "rating": 4.8,
+        "reviews": 49
+      },
+      {
+        "rank": 5,
+        "asin": "B076CL8JMB",
+        "title": "SallyFashion Kraft Gift Tags with String, 200 Pack 1.6 X 2.8 inch",
+        "rating": 4.8,
+        "reviews": 7705
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:723418011:723452011:3105093011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

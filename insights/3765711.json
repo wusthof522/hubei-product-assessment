@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3765711",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins, Minerals & Supplements > Herbal Supplements > Ginseng",
+  "categoryPathCn": "健康与家居 > 身、泳和附剂 > 草本补充 > 人参、西洋参、高丽参",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 1991329,
+    "avgRevenue": 20114,
+    "medianPrice": 29.09,
+    "priceBand": "$19.99 - $51.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0DFJ8ZBN3",
+      "title": "JUNG KWAN JANG Everytime Korean Red Ginseng Extract Original 30 Sticks",
+      "brand": "JUNG KWAN JANG",
+      "price": 129.99,
+      "salesParent": 2672,
+      "revenue": 347333.28,
+      "rating": 4.5,
+      "reviews": 159
+    },
+    {
+      "rank": 2,
+      "asin": "B01MECVTDY",
+      "title": "NutraChamps Korean Red Panax Ginseng Capsules | Ginseng Supplement for Men",
+      "brand": "NutraChamps",
+      "price": 22.95,
+      "salesParent": 5440,
+      "revenue": 124848.01,
+      "rating": 4.2,
+      "reviews": 17767
+    },
+    {
+      "rank": 3,
+      "asin": "B0FDQ3B3NJ",
+      "title": "JUNG KWAN JANG Korean Red Ginseng Extract Capsule Gold - 600mg,150 Capsules",
+      "brand": "JUNG KWAN JANG",
+      "price": 103.99,
+      "salesParent": 849,
+      "revenue": 88287.51,
+      "rating": 4.7,
+      "reviews": 57
+    },
+    {
+      "rank": 4,
+      "asin": "B00E7KPARM",
+      "title": "JUNG KWAN JANG Korean Red Panax Ginseng Extract Extra Strength, Energy 50g",
+      "brand": "JUNG KWAN JANG",
+      "price": 55.99,
+      "salesParent": 1475,
+      "revenue": 82585.25,
+      "rating": 4.5,
+      "reviews": 1386
+    },
+    {
+      "rank": 5,
+      "asin": "B07QCK358T",
+      "title": "Authentic Korean Red Panax Ginseng + Ginkgo Biloba, 120 Vegan Capsules, Ginseng Root Extract Powder 1000mg (10% Ginsenosides) + Gingko Biloba 60mg, Energy and Focus Pills for Men and Women",
+      "brand": "NooMost",
+      "price": 34.49,
+      "salesParent": 1747,
+      "revenue": 60219.09,
+      "rating": 4.4,
+      "reviews": 11995
+    },
+    {
+      "rank": 6,
+      "asin": "B07FF5XRCS",
+      "title": "Jung Kwan Jang Hong Sam Won Korean Red Ginseng Herbal Drink (20 Count)",
+      "brand": "JUNG KWAN JANG",
+      "price": 23.99,
+      "salesParent": 2191,
+      "revenue": 52562.09,
+      "rating": 4.5,
+      "reviews": 3059
+    },
+    {
+      "rank": 7,
+      "asin": "B000KWMNA8",
+      "title": "Prince of Peace Red Panax Ginseng Extractum Ultra Strength, 0.34 Fl Oz (Pack of 30)",
+      "brand": "Prince Of Peace",
+      "price": 17.55,
+      "salesParent": 2380,
+      "revenue": 41459.6,
+      "rating": 4.6,
+      "reviews": 3619
+    },
+    {
+      "rank": 8,
+      "asin": "B07B9GVP41",
+      "title": "Nutricost Panax Ginseng 1000mg, 240 Capsules, 120 Servings, Gluten Free",
+      "brand": "Nutricost",
+      "price": 16.95,
+      "salesParent": 2276,
+      "revenue": 38578.2,
+      "rating": 4.6,
+      "reviews": 1676
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -19,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -19,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1991329,
+    "priorHeadRevenue": 2465827,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 7,
+      "pct": 7,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 51,
+      "brandCount": 66,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.46,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0DFJ8ZBN3",
+        "title": "JUNG KWAN JANG Everytime Korean Red Ginseng Extract Original 30 Sticks",
+        "rating": 4.5,
+        "reviews": 159
+      },
+      {
+        "rank": 2,
+        "asin": "B01MECVTDY",
+        "title": "NutraChamps Korean Red Panax Ginseng Capsules | Ginseng Supplement for Men",
+        "rating": 4.2,
+        "reviews": 17767
+      },
+      {
+        "rank": 3,
+        "asin": "B0FDQ3B3NJ",
+        "title": "JUNG KWAN JANG Korean Red Ginseng Extract Capsule Gold - 600mg,150 Capsules",
+        "rating": 4.7,
+        "reviews": 57
+      },
+      {
+        "rank": 4,
+        "asin": "B00E7KPARM",
+        "title": "JUNG KWAN JANG Korean Red Panax Ginseng Extract Extra Strength, Energy 50g",
+        "rating": 4.5,
+        "reviews": 1386
+      },
+      {
+        "rank": 5,
+        "asin": "B07QCK358T",
+        "title": "Authentic Korean Red Panax Ginseng + Ginkgo Biloba, 120 Vegan Capsules, Ginseng Root Extract Powder 1000mg (10% Ginsenosides) + Gingko Biloba 60mg, Energy and Focus Pills for Men and Women",
+        "rating": 4.4,
+        "reviews": 11995
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:23675621011:3764461:3765711",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

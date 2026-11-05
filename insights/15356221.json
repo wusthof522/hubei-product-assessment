@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "15356221",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Household Supplies > Air Fresheners > Spray",
+  "categoryPathCn": "健康与家居 > 家居用品 > 空气清新 > 空气清新剂",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 6270459,
+    "avgRevenue": 62705,
+    "medianPrice": 20.47,
+    "priceBand": "$12.91 - $28.74",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0C4Z6WLLQ",
+      "title": "Lysol Air Sanitizer Spray, Air Freshener Alternative, Simple Fresh 3-Pk",
+      "brand": "Lysol",
+      "price": 15.91,
+      "salesParent": 45227,
+      "revenue": 719561.56,
+      "rating": 4.8,
+      "reviews": 12341
+    },
+    {
+      "rank": 2,
+      "asin": "B07QPCHJ81",
+      "title": "Glade Automatic Spray Air Freshener Refill, Clean Linen, 3 Count",
+      "brand": "Glade",
+      "price": 14.88,
+      "salesParent": 37359,
+      "revenue": 555901.94,
+      "rating": 4.7,
+      "reviews": 41248
+    },
+    {
+      "rank": 3,
+      "asin": "B086T517RH",
+      "title": "Ozium 8 Oz. Air Sanitizer &amp; Odor Eliminator Spray",
+      "brand": "Ozium",
+      "price": 12.96,
+      "salesParent": 31998,
+      "revenue": 419173.81,
+      "rating": 4.6,
+      "reviews": 31921
+    },
+    {
+      "rank": 4,
+      "asin": "B0GN9CW3WF",
+      "title": "Febreze Odor-Fighting Air Freshener Spray, Room Spray, Crisp Fall Breeze, Cuddle Weather &amp; Baked Cinnamon Apple Air Mist, 8.1 oz, 3ct",
+      "brand": "Febreze",
+      "price": 12.29,
+      "salesParent": 33927,
+      "revenue": 409159.62,
+      "rating": 4.8,
+      "reviews": 849
+    },
+    {
+      "rank": 5,
+      "asin": "B0108Y8EHI",
+      "title": "Poo-Pourri Before-You-Go Toilet Spray, Lavender Vanilla, 2 Fl Oz",
+      "brand": "Poo-Pourri",
+      "price": 8.65,
+      "salesParent": 45460,
+      "revenue": 364589.22,
+      "rating": 4.7,
+      "reviews": 45793
+    },
+    {
+      "rank": 6,
+      "asin": "B078HNBF1H",
+      "title": "Bright Air 14 oz. Super Odor Eliminator, For Medium-Size Spaces, Cool &amp; Clean Scent, Case of 6,Air Freshener, Natural Essential Oils, Lasts Up to 90 Days Each",
+      "brand": "Bright Air",
+      "price": 29.99,
+      "salesParent": 5430,
+      "revenue": 162845.7,
+      "rating": 4.2,
+      "reviews": 9168
+    },
+    {
+      "rank": 7,
+      "asin": "B0BQ4PPX43",
+      "title": "Lysol Disinfectant Spray + Air Sanitizer, Crisp Linen &amp; White Linen, 3 Pack",
+      "brand": "Lysol",
+      "price": 22.88,
+      "salesParent": 6437,
+      "revenue": 147407.3,
+      "rating": 4.8,
+      "reviews": 2866
+    },
+    {
+      "rank": 8,
+      "asin": "B01M07RTKT",
+      "title": "Fresh Wave Original Room and Fabric Air Freshener Spray, 2-Pk, 8 oz",
+      "brand": "Fresh Wave",
+      "price": 19.99,
+      "salesParent": 7192,
+      "revenue": 141970.08,
+      "rating": 4.3,
+      "reviews": 12970
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -23,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -23,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 6270459,
+    "priorHeadRevenue": 8122938,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 23,
+      "pct": 23,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 55,
+      "brandCount": 48,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.46,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0C4Z6WLLQ",
+        "title": "Lysol Air Sanitizer Spray, Air Freshener Alternative, Simple Fresh 3-Pk",
+        "rating": 4.8,
+        "reviews": 12341
+      },
+      {
+        "rank": 2,
+        "asin": "B07QPCHJ81",
+        "title": "Glade Automatic Spray Air Freshener Refill, Clean Linen, 3 Count",
+        "rating": 4.7,
+        "reviews": 41248
+      },
+      {
+        "rank": 3,
+        "asin": "B086T517RH",
+        "title": "Ozium 8 Oz. Air Sanitizer &amp; Odor Eliminator Spray",
+        "rating": 4.6,
+        "reviews": 31921
+      },
+      {
+        "rank": 4,
+        "asin": "B0GN9CW3WF",
+        "title": "Febreze Odor-Fighting Air Freshener Spray, Room Spray, Crisp Fall Breeze, Cuddle Weather &amp; Baked Cinnamon Apple Air Mist, 8.1 oz, 3ct",
+        "rating": 4.8,
+        "reviews": 849
+      },
+      {
+        "rank": 5,
+        "asin": "B0108Y8EHI",
+        "title": "Poo-Pourri Before-You-Go Toilet Spray, Lavender Vanilla, 2 Fl Oz",
+        "rating": 4.7,
+        "reviews": 45793
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:15342811:15356121:15356221",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

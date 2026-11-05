@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "7427950011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Sports & Outdoor Play > Play Sets & Playground Equipment > Teeter Totters",
+  "categoryPathCn": "玩具 > 体育 > 游戏套装 > 跷跷板",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 90,
+    "totalRevenue": 433355,
+    "avgRevenue": 4815,
+    "medianPrice": 72.99,
+    "priceBand": "$59.99 - $105.49",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0BVGF9993",
+      "title": "Simplay3 Up and Down Teeter Totter Seesaw - Rocking Fun for Two Toddlers or Kids Ages 18 Months to 5 Yrs- Sapphire, Made in USA",
+      "brand": "Simplay3",
+      "price": 59.99,
+      "salesParent": 1397,
+      "revenue": 83806.03,
+      "rating": 4.7,
+      "reviews": 1402
+    },
+    {
+      "rank": 2,
+      "asin": "B005MZ60RK",
+      "title": "Gym Dandy 360 Spinning Kids Seesaw Backyard Teeter Totter Ride On TT-360",
+      "brand": "gym dandy",
+      "price": 215.99,
+      "salesParent": 203,
+      "revenue": 47167.05,
+      "rating": 4.7,
+      "reviews": 967
+    },
+    {
+      "rank": 3,
+      "asin": "B0DFHKN8B3",
+      "title": "Teeter Totter for Kids, 360° Spinning Seesaw, 100 lb Seat",
+      "brand": "Amictoy",
+      "price": 69.99,
+      "salesParent": 630,
+      "revenue": 42424.2,
+      "rating": 4.4,
+      "reviews": 747
+    },
+    {
+      "rank": 4,
+      "asin": "B0FD2MGBF7",
+      "title": "VEVOR Seesaw Teeter Totter for Kids Outdoor, 300 lbs Load Capacity",
+      "brand": "VEVOR",
+      "price": 128.16,
+      "salesParent": 158,
+      "revenue": 20364.62,
+      "rating": 4.4,
+      "reviews": 101
+    },
+    {
+      "rank": 5,
+      "asin": "B0BS2WHHHC",
+      "title": "Costzon Teeter Totter Seesaw for Kids Outdoor, 2 in 1 Metal Rocking Seesaw for Toddlers with Easy-Grip Handles, Indoor Outdoor Rocker Toy Gifts for Ages 2-5, 1-3 Person Home Preschool Backyard See Saw",
+      "brand": "Costzon",
+      "price": 92.99,
+      "salesParent": 220,
+      "revenue": 19727.4,
+      "rating": 4.6,
+      "reviews": 268
+    },
+    {
+      "rank": 6,
+      "asin": "B0C7KV64VR",
+      "title": "Teeter Totter Seesaw for Kids Ages 3-8, 360° Spinning Outdoor Playground Toy, 2-Person Rotating Teeter Totter with Safety Handles, 110 lb Capacity Steel Backyard Playset for Boys &amp; Girls",
+      "brand": "Iyoyo",
+      "price": 69.99,
+      "salesParent": 267,
+      "revenue": 18105.27,
+      "rating": 4.5,
+      "reviews": 339
+    },
+    {
+      "rank": 7,
+      "asin": "B0F5Q3YTC6",
+      "title": "Seesaw for Kids Outdoor, Heavy Duty 250LB 360° Rotating Seesaw Outdoor Teeter Totter with Sit and Spin Design for Backyard Park &amp; Balcony Ideal Outdoor Toys for Kids Ages 3 4 5 6 7 8",
+      "brand": "TAILERNRUYE",
+      "price": 64.89,
+      "salesParent": 271,
+      "revenue": 17585.19,
+      "rating": 4.0,
+      "reviews": 116
+    },
+    {
+      "rank": 8,
+      "asin": "B079Q9LDMS",
+      "title": "TP Toys Spiro Spin Teeter Totter - Bounces and Spins 360 Degrees, Blue/Green",
+      "brand": "TP Toys",
+      "price": 109.99,
+      "salesParent": 136,
+      "revenue": 14958.64,
+      "rating": 4.2,
+      "reviews": 900
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 10,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 10,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 433355,
+    "priorHeadRevenue": 394051,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 90,
+      "newCount": 42,
+      "pct": 47,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 54,
+      "brandCount": 73,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.21,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0BVGF9993",
+        "title": "Simplay3 Up and Down Teeter Totter Seesaw - Rocking Fun for Two Toddlers or Kids Ages 18 Months to 5 Yrs- Sapphire, Made in USA",
+        "rating": 4.7,
+        "reviews": 1402
+      },
+      {
+        "rank": 2,
+        "asin": "B005MZ60RK",
+        "title": "Gym Dandy 360 Spinning Kids Seesaw Backyard Teeter Totter Ride On TT-360",
+        "rating": 4.7,
+        "reviews": 967
+      },
+      {
+        "rank": 3,
+        "asin": "B0DFHKN8B3",
+        "title": "Teeter Totter for Kids, 360° Spinning Seesaw, 100 lb Seat",
+        "rating": 4.4,
+        "reviews": 747
+      },
+      {
+        "rank": 4,
+        "asin": "B0FD2MGBF7",
+        "title": "VEVOR Seesaw Teeter Totter for Kids Outdoor, 300 lbs Load Capacity",
+        "rating": 4.4,
+        "reviews": 101
+      },
+      {
+        "rank": 5,
+        "asin": "B0BS2WHHHC",
+        "title": "Costzon Teeter Totter Seesaw for Kids Outdoor, 2 in 1 Metal Rocking Seesaw for Toddlers with Easy-Grip Handles, Indoor Outdoor Rocker Toy Gifts for Ages 2-5, 1-3 Person Home Preschool Backyard See Saw",
+        "rating": 4.6,
+        "reviews": 268
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166420011:166424011:7427950011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

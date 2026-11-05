@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "8297370011",
+  "level": "L2",
+  "categoryPathEn": "Industrial & Scientific > Professional Medical Supplies",
+  "categoryPathCn": "工业类 > 专业医疗用品",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 34275117,
+    "avgRevenue": 342751,
+    "medianPrice": 28.36,
+    "priceBand": "$9.99 - $69.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B00573JDI0",
+      "title": "3M Littmann Classic III Monitoring Stethoscope, 5806, More Than 2X as Loud, Weighs Less, Stainless Steel Rainbow-Finish Chestpiece, 27&quot; Raspberry Tube, Brass Stem and Headset",
+      "brand": "Littmann",
+      "price": 105.97,
+      "salesParent": 16878,
+      "revenue": 1786705.12,
+      "rating": 4.8,
+      "reviews": 81255
+    },
+    {
+      "rank": 2,
+      "asin": "B0DD46HGC9",
+      "title": "OMRON Bronze Blood Pressure Monitor &amp; Upper Arm Blood Pressure Cuff",
+      "brand": "Omron",
+      "price": 46.31,
+      "salesParent": 34418,
+      "revenue": 1553628.5,
+      "rating": 4.5,
+      "reviews": 8122
+    },
+    {
+      "rank": 3,
+      "asin": "B01M0I4KOZ",
+      "title": "3M Littmann Cardiology IV Diagnostic Stethoscope, 6163, More Than 2X as Loud, Weighs Less, Stainless Steel Black-Finish Chestpiece, 27&quot; Black Tube, Stem, and Headset",
+      "brand": "Littmann",
+      "price": 189.99,
+      "salesParent": 8221,
+      "revenue": 1538477.88,
+      "rating": 4.8,
+      "reviews": 17483
+    },
+    {
+      "rank": 4,
+      "asin": "B0C9S5PMSD",
+      "title": "Soft Max Medical Nitrile Exam Gloves Powder-Free Blue 100 Pcs (S)",
+      "brand": "Supmedic",
+      "price": 8.98,
+      "salesParent": 166309,
+      "revenue": 1493454.75,
+      "rating": 4.7,
+      "reviews": 32950
+    },
+    {
+      "rank": 5,
+      "asin": "B00GS8W3T4",
+      "title": "MED PRIDE Nitrile Exam Gloves, Latex &amp; Powder-Free, Blue, Medium, 100/Box",
+      "brand": "MED PRIDE",
+      "price": 9.99,
+      "salesParent": 131076,
+      "revenue": 1309449.25,
+      "rating": 4.7,
+      "reviews": 105303
+    },
+    {
+      "rank": 6,
+      "asin": "B00QESFJ94",
+      "title": "3M Littmann Classic III Monitoring Stethoscope, 5620, More Than 2X as Loud, Weighs Less, Stainless Steel Chestpiece, 27&quot; Black Tube",
+      "brand": "Littmann",
+      "price": 98.99,
+      "salesParent": 8912,
+      "revenue": 878455.81,
+      "rating": 4.8,
+      "reviews": 51297
+    },
+    {
+      "rank": 7,
+      "asin": "B0B69PSRQ7",
+      "title": "Inspire Cobalt Blue Nitrile Disposable Gloves | 4.5 Nitrile Safety Medical Exam Cooking Cleaning Disposable Gloves",
+      "brand": "Inspire",
+      "price": 9.99,
+      "salesParent": 87107,
+      "revenue": 857132.88,
+      "rating": 4.7,
+      "reviews": 10561
+    },
+    {
+      "rank": 8,
+      "asin": "B0CTN3JH68",
+      "title": "Eko CORE 500™ Digital Stethoscope — 40x Amplification, Active Noise Cancellation, 3-Lead ECG, FDA-Cleared AI with Eko+, Full-Color Display, Reimbursement Eligible — Silver, COR503-SLV",
+      "brand": "EKO",
+      "price": 389.0,
+      "salesParent": 1939,
+      "revenue": 763791.5,
+      "rating": 4.2,
+      "reviews": 1186
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 26,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 26,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 34275117,
+    "priorHeadRevenue": 27222404,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 23,
+      "pct": 23,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 45,
+      "brandCount": 60,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.6,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B00573JDI0",
+        "title": "3M Littmann Classic III Monitoring Stethoscope, 5806, More Than 2X as Loud, Weighs Less, Stainless Steel Rainbow-Finish Chestpiece, 27&quot; Raspberry Tube, Brass Stem and Headset",
+        "rating": 4.8,
+        "reviews": 81255
+      },
+      {
+        "rank": 2,
+        "asin": "B0DD46HGC9",
+        "title": "OMRON Bronze Blood Pressure Monitor &amp; Upper Arm Blood Pressure Cuff",
+        "rating": 4.5,
+        "reviews": 8122
+      },
+      {
+        "rank": 3,
+        "asin": "B01M0I4KOZ",
+        "title": "3M Littmann Cardiology IV Diagnostic Stethoscope, 6163, More Than 2X as Loud, Weighs Less, Stainless Steel Black-Finish Chestpiece, 27&quot; Black Tube, Stem, and Headset",
+        "rating": 4.8,
+        "reviews": 17483
+      },
+      {
+        "rank": 4,
+        "asin": "B0C9S5PMSD",
+        "title": "Soft Max Medical Nitrile Exam Gloves Powder-Free Blue 100 Pcs (S)",
+        "rating": 4.7,
+        "reviews": 32950
+      },
+      {
+        "rank": 5,
+        "asin": "B00GS8W3T4",
+        "title": "MED PRIDE Nitrile Exam Gloves, Latex &amp; Powder-Free, Blue, Medium, 100/Box",
+        "rating": 4.7,
+        "reviews": 105303
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "16310091:8297370011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

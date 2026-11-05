@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3779971",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Health Care > Foot Health > Corn & Callus Trimmers",
+  "categoryPathCn": "健康与家居 > 卫生保健 > 足部护理 > 鸡眼和茧处理工具",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 719693,
+    "avgRevenue": 7270,
+    "medianPrice": 18.99,
+    "priceBand": "$9.99 - $27.94",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B07HRYCWQZ",
+      "title": "Love Lori Foot Callus Remover Gel Extra Strength Pedicure Tool for Feet 6oz",
+      "brand": "LOVE, LORI",
+      "price": 9.98,
+      "salesParent": 35607,
+      "revenue": 332925.47,
+      "rating": 4.3,
+      "reviews": 14605
+    },
+    {
+      "rank": 2,
+      "asin": "B0DH1BK87X",
+      "title": "Callus Remover for Feet (Extra Strength 8 oz) Foot Callus Remover Gel",
+      "brand": "EntreFeet",
+      "price": 6.99,
+      "salesParent": 8055,
+      "revenue": 56304.45,
+      "rating": 4.5,
+      "reviews": 3224
+    },
+    {
+      "rank": 3,
+      "asin": "B0BDSS64VF",
+      "title": "DeEnti Foot Callus Remover Gel, Dead Skin Remover for Feet, 8oz Cool Mint",
+      "brand": "DeEnti",
+      "price": 9.99,
+      "salesParent": 4304,
+      "revenue": 42996.96,
+      "rating": 4.5,
+      "reviews": 5706
+    },
+    {
+      "rank": 4,
+      "asin": "B00LE99PA2",
+      "title": "Amopé Pedi Perfect Electric Callus Remover Foot File w/ Diamond Crystals, Pedicure Tool for Feet, Removes Hard &amp; Dead Skin, Feet Scrubber &amp; Buffer, Splashproof, w/ Extra Coarse Roller Head, 1 Count",
+      "brand": "Amope",
+      "price": 22.98,
+      "salesParent": 1635,
+      "revenue": 37490.55,
+      "rating": 4.4,
+      "reviews": 26101
+    },
+    {
+      "rank": 5,
+      "asin": "B0HGDLRKQ7",
+      "title": "Nuvé Silk 3 Pro Electric Foot Callus Remover, 2000 RPM, Rechargeable",
+      "brand": "NUVÉ",
+      "price": 39.0,
+      "salesParent": 678,
+      "revenue": 21140.04,
+      "rating": 4.8,
+      "reviews": 21
+    },
+    {
+      "rank": 6,
+      "asin": "B0HJZ3WXM2",
+      "title": "Silk 3 Pro Callus Remover for Feet, 2-Speed Electric Foot File, Pink",
+      "brand": "ORELYQ",
+      "price": 22.99,
+      "salesParent": 707,
+      "revenue": 16819.53,
+      "rating": 4.0,
+      "reviews": 23
+    },
+    {
+      "rank": 7,
+      "asin": "B007N47C66",
+      "title": "Tip2Toe Electric Callus Remover, White &amp; Silver",
+      "brand": "J D beauty professional",
+      "price": 49.35,
+      "salesParent": 269,
+      "revenue": 13277.84,
+      "rating": 4.6,
+      "reviews": 2364
+    },
+    {
+      "rank": 8,
+      "asin": "B0CSVK2KFC",
+      "title": "Original 8&quot; Callus File for Athletes, Lifters, Gymnasts, Ninjas",
+      "brand": "SandBar",
+      "price": 39.99,
+      "salesParent": 280,
+      "revenue": 11197.2,
+      "rating": 4.2,
+      "reviews": 138
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 8,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 8,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 719693,
+    "priorHeadRevenue": 668998,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 55,
+      "pct": 56,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 70,
+      "brandCount": 72,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.25,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B07HRYCWQZ",
+        "title": "Love Lori Foot Callus Remover Gel Extra Strength Pedicure Tool for Feet 6oz",
+        "rating": 4.3,
+        "reviews": 14605
+      },
+      {
+        "rank": 2,
+        "asin": "B0DH1BK87X",
+        "title": "Callus Remover for Feet (Extra Strength 8 oz) Foot Callus Remover Gel",
+        "rating": 4.5,
+        "reviews": 3224
+      },
+      {
+        "rank": 3,
+        "asin": "B0BDSS64VF",
+        "title": "DeEnti Foot Callus Remover Gel, Dead Skin Remover for Feet, 8oz Cool Mint",
+        "rating": 4.5,
+        "reviews": 5706
+      },
+      {
+        "rank": 4,
+        "asin": "B00LE99PA2",
+        "title": "Amopé Pedi Perfect Electric Callus Remover Foot File w/ Diamond Crystals, Pedicure Tool for Feet, Removes Hard &amp; Dead Skin, Feet Scrubber &amp; Buffer, Splashproof, w/ Extra Coarse Roller Head, 1 Count",
+        "rating": 4.4,
+        "reviews": 26101
+      },
+      {
+        "rank": 5,
+        "asin": "B0HGDLRKQ7",
+        "title": "Nuvé Silk 3 Pro Electric Foot Callus Remover, 2000 RPM, Rechargeable",
+        "rating": 4.8,
+        "reviews": 21
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3760941:3779911:3779971",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

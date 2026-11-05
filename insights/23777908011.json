@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23777908011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins, Minerals & Supplements > Herbal Supplements > Gymnema Sylvestre",
+  "categoryPathCn": "健康与家居 > 身、泳和附剂 > 草本补充 > 匙羹藤",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 29,
+    "totalRevenue": 185750,
+    "avgRevenue": 6405,
+    "medianPrice": 19.97,
+    "priceBand": "$12.47 - $27.43",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B000Z91LTK",
+      "title": "Himalaya USDA Organic Gymnema Sylvestre Supplement, 700mg, 60 Caplets",
+      "brand": "Himalaya",
+      "price": 23.49,
+      "salesParent": 2839,
+      "revenue": 66688.11,
+      "rating": 4.4,
+      "reviews": 7032
+    },
+    {
+      "rank": 2,
+      "asin": "B0H5FYZ6HX",
+      "title": "Berberine with Ceylon Cinnamon Supplement Phytosome Liquid Drops 1000mg",
+      "brand": "SuVeyune",
+      "price": 19.97,
+      "salesParent": 1380,
+      "revenue": 34596.6,
+      "rating": 4.7,
+      "reviews": 50
+    },
+    {
+      "rank": 3,
+      "asin": "B08L9ZHYBM",
+      "title": "Carlyle Gymnema Sylvestre Capsules | 200 Count",
+      "brand": "Carlyle",
+      "price": 11.99,
+      "salesParent": 1139,
+      "revenue": 13144.06,
+      "rating": 4.4,
+      "reviews": 2261
+    },
+    {
+      "rank": 4,
+      "asin": "B09CWXC85J",
+      "title": "Nutricost Gymnema Sylvestre Extract 180 Capsules, 180 Servings Per Bottle",
+      "brand": "Nutricost",
+      "price": 12.95,
+      "salesParent": 688,
+      "revenue": 8909.6,
+      "rating": 4.5,
+      "reviews": 617
+    },
+    {
+      "rank": 5,
+      "asin": "B0FL6B6HJ2",
+      "title": "Berberine Drops with Ceylon Cinnamon Supplement, Berberine HCL, Chromium, Bitter Melon &amp; Turmeric Liquid Drops for Immune Health &amp; Metabolic Support, Fast Absorption - 4 fl oz",
+      "brand": "Burdvmd Trttvre",
+      "price": 9.99,
+      "salesParent": 535,
+      "revenue": 5344.65,
+      "rating": 4.2,
+      "reviews": 199
+    },
+    {
+      "rank": 6,
+      "asin": "B0GYNKS9F2",
+      "title": "NutraPure Berberine Drops, Pure Berberine Drops with Ceylon Cinnamon, Chromium, Bitter Melon, and Turmeric, Antioxidant Support &amp; Daily Wellness Support, No Sugar, Vegan, Non-GMO, 2 fl oz.",
+      "brand": "Louma",
+      "price": 25.88,
+      "salesParent": 200,
+      "revenue": 5176.0,
+      "rating": 3.8,
+      "reviews": 63
+    },
+    {
+      "rank": 7,
+      "asin": "B0HG4Q4ZRQ",
+      "title": "Glucora Berberina Liquida Gotas, Botanical Liquid Drops, 4 fl oz",
+      "brand": "XioBright",
+      "price": 36.99,
+      "salesParent": 135,
+      "revenue": 4993.65,
+      "rating": 4.3,
+      "reviews": 22
+    },
+    {
+      "rank": 8,
+      "asin": "B0GZ4R7VJR",
+      "title": "Gymnema Sylvestre Vegan Capsules for Sugar Craving Support - 120 Count",
+      "brand": "Natures Craft",
+      "price": 16.9,
+      "salesParent": 311,
+      "revenue": 4907.58,
+      "rating": 4.7,
+      "reviews": 36
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": null,
+    "direction": "flat",
+    "comparable": false,
+    "rawYoyPct": -83,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 185750,
+    "priorHeadRevenue": 1068101,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 29,
+      "newCount": 12,
+      "pct": 41,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 70,
+      "brandCount": 25,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.25,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B000Z91LTK",
+        "title": "Himalaya USDA Organic Gymnema Sylvestre Supplement, 700mg, 60 Caplets",
+        "rating": 4.4,
+        "reviews": 7032
+      },
+      {
+        "rank": 2,
+        "asin": "B0H5FYZ6HX",
+        "title": "Berberine with Ceylon Cinnamon Supplement Phytosome Liquid Drops 1000mg",
+        "rating": 4.7,
+        "reviews": 50
+      },
+      {
+        "rank": 3,
+        "asin": "B08L9ZHYBM",
+        "title": "Carlyle Gymnema Sylvestre Capsules | 200 Count",
+        "rating": 4.4,
+        "reviews": 2261
+      },
+      {
+        "rank": 4,
+        "asin": "B09CWXC85J",
+        "title": "Nutricost Gymnema Sylvestre Extract 180 Capsules, 180 Servings Per Bottle",
+        "rating": 4.5,
+        "reviews": 617
+      },
+      {
+        "rank": 5,
+        "asin": "B0FL6B6HJ2",
+        "title": "Berberine Drops with Ceylon Cinnamon Supplement, Berberine HCL, Chromium, Bitter Melon &amp; Turmeric Liquid Drops for Immune Health &amp; Metabolic Support, Fast Absorption - 4 fl oz",
+        "rating": 4.2,
+        "reviews": 199
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:23675621011:3764461:23777908011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

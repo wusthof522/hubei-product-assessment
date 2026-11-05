@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "2528101011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Sports & Outdoor Play > Bean Bags & Footbags > Bean Bag Game Sets",
+  "categoryPathCn": "玩具 > 体育 > 豆袋 > 豆袋游戏套装",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 98,
+    "totalRevenue": 1590669,
+    "avgRevenue": 16231,
+    "medianPrice": 26.99,
+    "priceBand": "$20.74 - $35.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B08V1R43HT",
+      "title": "Animal Bean Bag Toss Game Toy Outdoor Toss Game",
+      "brand": "Toyk",
+      "price": 24.99,
+      "salesParent": 5233,
+      "revenue": 125382.67,
+      "rating": 4.5,
+      "reviews": 5895
+    },
+    {
+      "rank": 2,
+      "asin": "B08CS6KX62",
+      "title": "JOYIN 13 Pcs Halloween Carnival Can Bean Bag Toss Games for Kids &amp; Adults Trick or Treat Decoration, Home Decor Party Favors Supplies, Homeschooling Backyard Game",
+      "brand": "JOYIN",
+      "price": 35.99,
+      "salesParent": 3837,
+      "revenue": 105939.57,
+      "rating": 4.6,
+      "reviews": 479
+    },
+    {
+      "rank": 3,
+      "asin": "B0D51N7B2B",
+      "title": "Bundle of Mattel Games Toss Across Kids Outdoor Game, Bean Bag Toss, Get Three-in-a-Row 2-4 Players + Bounce-Off Duel 2-Player Game for Kids, Teens &amp; Adults, Slam The Paddles &amp; Balls Pop Out",
+      "brand": "Mattel Games",
+      "price": 42.97,
+      "salesParent": 2295,
+      "revenue": 98616.16,
+      "rating": 4.0,
+      "reviews": 2
+    },
+    {
+      "rank": 4,
+      "asin": "B0FCFL3TD5",
+      "title": "Spider Bean Bag Toss Game Cornhole Board Set Outdoor Toys for Kids Ages 3-8",
+      "brand": "Gadetouq",
+      "price": 27.9,
+      "salesParent": 3584,
+      "revenue": 92359.68,
+      "rating": 4.6,
+      "reviews": 456
+    },
+    {
+      "rank": 5,
+      "asin": "B091TJHWL9",
+      "title": "Bean Bag Toss Game for Kids - Cornhole Board Outdoor Toys for Toddlers -Party Activities Carnival Outside Yard Backyard Beach Lawn Games Toy for Kid Boys Girls Age 3 4 5 6 7 8 Year Old Birthday Gifts",
+      "brand": "HelloJoy",
+      "price": 24.97,
+      "salesParent": 2332,
+      "revenue": 58230.04,
+      "rating": 4.6,
+      "reviews": 2556
+    },
+    {
+      "rank": 6,
+      "asin": "B08GJ6T6XL",
+      "title": "unanscre 31PCS 3 in 1 Carnival Outdoor Games Combo Set for Kids, Soft Plastic Cones Bean Bags Ring Toss Game, Gift for Birthday Party/Xmas",
+      "brand": "unanscre",
+      "price": 22.99,
+      "salesParent": 2281,
+      "revenue": 48402.82,
+      "rating": 4.6,
+      "reviews": 3657
+    },
+    {
+      "rank": 7,
+      "asin": "B07PQCKZSZ",
+      "title": "3 in 1 Carnival Games Set, Soft Plastic Cones Bean Bags Ring Toss Games for Kids Birthday Party Outdoor Games Supplies Combo Set",
+      "brand": "Eocolz",
+      "price": 19.99,
+      "salesParent": 2222,
+      "revenue": 43906.72,
+      "rating": 4.7,
+      "reviews": 3460
+    },
+    {
+      "rank": 8,
+      "asin": "B0DSKGF368",
+      "title": "2-in-1 Outdoor Giant Tic Tac Toe Bean Bag Toss Games for Kids Adults, 4.5Ft Double-Sided Large Outside Lawn Yard Backyard Carnival Field Day Beach Picnic Camping Birthday Party Family Reunion Game",
+      "brand": "CWLAKON",
+      "price": 29.99,
+      "salesParent": 1457,
+      "revenue": 42296.71,
+      "rating": 4.6,
+      "reviews": 229
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 3,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 3,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1590669,
+    "priorHeadRevenue": 1549492,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 98,
+      "newCount": 49,
+      "pct": 50,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 37,
+      "brandCount": 76,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.45,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B08V1R43HT",
+        "title": "Animal Bean Bag Toss Game Toy Outdoor Toss Game",
+        "rating": 4.5,
+        "reviews": 5895
+      },
+      {
+        "rank": 2,
+        "asin": "B08CS6KX62",
+        "title": "JOYIN 13 Pcs Halloween Carnival Can Bean Bag Toss Games for Kids &amp; Adults Trick or Treat Decoration, Home Decor Party Favors Supplies, Homeschooling Backyard Game",
+        "rating": 4.6,
+        "reviews": 479
+      },
+      {
+        "rank": 3,
+        "asin": "B0D51N7B2B",
+        "title": "Bundle of Mattel Games Toss Across Kids Outdoor Game, Bean Bag Toss, Get Three-in-a-Row 2-4 Players + Bounce-Off Duel 2-Player Game for Kids, Teens &amp; Adults, Slam The Paddles &amp; Balls Pop Out",
+        "rating": 4.0,
+        "reviews": 2
+      },
+      {
+        "rank": 4,
+        "asin": "B0FCFL3TD5",
+        "title": "Spider Bean Bag Toss Game Cornhole Board Set Outdoor Toys for Kids Ages 3-8",
+        "rating": 4.6,
+        "reviews": 456
+      },
+      {
+        "rank": 5,
+        "asin": "B091TJHWL9",
+        "title": "Bean Bag Toss Game for Kids - Cornhole Board Outdoor Toys for Toddlers -Party Activities Carnival Outside Yard Backyard Beach Lawn Games Toy for Kid Boys Girls Age 3 4 5 6 7 8 Year Old Birthday Gifts",
+        "rating": 4.6,
+        "reviews": 2556
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166420011:166422011:2528101011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

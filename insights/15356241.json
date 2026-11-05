@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "15356241",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Household Supplies > Tissues, Toilet Paper & Sprays > Facial Tissues",
+  "categoryPathCn": "健康与家居 > 家居用品 > 纸巾、卫生纸和喷雾剂 > 面巾纸",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 97,
+    "totalRevenue": 17226133,
+    "avgRevenue": 177589,
+    "medianPrice": 23.95,
+    "priceBand": "$13.78 - $35.98",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0CTD3M2HD",
+      "title": "Kleenex Ultra Soft Facial Tissues, 8 Flat Boxes, 180 Tissues per Box",
+      "brand": "Kleenex",
+      "price": 20.97,
+      "salesParent": 187271,
+      "revenue": 3906473.25,
+      "rating": 4.8,
+      "reviews": 130948
+    },
+    {
+      "rank": 2,
+      "asin": "B09YLMRM4Y",
+      "title": "Puffs Facial Tissues Plus Lotion, 10 Cube Boxes, 56 Facial Tissues per Box, Allergies and Colds (Packaging May Vary)",
+      "brand": "Puffs",
+      "price": 19.93,
+      "salesParent": 102632,
+      "revenue": 1726270.25,
+      "rating": 4.8,
+      "reviews": 16938
+    },
+    {
+      "rank": 3,
+      "asin": "B0CTD2XLX5",
+      "title": "Kleenex Trusted Care Facial Tissues, 8 Flat Boxes, 200 Tissues per Box",
+      "brand": "Kleenex",
+      "price": 17.49,
+      "salesParent": 92148,
+      "revenue": 1611668.5,
+      "rating": 4.7,
+      "reviews": 44687
+    },
+    {
+      "rank": 4,
+      "asin": "B0040ZOF2A",
+      "title": "Kleenex Professional Facial Tissue, Bulk, 36 Boxes x 100 Tissues (21400)",
+      "brand": "Kleenex",
+      "price": 59.96,
+      "salesParent": 24645,
+      "revenue": 1491515.38,
+      "rating": 4.5,
+      "reviews": 21316
+    },
+    {
+      "rank": 5,
+      "asin": "B09YKRZR22",
+      "title": "Puffs Facial Tissues Plus Lotion, 8 Family Rectangle Boxes, 124 Facial Tissues per Box, Allergies and Colds (Packaging May Vary)",
+      "brand": "Puffs",
+      "price": 13.99,
+      "salesParent": 94820,
+      "revenue": 1262054.25,
+      "rating": 4.8,
+      "reviews": 26514
+    },
+    {
+      "rank": 6,
+      "asin": "B09YL8TX5K",
+      "title": "Puffs Facial Tissue Ultra Soft Non-Lotion, 8 Rectangle Boxes, 124 Facial Tissues per Box, Allergies and Colds (Packaging May Vary)",
+      "brand": "Puffs",
+      "price": 13.58,
+      "salesParent": 79571,
+      "revenue": 1054315.75,
+      "rating": 4.8,
+      "reviews": 16243
+    },
+    {
+      "rank": 7,
+      "asin": "B0CTD23MJG",
+      "title": "Kleenex Lotion Facial Tissues, 8 Cube Boxes, 80 Tissues per Box",
+      "brand": "Kleenex",
+      "price": 17.98,
+      "salesParent": 38307,
+      "revenue": 688759.81,
+      "rating": 4.8,
+      "reviews": 27818
+    },
+    {
+      "rank": 8,
+      "asin": "B0040ZOEYY",
+      "title": "Kleenex Professional Facial Tissue, Bulk, 36 Boxes x 90 Tissues (21270)",
+      "brand": "Kleenex",
+      "price": 72.41,
+      "salesParent": 7030,
+      "revenue": 500395.41,
+      "rating": 4.5,
+      "reviews": 4645
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 6,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 6,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 17226133,
+    "priorHeadRevenue": 16174871,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 97,
+      "newCount": 20,
+      "pct": 21,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 91,
+      "brandCount": 50,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.51,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0CTD3M2HD",
+        "title": "Kleenex Ultra Soft Facial Tissues, 8 Flat Boxes, 180 Tissues per Box",
+        "rating": 4.8,
+        "reviews": 130948
+      },
+      {
+        "rank": 2,
+        "asin": "B09YLMRM4Y",
+        "title": "Puffs Facial Tissues Plus Lotion, 10 Cube Boxes, 56 Facial Tissues per Box, Allergies and Colds (Packaging May Vary)",
+        "rating": 4.8,
+        "reviews": 16938
+      },
+      {
+        "rank": 3,
+        "asin": "B0CTD2XLX5",
+        "title": "Kleenex Trusted Care Facial Tissues, 8 Flat Boxes, 200 Tissues per Box",
+        "rating": 4.7,
+        "reviews": 44687
+      },
+      {
+        "rank": 4,
+        "asin": "B0040ZOF2A",
+        "title": "Kleenex Professional Facial Tissue, Bulk, 36 Boxes x 100 Tissues (21400)",
+        "rating": 4.5,
+        "reviews": 21316
+      },
+      {
+        "rank": 5,
+        "asin": "B09YKRZR22",
+        "title": "Puffs Facial Tissues Plus Lotion, 8 Family Rectangle Boxes, 124 Facial Tissues per Box, Allergies and Colds (Packaging May Vary)",
+        "rating": 4.8,
+        "reviews": 26514
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:15342811:23700319011:15356241",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

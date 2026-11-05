@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "17921061011",
+  "level": "L2",
+  "categoryPathEn": "Appliances > Refrigerators, Freezers & Ice Makers",
+  "categoryPathCn": "家电 > 冰箱、冷冻机",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 92,
+    "totalRevenue": 32248350,
+    "avgRevenue": 350526,
+    "medianPrice": 199.98,
+    "priceBand": "$136.24 - $394.74",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0HKMQ1Z1J",
+      "title": "Silonn Ice Maker Countertop, 8 Cubes in 6 Mins, 26.5lbs/24H, Self-Cleaning",
+      "brand": "Silonn",
+      "price": 134.99,
+      "salesParent": 15376,
+      "revenue": 2075606.38,
+      "rating": 3.4,
+      "reviews": 275
+    },
+    {
+      "rank": 2,
+      "asin": "B0DHD15DZ1",
+      "title": "Electactic Mini Fridge 130 Can Beverage Refrigerator Cooler, 3.2 Cu.Ft Drink Fridge for Soda Wine Beer, Adjustable Temperature Control for Home Office, Black",
+      "brand": "Electactic",
+      "price": 189.03,
+      "salesParent": 5776,
+      "revenue": 1091779.5,
+      "rating": 4.2,
+      "reviews": 1989
+    },
+    {
+      "rank": 3,
+      "asin": "B0DGYK2Q6S",
+      "title": "Silonn Countertop Ice Maker with Smart Touchscreen, Ambient Light &amp; Timer",
+      "brand": "Silonn",
+      "price": 99.99,
+      "salesParent": 9807,
+      "revenue": 980601.94,
+      "rating": 4.5,
+      "reviews": 12466
+    },
+    {
+      "rank": 4,
+      "asin": "B0H5C5PM8B",
+      "title": "Nugget Ice Maker Countertop 60lbs/24H, 5-Min Ice Output, UV-C Purify",
+      "brand": "SenCre",
+      "price": 739.99,
+      "salesParent": 1703,
+      "revenue": 902675.12,
+      "rating": 4.4,
+      "reviews": 68
+    },
+    {
+      "rank": 5,
+      "asin": "B0H3KR9255",
+      "title": "Silonn Nugget Ice Maker 44lbs/24H with 3L Removable Tank and 12H Timer",
+      "brand": "Silonn",
+      "price": 277.97,
+      "salesParent": 3481,
+      "revenue": 894443.0,
+      "rating": 3.1,
+      "reviews": 33017
+    },
+    {
+      "rank": 6,
+      "asin": "B0GSB7YQRC",
+      "title": "GE Profile Opal Ultra Nugget Ice Maker, 1 Gallon XL Side Tank, 38 lbs/day",
+      "brand": "Profile",
+      "price": 449.0,
+      "salesParent": 1776,
+      "revenue": 892226.88,
+      "rating": 3.5,
+      "reviews": 456
+    },
+    {
+      "rank": 7,
+      "asin": "B0HHGXNT6J",
+      "title": "Silonn Nugget Ice Maker Countertop, Chewable Pellet Ice Machine with Self-Cleaning, 36lbs/24H Compact Ice Maker for Home Kitchen Office Bar, Black",
+      "brand": "Silonn",
+      "price": 139.98,
+      "salesParent": 5628,
+      "revenue": 812514.31,
+      "rating": 4.3,
+      "reviews": 33017
+    },
+    {
+      "rank": 8,
+      "asin": "B0H4M49MGB",
+      "title": "Silonn Nugget Ice Maker Countertop with APP &amp; Voice Control, Self Cleaning Ice Machine with 3L Large Water Tank, 44lbs/24H Soft Chewable Ice, Portable Pebble Ice Maker for Home and Party, Silver",
+      "brand": "Silonn",
+      "price": 322.93,
+      "salesParent": 2343,
+      "revenue": 707211.12,
+      "rating": 3.1,
+      "reviews": 6
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -14,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -14,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 32248350,
+    "priorHeadRevenue": 37563048,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 92,
+      "newCount": 51,
+      "pct": 55,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 63,
+      "brandCount": 33,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.19,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0HKMQ1Z1J",
+        "title": "Silonn Ice Maker Countertop, 8 Cubes in 6 Mins, 26.5lbs/24H, Self-Cleaning",
+        "rating": 3.4,
+        "reviews": 275
+      },
+      {
+        "rank": 2,
+        "asin": "B0DHD15DZ1",
+        "title": "Electactic Mini Fridge 130 Can Beverage Refrigerator Cooler, 3.2 Cu.Ft Drink Fridge for Soda Wine Beer, Adjustable Temperature Control for Home Office, Black",
+        "rating": 4.2,
+        "reviews": 1989
+      },
+      {
+        "rank": 3,
+        "asin": "B0DGYK2Q6S",
+        "title": "Silonn Countertop Ice Maker with Smart Touchscreen, Ambient Light &amp; Timer",
+        "rating": 4.5,
+        "reviews": 12466
+      },
+      {
+        "rank": 4,
+        "asin": "B0H5C5PM8B",
+        "title": "Nugget Ice Maker Countertop 60lbs/24H, 5-Min Ice Output, UV-C Purify",
+        "rating": 4.4,
+        "reviews": 68
+      },
+      {
+        "rank": 5,
+        "asin": "B0H3KR9255",
+        "title": "Silonn Nugget Ice Maker 44lbs/24H with 3L Removable Tank and 12H Timer",
+        "rating": 3.1,
+        "reviews": 33017
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "2619525011:17921061011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

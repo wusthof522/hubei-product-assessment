@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3765691",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins, Minerals & Supplements > Herbal Supplements > Ginger",
+  "categoryPathCn": "健康与家居 > 身、泳和附剂 > 草本补充 > 生姜",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 2604130,
+    "avgRevenue": 26041,
+    "medianPrice": 21.06,
+    "priceBand": "$16.24 - $28.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B07XFGCP21",
+      "title": "Turmeric Curcumin Supplement - 95% Curcuminoids with Organic Turmeric &amp; Ginger, BioPerine Black Pepper Extract for Best Absorption, Natural Joint &amp; Immune Support, Vegan, Bottled in USA - 240 Capsules",
+      "brand": "Nature's Nutrition",
+      "price": 24.82,
+      "salesParent": 23238,
+      "revenue": 576767.12,
+      "rating": 4.6,
+      "reviews": 61116
+    },
+    {
+      "rank": 2,
+      "asin": "B08BWN8M3Y",
+      "title": "4-in-1 Turmeric Joint Support Supplements with Garlic and BioPerine - 2360 mg High Potency Herbal Blend for Mobility, Everyday Flexibility, Digestive Comfort, and Active Aging Support (120ct)",
+      "brand": "MEDCHOICE",
+      "price": 23.95,
+      "salesParent": 9378,
+      "revenue": 224603.11,
+      "rating": 4.6,
+      "reviews": 18537
+    },
+    {
+      "rank": 3,
+      "asin": "B08VF83W4R",
+      "title": "Organic Immunity Booster. Cold-Pressed Ginger Shots with Turmeric &amp; Cayenne",
+      "brand": "+GNGR",
+      "price": 49.99,
+      "salesParent": 3051,
+      "revenue": 147271.77,
+      "rating": 4.5,
+      "reviews": 1449
+    },
+    {
+      "rank": 4,
+      "asin": "B0869T1YTS",
+      "title": "Traditional Medicinals Organic, Belly Comfort Lozenges, Lemon Ginger - Supports Nausea Relief and Occasional Indigestion - Non-GMO, Stimulant-Free - 30 Individually Wrapped Lozenges",
+      "brand": "Traditional Medicinals",
+      "price": 9.97,
+      "salesParent": 14673,
+      "revenue": 146289.81,
+      "rating": 4.6,
+      "reviews": 2818
+    },
+    {
+      "rank": 5,
+      "asin": "B074N99XL1",
+      "title": "Nature's Way Ginger Root Capsules,1,100 mg per Serving, Vegan, 240 ct",
+      "brand": "Nature's Way",
+      "price": 16.65,
+      "salesParent": 7801,
+      "revenue": 128716.5,
+      "rating": 4.6,
+      "reviews": 17504
+    },
+    {
+      "rank": 6,
+      "asin": "B09JY78TG7",
+      "title": "Herbal Roots Organic Ginger Capsules - Digestive Support - USDA Certified Organic - 60 Vegan Capsules",
+      "brand": "Herbal Roots",
+      "price": 26.99,
+      "salesParent": 2787,
+      "revenue": 75221.13,
+      "rating": 4.7,
+      "reviews": 970
+    },
+    {
+      "rank": 7,
+      "asin": "B071YHWRNS",
+      "title": "Turmeric and Ginger Supplement – Inflammation &amp; Joint Support. 60 Capsules",
+      "brand": "Vimerson Health",
+      "price": 19.16,
+      "salesParent": 2702,
+      "revenue": 62929.58,
+      "rating": 4.5,
+      "reviews": 13393
+    },
+    {
+      "rank": 8,
+      "asin": "B000JN883Y",
+      "title": "NOW Supplements, Peppermint Gels with Ginger &amp; Fennel Oils, 90 Softgels",
+      "brand": "NOW Foods",
+      "price": 9.99,
+      "salesParent": 6009,
+      "revenue": 62373.42,
+      "rating": 4.5,
+      "reviews": 5865
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -11,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -11,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 2604130,
+    "priorHeadRevenue": 2924028,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 27,
+      "pct": 27,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 49,
+      "brandCount": 86,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.46,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B07XFGCP21",
+        "title": "Turmeric Curcumin Supplement - 95% Curcuminoids with Organic Turmeric &amp; Ginger, BioPerine Black Pepper Extract for Best Absorption, Natural Joint &amp; Immune Support, Vegan, Bottled in USA - 240 Capsules",
+        "rating": 4.6,
+        "reviews": 61116
+      },
+      {
+        "rank": 2,
+        "asin": "B08BWN8M3Y",
+        "title": "4-in-1 Turmeric Joint Support Supplements with Garlic and BioPerine - 2360 mg High Potency Herbal Blend for Mobility, Everyday Flexibility, Digestive Comfort, and Active Aging Support (120ct)",
+        "rating": 4.6,
+        "reviews": 18537
+      },
+      {
+        "rank": 3,
+        "asin": "B08VF83W4R",
+        "title": "Organic Immunity Booster. Cold-Pressed Ginger Shots with Turmeric &amp; Cayenne",
+        "rating": 4.5,
+        "reviews": 1449
+      },
+      {
+        "rank": 4,
+        "asin": "B0869T1YTS",
+        "title": "Traditional Medicinals Organic, Belly Comfort Lozenges, Lemon Ginger - Supports Nausea Relief and Occasional Indigestion - Non-GMO, Stimulant-Free - 30 Individually Wrapped Lozenges",
+        "rating": 4.6,
+        "reviews": 2818
+      },
+      {
+        "rank": 5,
+        "asin": "B074N99XL1",
+        "title": "Nature's Way Ginger Root Capsules,1,100 mg per Serving, Vegan, 240 ct",
+        "rating": 4.6,
+        "reviews": 17504
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:23675621011:3764461:3765691",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

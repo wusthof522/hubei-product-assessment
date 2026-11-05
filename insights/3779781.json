@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3779781",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vision > Eyeglasses Care > Cleaning Fluids",
+  "categoryPathCn": "健康与家居 > 眼睛护理 > 眼镜配件及护理用品 > 清洗液",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 96,
+    "totalRevenue": 1230945,
+    "avgRevenue": 12822,
+    "medianPrice": 13.92,
+    "priceBand": "$9.99 - $19.82",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B07K4R213M",
+      "title": "Koala Eyeglass Lens Cleaner Spray Kit | Japanese Microfiber (4 Piece Set)",
+      "brand": "Koala Lifestyle",
+      "price": 9.99,
+      "salesParent": 45456,
+      "revenue": 454105.44,
+      "rating": 4.6,
+      "reviews": 61732
+    },
+    {
+      "rank": 2,
+      "asin": "B00GPVQVCO",
+      "title": "ZEISS Lens Cleaning Kit – (2) 8 oz Lens Spray &amp; (2) Microfiber Cloths",
+      "brand": "ZEISS",
+      "price": 13.49,
+      "salesParent": 15885,
+      "revenue": 223978.5,
+      "rating": 4.6,
+      "reviews": 12397
+    },
+    {
+      "rank": 3,
+      "asin": "B0B15NZVJR",
+      "title": "Purity Eyeglass Lens Cleaner Kit - 2 x 8oz and 1 x 2oz Lens Cleaner",
+      "brand": "Purity Lens Cleaner",
+      "price": 15.99,
+      "salesParent": 6101,
+      "revenue": 97188.93,
+      "rating": 4.6,
+      "reviews": 4937
+    },
+    {
+      "rank": 4,
+      "asin": "B086855GX3",
+      "title": "EVEO Glasses Cleaner Spray - Eyeglass Cleaner Lens Cleaner No Streaks Technology &amp; Microfiber Cleaning Cloth - Glasses Cleaning Kit, Eye Glass Cleaners Spray - Screen &amp; Eye Glasses Kit - 2 Pack",
+      "brand": "EVEO",
+      "price": 7.99,
+      "salesParent": 7531,
+      "revenue": 57536.84,
+      "rating": 4.4,
+      "reviews": 16291
+    },
+    {
+      "rank": 5,
+      "asin": "B0DCB6P9L2",
+      "title": "SmoTecQ Glasses Cleaner Kit – Alcohol-Free, Plant-Based Spray + Ultra-Soft Microfiber Cloths for Eyeglasses, Screens &amp; Cameras – 2 x 2oz Spray Bottles + 2 Cloths + Travel Pouch Set",
+      "brand": "SmoTecQ",
+      "price": 6.99,
+      "salesParent": 5496,
+      "revenue": 36768.24,
+      "rating": 4.7,
+      "reviews": 1771
+    },
+    {
+      "rank": 6,
+      "asin": "B0DHH641MN",
+      "title": "EVEO Glasses Cleaner Spray Kit-x2 Streak-Free Eyeglass Cleaner Lens Cleaner",
+      "brand": "EVEO",
+      "price": 6.99,
+      "salesParent": 4146,
+      "revenue": 28980.54,
+      "rating": 4.4,
+      "reviews": 1644
+    },
+    {
+      "rank": 7,
+      "asin": "B07SPJ4T5T",
+      "title": "Crizal® Eyeglass Cleaner Kit | 6-Pack with Lens Cleaner Spray &amp; Premium Microfiber Cleaning Cloth | Designed &amp; Tested by Crizal® | Safe for Advanced AR &amp; Anti-Reflective Lens Coatings",
+      "brand": "Crizal",
+      "price": 12.99,
+      "salesParent": 1496,
+      "revenue": 19433.04,
+      "rating": 4.7,
+      "reviews": 2793
+    },
+    {
+      "rank": 8,
+      "asin": "B0C85MJR51",
+      "title": "Glasses Cleaner Eyeglass Cleaning Kit with Anti Fog Spray, Microfiber Cloth",
+      "brand": "Ordilend",
+      "price": 9.99,
+      "salesParent": 1561,
+      "revenue": 15812.93,
+      "rating": 4.3,
+      "reviews": 3208
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 19,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 19,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1230945,
+    "priorHeadRevenue": 1038075,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 96,
+      "newCount": 38,
+      "pct": 40,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 74,
+      "brandCount": 66,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.04,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B07K4R213M",
+        "title": "Koala Eyeglass Lens Cleaner Spray Kit | Japanese Microfiber (4 Piece Set)",
+        "rating": 4.6,
+        "reviews": 61732
+      },
+      {
+        "rank": 2,
+        "asin": "B00GPVQVCO",
+        "title": "ZEISS Lens Cleaning Kit – (2) 8 oz Lens Spray &amp; (2) Microfiber Cloths",
+        "rating": 4.6,
+        "reviews": 12397
+      },
+      {
+        "rank": 3,
+        "asin": "B0B15NZVJR",
+        "title": "Purity Eyeglass Lens Cleaner Kit - 2 x 8oz and 1 x 2oz Lens Cleaner",
+        "rating": 4.6,
+        "reviews": 4937
+      },
+      {
+        "rank": 4,
+        "asin": "B086855GX3",
+        "title": "EVEO Glasses Cleaner Spray - Eyeglass Cleaner Lens Cleaner No Streaks Technology &amp; Microfiber Cleaning Cloth - Glasses Cleaning Kit, Eye Glass Cleaners Spray - Screen &amp; Eye Glasses Kit - 2 Pack",
+        "rating": 4.4,
+        "reviews": 16291
+      },
+      {
+        "rank": 5,
+        "asin": "B0DCB6P9L2",
+        "title": "SmoTecQ Glasses Cleaner Kit – Alcohol-Free, Plant-Based Spray + Ultra-Soft Microfiber Cloths for Eyeglasses, Screens &amp; Cameras – 2 x 2oz Spray Bottles + 2 Cloths + Travel Pouch Set",
+        "rating": 4.7,
+        "reviews": 1771
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:10079994011:3779771:3779781",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

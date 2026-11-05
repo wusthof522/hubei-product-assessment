@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "2528112011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Sports & Outdoor Play > Sandboxes & Beach Toys > Sandboxes",
+  "categoryPathCn": "玩具与游戏 > 运动与户外游戏 > 沙箱和沙滩玩具 > 沙箱",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 92,
+    "totalRevenue": 1668313,
+    "avgRevenue": 18134,
+    "medianPrice": 105.49,
+    "priceBand": "$29.96 - $119.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0D92HW77V",
+      "title": "JOVA Klever Kits Construction Sensory Bin for Kids with Glow in The Dark Stones, Sandbox with Lid Castle Building kit, Preschool Learning Activities Gifts for Boys Girls Age 3+",
+      "brand": "Klever Kits",
+      "price": 23.99,
+      "salesParent": 12744,
+      "revenue": 305728.56,
+      "rating": 4.6,
+      "reviews": 1349
+    },
+    {
+      "rank": 2,
+      "asin": "B0CRL19F8B",
+      "title": "Pet Sensory Bin, Dog &amp; Cat Sand Box Play Sand Kit, Sensory Toys",
+      "brand": "Carolart",
+      "price": 28.99,
+      "salesParent": 4153,
+      "revenue": 104821.72,
+      "rating": 4.6,
+      "reviews": 1290
+    },
+    {
+      "rank": 3,
+      "asin": "B0FC519LZ3",
+      "title": "Sun Joe Silica Play Sand for Sandbox, Sensory Table &amp; Gardens, Ultra Fine, 50 Lb Bag - Indoor &amp; Outdoor Craft Accessory for Molding, Digging &amp; Sculpting, PLYSAND50",
+      "brand": "Sun Joe",
+      "price": 32.97,
+      "salesParent": 2975,
+      "revenue": 98085.75,
+      "rating": 4.5,
+      "reviews": 720
+    },
+    {
+      "rank": 4,
+      "asin": "B08R826WX3",
+      "title": "Little Tikes Dirt Diggers Excavator Sandbox for Kids, Including Lid and Play Sand Accessories",
+      "brand": "Little Tikes",
+      "price": 47.49,
+      "salesParent": 1653,
+      "revenue": 84831.96,
+      "rating": 4.6,
+      "reviews": 1492
+    },
+    {
+      "rank": 5,
+      "asin": "B0CCRJY4S9",
+      "title": "Little Tikes Turtle Sandbox, for Boys and Girls Ages 1-6 Years",
+      "brand": "Little Tikes",
+      "price": 54.0,
+      "salesParent": 1378,
+      "revenue": 74370.66,
+      "rating": 4.1,
+      "reviews": 5705
+    },
+    {
+      "rank": 6,
+      "asin": "B01EYUMENC",
+      "title": "TOMY John Deere Sandbox Vehicle Set - Dump Truck and Tractor Toy - 6 Inch",
+      "brand": "TOMY",
+      "price": 14.99,
+      "salesParent": 3705,
+      "revenue": 55945.5,
+      "rating": 4.8,
+      "reviews": 24030
+    },
+    {
+      "rank": 7,
+      "asin": "B0CQXCPMWH",
+      "title": "Ocean Sensory Bin with Sensory Sand, Ocean Toys for Kids",
+      "brand": "AGENTLAN",
+      "price": 22.99,
+      "salesParent": 2082,
+      "revenue": 50571.78,
+      "rating": 4.6,
+      "reviews": 919
+    },
+    {
+      "rank": 8,
+      "asin": "B0FQB593JV",
+      "title": "Stackable Sensory Bin, Unicorn &amp; Pet Sensory Sand Play Set",
+      "brand": "AGENTLAN",
+      "price": 23.99,
+      "salesParent": 1605,
+      "revenue": 40895.4,
+      "rating": 4.1,
+      "reviews": 168
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 30,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 30,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1668313,
+    "priorHeadRevenue": 1287324,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 92,
+      "newCount": 44,
+      "pct": 48,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 48,
+      "brandCount": 67,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.34,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0D92HW77V",
+        "title": "JOVA Klever Kits Construction Sensory Bin for Kids with Glow in The Dark Stones, Sandbox with Lid Castle Building kit, Preschool Learning Activities Gifts for Boys Girls Age 3+",
+        "rating": 4.6,
+        "reviews": 1349
+      },
+      {
+        "rank": 2,
+        "asin": "B0CRL19F8B",
+        "title": "Pet Sensory Bin, Dog &amp; Cat Sand Box Play Sand Kit, Sensory Toys",
+        "rating": 4.6,
+        "reviews": 1290
+      },
+      {
+        "rank": 3,
+        "asin": "B0FC519LZ3",
+        "title": "Sun Joe Silica Play Sand for Sandbox, Sensory Table &amp; Gardens, Ultra Fine, 50 Lb Bag - Indoor &amp; Outdoor Craft Accessory for Molding, Digging &amp; Sculpting, PLYSAND50",
+        "rating": 4.5,
+        "reviews": 720
+      },
+      {
+        "rank": 4,
+        "asin": "B08R826WX3",
+        "title": "Little Tikes Dirt Diggers Excavator Sandbox for Kids, Including Lid and Play Sand Accessories",
+        "rating": 4.6,
+        "reviews": 1492
+      },
+      {
+        "rank": 5,
+        "asin": "B0CCRJY4S9",
+        "title": "Little Tikes Turtle Sandbox, for Boys and Girls Ages 1-6 Years",
+        "rating": 4.1,
+        "reviews": 5705
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166420011:24219907011:2528112011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

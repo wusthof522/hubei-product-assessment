@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "10298087011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Medical Supplies & Equipment > Occupational & Physical Therapy Aids > Speech & Communication Aids",
+  "categoryPathCn": "健康与家居 > 医疗用品和设备 > 职业和物理疗法辅助用品 > 语音和沟通辅助用品",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 1580501,
+    "avgRevenue": 15805,
+    "medianPrice": 32.99,
+    "priceBand": "$19.23 - $47.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0GCBFK2PZ",
+      "title": "Cómo Abrazar a un Puercoespín: Cómo Amar a las Personas Difíciles",
+      "brand": "Audible",
+      "price": 699.0,
+      "salesParent": 754,
+      "revenue": 527046.0,
+      "rating": 4.2,
+      "reviews": 23
+    },
+    {
+      "rank": 2,
+      "asin": "B0HFCKB889",
+      "title": "Language Translator Device, Wearable AI Translator, Real-Time, Gray",
+      "brand": "Assckr",
+      "price": 39.99,
+      "salesParent": 5685,
+      "revenue": 223022.55,
+      "rating": 4.3,
+      "reviews": 110
+    },
+    {
+      "rank": 3,
+      "asin": "B0BKHF12KY",
+      "title": "Special Supplies Buzz Buddy Oral Motor Stimulation kit with 6 Soft Textured Interchangeable Heads, Calm Sensory Needs, Support Speech, and Stimulate Self Feeding, Gentle Vibrations (Grey)",
+      "brand": "Special Supplies",
+      "price": 38.99,
+      "salesParent": 2585,
+      "revenue": 100789.16,
+      "rating": 4.5,
+      "reviews": 2104
+    },
+    {
+      "rank": 4,
+      "asin": "B0F7GZBV24",
+      "title": "Joyreal AAC Device for Autism, Non Verbal Communication Tools for Speech Therapy &amp; Stroke Rehab. Communication Tablet, Autism Talking Aids with 8 Programmable Buttons &amp; Adjustable Volume",
+      "brand": "Joyreal",
+      "price": 34.19,
+      "salesParent": 2093,
+      "revenue": 61094.67,
+      "rating": 4.4,
+      "reviews": 1024
+    },
+    {
+      "rank": 5,
+      "asin": "B0HKWSD6HM",
+      "title": "AI Language Translator Device, 165 Languages Real Time Two-Way Voice Translator, Wearable Pocket Portable Translator for Overseas Travel, Business Negotiation &amp; Language Learning",
+      "brand": "OHTEKBIU",
+      "price": 34.99,
+      "salesParent": 732,
+      "revenue": 39967.2,
+      "rating": 4.7,
+      "reviews": 6
+    },
+    {
+      "rank": 6,
+      "asin": "B0HGYBN9N3",
+      "title": "Fieldy 3 Black AI Wearable Transcriber, Watch or Pendant, 100+ Languages",
+      "brand": "FIELDY",
+      "price": 149.99,
+      "salesParent": 255,
+      "revenue": 37209.6,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "rank": 7,
+      "asin": "B09F3TJLHZ",
+      "title": "TalkTools Jiggler Oral Motor Tool for Kids - Oral Facial Massager, Sensory Awareness for Jaw &amp; Lips, Calming Vibration for Speech &amp; Feeding | Dragon &amp; Frog, Set of 2",
+      "brand": "TalkTools",
+      "price": 41.0,
+      "salesParent": 710,
+      "revenue": 29110.0,
+      "rating": 4.4,
+      "reviews": 576
+    },
+    {
+      "rank": 8,
+      "asin": "B0FQBH8B1B",
+      "title": "Joyreal SensoryBuzz Oral Motor Vibration Kit with 7 Textured Silicone Heads",
+      "brand": "Joyreal",
+      "price": 31.18,
+      "salesParent": 746,
+      "revenue": 26893.3,
+      "rating": 4.2,
+      "reviews": 135
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 113,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 113,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1580501,
+    "priorHeadRevenue": 741315,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 64,
+      "pct": 64,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 67,
+      "brandCount": 65,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.2,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0GCBFK2PZ",
+        "title": "Cómo Abrazar a un Puercoespín: Cómo Amar a las Personas Difíciles",
+        "rating": 4.2,
+        "reviews": 23
+      },
+      {
+        "rank": 2,
+        "asin": "B0HFCKB889",
+        "title": "Language Translator Device, Wearable AI Translator, Real-Time, Gray",
+        "rating": 4.3,
+        "reviews": 110
+      },
+      {
+        "rank": 3,
+        "asin": "B0BKHF12KY",
+        "title": "Special Supplies Buzz Buddy Oral Motor Stimulation kit with 6 Soft Textured Interchangeable Heads, Calm Sensory Needs, Support Speech, and Stimulate Self Feeding, Gentle Vibrations (Grey)",
+        "rating": 4.5,
+        "reviews": 2104
+      },
+      {
+        "rank": 4,
+        "asin": "B0F7GZBV24",
+        "title": "Joyreal AAC Device for Autism, Non Verbal Communication Tools for Speech Therapy &amp; Stroke Rehab. Communication Tablet, Autism Talking Aids with 8 Programmable Buttons &amp; Adjustable Volume",
+        "rating": 4.4,
+        "reviews": 1024
+      },
+      {
+        "rank": 5,
+        "asin": "B0HKWSD6HM",
+        "title": "AI Language Translator Device, 165 Languages Real Time Two-Way Voice Translator, Wearable Pocket Portable Translator for Overseas Travel, Business Negotiation &amp; Language Learning",
+        "rating": 4.7,
+        "reviews": 6
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3775161:3776531:10298087011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

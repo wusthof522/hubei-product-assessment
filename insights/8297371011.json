@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "8297371011",
+  "level": "L2",
+  "categoryPathEn": "Industrial & Scientific > Professional Dental Supplies",
+  "categoryPathCn": "工业类 > 专业的牙科用品",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 96,
+    "totalRevenue": 3340306,
+    "avgRevenue": 34795,
+    "medianPrice": 29.34,
+    "priceBand": "$16.99 - $52.24",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0DK8RFCD2",
+      "title": "30 Pcs 10ml Oral Syringe With Cap, Plastic Syringes without Needle for Medicine Dropper, Liquid Measuring, Handicrafts, Individually Sealed, Luer Slip",
+      "brand": "TENKAIWICK",
+      "price": 18.99,
+      "salesParent": 17467,
+      "revenue": 222180.25,
+      "rating": 4.7,
+      "reviews": 1862
+    },
+    {
+      "rank": 2,
+      "asin": "B07P2L6TJZ",
+      "title": "Zinc Oxide Eugenol Dental Cement Kit for Crowns, Bridges &amp; Fillings | Includes Powder, Liquid &amp; Mixing Accessories",
+      "brand": "mastermedi",
+      "price": 39.99,
+      "salesParent": 4485,
+      "revenue": 179355.16,
+      "rating": 4.2,
+      "reviews": 16423
+    },
+    {
+      "rank": 3,
+      "asin": "B0DY8B7DK4",
+      "title": "VieBeauti Teeth Whitening Pen Kit, 35% Carbamide Peroxide Gel, 5 Pack",
+      "brand": "VieBeauti",
+      "price": 19.99,
+      "salesParent": 6521,
+      "revenue": 126181.35,
+      "rating": 4.2,
+      "reviews": 18944
+    },
+    {
+      "rank": 4,
+      "asin": "B0BX2391SJ",
+      "title": "160 Pack Disposable Dental Bibs 13&quot;x18&quot;, 3-Ply Waterproof Tattoo Bibs Sheet for Nail Salon, Dental Clinic, Feeding, Tattoo Shop (Pink)",
+      "brand": "TENKAIWICK",
+      "price": 14.99,
+      "salesParent": 6697,
+      "revenue": 98512.87,
+      "rating": 4.8,
+      "reviews": 3471
+    },
+    {
+      "rank": 5,
+      "asin": "B00KEW1NLE",
+      "title": "Intraoral Camera, Crystal Clear Images with an Easy to Use, Fast, Single Button Operation Dental Camera, Compatible with Over 50 Dental Imaging Suites, Lightweight and Ergonomic, 31 Grams",
+      "brand": "MouthWatch",
+      "price": 299.0,
+      "salesParent": 301,
+      "revenue": 89999.0,
+      "rating": 4.3,
+      "reviews": 53
+    },
+    {
+      "rank": 6,
+      "asin": "B08FY3MZ3K",
+      "title": "JMU 125 Pack Dental Bibs, Black Dental Bibs Disposable,13&quot; x 18&quot; Tattoo Bib",
+      "brand": "JMU",
+      "price": 12.99,
+      "salesParent": 6705,
+      "revenue": 87097.95,
+      "rating": 4.8,
+      "reviews": 5325
+    },
+    {
+      "rank": 7,
+      "asin": "B07HLDFCSX",
+      "title": "PlastCare USA Disposable Dental Bibs 13&quot;x18&quot; - 3 Ply Waterproof Tattoo Bib Sheet for Patients - Dentist or Medical Tray Cover and Nail Table Cover Supplies, Black",
+      "brand": "PlastCare USA",
+      "price": 12.99,
+      "salesParent": 6780,
+      "revenue": 86173.8,
+      "rating": 4.7,
+      "reviews": 11467
+    },
+    {
+      "rank": 8,
+      "asin": "B005DL2ST2",
+      "title": "DY-50 Intraoral Camera Dental Camera Super Clear Button Driver Included Work W/Eaglesoft Dexis More",
+      "brand": "DARYOU",
+      "price": 269.99,
+      "salesParent": 302,
+      "revenue": 81775.56,
+      "rating": 4.4,
+      "reviews": 756
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 5,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 5,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 3340306,
+    "priorHeadRevenue": 3184079,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 96,
+      "newCount": 38,
+      "pct": 40,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 33,
+      "brandCount": 76,
+      "level": "分散",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.24,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0DK8RFCD2",
+        "title": "30 Pcs 10ml Oral Syringe With Cap, Plastic Syringes without Needle for Medicine Dropper, Liquid Measuring, Handicrafts, Individually Sealed, Luer Slip",
+        "rating": 4.7,
+        "reviews": 1862
+      },
+      {
+        "rank": 2,
+        "asin": "B07P2L6TJZ",
+        "title": "Zinc Oxide Eugenol Dental Cement Kit for Crowns, Bridges &amp; Fillings | Includes Powder, Liquid &amp; Mixing Accessories",
+        "rating": 4.2,
+        "reviews": 16423
+      },
+      {
+        "rank": 3,
+        "asin": "B0DY8B7DK4",
+        "title": "VieBeauti Teeth Whitening Pen Kit, 35% Carbamide Peroxide Gel, 5 Pack",
+        "rating": 4.2,
+        "reviews": 18944
+      },
+      {
+        "rank": 4,
+        "asin": "B0BX2391SJ",
+        "title": "160 Pack Disposable Dental Bibs 13&quot;x18&quot;, 3-Ply Waterproof Tattoo Bibs Sheet for Nail Salon, Dental Clinic, Feeding, Tattoo Shop (Pink)",
+        "rating": 4.8,
+        "reviews": 3471
+      },
+      {
+        "rank": 5,
+        "asin": "B00KEW1NLE",
+        "title": "Intraoral Camera, Crystal Clear Images with an Easy to Use, Fast, Single Button Operation Dental Camera, Compatible with Over 50 Dental Imaging Suites, Lightweight and Ergonomic, 31 Grams",
+        "rating": 4.3,
+        "reviews": 53
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "16310091:8297371011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

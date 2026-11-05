@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "10342666011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Household Supplies > Tobacco-Related Products > Tobacco Pipes & Accessories",
+  "categoryPathCn": "健康与家居 > 家居用品 > 烟草类商品 > 烟斗",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 98,
+    "totalRevenue": 1186621,
+    "avgRevenue": 12108,
+    "medianPrice": 18.07,
+    "priceBand": "$8.99 - $25.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B07MLRS85P",
+      "title": "OZCHIN Smell Proof Bag with Combination Lock File Organizer Case Container Medicine Odorless Storage Lock Box Great Gift for Friend",
+      "brand": "OZCHIN",
+      "price": 19.99,
+      "salesParent": 4583,
+      "revenue": 87397.81,
+      "rating": 4.6,
+      "reviews": 17799
+    },
+    {
+      "rank": 2,
+      "asin": "B0BHWC77QB",
+      "title": "Smell Proof Bag, Large Odor Proof Bag with Combination Lock Odorless Pouch",
+      "brand": "SafeDelux",
+      "price": 8.99,
+      "salesParent": 5983,
+      "revenue": 59291.53,
+      "rating": 4.6,
+      "reviews": 1396
+    },
+    {
+      "rank": 3,
+      "asin": "B08GZL6MFJ",
+      "title": "Pipe Cleaners Bulk 200 Pack – LOVA Hard Bristle, 6 Inch, Steel Wire Core – Pipe Cleaners for Cleaning Tobacco Pipes, Glass Pipes, Stems &amp; Bowls – Stiff Bristles Scrub, Cotton Core Absorbs",
+      "brand": "Lova",
+      "price": 6.99,
+      "salesParent": 7713,
+      "revenue": 53913.87,
+      "rating": 4.6,
+      "reviews": 7625
+    },
+    {
+      "rank": 4,
+      "asin": "B0869BT1S6",
+      "title": "Joyoldelf Tobacco Pipe Set, Short Handle Curved Smoking Pipe with Foldable Pipe Stand Holder, Pipe Starter Kit for Beginner with Gift Box and Accessories",
+      "brand": "joyoldelf",
+      "price": 9.99,
+      "salesParent": 3779,
+      "revenue": 37752.21,
+      "rating": 4.3,
+      "reviews": 5501
+    },
+    {
+      "rank": 5,
+      "asin": "B01L10J2YW",
+      "title": "Kangaroo 5.5&quot; Black Fake Cigar Smoke Pipes - Costume Pipe Toy for Cosplay",
+      "brand": "Kangaroo",
+      "price": 6.99,
+      "salesParent": 4833,
+      "revenue": 34942.59,
+      "rating": 4.3,
+      "reviews": 2070
+    },
+    {
+      "rank": 6,
+      "asin": "B0711CZSL6",
+      "title": "Scotte Handmade Pipe Set, Leather Pipe Pouch, Wood Pipe and Accessories (Scraper/Stand/Filter Element/Filter Ball/Small Bag/Box) (brown)",
+      "brand": "Scotte",
+      "price": 29.99,
+      "salesParent": 1132,
+      "revenue": 33948.68,
+      "rating": 4.6,
+      "reviews": 5310
+    },
+    {
+      "rank": 7,
+      "asin": "B0876N7PSF",
+      "title": "Smell Proof Bags,Odor Proof Bag/Combination Lock,Smell Odor Case Container",
+      "brand": "Free Boy",
+      "price": 8.99,
+      "salesParent": 3053,
+      "revenue": 29430.92,
+      "rating": 4.7,
+      "reviews": 3949
+    },
+    {
+      "rank": 8,
+      "asin": "B000W5R6UA",
+      "title": "Zen Bundles Zen Pipe Cleaners Hard Bristle, 132 Count (Pack of 3),Yellow",
+      "brand": "Zen",
+      "price": 5.89,
+      "salesParent": 4794,
+      "revenue": 28572.24,
+      "rating": 4.6,
+      "reviews": 30686
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -7,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -7,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1186621,
+    "priorHeadRevenue": 1275594,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 98,
+      "newCount": 24,
+      "pct": 24,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 32,
+      "brandCount": 57,
+      "level": "分散",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.48,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B07MLRS85P",
+        "title": "OZCHIN Smell Proof Bag with Combination Lock File Organizer Case Container Medicine Odorless Storage Lock Box Great Gift for Friend",
+        "rating": 4.6,
+        "reviews": 17799
+      },
+      {
+        "rank": 2,
+        "asin": "B0BHWC77QB",
+        "title": "Smell Proof Bag, Large Odor Proof Bag with Combination Lock Odorless Pouch",
+        "rating": 4.6,
+        "reviews": 1396
+      },
+      {
+        "rank": 3,
+        "asin": "B08GZL6MFJ",
+        "title": "Pipe Cleaners Bulk 200 Pack – LOVA Hard Bristle, 6 Inch, Steel Wire Core – Pipe Cleaners for Cleaning Tobacco Pipes, Glass Pipes, Stems &amp; Bowls – Stiff Bristles Scrub, Cotton Core Absorbs",
+        "rating": 4.6,
+        "reviews": 7625
+      },
+      {
+        "rank": 4,
+        "asin": "B0869BT1S6",
+        "title": "Joyoldelf Tobacco Pipe Set, Short Handle Curved Smoking Pipe with Foldable Pipe Stand Holder, Pipe Starter Kit for Beginner with Gift Box and Accessories",
+        "rating": 4.3,
+        "reviews": 5501
+      },
+      {
+        "rank": 5,
+        "asin": "B01L10J2YW",
+        "title": "Kangaroo 5.5&quot; Black Fake Cigar Smoke Pipes - Costume Pipe Toy for Cosplay",
+        "rating": 4.3,
+        "reviews": 2070
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:15342811:10342472011:10342666011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

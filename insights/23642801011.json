@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23642801011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Remote & App Controlled Vehicles & Parts > Remote & App Controlled Vehicles > Buses",
+  "categoryPathCn": "玩具 > 遥控 > 遥控 > 巴士",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 24,
+    "totalRevenue": 19349,
+    "avgRevenue": 806,
+    "medianPrice": 26.76,
+    "priceBand": "$24.98 - $34.26",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0GLGTXN66",
+      "title": "Magic Mini Bus Toy – Interactive Inductive Magic Follows Line Car with Cute LED Lights, Gesture-Follow &amp; Smart RC Control &amp; Follow/Escape Modes – STEM Toy for Ages 5 6 7 8 Boys &amp; Girls (White)",
+      "brand": "PanniOhye",
+      "price": 26.99,
+      "salesParent": 306,
+      "revenue": 7959.06,
+      "rating": 3.8,
+      "reviews": 31
+    },
+    {
+      "rank": 2,
+      "asin": "B0GY8BCTSK",
+      "title": "Magic Mini Bus Toy, 2.4GHz RC Line Following Car with Gesture Follow &amp; Escape Modes, Rechargeable Inductive Bus with LED Lights, STEM Toy Gift for Kids Ages 3-8, Blue",
+      "brand": "Minoskia",
+      "price": 22.99,
+      "salesParent": 172,
+      "revenue": 3828.72,
+      "rating": 4.3,
+      "reviews": 31
+    },
+    {
+      "rank": 3,
+      "asin": "B09ZPTQBZ5",
+      "title": "RC School Bus - Remote Control Car Vehicles, 2.4G Opening Doors City Buses Toy Classic Baby Vehicle, Remote Control Car with LED Lights School Bus Toy, Gift for Children Kids Boys Girls Age 3-6",
+      "brand": "KNACKTOYZ",
+      "price": 24.99,
+      "salesParent": 147,
+      "revenue": 3673.53,
+      "rating": 4.4,
+      "reviews": 251
+    },
+    {
+      "rank": 4,
+      "asin": "B0GWGVRQ5H",
+      "title": "Magic Mini RC Bus – 2.4GHz Inductive Car, Car that Follows Drawn Line, Magic Mini Bus with Gesture Follow &amp; Escape Modes, LED Expressions, Music – STEM Gift for Kids 6+ &amp; Adults (White)",
+      "brand": "Baydiibao",
+      "price": 29.99,
+      "salesParent": 30,
+      "revenue": 899.7,
+      "rating": 4.2,
+      "reviews": 11
+    },
+    {
+      "rank": 5,
+      "asin": "B0GWPPGSCF",
+      "title": "Magic Mini Bus car, 2.4 GHZ Remote Control Car with LED Lights",
+      "brand": "MericTop",
+      "price": 25.98,
+      "salesParent": 18,
+      "revenue": 467.64,
+      "rating": 3.2,
+      "reviews": 3
+    },
+    {
+      "rank": 6,
+      "asin": "B0HGS4S7MC",
+      "title": "Remote Control Bus Toy, Smart Robot Car with 4 Interactive Modes for Kids",
+      "brand": "Skynor",
+      "price": 34.99,
+      "salesParent": 12,
+      "revenue": 455.88,
+      "rating": 5.0,
+      "reviews": 3
+    },
+    {
+      "rank": 7,
+      "asin": "B0GWPNQTXT",
+      "title": "Magic Mini RC Bus, 2.4 GHZ Magic Follows Line Car",
+      "brand": "MericTop",
+      "price": 24.98,
+      "salesParent": 16,
+      "revenue": 399.68,
+      "rating": 4.5,
+      "reviews": 2
+    },
+    {
+      "rank": 8,
+      "asin": "B0D4MDKZL3",
+      "title": "DYODYORC Remote Control Car, 2.4Ghz RC Monster Truck Toys, All Terrain RC Truck with Spray, Music, 3 Lighting Effects, 360 Stunt Capable, All Included Ready to Run, Toy Gifts for Boys and Girl (Red)",
+      "brand": "DYODYORC",
+      "price": 34.99,
+      "salesParent": 10,
+      "revenue": 349.9,
+      "rating": 4.3,
+      "reviews": 30
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -11,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -11,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 19349,
+    "priorHeadRevenue": 21772,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 24,
+      "newCount": 14,
+      "pct": 58,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 89,
+      "brandCount": 20,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.36,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0GLGTXN66",
+        "title": "Magic Mini Bus Toy – Interactive Inductive Magic Follows Line Car with Cute LED Lights, Gesture-Follow &amp; Smart RC Control &amp; Follow/Escape Modes – STEM Toy for Ages 5 6 7 8 Boys &amp; Girls (White)",
+        "rating": 3.8,
+        "reviews": 31
+      },
+      {
+        "rank": 2,
+        "asin": "B0GY8BCTSK",
+        "title": "Magic Mini Bus Toy, 2.4GHz RC Line Following Car with Gesture Follow &amp; Escape Modes, Rechargeable Inductive Bus with LED Lights, STEM Toy Gift for Kids Ages 3-8, Blue",
+        "rating": 4.3,
+        "reviews": 31
+      },
+      {
+        "rank": 3,
+        "asin": "B09ZPTQBZ5",
+        "title": "RC School Bus - Remote Control Car Vehicles, 2.4G Opening Doors City Buses Toy Classic Baby Vehicle, Remote Control Car with LED Lights School Bus Toy, Gift for Children Kids Boys Girls Age 3-6",
+        "rating": 4.4,
+        "reviews": 251
+      },
+      {
+        "rank": 4,
+        "asin": "B0GWGVRQ5H",
+        "title": "Magic Mini RC Bus – 2.4GHz Inductive Car, Car that Follows Drawn Line, Magic Mini Bus with Gesture Follow &amp; Escape Modes, LED Expressions, Music – STEM Gift for Kids 6+ &amp; Adults (White)",
+        "rating": 4.2,
+        "reviews": 11
+      },
+      {
+        "rank": 5,
+        "asin": "B0GWPPGSCF",
+        "title": "Magic Mini Bus car, 2.4 GHZ Remote Control Car with LED Lights",
+        "rating": 3.2,
+        "reviews": 3
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:6925830011:166583011:23642801011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "10208070011",
+  "level": "L4",
+  "categoryPathEn": "Clothing, Shoes & Jewelry > Sport Specific Clothing > Ice Skating > Women",
+  "categoryPathCn": "服装、鞋履和珠宝 > 运动专用服装 > 溜冰 > 女性",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 953060,
+    "avgRevenue": 9627,
+    "medianPrice": 59.99,
+    "priceBand": "$49.99 - $99.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0H2W1FR5L",
+      "title": "Womens Heated Jacket",
+      "brand": "HOOHEAT",
+      "price": 169.99,
+      "salesParent": 1510,
+      "revenue": 171188.7,
+      "rating": 2.5,
+      "reviews": 2
+    },
+    {
+      "rank": 2,
+      "asin": "B0H2YXYF8L",
+      "title": "Heated Jacket for Women",
+      "brand": "HOOHEAT",
+      "price": 119.99,
+      "salesParent": 1549,
+      "revenue": 167400.42,
+      "rating": 4.2,
+      "reviews": 7
+    },
+    {
+      "rank": 3,
+      "asin": "B0H253JJQP",
+      "title": "Heated Jacket for Women",
+      "brand": "HOOHEAT",
+      "price": 119.99,
+      "salesParent": 1508,
+      "revenue": 163316.41,
+      "rating": 4.0,
+      "reviews": 5
+    },
+    {
+      "rank": 4,
+      "asin": "B0H29KK27Q",
+      "title": "Heated Vest for Women With 16000mAh Battery, 15 Heating Zone Electric Vests",
+      "brand": "HOOHEAT",
+      "price": 77.98,
+      "salesParent": 1497,
+      "revenue": 127514.46,
+      "rating": 4.8,
+      "reviews": 98
+    },
+    {
+      "rank": 5,
+      "asin": "B0H9Q6G426",
+      "title": "Soleilwear Graphene Womens Heated Jacket with 16000mAh Battery Fast Heating",
+      "brand": "Soleilwear",
+      "price": 119.99,
+      "salesParent": 383,
+      "revenue": 51524.99,
+      "rating": 4.9,
+      "reviews": 42
+    },
+    {
+      "rank": 6,
+      "asin": "B0FGQ5WD7K",
+      "title": "Graphene Long Heated Jackets for Women with 12V 18400mAh Battery Pack, 8 Heat Zones Hooded Heated Coat for Womens",
+      "brand": "Topdot",
+      "price": 139.99,
+      "salesParent": 343,
+      "revenue": 48016.57,
+      "rating": 4.4,
+      "reviews": 93
+    },
+    {
+      "rank": 7,
+      "asin": "B0H25NHBBD",
+      "title": "Heated Hoodie for Men &amp; Women with Battery Pack, Heating Jacket",
+      "brand": "MOZZROZZ",
+      "price": 99.99,
+      "salesParent": 396,
+      "revenue": 39596.04,
+      "rating": 1.0,
+      "reviews": 1
+    },
+    {
+      "rank": 8,
+      "asin": "B0H2CWBY5G",
+      "title": "Heated Hoodie for Men &amp; Women with Battery Pack, Heating Jacket",
+      "brand": "MOZZROZZ",
+      "price": 99.99,
+      "salesParent": 387,
+      "revenue": 38696.13,
+      "rating": 3.7,
+      "reviews": 3
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": null,
+    "direction": "flat",
+    "comparable": false,
+    "rawYoyPct": 335,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 953060,
+    "priorHeadRevenue": 218963,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 37,
+      "pct": 37,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 89,
+      "brandCount": 32,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.49,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0H2W1FR5L",
+        "title": "Womens Heated Jacket",
+        "rating": 2.5,
+        "reviews": 2
+      },
+      {
+        "rank": 2,
+        "asin": "B0H2YXYF8L",
+        "title": "Heated Jacket for Women",
+        "rating": 4.2,
+        "reviews": 7
+      },
+      {
+        "rank": 3,
+        "asin": "B0H253JJQP",
+        "title": "Heated Jacket for Women",
+        "rating": 4.0,
+        "reviews": 5
+      },
+      {
+        "rank": 4,
+        "asin": "B0H29KK27Q",
+        "title": "Heated Vest for Women With 16000mAh Battery, 15 Heating Zone Electric Vests",
+        "rating": 4.8,
+        "reviews": 98
+      },
+      {
+        "rank": 5,
+        "asin": "B0H9Q6G426",
+        "title": "Soleilwear Graphene Womens Heated Jacket with 16000mAh Battery Fast Heating",
+        "rating": 4.9,
+        "reviews": 42
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "7141123011:23575629011:10208069011:10208070011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

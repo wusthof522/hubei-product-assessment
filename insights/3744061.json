@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3744061",
+  "level": "L4",
+  "categoryPathEn": "Home & Kitchen > Furniture > Kitchen Furniture > Baker's Racks",
+  "categoryPathCn": "家居用品 > 家具 > 厨房家具 > 面包师的架子",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 97,
+    "totalRevenue": 2615097,
+    "avgRevenue": 26960,
+    "medianPrice": 110.19,
+    "priceBand": "$76.49 - $139.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B09PFY63JQ",
+      "title": "SUPERJARE Kitchen Bakers Rack with Power Outlet, Coffee Bar Table 4 Tiers, Kitchen Microwave Stand with 6 S-shaped Hooks, Storage Shelf Rack for Spices, Pots and Pans - Rustic Brown",
+      "brand": "SUPERJARE",
+      "price": 59.99,
+      "salesParent": 3259,
+      "revenue": 186545.17,
+      "rating": 4.7,
+      "reviews": 4973
+    },
+    {
+      "rank": 2,
+      "asin": "B0F7R5TKWV",
+      "title": "VASAGLE 4-Tier Kitchen Bakers Rack with Power Outlet, 23.6-Inch Wide",
+      "brand": "VASAGLE",
+      "price": 41.98,
+      "salesParent": 2508,
+      "revenue": 180801.7,
+      "rating": 4.6,
+      "reviews": 730
+    },
+    {
+      "rank": 3,
+      "asin": "B0GLGX8BXR",
+      "title": "YASONIC Coffee Bar, Bakers Rack with Storage, 25.6 Inches Microwave Stand, 5 Tier Kitchen Shelves Appliance Storage, 12 S Hooks Large Coffee Station for Spices, Pots and Pans, Rustic Brown",
+      "brand": "YASONIC",
+      "price": 59.99,
+      "salesParent": 2440,
+      "revenue": 142130.0,
+      "rating": 4.6,
+      "reviews": 265
+    },
+    {
+      "rank": 4,
+      "asin": "B0BK8Q8TKD",
+      "title": "SUPERJARE Large Bakers Rack with Power Outlets, 39.6 Inches Microwave Stand",
+      "brand": "SUPERJARE",
+      "price": 109.99,
+      "salesParent": 1061,
+      "revenue": 111298.9,
+      "rating": 4.8,
+      "reviews": 2272
+    },
+    {
+      "rank": 5,
+      "asin": "B0CQC7LCMW",
+      "title": "Furologee Kitchen Bakers Rack with Power Outlet, 22-Inch Microwave Stand",
+      "brand": "Furologee",
+      "price": 59.99,
+      "salesParent": 1473,
+      "revenue": 82163.94,
+      "rating": 4.4,
+      "reviews": 2471
+    },
+    {
+      "rank": 6,
+      "asin": "B0G3VDW2Q9",
+      "title": "TVU Bakers Rack with Power Outlet and LED Light, Microwave Stand with Storage Cabinet, Coffee Bar Cabinet Station with 6 Hooks for Kitchen, Dining Room, Living Room, Coffee Bar",
+      "brand": "TVU",
+      "price": 109.99,
+      "salesParent": 702,
+      "revenue": 77212.98,
+      "rating": 4.6,
+      "reviews": 226
+    },
+    {
+      "rank": 7,
+      "asin": "B0C49RX6KV",
+      "title": "SUPERJARE Bakers Rack with Power Outlet, 35.4 Inches Coffee Bar with Basket",
+      "brand": "SUPERJARE",
+      "price": 98.99,
+      "salesParent": 674,
+      "revenue": 71659.68,
+      "rating": 4.8,
+      "reviews": 1883
+    },
+    {
+      "rank": 8,
+      "asin": "B0FLX9BL7B",
+      "title": "Huuger 4-Tier Bakers Rack with Reversible Power Outlet, 23.6 Inch Microwave Stand, Kitchen Coffee Bar, with Top Shelf, 6 S Hooks, Rustic Brown",
+      "brand": "Huuger",
+      "price": 69.99,
+      "salesParent": 994,
+      "revenue": 69570.06,
+      "rating": 4.6,
+      "reviews": 423
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -13,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -13,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 2615097,
+    "priorHeadRevenue": 3009359,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 97,
+      "newCount": 47,
+      "pct": 48,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 48,
+      "brandCount": 52,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.52,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B09PFY63JQ",
+        "title": "SUPERJARE Kitchen Bakers Rack with Power Outlet, Coffee Bar Table 4 Tiers, Kitchen Microwave Stand with 6 S-shaped Hooks, Storage Shelf Rack for Spices, Pots and Pans - Rustic Brown",
+        "rating": 4.7,
+        "reviews": 4973
+      },
+      {
+        "rank": 2,
+        "asin": "B0F7R5TKWV",
+        "title": "VASAGLE 4-Tier Kitchen Bakers Rack with Power Outlet, 23.6-Inch Wide",
+        "rating": 4.6,
+        "reviews": 730
+      },
+      {
+        "rank": 3,
+        "asin": "B0GLGX8BXR",
+        "title": "YASONIC Coffee Bar, Bakers Rack with Storage, 25.6 Inches Microwave Stand, 5 Tier Kitchen Shelves Appliance Storage, 12 S Hooks Large Coffee Station for Spices, Pots and Pans, Rustic Brown",
+        "rating": 4.6,
+        "reviews": 265
+      },
+      {
+        "rank": 4,
+        "asin": "B0BK8Q8TKD",
+        "title": "SUPERJARE Large Bakers Rack with Power Outlets, 39.6 Inches Microwave Stand",
+        "rating": 4.8,
+        "reviews": 2272
+      },
+      {
+        "rank": 5,
+        "asin": "B0CQC7LCMW",
+        "title": "Furologee Kitchen Bakers Rack with Power Outlet, 22-Inch Microwave Stand",
+        "rating": 4.4,
+        "reviews": 2471
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "1055398:1063306:23691551011:3744061",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "21596702011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Household Supplies > Laundry > Liquid Fabric Softener",
+  "categoryPathCn": "健康与家居 > 家居用品 > 衣物清洁 > 液体织物柔软剂",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 97,
+    "totalRevenue": 7034015,
+    "avgRevenue": 72516,
+    "medianPrice": 19.99,
+    "priceBand": "$13.14 - $27.49",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0C8XBKZYG",
+      "title": "Downy Soft, 2 in 1 Soft and Fresh Liquid Fabric Softener, April Fresh, 140 fl oz, 190 Loads, Fabric Conditioner Liquid Provides Softness and Freshness for Fabrics",
+      "brand": "Downy",
+      "price": 12.97,
+      "salesParent": 124194,
+      "revenue": 1610796.25,
+      "rating": 4.8,
+      "reviews": 43364
+    },
+    {
+      "rank": 2,
+      "asin": "B07VFPPS3Z",
+      "title": "Downy Infusions CALM Liquid Fabric Softener, Soothing Lavender And Vanilla Bean, 56 Fl Oz, Fabric Conditioner For Softness And Scent, Pack of 2",
+      "brand": "Downy",
+      "price": 17.65,
+      "salesParent": 41949,
+      "revenue": 820941.94,
+      "rating": 4.8,
+      "reviews": 59788
+    },
+    {
+      "rank": 3,
+      "asin": "B0C8WPR8BN",
+      "title": "Downy Free &amp; Gentle Liquid Fabric Softener, 140 fl oz, 190 Loads, Hypoallergenic, Sensitive Skin Friendly Fabric Conditioner Liquid",
+      "brand": "Downy",
+      "price": 12.96,
+      "salesParent": 44928,
+      "revenue": 582266.88,
+      "rating": 4.8,
+      "reviews": 10096
+    },
+    {
+      "rank": 4,
+      "asin": "B0CCK3JGTQ",
+      "title": "Gain Liquid Fabric Softener, Original Scent, 140 FL OZ LIQ., 190 Loads, Smooth Touch - Softness You Can Feel",
+      "brand": "Gain",
+      "price": 12.95,
+      "salesParent": 30298,
+      "revenue": 392359.09,
+      "rating": 4.8,
+      "reviews": 11229
+    },
+    {
+      "rank": 5,
+      "asin": "B0C8X2Z37V",
+      "title": "Downy Soft, 2 in 1 Soft and Fresh Liquid Fabric Softener, Cool Cotton, 140 fl oz, 190 Loads, Fabric Conditioner Liquid provides softness and freshness for fabrics",
+      "brand": "Downy",
+      "price": 12.97,
+      "salesParent": 28045,
+      "revenue": 363743.66,
+      "rating": 4.8,
+      "reviews": 31079
+    },
+    {
+      "rank": 6,
+      "asin": "B0CCK46S54",
+      "title": "Gain Odor Defense Liquid Fabric Softener, Super Fresh Blast Scent, 140 FL OZ, 190 Loads, 2 in 1 Freshness Plus Odor Protection",
+      "brand": "Gain",
+      "price": 16.86,
+      "salesParent": 14285,
+      "revenue": 237131.0,
+      "rating": 4.8,
+      "reviews": 9595
+    },
+    {
+      "rank": 7,
+      "asin": "B0C3RWB93B",
+      "title": "Suavitel Complete Liquid Fabric Softener, Field Flowers Scent, 100 fl oz",
+      "brand": "Suavitel",
+      "price": 8.97,
+      "salesParent": 24846,
+      "revenue": 222868.62,
+      "rating": 4.6,
+      "reviews": 6015
+    },
+    {
+      "rank": 8,
+      "asin": "B0CCK3TT4L",
+      "title": "Gain, Liquid Laundry Fabric Softener, Laundry Conditioner, Long Lasting Scent, Softens, Freshness, Helps with Static &amp; Wrinkles, Moonlight Breeze Scent, 140 fl oz",
+      "brand": "Gain",
+      "price": 12.97,
+      "salesParent": 16637,
+      "revenue": 215781.89,
+      "rating": 4.8,
+      "reviews": 4174
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 7,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 7,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 7034015,
+    "priorHeadRevenue": 6574791,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 97,
+      "newCount": 21,
+      "pct": 22,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 81,
+      "brandCount": 42,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.55,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0C8XBKZYG",
+        "title": "Downy Soft, 2 in 1 Soft and Fresh Liquid Fabric Softener, April Fresh, 140 fl oz, 190 Loads, Fabric Conditioner Liquid Provides Softness and Freshness for Fabrics",
+        "rating": 4.8,
+        "reviews": 43364
+      },
+      {
+        "rank": 2,
+        "asin": "B07VFPPS3Z",
+        "title": "Downy Infusions CALM Liquid Fabric Softener, Soothing Lavender And Vanilla Bean, 56 Fl Oz, Fabric Conditioner For Softness And Scent, Pack of 2",
+        "rating": 4.8,
+        "reviews": 59788
+      },
+      {
+        "rank": 3,
+        "asin": "B0C8WPR8BN",
+        "title": "Downy Free &amp; Gentle Liquid Fabric Softener, 140 fl oz, 190 Loads, Hypoallergenic, Sensitive Skin Friendly Fabric Conditioner Liquid",
+        "rating": 4.8,
+        "reviews": 10096
+      },
+      {
+        "rank": 4,
+        "asin": "B0CCK3JGTQ",
+        "title": "Gain Liquid Fabric Softener, Original Scent, 140 FL OZ LIQ., 190 Loads, Smooth Touch - Softness You Can Feel",
+        "rating": 4.8,
+        "reviews": 11229
+      },
+      {
+        "rank": 5,
+        "asin": "B0C8X2Z37V",
+        "title": "Downy Soft, 2 in 1 Soft and Fresh Liquid Fabric Softener, Cool Cotton, 140 fl oz, 190 Loads, Fabric Conditioner Liquid provides softness and freshness for fabrics",
+        "rating": 4.8,
+        "reviews": 31079
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:15342811:15356111:21596702011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

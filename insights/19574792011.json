@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "19574792011",
+  "level": "L4",
+  "categoryPathEn": "Clothing, Shoes & Jewelry > Sport Specific Clothing > Softball > Men",
+  "categoryPathCn": "服装、鞋履和珠宝 > 运动专用服装 > 垒球 > 男人",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "insufficient",
+  "marketSize": {
+    "sampleCount": 8,
+    "totalRevenue": 8366,
+    "avgRevenue": 1046,
+    "medianPrice": 21.97,
+    "priceBand": "$19.33 - $23.73",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B00FBEW0SU",
+      "title": "Krazisox Neon Over the Calf Socks",
+      "brand": "TCK",
+      "price": 11.99,
+      "salesParent": 469,
+      "revenue": 5623.31,
+      "rating": 4.5,
+      "reviews": 2325
+    },
+    {
+      "rank": 2,
+      "asin": "B0DWRPQSZK",
+      "title": "Mens #21#1 Baseball Jerseys World Game Classic Jersey Stitched S-XXXL",
+      "brand": "Afuby",
+      "price": 23.99,
+      "salesParent": 59,
+      "revenue": 1415.41,
+      "rating": 4.7,
+      "reviews": 77
+    },
+    {
+      "rank": 3,
+      "asin": "B0BGKCG4WW",
+      "title": "ThuhaTree Store Personalized Name &amp; Number Sports Puerto Rico AOP Baseball Jersey Unisex XS-5XL",
+      "brand": "Generic",
+      "price": 34.95,
+      "salesParent": 13,
+      "revenue": 454.35,
+      "rating": 4.2,
+      "reviews": 60
+    },
+    {
+      "rank": 4,
+      "asin": "B0H6Y5M7B8",
+      "title": "Blank Baseball Softball Jersey | Pinstripe Button-Up | S",
+      "brand": "Pro90 Elite",
+      "price": 22.97,
+      "salesParent": 16,
+      "revenue": 367.52,
+      "rating": 4.8,
+      "reviews": 1
+    },
+    {
+      "rank": 5,
+      "asin": "B0H6Y7B3J8",
+      "title": "Blank Baseball Softball Jersey | Pinstripe Button-Up | L",
+      "brand": "Pro90 Elite",
+      "price": 22.97,
+      "salesParent": 13,
+      "revenue": 298.61,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "rank": 6,
+      "asin": "B0F3XGY61D",
+      "title": "Custom Softball Jerseys Stitched Sports Team Uniforms for Men Women Youth, Personalized Baseball Shirt Button Design",
+      "brand": "Pisting",
+      "price": 18.78,
+      "salesParent": 11,
+      "revenue": 206.58,
+      "rating": 4.5,
+      "reviews": 3
+    },
+    {
+      "rank": 7,
+      "asin": "B09W5G89XF",
+      "title": "Custom Pinstripe Baseball Jersey Button Down Shirt Printed or Stitched Personalized Name Number for Men/Women/Youth Grey/Black Stripes/Yellow-38",
+      "brand": "KXK",
+      "price": 20.98,
+      "salesParent": 0,
+      "revenue": 0.0,
+      "rating": 4.7,
+      "reviews": 8
+    },
+    {
+      "rank": 8,
+      "asin": "B0BDLCBXQS",
+      "title": "KXK Custom Men Women Youth Baseball Jersey Fashion Graffiti T-Shirt Personalized Stitched Name Number Plus Size",
+      "brand": "KXK",
+      "price": 20.98,
+      "salesParent": 0,
+      "revenue": 0.0,
+      "rating": 4.5,
+      "reviews": 59
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": null,
+    "direction": "flat",
+    "comparable": null,
+    "rawYoyPct": -77,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 8366,
+    "priorHeadRevenue": 36468,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 8,
+      "newCount": 1,
+      "pct": 14,
+      "unknownLaunch": 1,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 100,
+      "brandCount": 6,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.56,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B00FBEW0SU",
+        "title": "Krazisox Neon Over the Calf Socks",
+        "rating": 4.5,
+        "reviews": 2325
+      },
+      {
+        "rank": 2,
+        "asin": "B0DWRPQSZK",
+        "title": "Mens #21#1 Baseball Jerseys World Game Classic Jersey Stitched S-XXXL",
+        "rating": 4.7,
+        "reviews": 77
+      },
+      {
+        "rank": 3,
+        "asin": "B0BGKCG4WW",
+        "title": "ThuhaTree Store Personalized Name &amp; Number Sports Puerto Rico AOP Baseball Jersey Unisex XS-5XL",
+        "rating": 4.2,
+        "reviews": 60
+      },
+      {
+        "rank": 4,
+        "asin": "B0H6Y5M7B8",
+        "title": "Blank Baseball Softball Jersey | Pinstripe Button-Up | S",
+        "rating": 4.8,
+        "reviews": 1
+      },
+      {
+        "rank": 5,
+        "asin": "B0H6Y7B3J8",
+        "title": "Blank Baseball Softball Jersey | Pinstripe Button-Up | L",
+        "rating": null,
+        "reviews": null
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "7141123011:23575629011:19574781011:19574792011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23777910011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins, Minerals & Supplements > Herbal Supplements > Punarnava",
+  "categoryPathCn": "健康与家居 > 身、泳和附剂 > 草本补充 > 普那纳瓦",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "insufficient",
+  "marketSize": {
+    "sampleCount": 7,
+    "totalRevenue": 9615,
+    "avgRevenue": 1374,
+    "medianPrice": 19.99,
+    "priceBand": "$11.75 - $26.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B001FAV6Q6",
+      "title": "Banyan Botanicals Punarnava Powder – Organic Punarnava (Boerhavia Diffusa) – Traditional Support for Healthy Weight Management* – ½ lb. – Non-GMO Sustainably Sourced Vegan",
+      "brand": "Banyan Botanicals",
+      "price": 26.99,
+      "salesParent": 117,
+      "revenue": 3157.83,
+      "rating": 4.5,
+      "reviews": 391
+    },
+    {
+      "rank": 2,
+      "asin": "B003QFDVQ6",
+      "title": "Punarnava(Boerhaavia Diffusa) Root Powder-Liver, Kidney, UTI, Reduce Swelling, Fluid Retention| Wild Harvested,Non GMO - 2X Potency | Ultra Clean,NO Sand &amp; Mud| Steam Treated| 16oz-1LBS",
+      "brand": "Herbsforever",
+      "price": 22.95,
+      "salesParent": 104,
+      "revenue": 2386.8,
+      "rating": 4.4,
+      "reviews": 84
+    },
+    {
+      "rank": 3,
+      "asin": "B097MZQ6TR",
+      "title": "Punarnava Tablets by mi Nature| 90 Tablets, 1000 mg| 45 Days Supply| Herbal Tablets| Vegan | Boerhaavia diffusa| from India",
+      "brand": "minature",
+      "price": 11.75,
+      "salesParent": 94,
+      "revenue": 1098.86,
+      "rating": 4.3,
+      "reviews": 128
+    },
+    {
+      "rank": 4,
+      "asin": "B0BMQSLR87",
+      "title": "Punarnava Tablets 90 Tablets, 1000 mg| 45 Days Supply| Herbal Tablets| Herbal Supplements| Vegan | Boerhaavia diffusa | from India",
+      "brand": "SunNature",
+      "price": 11.99,
+      "salesParent": 85,
+      "revenue": 1019.0,
+      "rating": 4.4,
+      "reviews": 39
+    },
+    {
+      "rank": 5,
+      "asin": "B0DNNXNYY9",
+      "title": "Reduce Varicose Veins &amp; Boost Circulation with 60 Easy-to-Swallow Ayurvedic Tablets of Ashwagandha, Punarnava, Turmeric &amp; Triphala | Reduce Leg, Ankle &amp; Feet Swelling, Support Heart &amp; Rectal Health",
+      "brand": "PENIKOSETE",
+      "price": 19.99,
+      "salesParent": 48,
+      "revenue": 959.52,
+      "rating": 4.0,
+      "reviews": 76
+    },
+    {
+      "rank": 6,
+      "asin": "B0DSR7RS9H",
+      "title": "Leg Duo - Botanical Cream &amp; Herbal Tablets for Circulation Support, Vitality, and Wellness - Ashwagandha Formula for Promoting Healthy Leg Function",
+      "brand": "PENIKOSETE",
+      "price": 30.99,
+      "salesParent": 26,
+      "revenue": 805.74,
+      "rating": 4.1,
+      "reviews": 42
+    },
+    {
+      "rank": 7,
+      "asin": "B0CK7BV34M",
+      "title": "Punarnava Powder 50 Gm | Boerhavia Diffusa | Herbal Supplement | Supports Weight Management, Kidney, Liver and More | Non GMO | Vegan | Gluten Free",
+      "brand": "AYURVEDASHREE",
+      "price": 4.8,
+      "salesParent": 43,
+      "revenue": 187.48,
+      "rating": 4.4,
+      "reviews": 30
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": null,
+    "direction": "flat",
+    "comparable": null,
+    "rawYoyPct": -34,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 9615,
+    "priorHeadRevenue": 14509,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 7,
+      "newCount": 1,
+      "pct": 14,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 98,
+      "brandCount": 6,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.3,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B001FAV6Q6",
+        "title": "Banyan Botanicals Punarnava Powder – Organic Punarnava (Boerhavia Diffusa) – Traditional Support for Healthy Weight Management* – ½ lb. – Non-GMO Sustainably Sourced Vegan",
+        "rating": 4.5,
+        "reviews": 391
+      },
+      {
+        "rank": 2,
+        "asin": "B003QFDVQ6",
+        "title": "Punarnava(Boerhaavia Diffusa) Root Powder-Liver, Kidney, UTI, Reduce Swelling, Fluid Retention| Wild Harvested,Non GMO - 2X Potency | Ultra Clean,NO Sand &amp; Mud| Steam Treated| 16oz-1LBS",
+        "rating": 4.4,
+        "reviews": 84
+      },
+      {
+        "rank": 3,
+        "asin": "B097MZQ6TR",
+        "title": "Punarnava Tablets by mi Nature| 90 Tablets, 1000 mg| 45 Days Supply| Herbal Tablets| Vegan | Boerhaavia diffusa| from India",
+        "rating": 4.3,
+        "reviews": 128
+      },
+      {
+        "rank": 4,
+        "asin": "B0BMQSLR87",
+        "title": "Punarnava Tablets 90 Tablets, 1000 mg| 45 Days Supply| Herbal Tablets| Herbal Supplements| Vegan | Boerhaavia diffusa | from India",
+        "rating": 4.4,
+        "reviews": 39
+      },
+      {
+        "rank": 5,
+        "asin": "B0DNNXNYY9",
+        "title": "Reduce Varicose Veins &amp; Boost Circulation with 60 Easy-to-Swallow Ayurvedic Tablets of Ashwagandha, Punarnava, Turmeric &amp; Triphala | Reduce Leg, Ankle &amp; Feet Swelling, Support Heart &amp; Rectal Health",
+        "rating": 4.0,
+        "reviews": 76
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:23675621011:3764461:23777910011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "2522127011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Arts & Crafts > Drawing & Painting Supplies > Colored Pencils",
+  "categoryPathCn": "玩具 > 艺术 > 绘图 > 铅笔、彩色铅笔",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 1724323,
+    "avgRevenue": 17243,
+    "medianPrice": 22.43,
+    "priceBand": "$14.26 - $27.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B07D4RN9NH",
+      "title": "Crayola Twistables Colored Pencil Set 50ct, Stocking Stuffers for Kids",
+      "brand": "Crayola",
+      "price": 14.17,
+      "salesParent": 19551,
+      "revenue": 270781.34,
+      "rating": 4.7,
+      "reviews": 29800
+    },
+    {
+      "rank": 2,
+      "asin": "B00AHAJDQU",
+      "title": "Crayola Pip-Squeaks Washable Markers 65ct, Coloring Art Supplies for Kids",
+      "brand": "Crayola",
+      "price": 8.92,
+      "salesParent": 21814,
+      "revenue": 225993.03,
+      "rating": 4.8,
+      "reviews": 15549
+    },
+    {
+      "rank": 3,
+      "asin": "B00006RVTS",
+      "title": "Crayola Colored Pencils (36ct), Teacher School Supplies for Kids &amp; Adults, Preschool Classroom Must Haves, Coloring Gift, Ages 3+",
+      "brand": "Crayola",
+      "price": 6.57,
+      "salesParent": 25235,
+      "revenue": 165289.25,
+      "rating": 4.8,
+      "reviews": 50858
+    },
+    {
+      "rank": 4,
+      "asin": "B0CPT7Y4SX",
+      "title": "Crayola Colored Pencils Classpack (240ct), Teacher Must Haves, Classroom Essentials, Bulk Colored Pencils for Kids, 12 Colors, Back to for School Coloring Supplies",
+      "brand": "Crayola",
+      "price": 43.59,
+      "salesParent": 2759,
+      "revenue": 120264.81,
+      "rating": 4.8,
+      "reviews": 584
+    },
+    {
+      "rank": 5,
+      "asin": "B01DGIKAY8",
+      "title": "Crayola Bulk Colored Pencils for Kids (24pk), Teacher Classroom Must Haves, School Supplies for Preschool &amp; Kindergarten, 12 Colors",
+      "brand": "Crayola",
+      "price": 38.98,
+      "salesParent": 2719,
+      "revenue": 106421.66,
+      "rating": 4.9,
+      "reviews": 3602
+    },
+    {
+      "rank": 6,
+      "asin": "B000PCWKBA",
+      "title": "Crayola Erasable Colored Pencils for Kids, 24ct Drawing Coloring Pencils",
+      "brand": "Crayola",
+      "price": 5.88,
+      "salesParent": 11419,
+      "revenue": 67143.72,
+      "rating": 4.7,
+      "reviews": 18249
+    },
+    {
+      "rank": 7,
+      "asin": "B0D5M73S6M",
+      "title": "528 Count Colored Pencils Bulk, 12 Assorted Colors, 44 Packs Pre-sharpened Coloring Pencils Set for Kids and Adult, Teachers Essential Classroom Prizes, Back to School Supplies (528)",
+      "brand": "YEGEER",
+      "price": 32.99,
+      "salesParent": 1207,
+      "revenue": 44164.13,
+      "rating": 4.7,
+      "reviews": 256
+    },
+    {
+      "rank": 8,
+      "asin": "B0D12MV7JZ",
+      "title": "144 Count Colored Pencils for Kids, 12 Packs Colored Pencils Bulk 12 Colors",
+      "brand": "Toidgy",
+      "price": 16.99,
+      "salesParent": 1989,
+      "revenue": 34588.71,
+      "rating": 4.7,
+      "reviews": 614
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 20,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 20,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1724323,
+    "priorHeadRevenue": 1433681,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 25,
+      "pct": 25,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 83,
+      "brandCount": 45,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.68,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B07D4RN9NH",
+        "title": "Crayola Twistables Colored Pencil Set 50ct, Stocking Stuffers for Kids",
+        "rating": 4.7,
+        "reviews": 29800
+      },
+      {
+        "rank": 2,
+        "asin": "B00AHAJDQU",
+        "title": "Crayola Pip-Squeaks Washable Markers 65ct, Coloring Art Supplies for Kids",
+        "rating": 4.8,
+        "reviews": 15549
+      },
+      {
+        "rank": 3,
+        "asin": "B00006RVTS",
+        "title": "Crayola Colored Pencils (36ct), Teacher School Supplies for Kids &amp; Adults, Preschool Classroom Must Haves, Coloring Gift, Ages 3+",
+        "rating": 4.8,
+        "reviews": 50858
+      },
+      {
+        "rank": 4,
+        "asin": "B0CPT7Y4SX",
+        "title": "Crayola Colored Pencils Classpack (240ct), Teacher Must Haves, Classroom Essentials, Bulk Colored Pencils for Kids, 12 Colors, Back to for School Coloring Supplies",
+        "rating": 4.8,
+        "reviews": 584
+      },
+      {
+        "rank": 5,
+        "asin": "B01DGIKAY8",
+        "title": "Crayola Bulk Colored Pencils for Kids (24pk), Teacher Classroom Must Haves, School Supplies for Preschool &amp; Kindergarten, 12 Colors",
+        "rating": 4.9,
+        "reviews": 3602
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166057011:2488275011:2522127011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "2519979011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Vehicles > Remote & App Controlled Vehicles & Parts > Die-Cast Vehicles",
+  "categoryPathCn": "Toys & Games > Vehicles > Remote & App Controlled Vehicles & Parts > Die-Cast Vehicles",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "insufficient",
+  "marketSize": {
+    "sampleCount": 1,
+    "totalRevenue": 0,
+    "avgRevenue": 0,
+    "medianPrice": 14.74,
+    "priceBand": null,
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B00MNY0HPE",
+      "title": "2013 Matchbox MBX Heroic Rescue Blaze Blitzer",
+      "brand": "Mattel",
+      "price": 14.74,
+      "salesParent": 0,
+      "revenue": 0.0,
+      "rating": 5.0,
+      "reviews": 1
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": null,
+    "direction": "flat",
+    "comparable": null,
+    "rawYoyPct": -100,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 0,
+    "priorHeadRevenue": 466,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 1,
+      "newCount": 1,
+      "pct": 100,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": null,
+      "brandCount": 1,
+      "level": null,
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 5.0,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B00MNY0HPE",
+        "title": "2013 Matchbox MBX Heroic Rescue Blaze Blitzer",
+        "rating": 5.0,
+        "reviews": 1
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166508011:2519979011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

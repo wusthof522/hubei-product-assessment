@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "4078761",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Health Care > Diabetes Care > Insulin Injectors",
+  "categoryPathCn": "健康与家居 > 卫生保健 > 糖尿病护理 > 胰岛素注射器",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 1115483,
+    "avgRevenue": 11155,
+    "medianPrice": 34.99,
+    "priceBand": "$22.24 - $39.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B00HQ1LJIS",
+      "title": "Buzzy Injection Pain Relief Device for IVF, Vaccines &amp; Injections, Striped",
+      "brand": "Buzzy",
+      "price": 44.95,
+      "salesParent": 2503,
+      "revenue": 112509.85,
+      "rating": 4.5,
+      "reviews": 1062
+    },
+    {
+      "rank": 2,
+      "asin": "B08F4KMVNS",
+      "title": "BH Supplies Insulin Syringes U-100 31G 1ml/cc 5/16&quot; (8mm) Pack of 100 Pcs",
+      "brand": "BH SUPPLIES",
+      "price": 14.99,
+      "salesParent": 7055,
+      "revenue": 106671.6,
+      "rating": 4.6,
+      "reviews": 5385
+    },
+    {
+      "rank": 3,
+      "asin": "B0HB9WLVHH",
+      "title": "Reusable Pen Set, 5pcs",
+      "brand": "GYSIEN",
+      "price": 89.99,
+      "salesParent": 868,
+      "revenue": 83058.92,
+      "rating": 3.4,
+      "reviews": 20
+    },
+    {
+      "rank": 4,
+      "asin": "B00HQ1LJHO",
+      "title": "Buzzy Injection Pain Relief Device for IVF, Vaccines &amp; Injections, Red",
+      "brand": "Buzzy",
+      "price": 44.95,
+      "salesParent": 1548,
+      "revenue": 69582.6,
+      "rating": 4.5,
+      "reviews": 594
+    },
+    {
+      "rank": 5,
+      "asin": "B0HFRV669W",
+      "title": "V2 Injection Pen, Pen Injector, Reusable Injection Pen, Blue",
+      "brand": "FaipoTeeh",
+      "price": 39.99,
+      "salesParent": 510,
+      "revenue": 32731.8,
+      "rating": 4.1,
+      "reviews": 44
+    },
+    {
+      "rank": 6,
+      "asin": "B0HJR12CM2",
+      "title": "60 Unit Peptide Pen Injector, 3-Pack Reusable Injection Pens, Adjustable Dose Dial, 3 × 3mL Cartridges, Refillable Peptide Pen",
+      "brand": "Foblum",
+      "price": 61.99,
+      "salesParent": 411,
+      "revenue": 25313.49,
+      "rating": 4.2,
+      "reviews": 127
+    },
+    {
+      "rank": 7,
+      "asin": "B0F53VN4JR",
+      "title": "Insulin Pen Needle 32gauge 4 mm(5/32”), 100 Count, 3-Beveled Tip Design, Universal Fit Compatible with Most Pen Injector Device, Ultra-Thin for Comfortable Insulin Injection",
+      "brand": "CARELIVING",
+      "price": 9.99,
+      "salesParent": 2656,
+      "revenue": 24568.0,
+      "rating": 4.7,
+      "reviews": 481
+    },
+    {
+      "rank": 8,
+      "asin": "B0DLHDL9J4",
+      "title": "Safety Insulin Pen Needles 31G 5mm - 12 Boxes of 100 Ct",
+      "brand": "Medt",
+      "price": 210.0,
+      "salesParent": 124,
+      "revenue": 24002.68,
+      "rating": 4.2,
+      "reviews": 26
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -8,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -8,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1115483,
+    "priorHeadRevenue": 1215220,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 70,
+      "pct": 70,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 47,
+      "brandCount": 58,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.11,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B00HQ1LJIS",
+        "title": "Buzzy Injection Pain Relief Device for IVF, Vaccines &amp; Injections, Striped",
+        "rating": 4.5,
+        "reviews": 1062
+      },
+      {
+        "rank": 2,
+        "asin": "B08F4KMVNS",
+        "title": "BH Supplies Insulin Syringes U-100 31G 1ml/cc 5/16&quot; (8mm) Pack of 100 Pcs",
+        "rating": 4.6,
+        "reviews": 5385
+      },
+      {
+        "rank": 3,
+        "asin": "B0HB9WLVHH",
+        "title": "Reusable Pen Set, 5pcs",
+        "rating": 3.4,
+        "reviews": 20
+      },
+      {
+        "rank": 4,
+        "asin": "B00HQ1LJHO",
+        "title": "Buzzy Injection Pain Relief Device for IVF, Vaccines &amp; Injections, Red",
+        "rating": 4.5,
+        "reviews": 594
+      },
+      {
+        "rank": 5,
+        "asin": "B0HFRV669W",
+        "title": "V2 Injection Pen, Pen Injector, Reusable Injection Pen, Blue",
+        "rating": 4.1,
+        "reviews": 44
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3760941:3761401:4078761",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

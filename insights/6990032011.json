@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "6990032011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins, Minerals & Supplements > Essential Fatty Acids > 7-Keto",
+  "categoryPathCn": "健康与家居 > 身、泳和附剂 > 需要别人 > 7-酮",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 35,
+    "totalRevenue": 463795,
+    "avgRevenue": 13251,
+    "medianPrice": 34.95,
+    "priceBand": "$24.99 - $50.03",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0DM1TVJD3",
+      "title": "Herbtonics Apple Cider Vinegar + Keto BHB GLP-1 Support, 60 Capsules",
+      "brand": "Herbtonics",
+      "price": 13.99,
+      "salesParent": 12243,
+      "revenue": 171279.56,
+      "rating": 4.0,
+      "reviews": 58586
+    },
+    {
+      "rank": 2,
+      "asin": "B007KG4N82",
+      "title": "NOW Supplements, 7-Keto (DHEA Acetate-7-one) 100 mg, 120 Veg Caps",
+      "brand": "NOW Foods",
+      "price": 37.95,
+      "salesParent": 1297,
+      "revenue": 50245.78,
+      "rating": 4.4,
+      "reviews": 1764
+    },
+    {
+      "rank": 3,
+      "asin": "B07K7F5B3Z",
+      "title": "Toplux Keto Burn Pills 1200mg with Apple Cider Vinegar for GLP-1 Support",
+      "brand": "Toplux",
+      "price": 27.97,
+      "salesParent": 1776,
+      "revenue": 49674.72,
+      "rating": 3.8,
+      "reviews": 7171
+    },
+    {
+      "rank": 4,
+      "asin": "B07X3VMPJ5",
+      "title": "Life Extension 7-Keto DHEA Metabolite, 100 mg, 60 Capsules",
+      "brand": "Life Extension",
+      "price": 30.75,
+      "salesParent": 1152,
+      "revenue": 35424.0,
+      "rating": 4.4,
+      "reviews": 1258
+    },
+    {
+      "rank": 5,
+      "asin": "B07FCTCMYL",
+      "title": "Purely Optimal Keto BHB Capsules – Exogenous Ketone Pills for Ketosis Support, Sustained Energy, Focus &amp; Metabolism – for Women &amp; Men, 60 Capsules",
+      "brand": "Purely Optimal",
+      "price": 24.99,
+      "salesParent": 1375,
+      "revenue": 34361.25,
+      "rating": 3.7,
+      "reviews": 67969
+    },
+    {
+      "rank": 6,
+      "asin": "B00164FRPC",
+      "title": "Pure Encapsulations 7-Keto DHEA 50 mg, 60 Capsules",
+      "brand": "Pure Encapsulations",
+      "price": 53.0,
+      "salesParent": 489,
+      "revenue": 25917.0,
+      "rating": 4.5,
+      "reviews": 224
+    },
+    {
+      "rank": 7,
+      "asin": "B07YCYYP9F",
+      "title": "Life Extension DHEA Complete with 7-Keto DHEA, 60 Capsules",
+      "brand": "Life Extension",
+      "price": 36.0,
+      "salesParent": 693,
+      "revenue": 24497.55,
+      "rating": 4.6,
+      "reviews": 654
+    },
+    {
+      "rank": 8,
+      "asin": "B00164DZ6A",
+      "title": "Pure Encapsulations 7-Keto DHEA 25 mg, 120 Capsules",
+      "brand": "Pure Encapsulations",
+      "price": 56.0,
+      "salesParent": 392,
+      "revenue": 21952.0,
+      "rating": 4.5,
+      "reviews": 329
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -10,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -10,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 463795,
+    "priorHeadRevenue": 515187,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 35,
+      "newCount": 6,
+      "pct": 17,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 86,
+      "brandCount": 24,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 3.87,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0DM1TVJD3",
+        "title": "Herbtonics Apple Cider Vinegar + Keto BHB GLP-1 Support, 60 Capsules",
+        "rating": 4.0,
+        "reviews": 58586
+      },
+      {
+        "rank": 2,
+        "asin": "B007KG4N82",
+        "title": "NOW Supplements, 7-Keto (DHEA Acetate-7-one) 100 mg, 120 Veg Caps",
+        "rating": 4.4,
+        "reviews": 1764
+      },
+      {
+        "rank": 3,
+        "asin": "B07K7F5B3Z",
+        "title": "Toplux Keto Burn Pills 1200mg with Apple Cider Vinegar for GLP-1 Support",
+        "rating": 3.8,
+        "reviews": 7171
+      },
+      {
+        "rank": 4,
+        "asin": "B07X3VMPJ5",
+        "title": "Life Extension 7-Keto DHEA Metabolite, 100 mg, 60 Capsules",
+        "rating": 4.4,
+        "reviews": 1258
+      },
+      {
+        "rank": 5,
+        "asin": "B07FCTCMYL",
+        "title": "Purely Optimal Keto BHB Capsules – Exogenous Ketone Pills for Ketosis Support, Sustained Energy, Focus &amp; Metabolism – for Women &amp; Men, 60 Capsules",
+        "rating": 3.7,
+        "reviews": 67969
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:23675621011:6943343011:6990032011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

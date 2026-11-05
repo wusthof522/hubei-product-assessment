@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23466437011",
+  "level": "L4",
+  "categoryPathEn": "Clothing, Shoes & Jewelry > Sport Specific Clothing > Gymnastics > Girls",
+  "categoryPathCn": "服装、鞋履和珠宝 > 运动专用服装 > 体操 > 女孩们",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 3622094,
+    "avgRevenue": 36587,
+    "medianPrice": 14.99,
+    "priceBand": "$12.99 - $19.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B078BTFKL9",
+      "title": "Stelle Long Sleeve Ballet Leotards for Girls Dance Leotard Gymnastics Ballet Outfits (Toddler/Little Kid/Big Kid)",
+      "brand": "Stelle",
+      "price": 14.24,
+      "salesParent": 11715,
+      "revenue": 169516.05,
+      "rating": 4.8,
+      "reviews": 2739
+    },
+    {
+      "rank": 2,
+      "asin": "B07V9CT817",
+      "title": "Stelle Girls Ballet Leotards Toddler Dance Combo with Skirt and Tights",
+      "brand": "Stelle",
+      "price": 18.99,
+      "salesParent": 6664,
+      "revenue": 127149.12,
+      "rating": 4.7,
+      "reviews": 7149
+    },
+    {
+      "rank": 3,
+      "asin": "B0H2D23FZ8",
+      "title": "WEGETIT Leotards for Girls Long Sleeve Bodysuit Toddler Black Leotard Ballet Unitard Gymnastics Kids Dance Shirt",
+      "brand": "WEGETIT",
+      "price": 12.99,
+      "salesParent": 9265,
+      "revenue": 120352.35,
+      "rating": 4.7,
+      "reviews": 1099
+    },
+    {
+      "rank": 4,
+      "asin": "B0F8BBJLNR",
+      "title": "Stelle Ballet Leotards for Girls Short Sleeve Gymnastics Dance Outfit 2-16Y",
+      "brand": "Stelle",
+      "price": 18.99,
+      "salesParent": 5587,
+      "revenue": 103191.88,
+      "rating": 4.8,
+      "reviews": 360
+    },
+    {
+      "rank": 5,
+      "asin": "B0F8C3D4FC",
+      "title": "Gymnastics Leotards for Girls 2 Pack Sparkly Biketards Outfit Set",
+      "brand": "Tstiti",
+      "price": 9.99,
+      "salesParent": 10234,
+      "revenue": 102237.66,
+      "rating": 4.6,
+      "reviews": 1148
+    },
+    {
+      "rank": 6,
+      "asin": "B09TKG19VT",
+      "title": "Domusgo Gymnastics Leotards for Girls Sparkly One Piece Biketard Size 1-10Y",
+      "brand": "Domusgo",
+      "price": 9.99,
+      "salesParent": 10000,
+      "revenue": 94700.0,
+      "rating": 4.7,
+      "reviews": 3982
+    },
+    {
+      "rank": 7,
+      "asin": "B0CC2BG8M6",
+      "title": "Zaclotre Girls Ballet Leotards Toddler Dance Dress Outfit with Skirt Combo",
+      "brand": "Zaclotre",
+      "price": 16.99,
+      "salesParent": 6788,
+      "revenue": 94285.32,
+      "rating": 4.7,
+      "reviews": 1800
+    },
+    {
+      "rank": 8,
+      "asin": "B0F8BC92BS",
+      "title": "Stelle Gymnastics Leotards for Girls Camisole Ballet Tumbling Outfits 2-16Y",
+      "brand": "Stelle",
+      "price": 17.99,
+      "salesParent": 3940,
+      "revenue": 71235.2,
+      "rating": 4.7,
+      "reviews": 249
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -11,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -11,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 3622094,
+    "priorHeadRevenue": 4076160,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 37,
+      "pct": 37,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 45,
+      "brandCount": 50,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.61,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B078BTFKL9",
+        "title": "Stelle Long Sleeve Ballet Leotards for Girls Dance Leotard Gymnastics Ballet Outfits (Toddler/Little Kid/Big Kid)",
+        "rating": 4.8,
+        "reviews": 2739
+      },
+      {
+        "rank": 2,
+        "asin": "B07V9CT817",
+        "title": "Stelle Girls Ballet Leotards Toddler Dance Combo with Skirt and Tights",
+        "rating": 4.7,
+        "reviews": 7149
+      },
+      {
+        "rank": 3,
+        "asin": "B0H2D23FZ8",
+        "title": "WEGETIT Leotards for Girls Long Sleeve Bodysuit Toddler Black Leotard Ballet Unitard Gymnastics Kids Dance Shirt",
+        "rating": 4.7,
+        "reviews": 1099
+      },
+      {
+        "rank": 4,
+        "asin": "B0F8BBJLNR",
+        "title": "Stelle Ballet Leotards for Girls Short Sleeve Gymnastics Dance Outfit 2-16Y",
+        "rating": 4.8,
+        "reviews": 360
+      },
+      {
+        "rank": 5,
+        "asin": "B0F8C3D4FC",
+        "title": "Gymnastics Leotards for Girls 2 Pack Sparkly Biketards Outfit Set",
+        "rating": 4.6,
+        "reviews": 1148
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "7141123011:23575629011:23466415011:23466437011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

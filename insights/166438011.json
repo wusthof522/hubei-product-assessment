@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "166438011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Sports & Outdoor Play > Pools & Water Toys > Kiddie Pools",
+  "categoryPathCn": "玩具 > 体育 > 游泳池 > 婴儿泳池",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 94,
+    "totalRevenue": 750492,
+    "avgRevenue": 7984,
+    "medianPrice": 59.99,
+    "priceBand": "$29.86 - $96.64",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B07MBHK9SY",
+      "title": "INTEX Jungle Adventure Inflatable Water Slide Park &amp; Kiddie Swimming Pool",
+      "brand": "Intex",
+      "price": 73.79,
+      "salesParent": 1256,
+      "revenue": 92316.0,
+      "rating": 4.3,
+      "reviews": 34541
+    },
+    {
+      "rank": 2,
+      "asin": "B0DKTMG6YZ",
+      "title": "Duck Matching Game Toys for Kids - 20 Plastic Ducks with Numbers,34&quot; x 7&quot; Kiddie Pool | Storage Bag, 2 Nets - Fun Memory Games - Water Outdoor Game for Children,Preschoolers,Birthday Party Carnival",
+      "brand": "FIVEDAOGANG",
+      "price": 25.99,
+      "salesParent": 1484,
+      "revenue": 35749.56,
+      "rating": 4.2,
+      "reviews": 265
+    },
+    {
+      "rank": 3,
+      "asin": "B0G2BHSRKR",
+      "title": "VISTOP Jumbo Foldable Dog Pool, Hard Plastic Shell Portable Swimming Pool for Dogs Cats and Kids Pet Puppy Bathing Tub Collapsible Kiddie Pool (117inch.D x 15.7inch.H, Blue)",
+      "brand": "VISTOP",
+      "price": 123.69,
+      "salesParent": 205,
+      "revenue": 26071.9,
+      "rating": 3.6,
+      "reviews": 4385
+    },
+    {
+      "rank": 4,
+      "asin": "B000058TJ3",
+      "title": "INTEX Rectangular Family Lounge Inflatable Swimming Pool for Kids &amp; Adults",
+      "brand": "Intex",
+      "price": 43.99,
+      "salesParent": 607,
+      "revenue": 25748.94,
+      "rating": 4.1,
+      "reviews": 23987
+    },
+    {
+      "rank": 5,
+      "asin": "B000SN61UC",
+      "title": "INTEX 59416EP Crystal Blue Inflatable Kiddie Swimming Pool, 45in x 10in",
+      "brand": "Intex",
+      "price": 13.74,
+      "salesParent": 1764,
+      "revenue": 23814.0,
+      "rating": 4.2,
+      "reviews": 14625
+    },
+    {
+      "rank": 6,
+      "asin": "B0G2S5ZZYD",
+      "title": "VISTOP Foldable Dog Pool with Sprinkler, 107&quot; x 16&quot; , Blue",
+      "brand": "VISTOP",
+      "price": 94.97,
+      "salesParent": 187,
+      "revenue": 23352.56,
+      "rating": 4.3,
+      "reviews": 4386
+    },
+    {
+      "rank": 7,
+      "asin": "B01I40OAVW",
+      "title": "Gamie Duck Pond Matching Carnival Game for Kids, 36&quot; x 6&quot; Inflatable Pool &amp; 20 Plastic Ducks with Numbers, Water Outdoor Game for Kids, Fun Memory Game for Backyard, Birthday Party Field Day Games",
+      "brand": "Gamie",
+      "price": 26.99,
+      "salesParent": 847,
+      "revenue": 21014.07,
+      "rating": 4.4,
+      "reviews": 1281
+    },
+    {
+      "rank": 8,
+      "asin": "B0CXPQCFP1",
+      "title": "Dog Pool Foldable pet Pool Dog Swimming Pool pet Swimming Pool PVC Non-Slip for All Kinds of Pets (32x8in)",
+      "brand": "TMbsfatn",
+      "price": 15.99,
+      "salesParent": 1249,
+      "revenue": 19184.64,
+      "rating": 4.3,
+      "reviews": 1051
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 23,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 23,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 750492,
+    "priorHeadRevenue": 608704,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 94,
+      "newCount": 34,
+      "pct": 36,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 49,
+      "brandCount": 58,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.2,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B07MBHK9SY",
+        "title": "INTEX Jungle Adventure Inflatable Water Slide Park &amp; Kiddie Swimming Pool",
+        "rating": 4.3,
+        "reviews": 34541
+      },
+      {
+        "rank": 2,
+        "asin": "B0DKTMG6YZ",
+        "title": "Duck Matching Game Toys for Kids - 20 Plastic Ducks with Numbers,34&quot; x 7&quot; Kiddie Pool | Storage Bag, 2 Nets - Fun Memory Games - Water Outdoor Game for Children,Preschoolers,Birthday Party Carnival",
+        "rating": 4.2,
+        "reviews": 265
+      },
+      {
+        "rank": 3,
+        "asin": "B0G2BHSRKR",
+        "title": "VISTOP Jumbo Foldable Dog Pool, Hard Plastic Shell Portable Swimming Pool for Dogs Cats and Kids Pet Puppy Bathing Tub Collapsible Kiddie Pool (117inch.D x 15.7inch.H, Blue)",
+        "rating": 3.6,
+        "reviews": 4385
+      },
+      {
+        "rank": 4,
+        "asin": "B000058TJ3",
+        "title": "INTEX Rectangular Family Lounge Inflatable Swimming Pool for Kids &amp; Adults",
+        "rating": 4.1,
+        "reviews": 23987
+      },
+      {
+        "rank": 5,
+        "asin": "B000SN61UC",
+        "title": "INTEX 59416EP Crystal Blue Inflatable Kiddie Swimming Pool, 45in x 10in",
+        "rating": 4.2,
+        "reviews": 14625
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166420011:166437011:166438011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "495266",
+  "level": "L2",
+  "categoryPathEn": "Tools & Home Improvement > Electrical",
+  "categoryPathCn": "工具 > 电气",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 97,
+    "totalRevenue": 37110009,
+    "avgRevenue": 382577,
+    "medianPrice": 39.99,
+    "priceBand": "$22.99 - $81.49",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B09GZQ1MHC",
+      "title": "Google Nest Doorbell (Battery) - Snow",
+      "brand": "Google",
+      "price": 169.99,
+      "salesParent": 5240,
+      "revenue": 920825.19,
+      "rating": 4.2,
+      "reviews": 5125
+    },
+    {
+      "rank": 2,
+      "asin": "B08KG5T8XC",
+      "title": "Ensenior 12 Pack 6 Inch LED Recessed Ceiling Light, 5CCT, 1200LM 12W 120V",
+      "brand": "Ensenior",
+      "price": 94.98,
+      "salesParent": 9033,
+      "revenue": 857954.38,
+      "rating": 4.7,
+      "reviews": 3662
+    },
+    {
+      "rank": 3,
+      "asin": "B0BK9HFZ77",
+      "title": "Amico 24 Pack 6 Inch LED Recessed Light with Junction Box, 5CCT, 1050LM",
+      "brand": "Amico",
+      "price": 129.99,
+      "salesParent": 6582,
+      "revenue": 803333.12,
+      "rating": 4.7,
+      "reviews": 2559
+    },
+    {
+      "rank": 4,
+      "asin": "B0D91BKBGB",
+      "title": "Solid Indoor 12/2 W/G NMB Cable 100ft, Electrical Wire, Yellow",
+      "brand": "energeaster",
+      "price": 79.99,
+      "salesParent": 9870,
+      "revenue": 798186.94,
+      "rating": 4.8,
+      "reviews": 818
+    },
+    {
+      "rank": 5,
+      "asin": "B087JL1W9M",
+      "title": "Amico 12 Pack 6 Inch LED Recessed Lighting, Canless Wafer Downlight, White",
+      "brand": "Amico",
+      "price": 74.99,
+      "salesParent": 11066,
+      "revenue": 782144.88,
+      "rating": 4.7,
+      "reviews": 7052
+    },
+    {
+      "rank": 6,
+      "asin": "B091FXQQMQ",
+      "title": "Kasa Smart Plug Ultra Mini 15A, EP10P2, Smart Home Wi-Fi Outlet",
+      "brand": "Kasa Smart",
+      "price": 22.99,
+      "salesParent": 30320,
+      "revenue": 750116.81,
+      "rating": 4.5,
+      "reviews": 40926
+    },
+    {
+      "rank": 7,
+      "asin": "B09TGQYRYT",
+      "title": "HUANCHAIN Indoor Outdoor Black Extension Cord 50 FT Waterproof 16/3 Gauge",
+      "brand": "huanchain",
+      "price": 24.99,
+      "salesParent": 31470,
+      "revenue": 714369.0,
+      "rating": 4.7,
+      "reviews": 18880
+    },
+    {
+      "rank": 8,
+      "asin": "B0CSWHZ3YS",
+      "title": "DAMINY 24 Pack 6 Inch LED Recessed Lighting, Canless Wafer Downlight",
+      "brand": "DAMINY",
+      "price": 89.99,
+      "salesParent": 7358,
+      "revenue": 697685.56,
+      "rating": 4.6,
+      "reviews": 1755
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 17,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 17,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 37110009,
+    "priorHeadRevenue": 31840410,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 97,
+      "newCount": 14,
+      "pct": 14,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 33,
+      "brandCount": 55,
+      "level": "分散",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.6,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B09GZQ1MHC",
+        "title": "Google Nest Doorbell (Battery) - Snow",
+        "rating": 4.2,
+        "reviews": 5125
+      },
+      {
+        "rank": 2,
+        "asin": "B08KG5T8XC",
+        "title": "Ensenior 12 Pack 6 Inch LED Recessed Ceiling Light, 5CCT, 1200LM 12W 120V",
+        "rating": 4.7,
+        "reviews": 3662
+      },
+      {
+        "rank": 3,
+        "asin": "B0BK9HFZ77",
+        "title": "Amico 24 Pack 6 Inch LED Recessed Light with Junction Box, 5CCT, 1050LM",
+        "rating": 4.7,
+        "reviews": 2559
+      },
+      {
+        "rank": 4,
+        "asin": "B0D91BKBGB",
+        "title": "Solid Indoor 12/2 W/G NMB Cable 100ft, Electrical Wire, Yellow",
+        "rating": 4.8,
+        "reviews": 818
+      },
+      {
+        "rank": 5,
+        "asin": "B087JL1W9M",
+        "title": "Amico 12 Pack 6 Inch LED Recessed Lighting, Canless Wafer Downlight, White",
+        "rating": 4.7,
+        "reviews": 7052
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "228013:495266",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

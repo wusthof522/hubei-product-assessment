@@ -1,0 +1,180 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23642773011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Toy Figures & Playsets > Play Figure Vehicles > Scooters",
+  "categoryPathCn": "玩具 > 玩具图 > 游戏人物车辆 > 滑板车",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "insufficient",
+  "marketSize": {
+    "sampleCount": 7,
+    "totalRevenue": 2066,
+    "avgRevenue": 295,
+    "medianPrice": 29.99,
+    "priceBand": "$18.99 - $141.97",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B09F6GT4BT",
+      "title": "Mondo 28692 Toys-My First Spiderman 3 Wheels Scooter with Storage Bag Included for Baby Girl 2 Years Marvel Spiderman-28692, Multi-Coloured, Regolabile",
+      "brand": "Mondo",
+      "price": 91.0,
+      "salesParent": 12,
+      "revenue": 1092.12,
+      "rating": 4.3,
+      "reviews": 241
+    },
+    {
+      "rank": 2,
+      "asin": "B0FZK8LRSN",
+      "title": "jackinthebox Foil by Number Unicorn,Foil Art Crafts Kit,Girls toys Ages 4–8",
+      "brand": "jackinthebox",
+      "price": 24.99,
+      "salesParent": 30,
+      "revenue": 671.4,
+      "rating": 4.7,
+      "reviews": 17
+    },
+    {
+      "rank": 3,
+      "asin": "B09QNZ8QRH",
+      "title": "The Elf on the Shelf Stand n Scoot - Plastic Scooter Prop for Silly Christmas elf Scenes!",
+      "brand": "The Elf on the Shelf",
+      "price": 16.94,
+      "salesParent": 17,
+      "revenue": 302.09,
+      "rating": 4.8,
+      "reviews": 548
+    },
+    {
+      "rank": 4,
+      "asin": "B00W58PO9W",
+      "title": "Grips &amp; Tricks Finger Scooter Stunt Pack 1 (White)",
+      "brand": "Grip &amp; Tricks",
+      "price": 29.99,
+      "salesParent": 0,
+      "revenue": 0.0,
+      "rating": 4.4,
+      "reviews": 351
+    },
+    {
+      "rank": 5,
+      "asin": "B01LX43C3Q",
+      "title": "S&amp;S Worldwide Hungry Humans Advanced Easy Pack with 16” Scooters",
+      "brand": "S&amp;S Worldwide",
+      "price": 214.99,
+      "salesParent": 0,
+      "revenue": 0.0,
+      "rating": 5.0,
+      "reviews": 1
+    },
+    {
+      "rank": 6,
+      "asin": "B0D22LNDQV",
+      "title": "1/18 Scale Vespa GTS 125CC Moped Figurine Static Mini Scooter Model Toy Roman Holiday Collection Souvenir Figurine Simulation Motorcycle Toy Cake Topper Gift for Adult Kid Boy (Red Color)",
+      "brand": "Risopen",
+      "price": 18.99,
+      "salesParent": 0,
+      "revenue": 0.0,
+      "rating": 5.0,
+      "reviews": 1
+    },
+    {
+      "rank": 7,
+      "asin": "B0FC348MVK",
+      "title": "Spidey &amp; His Amazing Friends Tilt &amp; Glo 3 Wheel Scooter with Light Up Wheels | Kids Push Tri Scooter | Adjustable Handlebar | Ages 3+",
+      "brand": "Disney",
+      "price": 141.97,
+      "salesParent": 0,
+      "revenue": 0.0,
+      "rating": 4.0,
+      "reviews": 29
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": null,
+    "direction": "flat",
+    "comparable": null,
+    "rawYoyPct": 32,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 2066,
+    "priorHeadRevenue": 1563,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 7,
+      "newCount": 3,
+      "pct": 43,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 100,
+      "brandCount": 7,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.6,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B09F6GT4BT",
+        "title": "Mondo 28692 Toys-My First Spiderman 3 Wheels Scooter with Storage Bag Included for Baby Girl 2 Years Marvel Spiderman-28692, Multi-Coloured, Regolabile",
+        "rating": 4.3,
+        "reviews": 241
+      },
+      {
+        "rank": 2,
+        "asin": "B0FZK8LRSN",
+        "title": "jackinthebox Foil by Number Unicorn,Foil Art Crafts Kit,Girls toys Ages 4–8",
+        "rating": 4.7,
+        "reviews": 17
+      },
+      {
+        "rank": 3,
+        "asin": "B09QNZ8QRH",
+        "title": "The Elf on the Shelf Stand n Scoot - Plastic Scooter Prop for Silly Christmas elf Scenes!",
+        "rating": 4.8,
+        "reviews": 548
+      },
+      {
+        "rank": 4,
+        "asin": "B00W58PO9W",
+        "title": "Grips &amp; Tricks Finger Scooter Stunt Pack 1 (White)",
+        "rating": 4.4,
+        "reviews": 351
+      },
+      {
+        "rank": 5,
+        "asin": "B01LX43C3Q",
+        "title": "S&amp;S Worldwide Hungry Humans Advanced Easy Pack with 16” Scooters",
+        "rating": 5.0,
+        "reviews": 1
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:165993011:274293011:23642773011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

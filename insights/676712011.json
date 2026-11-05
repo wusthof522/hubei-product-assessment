@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "676712011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Novelty & Gag Toys > Flying Toys > Toy Parachute Figures",
+  "categoryPathCn": "玩具 > 新颖性 > 飞行玩具 > 玩具降落伞图",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 98,
+    "totalRevenue": 380774,
+    "avgRevenue": 3885,
+    "medianPrice": 17.99,
+    "priceBand": "$11.83 - $26.9",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0B34RZJ3C",
+      "title": "NUTTY TOYS Parachute Toys for Kids - Tangle Free Outdoor Flying Parachute Men, Top Indoor &amp; Outside, 3 4 5 6 7 8 9 10 11 12 Year Old, Best Christmas Stocking Stuffers Idea 2026 Unique Boy &amp; Girl Gifts",
+      "brand": "nutty toys",
+      "price": 8.97,
+      "salesParent": 11997,
+      "revenue": 109293.0,
+      "rating": 4.4,
+      "reviews": 3448
+    },
+    {
+      "rank": 2,
+      "asin": "B0CPHM5Y19",
+      "title": "Manmel 40PCS Parachute Toy, Outdoor Flying Toy for Kids 3 4 5 6 7 8 9, Mini Paratroopers Army Parachute Flying Throwing Outside Toys for Boys, Girls, Party Favors, Goodie Bag Stuffers",
+      "brand": "Manmel",
+      "price": 9.99,
+      "salesParent": 2396,
+      "revenue": 23936.04,
+      "rating": 4.3,
+      "reviews": 495
+    },
+    {
+      "rank": 3,
+      "asin": "B0H7VHW9RV",
+      "title": "2026 Flying Orb Ball Toy 2 Pack–Hover Ball Christmas Gift for Kids",
+      "brand": "Amiline",
+      "price": 39.99,
+      "salesParent": 498,
+      "revenue": 20512.62,
+      "rating": 5.0,
+      "reviews": 3
+    },
+    {
+      "rank": 4,
+      "asin": "B0D69THGY6",
+      "title": "Yeeeasy Tangle-Free Parachute Toys for Kids Outdoor Flying Game, Boys 4Pcs",
+      "brand": "Yeeeasy",
+      "price": 7.98,
+      "salesParent": 2134,
+      "revenue": 18693.84,
+      "rating": 4.4,
+      "reviews": 382
+    },
+    {
+      "rank": 5,
+      "asin": "B0CYZLLSS5",
+      "title": "Rocket Launcher for Kids - Self-Launching 200 ft Motorized Outdoor Electric Play Toy, High Flying Kids' Play Air Rocket with Launch Set, Birthday Toys Gifts for Boys 6-13",
+      "brand": "Eieymct",
+      "price": 29.95,
+      "salesParent": 440,
+      "revenue": 13178.0,
+      "rating": 4.5,
+      "reviews": 465
+    },
+    {
+      "rank": 6,
+      "asin": "B071G6B3Q1",
+      "title": "Parachute Toy for Kids, Outdoor Toys Flying Parachute Men, Inside &amp; Outside Toys for or 3 4 5 6 7 8 9 10 11 12 Year Old, Christmas Stocking Stuffers for Kids Grandkids Ideal 2025 Unique Party Favors",
+      "brand": "PGXT",
+      "price": 7.99,
+      "salesParent": 1444,
+      "revenue": 10945.52,
+      "rating": 4.4,
+      "reviews": 8343
+    },
+    {
+      "rank": 7,
+      "asin": "B0FTRTTQ1R",
+      "title": "Vantexi Flying Orb Ball Toy,2026 Upgraded Parachute LED Light,Blue &amp; Red",
+      "brand": "Vantexi",
+      "price": 44.91,
+      "salesParent": 183,
+      "revenue": 8218.53,
+      "rating": 3.8,
+      "reviews": 21
+    },
+    {
+      "rank": 8,
+      "asin": "B0DPW738GT",
+      "title": "ROYHOO 15PCS Army Camo Parachute Toys for Kids Hand Throwing Outdoor Games, Army Men Action Figures Tangle Free Throwing Parachute Outside Toys Gifts for Kid Ages 3-16",
+      "brand": "ROYHOO",
+      "price": 14.99,
+      "salesParent": 381,
+      "revenue": 5711.19,
+      "rating": 4.6,
+      "reviews": 112
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -36,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -36,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 380774,
+    "priorHeadRevenue": 599636,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 98,
+      "newCount": 24,
+      "pct": 25,
+      "unknownLaunch": 1,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 58,
+      "brandCount": 53,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.44,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0B34RZJ3C",
+        "title": "NUTTY TOYS Parachute Toys for Kids - Tangle Free Outdoor Flying Parachute Men, Top Indoor &amp; Outside, 3 4 5 6 7 8 9 10 11 12 Year Old, Best Christmas Stocking Stuffers Idea 2026 Unique Boy &amp; Girl Gifts",
+        "rating": 4.4,
+        "reviews": 3448
+      },
+      {
+        "rank": 2,
+        "asin": "B0CPHM5Y19",
+        "title": "Manmel 40PCS Parachute Toy, Outdoor Flying Toy for Kids 3 4 5 6 7 8 9, Mini Paratroopers Army Parachute Flying Throwing Outside Toys for Boys, Girls, Party Favors, Goodie Bag Stuffers",
+        "rating": 4.3,
+        "reviews": 495
+      },
+      {
+        "rank": 3,
+        "asin": "B0H7VHW9RV",
+        "title": "2026 Flying Orb Ball Toy 2 Pack–Hover Ball Christmas Gift for Kids",
+        "rating": 5.0,
+        "reviews": 3
+      },
+      {
+        "rank": 4,
+        "asin": "B0D69THGY6",
+        "title": "Yeeeasy Tangle-Free Parachute Toys for Kids Outdoor Flying Game, Boys 4Pcs",
+        "rating": 4.4,
+        "reviews": 382
+      },
+      {
+        "rank": 5,
+        "asin": "B0CYZLLSS5",
+        "title": "Rocket Launcher for Kids - Self-Launching 200 ft Motorized Outdoor Electric Play Toy, High Flying Kids' Play Air Rocket with Launch Set, Birthday Toys Gifts for Boys 6-13",
+        "rating": 4.5,
+        "reviews": 465
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166027011:166032011:676712011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

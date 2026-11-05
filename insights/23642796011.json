@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23642796011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Remote & App Controlled Vehicles & Parts > Remote & App Controlled Vehicles > Hovercrafts",
+  "categoryPathCn": "玩具 > 遥控 > 遥控 > 气垫船",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 43,
+    "totalRevenue": 15747,
+    "avgRevenue": 366,
+    "medianPrice": 48.0,
+    "priceBand": "$21.98 - $199.0",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0FML9MS2L",
+      "title": "NKOK Sonic the Hedgehog RC Helicopter HoverBike, Remote Control Flying Toy",
+      "brand": "NKOK",
+      "price": 38.99,
+      "salesParent": 172,
+      "revenue": 7077.8,
+      "rating": 3.8,
+      "reviews": 93
+    },
+    {
+      "rank": 2,
+      "asin": "B0DPR1Z18Y",
+      "title": "Space Shuttle Discovery Drone RC Flying Toy – Remote Control Spacecraft with LED Lights, 2.4GHz Control, Rechargeable Battery, STEM Learning Toy for Kids Ages 10+",
+      "brand": "Odyssey Toys",
+      "price": 59.99,
+      "salesParent": 30,
+      "revenue": 1799.7,
+      "rating": 3.5,
+      "reviews": 9
+    },
+    {
+      "rank": 3,
+      "asin": "B0HCD8MCFF",
+      "title": "Flying Orb Ball 2026 – Hover Ball Flying Orb, Boomerang Spinner Drone Toy",
+      "brand": "Generic",
+      "price": 21.98,
+      "salesParent": 67,
+      "revenue": 1475.34,
+      "rating": 5.0,
+      "reviews": 5
+    },
+    {
+      "rank": 4,
+      "asin": "B09L2SD1T3",
+      "title": "Hot Wheels RC Space Ranger Jetpack &amp; Buzz Lightyear Figure, Remote-Control Flying Ship from Mattel Disney Pixar Movie Lightyear",
+      "brand": "Hot Wheels",
+      "price": 34.95,
+      "salesParent": 30,
+      "revenue": 1065.6,
+      "rating": 3.8,
+      "reviews": 340
+    },
+    {
+      "rank": 5,
+      "asin": "B0GWZWVGNC",
+      "title": "1/12 Scale Remote Control Car",
+      "brand": "Motivekit",
+      "price": 79.99,
+      "salesParent": 13,
+      "revenue": 1039.87,
+      "rating": 3.9,
+      "reviews": 10
+    },
+    {
+      "rank": 6,
+      "asin": "B0BGLT7MMB",
+      "title": "Flying Orb Ball Toys Magic Gift MemoOrb Hover Boomerang Spinner Hand Drone",
+      "brand": "Tikduck",
+      "price": 27.98,
+      "salesParent": 29,
+      "revenue": 811.42,
+      "rating": 4.1,
+      "reviews": 1051
+    },
+    {
+      "rank": 7,
+      "asin": "B08GLL4MW5",
+      "title": "FLYNOVA Cool Kids Light Up Toys,Hand Operated UFO Drones,Mini Flying Orb with Lights,Hover Boomerang Spinner,Xmas Birthday Gifts for Adult Teen,Indoor Outdoor Summer Party Toys with Family Friends",
+      "brand": "FLYNOVA",
+      "price": 10.88,
+      "salesParent": 57,
+      "revenue": 620.16,
+      "rating": 3.7,
+      "reviews": 2927
+    },
+    {
+      "rank": 8,
+      "asin": "B0GGHDQGW3",
+      "title": "Hoverball Flying Ball Rechargeable Hand Drone for Kids Toys Cool Stuff Toys for 6 7 8 9 10 11 12+ Year Old Boys Girls Teens Indoor Outdoor with USB Charging",
+      "brand": "AMBXDE",
+      "price": 9.99,
+      "salesParent": 37,
+      "revenue": 369.63,
+      "rating": 3.4,
+      "reviews": 33
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": null,
+    "direction": "flat",
+    "comparable": false,
+    "rawYoyPct": -73,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 15747,
+    "priorHeadRevenue": 59337,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 43,
+      "newCount": 28,
+      "pct": 65,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 81,
+      "brandCount": 35,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 3.63,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0FML9MS2L",
+        "title": "NKOK Sonic the Hedgehog RC Helicopter HoverBike, Remote Control Flying Toy",
+        "rating": 3.8,
+        "reviews": 93
+      },
+      {
+        "rank": 2,
+        "asin": "B0DPR1Z18Y",
+        "title": "Space Shuttle Discovery Drone RC Flying Toy – Remote Control Spacecraft with LED Lights, 2.4GHz Control, Rechargeable Battery, STEM Learning Toy for Kids Ages 10+",
+        "rating": 3.5,
+        "reviews": 9
+      },
+      {
+        "rank": 3,
+        "asin": "B0HCD8MCFF",
+        "title": "Flying Orb Ball 2026 – Hover Ball Flying Orb, Boomerang Spinner Drone Toy",
+        "rating": 5.0,
+        "reviews": 5
+      },
+      {
+        "rank": 4,
+        "asin": "B09L2SD1T3",
+        "title": "Hot Wheels RC Space Ranger Jetpack &amp; Buzz Lightyear Figure, Remote-Control Flying Ship from Mattel Disney Pixar Movie Lightyear",
+        "rating": 3.8,
+        "reviews": 340
+      },
+      {
+        "rank": 5,
+        "asin": "B0GWZWVGNC",
+        "title": "1/12 Scale Remote Control Car",
+        "rating": 3.9,
+        "reviews": 10
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:6925830011:166583011:23642796011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

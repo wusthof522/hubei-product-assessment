@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3733401",
+  "level": "L4",
+  "categoryPathEn": "Home & Kitchen > Furniture > Kids' Furniture > Sofas",
+  "categoryPathCn": "家居用品 > 家具 > 儿童家具 > 儿童沙发",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 94,
+    "totalRevenue": 3352176,
+    "avgRevenue": 35661,
+    "medianPrice": 79.99,
+    "priceBand": "$40.74 - $129.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0FP3XWS3N",
+      "title": "Nugget - The Original Play Couch for Kids - Modular Foam Children's Sofa",
+      "brand": "Nugget",
+      "price": 249.0,
+      "salesParent": 1883,
+      "revenue": 468867.0,
+      "rating": 4.8,
+      "reviews": 202
+    },
+    {
+      "rank": 2,
+      "asin": "B0FB3TPX6P",
+      "title": "Tiny Land 2-in-1 Foldable Kids Couch with Pocket Soft Thick Toddler Sofa",
+      "brand": "Tiny Land",
+      "price": 89.99,
+      "salesParent": 2615,
+      "revenue": 235323.84,
+      "rating": 4.8,
+      "reviews": 455
+    },
+    {
+      "rank": 3,
+      "asin": "B0D5CLV6H8",
+      "title": "Blissful Diary Foldable Kids Couch, 2-in-1 Kids Sofa Chair, Pink Shell",
+      "brand": "Blissful Diary",
+      "price": 39.99,
+      "salesParent": 5239,
+      "revenue": 209507.62,
+      "rating": 4.6,
+      "reviews": 2801
+    },
+    {
+      "rank": 4,
+      "asin": "B0C5CM3FS6",
+      "title": "Kids Sofa Chair, 2-in-1 Foldable Couch, Sherpa, Grey",
+      "brand": "MOMCAYWEX",
+      "price": 39.99,
+      "salesParent": 4301,
+      "revenue": 169201.34,
+      "rating": 4.5,
+      "reviews": 7492
+    },
+    {
+      "rank": 5,
+      "asin": "B0BLVNTBB7",
+      "title": "Lunix Modular Kids Play Couch, 14-Piece Fort Building &amp; Climbing Foam Set",
+      "brand": "Lunix",
+      "price": 199.97,
+      "salesParent": 711,
+      "revenue": 142178.67,
+      "rating": 4.6,
+      "reviews": 1624
+    },
+    {
+      "rank": 6,
+      "asin": "B0FH7FBZ69",
+      "title": "Extra Wide 2 in 1 Convertible Toddler Kids Couch - Corduroy Fold Out Kids Sofa Chair with Blanket, Comfy Comfortable Toddler Chair, Machine-Washable Cover, for Boys Girls, Pink",
+      "brand": "Foryoomi",
+      "price": 54.99,
+      "salesParent": 1802,
+      "revenue": 99091.98,
+      "rating": 4.4,
+      "reviews": 244
+    },
+    {
+      "rank": 7,
+      "asin": "B0F8HW9XVP",
+      "title": "Toddler Couch, 12-Piece Modular Kids Play Couch for Bedroom",
+      "brand": "Winhomish",
+      "price": 125.99,
+      "salesParent": 750,
+      "revenue": 94492.5,
+      "rating": 4.6,
+      "reviews": 185
+    },
+    {
+      "rank": 8,
+      "asin": "B0DKHLYSDR",
+      "title": "Thick Comfy Kids Chair and Couch,Foldable Plush Sofa with Pocket",
+      "brand": "aodisman",
+      "price": 37.99,
+      "salesParent": 2350,
+      "revenue": 89276.51,
+      "rating": 4.6,
+      "reviews": 1065
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -7,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -7,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 3352176,
+    "priorHeadRevenue": 3613088,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 94,
+      "newCount": 36,
+      "pct": 38,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 39,
+      "brandCount": 63,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.45,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0FP3XWS3N",
+        "title": "Nugget - The Original Play Couch for Kids - Modular Foam Children's Sofa",
+        "rating": 4.8,
+        "reviews": 202
+      },
+      {
+        "rank": 2,
+        "asin": "B0FB3TPX6P",
+        "title": "Tiny Land 2-in-1 Foldable Kids Couch with Pocket Soft Thick Toddler Sofa",
+        "rating": 4.8,
+        "reviews": 455
+      },
+      {
+        "rank": 3,
+        "asin": "B0D5CLV6H8",
+        "title": "Blissful Diary Foldable Kids Couch, 2-in-1 Kids Sofa Chair, Pink Shell",
+        "rating": 4.6,
+        "reviews": 2801
+      },
+      {
+        "rank": 4,
+        "asin": "B0C5CM3FS6",
+        "title": "Kids Sofa Chair, 2-in-1 Foldable Couch, Sherpa, Grey",
+        "rating": 4.5,
+        "reviews": 7492
+      },
+      {
+        "rank": 5,
+        "asin": "B0BLVNTBB7",
+        "title": "Lunix Modular Kids Play Couch, 14-Piece Fort Building &amp; Climbing Foam Set",
+        "rating": 4.6,
+        "reviews": 1624
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "1055398:1063306:1063314:3733401",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

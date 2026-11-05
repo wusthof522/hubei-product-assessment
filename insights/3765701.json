@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3765701",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins, Minerals & Supplements > Herbal Supplements > Ginkgo Biloba",
+  "categoryPathCn": "健康与家居 > 身、泳和附剂 > 草本补充 > 银杏",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 2378677,
+    "avgRevenue": 23787,
+    "medianPrice": 25.99,
+    "priceBand": "$19.97 - $38.49",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B078PRNLKW",
+      "title": "Natural Cognitive Support and Brain Supplement, Vegan, Gluten-Free",
+      "brand": "RediMind",
+      "price": 39.95,
+      "salesParent": 12864,
+      "revenue": 513916.81,
+      "rating": 4.1,
+      "reviews": 6157
+    },
+    {
+      "rank": 2,
+      "asin": "B084QFRVC7",
+      "title": "MARYRUTH'S Kids Focus &amp; Attention Drops, USDA Organic Drops, 30 Servings",
+      "brand": "MARYRUTH'S",
+      "price": 21.95,
+      "salesParent": 9777,
+      "revenue": 214605.16,
+      "rating": 4.3,
+      "reviews": 5667
+    },
+    {
+      "rank": 3,
+      "asin": "B08PW2XRXK",
+      "title": "Bronson Ginkgo Biloba Extra Strength Brain &amp; Memory Support 120 Capsules",
+      "brand": "Bronson",
+      "price": 9.99,
+      "salesParent": 17491,
+      "revenue": 166339.41,
+      "rating": 4.6,
+      "reviews": 16249
+    },
+    {
+      "rank": 4,
+      "asin": "B01BCULYEC",
+      "title": "Nutricost Ginkgo Biloba 120mg, 240 Capsules, Extra Strength, Gluten Free",
+      "brand": "Nutricost",
+      "price": 14.95,
+      "salesParent": 5404,
+      "revenue": 80789.8,
+      "rating": 4.6,
+      "reviews": 12236
+    },
+    {
+      "rank": 5,
+      "asin": "B002Y27JYM",
+      "title": "Nature's Bounty Ginkgo Biloba 120mg, 100 Capsules",
+      "brand": "Nature's Bounty",
+      "price": 8.49,
+      "salesParent": 8027,
+      "revenue": 68068.95,
+      "rating": 4.6,
+      "reviews": 18751
+    },
+    {
+      "rank": 6,
+      "asin": "B09F5P2XG5",
+      "title": "Herbal Roots Organic Ginkgo Biloba Supplement - Brain &amp; Memory Health - USDA Certified Organic - 60 Vegan Capsules",
+      "brand": "Herbal Roots",
+      "price": 29.99,
+      "salesParent": 2203,
+      "revenue": 66067.97,
+      "rating": 4.6,
+      "reviews": 1280
+    },
+    {
+      "rank": 7,
+      "asin": "B0D9N3J3T2",
+      "title": "Qualia Mind | Nootropic Brain Supplement for Memory, Focus &amp; Energy",
+      "brand": "QUALIA LIFE SCIENCES",
+      "price": 124.98,
+      "salesParent": 510,
+      "revenue": 61342.8,
+      "rating": 4.4,
+      "reviews": 90
+    },
+    {
+      "rank": 8,
+      "asin": "B004T20AYQ",
+      "title": "Designs for Health Brain Vitale, Supports Focus, 120 Capsules",
+      "brand": "Designs for Health",
+      "price": 157.49,
+      "salesParent": 349,
+      "revenue": 54964.01,
+      "rating": 4.6,
+      "reviews": 228
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -23,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -23,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 2378677,
+    "priorHeadRevenue": 3093628,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 7,
+      "pct": 7,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 45,
+      "brandCount": 78,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.44,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B078PRNLKW",
+        "title": "Natural Cognitive Support and Brain Supplement, Vegan, Gluten-Free",
+        "rating": 4.1,
+        "reviews": 6157
+      },
+      {
+        "rank": 2,
+        "asin": "B084QFRVC7",
+        "title": "MARYRUTH'S Kids Focus &amp; Attention Drops, USDA Organic Drops, 30 Servings",
+        "rating": 4.3,
+        "reviews": 5667
+      },
+      {
+        "rank": 3,
+        "asin": "B08PW2XRXK",
+        "title": "Bronson Ginkgo Biloba Extra Strength Brain &amp; Memory Support 120 Capsules",
+        "rating": 4.6,
+        "reviews": 16249
+      },
+      {
+        "rank": 4,
+        "asin": "B01BCULYEC",
+        "title": "Nutricost Ginkgo Biloba 120mg, 240 Capsules, Extra Strength, Gluten Free",
+        "rating": 4.6,
+        "reviews": 12236
+      },
+      {
+        "rank": 5,
+        "asin": "B002Y27JYM",
+        "title": "Nature's Bounty Ginkgo Biloba 120mg, 100 Capsules",
+        "rating": 4.6,
+        "reviews": 18751
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:23675621011:3764461:3765701",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

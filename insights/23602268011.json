@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23602268011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Sports & Outdoor Play > Blasters & Foam Play > Foam Blaster Sets",
+  "categoryPathCn": "玩具 > 体育 > 爆破手 > 泡沫喷射器套装",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 3121171,
+    "avgRevenue": 31212,
+    "medianPrice": 33.49,
+    "priceBand": "$26.98 - $45.98",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B00G466HBU",
+      "title": "Stomp Rocket Jr Multi-Color Rocket Launcher for Kids, 8 Rockets",
+      "brand": "Stomp Rocket",
+      "price": 27.99,
+      "salesParent": 12667,
+      "revenue": 354549.31,
+      "rating": 4.6,
+      "reviews": 23837
+    },
+    {
+      "rank": 2,
+      "asin": "B08X6FPBTF",
+      "title": "Hover Shot Shooting Toy for Kids - Ball Target Game for Nerf Guns Cool Birthday Gifts Toys for Boys Age 6+ Year Old Boy Best Teenage Gift Idea - Gun, Targets &amp; Darts",
+      "brand": "Ninja Blast",
+      "price": 39.99,
+      "salesParent": 9311,
+      "revenue": 325885.0,
+      "rating": 4.2,
+      "reviews": 2477
+    },
+    {
+      "rank": 3,
+      "asin": "B082XJRTMG",
+      "title": "Squad Hero Rechargeable Laser Tag 360° Sensors + LCDs - Set of 4 - Birthday Gift Ideas for Kids Teens &amp; Adults Boys &amp; Girls Family Fun - Cool Teenage Lazer Group Activity, Teen Gifts Ages 8+ Year Old",
+      "brand": "Squad Hero",
+      "price": 209.99,
+      "salesParent": 1504,
+      "revenue": 259259.53,
+      "rating": 4.6,
+      "reviews": 6221
+    },
+    {
+      "rank": 4,
+      "asin": "B0C3QX5ZSX",
+      "title": "Laser Tag Set of 2, Lazer Tag Game for Kids Indoor &amp; Outdoor Play, Gift Ideas for Kids Teens and Adults, Cool Toys for Teenage Ages 8 9 10 11 12+Year Old Boy &amp; Girls",
+      "brand": "Winyea Tag",
+      "price": 32.99,
+      "salesParent": 5840,
+      "revenue": 189975.19,
+      "rating": 4.5,
+      "reviews": 2675
+    },
+    {
+      "rank": 5,
+      "asin": "B0D97R16GT",
+      "title": "NIPLOOOW Dinosaur Shooting Toys for Kids 3-5 Years, Movable Target Shooting Games with 2 Air Pump Launcher, Interactive Competition Game Gift for Boys and Girls Ages 3 4 5 6 7 8 Years Old",
+      "brand": "NIPLOOOW",
+      "price": 39.99,
+      "salesParent": 4068,
+      "revenue": 162679.33,
+      "rating": 4.2,
+      "reviews": 772
+    },
+    {
+      "rank": 6,
+      "asin": "B0CXSLJPXG",
+      "title": "Laser Tag Guns Set of 4 Laser Tag Guns with Digital LED Score Display Vests",
+      "brand": "IVOXEX",
+      "price": 55.99,
+      "salesParent": 2994,
+      "revenue": 159101.16,
+      "rating": 4.5,
+      "reviews": 1051
+    },
+    {
+      "rank": 7,
+      "asin": "B0FQ7BKVF1",
+      "title": "Laser Tag Set of 2 - Gifts for 8 9 10 11 12 13 Year Old Boy Gifts Birthday",
+      "brand": "Halo Sport",
+      "price": 29.98,
+      "salesParent": 4612,
+      "revenue": 144447.84,
+      "rating": 4.4,
+      "reviews": 690
+    },
+    {
+      "rank": 8,
+      "asin": "B0G1MBG843",
+      "title": "Rechargeable Laser Tag Set of 4, Gifts for 8 9 10 11 12 13 Year Old Boy Birthday, Lazer Tag Gun with Vest, Outdoor Family Games for Kids &amp; Adults, Boy Toys Age 8-10, Teen Boy Gril 8-12 Years Gift",
+      "brand": "Winyea Tag",
+      "price": 73.99,
+      "salesParent": 1928,
+      "revenue": 136675.92,
+      "rating": 4.6,
+      "reviews": 259
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 20,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 20,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 3121171,
+    "priorHeadRevenue": 2590336,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 42,
+      "pct": 42,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 50,
+      "brandCount": 76,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.36,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B00G466HBU",
+        "title": "Stomp Rocket Jr Multi-Color Rocket Launcher for Kids, 8 Rockets",
+        "rating": 4.6,
+        "reviews": 23837
+      },
+      {
+        "rank": 2,
+        "asin": "B08X6FPBTF",
+        "title": "Hover Shot Shooting Toy for Kids - Ball Target Game for Nerf Guns Cool Birthday Gifts Toys for Boys Age 6+ Year Old Boy Best Teenage Gift Idea - Gun, Targets &amp; Darts",
+        "rating": 4.2,
+        "reviews": 2477
+      },
+      {
+        "rank": 3,
+        "asin": "B082XJRTMG",
+        "title": "Squad Hero Rechargeable Laser Tag 360° Sensors + LCDs - Set of 4 - Birthday Gift Ideas for Kids Teens &amp; Adults Boys &amp; Girls Family Fun - Cool Teenage Lazer Group Activity, Teen Gifts Ages 8+ Year Old",
+        "rating": 4.6,
+        "reviews": 6221
+      },
+      {
+        "rank": 4,
+        "asin": "B0C3QX5ZSX",
+        "title": "Laser Tag Set of 2, Lazer Tag Game for Kids Indoor &amp; Outdoor Play, Gift Ideas for Kids Teens and Adults, Cool Toys for Teenage Ages 8 9 10 11 12+Year Old Boy &amp; Girls",
+        "rating": 4.5,
+        "reviews": 2675
+      },
+      {
+        "rank": 5,
+        "asin": "B0D97R16GT",
+        "title": "NIPLOOOW Dinosaur Shooting Toys for Kids 3-5 Years, Movable Target Shooting Games with 2 Air Pump Launcher, Interactive Competition Game Gift for Boys and Girls Ages 3 4 5 6 7 8 Years Old",
+        "rating": 4.2,
+        "reviews": 772
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166420011:2327110011:23602268011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

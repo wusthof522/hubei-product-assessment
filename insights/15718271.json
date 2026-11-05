@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "15718271",
+  "level": "L2",
+  "categoryPathEn": "Automotive > Car Care",
+  "categoryPathCn": "汽车 > 汽车护理",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 94,
+    "totalRevenue": 22974777,
+    "avgRevenue": 244413,
+    "medianPrice": 29.99,
+    "priceBand": "$17.34 - $42.9",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0F1P4CSXN",
+      "title": "MAXL MAXLONE™ Car Spray with Triphene® All Purpose Waterless Detailer 2 Kit",
+      "brand": "MAXL",
+      "price": 99.97,
+      "salesParent": 11325,
+      "revenue": 1132160.25,
+      "rating": 4.5,
+      "reviews": 2040
+    },
+    {
+      "rank": 2,
+      "asin": "B0HJ2P4PKZ",
+      "title": "Griot’s Garage Ceramic 3-in-1 Wax, SiO2 Spray for Cars, Trucks, &amp; RV’s, Provides Protection and Water Beading on Paint, Wheels, Plastic, Rubber Trim, Chrome, &amp; More, 10978, 22 Fl Oz (Pack of 6)",
+      "brand": "Griot's Garage",
+      "price": 131.94,
+      "salesParent": 8401,
+      "revenue": 1108428.0,
+      "rating": 4.7,
+      "reviews": 3933
+    },
+    {
+      "rank": 3,
+      "asin": "B0D5P3WB96",
+      "title": "Chemical Guys Mat Renew Rubber + Vinyl Floor Mat Cleaner And Protectant Total Interior Cleaner and Protectant Bundle, Safe for Cars, Trucks, SUVs, Jeeps, Motorcycles, RVs &amp; More, (2-16 fl oz)",
+      "brand": "Chemical Guys",
+      "price": 22.96,
+      "salesParent": 31218,
+      "revenue": 716765.25,
+      "rating": 4.7,
+      "reviews": 15
+    },
+    {
+      "rank": 4,
+      "asin": "B08C7K99WW",
+      "title": "AstroAI Windshield Cleaner Tool &amp; Car Interior Detailing Kit, Blue, 21 in",
+      "brand": "AstroAI",
+      "price": 15.99,
+      "salesParent": 42226,
+      "revenue": 706863.25,
+      "rating": 4.4,
+      "reviews": 25869
+    },
+    {
+      "rank": 5,
+      "asin": "B0BYD5XB67",
+      "title": "KMM Handheld Car Vacuum Cleaner, Hand Held Vacuum Cleaner and Air Duster",
+      "brand": "KMM",
+      "price": 35.99,
+      "salesParent": 22388,
+      "revenue": 649475.88,
+      "rating": 4.0,
+      "reviews": 12172
+    },
+    {
+      "rank": 6,
+      "asin": "B0GJKXBCGT",
+      "title": "KMM Handheld Car Vacuum Cleaner, 16000PA Air Duster &amp; Hand Held Vacuum",
+      "brand": "KMM",
+      "price": 31.99,
+      "salesParent": 20220,
+      "revenue": 639760.81,
+      "rating": 4.8,
+      "reviews": 25
+    },
+    {
+      "rank": 7,
+      "asin": "B07SGQJ6C9",
+      "title": "XINDELL Interior Windshield Cleaner Tool – Car Interior Window Cleaning Kit with Extendable Handle &amp; 4 Microfiber Pads, Auto Wiper Inside Compact Windshield Brush for Car &amp; Home Windows",
+      "brand": "X XINDELL",
+      "price": 17.69,
+      "salesParent": 35030,
+      "revenue": 629489.06,
+      "rating": 4.3,
+      "reviews": 25817
+    },
+    {
+      "rank": 8,
+      "asin": "B0FD7364VQ",
+      "title": "KMM Handheld Car Vacuum Cleaner, 16000PA Air Duster &amp; Hand Held Vacuum",
+      "brand": "KMM",
+      "price": 35.99,
+      "salesParent": 17100,
+      "revenue": 577296.0,
+      "rating": 4.0,
+      "reviews": 12172
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 25,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 25,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 22974777,
+    "priorHeadRevenue": 18439285,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 94,
+      "newCount": 18,
+      "pct": 19,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 36,
+      "brandCount": 60,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.51,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0F1P4CSXN",
+        "title": "MAXL MAXLONE™ Car Spray with Triphene® All Purpose Waterless Detailer 2 Kit",
+        "rating": 4.5,
+        "reviews": 2040
+      },
+      {
+        "rank": 2,
+        "asin": "B0HJ2P4PKZ",
+        "title": "Griot’s Garage Ceramic 3-in-1 Wax, SiO2 Spray for Cars, Trucks, &amp; RV’s, Provides Protection and Water Beading on Paint, Wheels, Plastic, Rubber Trim, Chrome, &amp; More, 10978, 22 Fl Oz (Pack of 6)",
+        "rating": 4.7,
+        "reviews": 3933
+      },
+      {
+        "rank": 3,
+        "asin": "B0D5P3WB96",
+        "title": "Chemical Guys Mat Renew Rubber + Vinyl Floor Mat Cleaner And Protectant Total Interior Cleaner and Protectant Bundle, Safe for Cars, Trucks, SUVs, Jeeps, Motorcycles, RVs &amp; More, (2-16 fl oz)",
+        "rating": 4.7,
+        "reviews": 15
+      },
+      {
+        "rank": 4,
+        "asin": "B08C7K99WW",
+        "title": "AstroAI Windshield Cleaner Tool &amp; Car Interior Detailing Kit, Blue, 21 in",
+        "rating": 4.4,
+        "reviews": 25869
+      },
+      {
+        "rank": 5,
+        "asin": "B0BYD5XB67",
+        "title": "KMM Handheld Car Vacuum Cleaner, Hand Held Vacuum Cleaner and Air Duster",
+        "rating": 4.0,
+        "reviews": 12172
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "15684181:15718271",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

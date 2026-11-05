@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "2234134011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Remote & App Controlled Vehicles & Parts > Remote & App Controlled Vehicle Parts > Remote & App Controlled Vehicle Batteries",
+  "categoryPathCn": "玩具 > 遥控 > 遥控 > 遥控",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 2283921,
+    "avgRevenue": 23070,
+    "medianPrice": 99.99,
+    "priceBand": "$62.99 - $219.0",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0H3TRDY41",
+      "title": "ECO-WORTHY Cubix100 48V 600AH Lithium LiFePO4 Battery, RACK6 V3 Cabinet",
+      "brand": "ECO-WORTHY",
+      "price": 5419.99,
+      "salesParent": 36,
+      "revenue": 200529.34,
+      "rating": 2.5,
+      "reviews": 2
+    },
+    {
+      "rank": 2,
+      "asin": "B0GXK91YQX",
+      "title": "24V 314Ah LiFePO4 Battery 200A BMS 8kWh 15000+ Deep Cycle",
+      "brand": "dumfume",
+      "price": 979.96,
+      "salesParent": 88,
+      "revenue": 83455.68,
+      "rating": 4.5,
+      "reviews": 453
+    },
+    {
+      "rank": 3,
+      "asin": "B0H9RFB3K7",
+      "title": "ECO-WORTHY Cubix100 48V 600AH LiFePO4 Battery,AC 12000W Hybrid Inverter",
+      "brand": "ECO-WORTHY",
+      "price": 7499.99,
+      "salesParent": 11,
+      "revenue": 81619.89,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "rank": 4,
+      "asin": "B0H3TX5TZL",
+      "title": "ECO-WORTHY Cubix100 48V 200AH Lithium LiFePO4 Battery, RACK6 V3 Cabinet",
+      "brand": "ECO-WORTHY",
+      "price": 2179.99,
+      "salesParent": 36,
+      "revenue": 80348.04,
+      "rating": 5.0,
+      "reviews": 4
+    },
+    {
+      "rank": 5,
+      "asin": "B0FL7K6T1C",
+      "title": "VEVOR 24V 200Ah LiFePO4 Lithium Battery 4000+ Cycles Built-in 100A BMS",
+      "brand": "VEVOR",
+      "price": 679.9,
+      "salesParent": 100,
+      "revenue": 67990.0,
+      "rating": 4.7,
+      "reviews": 39
+    },
+    {
+      "rank": 6,
+      "asin": "B0H86NLHSK",
+      "title": "24V 300Ah(314Ah) LiFePO4 Lithium Battery built-in 200A BMS Bluetooth,8038Wh Capacity,APP Control,15000+ Cycle,Low-Temp Cut-off Deep Cycle 300Ah Lithium Battery for RV, Solar,Marine,Off gird",
+      "brand": "CYCCLEVOLT",
+      "price": 889.0,
+      "salesParent": 73,
+      "revenue": 64906.49,
+      "rating": 4.1,
+      "reviews": 9
+    },
+    {
+      "rank": 7,
+      "asin": "B0DZ6YM4G6",
+      "title": "DJI Mavic 4 Pro Intelligent Flight Battery, Compatibility: DJI Mavic 4 Pro",
+      "brand": "DJI",
+      "price": 178.99,
+      "salesParent": 294,
+      "revenue": 53499.18,
+      "rating": 4.7,
+      "reviews": 165
+    },
+    {
+      "rank": 8,
+      "asin": "B09WVYZC8K",
+      "title": "DJI Mini 4 Pro Mini 3 Series Intelligent Flight Battery Plus, Compatibility: DJI Mini 4 Pro, DJI Mini 3 Pro, DJI Mini 3",
+      "brand": "DJI",
+      "price": 89.98,
+      "salesParent": 580,
+      "revenue": 52258.0,
+      "rating": 4.6,
+      "reviews": 1890
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 14,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 14,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 2283921,
+    "priorHeadRevenue": 2002588,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 49,
+      "pct": 49,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 52,
+      "brandCount": 43,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.49,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0H3TRDY41",
+        "title": "ECO-WORTHY Cubix100 48V 600AH Lithium LiFePO4 Battery, RACK6 V3 Cabinet",
+        "rating": 2.5,
+        "reviews": 2
+      },
+      {
+        "rank": 2,
+        "asin": "B0GXK91YQX",
+        "title": "24V 314Ah LiFePO4 Battery 200A BMS 8kWh 15000+ Deep Cycle",
+        "rating": 4.5,
+        "reviews": 453
+      },
+      {
+        "rank": 3,
+        "asin": "B0H9RFB3K7",
+        "title": "ECO-WORTHY Cubix100 48V 600AH LiFePO4 Battery,AC 12000W Hybrid Inverter",
+        "rating": null,
+        "reviews": null
+      },
+      {
+        "rank": 4,
+        "asin": "B0H3TX5TZL",
+        "title": "ECO-WORTHY Cubix100 48V 200AH Lithium LiFePO4 Battery, RACK6 V3 Cabinet",
+        "rating": 5.0,
+        "reviews": 4
+      },
+      {
+        "rank": 5,
+        "asin": "B0FL7K6T1C",
+        "title": "VEVOR 24V 200Ah LiFePO4 Lithium Battery 4000+ Cycles Built-in 100A BMS",
+        "rating": 4.7,
+        "reviews": 39
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:6925830011:2234126011:2234134011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

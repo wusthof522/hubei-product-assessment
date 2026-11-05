@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3061625011",
+  "level": "L2",
+  "categoryPathEn": "Industrial & Scientific > Filtration",
+  "categoryPathCn": "工业类 > 过滤",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 95,
+    "totalRevenue": 1515384,
+    "avgRevenue": 15951,
+    "medianPrice": 79.96,
+    "priceBand": "$32.99 - $379.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B09JG2SWVC",
+      "title": "SimPure 10&quot; *4.5&quot; Whole House Water Filter Clear Housing no Filter",
+      "brand": "SimPure",
+      "price": 59.99,
+      "salesParent": 1891,
+      "revenue": 113441.09,
+      "rating": 4.4,
+      "reviews": 3087
+    },
+    {
+      "rank": 2,
+      "asin": "B0H9WYCZJG",
+      "title": "3/4&quot; NPT Water Separator Air Compressor, Industrial 3 Stage Compressed Air Filter System, Air Filter Dryer, Oil Water Separator with Drain Valve, Metal Housing, 0.15-1.6 MPa",
+      "brand": "DAIERTEK",
+      "price": 379.99,
+      "salesParent": 282,
+      "revenue": 107157.18,
+      "rating": 4.2,
+      "reviews": 48
+    },
+    {
+      "rank": 3,
+      "asin": "B0FLGP2JQS",
+      "title": "VEVOR Compressed Air Dryer 125CFM Industrial Refrigerated Air Drying System",
+      "brand": "VEVOR",
+      "price": 1263.9,
+      "salesParent": 56,
+      "revenue": 70778.4,
+      "rating": 5.0,
+      "reviews": 1
+    },
+    {
+      "rank": 4,
+      "asin": "B0G3NSNH21",
+      "title": "1/2&quot; NPT Air Compressor Water Separator, Industrial Grade 3 Stage Air Drying System with 0-240 PSI Air Regulator, Particulate Filter, Coalescing Filter, Desiccant Dryer, Metal Bowl, Auto Drain",
+      "brand": "RVMARINEPAT",
+      "price": 122.54,
+      "salesParent": 423,
+      "revenue": 53158.41,
+      "rating": 4.4,
+      "reviews": 46
+    },
+    {
+      "rank": 5,
+      "asin": "B01LZZA5S7",
+      "title": "Aquaboon 5 Micron 10 x 4.5 Sediment Water Filter Replacement - 4 Pack",
+      "brand": "Aquaboon",
+      "price": 39.79,
+      "salesParent": 1236,
+      "revenue": 51961.44,
+      "rating": 4.7,
+      "reviews": 2085
+    },
+    {
+      "rank": 6,
+      "asin": "B07PB7WRZJ",
+      "title": "3/8&quot; NPT Air Filter Regulator Lubricator Combo, Water Separator",
+      "brand": "NANPU",
+      "price": 38.99,
+      "salesParent": 1035,
+      "revenue": 40354.65,
+      "rating": 4.3,
+      "reviews": 2015
+    },
+    {
+      "rank": 7,
+      "asin": "B0H3VV2BQG",
+      "title": "(8PCS) Replacement Filter Cartridge &amp; Check Valve Maintenance Kit for Air Equipment",
+      "brand": "Generic",
+      "price": 42.98,
+      "salesParent": 809,
+      "revenue": 34770.82,
+      "rating": 4.6,
+      "reviews": 119
+    },
+    {
+      "rank": 8,
+      "asin": "B0895G3FZ3",
+      "title": "SNS Air Compressor Pressure Regulator With Bracket and Gauge Female Thread 1/4 NPT 0-150 PSI Adjustable AR2000-N02",
+      "brand": "SNS",
+      "price": 22.03,
+      "salesParent": 1503,
+      "revenue": 33111.09,
+      "rating": 4.2,
+      "reviews": 389
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 22,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 22,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1515384,
+    "priorHeadRevenue": 1242855,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 95,
+      "newCount": 34,
+      "pct": 36,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 38,
+      "brandCount": 67,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.48,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B09JG2SWVC",
+        "title": "SimPure 10&quot; *4.5&quot; Whole House Water Filter Clear Housing no Filter",
+        "rating": 4.4,
+        "reviews": 3087
+      },
+      {
+        "rank": 2,
+        "asin": "B0H9WYCZJG",
+        "title": "3/4&quot; NPT Water Separator Air Compressor, Industrial 3 Stage Compressed Air Filter System, Air Filter Dryer, Oil Water Separator with Drain Valve, Metal Housing, 0.15-1.6 MPa",
+        "rating": 4.2,
+        "reviews": 48
+      },
+      {
+        "rank": 3,
+        "asin": "B0FLGP2JQS",
+        "title": "VEVOR Compressed Air Dryer 125CFM Industrial Refrigerated Air Drying System",
+        "rating": 5.0,
+        "reviews": 1
+      },
+      {
+        "rank": 4,
+        "asin": "B0G3NSNH21",
+        "title": "1/2&quot; NPT Air Compressor Water Separator, Industrial Grade 3 Stage Air Drying System with 0-240 PSI Air Regulator, Particulate Filter, Coalescing Filter, Desiccant Dryer, Metal Bowl, Auto Drain",
+        "rating": 4.4,
+        "reviews": 46
+      },
+      {
+        "rank": 5,
+        "asin": "B01LZZA5S7",
+        "title": "Aquaboon 5 Micron 10 x 4.5 Sediment Water Filter Replacement - 4 Pack",
+        "rating": 4.7,
+        "reviews": 2085
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "16310091:3061625011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

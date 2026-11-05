@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "13291921",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Games & Accessories > Casino Equipment > Dice",
+  "categoryPathCn": "玩具与游戏 > 游戏和配件 > 赌场设备 > 骰子",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 70,
+    "totalRevenue": 89722,
+    "avgRevenue": 1282,
+    "medianPrice": 13.99,
+    "priceBand": "$9.98 - $19.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0836T782D",
+      "title": "Yuanhe Set of 5 Grade AAA Precision 19mm Serialized Casino dice with Razor Edges and Corners - red …",
+      "brand": "Yuanhe",
+      "price": 15.96,
+      "salesParent": 845,
+      "revenue": 13427.05,
+      "rating": 4.7,
+      "reviews": 1125
+    },
+    {
+      "rank": 2,
+      "asin": "B0GSR1KG8H",
+      "title": "2 Pcs Natural Gemstone Dices 15mm Crystal Dice, Blue Sandstone",
+      "brand": "Seenelling",
+      "price": 12.99,
+      "salesParent": 393,
+      "revenue": 4853.55,
+      "rating": 4.4,
+      "reviews": 15
+    },
+    {
+      "rank": 3,
+      "asin": "B097C8GCM2",
+      "title": "Grade AAA 19mm Casino Dice Set of 5 with Leather Dice Case, Red",
+      "brand": "Luck Lab",
+      "price": 16.99,
+      "salesParent": 263,
+      "revenue": 4468.37,
+      "rating": 4.7,
+      "reviews": 394
+    },
+    {
+      "rank": 4,
+      "asin": "B0DL8PJJCF",
+      "title": "36 Pcs 19 mm D6 Dice Casino Style Craps Dice Sets, Classic Color",
+      "brand": "Seenelling",
+      "price": 13.99,
+      "salesParent": 317,
+      "revenue": 4434.83,
+      "rating": 4.7,
+      "reviews": 223
+    },
+    {
+      "rank": 5,
+      "asin": "B0FLXMYTGD",
+      "title": "12 Pieces 19mm Casino Dice Set Translucent 6 Sided Game Dices Square Corner Acrylic Dice for Casino Vegas Theme Birthday Party Supplies Board Games Classroom Teaching (Pink)",
+      "brand": "Abilat",
+      "price": 6.99,
+      "salesParent": 499,
+      "revenue": 3657.67,
+      "rating": 4.8,
+      "reviews": 108
+    },
+    {
+      "rank": 6,
+      "asin": "B00157YFJE",
+      "title": "Dice Set - 19MM A Grade Serialized Casino Dice with Sharp Edges - Game Night Accessories by Trademark Poker (Blue)",
+      "brand": "Trademark Poker",
+      "price": 13.82,
+      "salesParent": 250,
+      "revenue": 3467.5,
+      "rating": 4.3,
+      "reviews": 1362
+    },
+    {
+      "rank": 7,
+      "asin": "B0DYLG8ZTN",
+      "title": "36 Piece 19mm Casino Theme Party Dice Sets, Classic Color",
+      "brand": "Seenelling",
+      "price": 14.99,
+      "salesParent": 224,
+      "revenue": 3357.76,
+      "rating": 4.8,
+      "reviews": 94
+    },
+    {
+      "rank": 8,
+      "asin": "B078TMTTP6",
+      "title": "GSE Pro AAA Grade Precision 19mm Casino Craps Dice Set of 5 (Red)",
+      "brand": "GSE Games &amp; Sports Expert",
+      "price": 16.49,
+      "salesParent": 189,
+      "revenue": 3116.61,
+      "rating": 4.7,
+      "reviews": 1468
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 18,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 18,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 89722,
+    "priorHeadRevenue": 76182,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 70,
+      "newCount": 39,
+      "pct": 56,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 57,
+      "brandCount": 43,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.58,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0836T782D",
+        "title": "Yuanhe Set of 5 Grade AAA Precision 19mm Serialized Casino dice with Razor Edges and Corners - red …",
+        "rating": 4.7,
+        "reviews": 1125
+      },
+      {
+        "rank": 2,
+        "asin": "B0GSR1KG8H",
+        "title": "2 Pcs Natural Gemstone Dices 15mm Crystal Dice, Blue Sandstone",
+        "rating": 4.4,
+        "reviews": 15
+      },
+      {
+        "rank": 3,
+        "asin": "B097C8GCM2",
+        "title": "Grade AAA 19mm Casino Dice Set of 5 with Leather Dice Case, Red",
+        "rating": 4.7,
+        "reviews": 394
+      },
+      {
+        "rank": 4,
+        "asin": "B0DL8PJJCF",
+        "title": "36 Pcs 19 mm D6 Dice Casino Style Craps Dice Sets, Classic Color",
+        "rating": 4.7,
+        "reviews": 223
+      },
+      {
+        "rank": 5,
+        "asin": "B0FLXMYTGD",
+        "title": "12 Pieces 19mm Casino Dice Set Translucent 6 Sided Game Dices Square Corner Acrylic Dice for Casino Vegas Theme Birthday Party Supplies Board Games Classroom Teaching (Pink)",
+        "rating": 4.8,
+        "reviews": 108
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166220011:13291101:13291921",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

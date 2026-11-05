@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3763051",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Health Care > First Aid > Lice Treatments",
+  "categoryPathCn": "健康与家居 > 卫生保健 > 急救 > 虱子治疗用品",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 2376673,
+    "avgRevenue": 24007,
+    "medianPrice": 23.03,
+    "priceBand": "$14.27 - $29.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B000O7JK0A",
+      "title": "Fairy Tales Rosemary Repel Kids Lice Prevention Conditioning Spray, 8 fl oz",
+      "brand": "Fairy Tales",
+      "price": 12.48,
+      "salesParent": 28860,
+      "revenue": 359595.59,
+      "rating": 4.8,
+      "reviews": 18987
+    },
+    {
+      "rank": 2,
+      "asin": "B0F86TJQ76",
+      "title": "MAYDAY Daily Lice Routine, 12oz Shampoo &amp; Conditioner, Sandalwood &amp; Mint",
+      "brand": "MAYDAY",
+      "price": 36.99,
+      "salesParent": 5112,
+      "revenue": 186076.81,
+      "rating": 4.5,
+      "reviews": 511
+    },
+    {
+      "rank": 3,
+      "asin": "B07NLTJ7N8",
+      "title": "Nix Ultra Lice Treatment, All-in-One Shampoo &amp; Lice Comb, 4 Fl Oz",
+      "brand": "Nix",
+      "price": 18.88,
+      "salesParent": 9214,
+      "revenue": 173960.31,
+      "rating": 4.5,
+      "reviews": 2558
+    },
+    {
+      "rank": 4,
+      "asin": "B0DTN81GNC",
+      "title": "RID One &amp; Done Ivermectin Lice Treatment, Prescription Strength, No Combing",
+      "brand": "RID",
+      "price": 34.98,
+      "salesParent": 4113,
+      "revenue": 152510.05,
+      "rating": 4.4,
+      "reviews": 1236
+    },
+    {
+      "rank": 5,
+      "asin": "B09475XC7M",
+      "title": "TARO Ivermectin Lotion 0.5% Lice Treatment for Adults and Kids 4FL Oz",
+      "brand": "TARO",
+      "price": 34.99,
+      "salesParent": 3532,
+      "revenue": 123584.69,
+      "rating": 4.6,
+      "reviews": 406
+    },
+    {
+      "rank": 6,
+      "asin": "B073C2685B",
+      "title": "Lice Treatment Kit by Lice Clinics-Guaranteed Cure for Super Lice-Safe, Non-Toxic (Complete Kit with 5.25oz Shampoo, Metal Comb &amp; More)",
+      "brand": "Lice Clinics of America",
+      "price": 27.97,
+      "salesParent": 4195,
+      "revenue": 117334.15,
+      "rating": 4.4,
+      "reviews": 10595
+    },
+    {
+      "rank": 7,
+      "asin": "B000HIBPV8",
+      "title": "Head Lice Comb - (Color May Vary) Pack of 1",
+      "brand": "Nit Free Terminator",
+      "price": 14.9,
+      "salesParent": 7538,
+      "revenue": 112466.96,
+      "rating": 4.6,
+      "reviews": 19686
+    },
+    {
+      "rank": 8,
+      "asin": "B093P2K33Z",
+      "title": "RID Super Max 5-in-1 Complete Lice Treatment Kit for Kids &amp; Adults",
+      "brand": "RID",
+      "price": 23.49,
+      "salesParent": 4595,
+      "revenue": 96954.5,
+      "rating": 4.5,
+      "reviews": 2733
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -14,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -14,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 2376673,
+    "priorHeadRevenue": 2757275,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 33,
+      "pct": 33,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 55,
+      "brandCount": 55,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.35,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B000O7JK0A",
+        "title": "Fairy Tales Rosemary Repel Kids Lice Prevention Conditioning Spray, 8 fl oz",
+        "rating": 4.8,
+        "reviews": 18987
+      },
+      {
+        "rank": 2,
+        "asin": "B0F86TJQ76",
+        "title": "MAYDAY Daily Lice Routine, 12oz Shampoo &amp; Conditioner, Sandalwood &amp; Mint",
+        "rating": 4.5,
+        "reviews": 511
+      },
+      {
+        "rank": 3,
+        "asin": "B07NLTJ7N8",
+        "title": "Nix Ultra Lice Treatment, All-in-One Shampoo &amp; Lice Comb, 4 Fl Oz",
+        "rating": 4.5,
+        "reviews": 2558
+      },
+      {
+        "rank": 4,
+        "asin": "B0DTN81GNC",
+        "title": "RID One &amp; Done Ivermectin Lice Treatment, Prescription Strength, No Combing",
+        "rating": 4.4,
+        "reviews": 1236
+      },
+      {
+        "rank": 5,
+        "asin": "B09475XC7M",
+        "title": "TARO Ivermectin Lotion 0.5% Lice Treatment for Adults and Kids 4FL Oz",
+        "rating": 4.6,
+        "reviews": 406
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3760941:3762591:3763051",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3774301",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins, Minerals & Supplements > Minerals > Chromium",
+  "categoryPathCn": "健康与家居 > 身、泳和附剂 > 出国 > 铬",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 95,
+    "totalRevenue": 1293966,
+    "avgRevenue": 13621,
+    "medianPrice": 17.72,
+    "priceBand": "$9.99 - $25.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0B1JSC2SF",
+      "title": "OLLY Metabolism Gummy Rings, Cellular Energy Supplement,* ACV - 30 Count",
+      "brand": "OLLY",
+      "price": 18.88,
+      "salesParent": 18858,
+      "revenue": 355284.72,
+      "rating": 4.3,
+      "reviews": 7898
+    },
+    {
+      "rank": 2,
+      "asin": "B09CBWWWDL",
+      "title": "OLLY Combat Cravings, Metabolism Support, 1000 mcg Chromium - 30 Count",
+      "brand": "OLLY",
+      "price": 17.72,
+      "salesParent": 4620,
+      "revenue": 69946.81,
+      "rating": 3.8,
+      "reviews": 8011
+    },
+    {
+      "rank": 3,
+      "asin": "B00172YQHI",
+      "title": "Pure Encapsulations Chromium (Picolinate) 500 mcg, 60 Capsules",
+      "brand": "Pure Encapsulations",
+      "price": 19.5,
+      "salesParent": 3531,
+      "revenue": 68854.5,
+      "rating": 4.6,
+      "reviews": 1913
+    },
+    {
+      "rank": 4,
+      "asin": "B000FGXNXA",
+      "title": "THORNE Chromium Picolinate, 500 mcg Highly Absorbable Chromium, 60 Capsules",
+      "brand": "THORNE",
+      "price": 20.0,
+      "salesParent": 3217,
+      "revenue": 63728.77,
+      "rating": 4.7,
+      "reviews": 1731
+    },
+    {
+      "rank": 5,
+      "asin": "B0GTWJX7C3",
+      "title": "Force Factor Ultra Berberine Maximum Strength, 1200mg Berberine HCl",
+      "brand": "Force Factor",
+      "price": 19.97,
+      "salesParent": 2222,
+      "revenue": 44373.34,
+      "rating": 4.6,
+      "reviews": 180
+    },
+    {
+      "rank": 6,
+      "asin": "B07CJ166BR",
+      "title": "Carlyle Chromium Picolinate Supplement | 1000mcg | 360 Tablets",
+      "brand": "Carlyle",
+      "price": 9.99,
+      "salesParent": 3480,
+      "revenue": 34765.2,
+      "rating": 4.5,
+      "reviews": 16281
+    },
+    {
+      "rank": 7,
+      "asin": "B01MXTYEGG",
+      "title": "Terry Naturally Sucontral D - Blood Sugar &amp; Carb Metabolism - 60 Count Pack of 2",
+      "brand": "Terry Naturally",
+      "price": 62.86,
+      "salesParent": 455,
+      "revenue": 31927.35,
+      "rating": 4.7,
+      "reviews": 362
+    },
+    {
+      "rank": 8,
+      "asin": "B0019LPNLK",
+      "title": "NOW Supplements, Chromium Picolinate 200 mcg, 250 Veg Caps",
+      "brand": "NOW Foods",
+      "price": 11.62,
+      "salesParent": 2835,
+      "revenue": 31752.0,
+      "rating": 4.7,
+      "reviews": 5076
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -24,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -24,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1293966,
+    "priorHeadRevenue": 1694133,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 95,
+      "newCount": 22,
+      "pct": 23,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 56,
+      "brandCount": 66,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.46,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0B1JSC2SF",
+        "title": "OLLY Metabolism Gummy Rings, Cellular Energy Supplement,* ACV - 30 Count",
+        "rating": 4.3,
+        "reviews": 7898
+      },
+      {
+        "rank": 2,
+        "asin": "B09CBWWWDL",
+        "title": "OLLY Combat Cravings, Metabolism Support, 1000 mcg Chromium - 30 Count",
+        "rating": 3.8,
+        "reviews": 8011
+      },
+      {
+        "rank": 3,
+        "asin": "B00172YQHI",
+        "title": "Pure Encapsulations Chromium (Picolinate) 500 mcg, 60 Capsules",
+        "rating": 4.6,
+        "reviews": 1913
+      },
+      {
+        "rank": 4,
+        "asin": "B000FGXNXA",
+        "title": "THORNE Chromium Picolinate, 500 mcg Highly Absorbable Chromium, 60 Capsules",
+        "rating": 4.7,
+        "reviews": 1731
+      },
+      {
+        "rank": 5,
+        "asin": "B0GTWJX7C3",
+        "title": "Force Factor Ultra Berberine Maximum Strength, 1200mg Berberine HCl",
+        "rating": 4.6,
+        "reviews": 180
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:23675621011:3774271:3774301",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

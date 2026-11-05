@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "7427872011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Games & Accessories > Casino Equipment > Blackjack Equipment",
+  "categoryPathCn": "玩具与游戏 > 游戏和配件 > 赌场设备 > 二十一点设备",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 44,
+    "totalRevenue": 45423,
+    "avgRevenue": 1032,
+    "medianPrice": 23.1,
+    "priceBand": "$16.24 - $44.37",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0BSNY9LRK",
+      "title": "Gamie Double Sided Felt Casino Mat, 36” x 72” for Blackjack &amp; Texas Hold’em Poker, 2-in-1 Texas Holdem Poker Mat &amp; Blackjack Mat, Professional Grade Poker Tabletop Mat with Instructions Booklet",
+      "brand": "Gamie",
+      "price": 29.99,
+      "salesParent": 288,
+      "revenue": 8694.72,
+      "rating": 4.4,
+      "reviews": 363
+    },
+    {
+      "rank": 2,
+      "asin": "B0F6V5C1SP",
+      "title": "5 in 1 Super Casino Game Set: Blackjack/Texas Hold'em/Roulette/Craps/Poker Kit, 10&quot; Wooden Roulette Wheel, Carrying Case with 360 Plastic Chips, 6 Deck Shuffler, 2 Double-Sided Rubber Mat And More",
+      "brand": "DigNew",
+      "price": 179.99,
+      "salesParent": 35,
+      "revenue": 6299.65,
+      "rating": 3.9,
+      "reviews": 14
+    },
+    {
+      "rank": 3,
+      "asin": "B0FKB1YJ7R",
+      "title": "2-in-1 Casino Night Poker Mat, 36&quot;x72&quot; Double-Sided Texas Hold'em",
+      "brand": "WaLiken",
+      "price": 32.99,
+      "salesParent": 134,
+      "revenue": 4420.66,
+      "rating": 4.3,
+      "reviews": 26
+    },
+    {
+      "rank": 4,
+      "asin": "B077XGWWNB",
+      "title": "Lingo Italian Playing Cards | Italian Heritage &amp; Language Learning Flashcards for Adults | 52 Phrases with Pronunciation | Fun Gift for Families &amp; Travelers",
+      "brand": "Lingo",
+      "price": 14.99,
+      "salesParent": 288,
+      "revenue": 4311.36,
+      "rating": 4.4,
+      "reviews": 336
+    },
+    {
+      "rank": 5,
+      "asin": "B0CGZHCPL5",
+      "title": "4 Deck Blackjack Shoe and Discard Tray, Clear Acrylic Card Dispenser Blackjack Dealing Shoe Card Dispenser for Playing Cards,Standard Size Poker Deck,Family Game Night",
+      "brand": "Akamino",
+      "price": 21.88,
+      "salesParent": 156,
+      "revenue": 3413.28,
+      "rating": 4.6,
+      "reviews": 74
+    },
+    {
+      "rank": 6,
+      "asin": "B0H3TQVDCZ",
+      "title": "Extguds Blackjack Table Game Set, 71&quot; x 35&quot; Casino Felt Layout Mat with Automatic Card Shuffler, Poker Chips, Cards, Dealer Tools and Complete Casino Night Accessories for Home Party Entertainment",
+      "brand": "Extguds",
+      "price": 79.99,
+      "salesParent": 40,
+      "revenue": 3199.6,
+      "rating": 5.0,
+      "reviews": 1
+    },
+    {
+      "rank": 7,
+      "asin": "B0DY7VKS1K",
+      "title": "Double Sided Poker Mat 36”x72”Blackjack Table Topper, Casino Felt Cover, Texas Hold'em Cloth, Blackjack &amp; Texas Hold'em Games Set for Playing Cards and Parties With 2 Decks of Cards and Instructions",
+      "brand": "Lunorvexia",
+      "price": 23.99,
+      "salesParent": 131,
+      "revenue": 3142.69,
+      "rating": 4.5,
+      "reviews": 83
+    },
+    {
+      "rank": 8,
+      "asin": "B0H2LYSKMF",
+      "title": "Extguds 10 Inch Roulette Set, 4 in 1 Tabletop Casino Game Set with Roulette Wheel, Blackjack, Poker and Dice Game Mats, Complete Party Game Kit with Chips, Playing Cards, Dice and Carrying Bag",
+      "brand": "Extguds",
+      "price": 56.99,
+      "salesParent": 43,
+      "revenue": 2497.44,
+      "rating": 4.2,
+      "reviews": 3
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 29,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 29,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 45423,
+    "priorHeadRevenue": 35176,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 44,
+      "newCount": 10,
+      "pct": 23,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 65,
+      "brandCount": 32,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.2,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0BSNY9LRK",
+        "title": "Gamie Double Sided Felt Casino Mat, 36” x 72” for Blackjack &amp; Texas Hold’em Poker, 2-in-1 Texas Holdem Poker Mat &amp; Blackjack Mat, Professional Grade Poker Tabletop Mat with Instructions Booklet",
+        "rating": 4.4,
+        "reviews": 363
+      },
+      {
+        "rank": 2,
+        "asin": "B0F6V5C1SP",
+        "title": "5 in 1 Super Casino Game Set: Blackjack/Texas Hold'em/Roulette/Craps/Poker Kit, 10&quot; Wooden Roulette Wheel, Carrying Case with 360 Plastic Chips, 6 Deck Shuffler, 2 Double-Sided Rubber Mat And More",
+        "rating": 3.9,
+        "reviews": 14
+      },
+      {
+        "rank": 3,
+        "asin": "B0FKB1YJ7R",
+        "title": "2-in-1 Casino Night Poker Mat, 36&quot;x72&quot; Double-Sided Texas Hold'em",
+        "rating": 4.3,
+        "reviews": 26
+      },
+      {
+        "rank": 4,
+        "asin": "B077XGWWNB",
+        "title": "Lingo Italian Playing Cards | Italian Heritage &amp; Language Learning Flashcards for Adults | 52 Phrases with Pronunciation | Fun Gift for Families &amp; Travelers",
+        "rating": 4.4,
+        "reviews": 336
+      },
+      {
+        "rank": 5,
+        "asin": "B0CGZHCPL5",
+        "title": "4 Deck Blackjack Shoe and Discard Tray, Clear Acrylic Card Dispenser Blackjack Dealing Shoe Card Dispenser for Playing Cards,Standard Size Poker Deck,Family Game Night",
+        "rating": 4.6,
+        "reviews": 74
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166220011:13291101:7427872011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

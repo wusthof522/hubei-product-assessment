@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3774551",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins, Minerals & Supplements > Antioxidants > Beta Carotenes",
+  "categoryPathCn": "健康与家居 > 身、泳和附剂 > 抗拒 > β-胡萝卜素",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 33,
+    "totalRevenue": 558316,
+    "avgRevenue": 16919,
+    "medianPrice": 21.27,
+    "priceBand": "$15.99 - $28.97",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0B61ZCLTT",
+      "title": "Fruits &amp; Veggies Supplement - Whole Food Natural Superfoods - with Beta Carotene - Soy Free- 90 Count (Pack of 2)",
+      "brand": "Superfood MD",
+      "price": 49.95,
+      "salesParent": 3283,
+      "revenue": 163985.86,
+      "rating": 4.3,
+      "reviews": 6576
+    },
+    {
+      "rank": 2,
+      "asin": "B0BMWNXYNM",
+      "title": "Superfood Fruit and Veggie Supplement - 360 Whole Super Fruit and Vegetable Supplements &amp; Vitamin with Beta-Carotene, Soy Free- 180 Count (Pack of 2)",
+      "brand": "Superfood MD",
+      "price": 69.95,
+      "salesParent": 1830,
+      "revenue": 128008.49,
+      "rating": 4.4,
+      "reviews": 3631
+    },
+    {
+      "rank": 3,
+      "asin": "B09QRNVJV3",
+      "title": "Simply Nature's Pledge Fruits &amp; Vegetables Supplement, 90 Count, 2-Pack",
+      "brand": "Simply Nature's Pledge",
+      "price": 49.95,
+      "salesParent": 2396,
+      "revenue": 122818.95,
+      "rating": 4.2,
+      "reviews": 10388
+    },
+    {
+      "rank": 4,
+      "asin": "B00024D862",
+      "title": "NOW Supplements, Beta Carotene 25,000 IU, 180 Softgels",
+      "brand": "NOW Foods",
+      "price": 21.9,
+      "salesParent": 1647,
+      "revenue": 35476.38,
+      "rating": 4.6,
+      "reviews": 2319
+    },
+    {
+      "rank": 5,
+      "asin": "B00068SB2K",
+      "title": "Swanson Beta-Carotene Vitamin A Supplement, Vision Support, 300 Softgels",
+      "brand": "Swanson",
+      "price": 20.09,
+      "salesParent": 1433,
+      "revenue": 28788.97,
+      "rating": 4.6,
+      "reviews": 3460
+    },
+    {
+      "rank": 6,
+      "asin": "B004R63IAW",
+      "title": "Puritan's Pride Beta Carotene Provitamin A 7,500mcg (25,000 IU)",
+      "brand": "Puritan's Pride",
+      "price": 5.21,
+      "salesParent": 3290,
+      "revenue": 17140.9,
+      "rating": 4.7,
+      "reviews": 3481
+    },
+    {
+      "rank": 7,
+      "asin": "B081BCHH9V",
+      "title": "Immune Support Supplement for Adults with Vitamin C and Zinc, 90 Capsules",
+      "brand": "BioSchwartz",
+      "price": 19.97,
+      "salesParent": 761,
+      "revenue": 15197.17,
+      "rating": 4.6,
+      "reviews": 6432
+    },
+    {
+      "rank": 8,
+      "asin": "B094NY8F4B",
+      "title": "Horbäach Beta Carotene Supplement | 25000 IU Softgels | 7,500 mcg",
+      "brand": "Horbäach",
+      "price": 18.99,
+      "salesParent": 520,
+      "revenue": 9874.8,
+      "rating": 4.7,
+      "reviews": 683
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 114,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 114,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 558316,
+    "priorHeadRevenue": 260574,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 33,
+      "newCount": 10,
+      "pct": 30,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 90,
+      "brandCount": 25,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.06,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0B61ZCLTT",
+        "title": "Fruits &amp; Veggies Supplement - Whole Food Natural Superfoods - with Beta Carotene - Soy Free- 90 Count (Pack of 2)",
+        "rating": 4.3,
+        "reviews": 6576
+      },
+      {
+        "rank": 2,
+        "asin": "B0BMWNXYNM",
+        "title": "Superfood Fruit and Veggie Supplement - 360 Whole Super Fruit and Vegetable Supplements &amp; Vitamin with Beta-Carotene, Soy Free- 180 Count (Pack of 2)",
+        "rating": 4.4,
+        "reviews": 3631
+      },
+      {
+        "rank": 3,
+        "asin": "B09QRNVJV3",
+        "title": "Simply Nature's Pledge Fruits &amp; Vegetables Supplement, 90 Count, 2-Pack",
+        "rating": 4.2,
+        "reviews": 10388
+      },
+      {
+        "rank": 4,
+        "asin": "B00024D862",
+        "title": "NOW Supplements, Beta Carotene 25,000 IU, 180 Softgels",
+        "rating": 4.6,
+        "reviews": 2319
+      },
+      {
+        "rank": 5,
+        "asin": "B00068SB2K",
+        "title": "Swanson Beta-Carotene Vitamin A Supplement, Vision Support, 300 Softgels",
+        "rating": 4.6,
+        "reviews": 3460
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:23675621011:3774521:3774551",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

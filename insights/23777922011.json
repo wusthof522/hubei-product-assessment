@@ -1,0 +1,180 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23777922011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins, Minerals & Supplements > Herbal Supplements > Mucuna Pruriens",
+  "categoryPathCn": "Health & Household > Vitamins, Minerals & Supplements > Herbal Supplements > Mucuna Pruriens",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "insufficient",
+  "marketSize": {
+    "sampleCount": 7,
+    "totalRevenue": 45758,
+    "avgRevenue": 6537,
+    "medianPrice": 22.48,
+    "priceBand": "$12.48 - $24.98",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B09KZV2P71",
+      "title": "Zazzee Extra Strength Mucuna Pruriens 8:1 Extract, 20% L-Dopa, 220 Capsules",
+      "brand": "Zazzee",
+      "price": 24.97,
+      "salesParent": 808,
+      "revenue": 20175.76,
+      "rating": 4.4,
+      "reviews": 665
+    },
+    {
+      "rank": 2,
+      "asin": "B0011Y3OGQ",
+      "title": "Himalaya USDA Organic Mucuna Pruriens Supplement, 600 mg, 60 Caplets",
+      "brand": "Himalaya",
+      "price": 19.99,
+      "salesParent": 745,
+      "revenue": 14892.55,
+      "rating": 4.5,
+      "reviews": 1088
+    },
+    {
+      "rank": 3,
+      "asin": "B0CJ9R6T6Q",
+      "title": "Sugar-Free Mucuna Pruriens Gummies (2g/serving) Strawberry Flavor, 60 Chews",
+      "brand": "Etta Vita",
+      "price": 24.99,
+      "salesParent": 412,
+      "revenue": 10510.12,
+      "rating": 4.1,
+      "reviews": 86
+    },
+    {
+      "rank": 4,
+      "asin": "B0GWKS3T6P",
+      "title": "SHI Dopamine Patches – 100 Count, 3+ Month Supply – Plant-Based, Vegan",
+      "brand": "SHI",
+      "price": 9.98,
+      "salesParent": 23,
+      "revenue": 179.86,
+      "rating": 3.2,
+      "reviews": 23
+    },
+    {
+      "rank": 5,
+      "asin": "B0HJHHCF5F",
+      "title": "Mucuna Pruriens Herbal - 250g",
+      "brand": "Generic",
+      "price": null,
+      "salesParent": 0,
+      "revenue": 0.0,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "rank": 6,
+      "asin": "B0HJHM6Z69",
+      "title": "Mucuna Pruriens - 200 g - Made in USA",
+      "brand": "Generic",
+      "price": null,
+      "salesParent": 0,
+      "revenue": 0.0,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "rank": 7,
+      "asin": "B0HJHLDWXH",
+      "title": "Mucuna Pruriens - 300 g - Made in USA",
+      "brand": "Generic",
+      "price": null,
+      "salesParent": 0,
+      "revenue": 0.0,
+      "rating": null,
+      "reviews": null
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": null,
+    "direction": "flat",
+    "comparable": null,
+    "rawYoyPct": -43,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 45758,
+    "priorHeadRevenue": 80735,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 7,
+      "newCount": 4,
+      "pct": 57,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 100,
+      "brandCount": 5,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.05,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B09KZV2P71",
+        "title": "Zazzee Extra Strength Mucuna Pruriens 8:1 Extract, 20% L-Dopa, 220 Capsules",
+        "rating": 4.4,
+        "reviews": 665
+      },
+      {
+        "rank": 2,
+        "asin": "B0011Y3OGQ",
+        "title": "Himalaya USDA Organic Mucuna Pruriens Supplement, 600 mg, 60 Caplets",
+        "rating": 4.5,
+        "reviews": 1088
+      },
+      {
+        "rank": 3,
+        "asin": "B0CJ9R6T6Q",
+        "title": "Sugar-Free Mucuna Pruriens Gummies (2g/serving) Strawberry Flavor, 60 Chews",
+        "rating": 4.1,
+        "reviews": 86
+      },
+      {
+        "rank": 4,
+        "asin": "B0GWKS3T6P",
+        "title": "SHI Dopamine Patches – 100 Count, 3+ Month Supply – Plant-Based, Vegan",
+        "rating": 3.2,
+        "reviews": 23
+      },
+      {
+        "rank": 5,
+        "asin": "B0HJHHCF5F",
+        "title": "Mucuna Pruriens Herbal - 250g",
+        "rating": null,
+        "reviews": null
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:23675621011:3764461:23777922011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

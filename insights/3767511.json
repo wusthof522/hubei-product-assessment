@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3767511",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Wellness & Relaxation > Massage Tools & Equipment > Massage Lotions",
+  "categoryPathCn": "健康与家居 > 保健生活用品 > 按摩工具和设备 > 按摩乳液",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 1548642,
+    "avgRevenue": 15486,
+    "medianPrice": 29.99,
+    "priceBand": "$21.71 - $49.34",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0006PQ6DY",
+      "title": "BIOTONE Advanced Therapy Massage Lotion, Hypoallergenic and Fragrance-Free, More Glide and Workability, Absorbs for a Non-Greasy Finish",
+      "brand": "BIOTONE",
+      "price": 65.75,
+      "salesParent": 2603,
+      "revenue": 171147.25,
+      "rating": 4.6,
+      "reviews": 3183
+    },
+    {
+      "rank": 2,
+      "asin": "B002U4Y7YY",
+      "title": "Vegan Massage Cream (1 Gallon) - Unscented, Water Dispersible, Nut Oil Free, Gluten Free and Contains Only Certified Organic Oils and Extracts.",
+      "brand": "Sacred Earth Botanicals",
+      "price": 94.95,
+      "salesParent": 1304,
+      "revenue": 123814.8,
+      "rating": 4.7,
+      "reviews": 1434
+    },
+    {
+      "rank": 3,
+      "asin": "B005GLOAFO",
+      "title": "Bon Vital Original Massage Lotion, 1 Gallon Pail, Non-Greasy, Dry Skin",
+      "brand": "Bon Vital'",
+      "price": 39.99,
+      "salesParent": 1907,
+      "revenue": 75936.74,
+      "rating": 4.6,
+      "reviews": 4004
+    },
+    {
+      "rank": 4,
+      "asin": "B001AML2CM",
+      "title": "BIOTONE Pure Touch Organics Massage Crème, True Organic Massage, Rich Texture, Silky Glide, Soothing Ingredients, Healing Botanicals - 1 Gallon",
+      "brand": "BIOTONE",
+      "price": 98.95,
+      "salesParent": 713,
+      "revenue": 70551.35,
+      "rating": 4.8,
+      "reviews": 895
+    },
+    {
+      "rank": 5,
+      "asin": "B0D5NZ8ZYC",
+      "title": "ArtNaturals Magnesium Oil Spray &amp; Body Lotion Set",
+      "brand": "Artnaturals",
+      "price": 24.95,
+      "salesParent": 2484,
+      "revenue": 57479.76,
+      "rating": 4.4,
+      "reviews": 1214
+    },
+    {
+      "rank": 6,
+      "asin": "B003676JZE",
+      "title": "Free-Up-Professional Massage Cream, Fragrance-Free, Great Glide, Lubricity, Tissue Perception, Perfect for Physical Therapy, Massage Versatile, Non-Greasy, 8 Oz Jar",
+      "brand": "Free-Up",
+      "price": 22.42,
+      "salesParent": 2471,
+      "revenue": 56536.48,
+      "rating": 4.6,
+      "reviews": 4652
+    },
+    {
+      "rank": 7,
+      "asin": "B00GYR9090",
+      "title": "Soothing Touch 304892-06-LE128 Unscented Jojoba Massage Lotion, Arnica Flower, Aloe Vera, Deeply Moisturizing, 1 Gallon",
+      "brand": "Soothing Touch",
+      "price": 36.0,
+      "salesParent": 1433,
+      "revenue": 51946.25,
+      "rating": 4.5,
+      "reviews": 1286
+    },
+    {
+      "rank": 8,
+      "asin": "B0D17YCX2V",
+      "title": "Essentially KateS Frankincense Massage Lotion 4 Fl Oz - Infused with Ceramid 1, 3 and 6II - Fight Stiffness in Knees, Elbows, Hips, Hands, Shoulders and Legs.",
+      "brand": "Essentially KateS",
+      "price": 9.99,
+      "salesParent": 4759,
+      "revenue": 47542.41,
+      "rating": 4.4,
+      "reviews": 2999
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -21,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -21,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1548642,
+    "priorHeadRevenue": 1968188,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 25,
+      "pct": 25,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 56,
+      "brandCount": 59,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.31,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0006PQ6DY",
+        "title": "BIOTONE Advanced Therapy Massage Lotion, Hypoallergenic and Fragrance-Free, More Glide and Workability, Absorbs for a Non-Greasy Finish",
+        "rating": 4.6,
+        "reviews": 3183
+      },
+      {
+        "rank": 2,
+        "asin": "B002U4Y7YY",
+        "title": "Vegan Massage Cream (1 Gallon) - Unscented, Water Dispersible, Nut Oil Free, Gluten Free and Contains Only Certified Organic Oils and Extracts.",
+        "rating": 4.7,
+        "reviews": 1434
+      },
+      {
+        "rank": 3,
+        "asin": "B005GLOAFO",
+        "title": "Bon Vital Original Massage Lotion, 1 Gallon Pail, Non-Greasy, Dry Skin",
+        "rating": 4.6,
+        "reviews": 4004
+      },
+      {
+        "rank": 4,
+        "asin": "B001AML2CM",
+        "title": "BIOTONE Pure Touch Organics Massage Crème, True Organic Massage, Rich Texture, Silky Glide, Soothing Ingredients, Healing Botanicals - 1 Gallon",
+        "rating": 4.8,
+        "reviews": 895
+      },
+      {
+        "rank": 5,
+        "asin": "B0D5NZ8ZYC",
+        "title": "ArtNaturals Magnesium Oil Spray &amp; Body Lotion Set",
+        "rating": 4.4,
+        "reviews": 1214
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:10079996011:10080000011:3767511",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

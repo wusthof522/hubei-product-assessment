@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "2327109011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Sports & Outdoor Play > Pools & Water Toys > Squirt Guns",
+  "categoryPathCn": "玩具 > 体育 > 游泳池 > 水枪",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 95,
+    "totalRevenue": 870425,
+    "avgRevenue": 9162,
+    "medianPrice": 21.99,
+    "priceBand": "$13.99 - $35.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B087CBLRQF",
+      "title": "GoSports Splash Tower Water Dunk Game - Water Soaking Dunk Tank for Kids &amp; Adults",
+      "brand": "GoSports",
+      "price": 199.99,
+      "salesParent": 210,
+      "revenue": 41139.0,
+      "rating": 4.5,
+      "reviews": 459
+    },
+    {
+      "rank": 2,
+      "asin": "B0GSH486LV",
+      "title": "SPYRA SpyraFour Electric Water Gun, Battery Powered Water Blaster, Blue",
+      "brand": "SPYRA",
+      "price": 168.49,
+      "salesParent": 225,
+      "revenue": 37215.0,
+      "rating": 3.6,
+      "reviews": 1272
+    },
+    {
+      "rank": 3,
+      "asin": "B0796JVBJ8",
+      "title": "6-Pack Water Blaster Set, Multicolor",
+      "brand": "MAX LIQUIDATOR",
+      "price": 21.1,
+      "salesParent": 1805,
+      "revenue": 34024.25,
+      "rating": 4.6,
+      "reviews": 10725
+    },
+    {
+      "rank": 4,
+      "asin": "B08QW8BZWS",
+      "title": "Premium Package 4 Combat Battlefield Inflatables, Compatible with Nerf, Laser tag, Water Gun for Boys Birthday Party Activities and Decoration",
+      "brand": "NINOSTAR",
+      "price": 59.9,
+      "salesParent": 509,
+      "revenue": 30489.1,
+      "rating": 4.3,
+      "reviews": 939
+    },
+    {
+      "rank": 5,
+      "asin": "B0GGRZ37VT",
+      "title": "4Pcs Electric Water Gun for Kids Adults, Water Guns Squirt Gun",
+      "brand": "KCCHZ",
+      "price": 29.99,
+      "salesParent": 659,
+      "revenue": 19763.41,
+      "rating": 4.1,
+      "reviews": 413
+    },
+    {
+      "rank": 6,
+      "asin": "B0GFCWJKFV",
+      "title": "Mini Water Gun for Kids Toddler: 2 Pack Water Guns Soaker Squirts Blasters with Trigger for Boys Girls Bath Toys - Ideal Pool Toys Summer Outdoor Beach Fighting Play",
+      "brand": "DUNEMEI",
+      "price": 7.99,
+      "salesParent": 1842,
+      "revenue": 18198.96,
+      "rating": 4.0,
+      "reviews": 457
+    },
+    {
+      "rank": 7,
+      "asin": "B0G2PK368C",
+      "title": "XSHOT Water Fast-Fill Medium Water Blaster (2 Pack) by ZURU, Watergun, 2 Pack X Shot Water Blaster (Fills with Water in just 1 Second!)",
+      "brand": "XSHOT",
+      "price": 19.99,
+      "salesParent": 880,
+      "revenue": 17776.0,
+      "rating": 4.5,
+      "reviews": 255
+    },
+    {
+      "rank": 8,
+      "asin": "B0GWVPFVJN",
+      "title": "Cool Small Manual Water Guns 2 Pack - Super Squirt Water Pistol Toys for Kids&amp;Aldult, Summer Outdoor Beach Pool Play, No Battery Needed, Aldult Boys Girls Gifts (Pink-MSG)",
+      "brand": "Hikewintoy",
+      "price": 9.98,
+      "salesParent": 1859,
+      "revenue": 17716.27,
+      "rating": 3.4,
+      "reviews": 243
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -16,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -16,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 870425,
+    "priorHeadRevenue": 1037064,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 95,
+      "newCount": 42,
+      "pct": 44,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 25,
+      "brandCount": 72,
+      "level": "分散",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.11,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B087CBLRQF",
+        "title": "GoSports Splash Tower Water Dunk Game - Water Soaking Dunk Tank for Kids &amp; Adults",
+        "rating": 4.5,
+        "reviews": 459
+      },
+      {
+        "rank": 2,
+        "asin": "B0GSH486LV",
+        "title": "SPYRA SpyraFour Electric Water Gun, Battery Powered Water Blaster, Blue",
+        "rating": 3.6,
+        "reviews": 1272
+      },
+      {
+        "rank": 3,
+        "asin": "B0796JVBJ8",
+        "title": "6-Pack Water Blaster Set, Multicolor",
+        "rating": 4.6,
+        "reviews": 10725
+      },
+      {
+        "rank": 4,
+        "asin": "B08QW8BZWS",
+        "title": "Premium Package 4 Combat Battlefield Inflatables, Compatible with Nerf, Laser tag, Water Gun for Boys Birthday Party Activities and Decoration",
+        "rating": 4.3,
+        "reviews": 939
+      },
+      {
+        "rank": 5,
+        "asin": "B0GGRZ37VT",
+        "title": "4Pcs Electric Water Gun for Kids Adults, Water Guns Squirt Gun",
+        "rating": 4.1,
+        "reviews": 413
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166420011:166437011:2327109011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

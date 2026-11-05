@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "695338011",
+  "level": "L2",
+  "categoryPathEn": "Baby Products > Nursery",
+  "categoryPathCn": "婴儿产品 > 苗圃",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 93,
+    "totalRevenue": 42145167,
+    "avgRevenue": 453174,
+    "medianPrice": 75.98,
+    "priceBand": "$34.97 - $194.94",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0F7C6XJ3P",
+      "title": "Hatch Baby Sound Machine &amp; Night Light Routine Builder (Putty)",
+      "brand": "Hatch Baby",
+      "price": 79.99,
+      "salesParent": 32351,
+      "revenue": 2571904.5,
+      "rating": 4.7,
+      "reviews": 36604
+    },
+    {
+      "rank": 2,
+      "asin": "B0081GJ038",
+      "title": "Love to Dream Swaddle Up, S, 3.5–6 kg, Grey, 1.0 Tog",
+      "brand": "Love to Dream",
+      "price": 34.95,
+      "salesParent": 61758,
+      "revenue": 2158442.25,
+      "rating": 4.6,
+      "reviews": 30641
+    },
+    {
+      "rank": 3,
+      "asin": "B010S7VZI0",
+      "title": "Graco Premium Foam Baby Crib &amp; Toddler Bed Mattress",
+      "brand": "Graco",
+      "price": 99.97,
+      "salesParent": 12780,
+      "revenue": 1277616.62,
+      "rating": 4.8,
+      "reviews": 51345
+    },
+    {
+      "rank": 4,
+      "asin": "B001D7E0YQ",
+      "title": "HALO SleepSack Swaddle | Cotton | 1.5 TOG | 68-75°F | 6-12 lbs |Baby Blue",
+      "brand": "HALO",
+      "price": 34.95,
+      "salesParent": 33374,
+      "revenue": 1166421.38,
+      "rating": 4.6,
+      "reviews": 25040
+    },
+    {
+      "rank": 5,
+      "asin": "B0GHRFCH1Y",
+      "title": "GROWNSY 5-in-1 Baby Bassinet Bedside Sleeper with Gentle Manual Rocking",
+      "brand": "GROWNSY",
+      "price": 209.99,
+      "salesParent": 5387,
+      "revenue": 1123674.25,
+      "rating": 4.6,
+      "reviews": 159
+    },
+    {
+      "rank": 6,
+      "asin": "B07DM86Z43",
+      "title": "Baby Einstein Sea Dreams Soother Musical Crib Toy and Sound Machine, Newborn and up",
+      "brand": "Baby Einstein",
+      "price": 34.92,
+      "salesParent": 26870,
+      "revenue": 938300.38,
+      "rating": 4.6,
+      "reviews": 25218
+    },
+    {
+      "rank": 7,
+      "asin": "B09JGJ5ND6",
+      "title": "Night Light for Kids, 7 Colors Changing Egg Light for Nursery",
+      "brand": "MediAcous",
+      "price": 24.99,
+      "salesParent": 39020,
+      "revenue": 929846.62,
+      "rating": 4.5,
+      "reviews": 4732
+    },
+    {
+      "rank": 8,
+      "asin": "B00WR958TA",
+      "title": "Newton Baby Crib Mattress &amp; Toddler Bed, Breathable &amp; Washable - White",
+      "brand": "Newton Baby",
+      "price": 299.99,
+      "salesParent": 3098,
+      "revenue": 929369.0,
+      "rating": 4.9,
+      "reviews": 4244
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -26,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -26,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 42145167,
+    "priorHeadRevenue": 57334571,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 93,
+      "newCount": 23,
+      "pct": 25,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 34,
+      "brandCount": 62,
+      "level": "分散",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.6,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0F7C6XJ3P",
+        "title": "Hatch Baby Sound Machine &amp; Night Light Routine Builder (Putty)",
+        "rating": 4.7,
+        "reviews": 36604
+      },
+      {
+        "rank": 2,
+        "asin": "B0081GJ038",
+        "title": "Love to Dream Swaddle Up, S, 3.5–6 kg, Grey, 1.0 Tog",
+        "rating": 4.6,
+        "reviews": 30641
+      },
+      {
+        "rank": 3,
+        "asin": "B010S7VZI0",
+        "title": "Graco Premium Foam Baby Crib &amp; Toddler Bed Mattress",
+        "rating": 4.8,
+        "reviews": 51345
+      },
+      {
+        "rank": 4,
+        "asin": "B001D7E0YQ",
+        "title": "HALO SleepSack Swaddle | Cotton | 1.5 TOG | 68-75°F | 6-12 lbs |Baby Blue",
+        "rating": 4.6,
+        "reviews": 25040
+      },
+      {
+        "rank": 5,
+        "asin": "B0GHRFCH1Y",
+        "title": "GROWNSY 5-in-1 Baby Bassinet Bedside Sleeper with Gentle Manual Rocking",
+        "rating": 4.6,
+        "reviews": 159
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165796011:695338011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

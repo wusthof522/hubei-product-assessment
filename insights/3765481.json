@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3765481",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins, Minerals & Supplements > Herbal Supplements > Dong Quai",
+  "categoryPathCn": "健康与家居 > 身、泳和附剂 > 草本补充 > 当归",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 41,
+    "totalRevenue": 355246,
+    "avgRevenue": 8665,
+    "medianPrice": 21.95,
+    "priceBand": "$15.72 - $29.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B089V9WXYL",
+      "title": "Menopause Supplements for Women w Black Cohosh for Hot Flashes - 60ct",
+      "brand": "Natures Craft",
+      "price": 17.99,
+      "salesParent": 5274,
+      "revenue": 94879.26,
+      "rating": 4.3,
+      "reviews": 9210
+    },
+    {
+      "rank": 2,
+      "asin": "B0D5JFRTHJ",
+      "title": "FLO PMS for Hormonal Breakouts, Bloating, Cramps, &amp; Mood – 30-Day Supply",
+      "brand": "O Positiv",
+      "price": 28.97,
+      "salesParent": 2779,
+      "revenue": 80507.63,
+      "rating": 4.5,
+      "reviews": 620
+    },
+    {
+      "rank": 3,
+      "asin": "B0D5JVK842",
+      "title": "FLO PMS Gummies for Breakouts, Bloating, Cramps, &amp; Mood – 30-Day Supply",
+      "brand": "O Positiv",
+      "price": 28.97,
+      "salesParent": 2492,
+      "revenue": 72193.24,
+      "rating": 4.4,
+      "reviews": 702
+    },
+    {
+      "rank": 4,
+      "asin": "B0C616WGW5",
+      "title": "NEW AGE Pro Optimize Probiotics for Women, Menopause, 70 Billion CFU, Digestive Health, Bloating, Hot Flashes, Joint Support, Night Sweats, Gut Health &amp; Metabolism, Dong Quai (120 (Pack of 2))",
+      "brand": "NEW AGE",
+      "price": 49.95,
+      "salesParent": 820,
+      "revenue": 40959.0,
+      "rating": 4.2,
+      "reviews": 956
+    },
+    {
+      "rank": 5,
+      "asin": "B075H5W8VZ",
+      "title": "Rejuvica Health Balanced Femme - Advanced Female Balance Support Supplement - Liquid Delivery for Better Absorption - Vitex, Dong Quai, Black Cohosh, Maca &amp; More!",
+      "brand": "Rejuvica Health",
+      "price": 34.0,
+      "salesParent": 279,
+      "revenue": 9486.0,
+      "rating": 4.0,
+      "reviews": 6307
+    },
+    {
+      "rank": 6,
+      "asin": "B071JPSW8Q",
+      "title": "Nutricost Dong Quai 565mg, 240 Capsules (Angelica Sinensis) Gluten-Free",
+      "brand": "Nutricost",
+      "price": 15.95,
+      "salesParent": 308,
+      "revenue": 4912.6,
+      "rating": 4.5,
+      "reviews": 1389
+    },
+    {
+      "rank": 7,
+      "asin": "B0BHZTTNRF",
+      "title": "Nutricost Chasteberry Extract for Women 120 Capsules for 120 Servings",
+      "brand": "Nutricost",
+      "price": 16.95,
+      "salesParent": 272,
+      "revenue": 4610.4,
+      "rating": 4.5,
+      "reviews": 230
+    },
+    {
+      "rank": 8,
+      "asin": "B0D963KGLJ",
+      "title": "Womens Menopause Gummies with Dong Quai - Menopause Vitamins for Women with Ashwagandha - Holistic Support for Hot Flashes Night Sweats and Mood Swings - Pre &amp; Post Supplements - 60 Count",
+      "brand": "Natures Craft",
+      "price": 9.99,
+      "salesParent": 425,
+      "revenue": 4245.75,
+      "rating": 4.0,
+      "reviews": 207
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -21,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -21,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 355246,
+    "priorHeadRevenue": 450849,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 41,
+      "newCount": 6,
+      "pct": 15,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 90,
+      "brandCount": 32,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.3,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B089V9WXYL",
+        "title": "Menopause Supplements for Women w Black Cohosh for Hot Flashes - 60ct",
+        "rating": 4.3,
+        "reviews": 9210
+      },
+      {
+        "rank": 2,
+        "asin": "B0D5JFRTHJ",
+        "title": "FLO PMS for Hormonal Breakouts, Bloating, Cramps, &amp; Mood – 30-Day Supply",
+        "rating": 4.5,
+        "reviews": 620
+      },
+      {
+        "rank": 3,
+        "asin": "B0D5JVK842",
+        "title": "FLO PMS Gummies for Breakouts, Bloating, Cramps, &amp; Mood – 30-Day Supply",
+        "rating": 4.4,
+        "reviews": 702
+      },
+      {
+        "rank": 4,
+        "asin": "B0C616WGW5",
+        "title": "NEW AGE Pro Optimize Probiotics for Women, Menopause, 70 Billion CFU, Digestive Health, Bloating, Hot Flashes, Joint Support, Night Sweats, Gut Health &amp; Metabolism, Dong Quai (120 (Pack of 2))",
+        "rating": 4.2,
+        "reviews": 956
+      },
+      {
+        "rank": 5,
+        "asin": "B075H5W8VZ",
+        "title": "Rejuvica Health Balanced Femme - Advanced Female Balance Support Supplement - Liquid Delivery for Better Absorption - Vitex, Dong Quai, Black Cohosh, Maca &amp; More!",
+        "rating": 4.0,
+        "reviews": 6307
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:23675621011:3764461:3765481",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

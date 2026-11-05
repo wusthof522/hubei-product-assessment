@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "284507",
+  "level": "L2",
+  "categoryPathEn": "Home & Kitchen > Kitchen & Dining",
+  "categoryPathCn": "家居用品 > 厨房",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 97,
+    "totalRevenue": 266214246,
+    "avgRevenue": 2744477,
+    "medianPrice": 139.99,
+    "priceBand": "$69.97 - $249.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B00PIL9ZZC",
+      "title": "KitchenAid Artisan, 5-Qt Tilt Head Stand Mixer, KSM150PS, Almond Cream",
+      "brand": "KitchenAid",
+      "price": 494.0,
+      "salesParent": 14864,
+      "revenue": 7342816.0,
+      "rating": 4.7,
+      "reviews": 23356
+    },
+    {
+      "rank": 2,
+      "asin": "B00CH9QWOU",
+      "title": "Breville BES870XL Barista Express Espresso Machine, Brushed Stainless Steel",
+      "brand": "Breville",
+      "price": 689.99,
+      "salesParent": 11900,
+      "revenue": 7128219.0,
+      "rating": 4.4,
+      "reviews": 28011
+    },
+    {
+      "rank": 3,
+      "asin": "B0CQVW7GF8",
+      "title": "HydroJug Traveler 40oz, Insulated Water Bottle with Handle, Riptide",
+      "brand": "HydroJug",
+      "price": 55.0,
+      "salesParent": 101680,
+      "revenue": 5834398.5,
+      "rating": 4.6,
+      "reviews": 536
+    },
+    {
+      "rank": 4,
+      "asin": "B09QV24FFZ",
+      "title": "Ninja® CREAMi® 7-in-1 Ice Cream Maker, Ice Cream, Gelato &amp; more, NC299AMZ",
+      "brand": "Ninja",
+      "price": 197.99,
+      "salesParent": 26896,
+      "revenue": 5669677.0,
+      "rating": 4.5,
+      "reviews": 4330
+    },
+    {
+      "rank": 5,
+      "asin": "B09715G57M",
+      "title": "Keurig K-Express Single Serve K-Cup Pod Coffee Maker, Black",
+      "brand": "Keurig",
+      "price": 69.99,
+      "salesParent": 75833,
+      "revenue": 5455426.0,
+      "rating": 4.3,
+      "reviews": 52782
+    },
+    {
+      "rank": 6,
+      "asin": "B0BZYCJK89",
+      "title": "Owala FreeSip Stainless Steel Water Bottle 24 oz Denim",
+      "brand": "Owala",
+      "price": 29.98,
+      "salesParent": 175470,
+      "revenue": 5262345.5,
+      "rating": 4.6,
+      "reviews": 144781
+    },
+    {
+      "rank": 7,
+      "asin": "B0GT5SV7VD",
+      "title": "Ninja® PossibleCooker™ PRO Plus 9-in-1, 8.5-qt, Blue Macaron, MC2001",
+      "brand": "Ninja",
+      "price": 179.99,
+      "salesParent": 32335,
+      "revenue": 5041996.5,
+      "rating": 4.6,
+      "reviews": 6890
+    },
+    {
+      "rank": 8,
+      "asin": "B0GXC9M25C",
+      "title": "Ninja Professional Plus Kitchen System, 1400WP, Auto-iQ, Red, BN801RD1BRN",
+      "brand": "Ninja",
+      "price": 149.99,
+      "salesParent": 24141,
+      "revenue": 4927178.0,
+      "rating": 4.5,
+      "reviews": 65
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 13,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 13,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 266214246,
+    "priorHeadRevenue": 234786629,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 97,
+      "newCount": 24,
+      "pct": 25,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 49,
+      "brandCount": 37,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.52,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B00PIL9ZZC",
+        "title": "KitchenAid Artisan, 5-Qt Tilt Head Stand Mixer, KSM150PS, Almond Cream",
+        "rating": 4.7,
+        "reviews": 23356
+      },
+      {
+        "rank": 2,
+        "asin": "B00CH9QWOU",
+        "title": "Breville BES870XL Barista Express Espresso Machine, Brushed Stainless Steel",
+        "rating": 4.4,
+        "reviews": 28011
+      },
+      {
+        "rank": 3,
+        "asin": "B0CQVW7GF8",
+        "title": "HydroJug Traveler 40oz, Insulated Water Bottle with Handle, Riptide",
+        "rating": 4.6,
+        "reviews": 536
+      },
+      {
+        "rank": 4,
+        "asin": "B09QV24FFZ",
+        "title": "Ninja® CREAMi® 7-in-1 Ice Cream Maker, Ice Cream, Gelato &amp; more, NC299AMZ",
+        "rating": 4.5,
+        "reviews": 4330
+      },
+      {
+        "rank": 5,
+        "asin": "B09715G57M",
+        "title": "Keurig K-Express Single Serve K-Cup Pod Coffee Maker, Black",
+        "rating": 4.3,
+        "reviews": 52782
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "1055398:284507",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

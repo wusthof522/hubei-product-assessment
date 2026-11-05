@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "723456011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Stationery & Gift Wrapping Supplies > Gift Wrapping Supplies > Gift Wrap Cellophane",
+  "categoryPathCn": "健康与家居 > 文具和礼品包装用品 > 办公礼品包装 > 玻璃纸、透明纸",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 577443,
+    "avgRevenue": 5833,
+    "medianPrice": 11.95,
+    "priceBand": "$8.99 - $15.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0D454LP31",
+      "title": "woric Iridescent Cellophane Wrap Roll 82 Ft x 17 In Clear Wrapping Paper",
+      "brand": "woric",
+      "price": 9.99,
+      "salesParent": 5459,
+      "revenue": 55299.67,
+      "rating": 4.6,
+      "reviews": 702
+    },
+    {
+      "rank": 2,
+      "asin": "B0CRTMKWH4",
+      "title": "DTmasao 4x6 Inches 100 Pcs Clear Self Sealing Cellophane Bags Cookie Bags Resealable Cellophane Bag for Packaging Cookies,Gifts,Favors, Products,Candy",
+      "brand": "DTmasao",
+      "price": 3.99,
+      "salesParent": 11808,
+      "revenue": 47113.92,
+      "rating": 4.8,
+      "reviews": 2013
+    },
+    {
+      "rank": 3,
+      "asin": "B07VGM92JD",
+      "title": "Clear Cellophane Wrap Roll 31.5 in x 110 ft - Gift Basket Wrap Cellophane",
+      "brand": "FIESTA WRAPS",
+      "price": 19.99,
+      "salesParent": 2280,
+      "revenue": 45577.2,
+      "rating": 4.6,
+      "reviews": 5276
+    },
+    {
+      "rank": 4,
+      "asin": "B08PCY9MJ4",
+      "title": "Morepack Purple Cellophane Wrap Roll 16 Inches Width x 100 Ft Long",
+      "brand": "Morepack",
+      "price": 9.99,
+      "salesParent": 2921,
+      "revenue": 29180.79,
+      "rating": 4.6,
+      "reviews": 2245
+    },
+    {
+      "rank": 5,
+      "asin": "B0CFVZ7XQW",
+      "title": "PerkHomy Clear Cellophane Wrap Roll 16&quot; 3 Mil Thick Cellophane For Gift Basket Treats Goodie Wrapping Craft Flower Bouquet Plastic (Clear, 100ft (16in Width))",
+      "brand": "PH PERKHOMY",
+      "price": 7.99,
+      "salesParent": 3631,
+      "revenue": 29011.69,
+      "rating": 4.6,
+      "reviews": 1738
+    },
+    {
+      "rank": 6,
+      "asin": "B0CFKN91LH",
+      "title": "8 Colors -Halloween Colored Cellophane Wrap for Gift Baskets &amp; DIY Craft - Christmas Colored Cello Decoration-(17” x 10ftx 8Rolls)",
+      "brand": "shareluck",
+      "price": 15.99,
+      "salesParent": 1359,
+      "revenue": 21730.41,
+      "rating": 4.5,
+      "reviews": 561
+    },
+    {
+      "rank": 7,
+      "asin": "B08NX39D4Y",
+      "title": "Morepack 7.5x7.5 Inch Colored Cellophane Sheets 120 Pcs",
+      "brand": "Morepack",
+      "price": 6.99,
+      "salesParent": 3288,
+      "revenue": 20977.44,
+      "rating": 4.6,
+      "reviews": 2378
+    },
+    {
+      "rank": 8,
+      "asin": "B0B1CVV66M",
+      "title": "JOYIT Red Cellophane Wrap Roll (100’ Ft. Long X 17.5” in. Wide)",
+      "brand": "JOYIT",
+      "price": 11.99,
+      "salesParent": 2038,
+      "revenue": 20848.74,
+      "rating": 4.5,
+      "reviews": 818
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 1,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 1,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 577443,
+    "priorHeadRevenue": 573927,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 26,
+      "pct": 26,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 46,
+      "brandCount": 68,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.54,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0D454LP31",
+        "title": "woric Iridescent Cellophane Wrap Roll 82 Ft x 17 In Clear Wrapping Paper",
+        "rating": 4.6,
+        "reviews": 702
+      },
+      {
+        "rank": 2,
+        "asin": "B0CRTMKWH4",
+        "title": "DTmasao 4x6 Inches 100 Pcs Clear Self Sealing Cellophane Bags Cookie Bags Resealable Cellophane Bag for Packaging Cookies,Gifts,Favors, Products,Candy",
+        "rating": 4.8,
+        "reviews": 2013
+      },
+      {
+        "rank": 3,
+        "asin": "B07VGM92JD",
+        "title": "Clear Cellophane Wrap Roll 31.5 in x 110 ft - Gift Basket Wrap Cellophane",
+        "rating": 4.6,
+        "reviews": 5276
+      },
+      {
+        "rank": 4,
+        "asin": "B08PCY9MJ4",
+        "title": "Morepack Purple Cellophane Wrap Roll 16 Inches Width x 100 Ft Long",
+        "rating": 4.6,
+        "reviews": 2245
+      },
+      {
+        "rank": 5,
+        "asin": "B0CFVZ7XQW",
+        "title": "PerkHomy Clear Cellophane Wrap Roll 16&quot; 3 Mil Thick Cellophane For Gift Basket Treats Goodie Wrapping Craft Flower Bouquet Plastic (Clear, 100ft (16in Width))",
+        "rating": 4.6,
+        "reviews": 1738
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:723418011:723452011:723456011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "16225031",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Baby & Child Care > Health Care > Children's Vitamins",
+  "categoryPathCn": "健康与家居 > 婴儿和儿童护理 > 健康护理 > 婴幼儿营养品",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 13308896,
+    "avgRevenue": 133089,
+    "medianPrice": 24.99,
+    "priceBand": "$18.16 - $30.41",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0DCZYSJKT",
+      "title": "SmartyPants Kids Multi &amp; Omegas Gummies for Kids Ages 4+, 60 Count",
+      "brand": "SmartyPants",
+      "price": 17.97,
+      "salesParent": 77502,
+      "revenue": 1402011.25,
+      "rating": 4.7,
+      "reviews": 2993
+    },
+    {
+      "rank": 2,
+      "asin": "B07WMX9N2D",
+      "title": "MARYRUTH'S Kids Multivitamin Gummies, Sugar Free, 2 Month Supply, Ages 4+",
+      "brand": "MARYRUTH'S",
+      "price": 22.95,
+      "salesParent": 49622,
+      "revenue": 1056452.38,
+      "rating": 4.6,
+      "reviews": 13827
+    },
+    {
+      "rank": 3,
+      "asin": "B0BHKVBC4R",
+      "title": "MARYRUTH'S Organic Toddler Multivitamin Drops with Iron, Vegan, 30 Servings",
+      "brand": "MARYRUTH'S",
+      "price": 22.95,
+      "salesParent": 38177,
+      "revenue": 850583.56,
+      "rating": 4.6,
+      "reviews": 2368
+    },
+    {
+      "rank": 4,
+      "asin": "B0BN6VQ2CQ",
+      "title": "MaryRuth's Teen Multivitamin Gummies, Vegan, Sugar Free, Non-GMO, 60 Count",
+      "brand": "MARYRUTH'S",
+      "price": 24.95,
+      "salesParent": 33587,
+      "revenue": 837995.69,
+      "rating": 4.8,
+      "reviews": 1155
+    },
+    {
+      "rank": 5,
+      "asin": "B0BNW9NR2W",
+      "title": "MARYRUTH'S Toddler Multivitamin Gummies, Sugar-Free,2 Month Supply, Ages 2+",
+      "brand": "MARYRUTH'S",
+      "price": 24.95,
+      "salesParent": 32372,
+      "revenue": 807681.44,
+      "rating": 4.6,
+      "reviews": 674
+    },
+    {
+      "rank": 6,
+      "asin": "B07PB657SW",
+      "title": "Llama Naturals Kids Multivitamin Gummies | Real Fruit, No Added Sugar Cane | Organic Vegan Toddler Whole Food Vitamins | Vitamin D, C &amp; Beta Carotene Gummy Supplement | Strawberry 90 Ct (1-2 Months)",
+      "brand": "Llama Naturals",
+      "price": 29.99,
+      "salesParent": 18047,
+      "revenue": 541229.5,
+      "rating": 4.2,
+      "reviews": 4029
+    },
+    {
+      "rank": 7,
+      "asin": "B0BGMGWP14",
+      "title": "MARYRUTH'S USDA Organic Multivitamin Gummies, Ages 4+, Kids Vitamins, 60ct",
+      "brand": "MARYRUTH'S",
+      "price": 24.95,
+      "salesParent": 22040,
+      "revenue": 529841.62,
+      "rating": 4.8,
+      "reviews": 2257
+    },
+    {
+      "rank": 8,
+      "asin": "B0BGMK8WK8",
+      "title": "MARYRUTH'S USDA Organic Kids Multivitamin + Postbiotics Gummies, 60 Count",
+      "brand": "MARYRUTH'S",
+      "price": 24.95,
+      "salesParent": 17938,
+      "revenue": 447553.12,
+      "rating": 4.8,
+      "reviews": 1873
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 49,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 49,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 13308896,
+    "priorHeadRevenue": 8930346,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 24,
+      "pct": 24,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 76,
+      "brandCount": 47,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.5,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0DCZYSJKT",
+        "title": "SmartyPants Kids Multi &amp; Omegas Gummies for Kids Ages 4+, 60 Count",
+        "rating": 4.7,
+        "reviews": 2993
+      },
+      {
+        "rank": 2,
+        "asin": "B07WMX9N2D",
+        "title": "MARYRUTH'S Kids Multivitamin Gummies, Sugar Free, 2 Month Supply, Ages 4+",
+        "rating": 4.6,
+        "reviews": 13827
+      },
+      {
+        "rank": 3,
+        "asin": "B0BHKVBC4R",
+        "title": "MARYRUTH'S Organic Toddler Multivitamin Drops with Iron, Vegan, 30 Servings",
+        "rating": 4.6,
+        "reviews": 2368
+      },
+      {
+        "rank": 4,
+        "asin": "B0BN6VQ2CQ",
+        "title": "MaryRuth's Teen Multivitamin Gummies, Vegan, Sugar Free, Non-GMO, 60 Count",
+        "rating": 4.8,
+        "reviews": 1155
+      },
+      {
+        "rank": 5,
+        "asin": "B0BNW9NR2W",
+        "title": "MARYRUTH'S Toddler Multivitamin Gummies, Sugar-Free,2 Month Supply, Ages 2+",
+        "rating": 4.6,
+        "reviews": 674
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:10787321:16025501:16225031",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

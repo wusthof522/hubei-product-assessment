@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3774381",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins, Minerals & Supplements > Minerals > Iodine",
+  "categoryPathCn": "健康与家居 > 身、泳和附剂 > 出国 > 碘",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 1596160,
+    "avgRevenue": 16123,
+    "medianPrice": 19.95,
+    "priceBand": "$12.99 - $30.64",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B09BBL53SG",
+      "title": "Organic Lugol's Iodine Liquid Drops Supplement - 2% Thyroid Non-GMO 2 Oz",
+      "brand": "Earth Harmony Naturals",
+      "price": 19.95,
+      "salesParent": 12956,
+      "revenue": 258472.2,
+      "rating": 4.7,
+      "reviews": 5582
+    },
+    {
+      "rank": 2,
+      "asin": "B07NWNVN12",
+      "title": "J.CROW'S® Lugol's Solution of Iodine 2% 2 oz (1 Bottle) – Premium Iodine &amp; Potassium Iodide Liquid, Gluten &amp; Alcohol-Free Natural Brine Extract, No Expiration - 1200 Drops",
+      "brand": "J. CROW'S",
+      "price": 16.95,
+      "salesParent": 12833,
+      "revenue": 229197.39,
+      "rating": 4.6,
+      "reviews": 17782
+    },
+    {
+      "rank": 3,
+      "asin": "B07P4M7RHZ",
+      "title": "MaryRuth’s USDA Organic Iodine Liquid Drops for Adults, Unflavored, 1 oz",
+      "brand": "MARYRUTH'S",
+      "price": 21.95,
+      "salesParent": 4645,
+      "revenue": 101307.0,
+      "rating": 4.6,
+      "reviews": 14526
+    },
+    {
+      "rank": 4,
+      "asin": "B01N7JBQ4J",
+      "title": "Optimox Iodoral 50 mg Iodine Thyroid Support, 90 Count",
+      "brand": "Optimox",
+      "price": 104.19,
+      "salesParent": 851,
+      "revenue": 88665.7,
+      "rating": 4.5,
+      "reviews": 906
+    },
+    {
+      "rank": 5,
+      "asin": "B003PQRPA4",
+      "title": "Pure Encapsulations Iodine, 120 Capsules",
+      "brand": "Pure Encapsulations",
+      "price": 20.5,
+      "salesParent": 4287,
+      "revenue": 87883.5,
+      "rating": 4.7,
+      "reviews": 2891
+    },
+    {
+      "rank": 6,
+      "asin": "B01KYK675C",
+      "title": "Global Healing Center - Detoxadine - Organic Nascent Liquid Iodine Supplement Drops for Thyroid Support, Detox Cleanse, and Metabolism - Non-GMO, Vegan, 200 Servings Iodine Drops (1 Oz)",
+      "brand": "Global Healing Center",
+      "price": 29.95,
+      "salesParent": 2695,
+      "revenue": 80715.25,
+      "rating": 4.6,
+      "reviews": 5302
+    },
+    {
+      "rank": 7,
+      "asin": "B0CD92611L",
+      "title": "Dr. Berg Plant-Based Iodine from Icelandic Sea Kelp | Non-GMO | 90 Capsules",
+      "brand": "Dr. Berg Nutritionals",
+      "price": 33.99,
+      "salesParent": 2021,
+      "revenue": 68693.8,
+      "rating": 4.8,
+      "reviews": 698
+    },
+    {
+      "rank": 8,
+      "asin": "B0BGJR4HZN",
+      "title": "Organic Iodine Supplement from Sea Vegetable Complex, Whole Food &amp; Raw Form",
+      "brand": "Triquetra Health",
+      "price": 17.99,
+      "salesParent": 3141,
+      "revenue": 56506.59,
+      "rating": 4.7,
+      "reviews": 1998
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 2,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 2,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1596160,
+    "priorHeadRevenue": 1570823,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 11,
+      "pct": 11,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 48,
+      "brandCount": 81,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.57,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B09BBL53SG",
+        "title": "Organic Lugol's Iodine Liquid Drops Supplement - 2% Thyroid Non-GMO 2 Oz",
+        "rating": 4.7,
+        "reviews": 5582
+      },
+      {
+        "rank": 2,
+        "asin": "B07NWNVN12",
+        "title": "J.CROW'S® Lugol's Solution of Iodine 2% 2 oz (1 Bottle) – Premium Iodine &amp; Potassium Iodide Liquid, Gluten &amp; Alcohol-Free Natural Brine Extract, No Expiration - 1200 Drops",
+        "rating": 4.6,
+        "reviews": 17782
+      },
+      {
+        "rank": 3,
+        "asin": "B07P4M7RHZ",
+        "title": "MaryRuth’s USDA Organic Iodine Liquid Drops for Adults, Unflavored, 1 oz",
+        "rating": 4.6,
+        "reviews": 14526
+      },
+      {
+        "rank": 4,
+        "asin": "B01N7JBQ4J",
+        "title": "Optimox Iodoral 50 mg Iodine Thyroid Support, 90 Count",
+        "rating": 4.5,
+        "reviews": 906
+      },
+      {
+        "rank": 5,
+        "asin": "B003PQRPA4",
+        "title": "Pure Encapsulations Iodine, 120 Capsules",
+        "rating": 4.7,
+        "reviews": 2891
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:23675621011:3774271:3774381",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

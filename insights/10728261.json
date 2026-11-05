@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "10728261",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Oral Care > Oral Pain Relief > Medications",
+  "categoryPathCn": "Health & Household > Oral Care > Oral Pain Relief > Medications",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 92,
+    "totalRevenue": 1002743,
+    "avgRevenue": 10899,
+    "medianPrice": 13.71,
+    "priceBand": "$9.98 - $19.34",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B09G4X1KQL",
+      "title": "Orajel Mouth Sore Medicated Rinse for Oral Pain Relief, Mint, 16 Oz, 3-Pack",
+      "brand": "Orajel",
+      "price": 18.87,
+      "salesParent": 6528,
+      "revenue": 125664.0,
+      "rating": 4.7,
+      "reviews": 2276
+    },
+    {
+      "rank": 2,
+      "asin": "B0HCVRPZ42",
+      "title": "Evolvion GumRevive Periodontal Repair Gel, 2026 New Professional Teeth Restoration Gel, Alcohol &amp; Peroxide Free, Fresh Mint Flavor, Color Correcting, Natural Plant Extract, Gentle Oral Care (1 Pack)",
+      "brand": "ElodieAu",
+      "price": 23.98,
+      "salesParent": 3317,
+      "revenue": 79541.66,
+      "rating": 5.0,
+      "reviews": 2
+    },
+    {
+      "rank": 3,
+      "asin": "B0006GBEJ4",
+      "title": "Anbesol Maximum Strength Gel Oral Pain Reliever, 0.33 oz",
+      "brand": "Anbesol",
+      "price": 6.79,
+      "salesParent": 10419,
+      "revenue": 70640.82,
+      "rating": 4.6,
+      "reviews": 18482
+    },
+    {
+      "rank": 4,
+      "asin": "B0DM6M75NW",
+      "title": "Dentemp Canker Cover, Fast-Acting Canker Sore Pain Relief - 1pk (8ct)",
+      "brand": "Dentemp",
+      "price": 11.98,
+      "salesParent": 4491,
+      "revenue": 54790.2,
+      "rating": 4.0,
+      "reviews": 4194
+    },
+    {
+      "rank": 5,
+      "asin": "B0BRT5FGZ8",
+      "title": "Canker-X Mouth Sore Gel, Fast Pain Relief, Benzocaine-Free, 0.28 Fl Oz",
+      "brand": "Canker-X",
+      "price": 13.99,
+      "salesParent": 3422,
+      "revenue": 47873.78,
+      "rating": 4.3,
+      "reviews": 1691
+    },
+    {
+      "rank": 6,
+      "asin": "B0BQN9RNY5",
+      "title": "Anbesol Maximum Strength Liquid Oral Pain Reliever, 0.41 fl oz",
+      "brand": "Anbesol",
+      "price": 6.74,
+      "salesParent": 7098,
+      "revenue": 47840.52,
+      "rating": 4.7,
+      "reviews": 3836
+    },
+    {
+      "rank": 7,
+      "asin": "B000GGJD4M",
+      "title": "Kank-A Mouth Pain Gel, Fast-Acting Pain Relief with Soft Brush, 0.07 oz",
+      "brand": "Kank-A",
+      "price": 7.98,
+      "salesParent": 5580,
+      "revenue": 44528.4,
+      "rating": 4.7,
+      "reviews": 1513
+    },
+    {
+      "rank": 8,
+      "asin": "B0FKVBTYVK",
+      "title": "Boiron Camilia Bedtime Drops - 40 Count for Nighttime Teething Relief, Painful Gums, Restlessness, and Irritability - Sterile Liquid Doses",
+      "brand": "Boiron",
+      "price": 17.99,
+      "salesParent": 2438,
+      "revenue": 43859.62,
+      "rating": 4.8,
+      "reviews": 71
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 13,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 13,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1002743,
+    "priorHeadRevenue": 888184,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 92,
+      "newCount": 40,
+      "pct": 43,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 56,
+      "brandCount": 63,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.39,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B09G4X1KQL",
+        "title": "Orajel Mouth Sore Medicated Rinse for Oral Pain Relief, Mint, 16 Oz, 3-Pack",
+        "rating": 4.7,
+        "reviews": 2276
+      },
+      {
+        "rank": 2,
+        "asin": "B0HCVRPZ42",
+        "title": "Evolvion GumRevive Periodontal Repair Gel, 2026 New Professional Teeth Restoration Gel, Alcohol &amp; Peroxide Free, Fresh Mint Flavor, Color Correcting, Natural Plant Extract, Gentle Oral Care (1 Pack)",
+        "rating": 5.0,
+        "reviews": 2
+      },
+      {
+        "rank": 3,
+        "asin": "B0006GBEJ4",
+        "title": "Anbesol Maximum Strength Gel Oral Pain Reliever, 0.33 oz",
+        "rating": 4.6,
+        "reviews": 18482
+      },
+      {
+        "rank": 4,
+        "asin": "B0DM6M75NW",
+        "title": "Dentemp Canker Cover, Fast-Acting Canker Sore Pain Relief - 1pk (8ct)",
+        "rating": 4.0,
+        "reviews": 4194
+      },
+      {
+        "rank": 5,
+        "asin": "B0BRT5FGZ8",
+        "title": "Canker-X Mouth Sore Gel, Fast Pain Relief, Benzocaine-Free, 0.28 Fl Oz",
+        "rating": 4.3,
+        "reviews": 1691
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:10079992011:3764051:10728261",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

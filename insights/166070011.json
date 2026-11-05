@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "166070011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Arts & Crafts > Craft Kits > Paper Craft",
+  "categoryPathCn": "玩具 > 艺术 > 工艺品套装 > 折纸",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 97,
+    "totalRevenue": 2602065,
+    "avgRevenue": 26825,
+    "medianPrice": 18.88,
+    "priceBand": "$13.43 - $23.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0D9YKTCJC",
+      "title": "Skillmatics Foil Fun Disney Princess, Foil Art &amp; Craft Kit, Christmas Gift",
+      "brand": "Skillmatics",
+      "price": 24.97,
+      "salesParent": 17445,
+      "revenue": 436125.0,
+      "rating": 4.5,
+      "reviews": 421
+    },
+    {
+      "rank": 2,
+      "asin": "B08HMHWXWG",
+      "title": "ZMLM Scratch Paper Art-Crafts Gift: 2 Pack Rainbow Notebooks Supplies Toys",
+      "brand": "ZMLM",
+      "price": 9.99,
+      "salesParent": 9524,
+      "revenue": 95144.76,
+      "rating": 4.7,
+      "reviews": 11431
+    },
+    {
+      "rank": 3,
+      "asin": "B0DJK2H1QG",
+      "title": "Craftikit® 20 Award-Winning Princess &amp; Unicorn Crafts for Kids Ages 3-10 Years, All-Inclusive Toddler Arts and Craft Kits for Kids, Fun Toddler Craft Box for Girls in Preschool",
+      "brand": "Craftikit",
+      "price": 32.95,
+      "salesParent": 2786,
+      "revenue": 91603.68,
+      "rating": 4.7,
+      "reviews": 3011
+    },
+    {
+      "rank": 4,
+      "asin": "B09XBPLP2D",
+      "title": "Mumaloo Arts and Crafts Kit for Kids – 10 Projects Ages 4–8",
+      "brand": "Mumaloo",
+      "price": 29.99,
+      "salesParent": 2423,
+      "revenue": 72665.77,
+      "rating": 4.5,
+      "reviews": 1135
+    },
+    {
+      "rank": 5,
+      "asin": "B08BRT65LM",
+      "title": "Max Fun 332PCS Halloween Crafts for Kids Halloween Activities Foam Pumpkins",
+      "brand": "Max Fun",
+      "price": 22.99,
+      "salesParent": 3104,
+      "revenue": 56865.28,
+      "rating": 4.6,
+      "reviews": 509
+    },
+    {
+      "rank": 6,
+      "asin": "B0H9ZG5PHH",
+      "title": "48 PCS Halloween Scratch Art Crafts for Kids, Party Hanging Ornaments Kit",
+      "brand": "Tnavep",
+      "price": 13.97,
+      "salesParent": 4715,
+      "revenue": 53373.8,
+      "rating": 4.5,
+      "reviews": 36
+    },
+    {
+      "rank": 7,
+      "asin": "B00A3H81LK",
+      "title": "Creativity for Kids Paper Airplane Kit, Make 20 Airplanes",
+      "brand": "Creativity for Kids",
+      "price": 6.99,
+      "salesParent": 7240,
+      "revenue": 53286.4,
+      "rating": 4.4,
+      "reviews": 4604
+    },
+    {
+      "rank": 8,
+      "asin": "B0FCXR639C",
+      "title": "Halloween Crafts for Kids Foil Art No Mess Foil Craft Toy for Kids Ages 4 5 6 7 8 9 10, DIY Activity Kit with Spooky Ghosts, Pumpkins &amp; Bats,Halloween Party Favors Toys &amp; Games for Boys and Girls",
+      "brand": "ATFUNSHOP",
+      "price": 23.99,
+      "salesParent": 2365,
+      "revenue": 52432.05,
+      "rating": 4.5,
+      "reviews": 124
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -13,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -13,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 2602065,
+    "priorHeadRevenue": 3005808,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 97,
+      "newCount": 39,
+      "pct": 40,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 34,
+      "brandCount": 79,
+      "level": "分散",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.54,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0D9YKTCJC",
+        "title": "Skillmatics Foil Fun Disney Princess, Foil Art &amp; Craft Kit, Christmas Gift",
+        "rating": 4.5,
+        "reviews": 421
+      },
+      {
+        "rank": 2,
+        "asin": "B08HMHWXWG",
+        "title": "ZMLM Scratch Paper Art-Crafts Gift: 2 Pack Rainbow Notebooks Supplies Toys",
+        "rating": 4.7,
+        "reviews": 11431
+      },
+      {
+        "rank": 3,
+        "asin": "B0DJK2H1QG",
+        "title": "Craftikit® 20 Award-Winning Princess &amp; Unicorn Crafts for Kids Ages 3-10 Years, All-Inclusive Toddler Arts and Craft Kits for Kids, Fun Toddler Craft Box for Girls in Preschool",
+        "rating": 4.7,
+        "reviews": 3011
+      },
+      {
+        "rank": 4,
+        "asin": "B09XBPLP2D",
+        "title": "Mumaloo Arts and Crafts Kit for Kids – 10 Projects Ages 4–8",
+        "rating": 4.5,
+        "reviews": 1135
+      },
+      {
+        "rank": 5,
+        "asin": "B08BRT65LM",
+        "title": "Max Fun 332PCS Halloween Crafts for Kids Halloween Activities Foam Pumpkins",
+        "rating": 4.6,
+        "reviews": 509
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166057011:166064011:166070011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3763561",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Health Care > OTC Medications & Treatments > Pain Relievers",
+  "categoryPathCn": "健康与家居 > 卫生保健 > 非处方药和治疗 > 止痛药",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 51471350,
+    "avgRevenue": 519913,
+    "medianPrice": 23.49,
+    "priceBand": "$12.99 - $35.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B01HI7WP0U",
+      "title": "Tylenol Extra Strength Rapid Release Gels, 500 mg Acetaminophen, 100 Ct",
+      "brand": "Tylenol",
+      "price": 11.24,
+      "salesParent": 190594,
+      "revenue": 2121311.25,
+      "rating": 4.8,
+      "reviews": 96736
+    },
+    {
+      "rank": 2,
+      "asin": "B009P6632O",
+      "title": "OmegaXL Joint Support Supplement, 60 Count",
+      "brand": "OmegaXL",
+      "price": 54.95,
+      "salesParent": 33666,
+      "revenue": 1849946.75,
+      "rating": 4.2,
+      "reviews": 39757
+    },
+    {
+      "rank": 3,
+      "asin": "B0DH6B276M",
+      "title": "Amazon Basics Rapid Release Acetaminophen Caplets 500 mg, Extra Strength Pain Reliever and Fever Reducer, 400 Count (Pack of 4) (Previously Amazon Basic Care)",
+      "brand": "Amazon Basics",
+      "price": 84.0,
+      "salesParent": 16082,
+      "revenue": 1350888.0,
+      "rating": 4.4,
+      "reviews": 12485
+    },
+    {
+      "rank": 4,
+      "asin": "B0H6XXMF3P",
+      "title": "Heating Pad,Electric Heating Pad,Heating Pad for Back,Light Gray,24x12Inch",
+      "brand": "Deepsoon",
+      "price": 12.91,
+      "salesParent": 101585,
+      "revenue": 1300288.0,
+      "rating": 4.4,
+      "reviews": 20842
+    },
+    {
+      "rank": 5,
+      "asin": "B01J24FMIE",
+      "title": "Tylenol Extra Strength Caplets, 500 mg Acetaminophen, 100 Ct",
+      "brand": "Tylenol",
+      "price": 9.87,
+      "salesParent": 123997,
+      "revenue": 1223850.38,
+      "rating": 4.8,
+      "reviews": 62182
+    },
+    {
+      "rank": 6,
+      "asin": "B07CBLCFRF",
+      "title": "Preparation H Hemorrhoid Symptom Treatment Cream, 2 x 1.8 oz Tubes",
+      "brand": "Preparation H",
+      "price": 27.25,
+      "salesParent": 43988,
+      "revenue": 1199112.88,
+      "rating": 4.7,
+      "reviews": 4627
+    },
+    {
+      "rank": 7,
+      "asin": "B001LFFPT4",
+      "title": "Bayer Aspirin Low Dose 81 mg, Enteric Coated Tablets, Doctor Recommended, Secondary Prevention of Cardiovascular Disease, 300 Safety Coated Tablets",
+      "brand": "Bayer",
+      "price": 14.97,
+      "salesParent": 85142,
+      "revenue": 1172405.38,
+      "rating": 4.9,
+      "reviews": 41153
+    },
+    {
+      "rank": 8,
+      "asin": "B0G527P8HH",
+      "title": "Peak Health Research Magnesium Freeze Topical Magnesium Cream, 4 oz",
+      "brand": "OsteoShield",
+      "price": 49.99,
+      "salesParent": 23080,
+      "revenue": 1153769.25,
+      "rating": 4.0,
+      "reviews": 2013
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -1,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -1,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 51471350,
+    "priorHeadRevenue": 51794469,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 11,
+      "pct": 11,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 34,
+      "brandCount": 63,
+      "level": "分散",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.53,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B01HI7WP0U",
+        "title": "Tylenol Extra Strength Rapid Release Gels, 500 mg Acetaminophen, 100 Ct",
+        "rating": 4.8,
+        "reviews": 96736
+      },
+      {
+        "rank": 2,
+        "asin": "B009P6632O",
+        "title": "OmegaXL Joint Support Supplement, 60 Count",
+        "rating": 4.2,
+        "reviews": 39757
+      },
+      {
+        "rank": 3,
+        "asin": "B0DH6B276M",
+        "title": "Amazon Basics Rapid Release Acetaminophen Caplets 500 mg, Extra Strength Pain Reliever and Fever Reducer, 400 Count (Pack of 4) (Previously Amazon Basic Care)",
+        "rating": 4.4,
+        "reviews": 12485
+      },
+      {
+        "rank": 4,
+        "asin": "B0H6XXMF3P",
+        "title": "Heating Pad,Electric Heating Pad,Heating Pad for Back,Light Gray,24x12Inch",
+        "rating": 4.4,
+        "reviews": 20842
+      },
+      {
+        "rank": 5,
+        "asin": "B01J24FMIE",
+        "title": "Tylenol Extra Strength Caplets, 500 mg Acetaminophen, 100 Ct",
+        "rating": 4.8,
+        "reviews": 62182
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3760941:10079990011:3763561",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

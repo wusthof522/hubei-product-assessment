@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23566057011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Learning & Education > Electronic Learning Toys > Learning Systems",
+  "categoryPathCn": "Toys & Games > Learning & Education > Electronic Learning Toys > Learning Systems",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 4216856,
+    "avgRevenue": 42169,
+    "medianPrice": 34.86,
+    "priceBand": "$23.99 - $53.1",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B06XNQDR8J",
+      "title": "LeapFrog 2-in-1 LeapTop Touch",
+      "brand": "LeapFrog",
+      "price": 24.99,
+      "salesParent": 28673,
+      "revenue": 718258.62,
+      "rating": 4.7,
+      "reviews": 31142
+    },
+    {
+      "rank": 2,
+      "asin": "B0BRXPG99Q",
+      "title": "LeapFrog Mr Pencil's Scribble Write and Read, Green",
+      "brand": "LeapFrog",
+      "price": 24.99,
+      "salesParent": 13358,
+      "revenue": 341964.81,
+      "rating": 4.8,
+      "reviews": 3482
+    },
+    {
+      "rank": 3,
+      "asin": "B07PLG93NS",
+      "title": "LeapFrog LeapPad Academy Kids’ Learning Tablet, Green",
+      "brand": "LeapFrog",
+      "price": 99.99,
+      "salesParent": 3177,
+      "revenue": 325007.12,
+      "rating": 4.3,
+      "reviews": 6119
+    },
+    {
+      "rank": 4,
+      "asin": "B0F2DW5VQS",
+      "title": "alilo Math Games for Kids Ages 5-12, Portable Math Toys for Travel",
+      "brand": "alilo",
+      "price": 23.99,
+      "salesParent": 7687,
+      "revenue": 184411.12,
+      "rating": 4.5,
+      "reviews": 877
+    },
+    {
+      "rank": 5,
+      "asin": "B00FQSKGXC",
+      "title": "VTech Spin and Learn Color Flashlight, Pink",
+      "brand": "VTech",
+      "price": 16.5,
+      "salesParent": 7791,
+      "revenue": 132680.73,
+      "rating": 4.6,
+      "reviews": 22176
+    },
+    {
+      "rank": 6,
+      "asin": "B0FC2QN2W2",
+      "title": "VTech Genio Bilingual JuniorBook Learning Laptop for Kids",
+      "brand": "VTech",
+      "price": 43.78,
+      "salesParent": 2678,
+      "revenue": 115287.9,
+      "rating": 4.5,
+      "reviews": 195
+    },
+    {
+      "rank": 7,
+      "asin": "B0DWDZHX28",
+      "title": "JoyCat Kids Learning Tablet, 156-Page Talking Phonics Flash Cards",
+      "brand": "JoyCat",
+      "price": 26.99,
+      "salesParent": 2991,
+      "revenue": 82461.87,
+      "rating": 4.5,
+      "reviews": 572
+    },
+    {
+      "rank": 8,
+      "asin": "B08YFKKRY3",
+      "title": "Minecraft Kids Smart Watch – Touchscreen Interactive Watch with 10 Customizable Clock Faces, Built-in Camera, Video Recorder, Alarm, Calculator, Games &amp; Pedometer – Fits Wrists 5.5&quot; to 8&quot;",
+      "brand": "Accutime",
+      "price": 34.72,
+      "salesParent": 2387,
+      "revenue": 81993.45,
+      "rating": 4.4,
+      "reviews": 6620
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 33,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 33,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 4216856,
+    "priorHeadRevenue": 3171633,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 30,
+      "pct": 30,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 74,
+      "brandCount": 39,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.5,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B06XNQDR8J",
+        "title": "LeapFrog 2-in-1 LeapTop Touch",
+        "rating": 4.7,
+        "reviews": 31142
+      },
+      {
+        "rank": 2,
+        "asin": "B0BRXPG99Q",
+        "title": "LeapFrog Mr Pencil's Scribble Write and Read, Green",
+        "rating": 4.8,
+        "reviews": 3482
+      },
+      {
+        "rank": 3,
+        "asin": "B07PLG93NS",
+        "title": "LeapFrog LeapPad Academy Kids’ Learning Tablet, Green",
+        "rating": 4.3,
+        "reviews": 6119
+      },
+      {
+        "rank": 4,
+        "asin": "B0F2DW5VQS",
+        "title": "alilo Math Games for Kids Ages 5-12, Portable Math Toys for Travel",
+        "rating": 4.5,
+        "reviews": 877
+      },
+      {
+        "rank": 5,
+        "asin": "B00FQSKGXC",
+        "title": "VTech Spin and Learn Color Flashlight, Pink",
+        "rating": 4.6,
+        "reviews": 22176
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166269011:166177011:23566057011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

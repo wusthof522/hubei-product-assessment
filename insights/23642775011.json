@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23642775011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Toy Figures & Playsets > Play Figure Vehicles > Construction Vehicles",
+  "categoryPathCn": "玩具 > 玩具图 > 游戏人物车辆 > 工程车辆",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 86,
+    "totalRevenue": 355689,
+    "avgRevenue": 4136,
+    "medianPrice": 26.99,
+    "priceBand": "$15.99 - $36.17",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0FQJ4XXPL",
+      "title": "Dimoarch Magnetic Dinosaur Transforming Robot Toys for Boys",
+      "brand": "Dimoarch",
+      "price": 29.79,
+      "salesParent": 1798,
+      "revenue": 53562.42,
+      "rating": 4.3,
+      "reviews": 219
+    },
+    {
+      "rank": 2,
+      "asin": "B081R2G88S",
+      "title": "CAT Construction Toys, CAT Steel Construction Excavator - Heavy-Duty &amp; Durable - Ergonomic Handles 3+ Years - Dig &amp; Haul Dirt All Day Long!",
+      "brand": "CAT",
+      "price": 49.99,
+      "salesParent": 948,
+      "revenue": 47390.52,
+      "rating": 4.5,
+      "reviews": 2318
+    },
+    {
+      "rank": 3,
+      "asin": "B0FMX3D9DL",
+      "title": "Transform Toys for Boys 4-6 6-8, Magnetic Robot Toys 4 5 6 Year Old Boy",
+      "brand": "MEWOCHEE",
+      "price": 27.59,
+      "salesParent": 1224,
+      "revenue": 36218.16,
+      "rating": 4.3,
+      "reviews": 209
+    },
+    {
+      "rank": 4,
+      "asin": "B081QZX3BX",
+      "title": "Cat Construction Toys, Steel Dump Truck 16&quot; - Real Steel Body, Working Dump Bed, Oversize All-Terrain Wheels, Heavy-Duty Construction Vehicle for Indoor/Outdoor Play, Kids Ages 3 +",
+      "brand": "CAT",
+      "price": 24.97,
+      "salesParent": 685,
+      "revenue": 33832.15,
+      "rating": 4.8,
+      "reviews": 3314
+    },
+    {
+      "rank": 5,
+      "asin": "B0C4DPBM4L",
+      "title": "Build-A-Buddy John Deere Dump Truck Toy - Buildable Dump Truck Take Apart Toys with Toy Drill - AA Batteries Included - STEM Building Toys - Yellow - Construction Toys for Kids Ages 18 Months and Up",
+      "brand": "BUILD-A-BUDDY",
+      "price": 25.99,
+      "salesParent": 699,
+      "revenue": 18768.15,
+      "rating": 4.8,
+      "reviews": 469
+    },
+    {
+      "rank": 6,
+      "asin": "B0HFNSJX1G",
+      "title": "Magnetic Transforming Robot Toys for Boys, 6-in-1 Car Set",
+      "brand": "Yivsen",
+      "price": 35.99,
+      "salesParent": 427,
+      "revenue": 15367.73,
+      "rating": 4.6,
+      "reviews": 33
+    },
+    {
+      "rank": 7,
+      "asin": "B0GY389QSD",
+      "title": "Transforming Toys for Boys 4-6 6-8,Construction Toys for 3 4 5 Year Old Boy",
+      "brand": "Ozega",
+      "price": 29.99,
+      "salesParent": 497,
+      "revenue": 14333.48,
+      "rating": 4.5,
+      "reviews": 46
+    },
+    {
+      "rank": 8,
+      "asin": "B0FCFLLHH7",
+      "title": "iPlay, iLearn Kids Dinosaur Transform Robot Toy Magnetic Transforming Truck",
+      "brand": "iPlay, iLearn",
+      "price": 29.99,
+      "salesParent": 449,
+      "revenue": 13465.51,
+      "rating": 4.4,
+      "reviews": 212
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 32,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 32,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 355689,
+    "priorHeadRevenue": 269493,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 86,
+      "newCount": 42,
+      "pct": 49,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 67,
+      "brandCount": 58,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.41,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0FQJ4XXPL",
+        "title": "Dimoarch Magnetic Dinosaur Transforming Robot Toys for Boys",
+        "rating": 4.3,
+        "reviews": 219
+      },
+      {
+        "rank": 2,
+        "asin": "B081R2G88S",
+        "title": "CAT Construction Toys, CAT Steel Construction Excavator - Heavy-Duty &amp; Durable - Ergonomic Handles 3+ Years - Dig &amp; Haul Dirt All Day Long!",
+        "rating": 4.5,
+        "reviews": 2318
+      },
+      {
+        "rank": 3,
+        "asin": "B0FMX3D9DL",
+        "title": "Transform Toys for Boys 4-6 6-8, Magnetic Robot Toys 4 5 6 Year Old Boy",
+        "rating": 4.3,
+        "reviews": 209
+      },
+      {
+        "rank": 4,
+        "asin": "B081QZX3BX",
+        "title": "Cat Construction Toys, Steel Dump Truck 16&quot; - Real Steel Body, Working Dump Bed, Oversize All-Terrain Wheels, Heavy-Duty Construction Vehicle for Indoor/Outdoor Play, Kids Ages 3 +",
+        "rating": 4.8,
+        "reviews": 3314
+      },
+      {
+        "rank": 5,
+        "asin": "B0C4DPBM4L",
+        "title": "Build-A-Buddy John Deere Dump Truck Toy - Buildable Dump Truck Take Apart Toys with Toy Drill - AA Batteries Included - STEM Building Toys - Yellow - Construction Toys for Kids Ages 18 Months and Up",
+        "rating": 4.8,
+        "reviews": 469
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:165993011:274293011:23642775011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

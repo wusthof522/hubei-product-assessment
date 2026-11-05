@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3422351",
+  "level": "L2",
+  "categoryPathEn": "Sports & Outdoors > Sports Medicine",
+  "categoryPathCn": "运动与户外 > 运动药物",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 3268013,
+    "avgRevenue": 33010,
+    "medianPrice": 19.99,
+    "priceBand": "$15.29 - $24.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0FKC458FT",
+      "title": "Nxtrnd Two Pro Football Mouth Guard, Permanent Strap, Fits Adult &amp; Youth (Pink)",
+      "brand": "NXT NXTRND",
+      "price": 37.79,
+      "salesParent": 14124,
+      "revenue": 338128.56,
+      "rating": 4.8,
+      "reviews": 1052
+    },
+    {
+      "rank": 2,
+      "asin": "B01LZO6CDY",
+      "title": "SISU Aero Mouthguard - Medium, Snow White",
+      "brand": "SISU",
+      "price": 19.99,
+      "salesParent": 9724,
+      "revenue": 195549.64,
+      "rating": 4.4,
+      "reviews": 10891
+    },
+    {
+      "rank": 3,
+      "asin": "B0C5J8MVDD",
+      "title": "First Aid Kit 300PCS Car Home Camping Essentials Red 1st Aid",
+      "brand": "1st Aid",
+      "price": 14.99,
+      "salesParent": 10228,
+      "revenue": 165693.61,
+      "rating": 4.6,
+      "reviews": 2726
+    },
+    {
+      "rank": 4,
+      "asin": "B00F2U1CTQ",
+      "title": "Venum Challenger Mouthguard - Red/Black",
+      "brand": "Venum",
+      "price": 13.84,
+      "salesParent": 8791,
+      "revenue": 121667.44,
+      "rating": 4.4,
+      "reviews": 26368
+    },
+    {
+      "rank": 5,
+      "asin": "B0FKC4FJ7X",
+      "title": "Nxtrnd One Pro Football Mouth Guard, Interchangeable Strap, Fits Adult &amp; Youth (White)",
+      "brand": "NXT NXTRND",
+      "price": 22.95,
+      "salesParent": 4949,
+      "revenue": 113580.0,
+      "rating": 4.8,
+      "reviews": 210
+    },
+    {
+      "rank": 6,
+      "asin": "B09DNL3G9D",
+      "title": "BulletProof Sports Mouthguard: Worlds Thinnest Most Breathable Mouth Guard!",
+      "brand": "Bulletproof Mouthguards",
+      "price": 24.81,
+      "salesParent": 4510,
+      "revenue": 113246.1,
+      "rating": 3.8,
+      "reviews": 4246
+    },
+    {
+      "rank": 7,
+      "asin": "B00I1BDKPC",
+      "title": "Shock Doctor Adult &amp; Youth Gel Max Mouth Guard for Contact Sports",
+      "brand": "Shock Doctor",
+      "price": 11.5,
+      "salesParent": 8482,
+      "revenue": 101190.0,
+      "rating": 4.2,
+      "reviews": 11045
+    },
+    {
+      "rank": 8,
+      "asin": "B011KQBBGE",
+      "title": "Battle Oxygen Lip Protector Mouth Guard with Connected Strap, Football and Sports Gear, Maximum Oxygen Supply, Mouthpiece Fits With or Without Braces - One Size, Pink",
+      "brand": "Battle",
+      "price": 16.99,
+      "salesParent": 5259,
+      "revenue": 89350.41,
+      "rating": 4.7,
+      "reviews": 3603
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -2,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -2,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 3268013,
+    "priorHeadRevenue": 3348673,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 16,
+      "pct": 16,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 53,
+      "brandCount": 50,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.37,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0FKC458FT",
+        "title": "Nxtrnd Two Pro Football Mouth Guard, Permanent Strap, Fits Adult &amp; Youth (Pink)",
+        "rating": 4.8,
+        "reviews": 1052
+      },
+      {
+        "rank": 2,
+        "asin": "B01LZO6CDY",
+        "title": "SISU Aero Mouthguard - Medium, Snow White",
+        "rating": 4.4,
+        "reviews": 10891
+      },
+      {
+        "rank": 3,
+        "asin": "B0C5J8MVDD",
+        "title": "First Aid Kit 300PCS Car Home Camping Essentials Red 1st Aid",
+        "rating": 4.6,
+        "reviews": 2726
+      },
+      {
+        "rank": 4,
+        "asin": "B00F2U1CTQ",
+        "title": "Venum Challenger Mouthguard - Red/Black",
+        "rating": 4.4,
+        "reviews": 26368
+      },
+      {
+        "rank": 5,
+        "asin": "B0FKC4FJ7X",
+        "title": "Nxtrnd One Pro Football Mouth Guard, Interchangeable Strap, Fits Adult &amp; Youth (White)",
+        "rating": 4.8,
+        "reviews": 210
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3375251:3422351",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

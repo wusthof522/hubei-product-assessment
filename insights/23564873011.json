@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23564873011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Novelty & Gag Toys > Fidget Toys > Simple Dimple Fidget Toys",
+  "categoryPathCn": "Toys & Games > Novelty & Gag Toys > Fidget Toys > Simple Dimple Fidget Toys",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 465443,
+    "avgRevenue": 4701,
+    "medianPrice": 14.39,
+    "priceBand": "$9.99 - $19.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0F7LF3WCF",
+      "title": "3PC Fidget Popper Sensory Toys Airplane Travel Activities, Christmas Stocking Stuffer for Toddlers Pop It Fidget Toys for 12+ Month Babies 1+ 2 3 Year Old Girls Boys Easter Basket Stuffer Gift",
+      "brand": "Chilvil",
+      "price": 8.99,
+      "salesParent": 7352,
+      "revenue": 65432.8,
+      "rating": 4.6,
+      "reviews": 957
+    },
+    {
+      "rank": 2,
+      "asin": "B0FP4JF7YG",
+      "title": "550PCS Magnetic Fidget Toys for Adults and Teens, Sensory Toys with ADHD",
+      "brand": "WSEJK",
+      "price": 12.99,
+      "salesParent": 5612,
+      "revenue": 53875.2,
+      "rating": 4.2,
+      "reviews": 257
+    },
+    {
+      "rank": 3,
+      "asin": "B08HGZSXCG",
+      "title": "BUNMO Stretchy Strings - Stimulating &amp; Fun Fidget Toys for Kids - Hours of Fun - Non-Mouthable Toy 3+ - Super Sensory 6 Pack",
+      "brand": "BUNMO",
+      "price": 8.99,
+      "salesParent": 4480,
+      "revenue": 43187.2,
+      "rating": 4.6,
+      "reviews": 22863
+    },
+    {
+      "rank": 4,
+      "asin": "B0B5615DXF",
+      "title": "Fidget Slug Toy 3Pcs Autism Sensory Toys for Autistic Children Airplane Car Travel Essential Toys Slug Fidget Toys for Kid Adult Christmas Stocking Stuffers Gifts for Kids Toddlers Girls Boys",
+      "brand": "Cevioce",
+      "price": 11.99,
+      "salesParent": 2115,
+      "revenue": 25358.85,
+      "rating": 4.8,
+      "reviews": 2987
+    },
+    {
+      "rank": 5,
+      "asin": "B0H7CFRWF1",
+      "title": "Pushpeel Sensory Cylinder: Silicone Fidget Toy for Calming, Stress, Anxiety, ADHD &amp; Autism | Silent, No Mess, Stackable, Integrated Storage | Kids 3+ &amp; Adults | 20 Strings (Spruce)",
+      "brand": "Pushpeel",
+      "price": 26.99,
+      "salesParent": 910,
+      "revenue": 24560.9,
+      "rating": 4.8,
+      "reviews": 108
+    },
+    {
+      "rank": 6,
+      "asin": "B0DZ615ZST",
+      "title": "2Pcs Little Ouchies Fidget, Pain Stim Fidget Keychain, Spiky Fidget Toys",
+      "brand": "Deiviko",
+      "price": 9.99,
+      "salesParent": 2488,
+      "revenue": 24357.52,
+      "rating": 4.4,
+      "reviews": 1370
+    },
+    {
+      "rank": 7,
+      "asin": "B0FVL126JN",
+      "title": "SnapMorph3.0 Little Ouchies Fidget Toys - 3-in-1 Pain Stim Toy with Spinning &amp; Press Buttons for Anxiety Relief, Stress and Pain Relief Stimulation for Adults and Teens,2PCS Green+Colorful",
+      "brand": "SnapMorph",
+      "price": 9.99,
+      "salesParent": 1931,
+      "revenue": 19290.69,
+      "rating": 4.1,
+      "reviews": 278
+    },
+    {
+      "rank": 8,
+      "asin": "B0F8P826NH",
+      "title": "GemmiCho 3D Printed Animals, 6.1&quot; Articulated Otter Toy, 3D Printed Toys for Stress Relief, Animals Figurines Fidget Sea Otter Toys for Boys Kids Teen 5-7 4-6 8-12",
+      "brand": "GemmiCho",
+      "price": 9.99,
+      "salesParent": 1800,
+      "revenue": 17982.0,
+      "rating": 4.6,
+      "reviews": 317
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -16,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -16,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 465443,
+    "priorHeadRevenue": 552801,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 74,
+      "pct": 75,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 46,
+      "brandCount": 81,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.37,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0F7LF3WCF",
+        "title": "3PC Fidget Popper Sensory Toys Airplane Travel Activities, Christmas Stocking Stuffer for Toddlers Pop It Fidget Toys for 12+ Month Babies 1+ 2 3 Year Old Girls Boys Easter Basket Stuffer Gift",
+        "rating": 4.6,
+        "reviews": 957
+      },
+      {
+        "rank": 2,
+        "asin": "B0FP4JF7YG",
+        "title": "550PCS Magnetic Fidget Toys for Adults and Teens, Sensory Toys with ADHD",
+        "rating": 4.2,
+        "reviews": 257
+      },
+      {
+        "rank": 3,
+        "asin": "B08HGZSXCG",
+        "title": "BUNMO Stretchy Strings - Stimulating &amp; Fun Fidget Toys for Kids - Hours of Fun - Non-Mouthable Toy 3+ - Super Sensory 6 Pack",
+        "rating": 4.6,
+        "reviews": 22863
+      },
+      {
+        "rank": 4,
+        "asin": "B0B5615DXF",
+        "title": "Fidget Slug Toy 3Pcs Autism Sensory Toys for Autistic Children Airplane Car Travel Essential Toys Slug Fidget Toys for Kid Adult Christmas Stocking Stuffers Gifts for Kids Toddlers Girls Boys",
+        "rating": 4.8,
+        "reviews": 2987
+      },
+      {
+        "rank": 5,
+        "asin": "B0H7CFRWF1",
+        "title": "Pushpeel Sensory Cylinder: Silicone Fidget Toy for Calming, Stress, Anxiety, ADHD &amp; Autism | Silent, No Mess, Stackable, Integrated Storage | Kids 3+ &amp; Adults | 20 Strings (Spruce)",
+        "rating": 4.8,
+        "reviews": 108
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166027011:17238448011:23564873011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

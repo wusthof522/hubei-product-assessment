@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3774941",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins & Dietary Supplements > Weight Loss > Appetite Control & Suppressants",
+  "categoryPathCn": "健康与家居 > 暮和喜欢 > 减肥瘦身 > 食欲控制和抑制药",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 5379843,
+    "avgRevenue": 53798,
+    "medianPrice": 29.99,
+    "priceBand": "$23.46 - $43.57",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0DZY433ZW",
+      "title": "ColonBroom GLP1 for Weight Loss, GLP-1 Booster Supplement, Appetite Control",
+      "brand": "ColonBroom",
+      "price": 59.99,
+      "salesParent": 6673,
+      "revenue": 400313.28,
+      "rating": 3.5,
+      "reviews": 1437
+    },
+    {
+      "rank": 2,
+      "asin": "B07PN7FB1R",
+      "title": "Physician's CHOICE Probiotics for Weight Management &amp; Bloating, 30ct",
+      "brand": "Physician's CHOICE",
+      "price": 29.97,
+      "salesParent": 11801,
+      "revenue": 347303.44,
+      "rating": 4.1,
+      "reviews": 23207
+    },
+    {
+      "rank": 3,
+      "asin": "B0FT77GQCX",
+      "title": "URO Metabolism + Probiotic for Energy &amp; Gut with Chromium – 30-Day Supply",
+      "brand": "O Positiv",
+      "price": 28.97,
+      "salesParent": 11499,
+      "revenue": 333126.03,
+      "rating": 4.3,
+      "reviews": 1192
+    },
+    {
+      "rank": 4,
+      "asin": "B0GVM369J4",
+      "title": "FOODOLOGY Coleology Cut Probiotics for Bloating Relief 30 Capsules",
+      "brand": "FOODOLOGY",
+      "price": 30.0,
+      "salesParent": 10603,
+      "revenue": 309077.44,
+      "rating": 4.3,
+      "reviews": 241
+    },
+    {
+      "rank": 5,
+      "asin": "B0C158YCVK",
+      "title": "Lemme Burn Belly Fat Capsules for Metabolism Support, 30-Day Supply",
+      "brand": "Lemme",
+      "price": 39.99,
+      "salesParent": 6911,
+      "revenue": 276370.91,
+      "rating": 4.1,
+      "reviews": 4237
+    },
+    {
+      "rank": 6,
+      "asin": "B08ZY8MSMV",
+      "title": "BRAGG Apple Cider Vinegar Capsules - Daily Wellness Vitamin D &amp; Zinc - 90ct",
+      "brand": "BRAGG",
+      "price": 18.98,
+      "salesParent": 13372,
+      "revenue": 218498.48,
+      "rating": 4.6,
+      "reviews": 22921
+    },
+    {
+      "rank": 7,
+      "asin": "B0CL5BSBC6",
+      "title": "Veracity Metabolism Ignite - Support Supplement for Healthy Satiety - Plant-Based Polyphenol Formula - Non-GMO, Vegan - 60 Capsules (30 Servings)",
+      "brand": "VERACITY SELFCARE",
+      "price": 75.0,
+      "salesParent": 2045,
+      "revenue": 133783.89,
+      "rating": 3.9,
+      "reviews": 664
+    },
+    {
+      "rank": 8,
+      "asin": "B0GTGLX1BW",
+      "title": "UltraGut GLP-1 Booster Fiber Mix Drink, Raspberry Lemonade, 30 Servings",
+      "brand": "Loroc'e",
+      "price": 19.94,
+      "salesParent": 5215,
+      "revenue": 122083.15,
+      "rating": 4.5,
+      "reviews": 411
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -3,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -3,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 5379843,
+    "priorHeadRevenue": 5546783,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 52,
+      "pct": 52,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 33,
+      "brandCount": 79,
+      "level": "分散",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.08,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0DZY433ZW",
+        "title": "ColonBroom GLP1 for Weight Loss, GLP-1 Booster Supplement, Appetite Control",
+        "rating": 3.5,
+        "reviews": 1437
+      },
+      {
+        "rank": 2,
+        "asin": "B07PN7FB1R",
+        "title": "Physician's CHOICE Probiotics for Weight Management &amp; Bloating, 30ct",
+        "rating": 4.1,
+        "reviews": 23207
+      },
+      {
+        "rank": 3,
+        "asin": "B0FT77GQCX",
+        "title": "URO Metabolism + Probiotic for Energy &amp; Gut with Chromium – 30-Day Supply",
+        "rating": 4.3,
+        "reviews": 1192
+      },
+      {
+        "rank": 4,
+        "asin": "B0GVM369J4",
+        "title": "FOODOLOGY Coleology Cut Probiotics for Bloating Relief 30 Capsules",
+        "rating": 4.3,
+        "reviews": 241
+      },
+      {
+        "rank": 5,
+        "asin": "B0C158YCVK",
+        "title": "Lemme Burn Belly Fat Capsules for Metabolism Support, 30-Day Supply",
+        "rating": 4.1,
+        "reviews": 4237
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3764441:3774931:3774941",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

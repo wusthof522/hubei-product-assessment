@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "676732011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Arts & Crafts > Drawing & Painting Supplies > Pencils",
+  "categoryPathCn": "玩具 > 艺术 > 绘图 > 铅笔",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 98,
+    "totalRevenue": 404588,
+    "avgRevenue": 4128,
+    "medianPrice": 13.94,
+    "priceBand": "$9.99 - $16.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0HK2FFK42",
+      "title": "Halloween Smencil Grams – Marshmallow Scented HB #2 Pencils, 26 Ct, Made from Recycled Newspapers, with 26 Halloween Cards – Gifts for Kids &amp; School Supplies",
+      "brand": "Scentco",
+      "price": 16.99,
+      "salesParent": 2593,
+      "revenue": 41565.79,
+      "rating": 4.6,
+      "reviews": 40
+    },
+    {
+      "rank": 2,
+      "asin": "B00LLIK24Y",
+      "title": "Smencils - Patented Gourmet Scented Graphite HB #2 Pencils Made from Recycled Newspapers, 10 Count, Gifts for Kids, School Supplies",
+      "brand": "Scentco",
+      "price": 15.99,
+      "salesParent": 1741,
+      "revenue": 27838.59,
+      "rating": 4.8,
+      "reviews": 6327
+    },
+    {
+      "rank": 3,
+      "asin": "B0FM43SS47",
+      "title": "Stocking Stuffers for Kids Teens, Art Supplies,16 Rainbow Pencils for Kids",
+      "brand": "FUAOIS",
+      "price": 4.99,
+      "salesParent": 4590,
+      "revenue": 22904.1,
+      "rating": 4.7,
+      "reviews": 567
+    },
+    {
+      "rank": 4,
+      "asin": "B01E90Z8UI",
+      "title": "PenAgain 71 Twist 'N Write Pencil, Assorted Colors, 4 Count",
+      "brand": "PenAgain",
+      "price": 11.96,
+      "salesParent": 1743,
+      "revenue": 19033.56,
+      "rating": 4.5,
+      "reviews": 3139
+    },
+    {
+      "rank": 5,
+      "asin": "B00NLINL8Q",
+      "title": "Halloween Smencils - HB #2 Patented Gourmet Scented Pencils, 5 Count, Gifts for Kids, School Supplies, Classroom Rewards",
+      "brand": "Scentco",
+      "price": 8.99,
+      "salesParent": 2036,
+      "revenue": 18303.64,
+      "rating": 4.7,
+      "reviews": 8472
+    },
+    {
+      "rank": 6,
+      "asin": "B07TS6YKHG",
+      "title": "50Pcs Halloween Pencils Kids with Erasers for Halloween Gifts Party Favors",
+      "brand": "HINZER",
+      "price": 12.99,
+      "salesParent": 1044,
+      "revenue": 14355.0,
+      "rating": 4.7,
+      "reviews": 182
+    },
+    {
+      "rank": 7,
+      "asin": "B0CM5S1HZX",
+      "title": "ThEast Toddlers Colored Pencils, Christmas Stocking Stuffers for Kids",
+      "brand": "ThEast",
+      "price": 7.99,
+      "salesParent": 1596,
+      "revenue": 12752.04,
+      "rating": 4.7,
+      "reviews": 1437
+    },
+    {
+      "rank": 8,
+      "asin": "B0F9KNLFX7",
+      "title": "FilmHOO 12 Rainbow Colored Pencils,Stocking Stuffers for Kids 4-12 Year Old",
+      "brand": "FilmHOO",
+      "price": 4.99,
+      "salesParent": 2109,
+      "revenue": 10523.91,
+      "rating": 4.5,
+      "reviews": 393
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 14,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 14,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 404588,
+    "priorHeadRevenue": 356444,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 98,
+      "newCount": 39,
+      "pct": 40,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 45,
+      "brandCount": 66,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.53,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0HK2FFK42",
+        "title": "Halloween Smencil Grams – Marshmallow Scented HB #2 Pencils, 26 Ct, Made from Recycled Newspapers, with 26 Halloween Cards – Gifts for Kids &amp; School Supplies",
+        "rating": 4.6,
+        "reviews": 40
+      },
+      {
+        "rank": 2,
+        "asin": "B00LLIK24Y",
+        "title": "Smencils - Patented Gourmet Scented Graphite HB #2 Pencils Made from Recycled Newspapers, 10 Count, Gifts for Kids, School Supplies",
+        "rating": 4.8,
+        "reviews": 6327
+      },
+      {
+        "rank": 3,
+        "asin": "B0FM43SS47",
+        "title": "Stocking Stuffers for Kids Teens, Art Supplies,16 Rainbow Pencils for Kids",
+        "rating": 4.7,
+        "reviews": 567
+      },
+      {
+        "rank": 4,
+        "asin": "B01E90Z8UI",
+        "title": "PenAgain 71 Twist 'N Write Pencil, Assorted Colors, 4 Count",
+        "rating": 4.5,
+        "reviews": 3139
+      },
+      {
+        "rank": 5,
+        "asin": "B00NLINL8Q",
+        "title": "Halloween Smencils - HB #2 Patented Gourmet Scented Pencils, 5 Count, Gifts for Kids, School Supplies, Classroom Rewards",
+        "rating": 4.7,
+        "reviews": 8472
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166057011:2488275011:676732011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

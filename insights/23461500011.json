@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23461500011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Medical Supplies & Equipment > Medical Compression Garments > Stockings",
+  "categoryPathCn": "健康与家居 > 医疗用品和设备 > 医用压缩服 > 丝袜",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 95,
+    "totalRevenue": 2210160,
+    "avgRevenue": 23265,
+    "medianPrice": 24.49,
+    "priceBand": "$19.99 - $29.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B000A33H9I",
+      "title": "Truform 20-30 mmHg Compression Stockings for Men and Women, Thigh High Length, Dot-Top, Open Toe",
+      "brand": "Truform",
+      "price": 22.21,
+      "salesParent": 11101,
+      "revenue": 247885.33,
+      "rating": 4.2,
+      "reviews": 5077
+    },
+    {
+      "rank": 2,
+      "asin": "B002HYGUY2",
+      "title": "Truform 20-30 Mmhg Compression Stockings for Men &amp; Women, Thigh High Length, Dot Top, Closed Toe, Black, Large (20-30 Mmhg)",
+      "brand": "Truform",
+      "price": 28.1,
+      "salesParent": 8725,
+      "revenue": 245172.5,
+      "rating": 4.3,
+      "reviews": 4649
+    },
+    {
+      "rank": 3,
+      "asin": "B0BN75Z32T",
+      "title": "4 Pairs Compression Socks for Women &amp; Men -Best Support for Nurses,Flying,pregnancy,Athletic,Travel Medical Stockings",
+      "brand": "Iseasoo",
+      "price": 8.99,
+      "salesParent": 23284,
+      "revenue": 210254.52,
+      "rating": 4.5,
+      "reviews": 11658
+    },
+    {
+      "rank": 4,
+      "asin": "B0056IFZDI",
+      "title": "Truform Sheer Compression Stockings, 15-20 mmHg, Women's Knee High Length, 20 Denier, Nude, Medium",
+      "brand": "Truform",
+      "price": 14.99,
+      "salesParent": 7953,
+      "revenue": 118500.0,
+      "rating": 4.3,
+      "reviews": 10373
+    },
+    {
+      "rank": 5,
+      "asin": "B0CJT1PH2R",
+      "title": "Doc Miller Thigh High Open Toe Compression Stockings 15-20mmHg",
+      "brand": "Doc Miller",
+      "price": 24.95,
+      "salesParent": 3492,
+      "revenue": 87125.41,
+      "rating": 4.3,
+      "reviews": 419
+    },
+    {
+      "rank": 6,
+      "asin": "B000A33G6M",
+      "title": "Truform 20-30 mmHg Compression Stockings for Men and Women, Knee High Length, Closed Toe",
+      "brand": "Truform",
+      "price": 19.99,
+      "salesParent": 4081,
+      "revenue": 75212.83,
+      "rating": 4.2,
+      "reviews": 8159
+    },
+    {
+      "rank": 7,
+      "asin": "B0BKBW5NYP",
+      "title": "Doc Miller TED Hose Thigh High Anti Embolism Stockings for Women &amp; Men",
+      "brand": "Doc Miller",
+      "price": 14.99,
+      "salesParent": 4323,
+      "revenue": 64801.77,
+      "rating": 4.2,
+      "reviews": 341
+    },
+    {
+      "rank": 8,
+      "asin": "B00427N86U",
+      "title": "JOBST Relief 20-30 mmHg Thigh High Compression Stockings with Silicone Band, Closed Toe",
+      "brand": "JOBST",
+      "price": 55.13,
+      "salesParent": 979,
+      "revenue": 55754.05,
+      "rating": 4.3,
+      "reviews": 692
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 6,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 6,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 2210160,
+    "priorHeadRevenue": 2079641,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 95,
+      "newCount": 16,
+      "pct": 17,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 75,
+      "brandCount": 34,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.18,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B000A33H9I",
+        "title": "Truform 20-30 mmHg Compression Stockings for Men and Women, Thigh High Length, Dot-Top, Open Toe",
+        "rating": 4.2,
+        "reviews": 5077
+      },
+      {
+        "rank": 2,
+        "asin": "B002HYGUY2",
+        "title": "Truform 20-30 Mmhg Compression Stockings for Men &amp; Women, Thigh High Length, Dot Top, Closed Toe, Black, Large (20-30 Mmhg)",
+        "rating": 4.3,
+        "reviews": 4649
+      },
+      {
+        "rank": 3,
+        "asin": "B0BN75Z32T",
+        "title": "4 Pairs Compression Socks for Women &amp; Men -Best Support for Nurses,Flying,pregnancy,Athletic,Travel Medical Stockings",
+        "rating": 4.5,
+        "reviews": 11658
+      },
+      {
+        "rank": 4,
+        "asin": "B0056IFZDI",
+        "title": "Truform Sheer Compression Stockings, 15-20 mmHg, Women's Knee High Length, 20 Denier, Nude, Medium",
+        "rating": 4.3,
+        "reviews": 10373
+      },
+      {
+        "rank": 5,
+        "asin": "B0CJT1PH2R",
+        "title": "Doc Miller Thigh High Open Toe Compression Stockings 15-20mmHg",
+        "rating": 4.3,
+        "reviews": 419
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3775161:23461496011:23461500011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

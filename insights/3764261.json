@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3764261",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Medical Supplies & Equipment > Health Monitors > Thermometers",
+  "categoryPathCn": "健康与家居 > 医疗用品和设备 > 健康音响 > 体温计",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 97,
+    "totalRevenue": 4311152,
+    "avgRevenue": 44445,
+    "medianPrice": 13.44,
+    "priceBand": "$7.95 - $27.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0GVPY4J4B",
+      "title": "Braun ThermoScan 7+ Connect Ear Thermometer + Nasal Aspirator Bundle - Bluetooth App, Baby Thermometer for Fever, Infant Nose Cleaner with Filters &amp; 2 Tips",
+      "brand": "Braun",
+      "price": 76.39,
+      "salesParent": 10276,
+      "revenue": 784983.62,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "rank": 2,
+      "asin": "B00MUK6M82",
+      "title": "Braun ThermoScan 5 Digital Display Ear Thermometer",
+      "brand": "Braun",
+      "price": 42.44,
+      "salesParent": 10434,
+      "revenue": 449496.75,
+      "rating": 4.6,
+      "reviews": 15618
+    },
+    {
+      "rank": 3,
+      "asin": "B0CTCPQ6N9",
+      "title": "Non-Contact Forehead Thermometer for Adults and Kids, 1 Second Result",
+      "brand": "ANMEATE",
+      "price": 9.99,
+      "salesParent": 35960,
+      "revenue": 359240.41,
+      "rating": 4.5,
+      "reviews": 24273
+    },
+    {
+      "rank": 4,
+      "asin": "B08B8BDG42",
+      "title": "Boncare 10 Seconds Oral Thermometer for Adults and Kids, Light Blue",
+      "brand": "Boncare",
+      "price": 6.99,
+      "salesParent": 31434,
+      "revenue": 219723.66,
+      "rating": 4.3,
+      "reviews": 26734
+    },
+    {
+      "rank": 5,
+      "asin": "B0C82QD5BB",
+      "title": "Vicks SpeedRead Digital Thermometer for Baby, Kids &amp; Adults",
+      "brand": "Vicks",
+      "price": 9.89,
+      "salesParent": 18750,
+      "revenue": 188250.0,
+      "rating": 4.5,
+      "reviews": 3534
+    },
+    {
+      "rank": 6,
+      "asin": "B0823DXJS9",
+      "title": "Frida Digital Rectal Thermometer for Babies, Newborns &amp; Infants",
+      "brand": "Frida",
+      "price": 13.97,
+      "salesParent": 11329,
+      "revenue": 158266.14,
+      "rating": 4.7,
+      "reviews": 11837
+    },
+    {
+      "rank": 7,
+      "asin": "B08B7V2RG3",
+      "title": "Boncare Digital Thermometer for Adults, Kids &amp; Babies, Dark Blue",
+      "brand": "Boncare",
+      "price": 6.99,
+      "salesParent": 18685,
+      "revenue": 126310.6,
+      "rating": 4.3,
+      "reviews": 33696
+    },
+    {
+      "rank": 8,
+      "asin": "B002BVJH64",
+      "title": "Welch Allyn SureTemp Plus 690 Thermometer with Wall Mount",
+      "brand": "Welch Allyn",
+      "price": 277.94,
+      "salesParent": 350,
+      "revenue": 97429.5,
+      "rating": 4.4,
+      "reviews": 43
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 3,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 3,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 4311152,
+    "priorHeadRevenue": 4197885,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 97,
+      "newCount": 27,
+      "pct": 28,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 72,
+      "brandCount": 50,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.43,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0GVPY4J4B",
+        "title": "Braun ThermoScan 7+ Connect Ear Thermometer + Nasal Aspirator Bundle - Bluetooth App, Baby Thermometer for Fever, Infant Nose Cleaner with Filters &amp; 2 Tips",
+        "rating": null,
+        "reviews": null
+      },
+      {
+        "rank": 2,
+        "asin": "B00MUK6M82",
+        "title": "Braun ThermoScan 5 Digital Display Ear Thermometer",
+        "rating": 4.6,
+        "reviews": 15618
+      },
+      {
+        "rank": 3,
+        "asin": "B0CTCPQ6N9",
+        "title": "Non-Contact Forehead Thermometer for Adults and Kids, 1 Second Result",
+        "rating": 4.5,
+        "reviews": 24273
+      },
+      {
+        "rank": 4,
+        "asin": "B08B8BDG42",
+        "title": "Boncare 10 Seconds Oral Thermometer for Adults and Kids, Light Blue",
+        "rating": 4.3,
+        "reviews": 26734
+      },
+      {
+        "rank": 5,
+        "asin": "B0C82QD5BB",
+        "title": "Vicks SpeedRead Digital Thermometer for Baby, Kids &amp; Adults",
+        "rating": 4.5,
+        "reviews": 3534
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3775161:3777131:3764261",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

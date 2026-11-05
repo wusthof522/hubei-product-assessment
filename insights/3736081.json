@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3736081",
+  "level": "L2",
+  "categoryPathEn": "Home & Kitchen > Wall Art",
+  "categoryPathCn": "家居用品 > 墙面艺术",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 92,
+    "totalRevenue": 6316224,
+    "avgRevenue": 68655,
+    "medianPrice": 109.99,
+    "priceBand": "$76.99 - $149.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B08FXZFH82",
+      "title": "The Woman in Cabin 10",
+      "brand": "Audible",
+      "price": 875.0,
+      "salesParent": 741,
+      "revenue": 648375.0,
+      "rating": 4.0,
+      "reviews": 60622
+    },
+    {
+      "rank": 2,
+      "asin": "B0DDC6QSNV",
+      "title": "3D Large Framed Brown Abstract Wall Art for Living Room, 3Piece 24x36 In",
+      "brand": "Cuspin",
+      "price": 289.99,
+      "salesParent": 1337,
+      "revenue": 384628.16,
+      "rating": 4.2,
+      "reviews": 671
+    },
+    {
+      "rank": 3,
+      "asin": "B0DHNZ6FWZ",
+      "title": "Large Framed Boho Black White Abstract Wall Art for Living Room, 24x36 In",
+      "brand": "Cuspin",
+      "price": 142.49,
+      "salesParent": 1238,
+      "revenue": 184127.73,
+      "rating": 4.3,
+      "reviews": 876
+    },
+    {
+      "rank": 4,
+      "asin": "B0GYPBZQ5N",
+      "title": "Large Framed Neutral Beige Brown Abstract Wall Art for Living Room 60x30 In",
+      "brand": "Cuspin",
+      "price": 154.99,
+      "salesParent": 977,
+      "revenue": 151425.23,
+      "rating": 4.1,
+      "reviews": 155
+    },
+    {
+      "rank": 5,
+      "asin": "B0GDF2RX99",
+      "title": "Large Framed Beige Cream Abstract Vertical Wall Art for Hallway, 2 Piece",
+      "brand": "Cuspin",
+      "price": 159.99,
+      "salesParent": 885,
+      "revenue": 142086.75,
+      "rating": 4.4,
+      "reviews": 225
+    },
+    {
+      "rank": 6,
+      "asin": "B0DDBY469J",
+      "title": "Large Framed Neutral Abstract Wall Art for Living Room,Set of 3, 24x36 In",
+      "brand": "Cuspin",
+      "price": 149.99,
+      "salesParent": 826,
+      "revenue": 123891.74,
+      "rating": 4.4,
+      "reviews": 418
+    },
+    {
+      "rank": 7,
+      "asin": "B0GDCT81PZ",
+      "title": "Extra Large Framed Brown Abstract Wall Art for Living Room, Vertical 40x60",
+      "brand": "Cuspin",
+      "price": 275.99,
+      "salesParent": 441,
+      "revenue": 121712.0,
+      "rating": 4.1,
+      "reviews": 110
+    },
+    {
+      "rank": 8,
+      "asin": "B0G1RVTGY6",
+      "title": "Large Framed Sage Green Abstract Landscape Wall Art for Living Room, 24x36",
+      "brand": "Cuspin",
+      "price": 149.99,
+      "salesParent": 806,
+      "revenue": 120892.0,
+      "rating": 4.6,
+      "reviews": 208
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 25,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 25,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 6316224,
+    "priorHeadRevenue": 5062665,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 92,
+      "newCount": 50,
+      "pct": 54,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 54,
+      "brandCount": 55,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.45,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B08FXZFH82",
+        "title": "The Woman in Cabin 10",
+        "rating": 4.0,
+        "reviews": 60622
+      },
+      {
+        "rank": 2,
+        "asin": "B0DDC6QSNV",
+        "title": "3D Large Framed Brown Abstract Wall Art for Living Room, 3Piece 24x36 In",
+        "rating": 4.2,
+        "reviews": 671
+      },
+      {
+        "rank": 3,
+        "asin": "B0DHNZ6FWZ",
+        "title": "Large Framed Boho Black White Abstract Wall Art for Living Room, 24x36 In",
+        "rating": 4.3,
+        "reviews": 876
+      },
+      {
+        "rank": 4,
+        "asin": "B0GYPBZQ5N",
+        "title": "Large Framed Neutral Beige Brown Abstract Wall Art for Living Room 60x30 In",
+        "rating": 4.1,
+        "reviews": 155
+      },
+      {
+        "rank": 5,
+        "asin": "B0GDF2RX99",
+        "title": "Large Framed Beige Cream Abstract Vertical Wall Art for Hallway, 2 Piece",
+        "rating": 4.4,
+        "reviews": 225
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "1055398:3736081",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

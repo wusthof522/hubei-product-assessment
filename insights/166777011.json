@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "166777011",
+  "level": "L2",
+  "categoryPathEn": "Baby Products > Feeding",
+  "categoryPathCn": "婴儿产品 > 喂食",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 96,
+    "totalRevenue": 88210429,
+    "avgRevenue": 918859,
+    "medianPrice": 49.7,
+    "priceBand": "$24.73 - $176.95",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0G6417BM1",
+      "title": "Momcozy Wellness 1 Wearable Breast Pump, Warm-Massage Hands-Free Pump with Heated Flange&amp;Simulated Massage for Comfortable Breastfeeding&amp;Let-Down, App-Controlled, 4 Modes 12 Levels, 180ml/6oz",
+      "brand": "Momcozy",
+      "price": 280.49,
+      "salesParent": 32626,
+      "revenue": 9091888.0,
+      "rating": 4.2,
+      "reviews": 2799
+    },
+    {
+      "rank": 2,
+      "asin": "B0CWLHKQNT",
+      "title": "Momcozy KleanPal Pro All-in-One Bottle Washer, Sterilizer &amp; Dryer - White",
+      "brand": "Momcozy",
+      "price": 299.99,
+      "salesParent": 20982,
+      "revenue": 6168918.0,
+      "rating": 4.6,
+      "reviews": 4655
+    },
+    {
+      "rank": 3,
+      "asin": "B0CYZD34VF",
+      "title": "eufy Heated Wearable Breast Pump S1, HeatFlow, Hands-Free",
+      "brand": "eufy Security",
+      "price": 189.99,
+      "salesParent": 26521,
+      "revenue": 5363872.0,
+      "rating": 4.1,
+      "reviews": 3905
+    },
+    {
+      "rank": 4,
+      "asin": "B0H2N671JZ",
+      "title": "Bundle of Baby Brezza New and Improved Formula Pro Advanced Formula Dispenser Machine - Baby Brezza Baby Bottle Washer Pro - Washer, Sterilizer + Dryer",
+      "brand": "Baby Brezza",
+      "price": 529.98,
+      "salesParent": 7307,
+      "revenue": 3872563.75,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "rank": 5,
+      "asin": "B0CNGK191C",
+      "title": "Momcozy M5 Lite Hands-Free Wearable Breast Pump, DoubleFit Flange for Baby-Like Comfort, 3 Modes &amp; 9 Suction Levels, No Flange Insert or Hard Carry Case, 24mm, 2-Pack, Cozy Red",
+      "brand": "Momcozy",
+      "price": 132.98,
+      "salesParent": 24334,
+      "revenue": 3235935.25,
+      "rating": 4.1,
+      "reviews": 349
+    },
+    {
+      "rank": 6,
+      "asin": "B0CKRWC8ZN",
+      "title": "Baby Brezza Baby Bottle Washer Pro - Clinically Proven Better Cleaning",
+      "brand": "Baby Brezza",
+      "price": 299.99,
+      "salesParent": 9536,
+      "revenue": 2812547.75,
+      "rating": 4.2,
+      "reviews": 1737
+    },
+    {
+      "rank": 7,
+      "asin": "B0H6Q2G76Z",
+      "title": "Momcozy DeepClean D8 Bottle Washer, Sterilizer &amp; Dryer - Precision Cleaning",
+      "brand": "Momcozy",
+      "price": 359.99,
+      "salesParent": 7451,
+      "revenue": 2654642.25,
+      "rating": 4.2,
+      "reviews": 333
+    },
+    {
+      "rank": 8,
+      "asin": "B09F5X1JVR",
+      "title": "Similac 360 Total Care Baby Formula Powder, 5 HMO Prebiotics",
+      "brand": "Similac",
+      "price": 170.84,
+      "salesParent": 13146,
+      "revenue": 2245862.5,
+      "rating": 4.8,
+      "reviews": 1538
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 4,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 4,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 88210429,
+    "priorHeadRevenue": 84487394,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 96,
+      "newCount": 22,
+      "pct": 23,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 64,
+      "brandCount": 44,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.57,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0G6417BM1",
+        "title": "Momcozy Wellness 1 Wearable Breast Pump, Warm-Massage Hands-Free Pump with Heated Flange&amp;Simulated Massage for Comfortable Breastfeeding&amp;Let-Down, App-Controlled, 4 Modes 12 Levels, 180ml/6oz",
+        "rating": 4.2,
+        "reviews": 2799
+      },
+      {
+        "rank": 2,
+        "asin": "B0CWLHKQNT",
+        "title": "Momcozy KleanPal Pro All-in-One Bottle Washer, Sterilizer &amp; Dryer - White",
+        "rating": 4.6,
+        "reviews": 4655
+      },
+      {
+        "rank": 3,
+        "asin": "B0CYZD34VF",
+        "title": "eufy Heated Wearable Breast Pump S1, HeatFlow, Hands-Free",
+        "rating": 4.1,
+        "reviews": 3905
+      },
+      {
+        "rank": 4,
+        "asin": "B0H2N671JZ",
+        "title": "Bundle of Baby Brezza New and Improved Formula Pro Advanced Formula Dispenser Machine - Baby Brezza Baby Bottle Washer Pro - Washer, Sterilizer + Dryer",
+        "rating": null,
+        "reviews": null
+      },
+      {
+        "rank": 5,
+        "asin": "B0CNGK191C",
+        "title": "Momcozy M5 Lite Hands-Free Wearable Breast Pump, DoubleFit Flange for Baby-Like Comfort, 3 Modes &amp; 9 Suction Levels, No Flange Insert or Hard Carry Case, 24mm, 2-Pack, Cozy Red",
+        "rating": 4.1,
+        "reviews": 349
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165796011:166777011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

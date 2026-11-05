@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "723467011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Stationery & Gift Wrapping Supplies > Stationery > Notepads",
+  "categoryPathCn": "健康与家居 > 文具和礼品包装用品 > 文具 > 记事本",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 94,
+    "totalRevenue": 122581,
+    "avgRevenue": 1304,
+    "medianPrice": 14.99,
+    "priceBand": "$9.74 - $21.09",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0FVG8MP4W",
+      "title": "Waterproof Notebook, 4 Pack Pocket Notepad, 3&quot; x 5 Top-Spiral NotePad Black",
+      "brand": "Juehuodaji",
+      "price": 9.99,
+      "salesParent": 1031,
+      "revenue": 10299.69,
+      "rating": 4.6,
+      "reviews": 110
+    },
+    {
+      "rank": 2,
+      "asin": "B0CR5HWY2G",
+      "title": "Outus 15 Pcs Mini Pocket Notebook 2.5&quot;x4&quot; Lined,Black,Lined Style",
+      "brand": "Outus",
+      "price": 9.99,
+      "salesParent": 791,
+      "revenue": 7902.09,
+      "rating": 4.6,
+      "reviews": 294
+    },
+    {
+      "rank": 3,
+      "asin": "B0H11V6Z9J",
+      "title": "150 Pack Mini Notebooks Bulk for Traveler, Students, Office Supplies",
+      "brand": "Gwybkq",
+      "price": 37.99,
+      "salesParent": 206,
+      "revenue": 7582.86,
+      "rating": 4.9,
+      "reviews": 19
+    },
+    {
+      "rank": 4,
+      "asin": "B0H2M3NRCD",
+      "title": "12pcs Note Pads 5&quot;x8&quot;,600 Sheets Small Legal Pad, Perforated Color Notepad",
+      "brand": "Ciphyfee",
+      "price": 15.99,
+      "salesParent": 435,
+      "revenue": 6781.65,
+      "rating": 4.8,
+      "reviews": 52
+    },
+    {
+      "rank": 5,
+      "asin": "B0HFN73WYN",
+      "title": "BPWBCSLXX33 5-1000 Pads Custom Notepads with Logo or Text for Women and Men",
+      "brand": "BPWBCSLXX33",
+      "price": 28.98,
+      "salesParent": 221,
+      "revenue": 6404.58,
+      "rating": 3.1,
+      "reviews": 4
+    },
+    {
+      "rank": 6,
+      "asin": "1963317610",
+      "title": "ALABASTER A Beautiful Year in Prayer - 52 Week Guided Prayer Journal for Women | Weekly Devotional with Scripture &amp; Daily Prompts | Soft Cover Edition | Christian Gift for Her",
+      "brand": "ALABASTER",
+      "price": 30.0,
+      "salesParent": 202,
+      "revenue": 6060.0,
+      "rating": 4.9,
+      "reviews": 20
+    },
+    {
+      "rank": 7,
+      "asin": "B0C1J4VGJL",
+      "title": "Traveler's Notebook, Regular Size, Olive 15342006",
+      "brand": "DESIGNPHIL",
+      "price": 68.0,
+      "salesParent": 69,
+      "revenue": 5185.35,
+      "rating": 4.5,
+      "reviews": 112
+    },
+    {
+      "rank": 8,
+      "asin": "B07SBNKTNQ",
+      "title": "Maruman Mnemosyne Spiral Notebook Vertical A5 5.83&quot;x8.27&quot; 7mm College Ruled",
+      "brand": "Maruman",
+      "price": 11.0,
+      "salesParent": 432,
+      "revenue": 4777.92,
+      "rating": 4.7,
+      "reviews": 562
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 92,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 92,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 122581,
+    "priorHeadRevenue": 63977,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 94,
+      "newCount": 52,
+      "pct": 56,
+      "unknownLaunch": 1,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 32,
+      "brandCount": 79,
+      "level": "分散",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.56,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0FVG8MP4W",
+        "title": "Waterproof Notebook, 4 Pack Pocket Notepad, 3&quot; x 5 Top-Spiral NotePad Black",
+        "rating": 4.6,
+        "reviews": 110
+      },
+      {
+        "rank": 2,
+        "asin": "B0CR5HWY2G",
+        "title": "Outus 15 Pcs Mini Pocket Notebook 2.5&quot;x4&quot; Lined,Black,Lined Style",
+        "rating": 4.6,
+        "reviews": 294
+      },
+      {
+        "rank": 3,
+        "asin": "B0H11V6Z9J",
+        "title": "150 Pack Mini Notebooks Bulk for Traveler, Students, Office Supplies",
+        "rating": 4.9,
+        "reviews": 19
+      },
+      {
+        "rank": 4,
+        "asin": "B0H2M3NRCD",
+        "title": "12pcs Note Pads 5&quot;x8&quot;,600 Sheets Small Legal Pad, Perforated Color Notepad",
+        "rating": 4.8,
+        "reviews": 52
+      },
+      {
+        "rank": 5,
+        "asin": "B0HFN73WYN",
+        "title": "BPWBCSLXX33 5-1000 Pads Custom Notepads with Logo or Text for Women and Men",
+        "rating": 3.1,
+        "reviews": 4
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:723418011:723462011:723467011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

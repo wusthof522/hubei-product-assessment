@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "8446318011",
+  "level": "L2",
+  "categoryPathEn": "Baby Products > Strollers & Accessories",
+  "categoryPathCn": "婴儿产品 > 婴儿车",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 97,
+    "totalRevenue": 26692761,
+    "avgRevenue": 275183,
+    "medianPrice": 314.0,
+    "priceBand": "$159.99 - $554.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B07Y5VQYFW",
+      "title": "Graco Modes Pramette 3-in-1 Travel System (Stroller &amp; Car Seat), Ellington",
+      "brand": "Graco",
+      "price": 359.99,
+      "salesParent": 4816,
+      "revenue": 1674715.75,
+      "rating": 4.6,
+      "reviews": 7213
+    },
+    {
+      "rank": 2,
+      "asin": "B08316HK9P",
+      "title": "Evenflo Pivot NXT Travel System with LiteMax NXT Preemie and Infant Car Seat",
+      "brand": "Evenflo",
+      "price": 349.99,
+      "salesParent": 3365,
+      "revenue": 1177716.38,
+      "rating": 4.5,
+      "reviews": 362
+    },
+    {
+      "rank": 3,
+      "asin": "B0C99K7SP9",
+      "title": "Baby Trend Passport® Switch 6-in-1 Modular Stroller Travel System with EZ-Lift™ Plus Infant Car Seat, Dash Black",
+      "brand": "Baby Trend",
+      "price": 183.99,
+      "salesParent": 4919,
+      "revenue": 905735.5,
+      "rating": 4.5,
+      "reviews": 1275
+    },
+    {
+      "rank": 4,
+      "asin": "B0DJ3HFSFM",
+      "title": "UPPAbaby Vista V3 Stroller + Bassinet V3 - Convertible Single-To-Double Stroller System- Bassinet, Toddler Seat, Bug Shield, Rain Shield Included-Greyson (Charcoal Mélange/Carbon Frame/Saddle Leather)",
+      "brand": "UPPAbaby",
+      "price": 1279.98,
+      "salesParent": 677,
+      "revenue": 866546.44,
+      "rating": 5.0,
+      "reviews": 1
+    },
+    {
+      "rank": 5,
+      "asin": "B0CX999YMH",
+      "title": "Mamazing Ultra Air Lightweight Baby Travel Stroller with Carbon Fiber Frame",
+      "brand": "MAMAZING",
+      "price": 199.99,
+      "salesParent": 4183,
+      "revenue": 836558.19,
+      "rating": 4.6,
+      "reviews": 2157
+    },
+    {
+      "rank": 6,
+      "asin": "B084CK55RW",
+      "title": "BOB Gear Revolution Flex 3.0 Duallie Jogging Stroller — Graphite Black",
+      "brand": "BOB Gear",
+      "price": 899.99,
+      "salesParent": 924,
+      "revenue": 783413.38,
+      "rating": 4.7,
+      "reviews": 3228
+    },
+    {
+      "rank": 7,
+      "asin": "B0DM3YT8CT",
+      "title": "Joie Ginger Pramette Stroller &amp; Mint Latch Infant Car Seat Travel System",
+      "brand": "Joie",
+      "price": 589.99,
+      "salesParent": 1152,
+      "revenue": 647573.75,
+      "rating": 4.8,
+      "reviews": 210
+    },
+    {
+      "rank": 8,
+      "asin": "B08VPVLF95",
+      "title": "Chicco Bravo 3-in-1 Travel System w/ KeyFit 30 Infant Car Seat &amp; Base",
+      "brand": "Chicco",
+      "price": 359.99,
+      "salesParent": 1765,
+      "revenue": 635382.31,
+      "rating": 4.8,
+      "reviews": 2913
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -17,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -17,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 26692761,
+    "priorHeadRevenue": 32114429,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 97,
+      "newCount": 30,
+      "pct": 31,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 53,
+      "brandCount": 37,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.54,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B07Y5VQYFW",
+        "title": "Graco Modes Pramette 3-in-1 Travel System (Stroller &amp; Car Seat), Ellington",
+        "rating": 4.6,
+        "reviews": 7213
+      },
+      {
+        "rank": 2,
+        "asin": "B08316HK9P",
+        "title": "Evenflo Pivot NXT Travel System with LiteMax NXT Preemie and Infant Car Seat",
+        "rating": 4.5,
+        "reviews": 362
+      },
+      {
+        "rank": 3,
+        "asin": "B0C99K7SP9",
+        "title": "Baby Trend Passport® Switch 6-in-1 Modular Stroller Travel System with EZ-Lift™ Plus Infant Car Seat, Dash Black",
+        "rating": 4.5,
+        "reviews": 1275
+      },
+      {
+        "rank": 4,
+        "asin": "B0DJ3HFSFM",
+        "title": "UPPAbaby Vista V3 Stroller + Bassinet V3 - Convertible Single-To-Double Stroller System- Bassinet, Toddler Seat, Bug Shield, Rain Shield Included-Greyson (Charcoal Mélange/Carbon Frame/Saddle Leather)",
+        "rating": 5.0,
+        "reviews": 1
+      },
+      {
+        "rank": 5,
+        "asin": "B0CX999YMH",
+        "title": "Mamazing Ultra Air Lightweight Baby Travel Stroller with Carbon Fiber Frame",
+        "rating": 4.6,
+        "reviews": 2157
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165796011:8446318011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

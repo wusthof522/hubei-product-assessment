@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "6966318011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins, Minerals & Supplements > Herbal Supplements > Chlorophyll",
+  "categoryPathCn": "健康与家居 > 身、泳和附剂 > 草本补充 > 叶绿素",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 3575641,
+    "avgRevenue": 35756,
+    "medianPrice": 19.96,
+    "priceBand": "$14.76 - $28.0",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0DMQZ9J31",
+      "title": "Her Fantasy Box | Body Magic | Chlorophyll Capsules - 30 Vegan Capsules for Detox, Digestion, Gut Health, Skin Support, and Oily Skin - Natural Energy Booster",
+      "brand": "Her Fantasy Box",
+      "price": 15.99,
+      "salesParent": 38465,
+      "revenue": 615055.31,
+      "rating": 4.5,
+      "reviews": 4030
+    },
+    {
+      "rank": 2,
+      "asin": "B0DJ3L26SS",
+      "title": "DEOS® Internal Deodorant Supplement [Natural Odor Control] Capsules 30 Pcs",
+      "brand": "DEOS",
+      "price": 29.99,
+      "salesParent": 12067,
+      "revenue": 361889.31,
+      "rating": 4.3,
+      "reviews": 3460
+    },
+    {
+      "rank": 3,
+      "asin": "B01AFI3IEG",
+      "title": "Benevolent Chlorophyll Liquid Drops for Internal Freshness, Peppermint",
+      "brand": "Benevolent Nourishment",
+      "price": 22.99,
+      "salesParent": 8697,
+      "revenue": 199944.03,
+      "rating": 4.5,
+      "reviews": 43592
+    },
+    {
+      "rank": 4,
+      "asin": "B0BFJLWZV1",
+      "title": "Liquid Chlorophyll Drops, Peppermint Flavored, 2 fl oz",
+      "brand": "Double Wood Supplements",
+      "price": 16.95,
+      "salesParent": 11372,
+      "revenue": 181383.39,
+      "rating": 4.6,
+      "reviews": 11361
+    },
+    {
+      "rank": 5,
+      "asin": "B000WQJKM6",
+      "title": "Nature's Sunshine Liquid Chlorophyll - Detox, Cleanse &amp; Immune Support, Vegan Chlorophyll Liquid with Spearmint Oil, Natural Internal Deodorant, Fresh Breath &amp; Body Odor Supplement - 16 Fl Oz",
+      "brand": "Nature's Sunshine",
+      "price": 22.95,
+      "salesParent": 7805,
+      "revenue": 179124.75,
+      "rating": 4.6,
+      "reviews": 12411
+    },
+    {
+      "rank": 6,
+      "asin": "B08K3R68DZ",
+      "title": "MaryRuth's Chlorophyll Liquid Drops, Delicious Minty Flavor, Vegan, 2 Fl Oz",
+      "brand": "MARYRUTH'S",
+      "price": 19.95,
+      "salesParent": 9038,
+      "revenue": 176060.23,
+      "rating": 4.6,
+      "reviews": 16384
+    },
+    {
+      "rank": 7,
+      "asin": "B001E0WDGO",
+      "title": "Nature's Way Chlorofresh Liquid Chlorophyll, Internal Deodorant, 16 fl oz",
+      "brand": "Nature's Way",
+      "price": 10.5,
+      "salesParent": 13045,
+      "revenue": 136972.5,
+      "rating": 4.7,
+      "reviews": 392
+    },
+    {
+      "rank": 8,
+      "asin": "B09BBPPNRD",
+      "title": "Horbäach Liquid Chlorophyll Drops | 2 fl oz | Natural Peppermint Flavor",
+      "brand": "Horbäach",
+      "price": 9.99,
+      "salesParent": 13355,
+      "revenue": 133416.45,
+      "rating": 4.6,
+      "reviews": 4541
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -1,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -1,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 3575641,
+    "priorHeadRevenue": 3627082,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 33,
+      "pct": 33,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 49,
+      "brandCount": 80,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.39,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0DMQZ9J31",
+        "title": "Her Fantasy Box | Body Magic | Chlorophyll Capsules - 30 Vegan Capsules for Detox, Digestion, Gut Health, Skin Support, and Oily Skin - Natural Energy Booster",
+        "rating": 4.5,
+        "reviews": 4030
+      },
+      {
+        "rank": 2,
+        "asin": "B0DJ3L26SS",
+        "title": "DEOS® Internal Deodorant Supplement [Natural Odor Control] Capsules 30 Pcs",
+        "rating": 4.3,
+        "reviews": 3460
+      },
+      {
+        "rank": 3,
+        "asin": "B01AFI3IEG",
+        "title": "Benevolent Chlorophyll Liquid Drops for Internal Freshness, Peppermint",
+        "rating": 4.5,
+        "reviews": 43592
+      },
+      {
+        "rank": 4,
+        "asin": "B0BFJLWZV1",
+        "title": "Liquid Chlorophyll Drops, Peppermint Flavored, 2 fl oz",
+        "rating": 4.6,
+        "reviews": 11361
+      },
+      {
+        "rank": 5,
+        "asin": "B000WQJKM6",
+        "title": "Nature's Sunshine Liquid Chlorophyll - Detox, Cleanse &amp; Immune Support, Vegan Chlorophyll Liquid with Spearmint Oil, Natural Internal Deodorant, Fresh Breath &amp; Body Odor Supplement - 16 Fl Oz",
+        "rating": 4.6,
+        "reviews": 12411
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:23675621011:3764461:6966318011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

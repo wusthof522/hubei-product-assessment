@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3776611",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Medical Supplies & Equipment > Occupational & Physical Therapy Aids > Traction Equipment",
+  "categoryPathCn": "健康与家居 > 医疗用品和设备 > 职业和物理疗法辅助用品 > 牵引器、颈椎治疗仪",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 2905959,
+    "avgRevenue": 29353,
+    "medianPrice": 67.29,
+    "priceBand": "$29.99 - $169.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B094MQVXMB",
+      "title": "RESTCLOUD Neck and Shoulder Relaxer, Cervical Traction Device for TMJ Pain Relief and Cervical Spine Alignment, Chiropractic Pillow, Neck Stretcher (Black)",
+      "brand": "RESTCLOUD",
+      "price": 19.99,
+      "salesParent": 26104,
+      "revenue": 521818.97,
+      "rating": 4.2,
+      "reviews": 93967
+    },
+    {
+      "rank": 2,
+      "asin": "B000II85YC",
+      "title": "ComforTrac-Deluxe Home Cervical Traction Kit 2.0, Neck Therapy, Discomfort Relief, Relieve Cervicalgia, Degeneration of Disc, Spondylosis, and More, Carrying Case Included",
+      "brand": "ComforTrac",
+      "price": 365.0,
+      "salesParent": 418,
+      "revenue": 152570.0,
+      "rating": 4.1,
+      "reviews": 1556
+    },
+    {
+      "rank": 3,
+      "asin": "B093T2D93L",
+      "title": "iSTIM WeTrac Cervical Neck Traction Device, Relaxer and Stretcher, Pain Relief for Spinal Decompression, Relieving Pinched Nerves, and Cervical Pain, Home Use, with Travel Bag",
+      "brand": "iSTIM",
+      "price": 328.36,
+      "salesParent": 359,
+      "revenue": 117881.0,
+      "rating": 3.8,
+      "reviews": 365
+    },
+    {
+      "rank": 4,
+      "asin": "B07LH8XTX7",
+      "title": "Occipital Release Tool for Pivotal Therapy &amp; TMJ, Cervical Traction Device",
+      "brand": "Purify Life",
+      "price": 34.99,
+      "salesParent": 3304,
+      "revenue": 108074.0,
+      "rating": 4.1,
+      "reviews": 1809
+    },
+    {
+      "rank": 5,
+      "asin": "B0BJBSFY4V",
+      "title": "Neck Traction Device by Air Collar - Neck Stretcher - Cervical Traction Device - Neck &amp; Shoulder Pain Relief - Stretcher Collar for Improved Spine Alignment (2nd Gen Electric Pump) - See Size Chart*",
+      "brand": "M PAIN MANAGEMENT TECHNOLOGIES",
+      "price": 105.99,
+      "salesParent": 900,
+      "revenue": 102510.0,
+      "rating": 4.0,
+      "reviews": 662
+    },
+    {
+      "rank": 6,
+      "asin": "B0GHP57HYQ",
+      "title": "Cervical Neck Traction Device, Neck Stretcher and Cervical Traction Device",
+      "brand": "ELESIK",
+      "price": 21.93,
+      "salesParent": 3688,
+      "revenue": 80877.84,
+      "rating": 4.3,
+      "reviews": 801
+    },
+    {
+      "rank": 7,
+      "asin": "B07PHBBTC3",
+      "title": "S Cervical Neck Traction Device for Instant Neck Pain Relief - Inflatable &amp; Adjustable Neck Stretcher Neck Support Brace, Neck Traction Pillow for Home Use Neck Decompression",
+      "brand": "S",
+      "price": 21.97,
+      "salesParent": 3456,
+      "revenue": 75928.32,
+      "rating": 3.8,
+      "reviews": 11309
+    },
+    {
+      "rank": 8,
+      "asin": "B0FNXCHK11",
+      "title": "Spinal Decompression Machine Decompression Table for Back Pain Relief",
+      "brand": "HOTMUZ",
+      "price": 268.99,
+      "salesParent": 261,
+      "revenue": 70206.39,
+      "rating": 3.8,
+      "reviews": 124
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 0,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 0,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 2905959,
+    "priorHeadRevenue": 2915610,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 57,
+      "pct": 58,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 37,
+      "brandCount": 67,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.0,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B094MQVXMB",
+        "title": "RESTCLOUD Neck and Shoulder Relaxer, Cervical Traction Device for TMJ Pain Relief and Cervical Spine Alignment, Chiropractic Pillow, Neck Stretcher (Black)",
+        "rating": 4.2,
+        "reviews": 93967
+      },
+      {
+        "rank": 2,
+        "asin": "B000II85YC",
+        "title": "ComforTrac-Deluxe Home Cervical Traction Kit 2.0, Neck Therapy, Discomfort Relief, Relieve Cervicalgia, Degeneration of Disc, Spondylosis, and More, Carrying Case Included",
+        "rating": 4.1,
+        "reviews": 1556
+      },
+      {
+        "rank": 3,
+        "asin": "B093T2D93L",
+        "title": "iSTIM WeTrac Cervical Neck Traction Device, Relaxer and Stretcher, Pain Relief for Spinal Decompression, Relieving Pinched Nerves, and Cervical Pain, Home Use, with Travel Bag",
+        "rating": 3.8,
+        "reviews": 365
+      },
+      {
+        "rank": 4,
+        "asin": "B07LH8XTX7",
+        "title": "Occipital Release Tool for Pivotal Therapy &amp; TMJ, Cervical Traction Device",
+        "rating": 4.1,
+        "reviews": 1809
+      },
+      {
+        "rank": 5,
+        "asin": "B0BJBSFY4V",
+        "title": "Neck Traction Device by Air Collar - Neck Stretcher - Cervical Traction Device - Neck &amp; Shoulder Pain Relief - Stretcher Collar for Improved Spine Alignment (2nd Gen Electric Pump) - See Size Chart*",
+        "rating": 4.0,
+        "reviews": 662
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3775161:3776531:3776611",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

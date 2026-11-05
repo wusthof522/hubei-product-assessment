@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "166312011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Dress Up & Pretend Play > Dress-Up Accessories > Jewelry",
+  "categoryPathCn": "玩具 > 扮靓 > 装扮配件 > 珠宝",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 98,
+    "totalRevenue": 3191825,
+    "avgRevenue": 32570,
+    "medianPrice": 14.99,
+    "priceBand": "$9.99 - $23.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B09KXYLWG4",
+      "title": "Princess Dress Up &amp; Jewelry Set, Pretend Play Toy, B-day Gift for Girl 3+",
+      "brand": "LJZJ",
+      "price": 29.99,
+      "salesParent": 6869,
+      "revenue": 202910.27,
+      "rating": 4.6,
+      "reviews": 5860
+    },
+    {
+      "rank": 2,
+      "asin": "B0B6FTH2HD",
+      "title": "HAMSILY Princess Dress Up for Girl 3 4 5 6 Years Old Birthday Gifts Toys",
+      "brand": "HAMSILY",
+      "price": 28.99,
+      "salesParent": 4490,
+      "revenue": 123789.3,
+      "rating": 4.7,
+      "reviews": 2824
+    },
+    {
+      "rank": 3,
+      "asin": "B07X1BYNW2",
+      "title": "KIRALUMI 8 Pack LED Light Up Bracelets, 3 Modes, Halloween Party Favors",
+      "brand": "KIRALUMI",
+      "price": 16.99,
+      "salesParent": 7095,
+      "revenue": 121750.0,
+      "rating": 4.4,
+      "reviews": 1683
+    },
+    {
+      "rank": 4,
+      "asin": "B07GNGPLZW",
+      "title": "Boao 120 Pcs Halloween Spider Rings for Kids, Black, Purple, Orange, Green",
+      "brand": "Boao",
+      "price": 8.99,
+      "salesParent": 12072,
+      "revenue": 108527.27,
+      "rating": 4.6,
+      "reviews": 1127
+    },
+    {
+      "rank": 5,
+      "asin": "B0DW8DJDJW",
+      "title": "100 Pcs Faux Pearl Necklaces Bulk, Long White 1920s Party Costume Jewelry",
+      "brand": "XIPENGKEJI",
+      "price": 39.99,
+      "salesParent": 2575,
+      "revenue": 102974.26,
+      "rating": 4.4,
+      "reviews": 562
+    },
+    {
+      "rank": 6,
+      "asin": "B0C8MHT92H",
+      "title": "100PCS Bead Necklace, Gold Mardi Gras Beads Party Stuff, 33&quot; Mardi Gras Christmas Beads Toy Costume, Festival Parade Throw Accessories for Wedding Birthday Pirate Party Baby Shower Supplies Decor",
+      "brand": "EOBOH",
+      "price": 17.99,
+      "salesParent": 5679,
+      "revenue": 102165.21,
+      "rating": 4.7,
+      "reviews": 1577
+    },
+    {
+      "rank": 7,
+      "asin": "B0CJYBVJP7",
+      "title": "12PCS Mardi Gras Beads, Gold Beaded Necklace Stuff Set, 33&quot; Mardi Gras Christmas Beads Necklace Costume Bulk, Festival Parade Throw Accessory Sets for Mardi Gras St Patricks Day Celebrations",
+      "brand": "EOBOH",
+      "price": 4.99,
+      "salesParent": 18152,
+      "revenue": 90578.48,
+      "rating": 4.6,
+      "reviews": 4175
+    },
+    {
+      "rank": 8,
+      "asin": "B0989JJKH6",
+      "title": "JOYIN 100 PCS Halloween Slap Bracelets for Kids, Halloween Bracelets Bulk for Girls Boys Gifts, Friendship Bracelets Snap Bracelets for Halloween Party Favors Goodie Bag Fillers",
+      "brand": "JOYIN",
+      "price": 27.99,
+      "salesParent": 3586,
+      "revenue": 84127.56,
+      "rating": 4.8,
+      "reviews": 1627
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -4,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -4,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 3191825,
+    "priorHeadRevenue": 3341432,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 98,
+      "newCount": 19,
+      "pct": 19,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 28,
+      "brandCount": 76,
+      "level": "分散",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.51,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B09KXYLWG4",
+        "title": "Princess Dress Up &amp; Jewelry Set, Pretend Play Toy, B-day Gift for Girl 3+",
+        "rating": 4.6,
+        "reviews": 5860
+      },
+      {
+        "rank": 2,
+        "asin": "B0B6FTH2HD",
+        "title": "HAMSILY Princess Dress Up for Girl 3 4 5 6 Years Old Birthday Gifts Toys",
+        "rating": 4.7,
+        "reviews": 2824
+      },
+      {
+        "rank": 3,
+        "asin": "B07X1BYNW2",
+        "title": "KIRALUMI 8 Pack LED Light Up Bracelets, 3 Modes, Halloween Party Favors",
+        "rating": 4.4,
+        "reviews": 1683
+      },
+      {
+        "rank": 4,
+        "asin": "B07GNGPLZW",
+        "title": "Boao 120 Pcs Halloween Spider Rings for Kids, Black, Purple, Orange, Green",
+        "rating": 4.6,
+        "reviews": 1127
+      },
+      {
+        "rank": 5,
+        "asin": "B0DW8DJDJW",
+        "title": "100 Pcs Faux Pearl Necklaces Bulk, Long White 1920s Party Costume Jewelry",
+        "rating": 4.4,
+        "reviews": 562
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166316011:23744271011:166312011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

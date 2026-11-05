@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "15524362011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Household Supplies > Laundry > Washing Machine Cleaners",
+  "categoryPathCn": "健康与家居 > 家居用品 > 衣物清洁 > 洗衣机清洁剂",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 13120388,
+    "avgRevenue": 132529,
+    "medianPrice": 18.95,
+    "priceBand": "$10.4 - $22.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0D6NLT286",
+      "title": "Uproot Clean Washing Machine Cleaning Tablets for Pet Owners, 24 Pack",
+      "brand": "Uproot Clean",
+      "price": 29.95,
+      "salesParent": 144874,
+      "revenue": 4338976.5,
+      "rating": 4.4,
+      "reviews": 11087
+    },
+    {
+      "rank": 2,
+      "asin": "B00C91Q86I",
+      "title": "Affresh Washing Machine Cleaner, #1 Washing Machine Cleaner Tablet, 6 Count",
+      "brand": "Affresh",
+      "price": 11.98,
+      "salesParent": 232459,
+      "revenue": 2724419.5,
+      "rating": 4.7,
+      "reviews": 251845
+    },
+    {
+      "rank": 3,
+      "asin": "B08DVFZTTG",
+      "title": "Washing Machine Cleaner Descaler 24 Pack - Deep Cleaning Tablets For HE Front Loader &amp; Top Load Washer, Septic Safe Eco-Friendly Deodorizer, Clean Inside Drum and Laundry Tub Seal - 12 Month Supply",
+      "brand": "ACTIVE",
+      "price": 24.95,
+      "salesParent": 68226,
+      "revenue": 1650387.0,
+      "rating": 4.6,
+      "reviews": 152353
+    },
+    {
+      "rank": 4,
+      "asin": "B0FK7K482H",
+      "title": "ACTIVE Washing Machine Cleaner for Pet Owners Enzymatic Deep Clean Descaler for Cat &amp; Dog Hair, Urine, Odor, Residue, 24 Septic-Safe Tablets for Top Load, Front Loader, HE Washer Tub - 1 Year Supply",
+      "brand": "ACTIVE",
+      "price": 29.95,
+      "salesParent": 33100,
+      "revenue": 962879.0,
+      "rating": 4.6,
+      "reviews": 4856
+    },
+    {
+      "rank": 5,
+      "asin": "B0GF8BHTF9",
+      "title": "Uproot Clean Washing Machine Cleaner Tablets Turbo 5xStronger, 12 mo supply",
+      "brand": "Uproot Clean",
+      "price": 49.99,
+      "salesParent": 9013,
+      "revenue": 450559.88,
+      "rating": 4.3,
+      "reviews": 465
+    },
+    {
+      "rank": 6,
+      "asin": "B08P3HF1H7",
+      "title": "True Fresh Washing Machine Cleaner Tablets 25 Pack for Front Load Top Load",
+      "brand": "True Fresh",
+      "price": 19.91,
+      "salesParent": 12751,
+      "revenue": 280011.94,
+      "rating": 4.5,
+      "reviews": 28531
+    },
+    {
+      "rank": 7,
+      "asin": "B00757ADZ8",
+      "title": "Washing Machine Cleaner by Tide, Washer Machine Cleaner with Oxi for Front and Top Loader Washer Machines, Deep Cleaning Residue &amp; Odor Eliminator, 5 Month Supply (Packaging May Vary)",
+      "brand": "Tide",
+      "price": 10.4,
+      "salesParent": 21257,
+      "revenue": 215545.98,
+      "rating": 4.7,
+      "reviews": 27800
+    },
+    {
+      "rank": 8,
+      "asin": "B00UASJMG0",
+      "title": "OxiClean Washing Machine Cleaner with Odor Blasters, 4 Count",
+      "brand": "OxiClean",
+      "price": 8.69,
+      "salesParent": 29482,
+      "revenue": 207553.28,
+      "rating": 4.6,
+      "reviews": 56237
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 140,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 140,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 13120388,
+    "priorHeadRevenue": 5473083,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 53,
+      "pct": 54,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 85,
+      "brandCount": 76,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.5,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0D6NLT286",
+        "title": "Uproot Clean Washing Machine Cleaning Tablets for Pet Owners, 24 Pack",
+        "rating": 4.4,
+        "reviews": 11087
+      },
+      {
+        "rank": 2,
+        "asin": "B00C91Q86I",
+        "title": "Affresh Washing Machine Cleaner, #1 Washing Machine Cleaner Tablet, 6 Count",
+        "rating": 4.7,
+        "reviews": 251845
+      },
+      {
+        "rank": 3,
+        "asin": "B08DVFZTTG",
+        "title": "Washing Machine Cleaner Descaler 24 Pack - Deep Cleaning Tablets For HE Front Loader &amp; Top Load Washer, Septic Safe Eco-Friendly Deodorizer, Clean Inside Drum and Laundry Tub Seal - 12 Month Supply",
+        "rating": 4.6,
+        "reviews": 152353
+      },
+      {
+        "rank": 4,
+        "asin": "B0FK7K482H",
+        "title": "ACTIVE Washing Machine Cleaner for Pet Owners Enzymatic Deep Clean Descaler for Cat &amp; Dog Hair, Urine, Odor, Residue, 24 Septic-Safe Tablets for Top Load, Front Loader, HE Washer Tub - 1 Year Supply",
+        "rating": 4.6,
+        "reviews": 4856
+      },
+      {
+        "rank": 5,
+        "asin": "B0GF8BHTF9",
+        "title": "Uproot Clean Washing Machine Cleaner Tablets Turbo 5xStronger, 12 mo supply",
+        "rating": 4.3,
+        "reviews": 465
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:15342811:15356111:15524362011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

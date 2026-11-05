@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3776391",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Health Care > Over-the-Counter Medication > Medication Aids",
+  "categoryPathCn": "健康与家居 > 卫生保健 > 非处方药和治疗 > 药物治疗辅助用品",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 98,
+    "totalRevenue": 7689414,
+    "avgRevenue": 78463,
+    "medianPrice": 9.99,
+    "priceBand": "$7.99 - $18.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0DNYMZ3TF",
+      "title": "Vaydeer Metal 7 Day Travel Pill Organizer 2 Times a Day, Built-In Desiccant",
+      "brand": "Vaydeer",
+      "price": 19.99,
+      "salesParent": 19795,
+      "revenue": 379866.06,
+      "rating": 4.6,
+      "reviews": 3236
+    },
+    {
+      "rank": 2,
+      "asin": "B001KYVO78",
+      "title": "Ezy Dose Pill Cutter &amp; Splitter, Built-in Pill Dispenser, Color May Vary",
+      "brand": "EZY DOSE",
+      "price": 4.99,
+      "salesParent": 47152,
+      "revenue": 240475.2,
+      "rating": 4.3,
+      "reviews": 57703
+    },
+    {
+      "rank": 3,
+      "asin": "B0CPLLCXJZ",
+      "title": "Travel Pill Dispenser with Anti-Mix Design, 7-Slot, Patented, Pink",
+      "brand": "AMOOS",
+      "price": 9.99,
+      "salesParent": 22188,
+      "revenue": 215223.59,
+      "rating": 4.7,
+      "reviews": 8593
+    },
+    {
+      "rank": 4,
+      "asin": "B08ZH7DD36",
+      "title": "Daviky Pill Organizer 3 Times a Day, Pill Box 7 Day, Weekly Travel Case",
+      "brand": "Daviky",
+      "price": 9.99,
+      "salesParent": 22801,
+      "revenue": 208857.16,
+      "rating": 4.8,
+      "reviews": 13354
+    },
+    {
+      "rank": 5,
+      "asin": "B0FJRK5PDP",
+      "title": "Pill Cutter Splitter for Small and Tiny Pills, 1/2 1/4 Pill Splitter for Small Pills,Vitamins, Tablets in Half or Quarters, Accurate and Easy Cutting, Stainless Steel Blade, Back Storage (Black)",
+      "brand": "GAONLY",
+      "price": 15.99,
+      "salesParent": 13033,
+      "revenue": 205530.42,
+      "rating": 4.3,
+      "reviews": 1699
+    },
+    {
+      "rank": 6,
+      "asin": "B0FHJ1Q8GJ",
+      "title": "Compact &amp; Foldable Weekly Pill Organizer 2 Time a Day, 7-Day AM PM Pill Box",
+      "brand": "LANDNEOO",
+      "price": 7.99,
+      "salesParent": 18853,
+      "revenue": 174578.78,
+      "rating": 4.6,
+      "reviews": 1852
+    },
+    {
+      "rank": 7,
+      "asin": "B07794YMY7",
+      "title": "AUVON Weekly Pill Organizer Arthritis Friendly, BPA Free Travel 7 Day Pill Box Case with Spring Open Design and Large Compartment to Hold Vitamins, Cod Liver Oil, Supplements and Medication",
+      "brand": "AUVON",
+      "price": 6.99,
+      "salesParent": 26082,
+      "revenue": 170315.47,
+      "rating": 4.7,
+      "reviews": 60680
+    },
+    {
+      "rank": 8,
+      "asin": "B001OK1YUA",
+      "title": "Ezy Dose Weekly (7-Day) AM/PM Pill Organizer, Large Case, Blue/Purple",
+      "brand": "EZY DOSE",
+      "price": 5.49,
+      "salesParent": 29855,
+      "revenue": 163903.94,
+      "rating": 4.6,
+      "reviews": 94815
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -28,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -28,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 7689414,
+    "priorHeadRevenue": 10630480,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 98,
+      "newCount": 21,
+      "pct": 21,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 31,
+      "brandCount": 60,
+      "level": "分散",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.55,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0DNYMZ3TF",
+        "title": "Vaydeer Metal 7 Day Travel Pill Organizer 2 Times a Day, Built-In Desiccant",
+        "rating": 4.6,
+        "reviews": 3236
+      },
+      {
+        "rank": 2,
+        "asin": "B001KYVO78",
+        "title": "Ezy Dose Pill Cutter &amp; Splitter, Built-in Pill Dispenser, Color May Vary",
+        "rating": 4.3,
+        "reviews": 57703
+      },
+      {
+        "rank": 3,
+        "asin": "B0CPLLCXJZ",
+        "title": "Travel Pill Dispenser with Anti-Mix Design, 7-Slot, Patented, Pink",
+        "rating": 4.7,
+        "reviews": 8593
+      },
+      {
+        "rank": 4,
+        "asin": "B08ZH7DD36",
+        "title": "Daviky Pill Organizer 3 Times a Day, Pill Box 7 Day, Weekly Travel Case",
+        "rating": 4.8,
+        "reviews": 13354
+      },
+      {
+        "rank": 5,
+        "asin": "B0FJRK5PDP",
+        "title": "Pill Cutter Splitter for Small and Tiny Pills, 1/2 1/4 Pill Splitter for Small Pills,Vitamins, Tablets in Half or Quarters, Accurate and Easy Cutting, Stainless Steel Blade, Back Storage (Black)",
+        "rating": 4.3,
+        "reviews": 1699
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3760941:10079990011:3776391",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

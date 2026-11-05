@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "21233678011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Medical Supplies & Equipment > Cloth Face Masks & Accessories > Cloth Face Masks",
+  "categoryPathCn": "健康与家居 > 医疗用品和设备 > 布口罩和配件 > 布口罩",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 96,
+    "totalRevenue": 749439,
+    "avgRevenue": 7807,
+    "medianPrice": 16.48,
+    "priceBand": "$9.99 - $24.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0HLG1LW3R",
+      "title": "Old Man Ski Mask Funny Realistic Face Balaclava 3D Printed Full Face Cover",
+      "brand": "Prndkhn",
+      "price": 24.98,
+      "salesParent": 1672,
+      "revenue": 41800.0,
+      "rating": 5.0,
+      "reviews": 2
+    },
+    {
+      "rank": 2,
+      "asin": "B0HLKTNZ8C",
+      "title": "3 Pack Old Man Mask, Realistic 3D Printed Balaclava Funny Ski Mask, Novelty Full Head and Neck Cover for Adults, Funny Costume Masks for Halloween, Parties, Daily Fun, Snowboarding and Gag Gifts",
+      "brand": "Generic",
+      "price": 27.99,
+      "salesParent": 1293,
+      "revenue": 36035.91,
+      "rating": 4.1,
+      "reviews": 8
+    },
+    {
+      "rank": 3,
+      "asin": "B0HMC9L527",
+      "title": "Funny Old Man Ski Mask 3D Print Balaclava Full Realistic Face Winter Thermal Men's Novelty Face Cover",
+      "brand": "Rosaex",
+      "price": 23.98,
+      "salesParent": 1281,
+      "revenue": 30718.38,
+      "rating": 5.0,
+      "reviews": 2
+    },
+    {
+      "rank": 4,
+      "asin": "B0HLY34XLP",
+      "title": "Funny Old Man Winter Balaclava Ski Mask, 3D Realistic Face Print Full Face, Hilarious Winter Party Gear for Outdoor Groups, Stretch Cosplay Headgear for Halloween Costume Parties &amp; Pranks",
+      "brand": "TNHINA",
+      "price": 17.99,
+      "salesParent": 1022,
+      "revenue": 21789.04,
+      "rating": 3.6,
+      "reviews": 4
+    },
+    {
+      "rank": 5,
+      "asin": "B0HMC8TYYQ",
+      "title": "3 Pack Funny Old Man Face Ski Masks, Realistic Printed Balaclava for Adults, Novelty Winter Face Coverings for Skiing, Snowboarding, Outdoor Activities &amp; Costume Parties",
+      "brand": "Xyvornix",
+      "price": 24.99,
+      "salesParent": 771,
+      "revenue": 19691.34,
+      "rating": 1.5,
+      "reviews": 2
+    },
+    {
+      "rank": 6,
+      "asin": "B0HL8Q2TZZ",
+      "title": "Funny Ski Mask for Men With Face Print, Realistic Funny Face Mask",
+      "brand": "Generic",
+      "price": 29.99,
+      "salesParent": 551,
+      "revenue": 16023.08,
+      "rating": 5.0,
+      "reviews": 5
+    },
+    {
+      "rank": 7,
+      "asin": "B0HN6R3QG9",
+      "title": "3 Pack Old Man Ski Winter Face Mask,3D Print Funny Realistic Face Balaclava",
+      "brand": "Zenvoro",
+      "price": 23.99,
+      "salesParent": 699,
+      "revenue": 15958.17,
+      "rating": 1.0,
+      "reviews": 4
+    },
+    {
+      "rank": 8,
+      "asin": "B08L5JRJR3",
+      "title": "Second Skin Cloth Face Mask Pack. 4 Buttery Soft Masks Washable Fabric",
+      "brand": "VIRTUE CODE",
+      "price": 14.99,
+      "salesParent": 1109,
+      "revenue": 14727.52,
+      "rating": 4.3,
+      "reviews": 26356
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 135,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 135,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 749439,
+    "priorHeadRevenue": 319234,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 96,
+      "newCount": 68,
+      "pct": 71,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 48,
+      "brandCount": 61,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.15,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0HLG1LW3R",
+        "title": "Old Man Ski Mask Funny Realistic Face Balaclava 3D Printed Full Face Cover",
+        "rating": 5.0,
+        "reviews": 2
+      },
+      {
+        "rank": 2,
+        "asin": "B0HLKTNZ8C",
+        "title": "3 Pack Old Man Mask, Realistic 3D Printed Balaclava Funny Ski Mask, Novelty Full Head and Neck Cover for Adults, Funny Costume Masks for Halloween, Parties, Daily Fun, Snowboarding and Gag Gifts",
+        "rating": 4.1,
+        "reviews": 8
+      },
+      {
+        "rank": 3,
+        "asin": "B0HMC9L527",
+        "title": "Funny Old Man Ski Mask 3D Print Balaclava Full Realistic Face Winter Thermal Men's Novelty Face Cover",
+        "rating": 5.0,
+        "reviews": 2
+      },
+      {
+        "rank": 4,
+        "asin": "B0HLY34XLP",
+        "title": "Funny Old Man Winter Balaclava Ski Mask, 3D Realistic Face Print Full Face, Hilarious Winter Party Gear for Outdoor Groups, Stretch Cosplay Headgear for Halloween Costume Parties &amp; Pranks",
+        "rating": 3.6,
+        "reviews": 4
+      },
+      {
+        "rank": 5,
+        "asin": "B0HMC8TYYQ",
+        "title": "3 Pack Funny Old Man Face Ski Masks, Realistic Printed Balaclava for Adults, Novelty Winter Face Coverings for Skiing, Snowboarding, Outdoor Activities &amp; Costume Parties",
+        "rating": 1.5,
+        "reviews": 2
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3775161:21233677011:21233678011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

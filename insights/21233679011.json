@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "21233679011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Medical Supplies & Equipment > Cloth Face Masks & Accessories > Filters",
+  "categoryPathCn": "健康与家居 > 医疗用品和设备 > 布口罩和配件 > 滤芯",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 41,
+    "totalRevenue": 181293,
+    "avgRevenue": 4422,
+    "medianPrice": 18.99,
+    "priceBand": "$10.49 - $34.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B07FMFRLLQ",
+      "title": "O2 Nose Filters with 3M Filtration - Nasal Screens for Allergies, Dust &amp; Smoke - Drug-Free &amp; Latex-Free Nose Filters - Invisible Allergy Protection (Medium x 10)",
+      "brand": "Protego O2",
+      "price": 9.99,
+      "salesParent": 10771,
+      "revenue": 107602.29,
+      "rating": 3.7,
+      "reviews": 3218
+    },
+    {
+      "rank": 2,
+      "asin": "B07QG3QL3W",
+      "title": "BASE CAMP Activated Carbon Replacement Filters Only for M PRO, M Plus or M Cross Mask,N Plus Mask (18 Pack)",
+      "brand": "BASE CAMP",
+      "price": 35.99,
+      "salesParent": 502,
+      "revenue": 18066.98,
+      "rating": 4.6,
+      "reviews": 1851
+    },
+    {
+      "rank": 3,
+      "asin": "B0F47QJP1Q",
+      "title": "100 Pack Replaceable Activated Carbon Filters for Universal Silicone Funnel",
+      "brand": "PODOCK",
+      "price": 35.99,
+      "salesParent": 414,
+      "revenue": 14899.86,
+      "rating": 4.2,
+      "reviews": 94
+    },
+    {
+      "rank": 4,
+      "asin": "B08FG12JNQ",
+      "title": "100 Pcs Activated Carbon PM2.5 Mask Filter Paper 5 Layers",
+      "brand": "NBDIB",
+      "price": 9.99,
+      "salesParent": 772,
+      "revenue": 7712.28,
+      "rating": 4.7,
+      "reviews": 2133
+    },
+    {
+      "rank": 5,
+      "asin": "B0HK4C2STG",
+      "title": "8 Pack Half Mask Filter Replacement Compatible with SRP321 Filters",
+      "brand": "PIHIL",
+      "price": 26.99,
+      "salesParent": 248,
+      "revenue": 6976.24,
+      "rating": 5.0,
+      "reviews": 1
+    },
+    {
+      "rank": 6,
+      "asin": "B0FW6X88BG",
+      "title": "Moose Labs Replacement Activated Charcoal Filters, 40ct - Universal Fit for Silicone Mouthpieces",
+      "brand": "moose labs",
+      "price": 35.98,
+      "salesParent": 174,
+      "revenue": 6260.52,
+      "rating": 4.5,
+      "reviews": 28
+    },
+    {
+      "rank": 7,
+      "asin": "B08G8NYF1L",
+      "title": "30 Pcs Activated Carbon Face Filters Anti Dust Replacements Parts for Most Sport Bicycle Cycling Mask Filters with 8 Exhaust Breathing Valves Replacement",
+      "brand": "NBDIB",
+      "price": 15.99,
+      "salesParent": 219,
+      "revenue": 3501.81,
+      "rating": 4.5,
+      "reviews": 1325
+    },
+    {
+      "rank": 8,
+      "asin": "B0HLFY34M8",
+      "title": "Maker Machine Filter 3-Pack",
+      "brand": "Ptdwaz",
+      "price": 99.99,
+      "salesParent": 34,
+      "revenue": 3399.66,
+      "rating": 4.6,
+      "reviews": 2415
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 126,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 126,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 181293,
+    "priorHeadRevenue": 80323,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 41,
+      "newCount": 22,
+      "pct": 54,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 88,
+      "brandCount": 32,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.57,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B07FMFRLLQ",
+        "title": "O2 Nose Filters with 3M Filtration - Nasal Screens for Allergies, Dust &amp; Smoke - Drug-Free &amp; Latex-Free Nose Filters - Invisible Allergy Protection (Medium x 10)",
+        "rating": 3.7,
+        "reviews": 3218
+      },
+      {
+        "rank": 2,
+        "asin": "B07QG3QL3W",
+        "title": "BASE CAMP Activated Carbon Replacement Filters Only for M PRO, M Plus or M Cross Mask,N Plus Mask (18 Pack)",
+        "rating": 4.6,
+        "reviews": 1851
+      },
+      {
+        "rank": 3,
+        "asin": "B0F47QJP1Q",
+        "title": "100 Pack Replaceable Activated Carbon Filters for Universal Silicone Funnel",
+        "rating": 4.2,
+        "reviews": 94
+      },
+      {
+        "rank": 4,
+        "asin": "B08FG12JNQ",
+        "title": "100 Pcs Activated Carbon PM2.5 Mask Filter Paper 5 Layers",
+        "rating": 4.7,
+        "reviews": 2133
+      },
+      {
+        "rank": 5,
+        "asin": "B0HK4C2STG",
+        "title": "8 Pack Half Mask Filter Replacement Compatible with SRP321 Filters",
+        "rating": 5.0,
+        "reviews": 1
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3775161:21233677011:21233679011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

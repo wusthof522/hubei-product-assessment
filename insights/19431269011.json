@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "19431269011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Arts & Crafts > Drawing & Writing Boards > Doodle & Scribbler Boards",
+  "categoryPathCn": "玩具 > 艺术 > 绘图 > 涂鸦",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 3077648,
+    "avgRevenue": 31087,
+    "medianPrice": 21.59,
+    "priceBand": "$14.99 - $27.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B07GKWLBN2",
+      "title": "Water Doodle Mat - Kids Color Painting Toy, Gift Set for Toddlers 2-7",
+      "brand": "Toyk",
+      "price": 24.99,
+      "salesParent": 10882,
+      "revenue": 262909.12,
+      "rating": 4.5,
+      "reviews": 43299
+    },
+    {
+      "rank": 2,
+      "asin": "B0D46FMQTJ",
+      "title": "4 Pack LCD Writing Tablet for Kids, 8.5 Inch Colorful Doodle Board Drawing Tablet, Educational Learning Toys Birthday Gifts for Boys Girls Age 3 4 5 6 7 8",
+      "brand": "TQU",
+      "price": 9.99,
+      "salesParent": 19734,
+      "revenue": 197142.66,
+      "rating": 4.5,
+      "reviews": 5698
+    },
+    {
+      "rank": 3,
+      "asin": "B083BCTLP5",
+      "title": "10 Inch LCD Writing Tablet for 3-8 Year Olds - Electronic Drawing Pad and Doodle Board as Educational Birthday Gifts for Girls and Boys (Pink)",
+      "brand": "bravokids",
+      "price": 16.99,
+      "salesParent": 12082,
+      "revenue": 189083.3,
+      "rating": 4.6,
+      "reviews": 31098
+    },
+    {
+      "rank": 4,
+      "asin": "B085NDX8Y2",
+      "title": "LCD Writing Tablet for Kids, 10-inch Coloring Drawing Pad, Mess Free Doodle Board, Airplane Travel Toys for Boys and Toddlers, Road Trip Essentials, Gifts for 3 4 5 6 7 8 Year Old Girls (Pink)",
+      "brand": "TEKFUN",
+      "price": 14.98,
+      "salesParent": 9238,
+      "revenue": 173120.12,
+      "rating": 4.5,
+      "reviews": 30315
+    },
+    {
+      "rank": 5,
+      "asin": "B082KFTF41",
+      "title": "KOKODI LCD Writing Tablet, Gifts for 3 Years Old Boys and Girls，10 Inch Colorful Doodle Board Drawing Tablet, Erasable Reusable Electronic Drawing Pads, Educational and Learning Toys for Kids",
+      "brand": "KOKODI",
+      "price": 16.99,
+      "salesParent": 8126,
+      "revenue": 136029.23,
+      "rating": 4.5,
+      "reviews": 35423
+    },
+    {
+      "rank": 6,
+      "asin": "B0CCTF94DR",
+      "title": "EooCoo Kids LCD Writing Tablet, Stocking Stuffers for Toddler, Travel Toys",
+      "brand": "EooCoo",
+      "price": 7.99,
+      "salesParent": 15443,
+      "revenue": 133736.38,
+      "rating": 4.5,
+      "reviews": 2621
+    },
+    {
+      "rank": 7,
+      "asin": "B08B8TQJ3Q",
+      "title": "Water Doodle Mat, Kids Drawing Toys for 3 4 5 Year Old Boys Girls Gifts",
+      "brand": "Hollyhi",
+      "price": 23.99,
+      "salesParent": 3793,
+      "revenue": 90994.07,
+      "rating": 4.5,
+      "reviews": 3035
+    },
+    {
+      "rank": 8,
+      "asin": "B09FZ42BTP",
+      "title": "8.5 Inch LCD Doodle Board Tablet Toy - Green Dinosaur Drawing Pad for Kids 2-6 Years Old - Christmas and Birthday Gifts",
+      "brand": "ORSEN",
+      "price": 16.99,
+      "salesParent": 4270,
+      "revenue": 75835.2,
+      "rating": 4.6,
+      "reviews": 14327
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -27,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -27,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 3077648,
+    "priorHeadRevenue": 4219249,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 32,
+      "pct": 32,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 36,
+      "brandCount": 70,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.53,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B07GKWLBN2",
+        "title": "Water Doodle Mat - Kids Color Painting Toy, Gift Set for Toddlers 2-7",
+        "rating": 4.5,
+        "reviews": 43299
+      },
+      {
+        "rank": 2,
+        "asin": "B0D46FMQTJ",
+        "title": "4 Pack LCD Writing Tablet for Kids, 8.5 Inch Colorful Doodle Board Drawing Tablet, Educational Learning Toys Birthday Gifts for Boys Girls Age 3 4 5 6 7 8",
+        "rating": 4.5,
+        "reviews": 5698
+      },
+      {
+        "rank": 3,
+        "asin": "B083BCTLP5",
+        "title": "10 Inch LCD Writing Tablet for 3-8 Year Olds - Electronic Drawing Pad and Doodle Board as Educational Birthday Gifts for Girls and Boys (Pink)",
+        "rating": 4.6,
+        "reviews": 31098
+      },
+      {
+        "rank": 4,
+        "asin": "B085NDX8Y2",
+        "title": "LCD Writing Tablet for Kids, 10-inch Coloring Drawing Pad, Mess Free Doodle Board, Airplane Travel Toys for Boys and Toddlers, Road Trip Essentials, Gifts for 3 4 5 6 7 8 Year Old Girls (Pink)",
+        "rating": 4.5,
+        "reviews": 30315
+      },
+      {
+        "rank": 5,
+        "asin": "B082KFTF41",
+        "title": "KOKODI LCD Writing Tablet, Gifts for 3 Years Old Boys and Girls，10 Inch Colorful Doodle Board Drawing Tablet, Erasable Reusable Electronic Drawing Pads, Educational and Learning Toys for Kids",
+        "rating": 4.5,
+        "reviews": 35423
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166057011:19431267011:19431269011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

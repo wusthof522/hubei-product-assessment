@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3764371",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Health Care > Sleep & Snoring > Nasal Strips",
+  "categoryPathCn": "健康与家居 > 卫生保健 > 睡眠和打鼾 > 鼻贴",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 5108773,
+    "avgRevenue": 51604,
+    "medianPrice": 19.99,
+    "priceBand": "$15.99 - $29.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0DXLHVGLV",
+      "title": "Breathe Right Extra Strength Clear Nasal Strip (44ct) and Breathe Right Saline Nasal Rinse Spray 4.0 oz Bundle",
+      "brand": "Breathe Right",
+      "price": 21.07,
+      "salesParent": 99620,
+      "revenue": 2098993.25,
+      "rating": 4.3,
+      "reviews": 35
+    },
+    {
+      "rank": 2,
+      "asin": "B07FHM225F",
+      "title": "Breathe Right Nasal Strips, Extra Strength, Nasal Congestion, Clear, 44ct",
+      "brand": "Breathe Right",
+      "price": 14.32,
+      "salesParent": 111960,
+      "revenue": 1726423.25,
+      "rating": 4.3,
+      "reviews": 43047
+    },
+    {
+      "rank": 3,
+      "asin": "B0040UW838",
+      "title": "Breathe Right Nasal Strips, Large, Snoring, Nasal Congestion, Clear, 30 ct",
+      "brand": "Breathe Right",
+      "price": 15.54,
+      "salesParent": 35658,
+      "revenue": 532017.38,
+      "rating": 4.4,
+      "reviews": 16352
+    },
+    {
+      "rank": 4,
+      "asin": "B0FHWY5H8B",
+      "title": "Dream Recovery Second Wind Nasal Strips, Sand, 30 Count Pack",
+      "brand": "DREAM RECOVERY",
+      "price": 30.0,
+      "salesParent": 2893,
+      "revenue": 86008.89,
+      "rating": 3.8,
+      "reviews": 182
+    },
+    {
+      "rank": 5,
+      "asin": "B0HJG7RJBH",
+      "title": "60 PCS Extra Strength Nasal Strips for Snoring &amp; Congestion Relief (Black)",
+      "brand": "HERBPOEM",
+      "price": 16.33,
+      "salesParent": 3327,
+      "revenue": 66673.09,
+      "rating": 4.7,
+      "reviews": 2782
+    },
+    {
+      "rank": 6,
+      "asin": "B0H4ZKZJ6D",
+      "title": "60 Pcs Nasal Strips for Snoring Extra Strength Nose Strips for Breathing Y",
+      "brand": "DDXNL",
+      "price": 16.12,
+      "salesParent": 3028,
+      "revenue": 55987.72,
+      "rating": 4.6,
+      "reviews": 4573
+    },
+    {
+      "rank": 7,
+      "asin": "B0CQDZDZY4",
+      "title": "ZzzQuil Sleep Nasal Strips, Clear Nasal Strips, Snoring Relief from Nasal Congestion, Works Instantly, Reduces Nasal Congestion for Less Snoring and Better Sleep, Drug Free, 52 Nasal Strips",
+      "brand": "ZzzQuil",
+      "price": 28.39,
+      "salesParent": 1364,
+      "revenue": 35750.44,
+      "rating": 4.1,
+      "reviews": 1095
+    },
+    {
+      "rank": 8,
+      "asin": "B0CQ4WWCB4",
+      "title": "Upgraded Version - Invisible and Transparent Nasal Strips (66mm*19mm) (100)",
+      "brand": "Debaishi",
+      "price": 9.99,
+      "salesParent": 3510,
+      "revenue": 35064.9,
+      "rating": 4.2,
+      "reviews": 1227
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 138,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 138,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 5108773,
+    "priorHeadRevenue": 2150639,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 46,
+      "pct": 46,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 94,
+      "brandCount": 51,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 3.98,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0DXLHVGLV",
+        "title": "Breathe Right Extra Strength Clear Nasal Strip (44ct) and Breathe Right Saline Nasal Rinse Spray 4.0 oz Bundle",
+        "rating": 4.3,
+        "reviews": 35
+      },
+      {
+        "rank": 2,
+        "asin": "B07FHM225F",
+        "title": "Breathe Right Nasal Strips, Extra Strength, Nasal Congestion, Clear, 44ct",
+        "rating": 4.3,
+        "reviews": 43047
+      },
+      {
+        "rank": 3,
+        "asin": "B0040UW838",
+        "title": "Breathe Right Nasal Strips, Large, Snoring, Nasal Congestion, Clear, 30 ct",
+        "rating": 4.4,
+        "reviews": 16352
+      },
+      {
+        "rank": 4,
+        "asin": "B0FHWY5H8B",
+        "title": "Dream Recovery Second Wind Nasal Strips, Sand, 30 Count Pack",
+        "rating": 3.8,
+        "reviews": 182
+      },
+      {
+        "rank": 5,
+        "asin": "B0HJG7RJBH",
+        "title": "60 PCS Extra Strength Nasal Strips for Snoring &amp; Congestion Relief (Black)",
+        "rating": 4.7,
+        "reviews": 2782
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3760941:3764271:3764371",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

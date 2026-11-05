@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3762671",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Health Care > First Aid > Antifungals",
+  "categoryPathCn": "健康与家居 > 卫生保健 > 急救 > 抗真菌剂",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 98,
+    "totalRevenue": 10410770,
+    "avgRevenue": 106232,
+    "medianPrice": 19.84,
+    "priceBand": "$11.82 - $25.65",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0DV12HJQX",
+      "title": "Lunavia Antifungal Pen – Cures Most Athlete’s Foot, Jock Itch, and Ringworm - 25% Undecylenic Acid with added Tea Tree, Jojoba, Clove Bud Oils &amp; Aloe - 3-Pack Twist Pen (9ML Volume)",
+      "brand": "lunavia",
+      "price": 47.95,
+      "salesParent": 25398,
+      "revenue": 1217834.12,
+      "rating": 4.1,
+      "reviews": 7985
+    },
+    {
+      "rank": 2,
+      "asin": "B00O302HNQ",
+      "title": "Lotrimin Ultra 1 Week Athlete's Foot Treatment, Prescription Strength Butenafine Hydrochloride 1%, Cures Most Athlete’s Foot Between Toes, Cream, 1.1 Oz",
+      "brand": "Lotrimin",
+      "price": 18.97,
+      "salesParent": 31401,
+      "revenue": 576522.38,
+      "rating": 4.6,
+      "reviews": 30666
+    },
+    {
+      "rank": 3,
+      "asin": "B007ADOL28",
+      "title": "Kerasal Fungal Nail Renewal, Restorative Repair for Damaged Nails, .33 oz",
+      "brand": "Kerasal",
+      "price": 16.49,
+      "salesParent": 26956,
+      "revenue": 529685.38,
+      "rating": 4.2,
+      "reviews": 67713
+    },
+    {
+      "rank": 4,
+      "asin": "B0CL81D7Z7",
+      "title": "Lotrimin Ultra Antifungal Jock Itch Cream, Butenaﬁne Hydrochloride, 1.1oz",
+      "brand": "Lotrimin",
+      "price": 18.99,
+      "salesParent": 22757,
+      "revenue": 432155.44,
+      "rating": 4.5,
+      "reviews": 27178
+    },
+    {
+      "rank": 5,
+      "asin": "B009D3IV7O",
+      "title": "terrasil Clotrimazole Antifungal Cream Maximum Strength Treatment, 0.5oz",
+      "brand": "terrasil",
+      "price": 20.95,
+      "salesParent": 13596,
+      "revenue": 284836.22,
+      "rating": 4.3,
+      "reviews": 11941
+    },
+    {
+      "rank": 6,
+      "asin": "B0C7VP8SFV",
+      "title": "Clotrimazole 1% Antifungal Cream, Athlete's Foot Jock Itch Ringworm 2 oz",
+      "brand": "SimplyVital",
+      "price": 29.97,
+      "salesParent": 9234,
+      "revenue": 276742.97,
+      "rating": 4.4,
+      "reviews": 1534
+    },
+    {
+      "rank": 7,
+      "asin": "B0114LO6W6",
+      "title": "Lamisil Athletes Foot Antifungal Cream, 1 Week Treatment, Terbinafine, 1 oz",
+      "brand": "Lamisil",
+      "price": 14.97,
+      "salesParent": 17752,
+      "revenue": 266812.56,
+      "rating": 4.6,
+      "reviews": 4114
+    },
+    {
+      "rank": 8,
+      "asin": "B004P53HI8",
+      "title": "Terbinafine Hydrochloride Antifungal Cream 1%, 1oz",
+      "brand": "TARO",
+      "price": 12.19,
+      "salesParent": 22002,
+      "revenue": 266664.25,
+      "rating": 4.6,
+      "reviews": 12509
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 19,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 19,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 10410770,
+    "priorHeadRevenue": 8727722,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 98,
+      "newCount": 24,
+      "pct": 24,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 49,
+      "brandCount": 61,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.43,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0DV12HJQX",
+        "title": "Lunavia Antifungal Pen – Cures Most Athlete’s Foot, Jock Itch, and Ringworm - 25% Undecylenic Acid with added Tea Tree, Jojoba, Clove Bud Oils &amp; Aloe - 3-Pack Twist Pen (9ML Volume)",
+        "rating": 4.1,
+        "reviews": 7985
+      },
+      {
+        "rank": 2,
+        "asin": "B00O302HNQ",
+        "title": "Lotrimin Ultra 1 Week Athlete's Foot Treatment, Prescription Strength Butenafine Hydrochloride 1%, Cures Most Athlete’s Foot Between Toes, Cream, 1.1 Oz",
+        "rating": 4.6,
+        "reviews": 30666
+      },
+      {
+        "rank": 3,
+        "asin": "B007ADOL28",
+        "title": "Kerasal Fungal Nail Renewal, Restorative Repair for Damaged Nails, .33 oz",
+        "rating": 4.2,
+        "reviews": 67713
+      },
+      {
+        "rank": 4,
+        "asin": "B0CL81D7Z7",
+        "title": "Lotrimin Ultra Antifungal Jock Itch Cream, Butenaﬁne Hydrochloride, 1.1oz",
+        "rating": 4.5,
+        "reviews": 27178
+      },
+      {
+        "rank": 5,
+        "asin": "B009D3IV7O",
+        "title": "terrasil Clotrimazole Antifungal Cream Maximum Strength Treatment, 0.5oz",
+        "rating": 4.3,
+        "reviews": 11941
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3760941:3762591:3762671",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

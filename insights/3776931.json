@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3776931",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Medical Supplies & Equipment > Mobility & Daily Living Aids > Reaching Aids",
+  "categoryPathCn": "健康与家居 > 医疗用品和设备 > 行动和日常生活辅助工具 > 通行辅助用品",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 2557147,
+    "avgRevenue": 25830,
+    "medianPrice": 21.84,
+    "priceBand": "$14.24 - $34.97",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0FRDLYV9S",
+      "title": "Telescopic Grabber Reacher Tool, 5-Level Adjustable Length (23'' to 41'') - Trash Claw Gripper, Pickup Stick for Litter Picking, Yard Work, and Seniors (Blue)",
+      "brand": "FGRHY",
+      "price": 9.99,
+      "salesParent": 24296,
+      "revenue": 242717.03,
+      "rating": 4.6,
+      "reviews": 3157
+    },
+    {
+      "rank": 2,
+      "asin": "B0CGDM3SCN",
+      "title": "32&quot; Grabber Reacher Tool, 2-Pack Foldable Reacher Grabber Pickup Tool with 360° Rotating Jaw &amp; Magnet, Trash Picker Upper Grabber, Lightweight Grabbers for Seniors Heavy Duty",
+      "brand": "rewkcy",
+      "price": 14.95,
+      "salesParent": 16111,
+      "revenue": 226520.67,
+      "rating": 4.6,
+      "reviews": 12576
+    },
+    {
+      "rank": 3,
+      "asin": "B0CYLP2G6X",
+      "title": "Grabber Reacher Tool - 32” Extra Long Foldable Gripper and Reaching Tool - Heavy Duty Pick Up Stick Grabbers for Seniors, Trash, Surgery Recovery Must Haves Gifts (Blue)",
+      "brand": "POPDA",
+      "price": 14.39,
+      "salesParent": 10491,
+      "revenue": 167436.36,
+      "rating": 4.6,
+      "reviews": 7221
+    },
+    {
+      "rank": 4,
+      "asin": "B07PHKY2JW",
+      "title": "RMS 2-Pack 32 Inch Extra Long Grabber Reacher with Rotating Jaw (Yellow)",
+      "brand": "RMS",
+      "price": 36.99,
+      "salesParent": 4134,
+      "revenue": 152916.67,
+      "rating": 4.8,
+      "reviews": 28211
+    },
+    {
+      "rank": 5,
+      "asin": "B09QQDQ74H",
+      "title": "EZPIK Pro 36&quot; Grabber Reacher Tool for Seniors, Trash Picker Upper, 1-Pack",
+      "brand": "EZPIK",
+      "price": 27.95,
+      "salesParent": 4779,
+      "revenue": 129559.0,
+      "rating": 4.4,
+      "reviews": 6412
+    },
+    {
+      "rank": 6,
+      "asin": "B0D7C6V5DF",
+      "title": "32 inch GrabRunner Heavy Duty(up to 10 lbs) Reacher Grabber Tool with Strong Magnetic (New Pink) 1 Pack",
+      "brand": "GrabRunner",
+      "price": 9.79,
+      "salesParent": 13138,
+      "revenue": 125205.13,
+      "rating": 4.6,
+      "reviews": 4915
+    },
+    {
+      "rank": 7,
+      "asin": "B0F223BGRL",
+      "title": "KEKOY Grabber Reacher Tool Heavy Duty, 40 Inch 2 Pack, Grabber for Seniors",
+      "brand": "Kekoy",
+      "price": 37.99,
+      "salesParent": 2136,
+      "revenue": 80014.56,
+      "rating": 4.5,
+      "reviews": 563
+    },
+    {
+      "rank": 8,
+      "asin": "B00UZHYXG0",
+      "title": "RMS Featherweight the Original Reacher 2-Pack (26-inch)",
+      "brand": "RMS",
+      "price": 31.99,
+      "salesParent": 2366,
+      "revenue": 75688.34,
+      "rating": 4.6,
+      "reviews": 24355
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 4,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 4,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 2557147,
+    "priorHeadRevenue": 2467424,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 38,
+      "pct": 38,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 47,
+      "brandCount": 61,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.43,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0FRDLYV9S",
+        "title": "Telescopic Grabber Reacher Tool, 5-Level Adjustable Length (23'' to 41'') - Trash Claw Gripper, Pickup Stick for Litter Picking, Yard Work, and Seniors (Blue)",
+        "rating": 4.6,
+        "reviews": 3157
+      },
+      {
+        "rank": 2,
+        "asin": "B0CGDM3SCN",
+        "title": "32&quot; Grabber Reacher Tool, 2-Pack Foldable Reacher Grabber Pickup Tool with 360° Rotating Jaw &amp; Magnet, Trash Picker Upper Grabber, Lightweight Grabbers for Seniors Heavy Duty",
+        "rating": 4.6,
+        "reviews": 12576
+      },
+      {
+        "rank": 3,
+        "asin": "B0CYLP2G6X",
+        "title": "Grabber Reacher Tool - 32” Extra Long Foldable Gripper and Reaching Tool - Heavy Duty Pick Up Stick Grabbers for Seniors, Trash, Surgery Recovery Must Haves Gifts (Blue)",
+        "rating": 4.6,
+        "reviews": 7221
+      },
+      {
+        "rank": 4,
+        "asin": "B07PHKY2JW",
+        "title": "RMS 2-Pack 32 Inch Extra Long Grabber Reacher with Rotating Jaw (Yellow)",
+        "rating": 4.8,
+        "reviews": 28211
+      },
+      {
+        "rank": 5,
+        "asin": "B09QQDQ74H",
+        "title": "EZPIK Pro 36&quot; Grabber Reacher Tool for Seniors, Trash Picker Upper, 1-Pack",
+        "rating": 4.4,
+        "reviews": 6412
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3775161:8624314011:3776931",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

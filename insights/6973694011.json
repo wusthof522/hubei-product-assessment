@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "6973694011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Diet & Sports Nutrition > Sports Nutrition > Electrolyte Replacement",
+  "categoryPathCn": "健康与家居 > 暮和喜欢 > 运动营养 > 电解质更换",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 98,
+    "totalRevenue": 77756509,
+    "avgRevenue": 793434,
+    "medianPrice": 29.99,
+    "priceBand": "$22.84 - $39.0",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B07SH31T9V",
+      "title": "LMNT Zero Sugar Electrolytes - Raspberry Salt | Drink Mix | 30-Count",
+      "brand": "Drink LMNT",
+      "price": 44.95,
+      "salesParent": 272522,
+      "revenue": 12249864.0,
+      "rating": 4.6,
+      "reviews": 6676
+    },
+    {
+      "rank": 2,
+      "asin": "B01IT9NLHW",
+      "title": "Liquid I.V. Hydration Electrolytes, Lemon Lime, 16 Count",
+      "brand": "Liquid I.V.",
+      "price": 24.0,
+      "salesParent": 235927,
+      "revenue": 5662248.0,
+      "rating": 4.6,
+      "reviews": 108339
+    },
+    {
+      "rank": 3,
+      "asin": "B088GJ7VK6",
+      "title": "Redmond Re-Lyte Sugar Free Electrolyte Powder Drink Mix (Mixed Berry)",
+      "brand": "REDMOND",
+      "price": 45.99,
+      "salesParent": 93179,
+      "revenue": 4285302.5,
+      "rating": 4.6,
+      "reviews": 3645
+    },
+    {
+      "rank": 4,
+      "asin": "B08XQZX9K3",
+      "title": "Ultima Replenisher Original Variety Electrolyte Packets, 20 Stickpacks",
+      "brand": "Ultima Replenisher",
+      "price": 20.99,
+      "salesParent": 178500,
+      "revenue": 3746715.0,
+      "rating": 4.6,
+      "reviews": 21473
+    },
+    {
+      "rank": 5,
+      "asin": "B0BQ4G7LY8",
+      "title": "Liquid I.V. Sugar Free Hydration Electrolytes, Lemon Lime, 14 Count",
+      "brand": "Liquid I.V.",
+      "price": 20.36,
+      "salesParent": 179415,
+      "revenue": 3652889.5,
+      "rating": 4.6,
+      "reviews": 8027
+    },
+    {
+      "rank": 6,
+      "asin": "B06XNSDV5T",
+      "title": "Ultima Replenisher Cherry Pomegranate Electrolyte Packets, 20 Stickpacks",
+      "brand": "Ultima Replenisher",
+      "price": 20.99,
+      "salesParent": 121231,
+      "revenue": 2544638.75,
+      "rating": 4.6,
+      "reviews": 1652
+    },
+    {
+      "rank": 7,
+      "asin": "B0FMGNZYNL",
+      "title": "Ultima Replenisher Ultimate Variety Electrolyte Packets, 36 Stickpacks",
+      "brand": "Ultima Replenisher",
+      "price": 35.99,
+      "salesParent": 64773,
+      "revenue": 2331180.5,
+      "rating": 4.7,
+      "reviews": 1941
+    },
+    {
+      "rank": 8,
+      "asin": "B0CYJKKLZB",
+      "title": "Nuun Sport Electrolyte Tablets Mixed Flavor, GF &amp; Vegan, 4 Pack",
+      "brand": "Nuun",
+      "price": 21.82,
+      "salesParent": 102713,
+      "revenue": 2169298.75,
+      "rating": 4.5,
+      "reviews": 15361
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 38,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 38,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 77756509,
+    "priorHeadRevenue": 56301812,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 98,
+      "newCount": 19,
+      "pct": 19,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 62,
+      "brandCount": 57,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.5,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B07SH31T9V",
+        "title": "LMNT Zero Sugar Electrolytes - Raspberry Salt | Drink Mix | 30-Count",
+        "rating": 4.6,
+        "reviews": 6676
+      },
+      {
+        "rank": 2,
+        "asin": "B01IT9NLHW",
+        "title": "Liquid I.V. Hydration Electrolytes, Lemon Lime, 16 Count",
+        "rating": 4.6,
+        "reviews": 108339
+      },
+      {
+        "rank": 3,
+        "asin": "B088GJ7VK6",
+        "title": "Redmond Re-Lyte Sugar Free Electrolyte Powder Drink Mix (Mixed Berry)",
+        "rating": 4.6,
+        "reviews": 3645
+      },
+      {
+        "rank": 4,
+        "asin": "B08XQZX9K3",
+        "title": "Ultima Replenisher Original Variety Electrolyte Packets, 20 Stickpacks",
+        "rating": 4.6,
+        "reviews": 21473
+      },
+      {
+        "rank": 5,
+        "asin": "B0BQ4G7LY8",
+        "title": "Liquid I.V. Sugar Free Hydration Electrolytes, Lemon Lime, 14 Count",
+        "rating": 4.6,
+        "reviews": 8027
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3764441:6973663011:6973694011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

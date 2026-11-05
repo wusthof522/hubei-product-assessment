@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3775151",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins & Dietary Supplements > Weight Loss > Supplements",
+  "categoryPathCn": "健康与家居 > 暮和喜欢 > 减肥瘦身 > 减肥补品",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 21949941,
+    "avgRevenue": 219499,
+    "medianPrice": 29.47,
+    "priceBand": "$20.49 - $39.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0CYV4FCJS",
+      "title": "Serene Herbs Soursop Bitters, Herbal Liquid with Soursop Leaf, 16 fl oz",
+      "brand": "Serene Herbs",
+      "price": 39.99,
+      "salesParent": 107979,
+      "revenue": 4318080.5,
+      "rating": 4.3,
+      "reviews": 17257
+    },
+    {
+      "rank": 2,
+      "asin": "B0H2BVV9XX",
+      "title": "Lymphatic Drainage Drops for Bloat Relief &amp; De-Puff – Cleavers, Red Clover, Stillingia Root &amp; Prickly Ash Bark – Lymph Node Detox Cleanse, Fluid Retention, Alcohol-Free, 2 Fl Oz (Pack of 2)",
+      "brand": "LYMPHORIA",
+      "price": 49.84,
+      "salesParent": 41790,
+      "revenue": 2222810.0,
+      "rating": 3.9,
+      "reviews": 352
+    },
+    {
+      "rank": 3,
+      "asin": "B000PKEJR0",
+      "title": "nbpure MagO7 - Natural Colon Cleanse &amp; Detox | Occasional Constipation Relief, Stool Softening, &amp; Bloating Support for Men &amp; Women | Ozonated Magnesium Oxide, 90 Capsules",
+      "brand": "nbpure",
+      "price": 27.95,
+      "salesParent": 60004,
+      "revenue": 1674111.62,
+      "rating": 4.6,
+      "reviews": 48450
+    },
+    {
+      "rank": 4,
+      "asin": "B01BGU4S28",
+      "title": "Global Healing Oxy-Powder Colon Cleanse, Magnesium Oxide, 60 Capsules",
+      "brand": "Global Healing Center",
+      "price": 29.95,
+      "salesParent": 36574,
+      "revenue": 1095391.38,
+      "rating": 4.6,
+      "reviews": 19115
+    },
+    {
+      "rank": 5,
+      "asin": "B0BKR7W4L1",
+      "title": "Eu Natural Purge Uric Acid Flush with Tart Cherry &amp; Celery Seed, 120 Caps",
+      "brand": "Eu Natural",
+      "price": 50.99,
+      "salesParent": 15807,
+      "revenue": 805998.94,
+      "rating": 4.3,
+      "reviews": 10064
+    },
+    {
+      "rank": 6,
+      "asin": "B087YXPP96",
+      "title": "Biote Nutraceuticals DIM SGS | Hormone &amp; Detox Support | 60 Capsules",
+      "brand": "Biote",
+      "price": 58.0,
+      "salesParent": 11714,
+      "revenue": 679412.0,
+      "rating": 4.7,
+      "reviews": 3307
+    },
+    {
+      "rank": 7,
+      "asin": "B08841KRMT",
+      "title": "Nutramax Avmacol Extra Strength Sulforaphane Producing Supplement, 75 Tabs",
+      "brand": "Nutramax Laboratories",
+      "price": 65.99,
+      "salesParent": 9009,
+      "revenue": 594503.88,
+      "rating": 4.6,
+      "reviews": 1127
+    },
+    {
+      "rank": 8,
+      "asin": "B00ISAPPLI",
+      "title": "Dr. Tobias Colon 14 Day Cleanse | Supports Digestion &amp; Gut Health",
+      "brand": "Dr. Tobias",
+      "price": 19.99,
+      "salesParent": 28901,
+      "revenue": 577731.0,
+      "rating": 4.3,
+      "reviews": 93813
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 31,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 31,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 21949941,
+    "priorHeadRevenue": 16780924,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 10,
+      "pct": 10,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 47,
+      "brandCount": 85,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.36,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0CYV4FCJS",
+        "title": "Serene Herbs Soursop Bitters, Herbal Liquid with Soursop Leaf, 16 fl oz",
+        "rating": 4.3,
+        "reviews": 17257
+      },
+      {
+        "rank": 2,
+        "asin": "B0H2BVV9XX",
+        "title": "Lymphatic Drainage Drops for Bloat Relief &amp; De-Puff – Cleavers, Red Clover, Stillingia Root &amp; Prickly Ash Bark – Lymph Node Detox Cleanse, Fluid Retention, Alcohol-Free, 2 Fl Oz (Pack of 2)",
+        "rating": 3.9,
+        "reviews": 352
+      },
+      {
+        "rank": 3,
+        "asin": "B000PKEJR0",
+        "title": "nbpure MagO7 - Natural Colon Cleanse &amp; Detox | Occasional Constipation Relief, Stool Softening, &amp; Bloating Support for Men &amp; Women | Ozonated Magnesium Oxide, 90 Capsules",
+        "rating": 4.6,
+        "reviews": 48450
+      },
+      {
+        "rank": 4,
+        "asin": "B01BGU4S28",
+        "title": "Global Healing Oxy-Powder Colon Cleanse, Magnesium Oxide, 60 Capsules",
+        "rating": 4.6,
+        "reviews": 19115
+      },
+      {
+        "rank": 5,
+        "asin": "B0BKR7W4L1",
+        "title": "Eu Natural Purge Uric Acid Flush with Tart Cherry &amp; Celery Seed, 120 Caps",
+        "rating": 4.3,
+        "reviews": 10064
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3764441:3774931:3775151",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

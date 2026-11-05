@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3021459011",
+  "level": "L2",
+  "categoryPathEn": "Industrial & Scientific > Power & Hand Tools",
+  "categoryPathCn": "工业类 > 权力",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 45,
+    "totalRevenue": 277464,
+    "avgRevenue": 6166,
+    "medianPrice": 130.09,
+    "priceBand": "$56.59 - $309.49",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0C8J4PJLC",
+      "title": "Framing Tools,16 Inch On-Center Stud Layout Tool,100% Cast Aluminum Framing Spacing Tool,Premium Wall Stud Framing Tool,Precision Measurement Jig Tool For Framing Wall",
+      "brand": "Octina",
+      "price": 39.99,
+      "salesParent": 1131,
+      "revenue": 46404.93,
+      "rating": 4.7,
+      "reviews": 519
+    },
+    {
+      "rank": 2,
+      "asin": "B0BXMJ9V6D",
+      "title": "LEVEL5 Semi-Automatic Drywall Banjo Taping Tool | Professional Grade, Aircraft-Grade Aluminum Body, Ergonomic &amp; Corrosion Resistant | 5-311",
+      "brand": "LEVEL5",
+      "price": 150.29,
+      "salesParent": 174,
+      "revenue": 25586.7,
+      "rating": 4.2,
+      "reviews": 185
+    },
+    {
+      "rank": 3,
+      "asin": "B00107M76M",
+      "title": "ROBERTS Economy Adjustable Knee Kicker,Black",
+      "brand": "ROBERTS",
+      "price": 70.2,
+      "salesParent": 316,
+      "revenue": 23766.36,
+      "rating": 4.5,
+      "reviews": 920
+    },
+    {
+      "rank": 4,
+      "asin": "B074N1FSKV",
+      "title": "48 in Box and Pan Brake, 5.51 in Box Depth, 12 Ga KAKA INDUSTRIAL W-4812",
+      "brand": "KAKA INDUSTRIAL",
+      "price": 2986.0,
+      "salesParent": 7,
+      "revenue": 20902.0,
+      "rating": 4.5,
+      "reviews": 25
+    },
+    {
+      "rank": 5,
+      "asin": "B0000AY61E",
+      "title": "WEN 10423 3 x 2 x 1-Inch Steel-Hardened Precision 123 Blocks, Two Pack",
+      "brand": "WEN",
+      "price": 19.29,
+      "salesParent": 1052,
+      "revenue": 20293.08,
+      "rating": 4.8,
+      "reviews": 4208
+    },
+    {
+      "rank": 6,
+      "asin": "B09134F7GY",
+      "title": "iCrimp CRQ01 Disconnect Tong Sized 1/2 inch, 3/4 inch, 1 inch, Removal Tool used for Demount Brass Push Fit, Push-to-Connect Fittings",
+      "brand": "IWISS",
+      "price": 12.79,
+      "salesParent": 1164,
+      "revenue": 14887.56,
+      "rating": 4.4,
+      "reviews": 2909
+    },
+    {
+      "rank": 7,
+      "asin": "B0BVTZXDRX",
+      "title": "Magnetic Sheet Metal Brake, 48 in, 16 Ga KAKA INDUSTRIAL EB-4816B",
+      "brand": "KAKA INDUSTRIAL",
+      "price": 2800.54,
+      "salesParent": 5,
+      "revenue": 14002.7,
+      "rating": 4.2,
+      "reviews": 8
+    },
+    {
+      "rank": 8,
+      "asin": "B0CWTH8HT3",
+      "title": "Portable Line Boring and Welding Machine 2 in1 Line Boring and Overlay Welding, Hole Drilling Connecting Rod Boring Machine with European Connector 110V",
+      "brand": "TECHTONGDA",
+      "price": 4238.05,
+      "salesParent": 3,
+      "revenue": 12714.15,
+      "rating": null,
+      "reviews": null
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 8,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 8,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 277464,
+    "priorHeadRevenue": 257593,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 45,
+      "newCount": 16,
+      "pct": 36,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 55,
+      "brandCount": 36,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.36,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0C8J4PJLC",
+        "title": "Framing Tools,16 Inch On-Center Stud Layout Tool,100% Cast Aluminum Framing Spacing Tool,Premium Wall Stud Framing Tool,Precision Measurement Jig Tool For Framing Wall",
+        "rating": 4.7,
+        "reviews": 519
+      },
+      {
+        "rank": 2,
+        "asin": "B0BXMJ9V6D",
+        "title": "LEVEL5 Semi-Automatic Drywall Banjo Taping Tool | Professional Grade, Aircraft-Grade Aluminum Body, Ergonomic &amp; Corrosion Resistant | 5-311",
+        "rating": 4.2,
+        "reviews": 185
+      },
+      {
+        "rank": 3,
+        "asin": "B00107M76M",
+        "title": "ROBERTS Economy Adjustable Knee Kicker,Black",
+        "rating": 4.5,
+        "reviews": 920
+      },
+      {
+        "rank": 4,
+        "asin": "B074N1FSKV",
+        "title": "48 in Box and Pan Brake, 5.51 in Box Depth, 12 Ga KAKA INDUSTRIAL W-4812",
+        "rating": 4.5,
+        "reviews": 25
+      },
+      {
+        "rank": 5,
+        "asin": "B0000AY61E",
+        "title": "WEN 10423 3 x 2 x 1-Inch Steel-Hardened Precision 123 Blocks, Two Pack",
+        "rating": 4.8,
+        "reviews": 4208
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "16310091:3021459011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

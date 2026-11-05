@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23642771011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Toy Figures & Playsets > Play Figure Vehicles > Buses",
+  "categoryPathCn": "玩具 > 玩具图 > 游戏人物车辆 > 巴士",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "insufficient",
+  "marketSize": {
+    "sampleCount": 10,
+    "totalRevenue": 16864,
+    "avgRevenue": 1686,
+    "medianPrice": 26.18,
+    "priceBand": "$12.99 - $33.85",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0144VUMU8",
+      "title": "Tayo Special Minibus Set",
+      "brand": "Tayo the Little Bus",
+      "price": 29.65,
+      "salesParent": 179,
+      "revenue": 5174.89,
+      "rating": 4.5,
+      "reviews": 1307
+    },
+    {
+      "rank": 2,
+      "asin": "B0742LJY36",
+      "title": "Tayo Gani Lani Rogi - The Little Bus Tayo Special Metal Vehicles Set 4pcs",
+      "brand": "Tayo the Little Bus",
+      "price": 27.65,
+      "salesParent": 169,
+      "revenue": 4672.85,
+      "rating": 4.1,
+      "reviews": 931
+    },
+    {
+      "rank": 3,
+      "asin": "B00APTAACE",
+      "title": "Tayo the Little Bus Tayo - Action Play car Figure, Christmas and Birthday Gifts for Kids, The Most Popular Children's Cartoon Characters in Korea",
+      "brand": "Tayo the Little Bus",
+      "price": 18.13,
+      "salesParent": 95,
+      "revenue": 1710.0,
+      "rating": 4.6,
+      "reviews": 1188
+    },
+    {
+      "rank": 4,
+      "asin": "B07R5QBV4J",
+      "title": "Big Daddy Huge Yellow School Bus with Lights and Cool Openable Doors Pull Back Toy School Bus with Sounds and Songs for Girls, Boys, Toddlers",
+      "brand": "Big Daddy",
+      "price": 24.7,
+      "salesParent": 65,
+      "revenue": 1606.15,
+      "rating": 4.5,
+      "reviews": 864
+    },
+    {
+      "rank": 5,
+      "asin": "B01MU9NK6Y",
+      "title": "Fisher-Price Little People Musical Toddler Toy Sit with Me School Bus with Lights Sounds &amp; 2 Figures for Pretend Play Kids Ages 1+ Years",
+      "brand": "Fisher-Price",
+      "price": 59.99,
+      "salesParent": 30,
+      "revenue": 1473.6,
+      "rating": 4.8,
+      "reviews": 2334
+    },
+    {
+      "rank": 6,
+      "asin": "B06XT845H1",
+      "title": "6 inch Long-Nose School Bus Die Cast Metal Model Toy Car w/Pullback Action",
+      "brand": "KinsFun",
+      "price": 9.95,
+      "salesParent": 120,
+      "revenue": 1147.2,
+      "rating": 4.7,
+      "reviews": 4078
+    },
+    {
+      "rank": 7,
+      "asin": "B0H8DDHDBQ",
+      "title": "School Bus Driver Gifts, Crochet School Bus Appreciation Gift with Card",
+      "brand": "Haraketlt",
+      "price": 12.99,
+      "salesParent": 42,
+      "revenue": 545.58,
+      "rating": 4.5,
+      "reviews": 5
+    },
+    {
+      "rank": 8,
+      "asin": "B0GZDZP8WT",
+      "title": "No Battery Korean Animation Little Bus Friends TI.TI.PO. Figures Toy, Set of 5 (37M+)",
+      "brand": "GIANANO",
+      "price": 32.59,
+      "salesParent": 14,
+      "revenue": 456.26,
+      "rating": null,
+      "reviews": null
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": null,
+    "direction": "flat",
+    "comparable": null,
+    "rawYoyPct": -65,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 16864,
+    "priorHeadRevenue": 48695,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 10,
+      "newCount": 3,
+      "pct": 30,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 97,
+      "brandCount": 8,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.51,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0144VUMU8",
+        "title": "Tayo Special Minibus Set",
+        "rating": 4.5,
+        "reviews": 1307
+      },
+      {
+        "rank": 2,
+        "asin": "B0742LJY36",
+        "title": "Tayo Gani Lani Rogi - The Little Bus Tayo Special Metal Vehicles Set 4pcs",
+        "rating": 4.1,
+        "reviews": 931
+      },
+      {
+        "rank": 3,
+        "asin": "B00APTAACE",
+        "title": "Tayo the Little Bus Tayo - Action Play car Figure, Christmas and Birthday Gifts for Kids, The Most Popular Children's Cartoon Characters in Korea",
+        "rating": 4.6,
+        "reviews": 1188
+      },
+      {
+        "rank": 4,
+        "asin": "B07R5QBV4J",
+        "title": "Big Daddy Huge Yellow School Bus with Lights and Cool Openable Doors Pull Back Toy School Bus with Sounds and Songs for Girls, Boys, Toddlers",
+        "rating": 4.5,
+        "reviews": 864
+      },
+      {
+        "rank": 5,
+        "asin": "B01MU9NK6Y",
+        "title": "Fisher-Price Little People Musical Toddler Toy Sit with Me School Bus with Lights Sounds &amp; 2 Figures for Pretend Play Kids Ages 1+ Years",
+        "rating": 4.8,
+        "reviews": 2334
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:165993011:274293011:23642771011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

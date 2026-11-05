@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23642774011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Toy Figures & Playsets > Play Figure Vehicles > Cars",
+  "categoryPathCn": "玩具 > 玩具图 > 游戏人物车辆 > 汽车",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 1770405,
+    "avgRevenue": 17704,
+    "medianPrice": 21.67,
+    "priceBand": "$17.59 - $34.69",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0GH2V8RQ6",
+      "title": "PAW Patrol The Dino Movie Marshall Dino Rescue Firetruck Toy Vehicle",
+      "brand": "Paw Patrol",
+      "price": 15.97,
+      "salesParent": 11101,
+      "revenue": 177282.97,
+      "rating": 4.8,
+      "reviews": 107
+    },
+    {
+      "rank": 2,
+      "asin": "B0GH35QNHH",
+      "title": "PAW Patrol The Dino Movie Rocky Dino Rescue Recycler Toy Vehicle",
+      "brand": "Paw Patrol",
+      "price": 15.97,
+      "salesParent": 9951,
+      "revenue": 158917.47,
+      "rating": 4.8,
+      "reviews": 58
+    },
+    {
+      "rank": 3,
+      "asin": "B0GH395XDQ",
+      "title": "PAW Patrol The Dino Movie Zuma Dino Rescue Hovercraft Toy Vehicle",
+      "brand": "Paw Patrol",
+      "price": 15.97,
+      "salesParent": 9416,
+      "revenue": 150373.52,
+      "rating": 4.9,
+      "reviews": 59
+    },
+    {
+      "rank": 4,
+      "asin": "B0FH4BQ8WZ",
+      "title": "22 in 1 Toddler T-rex Dinosaur Truck Toy Set for Kids Boys 3-5 5-7, Tyrannosaurus Carrier Transport Truck with 18 Jurassic Dino Figures Birthday Toy for Boys Girls 3 4 5 6 7 Years Old",
+      "brand": "Guminnara",
+      "price": 32.99,
+      "salesParent": 3786,
+      "revenue": 113049.96,
+      "rating": 4.5,
+      "reviews": 337
+    },
+    {
+      "rank": 5,
+      "asin": "B0DSR5CQMX",
+      "title": "PAW Patrol Ryder’s ATV Toy Car &amp; Clip-In Action Figure",
+      "brand": "Paw Patrol",
+      "price": 21.0,
+      "salesParent": 3939,
+      "revenue": 81458.52,
+      "rating": 4.8,
+      "reviews": 718
+    },
+    {
+      "rank": 6,
+      "asin": "B0GH36MDKT",
+      "title": "PAW Patrol The Dino Movie Pup Squad Racers Toy Car 6-Pack",
+      "brand": "Paw Patrol",
+      "price": 26.99,
+      "salesParent": 2485,
+      "revenue": 67070.15,
+      "rating": 4.8,
+      "reviews": 55
+    },
+    {
+      "rank": 7,
+      "asin": "B0H1881KYR",
+      "title": "Stargo Press to Go Car Toys, Montessori Toys for 1 Year Old Boy Gifts",
+      "brand": "stargo",
+      "price": 17.99,
+      "salesParent": 3046,
+      "revenue": 54736.62,
+      "rating": 4.8,
+      "reviews": 168
+    },
+    {
+      "rank": 8,
+      "asin": "B0DW6JSM83",
+      "title": "Mattel Disney and Pixar Cars Winter-Themed 5-Pack",
+      "brand": "Mattel Brick Shop",
+      "price": 32.57,
+      "salesParent": 1451,
+      "revenue": 46011.21,
+      "rating": 4.8,
+      "reviews": 437
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -11,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -11,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1770405,
+    "priorHeadRevenue": 1985071,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 62,
+      "pct": 62,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 65,
+      "brandCount": 47,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.61,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0GH2V8RQ6",
+        "title": "PAW Patrol The Dino Movie Marshall Dino Rescue Firetruck Toy Vehicle",
+        "rating": 4.8,
+        "reviews": 107
+      },
+      {
+        "rank": 2,
+        "asin": "B0GH35QNHH",
+        "title": "PAW Patrol The Dino Movie Rocky Dino Rescue Recycler Toy Vehicle",
+        "rating": 4.8,
+        "reviews": 58
+      },
+      {
+        "rank": 3,
+        "asin": "B0GH395XDQ",
+        "title": "PAW Patrol The Dino Movie Zuma Dino Rescue Hovercraft Toy Vehicle",
+        "rating": 4.9,
+        "reviews": 59
+      },
+      {
+        "rank": 4,
+        "asin": "B0FH4BQ8WZ",
+        "title": "22 in 1 Toddler T-rex Dinosaur Truck Toy Set for Kids Boys 3-5 5-7, Tyrannosaurus Carrier Transport Truck with 18 Jurassic Dino Figures Birthday Toy for Boys Girls 3 4 5 6 7 Years Old",
+        "rating": 4.5,
+        "reviews": 337
+      },
+      {
+        "rank": 5,
+        "asin": "B0DSR5CQMX",
+        "title": "PAW Patrol Ryder’s ATV Toy Car &amp; Clip-In Action Figure",
+        "rating": 4.8,
+        "reviews": 718
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:165993011:274293011:23642774011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

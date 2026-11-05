@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "21228049011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Collectible Toys > Collectible Display & Storage > Figure Display Stands",
+  "categoryPathCn": "玩具 > 收藏品玩具 > 收藏品展示 > 人物展示架",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 58,
+    "totalRevenue": 86070,
+    "avgRevenue": 1484,
+    "medianPrice": 23.89,
+    "priceBand": "$16.36 - $39.05",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0H1LBBGXL",
+      "title": "Adjustable Halloween Skeleton Stand, 5.4 Ft Metal Skeleton Pose Stand",
+      "brand": "Watayo",
+      "price": 37.99,
+      "salesParent": 311,
+      "revenue": 11618.96,
+      "rating": 4.1,
+      "reviews": 57
+    },
+    {
+      "rank": 2,
+      "asin": "B0HB3PVGMG",
+      "title": "2 Set Adjustable Halloween Skeleton Stand, 5 FT Metal Skeleton Pose Stand",
+      "brand": "MUDEREK",
+      "price": 49.99,
+      "salesParent": 185,
+      "revenue": 9026.15,
+      "rating": 4.2,
+      "reviews": 7
+    },
+    {
+      "rank": 3,
+      "asin": "B0H711KST5",
+      "title": "2Set Adjustable Metal Skeleton Stand for 5.9/6.56FT Halloween Skeleton Yard",
+      "brand": "QincLing",
+      "price": 46.99,
+      "salesParent": 188,
+      "revenue": 9012.72,
+      "rating": 4.5,
+      "reviews": 23
+    },
+    {
+      "rank": 4,
+      "asin": "B0GDXMWQXT",
+      "title": "for TonieBox Shelf 3-Tier Wooden Magnetic Shelf with Bag(White)",
+      "brand": "Conamily",
+      "price": 26.99,
+      "salesParent": 238,
+      "revenue": 6437.9,
+      "rating": 4.6,
+      "reviews": 46
+    },
+    {
+      "rank": 5,
+      "asin": "B0H3ZX3TPP",
+      "title": "2Set Adjust Metal Skeleton Stand for 5.9/6.56ft Halloween Skeleton,30 Ties",
+      "brand": "Wenfan",
+      "price": 44.99,
+      "salesParent": 131,
+      "revenue": 6153.07,
+      "rating": 4.1,
+      "reviews": 27
+    },
+    {
+      "rank": 6,
+      "asin": "B0H6HJQZDT",
+      "title": "Skeleton Stand for Halloween Adjustable Skeleton Statue Stand Outdoor(2Set)",
+      "brand": "LEMEWEL",
+      "price": 43.99,
+      "salesParent": 105,
+      "revenue": 5080.95,
+      "rating": 4.2,
+      "reviews": 31
+    },
+    {
+      "rank": 7,
+      "asin": "B0H4F1VNW5",
+      "title": "2Sets Skeleton Stand Outdoor for Halloween 6FT Skeletons",
+      "brand": "Nalanzhou",
+      "price": 22.99,
+      "salesParent": 199,
+      "revenue": 4975.0,
+      "rating": 3.0,
+      "reviews": 21
+    },
+    {
+      "rank": 8,
+      "asin": "B0F6XL8P3L",
+      "title": "House for Toniesbox Figures Storage Organizer Shelf Holder Stand",
+      "brand": "Taladad",
+      "price": 36.89,
+      "salesParent": 98,
+      "revenue": 3983.7,
+      "rating": 4.5,
+      "reviews": 68
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": null,
+    "direction": "flat",
+    "comparable": false,
+    "rawYoyPct": 513,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 86070,
+    "priorHeadRevenue": 14044,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 58,
+      "newCount": 34,
+      "pct": 61,
+      "unknownLaunch": 2,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 49,
+      "brandCount": 52,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.26,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0H1LBBGXL",
+        "title": "Adjustable Halloween Skeleton Stand, 5.4 Ft Metal Skeleton Pose Stand",
+        "rating": 4.1,
+        "reviews": 57
+      },
+      {
+        "rank": 2,
+        "asin": "B0HB3PVGMG",
+        "title": "2 Set Adjustable Halloween Skeleton Stand, 5 FT Metal Skeleton Pose Stand",
+        "rating": 4.2,
+        "reviews": 7
+      },
+      {
+        "rank": 3,
+        "asin": "B0H711KST5",
+        "title": "2Set Adjustable Metal Skeleton Stand for 5.9/6.56FT Halloween Skeleton Yard",
+        "rating": 4.5,
+        "reviews": 23
+      },
+      {
+        "rank": 4,
+        "asin": "B0GDXMWQXT",
+        "title": "for TonieBox Shelf 3-Tier Wooden Magnetic Shelf with Bag(White)",
+        "rating": 4.6,
+        "reviews": 46
+      },
+      {
+        "rank": 5,
+        "asin": "B0H3ZX3TPP",
+        "title": "2Set Adjust Metal Skeleton Stand for 5.9/6.56ft Halloween Skeleton,30 Ties",
+        "rating": 4.1,
+        "reviews": 27
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:19431275011:19431291011:21228049011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

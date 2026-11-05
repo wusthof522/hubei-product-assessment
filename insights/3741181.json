@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3741181",
+  "level": "L2",
+  "categoryPathEn": "Appliances > Parts & Accessories",
+  "categoryPathCn": "家电 > 零件",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 49937671,
+    "avgRevenue": 499377,
+    "medianPrice": 34.09,
+    "priceBand": "$26.9 - $50.74",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0882ZJ48W",
+      "title": "GE XWFE™ Refrigerator Water Filter, Genuine Filter, Guaranteed Fit, 1-pack",
+      "brand": "GE",
+      "price": 49.98,
+      "salesParent": 100633,
+      "revenue": 5024605.5,
+      "rating": 4.5,
+      "reviews": 43410
+    },
+    {
+      "rank": 2,
+      "asin": "B00UXG4WR8",
+      "title": "everydrop by Whirlpool Ice &amp; Water Refrigerator Filter 1, Purple, EDR1RXD1",
+      "brand": "EveryDrop",
+      "price": 50.99,
+      "salesParent": 86780,
+      "revenue": 4471773.5,
+      "rating": 4.7,
+      "reviews": 109444
+    },
+    {
+      "rank": 3,
+      "asin": "B009PCI2JU",
+      "title": "GE RPWFE™ Refrigerator Water Filter, Genuine Filter, Guaranteed Fit, 1-pack",
+      "brand": "GE",
+      "price": 49.98,
+      "salesParent": 62514,
+      "revenue": 3124449.75,
+      "rating": 4.6,
+      "reviews": 59332
+    },
+    {
+      "rank": 4,
+      "asin": "B074HLRXMP",
+      "title": "LG LT1000P - 6 Month / 200 Gallon Capacity Replacement Refrigerator Water Filter (NSF42, NSF53, and NSF401) ADQ74793501, ADQ75795105, AGF80300704, or AGF80300705 White",
+      "brand": "LG",
+      "price": 47.99,
+      "salesParent": 58556,
+      "revenue": 2652586.75,
+      "rating": 4.7,
+      "reviews": 36375
+    },
+    {
+      "rank": 5,
+      "asin": "B071NFVVNG",
+      "title": "Samsung HAF-QIN/EXP Genuine Refrigerator Water Filter, Reduces 99% of Harmful Contaminants for Clean, Clear Drinking Water, 6-Month Life, Easy Install, Pack of 1",
+      "brand": "Samsung",
+      "price": 35.49,
+      "salesParent": 74055,
+      "revenue": 2646725.75,
+      "rating": 4.6,
+      "reviews": 44341
+    },
+    {
+      "rank": 6,
+      "asin": "B00VBP8QPO",
+      "title": "everydrop by Whirlpool Ice &amp; Water Refrigerator Filter 2, Orange, EDR2RXD1",
+      "brand": "EveryDrop by Whirlpool",
+      "price": 49.99,
+      "salesParent": 51034,
+      "revenue": 2552720.75,
+      "rating": 4.7,
+      "reviews": 46359
+    },
+    {
+      "rank": 7,
+      "asin": "B08V6JB9R7",
+      "title": "Frigidaire FPPWFU01 PWF-1 Refrigerator Water Filter Replacement",
+      "brand": "Frigidaire",
+      "price": 59.0,
+      "salesParent": 29509,
+      "revenue": 1633913.25,
+      "rating": 4.7,
+      "reviews": 13001
+    },
+    {
+      "rank": 8,
+      "asin": "B01BKWSHHE",
+      "title": "Frigidaire EPTWFU01 Refrigerator Water Filter Replacement, White",
+      "brand": "Frigidaire",
+      "price": 59.75,
+      "salesParent": 23036,
+      "revenue": 1266749.62,
+      "rating": 4.8,
+      "reviews": 35559
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 15,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 15,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 49937671,
+    "priorHeadRevenue": 43291891,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 11,
+      "pct": 11,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 62,
+      "brandCount": 43,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.6,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0882ZJ48W",
+        "title": "GE XWFE™ Refrigerator Water Filter, Genuine Filter, Guaranteed Fit, 1-pack",
+        "rating": 4.5,
+        "reviews": 43410
+      },
+      {
+        "rank": 2,
+        "asin": "B00UXG4WR8",
+        "title": "everydrop by Whirlpool Ice &amp; Water Refrigerator Filter 1, Purple, EDR1RXD1",
+        "rating": 4.7,
+        "reviews": 109444
+      },
+      {
+        "rank": 3,
+        "asin": "B009PCI2JU",
+        "title": "GE RPWFE™ Refrigerator Water Filter, Genuine Filter, Guaranteed Fit, 1-pack",
+        "rating": 4.6,
+        "reviews": 59332
+      },
+      {
+        "rank": 4,
+        "asin": "B074HLRXMP",
+        "title": "LG LT1000P - 6 Month / 200 Gallon Capacity Replacement Refrigerator Water Filter (NSF42, NSF53, and NSF401) ADQ74793501, ADQ75795105, AGF80300704, or AGF80300705 White",
+        "rating": 4.7,
+        "reviews": 36375
+      },
+      {
+        "rank": 5,
+        "asin": "B071NFVVNG",
+        "title": "Samsung HAF-QIN/EXP Genuine Refrigerator Water Filter, Reduces 99% of Harmful Contaminants for Clean, Clear Drinking Water, 6-Month Life, Easy Install, Pack of 1",
+        "rating": 4.6,
+        "reviews": 44341
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "2619525011:3741181",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

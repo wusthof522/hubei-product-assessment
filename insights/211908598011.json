@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "211908598011",
+  "level": "L2",
+  "categoryPathEn": "Beauty & Personal Care > Gift Sets",
+  "categoryPathCn": "Beauty & Personal Care > Gift Sets",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 69,
+    "totalRevenue": 50082,
+    "avgRevenue": 726,
+    "medianPrice": 28.99,
+    "priceBand": "$21.49 - $37.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0H7QX7XPY",
+      "title": "Halloween Gifts for Women Boo Basket with Ghost Cup Self Care Gift Box",
+      "brand": "Teliles",
+      "price": 13.29,
+      "salesParent": 535,
+      "revenue": 8511.85,
+      "rating": 4.6,
+      "reviews": 41
+    },
+    {
+      "rank": 2,
+      "asin": "B0FPFJNZQJ",
+      "title": "Christmas Birthday Gifts for Women Self Care Package Get Well Soon Gift Spa",
+      "brand": "MAYICIVO",
+      "price": 42.99,
+      "salesParent": 110,
+      "revenue": 4753.1,
+      "rating": 4.8,
+      "reviews": 119
+    },
+    {
+      "rank": 3,
+      "asin": "B0H42QDCWN",
+      "title": "Sol de Janeiro Smooth &amp; Bright Solidays Bom Dia Routine Gift Set",
+      "brand": "Sol de Janeiro",
+      "price": 49.0,
+      "salesParent": 95,
+      "revenue": 4655.0,
+      "rating": 4.8,
+      "reviews": 26
+    },
+    {
+      "rank": 4,
+      "asin": "B0H4F21YYQ",
+      "title": "7 Pcs Breast Cancer Gift Set for Women Survivor Tote Bag",
+      "brand": "Bulyoou",
+      "price": 24.99,
+      "salesParent": 115,
+      "revenue": 3004.95,
+      "rating": 4.7,
+      "reviews": 5
+    },
+    {
+      "rank": 5,
+      "asin": "B0D95RD595",
+      "title": "7 Pcs Christian Gifts for Women Christmas Religious Gift Set",
+      "brand": "Funnymoom",
+      "price": 24.99,
+      "salesParent": 115,
+      "revenue": 3001.5,
+      "rating": 4.6,
+      "reviews": 61
+    },
+    {
+      "rank": 6,
+      "asin": "B0H36LWBJR",
+      "title": "Birthday Gifts for Women, 11-Piece Self Care Gifts with Flannel Blanket",
+      "brand": "NECHEGI",
+      "price": 39.99,
+      "salesParent": 65,
+      "revenue": 2599.35,
+      "rating": 4.4,
+      "reviews": 9
+    },
+    {
+      "rank": 7,
+      "asin": "B0HG9FS5B7",
+      "title": "numbuzin No.9 NAD+ Peptides Essentials Travel Kit, Mini Size Essentials",
+      "brand": "numbuzin",
+      "price": 25.0,
+      "salesParent": 90,
+      "revenue": 2223.9,
+      "rating": 4.5,
+      "reviews": 2
+    },
+    {
+      "rank": 8,
+      "asin": "B0H7YNNJRY",
+      "title": "Bliss Mighty Mashmallow Duo | Face Mask + Hydrating Lip Mask, Exclusive Set",
+      "brand": "Bliss",
+      "price": 27.0,
+      "salesParent": 50,
+      "revenue": 1912.5,
+      "rating": 4.8,
+      "reviews": 31
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": null,
+    "direction": "flat",
+    "comparable": null,
+    "rawYoyPct": -55,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 50082,
+    "priorHeadRevenue": 111541,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 69,
+      "newCount": 56,
+      "pct": 82,
+      "unknownLaunch": 1,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 48,
+      "brandCount": 61,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.64,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0H7QX7XPY",
+        "title": "Halloween Gifts for Women Boo Basket with Ghost Cup Self Care Gift Box",
+        "rating": 4.6,
+        "reviews": 41
+      },
+      {
+        "rank": 2,
+        "asin": "B0FPFJNZQJ",
+        "title": "Christmas Birthday Gifts for Women Self Care Package Get Well Soon Gift Spa",
+        "rating": 4.8,
+        "reviews": 119
+      },
+      {
+        "rank": 3,
+        "asin": "B0H42QDCWN",
+        "title": "Sol de Janeiro Smooth &amp; Bright Solidays Bom Dia Routine Gift Set",
+        "rating": 4.8,
+        "reviews": 26
+      },
+      {
+        "rank": 4,
+        "asin": "B0H4F21YYQ",
+        "title": "7 Pcs Breast Cancer Gift Set for Women Survivor Tote Bag",
+        "rating": 4.7,
+        "reviews": 5
+      },
+      {
+        "rank": 5,
+        "asin": "B0D95RD595",
+        "title": "7 Pcs Christian Gifts for Women Christmas Religious Gift Set",
+        "rating": 4.6,
+        "reviews": 61
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760911:211908598011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

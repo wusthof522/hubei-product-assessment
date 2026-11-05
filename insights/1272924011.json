@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "1272924011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Sports & Outdoor Play > Pools & Water Toys > Pool Rafts & Inflatable Ride-ons",
+  "categoryPathCn": "玩具 > 体育 > 游泳池 > 泳池筏子",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 2371229,
+    "avgRevenue": 23952,
+    "medianPrice": 38.99,
+    "priceBand": "$24.99 - $199.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0D68VRKS2",
+      "title": "Aqua 4-in-1 Monterey Hammock Pool Float &amp; Water Hammocks – 2-3-4 Multipacks – Multiple Colors/Styles – for Adults and Kids Floating",
+      "brand": "Aqua LEISURE",
+      "price": 27.14,
+      "salesParent": 6483,
+      "revenue": 171734.67,
+      "rating": 4.5,
+      "reviews": 69948
+    },
+    {
+      "rank": 2,
+      "asin": "B0CP9R6D91",
+      "title": "Water Hammock Inflatable Round Floating Ring for Adults",
+      "brand": "CALOBANA",
+      "price": 269.99,
+      "salesParent": 294,
+      "revenue": 84836.64,
+      "rating": 4.4,
+      "reviews": 516
+    },
+    {
+      "rank": 3,
+      "asin": "B0BKTLNSLG",
+      "title": "SLOOSH Inflatable Pool Floats Adult,2 Packs Floating Lounge Chairs,Blow up Pool Noodles for Adult Heavy Duty,Floating Chair for Party Summer Water Beach Lake Fun",
+      "brand": "Sloosh",
+      "price": 39.99,
+      "salesParent": 1920,
+      "revenue": 76780.81,
+      "rating": 4.2,
+      "reviews": 6302
+    },
+    {
+      "rank": 4,
+      "asin": "B000H1N35G",
+      "title": "TRC Recreation Sunsation 1.75&quot; Thick Foam Pool Float Lounger w/ Headrest for Lounging &amp; Sunbathing in Swimming Pools, Beaches &amp; Lakes, 70&quot; x 26",
+      "brand": "Texas Recreation",
+      "price": 134.99,
+      "salesParent": 520,
+      "revenue": 70194.81,
+      "rating": 4.2,
+      "reviews": 4656
+    },
+    {
+      "rank": 5,
+      "asin": "B0DRFGKFVW",
+      "title": "Jasonwell Inflatable Pool Float Chair - 2Pack Pool Floaties Floating Pool Chair Lounge Floats for Swimming Pool Water Chair Pool Lounger with Cup Holder Pool Toy Party Floaty Adults (BG-L)",
+      "brand": "Jasonwell",
+      "price": 31.99,
+      "salesParent": 1836,
+      "revenue": 57283.2,
+      "rating": 4.3,
+      "reviews": 4035
+    },
+    {
+      "rank": 6,
+      "asin": "B0BR5NLF9P",
+      "title": "Inflatable Tanning Pool Lounger Float - Jasonwell 4 in 1 Sun Tan Tub Sunbathing Pool Lounge Raft Floatie Toys Water Filled Tanning Bed Mat Pad for Adult Blow Up Kiddie Pools Kids Ball Pit (MG,L)",
+      "brand": "Jasonwell",
+      "price": 39.99,
+      "salesParent": 1347,
+      "revenue": 53866.53,
+      "rating": 4.3,
+      "reviews": 9444
+    },
+    {
+      "rank": 7,
+      "asin": "B000030000",
+      "title": "INTEX Inflatable Pool Float: Pool Toy for Kids",
+      "brand": "Intex",
+      "price": 19.95,
+      "salesParent": 1930,
+      "revenue": 41977.5,
+      "rating": 4.6,
+      "reviews": 9553
+    },
+    {
+      "rank": 8,
+      "asin": "B0CCP5B39L",
+      "title": "Threan Inflatable Limbo Game 60 Inch, Christmas Xmas Party Set",
+      "brand": "Threan",
+      "price": 27.99,
+      "salesParent": 1496,
+      "revenue": 41873.04,
+      "rating": 3.4,
+      "reviews": 185
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -6,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -6,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 2371229,
+    "priorHeadRevenue": 2531349,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 21,
+      "pct": 21,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 42,
+      "brandCount": 54,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.26,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0D68VRKS2",
+        "title": "Aqua 4-in-1 Monterey Hammock Pool Float &amp; Water Hammocks – 2-3-4 Multipacks – Multiple Colors/Styles – for Adults and Kids Floating",
+        "rating": 4.5,
+        "reviews": 69948
+      },
+      {
+        "rank": 2,
+        "asin": "B0CP9R6D91",
+        "title": "Water Hammock Inflatable Round Floating Ring for Adults",
+        "rating": 4.4,
+        "reviews": 516
+      },
+      {
+        "rank": 3,
+        "asin": "B0BKTLNSLG",
+        "title": "SLOOSH Inflatable Pool Floats Adult,2 Packs Floating Lounge Chairs,Blow up Pool Noodles for Adult Heavy Duty,Floating Chair for Party Summer Water Beach Lake Fun",
+        "rating": 4.2,
+        "reviews": 6302
+      },
+      {
+        "rank": 4,
+        "asin": "B000H1N35G",
+        "title": "TRC Recreation Sunsation 1.75&quot; Thick Foam Pool Float Lounger w/ Headrest for Lounging &amp; Sunbathing in Swimming Pools, Beaches &amp; Lakes, 70&quot; x 26",
+        "rating": 4.2,
+        "reviews": 4656
+      },
+      {
+        "rank": 5,
+        "asin": "B0DRFGKFVW",
+        "title": "Jasonwell Inflatable Pool Float Chair - 2Pack Pool Floaties Floating Pool Chair Lounge Floats for Swimming Pool Water Chair Pool Lounger with Cup Holder Pool Toy Party Floaty Adults (BG-L)",
+        "rating": 4.3,
+        "reviews": 4035
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166420011:166437011:1272924011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "2515107011",
+  "level": "L4",
+  "categoryPathEn": "Clothing, Shoes & Jewelry > Sport Specific Clothing > Cheerleading > Girls",
+  "categoryPathCn": "服装、鞋履和珠宝 > 运动专用服装 > 啦啦队 > 女孩们",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 39,
+    "totalRevenue": 52326,
+    "avgRevenue": 1342,
+    "medianPrice": 8.95,
+    "priceBand": "$8.95 - $25.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0C5K47935",
+      "title": "chassé Women's Long Sleeve Cropped Bodysuit, Mock Neck Cheerleading Shirt - Adult Sizes",
+      "brand": "chassé",
+      "price": 37.94,
+      "salesParent": 738,
+      "revenue": 23505.3,
+      "rating": 4.8,
+      "reviews": 21
+    },
+    {
+      "rank": 2,
+      "asin": "B0C5KDC7QN",
+      "title": "chassé Girls Boy-Cut Cheerleading Briefs, Soft Mid-Rise Athletic Shorts for Youth Girls",
+      "brand": "chassé",
+      "price": 15.99,
+      "salesParent": 480,
+      "revenue": 7675.2,
+      "rating": 4.3,
+      "reviews": 104
+    },
+    {
+      "rank": 3,
+      "asin": "B071KFFSF3",
+      "title": "Danzcue Girls Cheerleading Basic Bodyliner Top Sportswear Bodysuits",
+      "brand": "Danzcue",
+      "price": 25.99,
+      "salesParent": 222,
+      "revenue": 5769.78,
+      "rating": 4.2,
+      "reviews": 92
+    },
+    {
+      "rank": 4,
+      "asin": "B0FR4SJX4L",
+      "title": "Stelle Girls 2 in 1 Butterfly Shorts Flowy Athletic Shorts with Pocket",
+      "brand": "Stelle",
+      "price": 14.99,
+      "salesParent": 248,
+      "revenue": 3705.12,
+      "rating": 4.7,
+      "reviews": 90
+    },
+    {
+      "rank": 5,
+      "asin": "B0FPLB2F9D",
+      "title": "Danzcue Child Knit Pleat Cheerlearding Uniform Skirt",
+      "brand": "Danzcue",
+      "price": 25.99,
+      "salesParent": 137,
+      "revenue": 3534.6,
+      "rating": 4.6,
+      "reviews": 13
+    },
+    {
+      "rank": 6,
+      "asin": "B072R53BT6",
+      "title": "Danzcue Girls' Sportswear Cheer Brief",
+      "brand": "Danzcue",
+      "price": 12.99,
+      "salesParent": 209,
+      "revenue": 2714.91,
+      "rating": 4.3,
+      "reviews": 198
+    },
+    {
+      "rank": 7,
+      "asin": "B0DRDSL7T5",
+      "title": "Soffe Girls' Authentic Cheer Shorts – Soft Cotton Blend Gym Shorts for Cheerleading, Dance, Running, Fitness, &amp; Casual Wear",
+      "brand": "Soffe",
+      "price": 6.99,
+      "salesParent": 232,
+      "revenue": 1621.68,
+      "rating": 4.0,
+      "reviews": 73
+    },
+    {
+      "rank": 8,
+      "asin": "B0F1PF6K8N",
+      "title": "Ion Cheerleading Uniform Top for Girls - V-Neck Tank Cheer Shell Top",
+      "brand": "ION Cheer",
+      "price": 36.94,
+      "salesParent": 44,
+      "revenue": 1590.16,
+      "rating": 5.0,
+      "reviews": 1
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -41,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -41,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 52326,
+    "priorHeadRevenue": 89037,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 39,
+      "newCount": 12,
+      "pct": 31,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 97,
+      "brandCount": 10,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.2,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0C5K47935",
+        "title": "chassé Women's Long Sleeve Cropped Bodysuit, Mock Neck Cheerleading Shirt - Adult Sizes",
+        "rating": 4.8,
+        "reviews": 21
+      },
+      {
+        "rank": 2,
+        "asin": "B0C5KDC7QN",
+        "title": "chassé Girls Boy-Cut Cheerleading Briefs, Soft Mid-Rise Athletic Shorts for Youth Girls",
+        "rating": 4.3,
+        "reviews": 104
+      },
+      {
+        "rank": 3,
+        "asin": "B071KFFSF3",
+        "title": "Danzcue Girls Cheerleading Basic Bodyliner Top Sportswear Bodysuits",
+        "rating": 4.2,
+        "reviews": 92
+      },
+      {
+        "rank": 4,
+        "asin": "B0FR4SJX4L",
+        "title": "Stelle Girls 2 in 1 Butterfly Shorts Flowy Athletic Shorts with Pocket",
+        "rating": 4.7,
+        "reviews": 90
+      },
+      {
+        "rank": 5,
+        "asin": "B0FPLB2F9D",
+        "title": "Danzcue Child Knit Pleat Cheerlearding Uniform Skirt",
+        "rating": 4.6,
+        "reviews": 13
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "7141123011:23575629011:2515105011:2515107011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

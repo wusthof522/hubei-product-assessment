@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "17419390011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Household Supplies > Cleaning Tools > Scouring Pads & Sticks",
+  "categoryPathCn": "健康与家居 > 家居用品 > 清洁工具 > 擦洗垫和擦洗棒",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 93,
+    "totalRevenue": 2983677,
+    "avgRevenue": 32083,
+    "medianPrice": 13.49,
+    "priceBand": "$9.99 - $22.49",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0FD7PBMDB",
+      "title": "Scotch-Brite Heavy Duty Scouring Pad,Dish Scrubber for Kitchen + Outdoor,8 Scrub Pads for Uncoated Pots and Pans,Cast Iron Cooktops,Grill Grates,Oven Racks,&amp; BBQ,Durable,Long-Lasting,(Pack of 12)",
+      "brand": "Scotch-Brite",
+      "price": 124.8,
+      "salesParent": 7901,
+      "revenue": 986044.81,
+      "rating": 4.8,
+      "reviews": 12663
+    },
+    {
+      "rank": 2,
+      "asin": "B07DXB29BF",
+      "title": "Skoy Scrub, 4-Pack Reusable, Non-Scratching Dish Scrubber for Kitchen and Household Cleaning, Planet-Friendly, Dishwasher Safe Soft Scrub, Assorted Colors and Designs",
+      "brand": "Skoy",
+      "price": 9.99,
+      "salesParent": 16450,
+      "revenue": 164335.5,
+      "rating": 4.7,
+      "reviews": 21848
+    },
+    {
+      "rank": 3,
+      "asin": "B002CQTXBC",
+      "title": "Scotch-Brite Stainless Steel Scrubbers, 3 Pack",
+      "brand": "Scotch-Brite",
+      "price": 2.68,
+      "salesParent": 42141,
+      "revenue": 109566.59,
+      "rating": 4.7,
+      "reviews": 33005
+    },
+    {
+      "rank": 4,
+      "asin": "B001KYQBX0",
+      "title": "Scotch-Brite Heavy Duty Scouring Pad, 8 Pack",
+      "brand": "Scotch-Brite",
+      "price": 11.88,
+      "salesParent": 8352,
+      "revenue": 102228.48,
+      "rating": 4.8,
+      "reviews": 10450
+    },
+    {
+      "rank": 5,
+      "asin": "B0G446LHJX",
+      "title": "6&quot; x 9&quot; 3M 07447 Scotch-Brite Maroon General Purpose Hand Pads (1-Pack of 20 Pads)",
+      "brand": "3M",
+      "price": 28.0,
+      "salesParent": 3583,
+      "revenue": 100324.0,
+      "rating": 4.9,
+      "reviews": 1021
+    },
+    {
+      "rank": 6,
+      "asin": "B018UR7LPG",
+      "title": "PUMIE Scouring Stick, Heavy Duty Pumice Toilet Bowl Ring Remover, 2-Pack",
+      "brand": "PUMIE",
+      "price": 9.98,
+      "salesParent": 9217,
+      "revenue": 91985.66,
+      "rating": 4.7,
+      "reviews": 11993
+    },
+    {
+      "rank": 7,
+      "asin": "B07MF3DY3C",
+      "title": "Mr. Clean Magic Eraser Original Cleaning Pads, Multi Purpose Cleaner, Bathroom Cleaning Supplies, All Purpose Cleaner, White, 6 Count",
+      "brand": "Mr. Clean",
+      "price": 11.8,
+      "salesParent": 6208,
+      "revenue": 82876.81,
+      "rating": 4.7,
+      "reviews": 37055
+    },
+    {
+      "rank": 8,
+      "asin": "B08LH36P55",
+      "title": "8 Pack Pumice Stone for Toilet Bowl Cleaning, Scouring Stick Remove Toilet Bowl Hard Water Rings, Calcium Buildup and Rust Suitable for Cleaning Toilet, Bathroom, Kitchen Sink, Grill",
+      "brand": "FALAMON",
+      "price": 8.69,
+      "salesParent": 8917,
+      "revenue": 81768.89,
+      "rating": 4.7,
+      "reviews": 8681
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 61,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 61,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 2983677,
+    "priorHeadRevenue": 1851176,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 93,
+      "newCount": 17,
+      "pct": 18,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 67,
+      "brandCount": 59,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.56,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0FD7PBMDB",
+        "title": "Scotch-Brite Heavy Duty Scouring Pad,Dish Scrubber for Kitchen + Outdoor,8 Scrub Pads for Uncoated Pots and Pans,Cast Iron Cooktops,Grill Grates,Oven Racks,&amp; BBQ,Durable,Long-Lasting,(Pack of 12)",
+        "rating": 4.8,
+        "reviews": 12663
+      },
+      {
+        "rank": 2,
+        "asin": "B07DXB29BF",
+        "title": "Skoy Scrub, 4-Pack Reusable, Non-Scratching Dish Scrubber for Kitchen and Household Cleaning, Planet-Friendly, Dishwasher Safe Soft Scrub, Assorted Colors and Designs",
+        "rating": 4.7,
+        "reviews": 21848
+      },
+      {
+        "rank": 3,
+        "asin": "B002CQTXBC",
+        "title": "Scotch-Brite Stainless Steel Scrubbers, 3 Pack",
+        "rating": 4.7,
+        "reviews": 33005
+      },
+      {
+        "rank": 4,
+        "asin": "B001KYQBX0",
+        "title": "Scotch-Brite Heavy Duty Scouring Pad, 8 Pack",
+        "rating": 4.8,
+        "reviews": 10450
+      },
+      {
+        "rank": 5,
+        "asin": "B0G446LHJX",
+        "title": "6&quot; x 9&quot; 3M 07447 Scotch-Brite Maroon General Purpose Hand Pads (1-Pack of 20 Pads)",
+        "rating": 4.9,
+        "reviews": 1021
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:15342811:15342831:17419390011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

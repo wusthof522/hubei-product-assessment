@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23498076011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Stuffed Animals & Plush Toys > Stuffed Animal Clothing & Accessories > Accessories",
+  "categoryPathCn": "玩具 > 填充的动物 > 填充的动物服装 > 配件",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 298736,
+    "avgRevenue": 2987,
+    "medianPrice": 15.99,
+    "priceBand": "$9.99 - $23.48",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0D6ZTHJ9L",
+      "title": "Large Macrame Stuffed Animal Storage Hammock | Holds 12 lbs | Corner Stuffed Animal Organizer | Plushie Net for Stuffed Animals | Stuffy Storage, Cute Bedroom, Room Decor | White",
+      "brand": "Lilly's Love",
+      "price": 15.99,
+      "salesParent": 10081,
+      "revenue": 161195.19,
+      "rating": 4.6,
+      "reviews": 54837
+    },
+    {
+      "rank": 2,
+      "asin": "B0HH78D8C4",
+      "title": "Fairfield Poly-Fil Poly-Pellets, Premium Polyester Weighted Stuffing Beads, Stuffing for Stuffed Animals, Toys, Bean Bags, Weighted Blankets, and More, 24-Ounce Bag (Pack of 3)",
+      "brand": "Fairfield",
+      "price": 45.55,
+      "salesParent": 523,
+      "revenue": 23822.65,
+      "rating": 4.7,
+      "reviews": 96
+    },
+    {
+      "rank": 3,
+      "asin": "B0FDL34QBB",
+      "title": "Mini Party Hats for Stuffed Animals, Felt Cloth Adjustable Mini Birthday Hats for Dolls Dog Cat Rabbit Puppies Assorted Animal Birthday Decorations[Assorted Color, 12pcs]",
+      "brand": "Fiestivo",
+      "price": 9.49,
+      "salesParent": 978,
+      "revenue": 9682.2,
+      "rating": 4.1,
+      "reviews": 167
+    },
+    {
+      "rank": 4,
+      "asin": "B0GR1PQBZT",
+      "title": "ZURU Fuggler Baby Baddies Plush Bag Charms, Mystery Surprise Collectible, 6 Characters to Collect Plus 1 Rare Mystery Character, Lord Long Ears, Annoyed Alien, Rabid Rabbit, Munch Munch,",
+      "brand": "ZURU",
+      "price": 21.95,
+      "salesParent": 414,
+      "revenue": 9679.32,
+      "rating": 2.2,
+      "reviews": 17
+    },
+    {
+      "rank": 5,
+      "asin": "B0HFJYPQYH",
+      "title": "ans for Backse for Kids &amp; Pets,",
+      "brand": "StyleLift",
+      "price": 9.99,
+      "salesParent": 668,
+      "revenue": 9058.08,
+      "rating": 4.1,
+      "reviews": 2
+    },
+    {
+      "rank": 6,
+      "asin": "B0FNS5SG77",
+      "title": "Tonies Sleeve - Decorative Wrap for Toniebox 2- Bluey",
+      "brand": "Tonies",
+      "price": 15.99,
+      "salesParent": 528,
+      "revenue": 8442.72,
+      "rating": 4.8,
+      "reviews": 282
+    },
+    {
+      "rank": 7,
+      "asin": "B0FJRCTST9",
+      "title": "Frog Shoulder Plush, Frog Stuffed Animal Toys Cosplay Accessories",
+      "brand": "Beeadore",
+      "price": 18.99,
+      "salesParent": 270,
+      "revenue": 5127.3,
+      "rating": 4.6,
+      "reviews": 68
+    },
+    {
+      "rank": 8,
+      "asin": "B0H73WMQ7G",
+      "title": "Stuffed Animal Birthday Hats Mini Party Hats for Stuffed Animals",
+      "brand": "HaiFafafaing",
+      "price": 8.99,
+      "salesParent": 547,
+      "revenue": 4611.21,
+      "rating": 4.4,
+      "reviews": 81
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 165,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 165,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 298736,
+    "priorHeadRevenue": 112687,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 76,
+      "pct": 77,
+      "unknownLaunch": 1,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 75,
+      "brandCount": 57,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.34,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0D6ZTHJ9L",
+        "title": "Large Macrame Stuffed Animal Storage Hammock | Holds 12 lbs | Corner Stuffed Animal Organizer | Plushie Net for Stuffed Animals | Stuffy Storage, Cute Bedroom, Room Decor | White",
+        "rating": 4.6,
+        "reviews": 54837
+      },
+      {
+        "rank": 2,
+        "asin": "B0HH78D8C4",
+        "title": "Fairfield Poly-Fil Poly-Pellets, Premium Polyester Weighted Stuffing Beads, Stuffing for Stuffed Animals, Toys, Bean Bags, Weighted Blankets, and More, 24-Ounce Bag (Pack of 3)",
+        "rating": 4.7,
+        "reviews": 96
+      },
+      {
+        "rank": 3,
+        "asin": "B0FDL34QBB",
+        "title": "Mini Party Hats for Stuffed Animals, Felt Cloth Adjustable Mini Birthday Hats for Dolls Dog Cat Rabbit Puppies Assorted Animal Birthday Decorations[Assorted Color, 12pcs]",
+        "rating": 4.1,
+        "reviews": 167
+      },
+      {
+        "rank": 4,
+        "asin": "B0GR1PQBZT",
+        "title": "ZURU Fuggler Baby Baddies Plush Bag Charms, Mystery Surprise Collectible, 6 Characters to Collect Plus 1 Rare Mystery Character, Lord Long Ears, Annoyed Alien, Rabid Rabbit, Munch Munch,",
+        "rating": 2.2,
+        "reviews": 17
+      },
+      {
+        "rank": 5,
+        "asin": "B0HFJYPQYH",
+        "title": "ans for Backse for Kids &amp; Pets,",
+        "rating": 4.1,
+        "reviews": 2
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166461011:10130802011:23498076011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

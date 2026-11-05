@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "6943345011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins, Minerals & Supplements > Essential Fatty Acids > EPA",
+  "categoryPathCn": "健康与家居 > 身、泳和附剂 > 需要别人 > EPA",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "insufficient",
+  "marketSize": {
+    "sampleCount": 11,
+    "totalRevenue": 1542242,
+    "avgRevenue": 140204,
+    "medianPrice": 38.88,
+    "priceBand": "$26.82 - $59.98",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0018CJ17W",
+      "title": "THORNE Super EPA, Omega-3 Fish Oil Supplement with EPA &amp; DHA, 90 Softgels",
+      "brand": "THORNE",
+      "price": 41.0,
+      "salesParent": 23751,
+      "revenue": 973791.0,
+      "rating": 4.6,
+      "reviews": 3377
+    },
+    {
+      "rank": 2,
+      "asin": "B07W5R3Y47",
+      "title": "Nordic Naturals EPA Xtra, 1640mg High EPA Omega-3 Fish Oil - 90 Count",
+      "brand": "Nordic Naturals",
+      "price": 52.66,
+      "salesParent": 3643,
+      "revenue": 191840.38,
+      "rating": 4.6,
+      "reviews": 1503
+    },
+    {
+      "rank": 3,
+      "asin": "B005CD3J9E",
+      "title": "THORNE Super EPA Pro, High-EPA Omega-3 Fish Oil Supplement, 120 Softgels",
+      "brand": "THORNE",
+      "price": 93.0,
+      "salesParent": 1939,
+      "revenue": 180327.0,
+      "rating": 4.5,
+      "reviews": 325
+    },
+    {
+      "rank": 4,
+      "asin": "B00D37S0HC",
+      "title": "OmegaVia EPA 500 mg, Purified Omega 3 Fish Oil, Burpless (120 Softgels)",
+      "brand": "OmegaVia",
+      "price": 39.95,
+      "salesParent": 1749,
+      "revenue": 69872.56,
+      "rating": 4.7,
+      "reviews": 821
+    },
+    {
+      "rank": 5,
+      "asin": "B00AAHTMWK",
+      "title": "Nordic Naturals ProEPA Omega-3, 1210 mg, High EPA, Lemon - 180 Count",
+      "brand": "Nordic Naturals",
+      "price": 81.95,
+      "salesParent": 712,
+      "revenue": 58348.4,
+      "rating": 4.7,
+      "reviews": 566
+    },
+    {
+      "rank": 6,
+      "asin": "B002CQU4YW",
+      "title": "Nordic Naturals EPA Fish Oil, 1210 mg Omega-3, Lemon - 60 Soft Gels",
+      "brand": "Nordic Naturals",
+      "price": 26.31,
+      "salesParent": 1114,
+      "revenue": 29264.78,
+      "rating": 4.6,
+      "reviews": 621
+    },
+    {
+      "rank": 7,
+      "asin": "B06XDC28QW",
+      "title": "Igennus Ultra EPA Omega 3 500mg, DHA-Free, IFOS-Certified, 90 Softgels",
+      "brand": "Igennus Healthcare Nutrition",
+      "price": 33.95,
+      "salesParent": 735,
+      "revenue": 24953.25,
+      "rating": 4.5,
+      "reviews": 751
+    },
+    {
+      "rank": 8,
+      "asin": "B0FV4SMF6H",
+      "title": "GNC Triple Strength EPA 1000 Mini, Lemon, 90 Count, 45 Servings",
+      "brand": "GNC",
+      "price": 26.99,
+      "salesParent": 258,
+      "revenue": 6963.42,
+      "rating": 4.6,
+      "reviews": 321
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": null,
+    "direction": "flat",
+    "comparable": null,
+    "rawYoyPct": 170,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1542242,
+    "priorHeadRevenue": 571987,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 11,
+      "newCount": 3,
+      "pct": 27,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 100,
+      "brandCount": 8,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.62,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0018CJ17W",
+        "title": "THORNE Super EPA, Omega-3 Fish Oil Supplement with EPA &amp; DHA, 90 Softgels",
+        "rating": 4.6,
+        "reviews": 3377
+      },
+      {
+        "rank": 2,
+        "asin": "B07W5R3Y47",
+        "title": "Nordic Naturals EPA Xtra, 1640mg High EPA Omega-3 Fish Oil - 90 Count",
+        "rating": 4.6,
+        "reviews": 1503
+      },
+      {
+        "rank": 3,
+        "asin": "B005CD3J9E",
+        "title": "THORNE Super EPA Pro, High-EPA Omega-3 Fish Oil Supplement, 120 Softgels",
+        "rating": 4.5,
+        "reviews": 325
+      },
+      {
+        "rank": 4,
+        "asin": "B00D37S0HC",
+        "title": "OmegaVia EPA 500 mg, Purified Omega 3 Fish Oil, Burpless (120 Softgels)",
+        "rating": 4.7,
+        "reviews": 821
+      },
+      {
+        "rank": 5,
+        "asin": "B00AAHTMWK",
+        "title": "Nordic Naturals ProEPA Omega-3, 1210 mg, High EPA, Lemon - 180 Count",
+        "rating": 4.7,
+        "reviews": 566
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:23675621011:6943343011:6943345011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23777916011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins, Minerals & Supplements > Herbal Supplements > Shatavari",
+  "categoryPathCn": "健康与家居 > 身、泳和附剂 > 草本补充 > 沙塔瓦里",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 58,
+    "totalRevenue": 957753,
+    "avgRevenue": 16513,
+    "medianPrice": 21.99,
+    "priceBand": "$15.03 - $29.0",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0GML327JV",
+      "title": "Nello Superbalance Hormonal Support Drink Mix, SRI-81 Shatavari, Myo-Inositol, Rhodiola Rosea, Vitamin C, Magnesium, Theobromine (20 Servings, Strawberry Lemonade)",
+      "brand": "Nello",
+      "price": 39.95,
+      "salesParent": 11598,
+      "revenue": 446754.97,
+      "rating": 4.2,
+      "reviews": 243
+    },
+    {
+      "rank": 2,
+      "asin": "B084GRS9JB",
+      "title": "Legendairy Milk Liquid Gold Organic Lactation Support, 60 Capsules",
+      "brand": "Legendairy Milk",
+      "price": 21.87,
+      "salesParent": 16267,
+      "revenue": 352993.91,
+      "rating": 4.1,
+      "reviews": 15040
+    },
+    {
+      "rank": 3,
+      "asin": "B003PGAOYS",
+      "title": "ORGANIC INDIA Shatavari Capsules, Herbal Supplement, Vegan, 90 Capsules",
+      "brand": "ORGANIC INDIA",
+      "price": 21.93,
+      "salesParent": 2125,
+      "revenue": 46728.75,
+      "rating": 4.5,
+      "reviews": 2416
+    },
+    {
+      "rank": 4,
+      "asin": "B0011Y445G",
+      "title": "Himalaya USDA Organic Shatavari Capsules - Shatavari Capsules for Women, Promotes Hormone Balance and Menstrual Cramp Relief - Vegan, Gluten Free, 1300 mg, 60 Caplets",
+      "brand": "Himalaya",
+      "price": 19.99,
+      "salesParent": 1203,
+      "revenue": 24047.97,
+      "rating": 4.5,
+      "reviews": 1466
+    },
+    {
+      "rank": 5,
+      "asin": "B0BLXXJMYV",
+      "title": "Freshly Moms Preconception Cleanse | TTC &amp; Fertility Support | Ovarian &amp; Uterus Cleanse for Balancing Hormones | Regular Cycle Support | with Stinging Nettle, Red Clover, and More | 30 Servings",
+      "brand": "Freshly Moms",
+      "price": 39.99,
+      "salesParent": 526,
+      "revenue": 21034.74,
+      "rating": 4.3,
+      "reviews": 157
+    },
+    {
+      "rank": 6,
+      "asin": "B0FPMJ12CZ",
+      "title": "Organic SRI-81 Shatavari Capsules for Women, Menopause Support, 30 Servings",
+      "brand": "ELEVATE ORGANIC",
+      "price": 24.95,
+      "salesParent": 626,
+      "revenue": 15618.7,
+      "rating": 4.9,
+      "reviews": 50
+    },
+    {
+      "rank": 7,
+      "asin": "B0GVW4RXWZ",
+      "title": "Snap Supplements Perimeno Health Perimenopause Supplements for Women, 60 Ct",
+      "brand": "Snap Supplements",
+      "price": 29.95,
+      "salesParent": 285,
+      "revenue": 8501.55,
+      "rating": 4.3,
+      "reviews": 80
+    },
+    {
+      "rank": 8,
+      "asin": "B000703AQ4",
+      "title": "Banyan Botanicals Organic Shatavari Tablets – Rejuvenating Tonic for Feminine Vitality &amp; Reproductive Health – Cooling Adaptogen for Internal Balance &amp; Stress Support – 90 Tablets – USDA Organic",
+      "brand": "Banyan Botanicals",
+      "price": 22.99,
+      "salesParent": 270,
+      "revenue": 6207.3,
+      "rating": 4.6,
+      "reviews": 277
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 45,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 45,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 957753,
+    "priorHeadRevenue": 658758,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 58,
+      "newCount": 20,
+      "pct": 34,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 93,
+      "brandCount": 52,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.45,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0GML327JV",
+        "title": "Nello Superbalance Hormonal Support Drink Mix, SRI-81 Shatavari, Myo-Inositol, Rhodiola Rosea, Vitamin C, Magnesium, Theobromine (20 Servings, Strawberry Lemonade)",
+        "rating": 4.2,
+        "reviews": 243
+      },
+      {
+        "rank": 2,
+        "asin": "B084GRS9JB",
+        "title": "Legendairy Milk Liquid Gold Organic Lactation Support, 60 Capsules",
+        "rating": 4.1,
+        "reviews": 15040
+      },
+      {
+        "rank": 3,
+        "asin": "B003PGAOYS",
+        "title": "ORGANIC INDIA Shatavari Capsules, Herbal Supplement, Vegan, 90 Capsules",
+        "rating": 4.5,
+        "reviews": 2416
+      },
+      {
+        "rank": 4,
+        "asin": "B0011Y445G",
+        "title": "Himalaya USDA Organic Shatavari Capsules - Shatavari Capsules for Women, Promotes Hormone Balance and Menstrual Cramp Relief - Vegan, Gluten Free, 1300 mg, 60 Caplets",
+        "rating": 4.5,
+        "reviews": 1466
+      },
+      {
+        "rank": 5,
+        "asin": "B0BLXXJMYV",
+        "title": "Freshly Moms Preconception Cleanse | TTC &amp; Fertility Support | Ovarian &amp; Uterus Cleanse for Balancing Hormones | Regular Cycle Support | with Stinging Nettle, Red Clover, and More | 30 Servings",
+        "rating": 4.3,
+        "reviews": 157
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:23675621011:3764461:23777916011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

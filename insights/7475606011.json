@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "7475606011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Diet & Sports Nutrition > Endurance & Energy > Chews & Gels",
+  "categoryPathCn": "健康与家居 > 暮和喜欢 > 耐力和能量 > 咀嚼糖和凝胶糖",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 9268248,
+    "avgRevenue": 92682,
+    "medianPrice": 30.63,
+    "priceBand": "$24.3 - $42.71",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B08HTSM5LR",
+      "title": "GU Energy, Original Energy Gels, Caffeine-Free Mixed - 24 Count",
+      "brand": "GU Energy",
+      "price": 27.25,
+      "salesParent": 56135,
+      "revenue": 1869856.88,
+      "rating": 4.6,
+      "reviews": 1424
+    },
+    {
+      "rank": 2,
+      "asin": "B08BKSBMV6",
+      "title": "Honey Stinger, Organic Fruit Smoothie Energy Gel, Gluten Free &amp; Caffeine Free, for Exercise, Running and Performance, Sports Nutrition for Home &amp; Gym, Pre and Mid Workout, 12 Pack, 13.2 Ounce",
+      "brand": "Honey Stinger",
+      "price": 15.98,
+      "salesParent": 41409,
+      "revenue": 662129.88,
+      "rating": 4.6,
+      "reviews": 2514
+    },
+    {
+      "rank": 3,
+      "asin": "B0FJTKPPTV",
+      "title": "BPN Go Gel Endurance Fuel, 15 Single-Serving Variety Pack",
+      "brand": "BARE PERFORMANCE NUTRITION",
+      "price": 39.99,
+      "salesParent": 13293,
+      "revenue": 531587.06,
+      "rating": 4.6,
+      "reviews": 133
+    },
+    {
+      "rank": 4,
+      "asin": "B001CWYK4M",
+      "title": "Honey Stinger Organic Fruit Smoothie Energy Chew, Gluten Free &amp; Caffeine Free, for Exercise, Running and Performance, Sports Nutrition for Home &amp; Gym, Pre and Mid Workout, 21.6 Ounces (Pack of 12)",
+      "brand": "Honey Stinger",
+      "price": 23.1,
+      "salesParent": 20799,
+      "revenue": 470889.34,
+      "rating": 4.6,
+      "reviews": 3186
+    },
+    {
+      "rank": 5,
+      "asin": "B00LXK8Y0E",
+      "title": "Huma Chia Energy Gel, Variety, 12 Gels",
+      "brand": "HÜMA CHIA ENERGY GEL",
+      "price": 29.95,
+      "salesParent": 11958,
+      "revenue": 358142.09,
+      "rating": 4.6,
+      "reviews": 3058
+    },
+    {
+      "rank": 6,
+      "asin": "B00CQ7QDHE",
+      "title": "GU Energy, Roctane Ultra Endurance Energy Gel, Assorted Flavors - 24 Count",
+      "brand": "GU Energy",
+      "price": 73.0,
+      "salesParent": 4037,
+      "revenue": 290946.59,
+      "rating": 4.7,
+      "reviews": 2203
+    },
+    {
+      "rank": 7,
+      "asin": "B0GWTD6P25",
+      "title": "Honey Stinger Organic Berry Blast Caffeinated Energy Chews, Gluten Free with Caffeine, for Exercise, Running &amp; Performance, Sports Nutrition Home &amp; Gym, Pre &amp; Mid Workout, 10.56 Ounces (Pack of 12)",
+      "brand": "Honey Stinger",
+      "price": 33.99,
+      "salesParent": 9071,
+      "revenue": 289455.59,
+      "rating": 4.5,
+      "reviews": 28
+    },
+    {
+      "rank": 8,
+      "asin": "B07H319S3V",
+      "title": "Maurten Gel 100 – 12x40g – 25g Carbs – Patented Hydrogel Energy Gel",
+      "brand": "Maurten",
+      "price": 47.9,
+      "salesParent": 5176,
+      "revenue": 255176.8,
+      "rating": 4.6,
+      "reviews": 1010
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -4,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -4,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 9268248,
+    "priorHeadRevenue": 9628839,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 33,
+      "pct": 33,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 58,
+      "brandCount": 57,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.44,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B08HTSM5LR",
+        "title": "GU Energy, Original Energy Gels, Caffeine-Free Mixed - 24 Count",
+        "rating": 4.6,
+        "reviews": 1424
+      },
+      {
+        "rank": 2,
+        "asin": "B08BKSBMV6",
+        "title": "Honey Stinger, Organic Fruit Smoothie Energy Gel, Gluten Free &amp; Caffeine Free, for Exercise, Running and Performance, Sports Nutrition for Home &amp; Gym, Pre and Mid Workout, 12 Pack, 13.2 Ounce",
+        "rating": 4.6,
+        "reviews": 2514
+      },
+      {
+        "rank": 3,
+        "asin": "B0FJTKPPTV",
+        "title": "BPN Go Gel Endurance Fuel, 15 Single-Serving Variety Pack",
+        "rating": 4.6,
+        "reviews": 133
+      },
+      {
+        "rank": 4,
+        "asin": "B001CWYK4M",
+        "title": "Honey Stinger Organic Fruit Smoothie Energy Chew, Gluten Free &amp; Caffeine Free, for Exercise, Running and Performance, Sports Nutrition for Home &amp; Gym, Pre and Mid Workout, 21.6 Ounces (Pack of 12)",
+        "rating": 4.6,
+        "reviews": 3186
+      },
+      {
+        "rank": 5,
+        "asin": "B00LXK8Y0E",
+        "title": "Huma Chia Energy Gel, Variety, 12 Gels",
+        "rating": 4.6,
+        "reviews": 3058
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3764441:6973669011:7475606011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

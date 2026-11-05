@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23744274011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Dress Up & Pretend Play > Dress-Up Accessories > Makeup & Jewelry Sets",
+  "categoryPathCn": "玩具 > 扮靓 > 装扮配件 > 化妆和珠宝套装",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 65,
+    "totalRevenue": 288673,
+    "avgRevenue": 4441,
+    "medianPrice": 19.99,
+    "priceBand": "$12.99 - $29.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B08JD776XX",
+      "title": "Kids Real Makeup Kit with Unicorn Purse Non Toxic Washable Make Up Set",
+      "brand": "Sprinkles Toyz",
+      "price": 15.99,
+      "salesParent": 5854,
+      "revenue": 96356.84,
+      "rating": 4.7,
+      "reviews": 10170
+    },
+    {
+      "rank": 2,
+      "asin": "B0F8B9R89W",
+      "title": "Kids Makeup Kit for Girl, Kids Nail Polish Set, Real Washable Cosmetic Set",
+      "brand": "PERRYHOME",
+      "price": 22.99,
+      "salesParent": 1655,
+      "revenue": 38048.45,
+      "rating": 4.6,
+      "reviews": 1411
+    },
+    {
+      "rank": 3,
+      "asin": "B0DFVRRGVQ",
+      "title": "Luna Star Klee Kids Play Makeup Kit. Gentle and Non-Toxic. Kid-Friendly. Made in USA. (Berry Icing Fairy)",
+      "brand": "Klee Naturals",
+      "price": 29.99,
+      "salesParent": 535,
+      "revenue": 16044.65,
+      "rating": 4.6,
+      "reviews": 121
+    },
+    {
+      "rank": 4,
+      "asin": "B0DN9TSB5F",
+      "title": "36pcs Princess Kids Jewelry for Girls 4-6, Toddler Play Costume Jewelry Set",
+      "brand": "xFFFun",
+      "price": 14.99,
+      "salesParent": 1042,
+      "revenue": 14869.34,
+      "rating": 4.2,
+      "reviews": 377
+    },
+    {
+      "rank": 5,
+      "asin": "B0CJHGXZ6X",
+      "title": "Luna Star Klee Kids Play Makeup Kit. Gentle and Non-Toxic. Kid-Friendly. Made in USA. (Pom Pom Fairy)",
+      "brand": "Klee Naturals",
+      "price": 24.99,
+      "salesParent": 462,
+      "revenue": 11545.38,
+      "rating": 4.5,
+      "reviews": 200
+    },
+    {
+      "rank": 6,
+      "asin": "B0BGXSZJH8",
+      "title": "Kids Jewelry for Girl, Dress-up Jewelry Set for 3-5, Unicorn Gift for 4-6",
+      "brand": "BeAndge",
+      "price": 16.99,
+      "salesParent": 534,
+      "revenue": 8960.52,
+      "rating": 4.6,
+      "reviews": 813
+    },
+    {
+      "rank": 7,
+      "asin": "B0DMPM44VJ",
+      "title": "LUV HER Disney Girls Jewelry Set - Dress up Toy Jewelry Box Set with Bead Necklace, Bracelet and Ring - Play Accessories - Ages 3+",
+      "brand": "LUV HER",
+      "price": 19.99,
+      "salesParent": 405,
+      "revenue": 8954.55,
+      "rating": 4.9,
+      "reviews": 78
+    },
+    {
+      "rank": 8,
+      "asin": "B0HKNWR3J5",
+      "title": "Harry Potter Official Glasses &amp; Gryffindor Tie, Costume Accessory Set",
+      "brand": "Sun-Staches",
+      "price": 19.99,
+      "salesParent": 430,
+      "revenue": 8595.7,
+      "rating": 4.7,
+      "reviews": 22
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 16,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 16,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 288673,
+    "priorHeadRevenue": 248748,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 65,
+      "newCount": 41,
+      "pct": 63,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 68,
+      "brandCount": 54,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.59,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B08JD776XX",
+        "title": "Kids Real Makeup Kit with Unicorn Purse Non Toxic Washable Make Up Set",
+        "rating": 4.7,
+        "reviews": 10170
+      },
+      {
+        "rank": 2,
+        "asin": "B0F8B9R89W",
+        "title": "Kids Makeup Kit for Girl, Kids Nail Polish Set, Real Washable Cosmetic Set",
+        "rating": 4.6,
+        "reviews": 1411
+      },
+      {
+        "rank": 3,
+        "asin": "B0DFVRRGVQ",
+        "title": "Luna Star Klee Kids Play Makeup Kit. Gentle and Non-Toxic. Kid-Friendly. Made in USA. (Berry Icing Fairy)",
+        "rating": 4.6,
+        "reviews": 121
+      },
+      {
+        "rank": 4,
+        "asin": "B0DN9TSB5F",
+        "title": "36pcs Princess Kids Jewelry for Girls 4-6, Toddler Play Costume Jewelry Set",
+        "rating": 4.2,
+        "reviews": 377
+      },
+      {
+        "rank": 5,
+        "asin": "B0CJHGXZ6X",
+        "title": "Luna Star Klee Kids Play Makeup Kit. Gentle and Non-Toxic. Kid-Friendly. Made in USA. (Pom Pom Fairy)",
+        "rating": 4.5,
+        "reviews": 200
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166316011:23744271011:23744274011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

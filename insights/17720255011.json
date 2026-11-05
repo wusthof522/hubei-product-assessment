@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "17720255011",
+  "level": "L2",
+  "categoryPathEn": "Baby Products > Baby Care",
+  "categoryPathCn": "婴儿产品 > 婴儿护理",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 95,
+    "totalRevenue": 35599808,
+    "avgRevenue": 374735,
+    "medianPrice": 19.98,
+    "priceBand": "$12.62 - $34.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0824XNJSW",
+      "title": "Goodbaby No-Touch Thermometer for Adults and Kid, Accurate Baby Thermometer",
+      "brand": "GoodBaby",
+      "price": 19.99,
+      "salesParent": 69099,
+      "revenue": 1332919.75,
+      "rating": 4.5,
+      "reviews": 119713
+    },
+    {
+      "rank": 2,
+      "asin": "B0F9DR31M4",
+      "title": "Tubby Todd All Over Ointment, Baby Eczema Cream for Sensitive Skin",
+      "brand": "TUBBY TODD",
+      "price": 35.99,
+      "salesParent": 33693,
+      "revenue": 1212611.12,
+      "rating": 4.7,
+      "reviews": 3204
+    },
+    {
+      "rank": 3,
+      "asin": "B0H7Z54W4C",
+      "title": "Earth Mama Organic Economy Size Diaper Balm | Diaper Cream for Baby | EWG Verified, Petroleum &amp; Artificial Fragrance-Free with Calendula for Sensitive Skin, 4-Fluid Ounce (12-Pack)",
+      "brand": "Earth Mama",
+      "price": 257.88,
+      "salesParent": 4347,
+      "revenue": 1121004.38,
+      "rating": 4.8,
+      "reviews": 13800
+    },
+    {
+      "rank": 4,
+      "asin": "B08CMWHD3B",
+      "title": "GROWNSY Baby Nasal Aspirator, Electric Nose Sucker, Powerful Suction,Grey",
+      "brand": "GROWNSY",
+      "price": 39.99,
+      "salesParent": 26994,
+      "revenue": 1079490.12,
+      "rating": 4.5,
+      "reviews": 19030
+    },
+    {
+      "rank": 5,
+      "asin": "B07NSBTZ22",
+      "title": "Aveeno Baby Daily Moisture Body Wash &amp; Shampoo with Oat Extract, 33 fl. oz",
+      "brand": "Aveeno Baby",
+      "price": 19.47,
+      "salesParent": 49880,
+      "revenue": 912305.25,
+      "rating": 4.8,
+      "reviews": 38086
+    },
+    {
+      "rank": 6,
+      "asin": "B072QXWXS6",
+      "title": "The Honest Company Shampoo &amp; Body Wash, Tear-Free, Fragrance-Free, 10 fl oz",
+      "brand": "The Honest Company",
+      "price": 10.97,
+      "salesParent": 78026,
+      "revenue": 855164.94,
+      "rating": 4.7,
+      "reviews": 47529
+    },
+    {
+      "rank": 7,
+      "asin": "B000GCL2B8",
+      "title": "Triple Paste Diaper Rash Cream, Zinc Oxide Baby Ointment, 16 oz",
+      "brand": "Triple Paste",
+      "price": 29.97,
+      "salesParent": 27638,
+      "revenue": 771929.38,
+      "rating": 4.8,
+      "reviews": 9443
+    },
+    {
+      "rank": 8,
+      "asin": "B09RKNVYFT",
+      "title": "Cetaphil Baby Wash &amp; Shampoo + Lotion, Sensitive Skin, 13.5oz, 2ct",
+      "brand": "Cetaphil",
+      "price": 14.97,
+      "salesParent": 49927,
+      "revenue": 723442.19,
+      "rating": 4.8,
+      "reviews": 6933
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -15,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -15,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 35599808,
+    "priorHeadRevenue": 42108621,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 95,
+      "newCount": 12,
+      "pct": 13,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 34,
+      "brandCount": 52,
+      "level": "分散",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.66,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0824XNJSW",
+        "title": "Goodbaby No-Touch Thermometer for Adults and Kid, Accurate Baby Thermometer",
+        "rating": 4.5,
+        "reviews": 119713
+      },
+      {
+        "rank": 2,
+        "asin": "B0F9DR31M4",
+        "title": "Tubby Todd All Over Ointment, Baby Eczema Cream for Sensitive Skin",
+        "rating": 4.7,
+        "reviews": 3204
+      },
+      {
+        "rank": 3,
+        "asin": "B0H7Z54W4C",
+        "title": "Earth Mama Organic Economy Size Diaper Balm | Diaper Cream for Baby | EWG Verified, Petroleum &amp; Artificial Fragrance-Free with Calendula for Sensitive Skin, 4-Fluid Ounce (12-Pack)",
+        "rating": 4.8,
+        "reviews": 13800
+      },
+      {
+        "rank": 4,
+        "asin": "B08CMWHD3B",
+        "title": "GROWNSY Baby Nasal Aspirator, Electric Nose Sucker, Powerful Suction,Grey",
+        "rating": 4.5,
+        "reviews": 19030
+      },
+      {
+        "rank": 5,
+        "asin": "B07NSBTZ22",
+        "title": "Aveeno Baby Daily Moisture Body Wash &amp; Shampoo with Oat Extract, 33 fl. oz",
+        "rating": 4.8,
+        "reviews": 38086
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165796011:17720255011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

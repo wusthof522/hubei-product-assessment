@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23777924011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins, Minerals & Supplements > Herbal Supplements > Boswellia Serrata",
+  "categoryPathCn": "健康与家居 > 维生素、矿物质和补充剂 > 草药补充剂 > 乳香",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 51,
+    "totalRevenue": 777598,
+    "avgRevenue": 15247,
+    "medianPrice": 21.99,
+    "priceBand": "$16.95 - $40.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B07JR5KB6N",
+      "title": "Turmeric Boswellia Supplement w/Ginger – Gut Friendly Joint Supplement 60Ct",
+      "brand": "Vimerson Health",
+      "price": 17.79,
+      "salesParent": 8667,
+      "revenue": 205841.25,
+      "rating": 4.6,
+      "reviews": 5522
+    },
+    {
+      "rank": 2,
+      "asin": "B0D87RMWBR",
+      "title": "Stonehenge Health Dynamic Joint | AprèsFlex® Boswellia Comfort &amp; Mobility",
+      "brand": "Stonehenge Health",
+      "price": 64.95,
+      "salesParent": 2498,
+      "revenue": 162245.09,
+      "rating": 3.9,
+      "reviews": 855
+    },
+    {
+      "rank": 3,
+      "asin": "B099QQ72DN",
+      "title": "Zazzee Extra Strength Boswellia 10:1 Extract, 180 Capsules, 6 Month Supply",
+      "brand": "Zazzee",
+      "price": 24.97,
+      "salesParent": 3028,
+      "revenue": 75609.16,
+      "rating": 4.5,
+      "reviews": 2425
+    },
+    {
+      "rank": 4,
+      "asin": "B0016LPOIK",
+      "title": "Pure Encapsulations Boswellia, 120 Capsules",
+      "brand": "Pure Encapsulations",
+      "price": 36.5,
+      "salesParent": 1671,
+      "revenue": 60991.5,
+      "rating": 4.6,
+      "reviews": 846
+    },
+    {
+      "rank": 5,
+      "asin": "B0849WV3K6",
+      "title": "Boswellia Extract Capsules, 120 Count | 1,200 mg Per Capsule | 65% Boswellic Acids + 10:1 Concentrated Extract | Boswellia Serrata | Joint &amp; Mobility Support*",
+      "brand": "tnvitamins",
+      "price": 16.99,
+      "salesParent": 2563,
+      "revenue": 36574.01,
+      "rating": 4.5,
+      "reviews": 3776
+    },
+    {
+      "rank": 6,
+      "asin": "B01LFDJ7UO",
+      "title": "Boswellia Serrata Extract Capsules 65%, Frankincense, 500mg, 120ct",
+      "brand": "AMANDEAN",
+      "price": 21.95,
+      "salesParent": 917,
+      "revenue": 20128.15,
+      "rating": 4.5,
+      "reviews": 1557
+    },
+    {
+      "rank": 7,
+      "asin": "B00BBUNYLA",
+      "title": "Terry Naturally BosMed - Joint &amp; Lung Support - 60 Count",
+      "brand": "Terry Naturally",
+      "price": 42.46,
+      "salesParent": 468,
+      "revenue": 18963.36,
+      "rating": 4.6,
+      "reviews": 583
+    },
+    {
+      "rank": 8,
+      "asin": "B08CL438X5",
+      "title": "Terry Naturally BosMed - Joint &amp; Lung Support - 120 Count",
+      "brand": "Terry Naturally",
+      "price": 75.61,
+      "salesParent": 229,
+      "revenue": 16504.03,
+      "rating": 4.6,
+      "reviews": 168
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 27,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 27,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 777598,
+    "priorHeadRevenue": 612299,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 51,
+      "newCount": 16,
+      "pct": 31,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 74,
+      "brandCount": 39,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.39,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B07JR5KB6N",
+        "title": "Turmeric Boswellia Supplement w/Ginger – Gut Friendly Joint Supplement 60Ct",
+        "rating": 4.6,
+        "reviews": 5522
+      },
+      {
+        "rank": 2,
+        "asin": "B0D87RMWBR",
+        "title": "Stonehenge Health Dynamic Joint | AprèsFlex® Boswellia Comfort &amp; Mobility",
+        "rating": 3.9,
+        "reviews": 855
+      },
+      {
+        "rank": 3,
+        "asin": "B099QQ72DN",
+        "title": "Zazzee Extra Strength Boswellia 10:1 Extract, 180 Capsules, 6 Month Supply",
+        "rating": 4.5,
+        "reviews": 2425
+      },
+      {
+        "rank": 4,
+        "asin": "B0016LPOIK",
+        "title": "Pure Encapsulations Boswellia, 120 Capsules",
+        "rating": 4.6,
+        "reviews": 846
+      },
+      {
+        "rank": 5,
+        "asin": "B0849WV3K6",
+        "title": "Boswellia Extract Capsules, 120 Count | 1,200 mg Per Capsule | 65% Boswellic Acids + 10:1 Concentrated Extract | Boswellia Serrata | Joint &amp; Mobility Support*",
+        "rating": 4.5,
+        "reviews": 3776
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:23675621011:3764461:23777924011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

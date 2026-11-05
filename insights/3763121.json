@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3763121",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Health Care > First Aid > Scars & Wounds",
+  "categoryPathCn": "健康与家居 > 卫生保健 > 急救 > 伤疤和创伤处理",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 7856827,
+    "avgRevenue": 79362,
+    "medianPrice": 24.99,
+    "priceBand": "$14.9 - $35.81",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0D8J5SV3C",
+      "title": "Silicone Scar Sheets, Medical Grade Silicone Scar Tape for Old &amp; New Scars",
+      "brand": "PSECICI",
+      "price": 9.34,
+      "salesParent": 82137,
+      "revenue": 864902.56,
+      "rating": 4.4,
+      "reviews": 13879
+    },
+    {
+      "rank": 2,
+      "asin": "B08SS4TJ9C",
+      "title": "Mederma PM Intensive Overnight Scar Cream, Nighttime Scar Treatment, 1.0 oz",
+      "brand": "Mederma",
+      "price": 18.88,
+      "salesParent": 33387,
+      "revenue": 573254.81,
+      "rating": 4.4,
+      "reviews": 26259
+    },
+    {
+      "rank": 3,
+      "asin": "B09WFQRS5P",
+      "title": "NUVADERMIS Silicone Scar Sheets for Surgical Scars, 10 ft Roll, Light",
+      "brand": "NUVADERMIS",
+      "price": 24.99,
+      "salesParent": 22858,
+      "revenue": 571221.44,
+      "rating": 4.3,
+      "reviews": 23678
+    },
+    {
+      "rank": 4,
+      "asin": "B0HLD1F92D",
+      "title": "NUVADERMIS Silicone Scar Sheets for Surgical Scars, 10 ft Roll, Light (Pack of 2)",
+      "brand": "NUVADERMIS",
+      "price": 34.98,
+      "salesParent": 12311,
+      "revenue": 430638.78,
+      "rating": 4.4,
+      "reviews": 9035
+    },
+    {
+      "rank": 5,
+      "asin": "B0BZ7NQ4CD",
+      "title": "ScarAway Silicone Scar Gel, Helps Improve Size, Color &amp; Texture of Hypertrophic &amp; Keloid Scars from Injury, Burns &amp; Surgery, Water Resistant, 10g (0.35 Oz)",
+      "brand": "ScarAway",
+      "price": 11.93,
+      "salesParent": 33747,
+      "revenue": 402601.72,
+      "rating": 4.4,
+      "reviews": 4754
+    },
+    {
+      "rank": 6,
+      "asin": "B08SS4T6ZT",
+      "title": "Mederma Advanced Scar Gel, Cepalin Scar Treatment, Old and New Scars, 20g",
+      "brand": "Mederma",
+      "price": 16.47,
+      "salesParent": 21971,
+      "revenue": 361422.97,
+      "rating": 4.4,
+      "reviews": 15260
+    },
+    {
+      "rank": 7,
+      "asin": "B09179GNHH",
+      "title": "ScarAway Advanced Clear Silicone Scar Sheets, Medical Grade Silicone Strips (1.5&quot; x 3&quot;) Scar Treatment and Prevention for Surgical, Burn, Body, Hypertrophic &amp; Keloid Scar Treatment, 6 Clear Sheets",
+      "brand": "ScarAway",
+      "price": 14.9,
+      "salesParent": 18155,
+      "revenue": 270509.5,
+      "rating": 4.1,
+      "reviews": 6229
+    },
+    {
+      "rank": 8,
+      "asin": "B0BLHL91ZD",
+      "title": "Silicone Scar Sheets(1.8” x 157”Inch- 4M), Scar Tape, Scar Strips, Medical Grade, Scar Remover, C-Section, Surgery, Keloid, Tummy Tuck, Scar Patch.",
+      "brand": "ZODENIS",
+      "price": 20.99,
+      "salesParent": 12381,
+      "revenue": 246629.52,
+      "rating": 4.4,
+      "reviews": 9914
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 0,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 0,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 7856827,
+    "priorHeadRevenue": 7818508,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 28,
+      "pct": 28,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 56,
+      "brandCount": 70,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.36,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0D8J5SV3C",
+        "title": "Silicone Scar Sheets, Medical Grade Silicone Scar Tape for Old &amp; New Scars",
+        "rating": 4.4,
+        "reviews": 13879
+      },
+      {
+        "rank": 2,
+        "asin": "B08SS4TJ9C",
+        "title": "Mederma PM Intensive Overnight Scar Cream, Nighttime Scar Treatment, 1.0 oz",
+        "rating": 4.4,
+        "reviews": 26259
+      },
+      {
+        "rank": 3,
+        "asin": "B09WFQRS5P",
+        "title": "NUVADERMIS Silicone Scar Sheets for Surgical Scars, 10 ft Roll, Light",
+        "rating": 4.3,
+        "reviews": 23678
+      },
+      {
+        "rank": 4,
+        "asin": "B0HLD1F92D",
+        "title": "NUVADERMIS Silicone Scar Sheets for Surgical Scars, 10 ft Roll, Light (Pack of 2)",
+        "rating": 4.4,
+        "reviews": 9035
+      },
+      {
+        "rank": 5,
+        "asin": "B0BZ7NQ4CD",
+        "title": "ScarAway Silicone Scar Gel, Helps Improve Size, Color &amp; Texture of Hypertrophic &amp; Keloid Scars from Injury, Burns &amp; Surgery, Water Resistant, 10g (0.35 Oz)",
+        "rating": 4.4,
+        "reviews": 4754
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3760941:3762591:3763121",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

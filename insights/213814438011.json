@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "213814438011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins, Minerals & Supplements > Herbal Supplements > Moringa",
+  "categoryPathCn": "Health & Household > Vitamins, Minerals & Supplements > Herbal Supplements > Moringa",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 1890417,
+    "avgRevenue": 18904,
+    "medianPrice": 19.87,
+    "priceBand": "$12.99 - $25.95",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B00Y2MAE9O",
+      "title": "PURA VIDA MORINGA Organic Moringa Capsules, Pure Moringa Leaf Powder Single Origin for Energy, Metabolism &amp; Immune Support, 120ct, 500mg Caps",
+      "brand": "PURA VIDA MORINGA",
+      "price": 34.99,
+      "salesParent": 19195,
+      "revenue": 668369.88,
+      "rating": 4.5,
+      "reviews": 12782
+    },
+    {
+      "rank": 2,
+      "asin": "B0D52NMWFT",
+      "title": "Rosabella Moringa Capsules - Pure Moringa Powder, Energy, Skin, Immune &amp; Gut Health Superfood, Rich in Antioxidants, Essential Vitamins &amp; Amino Acids, Natural Green Superfood Supplement - 60 Count",
+      "brand": "Rosabella",
+      "price": 34.99,
+      "salesParent": 4650,
+      "revenue": 162703.5,
+      "rating": 4.3,
+      "reviews": 11849
+    },
+    {
+      "rank": 3,
+      "asin": "B07VGLMBPR",
+      "title": "Zazzee USDA Organic Moringa Leaf 20:1 Extract, 180 Vegan Capsules",
+      "brand": "Zazzee",
+      "price": 24.97,
+      "salesParent": 5408,
+      "revenue": 135037.75,
+      "rating": 4.6,
+      "reviews": 3205
+    },
+    {
+      "rank": 4,
+      "asin": "B00BGVLG64",
+      "title": "Organic India Moringa Capsules Organic, Pure Supergreen, Vegan, 90 Capsules",
+      "brand": "ORGANIC INDIA",
+      "price": 21.99,
+      "salesParent": 3644,
+      "revenue": 79038.36,
+      "rating": 4.5,
+      "reviews": 2704
+    },
+    {
+      "rank": 5,
+      "asin": "B0819XD3G9",
+      "title": "Organic Moringa Powder - 1.10 lbs (17.64 oz) | USDA Organics, Non-GMO, Kosher, Halal, Moringa Oleifera Leaf Powder - 100% Raw and Natural, Gluten-Free",
+      "brand": "Organic Spice Resource",
+      "price": 12.94,
+      "salesParent": 4189,
+      "revenue": 54205.66,
+      "rating": 4.5,
+      "reviews": 7729
+    },
+    {
+      "rank": 6,
+      "asin": "B0BWVLD28P",
+      "title": "PURA VIDA MORINGA Organic Moringa Capsules Single Origin Moringa Powder Organic. Pure Moringa Leaf. Energy, Metabolism, &amp; Immune Support. 120ct. 500mg Caps (Pack of 2)",
+      "brand": "PURA VIDA MORINGA",
+      "price": 62.98,
+      "salesParent": 733,
+      "revenue": 46164.34,
+      "rating": 4.7,
+      "reviews": 512
+    },
+    {
+      "rank": 7,
+      "asin": "B073HNY69B",
+      "title": "PURA VIDA MORINGA Organic Moringa Powder, Premium 100% Leaf Powder Single Origin - USDA Organic Moringa Oleifera Leaf, Perfect for Smoothies &amp; Recipes, 8 oz",
+      "brand": "PURA VIDA MORINGA",
+      "price": 32.99,
+      "salesParent": 1391,
+      "revenue": 45889.09,
+      "rating": 4.5,
+      "reviews": 2696
+    },
+    {
+      "rank": 8,
+      "asin": "B07MTTBMD1",
+      "title": "NatureBell Moringa 800mg, 240 Capsules",
+      "brand": "NatureBell",
+      "price": 23.99,
+      "salesParent": 1892,
+      "revenue": 43232.2,
+      "rating": 4.6,
+      "reviews": 3516
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": null,
+    "direction": "flat",
+    "comparable": null,
+    "rawYoyPct": 3289,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1890417,
+    "priorHeadRevenue": 55779,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 40,
+      "pct": 40,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 66,
+      "brandCount": 87,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.41,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B00Y2MAE9O",
+        "title": "PURA VIDA MORINGA Organic Moringa Capsules, Pure Moringa Leaf Powder Single Origin for Energy, Metabolism &amp; Immune Support, 120ct, 500mg Caps",
+        "rating": 4.5,
+        "reviews": 12782
+      },
+      {
+        "rank": 2,
+        "asin": "B0D52NMWFT",
+        "title": "Rosabella Moringa Capsules - Pure Moringa Powder, Energy, Skin, Immune &amp; Gut Health Superfood, Rich in Antioxidants, Essential Vitamins &amp; Amino Acids, Natural Green Superfood Supplement - 60 Count",
+        "rating": 4.3,
+        "reviews": 11849
+      },
+      {
+        "rank": 3,
+        "asin": "B07VGLMBPR",
+        "title": "Zazzee USDA Organic Moringa Leaf 20:1 Extract, 180 Vegan Capsules",
+        "rating": 4.6,
+        "reviews": 3205
+      },
+      {
+        "rank": 4,
+        "asin": "B00BGVLG64",
+        "title": "Organic India Moringa Capsules Organic, Pure Supergreen, Vegan, 90 Capsules",
+        "rating": 4.5,
+        "reviews": 2704
+      },
+      {
+        "rank": 5,
+        "asin": "B0819XD3G9",
+        "title": "Organic Moringa Powder - 1.10 lbs (17.64 oz) | USDA Organics, Non-GMO, Kosher, Halal, Moringa Oleifera Leaf Powder - 100% Raw and Natural, Gluten-Free",
+        "rating": 4.5,
+        "reviews": 7729
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:23675621011:3764461:213814438011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

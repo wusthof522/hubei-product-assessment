@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3774601",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins, Minerals & Supplements > Antioxidants > Lycopene",
+  "categoryPathCn": "健康与家居 > 身、泳和附剂 > 抗拒 > 番茄红素",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 51,
+    "totalRevenue": 458862,
+    "avgRevenue": 8997,
+    "medianPrice": 21.99,
+    "priceBand": "$18.99 - $29.8",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0CXF8Q2BQ",
+      "title": "VitaUp Lycopene Supplements for Men – Non-GMO Lycopene Supplement – 120 ct",
+      "brand": "VitaUp",
+      "price": 26.91,
+      "salesParent": 1858,
+      "revenue": 49125.52,
+      "rating": 4.6,
+      "reviews": 578
+    },
+    {
+      "rank": 2,
+      "asin": "B004R6942S",
+      "title": "Puritan's Pride Premium Lycopene 40mg, 60 Rapid Release Softgels",
+      "brand": "Puritan's Pride",
+      "price": 15.25,
+      "salesParent": 2029,
+      "revenue": 30942.25,
+      "rating": 4.5,
+      "reviews": 1929
+    },
+    {
+      "rank": 3,
+      "asin": "B09K2RGF14",
+      "title": "Nutricost Lycopene (20mg) 120 Softgels - Gluten Free, Non-GMO",
+      "brand": "Nutricost",
+      "price": 19.95,
+      "salesParent": 1260,
+      "revenue": 25137.0,
+      "rating": 4.6,
+      "reviews": 447
+    },
+    {
+      "rank": 4,
+      "asin": "B09K4JBFR4",
+      "title": "Nutricost Lycopene 50mg Softgels (120 Softgels)",
+      "brand": "Nutricost",
+      "price": 34.95,
+      "salesParent": 719,
+      "revenue": 25129.05,
+      "rating": 4.5,
+      "reviews": 462
+    },
+    {
+      "rank": 5,
+      "asin": "B08SZMXMFP",
+      "title": "Theralogix Prostate 2.4 Nutritional Supplement - 90-Day Supply - Prostate Health for Men - Supports Healthy Prostate Tissue - Lycopene, Vitamin D3, Selenium &amp; Vitamin E - NSF Certified - 180 Capsules",
+      "brand": "Theralogix",
+      "price": 122.6,
+      "salesParent": 203,
+      "revenue": 24887.8,
+      "rating": 4.5,
+      "reviews": 102
+    },
+    {
+      "rank": 6,
+      "asin": "B0019LRHDC",
+      "title": "Life Extension Mega Lycopene, 90 Softgels",
+      "brand": "Life Extension",
+      "price": 25.0,
+      "salesParent": 872,
+      "revenue": 22506.32,
+      "rating": 4.5,
+      "reviews": 278
+    },
+    {
+      "rank": 7,
+      "asin": "B00WZJQCL0",
+      "title": "Puritan's Pride Premium Lycopene 20mg, 60 Rapid Release Softgels",
+      "brand": "Puritan's Pride",
+      "price": 17.99,
+      "salesParent": 2450,
+      "revenue": 21854.0,
+      "rating": 4.6,
+      "reviews": 2046
+    },
+    {
+      "rank": 8,
+      "asin": "B0013OXEYQ",
+      "title": "NOW Supplements, Lycopene 20 mg with Extract from Tomatoes, 50 Softgels",
+      "brand": "NOW",
+      "price": 19.58,
+      "salesParent": 1132,
+      "revenue": 21145.76,
+      "rating": 4.6,
+      "reviews": 633
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -52,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -52,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 458862,
+    "priorHeadRevenue": 963614,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 51,
+      "newCount": 11,
+      "pct": 22,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 48,
+      "brandCount": 39,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.43,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0CXF8Q2BQ",
+        "title": "VitaUp Lycopene Supplements for Men – Non-GMO Lycopene Supplement – 120 ct",
+        "rating": 4.6,
+        "reviews": 578
+      },
+      {
+        "rank": 2,
+        "asin": "B004R6942S",
+        "title": "Puritan's Pride Premium Lycopene 40mg, 60 Rapid Release Softgels",
+        "rating": 4.5,
+        "reviews": 1929
+      },
+      {
+        "rank": 3,
+        "asin": "B09K2RGF14",
+        "title": "Nutricost Lycopene (20mg) 120 Softgels - Gluten Free, Non-GMO",
+        "rating": 4.6,
+        "reviews": 447
+      },
+      {
+        "rank": 4,
+        "asin": "B09K4JBFR4",
+        "title": "Nutricost Lycopene 50mg Softgels (120 Softgels)",
+        "rating": 4.5,
+        "reviews": 462
+      },
+      {
+        "rank": 5,
+        "asin": "B08SZMXMFP",
+        "title": "Theralogix Prostate 2.4 Nutritional Supplement - 90-Day Supply - Prostate Health for Men - Supports Healthy Prostate Tissue - Lycopene, Vitamin D3, Selenium &amp; Vitamin E - NSF Certified - 180 Capsules",
+        "rating": 4.5,
+        "reviews": 102
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:23675621011:3774521:3774601",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

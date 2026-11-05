@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3767191",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins, Minerals & Supplements > Herbal Supplements > Turmeric",
+  "categoryPathCn": "健康与家居 > 身、泳和附剂 > 草本补充 > 姜黄",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 10743643,
+    "avgRevenue": 107436,
+    "medianPrice": 24.95,
+    "priceBand": "$19.2 - $32.95",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0GWG2Q5MF",
+      "title": "Juicy Joint Extract, 100% Plant-Based Joint Support Supplements - 3 Bottle",
+      "brand": "Plants Basically",
+      "price": 161.97,
+      "salesParent": 6866,
+      "revenue": 1117578.88,
+      "rating": 4.0,
+      "reviews": 341
+    },
+    {
+      "rank": 2,
+      "asin": "B01DBTFO98",
+      "title": "Turmeric Curcumin with Black Pepper Extract 1500mg - Turmeric Supplement",
+      "brand": "BioSchwartz",
+      "price": 19.97,
+      "salesParent": 47423,
+      "revenue": 947037.25,
+      "rating": 4.6,
+      "reviews": 104459
+    },
+    {
+      "rank": 3,
+      "asin": "B09YGG58LZ",
+      "title": "Qunol Turmeric + Black Pepper &amp; Ginger, 2400mg Enhanced Absorption, 105ct",
+      "brand": "Qunol",
+      "price": 26.08,
+      "salesParent": 29345,
+      "revenue": 794075.69,
+      "rating": 4.6,
+      "reviews": 17377
+    },
+    {
+      "rank": 4,
+      "asin": "B0DHWQR8YW",
+      "title": "Qunol Turmeric 2250mg + Black Pepper for Enhanced Absorption, 150 Capsules",
+      "brand": "Qunol",
+      "price": 37.99,
+      "salesParent": 11097,
+      "revenue": 413252.31,
+      "rating": 4.6,
+      "reviews": 12689
+    },
+    {
+      "rank": 5,
+      "asin": "B00A39MPNI",
+      "title": "Sports Research® Turmeric Curcumin w/Coconut Oil &amp; BioPerine® - 120 Count",
+      "brand": "Sports Research",
+      "price": 32.95,
+      "salesParent": 11925,
+      "revenue": 392928.75,
+      "rating": 4.7,
+      "reviews": 11014
+    },
+    {
+      "rank": 6,
+      "asin": "B074QHCL9Z",
+      "title": "Nature Made Turmeric Curcumin 500 mg, Herbal Supplements, 120 Capsules",
+      "brand": "Nature Made",
+      "price": 12.67,
+      "salesParent": 22795,
+      "revenue": 300666.03,
+      "rating": 4.7,
+      "reviews": 31552
+    },
+    {
+      "rank": 7,
+      "asin": "B0DS6LCFRH",
+      "title": "Micro Ingredients Turmeric Curcumin 1,000mg Per Serving, 120 Veg Capsules",
+      "brand": "Micro Ingredients",
+      "price": 26.95,
+      "salesParent": 11822,
+      "revenue": 280063.19,
+      "rating": 4.5,
+      "reviews": 3203
+    },
+    {
+      "rank": 8,
+      "asin": "B07W7N8SLX",
+      "title": "Turmeric Curcumin Supplement - 95% Curcuminoids with Organic Turmeric &amp; BioPerine Black Pepper Extract for Best Absorption, Natural Joint &amp; Immune Health Support, Vegan, Bottled in USA - 240 Capsules",
+      "brand": "Nature's Nutrition",
+      "price": 22.42,
+      "salesParent": 11017,
+      "revenue": 247001.14,
+      "rating": 4.6,
+      "reviews": 69332
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 0,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 0,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 10743643,
+    "priorHeadRevenue": 10780134,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 9,
+      "pct": 9,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 48,
+      "brandCount": 68,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.56,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0GWG2Q5MF",
+        "title": "Juicy Joint Extract, 100% Plant-Based Joint Support Supplements - 3 Bottle",
+        "rating": 4.0,
+        "reviews": 341
+      },
+      {
+        "rank": 2,
+        "asin": "B01DBTFO98",
+        "title": "Turmeric Curcumin with Black Pepper Extract 1500mg - Turmeric Supplement",
+        "rating": 4.6,
+        "reviews": 104459
+      },
+      {
+        "rank": 3,
+        "asin": "B09YGG58LZ",
+        "title": "Qunol Turmeric + Black Pepper &amp; Ginger, 2400mg Enhanced Absorption, 105ct",
+        "rating": 4.6,
+        "reviews": 17377
+      },
+      {
+        "rank": 4,
+        "asin": "B0DHWQR8YW",
+        "title": "Qunol Turmeric 2250mg + Black Pepper for Enhanced Absorption, 150 Capsules",
+        "rating": 4.6,
+        "reviews": 12689
+      },
+      {
+        "rank": 5,
+        "asin": "B00A39MPNI",
+        "title": "Sports Research® Turmeric Curcumin w/Coconut Oil &amp; BioPerine® - 120 Count",
+        "rating": 4.7,
+        "reviews": 11014
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:23675621011:3764461:3767191",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "8147501011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Stationery & Gift Wrapping Supplies > Gift Wrapping Supplies > Gift Wrap Crinkle & Filler Paper",
+  "categoryPathCn": "健康与家居 > 文具和礼品包装用品 > 办公礼品包装 > 礼品包装皱纹纸和填充纸",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 84,
+    "totalRevenue": 1737687,
+    "avgRevenue": 20687,
+    "medianPrice": 15.74,
+    "priceBand": "$9.99 - $22.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0D2CXRGBP",
+      "title": "Crinkle Cut Paper Shred Filler Gift Cushion Streamer Diamond White",
+      "brand": "Caleihd",
+      "price": 7.99,
+      "salesParent": 26249,
+      "revenue": 211041.95,
+      "rating": 4.6,
+      "reviews": 3418
+    },
+    {
+      "rank": 2,
+      "asin": "B0CYHHMLH8",
+      "title": "2LB Crinkle paper Shred Paper Filler For Gift Box Basket Bags On Holiday(White).",
+      "brand": "Corlcol",
+      "price": 17.99,
+      "salesParent": 6408,
+      "revenue": 111242.88,
+      "rating": 4.8,
+      "reviews": 778
+    },
+    {
+      "rank": 3,
+      "asin": "B0C65GSDQN",
+      "title": "Sukh Brown Crinkle Paper Filler - Shredded Paper, Gift Basket &amp; Box Wrap",
+      "brand": "Sukh",
+      "price": 5.99,
+      "salesParent": 14700,
+      "revenue": 92463.0,
+      "rating": 4.7,
+      "reviews": 1840
+    },
+    {
+      "rank": 4,
+      "asin": "B0CR6SQ9RP",
+      "title": "10LB Kraft Crinkle Paper Filler USA Made",
+      "brand": "CrinklePak",
+      "price": 46.29,
+      "salesParent": 1768,
+      "revenue": 81840.72,
+      "rating": 4.7,
+      "reviews": 331
+    },
+    {
+      "rank": 5,
+      "asin": "B0DQV51HZV",
+      "title": "Mefleet 1/2 LB Crinkle Cut Paper Shred Filler 8 oz Orange Shredded Paper",
+      "brand": "Mefleet",
+      "price": 7.99,
+      "salesParent": 9701,
+      "revenue": 79354.18,
+      "rating": 4.7,
+      "reviews": 967
+    },
+    {
+      "rank": 6,
+      "asin": "B0CYHJ856K",
+      "title": "2LB Iridescent Crinkle Paper Shred Filler for Gift Box Bag and Basket On Holidays(Diamond White)",
+      "brand": "Corlcol",
+      "price": 17.99,
+      "salesParent": 3611,
+      "revenue": 67128.49,
+      "rating": 4.7,
+      "reviews": 564
+    },
+    {
+      "rank": 7,
+      "asin": "B0DLX3T8RQ",
+      "title": "Corlcol 200g(7oz) crinkle paper filler grass Cushion Paper Streamer for Gift Box and Basket On Christmas Wedding Birthday Bridesmaid(Diamond White)",
+      "brand": "Corlcol",
+      "price": 7.5,
+      "salesParent": 9035,
+      "revenue": 66949.35,
+      "rating": 4.6,
+      "reviews": 816
+    },
+    {
+      "rank": 8,
+      "asin": "B07QBDM8Z9",
+      "title": "MagicWater Supply Crinkle Cut Paper for Gift Basket - 10LB - Kraft",
+      "brand": "MagicWater Supply",
+      "price": 49.99,
+      "salesParent": 1174,
+      "revenue": 58688.26,
+      "rating": 4.7,
+      "reviews": 4039
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 8,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 8,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1737687,
+    "priorHeadRevenue": 1602959,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 84,
+      "newCount": 32,
+      "pct": 38,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 53,
+      "brandCount": 45,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.66,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0D2CXRGBP",
+        "title": "Crinkle Cut Paper Shred Filler Gift Cushion Streamer Diamond White",
+        "rating": 4.6,
+        "reviews": 3418
+      },
+      {
+        "rank": 2,
+        "asin": "B0CYHHMLH8",
+        "title": "2LB Crinkle paper Shred Paper Filler For Gift Box Basket Bags On Holiday(White).",
+        "rating": 4.8,
+        "reviews": 778
+      },
+      {
+        "rank": 3,
+        "asin": "B0C65GSDQN",
+        "title": "Sukh Brown Crinkle Paper Filler - Shredded Paper, Gift Basket &amp; Box Wrap",
+        "rating": 4.7,
+        "reviews": 1840
+      },
+      {
+        "rank": 4,
+        "asin": "B0CR6SQ9RP",
+        "title": "10LB Kraft Crinkle Paper Filler USA Made",
+        "rating": 4.7,
+        "reviews": 331
+      },
+      {
+        "rank": 5,
+        "asin": "B0DQV51HZV",
+        "title": "Mefleet 1/2 LB Crinkle Cut Paper Shred Filler 8 oz Orange Shredded Paper",
+        "rating": 4.7,
+        "reviews": 967
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:723418011:723452011:8147501011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

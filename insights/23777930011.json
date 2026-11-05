@@ -1,0 +1,26 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23777930011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins, Minerals & Supplements > Herbal Supplements > Shuddha Guggulu",
+  "categoryPathCn": "Health & Household > Vitamins, Minerals & Supplements > Herbal Supplements > Shuddha Guggulu",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "empty",
+  "marketSize": {
+    "sampleCount": 0
+  },
+  "topProducts": [],
+  "trend": {
+    "yoyPct": null,
+    "direction": "flat"
+  },
+  "competition": {},
+  "voc": {
+    "avgRating": null,
+    "top5": [],
+    "painPoints": []
+  }
+}

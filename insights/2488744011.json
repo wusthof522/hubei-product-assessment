@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "2488744011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Arts & Crafts > Craft Kits > Felt Kits",
+  "categoryPathCn": "玩具 > 艺术 > 工艺品套装 > 毛毡套装",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 1003188,
+    "avgRevenue": 10032,
+    "medianPrice": 17.97,
+    "priceBand": "$14.11 - $21.73",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0CCYHWHXC",
+      "title": "Skillmatics Snip Snip, Scissor Skills, Felt Craft Activity, Christmas Gift",
+      "brand": "Skillmatics",
+      "price": 19.97,
+      "salesParent": 19213,
+      "revenue": 383683.59,
+      "rating": 4.7,
+      "reviews": 4599
+    },
+    {
+      "rank": 2,
+      "asin": "B091KVKZ8B",
+      "title": "Craftorama Sewing Kit for Kids, Fun and Educational Animal Craft Set for Boys and Girls Age 7-12, Sew Your Own Felt Animals Craft Kit for Beginners, 165 Piece Set",
+      "brand": "Craftorama",
+      "price": 24.97,
+      "salesParent": 1925,
+      "revenue": 50569.75,
+      "rating": 4.8,
+      "reviews": 2158
+    },
+    {
+      "rank": 3,
+      "asin": "B0C4B1BVDF",
+      "title": "Skillmatics Fun with Foam Sticker Art – Animals, Craft Kit, Gift for Kids",
+      "brand": "Skillmatics",
+      "price": 9.97,
+      "salesParent": 4105,
+      "revenue": 45565.5,
+      "rating": 4.7,
+      "reviews": 2257
+    },
+    {
+      "rank": 4,
+      "asin": "B07K81R16X",
+      "title": "3ft DIY Felt Christmas Tree Set + Snowman Advent Calendar - Xmas Decorations Wall Hanging 33 Ornaments Kids Gifts Party Supplies",
+      "brand": "jollylife",
+      "price": 17.99,
+      "salesParent": 1866,
+      "revenue": 30285.18,
+      "rating": 4.5,
+      "reviews": 9902
+    },
+    {
+      "rank": 5,
+      "asin": "B0DDLLLDRN",
+      "title": "Foam Sticker Art Craft for Kids - Toddler Arts &amp; Craft - Mess Free Activity",
+      "brand": "Dan&amp;Darci",
+      "price": 12.98,
+      "salesParent": 2019,
+      "revenue": 27115.17,
+      "rating": 4.6,
+      "reviews": 546
+    },
+    {
+      "rank": 6,
+      "asin": "B0FLYH642T",
+      "title": "Montessori Felt Christmas Tree for Toddlers, Felt Christmas Tree for Kids, 2026 New Oversized Hanging Xmas Gifts, with Lights",
+      "brand": "Generic",
+      "price": 16.99,
+      "salesParent": 1733,
+      "revenue": 26462.91,
+      "rating": 4.3,
+      "reviews": 60
+    },
+    {
+      "rank": 7,
+      "asin": "B08BC56MQ8",
+      "title": "CiyvoLyeen Woodland Animal Sewing Kit for Ages 8-12 Felt Sewing Craft 12Pcs",
+      "brand": "CiyvoLyeen",
+      "price": 23.74,
+      "salesParent": 1012,
+      "revenue": 24105.84,
+      "rating": 4.6,
+      "reviews": 5351
+    },
+    {
+      "rank": 8,
+      "asin": "B0HBCB78KZ",
+      "title": "JOVA Klever Kits Halloween Pom Pom Monster Kits- DIY Plush Backpack Keychains, Pom Pom Crafts for Kids Aged 4+ Kid Felt Kits, Arts &amp; Crafts for Boys Girls Birthday Party Gift Toy",
+      "brand": "Klever Kits",
+      "price": 16.99,
+      "salesParent": 1086,
+      "revenue": 19754.34,
+      "rating": 4.0,
+      "reviews": 35
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -6,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -6,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1003188,
+    "priorHeadRevenue": 1064051,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 43,
+      "pct": 43,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 60,
+      "brandCount": 86,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.49,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0CCYHWHXC",
+        "title": "Skillmatics Snip Snip, Scissor Skills, Felt Craft Activity, Christmas Gift",
+        "rating": 4.7,
+        "reviews": 4599
+      },
+      {
+        "rank": 2,
+        "asin": "B091KVKZ8B",
+        "title": "Craftorama Sewing Kit for Kids, Fun and Educational Animal Craft Set for Boys and Girls Age 7-12, Sew Your Own Felt Animals Craft Kit for Beginners, 165 Piece Set",
+        "rating": 4.8,
+        "reviews": 2158
+      },
+      {
+        "rank": 3,
+        "asin": "B0C4B1BVDF",
+        "title": "Skillmatics Fun with Foam Sticker Art – Animals, Craft Kit, Gift for Kids",
+        "rating": 4.7,
+        "reviews": 2257
+      },
+      {
+        "rank": 4,
+        "asin": "B07K81R16X",
+        "title": "3ft DIY Felt Christmas Tree Set + Snowman Advent Calendar - Xmas Decorations Wall Hanging 33 Ornaments Kids Gifts Party Supplies",
+        "rating": 4.5,
+        "reviews": 9902
+      },
+      {
+        "rank": 5,
+        "asin": "B0DDLLLDRN",
+        "title": "Foam Sticker Art Craft for Kids - Toddler Arts &amp; Craft - Mess Free Activity",
+        "rating": 4.6,
+        "reviews": 546
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166057011:166064011:2488744011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

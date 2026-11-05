@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23569992011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Party Supplies > Party Favors > Multi-Item Party Favor Packs",
+  "categoryPathCn": "Toys & Games > Party Supplies > Party Favors > Multi-Item Party Favor Packs",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 97,
+    "totalRevenue": 9936295,
+    "avgRevenue": 102436,
+    "medianPrice": 25.99,
+    "priceBand": "$17.99 - $31.49",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B09YG8LFGZ",
+      "title": "Glow Sticks for Kids 12-96 PCS,Christmas Glow in Dark Party Favor Supplies",
+      "brand": "Kannove",
+      "price": 17.89,
+      "salesParent": 28948,
+      "revenue": 514405.97,
+      "rating": 4.6,
+      "reviews": 3663
+    },
+    {
+      "rank": 2,
+      "asin": "B0CGHC2BSR",
+      "title": "80 Pcs Party Favors for Kids 4-8, Kawaii Squishies Mochi Squishy Toys Bulk",
+      "brand": "SquishiQ",
+      "price": 19.99,
+      "salesParent": 21469,
+      "revenue": 400611.53,
+      "rating": 4.6,
+      "reviews": 4400
+    },
+    {
+      "rank": 3,
+      "asin": "B0G4N71SC6",
+      "title": "180 Party Favors for Kids, Fidget Toys Bulk, Treasure Box Toys for Classroom Prizes, Goodie Bag Stuffers Pinata Fillers, Carnival Birthday Stocking Stuffers for Boys Girls, Prize Box Toy",
+      "brand": "Wuridiwa",
+      "price": 37.99,
+      "salesParent": 10084,
+      "revenue": 383091.19,
+      "rating": 4.2,
+      "reviews": 300
+    },
+    {
+      "rank": 4,
+      "asin": "B0F8LLT3JR",
+      "title": "Party Favors for Kids 8-12 4-8, 150-Pack Fidget Toys Bulk, Treasure Box Toys for Classroom, Stocking Stuffers Goodie Bags, Classroom Prizes, Birthday Holiday for Boys Girls",
+      "brand": "PHIMOTA",
+      "price": 12.99,
+      "salesParent": 28596,
+      "revenue": 355734.22,
+      "rating": 4.5,
+      "reviews": 2950
+    },
+    {
+      "rank": 5,
+      "asin": "B0CBDHC4BN",
+      "title": "1000 Pcs Party Favors for Kids, Fidget Toys Bulk, Birthday Gift Toys, Fidgets Stocking Stuffers, Treasure Box Birthday Party, Goodie Bag Stuffers, Carnival Prizes, Pinata Filler Stuffers for Classroom",
+      "brand": "BILLFULL",
+      "price": 26.09,
+      "salesParent": 11755,
+      "revenue": 328552.25,
+      "rating": 4.4,
+      "reviews": 2175
+    },
+    {
+      "rank": 6,
+      "asin": "B0CB11VCY8",
+      "title": "105PCS LED Foam Glow Sticks, Foam Light up Sticks Bulk Party Pack with 3 Modes Colorful Flashing, Glow in The Dark Party Supplies for Parties, Wedding, July 4th, Birthday,Raves,Concert,New Year",
+      "brand": "SHQDD",
+      "price": 79.99,
+      "salesParent": 3430,
+      "revenue": 256941.31,
+      "rating": 4.6,
+      "reviews": 1667
+    },
+    {
+      "rank": 7,
+      "asin": "B07FYR8HSD",
+      "title": "Glow Critters Halloween Toys - Glow Sticks Party Favors - Glow in The Dark Party Supplies - 30 Count",
+      "brand": "PartySticks",
+      "price": 14.99,
+      "salesParent": 13016,
+      "revenue": 212421.11,
+      "rating": 4.2,
+      "reviews": 3095
+    },
+    {
+      "rank": 8,
+      "asin": "B0FJWG2CFD",
+      "title": "100 Pcs Party Favors &amp; Squishy Toys Bulk for Kids 4-12, Fidget Toys Sensory Stress Relief Toys for Classroom Prizes, Christmas Stocking Stuffers, Birthday Goodie Bags &amp; Teacher Supplies",
+      "brand": "Gluaintdux",
+      "price": 23.99,
+      "salesParent": 8313,
+      "revenue": 199678.27,
+      "rating": 4.4,
+      "reviews": 409
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 22,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 22,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 9936295,
+    "priorHeadRevenue": 8125148,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 97,
+      "newCount": 31,
+      "pct": 32,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 27,
+      "brandCount": 67,
+      "level": "分散",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.47,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B09YG8LFGZ",
+        "title": "Glow Sticks for Kids 12-96 PCS,Christmas Glow in Dark Party Favor Supplies",
+        "rating": 4.6,
+        "reviews": 3663
+      },
+      {
+        "rank": 2,
+        "asin": "B0CGHC2BSR",
+        "title": "80 Pcs Party Favors for Kids 4-8, Kawaii Squishies Mochi Squishy Toys Bulk",
+        "rating": 4.6,
+        "reviews": 4400
+      },
+      {
+        "rank": 3,
+        "asin": "B0G4N71SC6",
+        "title": "180 Party Favors for Kids, Fidget Toys Bulk, Treasure Box Toys for Classroom Prizes, Goodie Bag Stuffers Pinata Fillers, Carnival Birthday Stocking Stuffers for Boys Girls, Prize Box Toy",
+        "rating": 4.2,
+        "reviews": 300
+      },
+      {
+        "rank": 4,
+        "asin": "B0F8LLT3JR",
+        "title": "Party Favors for Kids 8-12 4-8, 150-Pack Fidget Toys Bulk, Treasure Box Toys for Classroom, Stocking Stuffers Goodie Bags, Classroom Prizes, Birthday Holiday for Boys Girls",
+        "rating": 4.5,
+        "reviews": 2950
+      },
+      {
+        "rank": 5,
+        "asin": "B0CBDHC4BN",
+        "title": "1000 Pcs Party Favors for Kids, Fidget Toys Bulk, Birthday Gift Toys, Fidgets Stocking Stuffers, Treasure Box Birthday Party, Goodie Bag Stuffers, Carnival Prizes, Pinata Filler Stuffers for Classroom",
+        "rating": 4.4,
+        "reviews": 2175
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:1266203011:166044011:23569992011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

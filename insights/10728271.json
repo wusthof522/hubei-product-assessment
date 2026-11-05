@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "10728271",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Oral Care > Oral Pain Relief > Rinses",
+  "categoryPathCn": "Health & Household > Oral Care > Oral Pain Relief > Rinses",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "insufficient",
+  "marketSize": {
+    "sampleCount": 12,
+    "totalRevenue": 61478,
+    "avgRevenue": 5123,
+    "medianPrice": 25.22,
+    "priceBand": "$17.39 - $30.16",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0BRT4Q43P",
+      "title": "Canker-X Rincinol Oral Rinse Mouthwash, Canker Sore Relief, 4 Fl Oz",
+      "brand": "Canker-X",
+      "price": 12.99,
+      "salesParent": 3947,
+      "revenue": 51271.53,
+      "rating": 4.4,
+      "reviews": 2234
+    },
+    {
+      "rank": 2,
+      "asin": "B07C3G4JKR",
+      "title": "MetaQil Oral Rinse, Proven to Relieve Metallic, Bitter and Other Taste Disorders, Made from 8 Core Ingredients, Cools and Freshens Breath, Available in 8 oz Bottle, 1 Count",
+      "brand": "MetaQil",
+      "price": 17.95,
+      "salesParent": 383,
+      "revenue": 6874.85,
+      "rating": 3.8,
+      "reviews": 896
+    },
+    {
+      "rank": 3,
+      "asin": "B0BLTDCZYR",
+      "title": "CariFree Gel 1100 and Maintenance Rinse Mint Bundle",
+      "brand": "CariFree",
+      "price": 30.22,
+      "salesParent": 36,
+      "revenue": 1087.92,
+      "rating": 4.5,
+      "reviews": 73
+    },
+    {
+      "rank": 4,
+      "asin": "B00ANL55Y2",
+      "title": "Gly-Oxide Alcohol-Free Antiseptic Mouth Sore Rinse, 2 oz",
+      "brand": "Gly-Oxide",
+      "price": 24.99,
+      "salesParent": 43,
+      "revenue": 1074.57,
+      "rating": 4.7,
+      "reviews": 5495
+    },
+    {
+      "rank": 5,
+      "asin": "B00TKKB8H0",
+      "title": "Orajel Alcohol Free Antiseptic Rinse, 16 fl. oz.",
+      "brand": "Orajel",
+      "price": 17.2,
+      "salesParent": 29,
+      "revenue": 489.23,
+      "rating": 4.5,
+      "reviews": 507
+    },
+    {
+      "rank": 6,
+      "asin": "B06XKKPXWP",
+      "title": "Orajel Soothing Mint Double Medicated Analgesic &amp; Astringent Rinse for Toothache, 16 fl oz (Bundle of 2)",
+      "brand": "Orajel",
+      "price": 25.45,
+      "salesParent": 16,
+      "revenue": 412.64,
+      "rating": 4.6,
+      "reviews": 113
+    },
+    {
+      "rank": 7,
+      "asin": "B01BFWZWI6",
+      "title": "Ionite-R Neutral Fluoride Rinse - Fruit Punch, 64oz",
+      "brand": "DHARMA RESEARCH",
+      "price": 28.68,
+      "salesParent": 7,
+      "revenue": 199.22,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "rank": 8,
+      "asin": "B000NUQVNC",
+      "title": "ST 37 ANTISEPTIC LIQUID Size: 8 OZ",
+      "brand": "NUMARK LABORATORIES INC",
+      "price": 16.94,
+      "salesParent": 4,
+      "revenue": 67.76,
+      "rating": 4.4,
+      "reviews": 57
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": null,
+    "direction": "flat",
+    "comparable": null,
+    "rawYoyPct": -34,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 61478,
+    "priorHeadRevenue": 93349,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 12,
+      "newCount": 0,
+      "pct": 0,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 100,
+      "brandCount": 9,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.46,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0BRT4Q43P",
+        "title": "Canker-X Rincinol Oral Rinse Mouthwash, Canker Sore Relief, 4 Fl Oz",
+        "rating": 4.4,
+        "reviews": 2234
+      },
+      {
+        "rank": 2,
+        "asin": "B07C3G4JKR",
+        "title": "MetaQil Oral Rinse, Proven to Relieve Metallic, Bitter and Other Taste Disorders, Made from 8 Core Ingredients, Cools and Freshens Breath, Available in 8 oz Bottle, 1 Count",
+        "rating": 3.8,
+        "reviews": 896
+      },
+      {
+        "rank": 3,
+        "asin": "B0BLTDCZYR",
+        "title": "CariFree Gel 1100 and Maintenance Rinse Mint Bundle",
+        "rating": 4.5,
+        "reviews": 73
+      },
+      {
+        "rank": 4,
+        "asin": "B00ANL55Y2",
+        "title": "Gly-Oxide Alcohol-Free Antiseptic Mouth Sore Rinse, 2 oz",
+        "rating": 4.7,
+        "reviews": 5495
+      },
+      {
+        "rank": 5,
+        "asin": "B00TKKB8H0",
+        "title": "Orajel Alcohol Free Antiseptic Rinse, 16 fl. oz.",
+        "rating": 4.5,
+        "reviews": 507
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:10079992011:3764051:10728271",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

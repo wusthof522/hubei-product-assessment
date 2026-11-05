@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "13226755011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Health Care > Feminine Care > Feminine Washes",
+  "categoryPathCn": "健康与家居 > 卫生保健 > 女士卫生护理 > 女士洗液",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 5991982,
+    "avgRevenue": 59920,
+    "medianPrice": 16.98,
+    "priceBand": "$9.91 - $22.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0BVYD2L5K",
+      "title": "Lume Acidified Body Wash - 8.5 oz (Clean Tangerine)",
+      "brand": "Lume",
+      "price": 18.2,
+      "salesParent": 44780,
+      "revenue": 789471.38,
+      "rating": 4.5,
+      "reviews": 25653
+    },
+    {
+      "rank": 2,
+      "asin": "B0CZSD8YZV",
+      "title": "Frida 12pc Postpartum Essentials Kit, Hospital Bag Basics for New Mom",
+      "brand": "Frida Mom",
+      "price": 37.49,
+      "salesParent": 19778,
+      "revenue": 741477.25,
+      "rating": 4.8,
+      "reviews": 2662
+    },
+    {
+      "rank": 3,
+      "asin": "B0DQ9ZM63M",
+      "title": "Love Wellness | pH Balanced Feminine Wash | Fragrance-Free | 10 Fl Oz",
+      "brand": "Love Wellness",
+      "price": 24.99,
+      "salesParent": 18530,
+      "revenue": 463064.69,
+      "rating": 4.5,
+      "reviews": 971
+    },
+    {
+      "rank": 4,
+      "asin": "B0FCPGSHL9",
+      "title": "URO pH Balanced Probiotic Wash for Vaginal Odor, Eucalyptus – 6.75 oz",
+      "brand": "O Positiv",
+      "price": 15.97,
+      "salesParent": 21537,
+      "revenue": 343945.91,
+      "rating": 4.5,
+      "reviews": 2636
+    },
+    {
+      "rank": 5,
+      "asin": "B0BVDR7HXV",
+      "title": "The Honey Pot Company - Feminine Wash - Sensitive -5.51 Fl Oz, Pack of 1",
+      "brand": "The Honey Pot Company",
+      "price": 9.88,
+      "salesParent": 33110,
+      "revenue": 327126.81,
+      "rating": 4.7,
+      "reviews": 7509
+    },
+    {
+      "rank": 6,
+      "asin": "B0072K2BMG",
+      "title": "vH Essentials Tea Tree Daily Feminine Wash 6oz - pH Balanced + Odor Control",
+      "brand": "vH essentials",
+      "price": 6.99,
+      "salesParent": 44529,
+      "revenue": 305468.94,
+      "rating": 4.6,
+      "reviews": 33534
+    },
+    {
+      "rank": 7,
+      "asin": "B0D973SJPF",
+      "title": "salt.xo Seedless Yoni Gel Wash, Feminine Wash, Cucumber Aloe, 8 Fl Oz",
+      "brand": "salt.xo",
+      "price": 20.5,
+      "salesParent": 12197,
+      "revenue": 238573.31,
+      "rating": 4.5,
+      "reviews": 1493
+    },
+    {
+      "rank": 8,
+      "asin": "B0D51K654Q",
+      "title": "Vagisil Odor Block Feminine Wash, pH Balanced, Gentle, 16.9 Fl Oz with Pump",
+      "brand": "Vagisil",
+      "price": 6.97,
+      "salesParent": 27270,
+      "revenue": 187072.2,
+      "rating": 4.7,
+      "reviews": 29488
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -4,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -4,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 5991982,
+    "priorHeadRevenue": 6218849,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 24,
+      "pct": 24,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 49,
+      "brandCount": 62,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.56,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0BVYD2L5K",
+        "title": "Lume Acidified Body Wash - 8.5 oz (Clean Tangerine)",
+        "rating": 4.5,
+        "reviews": 25653
+      },
+      {
+        "rank": 2,
+        "asin": "B0CZSD8YZV",
+        "title": "Frida 12pc Postpartum Essentials Kit, Hospital Bag Basics for New Mom",
+        "rating": 4.8,
+        "reviews": 2662
+      },
+      {
+        "rank": 3,
+        "asin": "B0DQ9ZM63M",
+        "title": "Love Wellness | pH Balanced Feminine Wash | Fragrance-Free | 10 Fl Oz",
+        "rating": 4.5,
+        "reviews": 971
+      },
+      {
+        "rank": 4,
+        "asin": "B0FCPGSHL9",
+        "title": "URO pH Balanced Probiotic Wash for Vaginal Odor, Eucalyptus – 6.75 oz",
+        "rating": 4.5,
+        "reviews": 2636
+      },
+      {
+        "rank": 5,
+        "asin": "B0BVDR7HXV",
+        "title": "The Honey Pot Company - Feminine Wash - Sensitive -5.51 Fl Oz, Pack of 1",
+        "rating": 4.7,
+        "reviews": 7509
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3760941:3779501:13226755011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

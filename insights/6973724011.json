@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "6973724011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Diet & Sports Nutrition > Sports Nutrition > Testosterone Boosters",
+  "categoryPathCn": "健康与家居 > 暮和喜欢 > 运动营养 > 睾酮助推器",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 9964372,
+    "avgRevenue": 99644,
+    "medianPrice": 39.0,
+    "priceBand": "$27.23 - $52.24",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0DFR883P7",
+      "title": "Testosterone Booster for Men - Natural Supplement Premium Tongkat Ali, Fenugreek, Shilajit &amp; Boron - Male Support - Libido, Energy &amp; Muscle Growth Support - 30 Servings (150 Caps)",
+      "brand": "MARS MEN",
+      "price": 99.0,
+      "salesParent": 13006,
+      "revenue": 1287594.0,
+      "rating": 4.0,
+      "reviews": 795
+    },
+    {
+      "rank": 2,
+      "asin": "B0CYHFRLGV",
+      "title": "Nugenix Total-T, Free and Total Testosterone Booster for Men, 90 Count",
+      "brand": "Nugenix",
+      "price": 64.49,
+      "salesParent": 11431,
+      "revenue": 737185.19,
+      "rating": 4.3,
+      "reviews": 5484
+    },
+    {
+      "rank": 3,
+      "asin": "B0F9QNTK4Z",
+      "title": "Nugenix Total-T2 Testosterone Booster &amp; Nitric Oxide Booster for Men, 90ct",
+      "brand": "Nugenix",
+      "price": 79.99,
+      "salesParent": 8226,
+      "revenue": 657997.75,
+      "rating": 4.1,
+      "reviews": 1142
+    },
+    {
+      "rank": 4,
+      "asin": "B01MQ1JLWY",
+      "title": "Prime Labs Testosterone Booster for Men, Supports Strength &amp; Stamina",
+      "brand": "Prime Labs",
+      "price": 22.99,
+      "salesParent": 18306,
+      "revenue": 420854.94,
+      "rating": 4.1,
+      "reviews": 95640
+    },
+    {
+      "rank": 5,
+      "asin": "B07TTDFXFV",
+      "title": "Tongkat Ali 1,020mg, High Potency 200:1, For Men + Women, 120 Capsules",
+      "brand": "Double Wood Supplements",
+      "price": 24.95,
+      "salesParent": 11936,
+      "revenue": 288970.56,
+      "rating": 4.4,
+      "reviews": 10242
+    },
+    {
+      "rank": 6,
+      "asin": "B0DN7JGVG2",
+      "title": "Thorne Advanced Testosterone Support, Men's Health Supplement, 60 Capsules",
+      "brand": "THORNE",
+      "price": 43.0,
+      "salesParent": 6717,
+      "revenue": 286815.91,
+      "rating": 4.4,
+      "reviews": 621
+    },
+    {
+      "rank": 7,
+      "asin": "B0DQVRW3T6",
+      "title": "Peak Potential 12-in-1 Testosterone Support for Men",
+      "brand": "STRIVLABS",
+      "price": 44.52,
+      "salesParent": 5245,
+      "revenue": 228524.64,
+      "rating": 4.5,
+      "reviews": 832
+    },
+    {
+      "rank": 8,
+      "asin": "B0D9VMFRM2",
+      "title": "Testosterone Booster Gummies, Male Enhancing Supplement, Enlargement Gummies for Men , Male Enhancement Chews Energy, Strength, Stamina, Endurance, Performance, Natural Blue Berry Chews",
+      "brand": "Sapir's Nutrition",
+      "price": 22.9,
+      "salesParent": 8919,
+      "revenue": 204245.09,
+      "rating": 4.1,
+      "reviews": 2576
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 9,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 9,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 9964372,
+    "priorHeadRevenue": 9142962,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 25,
+      "pct": 25,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 43,
+      "brandCount": 75,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.26,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0DFR883P7",
+        "title": "Testosterone Booster for Men - Natural Supplement Premium Tongkat Ali, Fenugreek, Shilajit &amp; Boron - Male Support - Libido, Energy &amp; Muscle Growth Support - 30 Servings (150 Caps)",
+        "rating": 4.0,
+        "reviews": 795
+      },
+      {
+        "rank": 2,
+        "asin": "B0CYHFRLGV",
+        "title": "Nugenix Total-T, Free and Total Testosterone Booster for Men, 90 Count",
+        "rating": 4.3,
+        "reviews": 5484
+      },
+      {
+        "rank": 3,
+        "asin": "B0F9QNTK4Z",
+        "title": "Nugenix Total-T2 Testosterone Booster &amp; Nitric Oxide Booster for Men, 90ct",
+        "rating": 4.1,
+        "reviews": 1142
+      },
+      {
+        "rank": 4,
+        "asin": "B01MQ1JLWY",
+        "title": "Prime Labs Testosterone Booster for Men, Supports Strength &amp; Stamina",
+        "rating": 4.1,
+        "reviews": 95640
+      },
+      {
+        "rank": 5,
+        "asin": "B07TTDFXFV",
+        "title": "Tongkat Ali 1,020mg, High Potency 200:1, For Men + Women, 120 Capsules",
+        "rating": 4.4,
+        "reviews": 10242
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3764441:6973663011:6973724011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

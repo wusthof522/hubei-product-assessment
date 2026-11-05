@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23783024011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Oral Care > Dental Floss & Picks > Dental Chew Sticks",
+  "categoryPathCn": "健康与家居 > 口腔护理 > 齿间清理 > 牙嚼棒",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "insufficient",
+  "marketSize": {
+    "sampleCount": 16,
+    "totalRevenue": 20248,
+    "avgRevenue": 1266,
+    "medianPrice": 10.18,
+    "priceBand": "$8.96 - $19.36",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0FQ3DZYPZ",
+      "title": "Natural Sticks for Teeth (10-Pack) – Fresh Siwak Sticks with Wooden Holder, Natural Earthy Taste, Travel-Friendly Organic Toothbrush Alternative for Teeth &amp; Gums",
+      "brand": "MISWAK",
+      "price": 19.99,
+      "salesParent": 464,
+      "revenue": 8880.96,
+      "rating": 3.5,
+      "reviews": 144
+    },
+    {
+      "rank": 2,
+      "asin": "B0HMQCKP8S",
+      "title": "Holipaw Dental Chew, Fresh Breath without Brushing Teeth, Chicken Flavor",
+      "brand": "Elyra",
+      "price": 26.68,
+      "salesParent": 149,
+      "revenue": 4018.53,
+      "rating": 5.0,
+      "reviews": 2
+    },
+    {
+      "rank": 3,
+      "asin": "B0BMW2XXSJ",
+      "title": "Miswak Sticks Pack of 10 with 2 Holders, Vacuum-Sealed Natural Wooden Chew Sticks for Traditional Teeth Cleaning",
+      "brand": "SEWAK AL NOOR",
+      "price": 8.99,
+      "salesParent": 388,
+      "revenue": 3488.12,
+      "rating": 3.9,
+      "reviews": 1100
+    },
+    {
+      "rank": 4,
+      "asin": "B0H6X26YC5",
+      "title": "Miswak Sticks, (Traditional Natural Toothbrush), Individually Vacuum Sealed Teeth Cleaning Chewing Sticks, Wooden Toothbrush || Pack of 2",
+      "brand": "HikmaHerb",
+      "price": 4.69,
+      "salesParent": 403,
+      "revenue": 1890.07,
+      "rating": 4.0,
+      "reviews": 7
+    },
+    {
+      "rank": 5,
+      "asin": "B0DNR5PYKX",
+      "title": "Natural Neem Chew Sticks for Oral Care, Traditional Neem Datun Twigs, Manual Tooth Cleaning Sticks, Natural Toothbrush Alternative, 6-8 Inch, Pack of 10 + 1 Free",
+      "brand": "Generic",
+      "price": 19.49,
+      "salesParent": 36,
+      "revenue": 701.64,
+      "rating": 4.2,
+      "reviews": 13
+    },
+    {
+      "rank": 6,
+      "asin": "B0DRZ4JZ9V",
+      "title": "Miswak Sticks for Teeth Organic | Siwak Toothbrush Stick | Sustainable Tooth Stick for Oral Care | Natural Chew Sticks for Humans | Meswak Miswak Holder-Free | African Toothbrush Stick | مسواك (1)",
+      "brand": "AROOSH",
+      "price": 5.75,
+      "salesParent": 87,
+      "revenue": 500.25,
+      "rating": 3.7,
+      "reviews": 119
+    },
+    {
+      "rank": 7,
+      "asin": "B0HLK5S8BL",
+      "title": "Natural Organic Neem Datun Sticks Herbal Teeth Cleaning Pack of 10",
+      "brand": "Generic",
+      "price": 12.0,
+      "salesParent": 11,
+      "revenue": 187.0,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "rank": 8,
+      "asin": "B0BYDT5CNQ",
+      "title": "orinko 4 Miswak Sticks for Teeth - 100% Natural Miswak Toothbrush - Cleaning, Disinfecting and Whitening - Salvadora Persica Stick Ecological, Biodegradable and Vegan - with Ebook",
+      "brand": "orinko",
+      "price": 7.99,
+      "salesParent": 22,
+      "revenue": 175.78,
+      "rating": 3.9,
+      "reviews": 281
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": null,
+    "direction": "flat",
+    "comparable": null,
+    "rawYoyPct": 314,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 20248,
+    "priorHeadRevenue": 4887,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 16,
+      "newCount": 11,
+      "pct": 69,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 96,
+      "brandCount": 9,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 3.85,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0FQ3DZYPZ",
+        "title": "Natural Sticks for Teeth (10-Pack) – Fresh Siwak Sticks with Wooden Holder, Natural Earthy Taste, Travel-Friendly Organic Toothbrush Alternative for Teeth &amp; Gums",
+        "rating": 3.5,
+        "reviews": 144
+      },
+      {
+        "rank": 2,
+        "asin": "B0HMQCKP8S",
+        "title": "Holipaw Dental Chew, Fresh Breath without Brushing Teeth, Chicken Flavor",
+        "rating": 5.0,
+        "reviews": 2
+      },
+      {
+        "rank": 3,
+        "asin": "B0BMW2XXSJ",
+        "title": "Miswak Sticks Pack of 10 with 2 Holders, Vacuum-Sealed Natural Wooden Chew Sticks for Traditional Teeth Cleaning",
+        "rating": 3.9,
+        "reviews": 1100
+      },
+      {
+        "rank": 4,
+        "asin": "B0H6X26YC5",
+        "title": "Miswak Sticks, (Traditional Natural Toothbrush), Individually Vacuum Sealed Teeth Cleaning Chewing Sticks, Wooden Toothbrush || Pack of 2",
+        "rating": 4.0,
+        "reviews": 7
+      },
+      {
+        "rank": 5,
+        "asin": "B0DNR5PYKX",
+        "title": "Natural Neem Chew Sticks for Oral Care, Traditional Neem Datun Twigs, Manual Tooth Cleaning Sticks, Natural Toothbrush Alternative, 6-8 Inch, Pack of 10 + 1 Free",
+        "rating": 4.2,
+        "reviews": 13
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:10079992011:13213824011:23783024011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

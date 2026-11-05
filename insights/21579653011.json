@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "21579653011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Health Care > Eye Health > Eye Washes",
+  "categoryPathCn": "健康与家居 > 卫生保健 > 眼睛健康 > 洗眼液",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 49,
+    "totalRevenue": 454396,
+    "avgRevenue": 9273,
+    "medianPrice": 8.99,
+    "priceBand": "$6.88 - $16.95",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B09J97X71Z",
+      "title": "Avenova Eyelid Spray Cleanser for Lid &amp; Lash, 20 ml (3-Pack)",
+      "brand": "Avenova",
+      "price": 84.99,
+      "salesParent": 1798,
+      "revenue": 152812.02,
+      "rating": 4.9,
+      "reviews": 830
+    },
+    {
+      "rank": 2,
+      "asin": "B00HW067O4",
+      "title": "PhysiciansCare by First Aid Only 7-006 Eye Wash Solution, 4 oz Bottle",
+      "brand": "PhysiciansCare",
+      "price": 3.99,
+      "salesParent": 13436,
+      "revenue": 54281.44,
+      "rating": 4.7,
+      "reviews": 4880
+    },
+    {
+      "rank": 3,
+      "asin": "B095XB57Q5",
+      "title": "Optase® Protect Eyelid Cleansing Spray, 100 ml",
+      "brand": "Optase",
+      "price": 19.01,
+      "salesParent": 2428,
+      "revenue": 46156.28,
+      "rating": 4.5,
+      "reviews": 1086
+    },
+    {
+      "rank": 4,
+      "asin": "B0BNKC5KZM",
+      "title": "OCuSOFT Lid Scrub Earth Natural Eyelid Cleanser – 30 Pre-Moistened Pads",
+      "brand": "OCuSOFT",
+      "price": 16.95,
+      "salesParent": 2550,
+      "revenue": 43222.5,
+      "rating": 4.5,
+      "reviews": 363
+    },
+    {
+      "rank": 5,
+      "asin": "B000MD6ERS",
+      "title": "Eye Wash by Bausch &amp; Lomb, Eye Relief Solution that Cleans, Refreshes, and Soothes, 4 Fl Oz",
+      "brand": "Bausch + Lomb",
+      "price": 4.32,
+      "salesParent": 6800,
+      "revenue": 29376.0,
+      "rating": 4.3,
+      "reviews": 4067
+    },
+    {
+      "rank": 6,
+      "asin": "B000YM8OPC",
+      "title": "First Aid Only PhysiciansCare 1 oz Sterile Eye Wash Bottles - 12-Pack",
+      "brand": "First Aid Only",
+      "price": 57.28,
+      "salesParent": 369,
+      "revenue": 20763.63,
+      "rating": 4.8,
+      "reviews": 372
+    },
+    {
+      "rank": 7,
+      "asin": "B009PQUTHY",
+      "title": "PhysiciansCare 8 oz Sterile Eye Wash Solution for Eye Irrigation",
+      "brand": "PhysiciansCare",
+      "price": 7.69,
+      "salesParent": 2327,
+      "revenue": 17894.63,
+      "rating": 4.7,
+      "reviews": 1286
+    },
+    {
+      "rank": 8,
+      "asin": "B0FJYNWFV6",
+      "title": "Bruder Hygienic Eyelid Solution Spray - Non-Irritating Pure Hypochlorous in saline, Calm, Skincare, Daily Use Eyelid and Lash Cleanser, Eye Cleansing Spray (30mL)",
+      "brand": "Bruder",
+      "price": 19.95,
+      "salesParent": 653,
+      "revenue": 13027.35,
+      "rating": 4.6,
+      "reviews": 159
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 20,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 20,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 454396,
+    "priorHeadRevenue": 377156,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 49,
+      "newCount": 22,
+      "pct": 45,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 76,
+      "brandCount": 41,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.55,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B09J97X71Z",
+        "title": "Avenova Eyelid Spray Cleanser for Lid &amp; Lash, 20 ml (3-Pack)",
+        "rating": 4.9,
+        "reviews": 830
+      },
+      {
+        "rank": 2,
+        "asin": "B00HW067O4",
+        "title": "PhysiciansCare by First Aid Only 7-006 Eye Wash Solution, 4 oz Bottle",
+        "rating": 4.7,
+        "reviews": 4880
+      },
+      {
+        "rank": 3,
+        "asin": "B095XB57Q5",
+        "title": "Optase® Protect Eyelid Cleansing Spray, 100 ml",
+        "rating": 4.5,
+        "reviews": 1086
+      },
+      {
+        "rank": 4,
+        "asin": "B0BNKC5KZM",
+        "title": "OCuSOFT Lid Scrub Earth Natural Eyelid Cleanser – 30 Pre-Moistened Pads",
+        "rating": 4.5,
+        "reviews": 363
+      },
+      {
+        "rank": 5,
+        "asin": "B000MD6ERS",
+        "title": "Eye Wash by Bausch &amp; Lomb, Eye Relief Solution that Cleans, Refreshes, and Soothes, 4 Fl Oz",
+        "rating": 4.3,
+        "reviews": 4067
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3760941:3779691:21579653011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

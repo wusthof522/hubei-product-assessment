@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23498075011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Stuffed Animals & Plush Toys > Stuffed Animal Clothing & Accessories > Clothing",
+  "categoryPathCn": "玩具 > 填充的动物 > 填充的动物服装 > 衣服",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 96,
+    "totalRevenue": 793446,
+    "avgRevenue": 8265,
+    "medianPrice": 17.29,
+    "priceBand": "$12.24 - $26.49",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0HCJTJRF9",
+      "title": "Halloween Porch Goose Outfits Ghost Goose Costume for 23&quot; Goose Statue",
+      "brand": "Joyxzacp",
+      "price": 9.99,
+      "salesParent": 6392,
+      "revenue": 77343.2,
+      "rating": 4.3,
+      "reviews": 272
+    },
+    {
+      "rank": 2,
+      "asin": "B0FYFC3THF",
+      "title": "7inch Desk Goose Outfits, Mini Desktop Goose Clothes Desk Goose Accessories Set for Magnetic Goose Statue ( Yellow Dog )",
+      "brand": "linastu",
+      "price": 12.99,
+      "salesParent": 3684,
+      "revenue": 47855.16,
+      "rating": 4.7,
+      "reviews": 2
+    },
+    {
+      "rank": 3,
+      "asin": "B0H4GQYR2K",
+      "title": "2 Pack Desk Goose Christmas Outfits 7 Inch for Christmas &amp; Halloween",
+      "brand": "Oikomai",
+      "price": 14.99,
+      "salesParent": 3639,
+      "revenue": 46360.86,
+      "rating": 4.6,
+      "reviews": 127
+    },
+    {
+      "rank": 4,
+      "asin": "B0HHRJPQVR",
+      "title": "8 Set Seasonal Desk Goose Outfits, 7 Inches Mini Goose Clothes",
+      "brand": "OGCVIKF",
+      "price": 39.99,
+      "salesParent": 1077,
+      "revenue": 43069.23,
+      "rating": 4.8,
+      "reviews": 30
+    },
+    {
+      "rank": 5,
+      "asin": "B0FPWZ5VYM",
+      "title": "Christmas Winter Goose Outfit for 23&quot; Porch Goose Statue",
+      "brand": "Teeanzo",
+      "price": 15.99,
+      "salesParent": 2064,
+      "revenue": 33663.84,
+      "rating": 4.1,
+      "reviews": 215
+    },
+    {
+      "rank": 6,
+      "asin": "B0H2VXDXWY",
+      "title": "Porch Goose Halloween Outfit, 23 Inch Cute Porch Goose Ghost Outfit",
+      "brand": "Pextian",
+      "price": 11.99,
+      "salesParent": 2474,
+      "revenue": 30059.1,
+      "rating": 4.5,
+      "reviews": 67
+    },
+    {
+      "rank": 7,
+      "asin": "B0H7X35VMD",
+      "title": "GJL Fall Porch Goose Outfit Maple Dress, Thanksgiving Porch &amp; Yard Decor",
+      "brand": "GJL",
+      "price": 19.99,
+      "salesParent": 1325,
+      "revenue": 28779.0,
+      "rating": 4.6,
+      "reviews": 245
+    },
+    {
+      "rank": 8,
+      "asin": "B0H6PKYGY9",
+      "title": "8 Set Holiday Desk Goose Outfits Mini 7 Inch Goose Costume Accessories",
+      "brand": "Celltestria",
+      "price": 17.99,
+      "salesParent": 1332,
+      "revenue": 26933.04,
+      "rating": 4.1,
+      "reviews": 41
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": null,
+    "direction": "flat",
+    "comparable": false,
+    "rawYoyPct": 297,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 793446,
+    "priorHeadRevenue": 199977,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 96,
+      "newCount": 74,
+      "pct": 78,
+      "unknownLaunch": 1,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 34,
+      "brandCount": 80,
+      "level": "分散",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.46,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0HCJTJRF9",
+        "title": "Halloween Porch Goose Outfits Ghost Goose Costume for 23&quot; Goose Statue",
+        "rating": 4.3,
+        "reviews": 272
+      },
+      {
+        "rank": 2,
+        "asin": "B0FYFC3THF",
+        "title": "7inch Desk Goose Outfits, Mini Desktop Goose Clothes Desk Goose Accessories Set for Magnetic Goose Statue ( Yellow Dog )",
+        "rating": 4.7,
+        "reviews": 2
+      },
+      {
+        "rank": 3,
+        "asin": "B0H4GQYR2K",
+        "title": "2 Pack Desk Goose Christmas Outfits 7 Inch for Christmas &amp; Halloween",
+        "rating": 4.6,
+        "reviews": 127
+      },
+      {
+        "rank": 4,
+        "asin": "B0HHRJPQVR",
+        "title": "8 Set Seasonal Desk Goose Outfits, 7 Inches Mini Goose Clothes",
+        "rating": 4.8,
+        "reviews": 30
+      },
+      {
+        "rank": 5,
+        "asin": "B0FPWZ5VYM",
+        "title": "Christmas Winter Goose Outfit for 23&quot; Porch Goose Statue",
+        "rating": 4.1,
+        "reviews": 215
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166461011:10130802011:23498075011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

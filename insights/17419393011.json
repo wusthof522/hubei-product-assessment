@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "17419393011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Household Supplies > Dishwashing > Dish Scouring Pads",
+  "categoryPathCn": "健康与家居 > 家居用品 > 洗碗机专用 > 百洁布",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 1146397,
+    "avgRevenue": 11464,
+    "medianPrice": 12.99,
+    "priceBand": "$9.11 - $16.55",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0D6W5QY65",
+      "title": "Cast Iron Scrubber Dish Scrub Brush 316 Chainmail Scrubber for Cast Iron",
+      "brand": "Purgreat",
+      "price": 14.99,
+      "salesParent": 7072,
+      "revenue": 106292.16,
+      "rating": 4.6,
+      "reviews": 1072
+    },
+    {
+      "rank": 2,
+      "asin": "B093J6HM4Z",
+      "title": "Scotch-Brite Non-Scratch Dishwand Refills, 10 Refills",
+      "brand": "Scotch-Brite",
+      "price": 17.99,
+      "salesParent": 4320,
+      "revenue": 75124.8,
+      "rating": 4.6,
+      "reviews": 8720
+    },
+    {
+      "rank": 3,
+      "asin": "B013XIDAZC",
+      "title": "Knapp Made CM Scrubber 6&quot; x 6&quot; Small Ring Chainmail Cast Iron Scrubber, Premium Stainless Steel Mesh Cleaner for Pre-Seasoned Pans, Dutch Ovens, Grills and Skillets",
+      "brand": "CM SCRUBBER",
+      "price": 19.99,
+      "salesParent": 3580,
+      "revenue": 68879.2,
+      "rating": 4.6,
+      "reviews": 4011
+    },
+    {
+      "rank": 4,
+      "asin": "B000ND7A5M",
+      "title": "OXO Steel Soap Dispensing Dish Brush, Dish Scrubber",
+      "brand": "OXO",
+      "price": 17.96,
+      "salesParent": 2394,
+      "revenue": 43020.18,
+      "rating": 4.5,
+      "reviews": 6076
+    },
+    {
+      "rank": 5,
+      "asin": "B072588RLX",
+      "title": "S.O.S 98014 Steel Wool Soap Pad (50 Count)",
+      "brand": "Scotch-Brite",
+      "price": 17.99,
+      "salesParent": 1911,
+      "revenue": 34283.34,
+      "rating": 4.7,
+      "reviews": 1532
+    },
+    {
+      "rank": 6,
+      "asin": "B0711SDCGY",
+      "title": "TOPULORS Cast Iron Chainmail Scrubber, 316L Stainless Steel Cleaner 8x6 in",
+      "brand": "TOPULORS",
+      "price": 6.39,
+      "salesParent": 5250,
+      "revenue": 33547.5,
+      "rating": 4.6,
+      "reviews": 3825
+    },
+    {
+      "rank": 7,
+      "asin": "B096L1QFFR",
+      "title": "Scotch-Brite Non-Scratch Advanced Soap Control Dish Brush Refills, 3 Dish Scrub Brush Refills, Control Soap With A Button, Long Lasting &amp; Reusable, Dish Scrubber Brush",
+      "brand": "Scotch-Brite",
+      "price": 15.87,
+      "salesParent": 2024,
+      "revenue": 32120.88,
+      "rating": 4.8,
+      "reviews": 2178
+    },
+    {
+      "rank": 8,
+      "asin": "B0BN7VM2BX",
+      "title": "6Pcs Steel Wool Scrubbers - Flexible Scrubber Pads for Cleaning Dishes, Pots, Pans, Grills and Sinks",
+      "brand": "Docduet",
+      "price": 7.28,
+      "salesParent": 4354,
+      "revenue": 30956.94,
+      "rating": 4.6,
+      "reviews": 2400
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 7,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 7,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1146397,
+    "priorHeadRevenue": 1066913,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 20,
+      "pct": 20,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 44,
+      "brandCount": 73,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.48,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0D6W5QY65",
+        "title": "Cast Iron Scrubber Dish Scrub Brush 316 Chainmail Scrubber for Cast Iron",
+        "rating": 4.6,
+        "reviews": 1072
+      },
+      {
+        "rank": 2,
+        "asin": "B093J6HM4Z",
+        "title": "Scotch-Brite Non-Scratch Dishwand Refills, 10 Refills",
+        "rating": 4.6,
+        "reviews": 8720
+      },
+      {
+        "rank": 3,
+        "asin": "B013XIDAZC",
+        "title": "Knapp Made CM Scrubber 6&quot; x 6&quot; Small Ring Chainmail Cast Iron Scrubber, Premium Stainless Steel Mesh Cleaner for Pre-Seasoned Pans, Dutch Ovens, Grills and Skillets",
+        "rating": 4.6,
+        "reviews": 4011
+      },
+      {
+        "rank": 4,
+        "asin": "B000ND7A5M",
+        "title": "OXO Steel Soap Dispensing Dish Brush, Dish Scrubber",
+        "rating": 4.5,
+        "reviews": 6076
+      },
+      {
+        "rank": 5,
+        "asin": "B072588RLX",
+        "title": "S.O.S 98014 Steel Wool Soap Pad (50 Count)",
+        "rating": 4.7,
+        "reviews": 1532
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:15342811:15693761:17419393011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

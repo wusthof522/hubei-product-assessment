@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "166588011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Remote & App Controlled Vehicles & Parts > Remote & App Controlled Vehicles > Cars",
+  "categoryPathCn": "玩具 > 遥控 > 遥控 > 汽车",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 5304855,
+    "avgRevenue": 53584,
+    "medianPrice": 39.99,
+    "priceBand": "$28.79 - $92.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0GH2QG69X",
+      "title": "Monster Jam Chomping Megalodon RC Toy Monster Truck, 1:15 Scale",
+      "brand": "Monster Jam",
+      "price": 44.88,
+      "salesParent": 6936,
+      "revenue": 313229.75,
+      "rating": 4.6,
+      "reviews": 74
+    },
+    {
+      "rank": 2,
+      "asin": "B0CT8KCNBD",
+      "title": "Gesture Sensing RC Stunt Car - Boys Girls Toys Age 6-8-12, 4WD Hand Controlled Remote Control Twist Car with Light &amp; Music,Cool Birthday presents and Ideas Gifts for Kids Age 6 7 8 9 10 11 12 YearsOld",
+      "brand": "QXHOL",
+      "price": 49.79,
+      "salesParent": 5967,
+      "revenue": 297096.94,
+      "rating": 4.5,
+      "reviews": 1178
+    },
+    {
+      "rank": 3,
+      "asin": "B0CZDQ7MCV",
+      "title": "BEZGAR Monster Truck Toys, 1:20 Remote Control Car with Light &amp; Music",
+      "brand": "BEZGAR",
+      "price": 39.99,
+      "salesParent": 6663,
+      "revenue": 261456.12,
+      "rating": 4.5,
+      "reviews": 1591
+    },
+    {
+      "rank": 4,
+      "asin": "B0CRYYK26J",
+      "title": "Cool 8 Wheels Hand Controlled rc Stunt Car Toys, Gesture Sensing Remote Control Cars for Boys Age 6 7 8-12 13 14 Year Old, Birthday Gifts Ideas for Kids",
+      "brand": "NEXBOX",
+      "price": 49.67,
+      "salesParent": 3470,
+      "revenue": 172354.89,
+      "rating": 4.6,
+      "reviews": 982
+    },
+    {
+      "rank": 5,
+      "asin": "B0D5CSSY6Q",
+      "title": "BLUEJAY Transform RC Cars for Boys 3-12, 2.4Ghz Remote Control Car",
+      "brand": "BLUEJAY",
+      "price": 26.99,
+      "salesParent": 6249,
+      "revenue": 154850.22,
+      "rating": 4.4,
+      "reviews": 2582
+    },
+    {
+      "rank": 6,
+      "asin": "B092YTJG5H",
+      "title": "Remote Control Car for Kids, 360° Rotating Double-Sided RC Car with LED Headlights, 4WD 2.4GHz Electric Rechargeable Toy Vehicle for Boys and Girls, Perfect Birthday",
+      "brand": "Hamdol",
+      "price": 34.99,
+      "salesParent": 5441,
+      "revenue": 147723.14,
+      "rating": 4.5,
+      "reviews": 8251
+    },
+    {
+      "rank": 7,
+      "asin": "B0DFV56T4Z",
+      "title": "Spider Transform RC Cars Toys with Eye &amp; Underbody Lights, 2.4GHz Remote Control Car One-Button Deformation, Fast 360°Rotation Robot Toys Birthday Gifts for 3 4 5 6 7 8 9 10 Year Old Boys Age 4-7 8-12",
+      "brand": "TIKAFONY",
+      "price": 31.49,
+      "salesParent": 4111,
+      "revenue": 140185.09,
+      "rating": 4.4,
+      "reviews": 2153
+    },
+    {
+      "rank": 8,
+      "asin": "B0F9L4QQ23",
+      "title": "Amphibious Remote Control Car, 1:18 Monster Truck Toys for Boys RC Cars",
+      "brand": "Dafotil",
+      "price": 35.99,
+      "salesParent": 4040,
+      "revenue": 134532.0,
+      "rating": 4.4,
+      "reviews": 1311
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 0,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 0,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 5304855,
+    "priorHeadRevenue": 5286558,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 43,
+      "pct": 43,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 26,
+      "brandCount": 72,
+      "level": "分散",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.5,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0GH2QG69X",
+        "title": "Monster Jam Chomping Megalodon RC Toy Monster Truck, 1:15 Scale",
+        "rating": 4.6,
+        "reviews": 74
+      },
+      {
+        "rank": 2,
+        "asin": "B0CT8KCNBD",
+        "title": "Gesture Sensing RC Stunt Car - Boys Girls Toys Age 6-8-12, 4WD Hand Controlled Remote Control Twist Car with Light &amp; Music,Cool Birthday presents and Ideas Gifts for Kids Age 6 7 8 9 10 11 12 YearsOld",
+        "rating": 4.5,
+        "reviews": 1178
+      },
+      {
+        "rank": 3,
+        "asin": "B0CZDQ7MCV",
+        "title": "BEZGAR Monster Truck Toys, 1:20 Remote Control Car with Light &amp; Music",
+        "rating": 4.5,
+        "reviews": 1591
+      },
+      {
+        "rank": 4,
+        "asin": "B0CRYYK26J",
+        "title": "Cool 8 Wheels Hand Controlled rc Stunt Car Toys, Gesture Sensing Remote Control Cars for Boys Age 6 7 8-12 13 14 Year Old, Birthday Gifts Ideas for Kids",
+        "rating": 4.6,
+        "reviews": 982
+      },
+      {
+        "rank": 5,
+        "asin": "B0D5CSSY6Q",
+        "title": "BLUEJAY Transform RC Cars for Boys 3-12, 2.4Ghz Remote Control Car",
+        "rating": 4.4,
+        "reviews": 2582
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:6925830011:166583011:166588011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

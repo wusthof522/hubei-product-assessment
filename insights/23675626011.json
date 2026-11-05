@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23675626011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins, Minerals & Supplements > Antioxidants > Polyphenol",
+  "categoryPathCn": "健康与家居 > 身、泳和附剂 > 抗拒 > 多酚",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 7139887,
+    "avgRevenue": 71399,
+    "medianPrice": 28.9,
+    "priceBand": "$22.97 - $37.83",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B079P7FXTW",
+      "title": "Cheers Restore | Supplement with DHM, L-Cysteine, Milk Thistle | 12 Doses",
+      "brand": "Cheers",
+      "price": 34.99,
+      "salesParent": 34128,
+      "revenue": 1194138.75,
+      "rating": 4.0,
+      "reviews": 8799
+    },
+    {
+      "rank": 2,
+      "asin": "B0FWGXBT3C",
+      "title": "Cata-Kor NMN Supplement – 4-in-1 NAD Supplement with Quercetin | TMG | Resveratrol – NMNH Alternative – Supports Cellular Energy &amp; NAD+ Level – 60 Capsules – Third-Party Tested (1 Pack)",
+      "brand": "Cata-Kor",
+      "price": 39.99,
+      "salesParent": 25005,
+      "revenue": 999950.0,
+      "rating": 4.4,
+      "reviews": 1906
+    },
+    {
+      "rank": 3,
+      "asin": "B0CTJ67LK1",
+      "title": "Black Forest High Flavanol Cocoa Powder - 1200mg Flavanols &amp; Flavonoids with 600mg Epicatechin - 10X Concentrated Dark Cocoa Extract for Nitric Oxide and Wellness Support - Non-GMO Vegan",
+      "brand": "Black Forest",
+      "price": 39.96,
+      "salesParent": 21413,
+      "revenue": 855663.44,
+      "rating": 4.4,
+      "reviews": 3222
+    },
+    {
+      "rank": 4,
+      "asin": "B018J1LOSI",
+      "title": "LIPO Ear Ringing Support, Lemon Bioflavonoids, 100 Caplets",
+      "brand": "Lipo-Flavonoid",
+      "price": 25.87,
+      "salesParent": 14862,
+      "revenue": 382696.5,
+      "rating": 3.6,
+      "reviews": 20622
+    },
+    {
+      "rank": 5,
+      "asin": "B09GWCQGD6",
+      "title": "Quercetin with Bromelain, Zinc, Vitamin C, D3 5000 IU, Elderberry",
+      "brand": "Clean Nutraceuticals",
+      "price": 29.95,
+      "salesParent": 9979,
+      "revenue": 298871.06,
+      "rating": 4.6,
+      "reviews": 7463
+    },
+    {
+      "rank": 6,
+      "asin": "B00GZRK124",
+      "title": "Pure Encapsulations Quercetin, 500 mg",
+      "brand": "Pure Encapsulations",
+      "price": 29.0,
+      "salesParent": 8730,
+      "revenue": 253170.0,
+      "rating": 4.7,
+      "reviews": 3249
+    },
+    {
+      "rank": 7,
+      "asin": "B0797DQTVZ",
+      "title": "THORNE Quercetin Phytosome, Highly Bioavailable Quercetin, 60 Capsules",
+      "brand": "THORNE",
+      "price": 46.0,
+      "salesParent": 4926,
+      "revenue": 226596.0,
+      "rating": 4.7,
+      "reviews": 2421
+    },
+    {
+      "rank": 8,
+      "asin": "B087YLTR4G",
+      "title": "Zinc Quercetin Immune Support Supplement | 120 Veg Capsules",
+      "brand": "Sandhu's",
+      "price": 28.79,
+      "salesParent": 7568,
+      "revenue": 219093.61,
+      "rating": 4.8,
+      "reviews": 17758
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 16,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 16,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 7139887,
+    "priorHeadRevenue": 6145989,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 13,
+      "pct": 13,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 56,
+      "brandCount": 70,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.52,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B079P7FXTW",
+        "title": "Cheers Restore | Supplement with DHM, L-Cysteine, Milk Thistle | 12 Doses",
+        "rating": 4.0,
+        "reviews": 8799
+      },
+      {
+        "rank": 2,
+        "asin": "B0FWGXBT3C",
+        "title": "Cata-Kor NMN Supplement – 4-in-1 NAD Supplement with Quercetin | TMG | Resveratrol – NMNH Alternative – Supports Cellular Energy &amp; NAD+ Level – 60 Capsules – Third-Party Tested (1 Pack)",
+        "rating": 4.4,
+        "reviews": 1906
+      },
+      {
+        "rank": 3,
+        "asin": "B0CTJ67LK1",
+        "title": "Black Forest High Flavanol Cocoa Powder - 1200mg Flavanols &amp; Flavonoids with 600mg Epicatechin - 10X Concentrated Dark Cocoa Extract for Nitric Oxide and Wellness Support - Non-GMO Vegan",
+        "rating": 4.4,
+        "reviews": 3222
+      },
+      {
+        "rank": 4,
+        "asin": "B018J1LOSI",
+        "title": "LIPO Ear Ringing Support, Lemon Bioflavonoids, 100 Caplets",
+        "rating": 3.6,
+        "reviews": 20622
+      },
+      {
+        "rank": 5,
+        "asin": "B09GWCQGD6",
+        "title": "Quercetin with Bromelain, Zinc, Vitamin C, D3 5000 IU, Elderberry",
+        "rating": 4.6,
+        "reviews": 7463
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:23675621011:3774521:23675626011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "8619207011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Medical Supplies & Equipment > Braces, Splints & Supports > Chest Supports",
+  "categoryPathCn": "健康与家居 > 医疗用品和设备 > 绷带、夹板和背带 > 护胸",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 258876,
+    "avgRevenue": 2589,
+    "medianPrice": 17.99,
+    "priceBand": "$13.3 - $27.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B00W963NZW",
+      "title": "BraceAbility Broken Rib Brace for Women and Men - Rib Protector Compression Wrap, Chest Support Belt for Bruised, Fractured, Dislocated Ribs, Costochondritis Relief, Sternum Brace (Female - White)",
+      "brand": "BraceAbility",
+      "price": 22.99,
+      "salesParent": 2481,
+      "revenue": 57038.19,
+      "rating": 4.3,
+      "reviews": 6811
+    },
+    {
+      "rank": 2,
+      "asin": "B0FY2GL9J5",
+      "title": "Pauline Broken Rib Brace for Women - Compression Chest Binder for Cracked Ribs Support &amp; Chest Pain Relief - Rib Belt for Bruised Rib Cage (White, Fits 30”-45”)",
+      "brand": "Pauline",
+      "price": 16.99,
+      "salesParent": 1416,
+      "revenue": 24057.84,
+      "rating": 4.2,
+      "reviews": 172
+    },
+    {
+      "rank": 3,
+      "asin": "B0FP3VNY1V",
+      "title": "Expand-a-Band Breast Binder With Dri Release, Lined (White Solid, Medium 34&quot;-36&quot;)",
+      "brand": "LIVING WELL STORES",
+      "price": 41.0,
+      "salesParent": 406,
+      "revenue": 16646.0,
+      "rating": 4.6,
+      "reviews": 19
+    },
+    {
+      "rank": 4,
+      "asin": "B07MVNBLR5",
+      "title": "Everyday Medical Breast Implant Stabilizer Band I Post Surgery Breast Augmentation and Reduction Strap I Chest Belt I Breast Support Bandage I One Size Fits All",
+      "brand": "Everyday Medical",
+      "price": 17.99,
+      "salesParent": 747,
+      "revenue": 13438.53,
+      "rating": 4.4,
+      "reviews": 3135
+    },
+    {
+      "rank": 5,
+      "asin": "B07G4NB762",
+      "title": "Everyday Medical Broken Rib Brace for Men &amp; Women, Bamboo Belly Wrap, XL",
+      "brand": "Everyday Medical",
+      "price": 19.95,
+      "salesParent": 656,
+      "revenue": 13087.2,
+      "rating": 4.1,
+      "reviews": 3012
+    },
+    {
+      "rank": 6,
+      "asin": "B081MBYGFN",
+      "title": "ORTONYX Sternum and Thorax Support Chest Brace, Post Surgery Recovery Vest",
+      "brand": "ORTONYX",
+      "price": 65.57,
+      "salesParent": 155,
+      "revenue": 10163.35,
+      "rating": 4.4,
+      "reviews": 506
+    },
+    {
+      "rank": 7,
+      "asin": "B00XSJCGJ8",
+      "title": "BraceAbility Rib Injury Binder Belt - Universal Brace for Women, Broken, Fractured, or Cracked Ribs, Cage Compression Wrap for Bruised Support, Sternum Injury Recovery (Fits 36”-58”)",
+      "brand": "BraceAbility",
+      "price": 22.99,
+      "salesParent": 445,
+      "revenue": 9233.75,
+      "rating": 4.1,
+      "reviews": 4592
+    },
+    {
+      "rank": 8,
+      "asin": "B082SBPQMD",
+      "title": "Rib Brace for Men and Women - Rib Wrap, Rib Belt and Chest Wrap for Bruised, Sore Ribs - Rib Compression Wrap for Rib Cage Pain, Intercostal Strain - Breathable Chest Binder (Large / XL Fits 37&quot; to 48&quot; Chest) Black",
+      "brand": "ARMSTRONG AMERICA",
+      "price": 22.95,
+      "salesParent": 391,
+      "revenue": 8973.45,
+      "rating": 4.4,
+      "reviews": 1123
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -14,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -14,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 258876,
+    "priorHeadRevenue": 299904,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 49,
+      "pct": 49,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 57,
+      "brandCount": 69,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.03,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B00W963NZW",
+        "title": "BraceAbility Broken Rib Brace for Women and Men - Rib Protector Compression Wrap, Chest Support Belt for Bruised, Fractured, Dislocated Ribs, Costochondritis Relief, Sternum Brace (Female - White)",
+        "rating": 4.3,
+        "reviews": 6811
+      },
+      {
+        "rank": 2,
+        "asin": "B0FY2GL9J5",
+        "title": "Pauline Broken Rib Brace for Women - Compression Chest Binder for Cracked Ribs Support &amp; Chest Pain Relief - Rib Belt for Bruised Rib Cage (White, Fits 30”-45”)",
+        "rating": 4.2,
+        "reviews": 172
+      },
+      {
+        "rank": 3,
+        "asin": "B0FP3VNY1V",
+        "title": "Expand-a-Band Breast Binder With Dri Release, Lined (White Solid, Medium 34&quot;-36&quot;)",
+        "rating": 4.6,
+        "reviews": 19
+      },
+      {
+        "rank": 4,
+        "asin": "B07MVNBLR5",
+        "title": "Everyday Medical Breast Implant Stabilizer Band I Post Surgery Breast Augmentation and Reduction Strap I Chest Belt I Breast Support Bandage I One Size Fits All",
+        "rating": 4.4,
+        "reviews": 3135
+      },
+      {
+        "rank": 5,
+        "asin": "B07G4NB762",
+        "title": "Everyday Medical Broken Rib Brace for Men &amp; Women, Bamboo Belly Wrap, XL",
+        "rating": 4.1,
+        "reviews": 3012
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3775161:3775541:8619207011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3779571",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Health Care > Feminine Care > Feminine Powders",
+  "categoryPathCn": "健康与家居 > 卫生保健 > 女士卫生护理 > 女性药粉",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 44,
+    "totalRevenue": 455559,
+    "avgRevenue": 10354,
+    "medianPrice": 19.82,
+    "priceBand": "$10.45 - $27.49",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0GPFH9Z4D",
+      "title": "HAPPY CURVES Talc-Free Anti-Chafe Deodorant Body Dusting Powder for Women",
+      "brand": "HAPPY CURVES",
+      "price": 19.99,
+      "salesParent": 12098,
+      "revenue": 227684.36,
+      "rating": 4.4,
+      "reviews": 4839
+    },
+    {
+      "rank": 2,
+      "asin": "B07V7JCG4R",
+      "title": "Megababe Body Dust, Talc-Free, Sweat Absorbing Powder, Lavender Scent, 6 oz",
+      "brand": "Megababe",
+      "price": 19.97,
+      "salesParent": 2859,
+      "revenue": 57094.23,
+      "rating": 4.5,
+      "reviews": 2170
+    },
+    {
+      "rank": 3,
+      "asin": "B0GZLTF588",
+      "title": "HAPPY CURVES Dusting Powder for Women - Body Powder &amp; Powder Puff Bundle",
+      "brand": "HAPPY CURVES",
+      "price": 34.99,
+      "salesParent": 1194,
+      "revenue": 43461.6,
+      "rating": 4.6,
+      "reviews": 69
+    },
+    {
+      "rank": 4,
+      "asin": "B07CVQ3WRM",
+      "title": "Megababe Bust Dust, Talc-Free Sweat Absorbing Powder w/ Pump, 3 oz",
+      "brand": "Megababe",
+      "price": 15.97,
+      "salesParent": 2601,
+      "revenue": 41537.97,
+      "rating": 4.3,
+      "reviews": 2174
+    },
+    {
+      "rank": 5,
+      "asin": "B08QNCK623",
+      "title": "Carpe Sweat Absorbing Body Powder for Women, White Jasmine - Talc-Free",
+      "brand": "Carpe",
+      "price": 19.95,
+      "salesParent": 1116,
+      "revenue": 22264.2,
+      "rating": 4.3,
+      "reviews": 2620
+    },
+    {
+      "rank": 6,
+      "asin": "B0FDDK1Z3P",
+      "title": "HAPPY CURVES Stay Dry Powder - Whole Body Dusting Powder Deodorant Spray",
+      "brand": "HAPPY CURVES",
+      "price": 17.99,
+      "salesParent": 837,
+      "revenue": 15451.02,
+      "rating": 4.6,
+      "reviews": 95
+    },
+    {
+      "rank": 7,
+      "asin": "B0058EGIIQ",
+      "title": "Shower to Shower Absorbent Body Powder-Sport-13 oz (Quantity of 6)",
+      "brand": "Shower To Shower",
+      "price": 35.46,
+      "salesParent": 241,
+      "revenue": 8475.97,
+      "rating": 4.8,
+      "reviews": 382
+    },
+    {
+      "rank": 8,
+      "asin": "B0CTWVHYK7",
+      "title": "SoCal Suds &amp; Company Natural Baby Powder Talc-Free, Lavender, 4oz",
+      "brand": "SoCal Suds &amp; Company",
+      "price": 17.99,
+      "salesParent": 360,
+      "revenue": 6476.4,
+      "rating": 4.3,
+      "reviews": 230
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 136,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 136,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 455559,
+    "priorHeadRevenue": 192994,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 44,
+      "newCount": 19,
+      "pct": 43,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 93,
+      "brandCount": 27,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.49,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0GPFH9Z4D",
+        "title": "HAPPY CURVES Talc-Free Anti-Chafe Deodorant Body Dusting Powder for Women",
+        "rating": 4.4,
+        "reviews": 4839
+      },
+      {
+        "rank": 2,
+        "asin": "B07V7JCG4R",
+        "title": "Megababe Body Dust, Talc-Free, Sweat Absorbing Powder, Lavender Scent, 6 oz",
+        "rating": 4.5,
+        "reviews": 2170
+      },
+      {
+        "rank": 3,
+        "asin": "B0GZLTF588",
+        "title": "HAPPY CURVES Dusting Powder for Women - Body Powder &amp; Powder Puff Bundle",
+        "rating": 4.6,
+        "reviews": 69
+      },
+      {
+        "rank": 4,
+        "asin": "B07CVQ3WRM",
+        "title": "Megababe Bust Dust, Talc-Free Sweat Absorbing Powder w/ Pump, 3 oz",
+        "rating": 4.3,
+        "reviews": 2174
+      },
+      {
+        "rank": 5,
+        "asin": "B08QNCK623",
+        "title": "Carpe Sweat Absorbing Body Powder for Women, White Jasmine - Talc-Free",
+        "rating": 4.3,
+        "reviews": 2620
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3760941:3779501:3779571",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

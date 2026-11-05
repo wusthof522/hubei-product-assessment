@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "166583011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Vehicles > Remote & App Controlled Vehicles & Parts > Remote & App Controlled Vehicles",
+  "categoryPathCn": "玩具 > 车辆 > 遥控 > 遥控",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 97,
+    "totalRevenue": 9624240,
+    "avgRevenue": 99219,
+    "medianPrice": 49.99,
+    "priceBand": "$34.49 - $124.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0CTWHSSM8",
+      "title": "QUNREDA Remote Control Car, RC Cars Toys for Kids Ages 6-12, 4WD Stunt Car with LED Lights &amp; 360° Flips, 2.4GHz, Upgraded USB-C Modular Batteries, 8-10 Year Old Boys Birthday Gift 1-Blue",
+      "brand": "QUNREDA",
+      "price": 29.99,
+      "salesParent": 25309,
+      "revenue": 739782.06,
+      "rating": 4.5,
+      "reviews": 7192
+    },
+    {
+      "rank": 2,
+      "asin": "B0F9Y4BCM5",
+      "title": "4DRC RC Planes Remote Control Airplanes for Kids Adults,Black,2Batteries",
+      "brand": "4DRC",
+      "price": 34.99,
+      "salesParent": 10866,
+      "revenue": 376941.53,
+      "rating": 3.8,
+      "reviews": 636
+    },
+    {
+      "rank": 3,
+      "asin": "B0BB16XJXR",
+      "title": "KIDMARKT Remote Control Excavator Toy for Boys, 11-Channel RC Construction Truck with Metal Parts, Lights &amp; Dual Batteries, 120 Minutes Playtime, Rechargeable Digger Toy for Kids Ages 3-12, STEM Gift",
+      "brand": "KIDMARKT",
+      "price": 43.5,
+      "salesParent": 8021,
+      "revenue": 337603.91,
+      "rating": 4.4,
+      "reviews": 1315
+    },
+    {
+      "rank": 4,
+      "asin": "B0GH2QG69X",
+      "title": "Monster Jam Chomping Megalodon RC Toy Monster Truck, 1:15 Scale",
+      "brand": "Monster Jam",
+      "price": 44.88,
+      "salesParent": 6936,
+      "revenue": 313229.75,
+      "rating": 4.6,
+      "reviews": 74
+    },
+    {
+      "rank": 5,
+      "asin": "B0CT8KCNBD",
+      "title": "Gesture Sensing RC Stunt Car - Boys Girls Toys Age 6-8-12, 4WD Hand Controlled Remote Control Twist Car with Light &amp; Music,Cool Birthday presents and Ideas Gifts for Kids Age 6 7 8 9 10 11 12 YearsOld",
+      "brand": "QXHOL",
+      "price": 49.79,
+      "salesParent": 5967,
+      "revenue": 297096.94,
+      "rating": 4.5,
+      "reviews": 1178
+    },
+    {
+      "rank": 6,
+      "asin": "B0CZDQ7MCV",
+      "title": "BEZGAR Monster Truck Toys, 1:20 Remote Control Car with Light &amp; Music",
+      "brand": "BEZGAR",
+      "price": 39.99,
+      "salesParent": 6663,
+      "revenue": 261456.12,
+      "rating": 4.5,
+      "reviews": 1591
+    },
+    {
+      "rank": 7,
+      "asin": "B07HGR2C1G",
+      "title": "Monster Jam Official Grave Digger Remote Control Monster Truck, 1:24 Scale, 2.4 GHz, for Ages 4 and Up",
+      "brand": "Monster Jam",
+      "price": 33.99,
+      "salesParent": 7055,
+      "revenue": 208051.95,
+      "rating": 4.4,
+      "reviews": 18544
+    },
+    {
+      "rank": 8,
+      "asin": "B0GJSC3LNB",
+      "title": "1.2 Ton Mini Excavator Set, 13.5HP Digger with 4 Attachments &amp; Canopy",
+      "brand": "HUAYEE",
+      "price": 5599.0,
+      "salesParent": 36,
+      "revenue": 201564.0,
+      "rating": 4.8,
+      "reviews": 37
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -2,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -2,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 9624240,
+    "priorHeadRevenue": 9795513,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 97,
+      "newCount": 43,
+      "pct": 44,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 28,
+      "brandCount": 73,
+      "level": "分散",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.41,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0CTWHSSM8",
+        "title": "QUNREDA Remote Control Car, RC Cars Toys for Kids Ages 6-12, 4WD Stunt Car with LED Lights &amp; 360° Flips, 2.4GHz, Upgraded USB-C Modular Batteries, 8-10 Year Old Boys Birthday Gift 1-Blue",
+        "rating": 4.5,
+        "reviews": 7192
+      },
+      {
+        "rank": 2,
+        "asin": "B0F9Y4BCM5",
+        "title": "4DRC RC Planes Remote Control Airplanes for Kids Adults,Black,2Batteries",
+        "rating": 3.8,
+        "reviews": 636
+      },
+      {
+        "rank": 3,
+        "asin": "B0BB16XJXR",
+        "title": "KIDMARKT Remote Control Excavator Toy for Boys, 11-Channel RC Construction Truck with Metal Parts, Lights &amp; Dual Batteries, 120 Minutes Playtime, Rechargeable Digger Toy for Kids Ages 3-12, STEM Gift",
+        "rating": 4.4,
+        "reviews": 1315
+      },
+      {
+        "rank": 4,
+        "asin": "B0GH2QG69X",
+        "title": "Monster Jam Chomping Megalodon RC Toy Monster Truck, 1:15 Scale",
+        "rating": 4.6,
+        "reviews": 74
+      },
+      {
+        "rank": 5,
+        "asin": "B0CT8KCNBD",
+        "title": "Gesture Sensing RC Stunt Car - Boys Girls Toys Age 6-8-12, 4WD Hand Controlled Remote Control Twist Car with Light &amp; Music,Cool Birthday presents and Ideas Gifts for Kids Age 6 7 8 9 10 11 12 YearsOld",
+        "rating": 4.5,
+        "reviews": 1178
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:6925830011:166583011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

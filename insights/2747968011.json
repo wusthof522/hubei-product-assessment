@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "2747968011",
+  "level": "L2",
+  "categoryPathEn": "Arts, Crafts & Sewing > Painting, Drawing & Art Supplies",
+  "categoryPathCn": "艺术、手工艺 > 油画、素描",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 98,
+    "totalRevenue": 22652796,
+    "avgRevenue": 231151,
+    "medianPrice": 25.98,
+    "priceBand": "$14.51 - $43.35",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0FPT9WHQQ",
+      "title": "ARTISTRO 36 Metallic Dual-Tip Acrylic Paint Marker Pens",
+      "brand": "ARTISTRO",
+      "price": 22.99,
+      "salesParent": 52148,
+      "revenue": 1300049.62,
+      "rating": 3.8,
+      "reviews": 145
+    },
+    {
+      "rank": 2,
+      "asin": "B0G7P9MMCP",
+      "title": "ARTISTRO 36 Multicolor Dual-Tip Acrylic Paint Marker Pens",
+      "brand": "ARTISTRO",
+      "price": 14.99,
+      "salesParent": 85979,
+      "revenue": 1079896.25,
+      "rating": 4.5,
+      "reviews": 16130
+    },
+    {
+      "rank": 3,
+      "asin": "B0G7NKPKCZ",
+      "title": "ARTISTRO 36 Multicolor Dual-Tip Acrylic Paint Marker Pens for Drawing",
+      "brand": "ARTISTRO",
+      "price": 14.99,
+      "salesParent": 72526,
+      "revenue": 1034221.0,
+      "rating": 4.4,
+      "reviews": 6316
+    },
+    {
+      "rank": 4,
+      "asin": "B0GJJHNDRH",
+      "title": "Lifelines FlowArt Mini Activity Pads, 3-Pack, Dot-by-Letter Coloring Books",
+      "brand": "Lifelines",
+      "price": 19.99,
+      "salesParent": 31042,
+      "revenue": 620529.56,
+      "rating": 4.6,
+      "reviews": 223
+    },
+    {
+      "rank": 5,
+      "asin": "B07Z93LQDB",
+      "title": "Shuttle Art Acrylic Paint, 36 Colors Acrylic Paint Set with Brushes &amp; Palette, 2oz/60ml Bottles, Rich Pigments Non-toxic for Artists Kids &amp; Adults, Painting on Canvas Rocks Ceramic Wood",
+      "brand": "Shuttle Art",
+      "price": 25.99,
+      "salesParent": 23072,
+      "revenue": 599641.25,
+      "rating": 4.7,
+      "reviews": 11625
+    },
+    {
+      "rank": 6,
+      "asin": "B0DFY9JBDR",
+      "title": "Acrylic Paint Markers, 72 Colors Dual Tip Fine &amp; Brush Pens Set",
+      "brand": "Pagather",
+      "price": 24.98,
+      "salesParent": 23415,
+      "revenue": 557042.88,
+      "rating": 4.6,
+      "reviews": 5495
+    },
+    {
+      "rank": 7,
+      "asin": "B0DGTXFK78",
+      "title": "Caliart Acrylic Paint Set of 36 Colors with 12 Brushes",
+      "brand": "Caliart",
+      "price": 27.99,
+      "salesParent": 20939,
+      "revenue": 542110.69,
+      "rating": 4.7,
+      "reviews": 23886
+    },
+    {
+      "rank": 8,
+      "asin": "B09VCYS41G",
+      "title": "24 Colors Dual Tip Acrylic Paint Markers, Fabric Decorating Kits",
+      "brand": "Betem",
+      "price": 12.99,
+      "salesParent": 35857,
+      "revenue": 465782.41,
+      "rating": 4.6,
+      "reviews": 21349
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 15,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 15,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 22652796,
+    "priorHeadRevenue": 19723520,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 98,
+      "newCount": 23,
+      "pct": 23,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 44,
+      "brandCount": 57,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.62,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0FPT9WHQQ",
+        "title": "ARTISTRO 36 Metallic Dual-Tip Acrylic Paint Marker Pens",
+        "rating": 3.8,
+        "reviews": 145
+      },
+      {
+        "rank": 2,
+        "asin": "B0G7P9MMCP",
+        "title": "ARTISTRO 36 Multicolor Dual-Tip Acrylic Paint Marker Pens",
+        "rating": 4.5,
+        "reviews": 16130
+      },
+      {
+        "rank": 3,
+        "asin": "B0G7NKPKCZ",
+        "title": "ARTISTRO 36 Multicolor Dual-Tip Acrylic Paint Marker Pens for Drawing",
+        "rating": 4.4,
+        "reviews": 6316
+      },
+      {
+        "rank": 4,
+        "asin": "B0GJJHNDRH",
+        "title": "Lifelines FlowArt Mini Activity Pads, 3-Pack, Dot-by-Letter Coloring Books",
+        "rating": 4.6,
+        "reviews": 223
+      },
+      {
+        "rank": 5,
+        "asin": "B07Z93LQDB",
+        "title": "Shuttle Art Acrylic Paint, 36 Colors Acrylic Paint Set with Brushes &amp; Palette, 2oz/60ml Bottles, Rich Pigments Non-toxic for Artists Kids &amp; Adults, Painting on Canvas Rocks Ceramic Wood",
+        "rating": 4.7,
+        "reviews": 11625
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "2617941011:2747968011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

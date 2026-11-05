@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "6939947011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins, Minerals & Supplements > Amino Acids > Carnitine",
+  "categoryPathCn": "健康与家居 > 身、泳和附剂 > 设计 > 肉毒碱",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "insufficient",
+  "marketSize": {
+    "sampleCount": 9,
+    "totalRevenue": 38403,
+    "avgRevenue": 4267,
+    "medianPrice": 26.99,
+    "priceBand": "$19.49 - $36.47",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0013OX9G4",
+      "title": "Jarrow L-Carnitine 500 mg, for Cellular Energy Production, 100 Capsules",
+      "brand": "Jarrow Formulas",
+      "price": 37.94,
+      "salesParent": 436,
+      "revenue": 16541.84,
+      "rating": 4.6,
+      "reviews": 618
+    },
+    {
+      "rank": 2,
+      "asin": "B086DS2NLX",
+      "title": "Benevolent L Carnitine Supplement - High Potency 1500mg – 120 Capsules",
+      "brand": "Benevolent Nourishment",
+      "price": 28.99,
+      "salesParent": 179,
+      "revenue": 5189.21,
+      "rating": 4.5,
+      "reviews": 767
+    },
+    {
+      "rank": 3,
+      "asin": "B0F2BBW68W",
+      "title": "Healthy Weight &amp; Energy Metabolism Supplement for Dogs &amp; Cats",
+      "brand": "Rooted Owl",
+      "price": 44.0,
+      "salesParent": 107,
+      "revenue": 4641.66,
+      "rating": 4.6,
+      "reviews": 12
+    },
+    {
+      "rank": 4,
+      "asin": "B01N4AI15W",
+      "title": "VitaMonk GPLC - Glycine Propionyl-L-Carnitine with No Artificial Fillers",
+      "brand": "VitaMonk",
+      "price": 26.99,
+      "salesParent": 113,
+      "revenue": 3049.87,
+      "rating": 4.1,
+      "reviews": 161
+    },
+    {
+      "rank": 5,
+      "asin": "B0CMWNVLQK",
+      "title": "PYM Attention Chews, Mixed Berry (20 Count) | Energy and Focus Supplement",
+      "brand": "PYM Health",
+      "price": 15.99,
+      "salesParent": 174,
+      "revenue": 2782.26,
+      "rating": 3.5,
+      "reviews": 153
+    },
+    {
+      "rank": 6,
+      "asin": "B0GLXN34W5",
+      "title": "OxyEnergy Liquid L-Carnitine Supplement 1000mg - Gentle for Daily Use, Zero Calorie, Sugar-Free, Stim-Free Fat Burning &amp; Endurance Booster, 21 On-the-Go Individual Liquid Sticks",
+      "brand": "OxyEnergy",
+      "price": 23.69,
+      "salesParent": 87,
+      "revenue": 2171.52,
+      "rating": 4.1,
+      "reviews": 55
+    },
+    {
+      "rank": 7,
+      "asin": "B00XHK8QW4",
+      "title": "Nature's Truth L-Carnitine 1000mg | 60 Capsules | Mega Strength | Free Form",
+      "brand": "Nature's Truth",
+      "price": 13.97,
+      "salesParent": 130,
+      "revenue": 1814.8,
+      "rating": 4.6,
+      "reviews": 66
+    },
+    {
+      "rank": 8,
+      "asin": "B000MGWH9O",
+      "title": "NOW Supplements, Diet Support with ForsLean®, 120 Veg Caps",
+      "brand": "NOW",
+      "price": 22.99,
+      "salesParent": 64,
+      "revenue": 1477.12,
+      "rating": 4.2,
+      "reviews": 297
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": null,
+    "direction": "flat",
+    "comparable": null,
+    "rawYoyPct": -65,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 38403,
+    "priorHeadRevenue": 110461,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 9,
+      "newCount": 2,
+      "pct": 22,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 84,
+      "brandCount": 9,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 3.97,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0013OX9G4",
+        "title": "Jarrow L-Carnitine 500 mg, for Cellular Energy Production, 100 Capsules",
+        "rating": 4.6,
+        "reviews": 618
+      },
+      {
+        "rank": 2,
+        "asin": "B086DS2NLX",
+        "title": "Benevolent L Carnitine Supplement - High Potency 1500mg – 120 Capsules",
+        "rating": 4.5,
+        "reviews": 767
+      },
+      {
+        "rank": 3,
+        "asin": "B0F2BBW68W",
+        "title": "Healthy Weight &amp; Energy Metabolism Supplement for Dogs &amp; Cats",
+        "rating": 4.6,
+        "reviews": 12
+      },
+      {
+        "rank": 4,
+        "asin": "B01N4AI15W",
+        "title": "VitaMonk GPLC - Glycine Propionyl-L-Carnitine with No Artificial Fillers",
+        "rating": 4.1,
+        "reviews": 161
+      },
+      {
+        "rank": 5,
+        "asin": "B0CMWNVLQK",
+        "title": "PYM Attention Chews, Mixed Berry (20 Count) | Energy and Focus Supplement",
+        "rating": 3.5,
+        "reviews": 153
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:23675621011:10781161:6939947011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

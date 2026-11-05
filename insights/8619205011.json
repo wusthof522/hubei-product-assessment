@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "8619205011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Medical Supplies & Equipment > Braces, Splints & Supports > Back, Neck & Shoulder Supports",
+  "categoryPathCn": "健康与家居 > 医疗用品和设备 > 绷带、夹板和背带 > 背部、颈部和肩部支架",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 96,
+    "totalRevenue": 8468630,
+    "avgRevenue": 88215,
+    "medianPrice": 34.99,
+    "priceBand": "$25.24 - $46.74",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B071G33DC1",
+      "title": "Sparthos Back Brace for Women &amp; Men, Sciatica, Lower Back Pain - Black-L",
+      "brand": "Sparthos",
+      "price": 26.97,
+      "salesParent": 28519,
+      "revenue": 769157.44,
+      "rating": 4.4,
+      "reviews": 69211
+    },
+    {
+      "rank": 2,
+      "asin": "B07ZQPKTVV",
+      "title": "ComfyBrace Posture Corrector for Men and Women, Back Brace Straightener",
+      "brand": "ComfyBrace",
+      "price": 26.97,
+      "salesParent": 23940,
+      "revenue": 632255.38,
+      "rating": 3.9,
+      "reviews": 47091
+    },
+    {
+      "rank": 3,
+      "asin": "B0H37W8FZZ",
+      "title": "Copper Fit Max Posture and Back Support (L/XL)",
+      "brand": "Copper Fit",
+      "price": 79.99,
+      "salesParent": 7178,
+      "revenue": 574168.19,
+      "rating": 4.1,
+      "reviews": 248
+    },
+    {
+      "rank": 4,
+      "asin": "B0D7DP76V5",
+      "title": "Copper Fit X-Back Brace for Lower Back Pain, Lumbar Support, Herniated Disc, Sciatica, Arthritis – Adjustable, Breathable Design - for Men and Women (Large/XLarge)",
+      "brand": "Copper Fit",
+      "price": 52.99,
+      "salesParent": 8043,
+      "revenue": 457727.12,
+      "rating": 4.4,
+      "reviews": 4226
+    },
+    {
+      "rank": 5,
+      "asin": "B0C1BVQFT9",
+      "title": "Upgraded Posture Corrector Back Brace for Men and Women, New Version Lumbar Support for Posture Improving and Pain Relief, Full Back Support for Neck, Shoulder, Waist Pain, L",
+      "brand": "BraceTop",
+      "price": 33.99,
+      "salesParent": 10769,
+      "revenue": 366038.31,
+      "rating": 4.0,
+      "reviews": 3984
+    },
+    {
+      "rank": 6,
+      "asin": "B0H14NSKPP",
+      "title": "Posture Corrector for Women and Men, Adjustable Back Brace, Beige, Small",
+      "brand": "pluclike",
+      "price": 29.99,
+      "salesParent": 9563,
+      "revenue": 286794.38,
+      "rating": 4.9,
+      "reviews": 261
+    },
+    {
+      "rank": 7,
+      "asin": "B0D2KBYYJ4",
+      "title": "Work Back Brace for Men &amp; Women, Adjustable Lower Back Support Belt",
+      "brand": "SOLOEVER",
+      "price": 18.99,
+      "salesParent": 11562,
+      "revenue": 219562.38,
+      "rating": 4.5,
+      "reviews": 2479
+    },
+    {
+      "rank": 8,
+      "asin": "B09ZQ2QSXS",
+      "title": "Fit Geno Posture Corrector for Women &amp; Men, Back Shoulder Support Brace",
+      "brand": "Fit Geno",
+      "price": 34.99,
+      "salesParent": 5905,
+      "revenue": 205730.2,
+      "rating": 4.0,
+      "reviews": 6795
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -20,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -20,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 8468630,
+    "priorHeadRevenue": 10572631,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 96,
+      "newCount": 41,
+      "pct": 43,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 41,
+      "brandCount": 66,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.1,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B071G33DC1",
+        "title": "Sparthos Back Brace for Women &amp; Men, Sciatica, Lower Back Pain - Black-L",
+        "rating": 4.4,
+        "reviews": 69211
+      },
+      {
+        "rank": 2,
+        "asin": "B07ZQPKTVV",
+        "title": "ComfyBrace Posture Corrector for Men and Women, Back Brace Straightener",
+        "rating": 3.9,
+        "reviews": 47091
+      },
+      {
+        "rank": 3,
+        "asin": "B0H37W8FZZ",
+        "title": "Copper Fit Max Posture and Back Support (L/XL)",
+        "rating": 4.1,
+        "reviews": 248
+      },
+      {
+        "rank": 4,
+        "asin": "B0D7DP76V5",
+        "title": "Copper Fit X-Back Brace for Lower Back Pain, Lumbar Support, Herniated Disc, Sciatica, Arthritis – Adjustable, Breathable Design - for Men and Women (Large/XLarge)",
+        "rating": 4.4,
+        "reviews": 4226
+      },
+      {
+        "rank": 5,
+        "asin": "B0C1BVQFT9",
+        "title": "Upgraded Posture Corrector Back Brace for Men and Women, New Version Lumbar Support for Posture Improving and Pain Relief, Full Back Support for Neck, Shoulder, Waist Pain, L",
+        "rating": 4.0,
+        "reviews": 3984
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3775161:3775541:8619205011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

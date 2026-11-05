@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "166028011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Sports & Outdoor Play > Bubbles > Bubble Makers",
+  "categoryPathCn": "玩具 > 体育 > 气泡 > 气泡",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 97,
+    "totalRevenue": 4742773,
+    "avgRevenue": 48895,
+    "medianPrice": 19.99,
+    "priceBand": "$16.99 - $29.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0H913MLR6",
+      "title": "Fog Bubble Machine - High Powered Smoke Bubble Machine for Halloween Party",
+      "brand": "ArtCreativity",
+      "price": 169.99,
+      "salesParent": 2344,
+      "revenue": 415028.62,
+      "rating": 4.2,
+      "reviews": 129
+    },
+    {
+      "rank": 2,
+      "asin": "B0F7L5MJFL",
+      "title": "Halloween Bulk Mini Bubbles Treats Non Candy Toys for Kids 100 Pcs",
+      "brand": "Leetous",
+      "price": 57.89,
+      "salesParent": 6952,
+      "revenue": 379996.31,
+      "rating": 4.9,
+      "reviews": 257
+    },
+    {
+      "rank": 3,
+      "asin": "B08YNNZRQV",
+      "title": "Little Kids Disney Mickey Mouse Light and Sound Musical Bubble Wand, Includes Bubble Solution, Multi (20511)",
+      "brand": "Little Kids",
+      "price": 18.88,
+      "salesParent": 15385,
+      "revenue": 226005.64,
+      "rating": 4.1,
+      "reviews": 1888
+    },
+    {
+      "rank": 4,
+      "asin": "B0BXF8W8BM",
+      "title": "John Deere Bubble Lawn Mower for Toddlers, Bubble Blowing Machines, Indoor and Outdoor Gardening Toy, Birthday, Party Favor for Preschool Girls and Boys, No Batteries Required, 2+",
+      "brand": "John Deere",
+      "price": 29.99,
+      "salesParent": 7453,
+      "revenue": 223515.47,
+      "rating": 4.2,
+      "reviews": 4431
+    },
+    {
+      "rank": 5,
+      "asin": "B0DJVYDLBV",
+      "title": "Bubble Machine Automatic Bubble Blower: Durable Bubble Maker 18000+ Big Bubbles Per Minute for Indoor Outdoor Wedding Birthday Party - Portable Bubble Machine for Kids Toddlers",
+      "brand": "Zerhunt",
+      "price": 26.99,
+      "salesParent": 5760,
+      "revenue": 153388.8,
+      "rating": 4.3,
+      "reviews": 17033
+    },
+    {
+      "rank": 6,
+      "asin": "B0DPQBS27W",
+      "title": "Upgraded Bubble Machine Outdoor Toys for Kids &amp; Wedding Party",
+      "brand": "Belemar",
+      "price": 34.99,
+      "salesParent": 4249,
+      "revenue": 148672.52,
+      "rating": 4.1,
+      "reviews": 2449
+    },
+    {
+      "rank": 7,
+      "asin": "B087D97N58",
+      "title": "ArtCreativity Bubble Lawn Mower for Toddlers 1-3 for Christmas Girl Gifts",
+      "brand": "ArtCreativity",
+      "price": 25.99,
+      "salesParent": 5510,
+      "revenue": 139568.3,
+      "rating": 4.3,
+      "reviews": 12257
+    },
+    {
+      "rank": 8,
+      "asin": "B0CQTNXSWZ",
+      "title": "John Deere Bubble Leaf Blower - 24 oz Refill, Bubble Machine - Ages 3+",
+      "brand": "John Deere",
+      "price": 24.03,
+      "salesParent": 6103,
+      "revenue": 138538.11,
+      "rating": 4.1,
+      "reviews": 1403
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 16,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 16,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 4742773,
+    "priorHeadRevenue": 4098435,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 97,
+      "newCount": 32,
+      "pct": 33,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 44,
+      "brandCount": 62,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.32,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0H913MLR6",
+        "title": "Fog Bubble Machine - High Powered Smoke Bubble Machine for Halloween Party",
+        "rating": 4.2,
+        "reviews": 129
+      },
+      {
+        "rank": 2,
+        "asin": "B0F7L5MJFL",
+        "title": "Halloween Bulk Mini Bubbles Treats Non Candy Toys for Kids 100 Pcs",
+        "rating": 4.9,
+        "reviews": 257
+      },
+      {
+        "rank": 3,
+        "asin": "B08YNNZRQV",
+        "title": "Little Kids Disney Mickey Mouse Light and Sound Musical Bubble Wand, Includes Bubble Solution, Multi (20511)",
+        "rating": 4.1,
+        "reviews": 1888
+      },
+      {
+        "rank": 4,
+        "asin": "B0BXF8W8BM",
+        "title": "John Deere Bubble Lawn Mower for Toddlers, Bubble Blowing Machines, Indoor and Outdoor Gardening Toy, Birthday, Party Favor for Preschool Girls and Boys, No Batteries Required, 2+",
+        "rating": 4.2,
+        "reviews": 4431
+      },
+      {
+        "rank": 5,
+        "asin": "B0DJVYDLBV",
+        "title": "Bubble Machine Automatic Bubble Blower: Durable Bubble Maker 18000+ Big Bubbles Per Minute for Indoor Outdoor Wedding Birthday Party - Portable Bubble Machine for Kids Toddlers",
+        "rating": 4.3,
+        "reviews": 17033
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166420011:21571225011:166028011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

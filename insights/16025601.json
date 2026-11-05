@@ -1,0 +1,180 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "16025601",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Baby & Child Care > Health Care > Adhesive Bandages",
+  "categoryPathCn": "健康与家居 > 婴儿和儿童护理 > 健康护理 > 粘性绷带",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "insufficient",
+  "marketSize": {
+    "sampleCount": 7,
+    "totalRevenue": 28283,
+    "avgRevenue": 4040,
+    "medianPrice": 14.99,
+    "priceBand": "$12.99 - $23.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0C9PFH3VV",
+      "title": "Lothee 30 Rolls 150 Yards Halloween Mummy Bandage Wrap Costume Gauze Rolls",
+      "brand": "Lothee",
+      "price": 29.99,
+      "salesParent": 497,
+      "revenue": 14686.35,
+      "rating": 4.2,
+      "reviews": 40
+    },
+    {
+      "rank": 2,
+      "asin": "B0FNRPBDPT",
+      "title": "Miffy Kids Bandages – Licensed Product – Metal Case with 24 Bandages – Cute Design Storage Box for Children – Portable First Aid Kit for Backpack &amp; Purse",
+      "brand": "Mevsim Store",
+      "price": 14.99,
+      "salesParent": 341,
+      "revenue": 5111.59,
+      "rating": 4.6,
+      "reviews": 678
+    },
+    {
+      "rank": 3,
+      "asin": "B0H71BC97L",
+      "title": "40Pack Tandem Mobi Adhesive Sleeve Waterproof, Hypoallergenic &amp; Latex-Free",
+      "brand": "OBUZOO",
+      "price": 23.99,
+      "salesParent": 178,
+      "revenue": 4441.1,
+      "rating": 3.9,
+      "reviews": 18
+    },
+    {
+      "rank": 4,
+      "asin": "B0FRH92MCR",
+      "title": "Be A Heart Jesus Heals Fabric Bandages Cottage Latex Free 2 Tins 90ct",
+      "brand": "Be A Heart",
+      "price": 19.98,
+      "salesParent": 145,
+      "revenue": 2897.1,
+      "rating": 4.8,
+      "reviews": 52
+    },
+    {
+      "rank": 5,
+      "asin": "B0G1HYG11R",
+      "title": "Organic Bamboo Bandages | 100 Count | Colorful Original Artist Designs | Hypoallergenic, PFAS-Free &amp; Plastic Free Eco-Friendly Wound Care",
+      "brand": "This Will Heal",
+      "price": 14.95,
+      "salesParent": 45,
+      "revenue": 690.75,
+      "rating": 4.5,
+      "reviews": 55
+    },
+    {
+      "rank": 6,
+      "asin": "B0HH92J5S5",
+      "title": "100Pack Omnipod 5 Overpatches Waterproof Clear Podpals Adhesive Overlays",
+      "brand": "Kuruyo",
+      "price": 12.99,
+      "salesParent": 19,
+      "revenue": 246.81,
+      "rating": 4.4,
+      "reviews": 99
+    },
+    {
+      "rank": 7,
+      "asin": "B0FNM9BXQT",
+      "title": "Hydrocolloid Tape Roll - Cuttable Extra Large Hydrocolloid Patch Bandages with Self-Adhesive, Ultra Absorbent, Flexible &amp; Waterproof (1.97in*11.81ft) (1)",
+      "brand": "newseel",
+      "price": 4.99,
+      "salesParent": 42,
+      "revenue": 209.58,
+      "rating": 4.4,
+      "reviews": 54
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": null,
+    "direction": "flat",
+    "comparable": null,
+    "rawYoyPct": -63,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 28283,
+    "priorHeadRevenue": 77196,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 7,
+      "newCount": 6,
+      "pct": 86,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 98,
+      "brandCount": 7,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.4,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0C9PFH3VV",
+        "title": "Lothee 30 Rolls 150 Yards Halloween Mummy Bandage Wrap Costume Gauze Rolls",
+        "rating": 4.2,
+        "reviews": 40
+      },
+      {
+        "rank": 2,
+        "asin": "B0FNRPBDPT",
+        "title": "Miffy Kids Bandages – Licensed Product – Metal Case with 24 Bandages – Cute Design Storage Box for Children – Portable First Aid Kit for Backpack &amp; Purse",
+        "rating": 4.6,
+        "reviews": 678
+      },
+      {
+        "rank": 3,
+        "asin": "B0H71BC97L",
+        "title": "40Pack Tandem Mobi Adhesive Sleeve Waterproof, Hypoallergenic &amp; Latex-Free",
+        "rating": 3.9,
+        "reviews": 18
+      },
+      {
+        "rank": 4,
+        "asin": "B0FRH92MCR",
+        "title": "Be A Heart Jesus Heals Fabric Bandages Cottage Latex Free 2 Tins 90ct",
+        "rating": 4.8,
+        "reviews": 52
+      },
+      {
+        "rank": 5,
+        "asin": "B0G1HYG11R",
+        "title": "Organic Bamboo Bandages | 100 Count | Colorful Original Artist Designs | Hypoallergenic, PFAS-Free &amp; Plastic Free Eco-Friendly Wound Care",
+        "rating": 4.5,
+        "reviews": 55
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:10787321:16025501:16025601",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

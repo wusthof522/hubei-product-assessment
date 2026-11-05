@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "15706571",
+  "level": "L2",
+  "categoryPathEn": "Automotive > Tires & Wheels",
+  "categoryPathCn": "汽车 > 轮胎轮胎",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 96,
+    "totalRevenue": 22636848,
+    "avgRevenue": 235800,
+    "medianPrice": 90.96,
+    "priceBand": "$63.48 - $194.49",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0CS3B7MD8",
+      "title": "AstroAI L7 Tire Inflator Portable Air Compressor,150 PSI Cordless Bike Pump",
+      "brand": "AstroAI",
+      "price": 39.99,
+      "salesParent": 58226,
+      "revenue": 2099629.75,
+      "rating": 4.3,
+      "reviews": 20486
+    },
+    {
+      "rank": 2,
+      "asin": "B094DMH7ZM",
+      "title": "Airmoto Tire Inflator Portable Air Compressor for Cars, Bikes and Bicycles",
+      "brand": "Airmoto",
+      "price": 89.0,
+      "salesParent": 10799,
+      "revenue": 865323.81,
+      "rating": 4.3,
+      "reviews": 29490
+    },
+    {
+      "rank": 3,
+      "asin": "B0CGLTPKBZ",
+      "title": "ETENWOLF VORTEX S6 Tire Inflator Portable Air Compressor, Cordless Air Pump",
+      "brand": "ETENWOLF",
+      "price": 119.96,
+      "salesParent": 6441,
+      "revenue": 825607.31,
+      "rating": 4.6,
+      "reviews": 3131
+    },
+    {
+      "rank": 4,
+      "asin": "B07QR4Q42L",
+      "title": "AstroAI AIRUN H Tire Inflator Portable Air Compressor, 12V DC Tire Inflator, Auto Shut-Off with Digital Pressure Gauge &amp; LED Light, Fast Inflation for Car, Motorcycle, Bike Tires, 9.8Ft Cord, Yellow",
+      "brand": "AstroAI",
+      "price": 31.99,
+      "salesParent": 23328,
+      "revenue": 746262.69,
+      "rating": 4.5,
+      "reviews": 107283
+    },
+    {
+      "rank": 5,
+      "asin": "B0B1VHG484",
+      "title": "Milwaukee M18 Inflator 2848-20",
+      "brand": "Milwaukee",
+      "price": 154.5,
+      "salesParent": 3309,
+      "revenue": 578214.69,
+      "rating": 4.7,
+      "reviews": 5277
+    },
+    {
+      "rank": 6,
+      "asin": "B07N8NVYDF",
+      "title": "Starfire Solarus AS All-Season 225/65R17 102H Tire",
+      "brand": "STARFIRE",
+      "price": 83.06,
+      "salesParent": 5348,
+      "revenue": 484314.88,
+      "rating": 4.6,
+      "reviews": 10100
+    },
+    {
+      "rank": 7,
+      "asin": "B0948WY5YX",
+      "title": "AstroAI Cordless Tire Inflator Portable Air Compressor 160PSI 12VDC Battery",
+      "brand": "AstroAI",
+      "price": 65.99,
+      "salesParent": 6374,
+      "revenue": 409019.56,
+      "rating": 4.6,
+      "reviews": 16932
+    },
+    {
+      "rank": 8,
+      "asin": "B0851J7S65",
+      "title": "Fullway HP108 205/55R16 91V SL All Season Performance Passenger Radial Tire",
+      "brand": "Fullway",
+      "price": 64.93,
+      "salesParent": 5908,
+      "revenue": 383960.91,
+      "rating": 4.5,
+      "reviews": 13803
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 10,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 10,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 22636848,
+    "priorHeadRevenue": 20487050,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 96,
+      "newCount": 25,
+      "pct": 26,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 37,
+      "brandCount": 56,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.54,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0CS3B7MD8",
+        "title": "AstroAI L7 Tire Inflator Portable Air Compressor,150 PSI Cordless Bike Pump",
+        "rating": 4.3,
+        "reviews": 20486
+      },
+      {
+        "rank": 2,
+        "asin": "B094DMH7ZM",
+        "title": "Airmoto Tire Inflator Portable Air Compressor for Cars, Bikes and Bicycles",
+        "rating": 4.3,
+        "reviews": 29490
+      },
+      {
+        "rank": 3,
+        "asin": "B0CGLTPKBZ",
+        "title": "ETENWOLF VORTEX S6 Tire Inflator Portable Air Compressor, Cordless Air Pump",
+        "rating": 4.6,
+        "reviews": 3131
+      },
+      {
+        "rank": 4,
+        "asin": "B07QR4Q42L",
+        "title": "AstroAI AIRUN H Tire Inflator Portable Air Compressor, 12V DC Tire Inflator, Auto Shut-Off with Digital Pressure Gauge &amp; LED Light, Fast Inflation for Car, Motorcycle, Bike Tires, 9.8Ft Cord, Yellow",
+        "rating": 4.5,
+        "reviews": 107283
+      },
+      {
+        "rank": 5,
+        "asin": "B0B1VHG484",
+        "title": "Milwaukee M18 Inflator 2848-20",
+        "rating": 4.7,
+        "reviews": 5277
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "15684181:15706571",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

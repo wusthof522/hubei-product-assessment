@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "16284867011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Household Supplies > Paper & Plastic > Trash, Compost & Lawn Bags",
+  "categoryPathCn": "健康与家居 > 家居用品 > 纸张和塑料 > 垃圾袋、堆肥袋和草坪袋",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 50715092,
+    "avgRevenue": 507151,
+    "medianPrice": 29.99,
+    "priceBand": "$19.14 - $39.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B07T9MBNTT",
+      "title": "Glad Tall Kitchen Drawstring Trash Bags - Odorshield 13 Gallon White Trash Bag, Febreze Fresh Clean, 110 Count",
+      "brand": "Glad",
+      "price": 19.27,
+      "salesParent": 143933,
+      "revenue": 2534660.25,
+      "rating": 4.7,
+      "reviews": 74234
+    },
+    {
+      "rank": 2,
+      "asin": "B01BZ0LXL8",
+      "title": "Hefty Ultra Strong 13 Gal Kitchen Trash Bags, White, Lavender Vanilla, 80ct",
+      "brand": "Hefty",
+      "price": 15.52,
+      "salesParent": 139938,
+      "revenue": 2055689.12,
+      "rating": 4.8,
+      "reviews": 91524
+    },
+    {
+      "rank": 3,
+      "asin": "B01FSY4YKO",
+      "title": "Hefty Ultra Strong 13 Gal Kitchen Trash Bags, Lavender Vanilla, 110ct",
+      "brand": "Hefty",
+      "price": 19.93,
+      "salesParent": 86605,
+      "revenue": 1690529.62,
+      "rating": 4.8,
+      "reviews": 16642
+    },
+    {
+      "rank": 4,
+      "asin": "B0CK9RZGDX",
+      "title": "Glad ForceFlex Tall Kitchen Trash Bags, Fragrance Free, 13 Gallon, 110 Ct",
+      "brand": "Glad",
+      "price": 21.09,
+      "salesParent": 67519,
+      "revenue": 1423975.75,
+      "rating": 4.6,
+      "reviews": 7525
+    },
+    {
+      "rank": 5,
+      "asin": "B0F5QW7JBK",
+      "title": "Hefty Ultra Strong 13 Gal Pink Kitchen Trash Bags, Watermelon Scent, 110ct",
+      "brand": "Hefty",
+      "price": 21.53,
+      "salesParent": 49104,
+      "revenue": 1090108.88,
+      "rating": 4.8,
+      "reviews": 32440
+    },
+    {
+      "rank": 6,
+      "asin": "B0DX4ZL5JT",
+      "title": "Hefty Ultra Strong 13 Gal Kitchen Trash Bags, White, Fabuloso Citrus, 80ct",
+      "brand": "Hefty",
+      "price": 18.37,
+      "salesParent": 47304,
+      "revenue": 1036903.69,
+      "rating": 4.8,
+      "reviews": 1285
+    },
+    {
+      "rank": 7,
+      "asin": "B0D6D4K2G8",
+      "title": "Glad ForceFlex MaxStrength Tall Kitchen Trash Bags, Rip and Tear Resistant, Cherry Blossoms Scented Pink Tall Garbage Bags, Odor Control, Febreze Freshness, 13 Gallon, 90 Count",
+      "brand": "Glad",
+      "price": 19.79,
+      "salesParent": 49530,
+      "revenue": 970788.0,
+      "rating": 4.8,
+      "reviews": 31728
+    },
+    {
+      "rank": 8,
+      "asin": "B0F4RVSHVG",
+      "title": "Hefty Ultra Strong 13 Gal Kitchen Trash Bags, Fabuloso Watermelon, 80ct",
+      "brand": "Hefty",
+      "price": 15.46,
+      "salesParent": 45570,
+      "revenue": 947855.94,
+      "rating": 4.8,
+      "reviews": 1121
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 33,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 33,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 50715092,
+    "priorHeadRevenue": 38162070,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 6,
+      "pct": 6,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 90,
+      "brandCount": 18,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.54,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B07T9MBNTT",
+        "title": "Glad Tall Kitchen Drawstring Trash Bags - Odorshield 13 Gallon White Trash Bag, Febreze Fresh Clean, 110 Count",
+        "rating": 4.7,
+        "reviews": 74234
+      },
+      {
+        "rank": 2,
+        "asin": "B01BZ0LXL8",
+        "title": "Hefty Ultra Strong 13 Gal Kitchen Trash Bags, White, Lavender Vanilla, 80ct",
+        "rating": 4.8,
+        "reviews": 91524
+      },
+      {
+        "rank": 3,
+        "asin": "B01FSY4YKO",
+        "title": "Hefty Ultra Strong 13 Gal Kitchen Trash Bags, Lavender Vanilla, 110ct",
+        "rating": 4.8,
+        "reviews": 16642
+      },
+      {
+        "rank": 4,
+        "asin": "B0CK9RZGDX",
+        "title": "Glad ForceFlex Tall Kitchen Trash Bags, Fragrance Free, 13 Gallon, 110 Ct",
+        "rating": 4.6,
+        "reviews": 7525
+      },
+      {
+        "rank": 5,
+        "asin": "B0F5QW7JBK",
+        "title": "Hefty Ultra Strong 13 Gal Pink Kitchen Trash Bags, Watermelon Scent, 110ct",
+        "rating": 4.8,
+        "reviews": 32440
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:15342811:15342841:16284867011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3779711",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vision > Contact Lens Care > Soaking Solutions",
+  "categoryPathCn": "健康与家居 > 眼睛护理 > 隐形眼镜配件 > 浸泡液",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 8987949,
+    "avgRevenue": 89879,
+    "medianPrice": 24.0,
+    "priceBand": "$16.97 - $34.74",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B003H03SDQ",
+      "title": "Biotrue Multi-Purpose Contact Lens Solution with Case, 10 Fl oz 2-Pack",
+      "brand": "Biotrue",
+      "price": 16.97,
+      "salesParent": 69509,
+      "revenue": 1179567.62,
+      "rating": 4.9,
+      "reviews": 38323
+    },
+    {
+      "rank": 2,
+      "asin": "B086TPW1WP",
+      "title": "Renu Advanced Multi-Purpose Contact Lens Solution &amp; Case, 16 oz 2-Pack",
+      "brand": "Renu",
+      "price": 41.0,
+      "salesParent": 37940,
+      "revenue": 1065734.62,
+      "rating": 4.8,
+      "reviews": 30456
+    },
+    {
+      "rank": 3,
+      "asin": "B09WRB83MX",
+      "title": "Biotrue Hydration Plus Multi-Purpose Contact Lens Solution, 10 oz 2 Pack",
+      "brand": "Biotrue",
+      "price": 18.97,
+      "salesParent": 44271,
+      "revenue": 834508.38,
+      "rating": 4.9,
+      "reviews": 6954
+    },
+    {
+      "rank": 4,
+      "asin": "B000X98XS4",
+      "title": "Purilens Plus Preservative-Free Contact Lens Saline 120ml (4 fl. oz.) 12 Pack",
+      "brand": "Purilens",
+      "price": 52.95,
+      "salesParent": 14434,
+      "revenue": 764280.31,
+      "rating": 4.8,
+      "reviews": 8270
+    },
+    {
+      "rank": 5,
+      "asin": "B001GI94SO",
+      "title": "OPTI-FREE Replenish Multi-Purpose Contact Lens Solution (10 Oz, Pack of 2)",
+      "brand": "Opti-Free",
+      "price": 15.97,
+      "salesParent": 45117,
+      "revenue": 720518.5,
+      "rating": 4.8,
+      "reviews": 29809
+    },
+    {
+      "rank": 6,
+      "asin": "B004O2A29E",
+      "title": "CLEAR CARE Cleaning &amp; Disinfecting Contact Lens Solution, 12 Fl Oz, 2 Pack",
+      "brand": "Clear Care",
+      "price": 17.99,
+      "salesParent": 31090,
+      "revenue": 570812.44,
+      "rating": 4.7,
+      "reviews": 18729
+    },
+    {
+      "rank": 7,
+      "asin": "B005JRAYJQ",
+      "title": "Opti-Free Puremoist Multi-Purpose Disinfecting Solution with Lens Case, 2 pack of 10 fl oz each",
+      "brand": "Opti-Free",
+      "price": 17.97,
+      "salesParent": 30739,
+      "revenue": 552379.81,
+      "rating": 4.8,
+      "reviews": 8879
+    },
+    {
+      "rank": 8,
+      "asin": "B010GD3NUY",
+      "title": "CLEAR CARE Plus Cleaning &amp; Disinfecting Contact Lens Solution, 12 Oz 2 Pack",
+      "brand": "Clear Care",
+      "price": 17.97,
+      "salesParent": 25781,
+      "revenue": 511495.03,
+      "rating": 4.7,
+      "reviews": 8464
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 10,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 10,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 8987949,
+    "priorHeadRevenue": 8187915,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 21,
+      "pct": 21,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 77,
+      "brandCount": 31,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.65,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B003H03SDQ",
+        "title": "Biotrue Multi-Purpose Contact Lens Solution with Case, 10 Fl oz 2-Pack",
+        "rating": 4.9,
+        "reviews": 38323
+      },
+      {
+        "rank": 2,
+        "asin": "B086TPW1WP",
+        "title": "Renu Advanced Multi-Purpose Contact Lens Solution &amp; Case, 16 oz 2-Pack",
+        "rating": 4.8,
+        "reviews": 30456
+      },
+      {
+        "rank": 3,
+        "asin": "B09WRB83MX",
+        "title": "Biotrue Hydration Plus Multi-Purpose Contact Lens Solution, 10 oz 2 Pack",
+        "rating": 4.9,
+        "reviews": 6954
+      },
+      {
+        "rank": 4,
+        "asin": "B000X98XS4",
+        "title": "Purilens Plus Preservative-Free Contact Lens Saline 120ml (4 fl. oz.) 12 Pack",
+        "rating": 4.8,
+        "reviews": 8270
+      },
+      {
+        "rank": 5,
+        "asin": "B001GI94SO",
+        "title": "OPTI-FREE Replenish Multi-Purpose Contact Lens Solution (10 Oz, Pack of 2)",
+        "rating": 4.8,
+        "reviews": 29809
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:10079994011:3779701:3779711",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

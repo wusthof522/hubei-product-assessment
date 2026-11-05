@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "553760",
+  "level": "L2",
+  "categoryPathEn": "Patio, Lawn & Garden > Grills & Outdoor Cooking",
+  "categoryPathCn": "庭院、草坪和园艺 > 烧烤用具",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 93,
+    "totalRevenue": 20354798,
+    "avgRevenue": 218869,
+    "medianPrice": 188.9,
+    "priceBand": "$32.98 - $436.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B08BWWKKKL",
+      "title": "Blackstone® 1883 Original 28&quot; Omnivore Griddle with Hood, Black",
+      "brand": "BLACKSTONE",
+      "price": 399.0,
+      "salesParent": 3836,
+      "revenue": 1537929.12,
+      "rating": 4.7,
+      "reviews": 2068
+    },
+    {
+      "rank": 2,
+      "asin": "B0GRBSFVPJ",
+      "title": "Ninja Woodfire ProConnect Premium XL Outdoor Grill &amp; Smoker, Black &amp; Gold",
+      "brand": "Ninja",
+      "price": 499.99,
+      "salesParent": 1896,
+      "revenue": 883706.62,
+      "rating": 4.6,
+      "reviews": 1073
+    },
+    {
+      "rank": 3,
+      "asin": "B076MFM8LX",
+      "title": "Blackstone 1666 22” Tabletop Griddle with Stainless Steel Faceplate, Powder Coated Steel, Black",
+      "brand": "BLACKSTONE",
+      "price": 178.5,
+      "salesParent": 3001,
+      "revenue": 577542.44,
+      "rating": 4.7,
+      "reviews": 6813
+    },
+    {
+      "rank": 4,
+      "asin": "B07XXSYLL8",
+      "title": "TempPro TempSwift TP19H 1 Sec Instant Read Meat Thermometer Digital",
+      "brand": "TempPro",
+      "price": 13.99,
+      "salesParent": 36273,
+      "revenue": 526321.25,
+      "rating": 4.7,
+      "reviews": 56688
+    },
+    {
+      "rank": 5,
+      "asin": "B0BCFK9R8V",
+      "title": "EAST OAK 30&quot; Electric Smoker for Outdoors | Built-in Meat Probe &amp; Clear Viewing Window | Side Chip Loader for 6x Longer Uninterrupted Smoking | 725 sq in Cooking Area for Bigger Batches, Mist Black",
+      "brand": "EAST OAK",
+      "price": 299.99,
+      "salesParent": 1527,
+      "revenue": 457932.06,
+      "rating": 4.7,
+      "reviews": 2007
+    },
+    {
+      "rank": 6,
+      "asin": "B0DHJ4TY4L",
+      "title": "Traeger Signature Blend Wood Pellets for Pellet Grills &amp; Smokers, 18 lb Bag",
+      "brand": "Traeger",
+      "price": 19.99,
+      "salesParent": 21324,
+      "revenue": 426266.75,
+      "rating": 4.8,
+      "reviews": 51499
+    },
+    {
+      "rank": 7,
+      "asin": "B0H22TSKB5",
+      "title": "George Foreman® Fully Submersible™ Grill, NEW Dishwasher Safe, Wash the Entire Grill, Easy-to-Clean Nonstick, Black/Grey (Pack of 2)",
+      "brand": "George Foreman",
+      "price": 111.98,
+      "salesParent": 3675,
+      "revenue": 411526.5,
+      "rating": 4.2,
+      "reviews": 6481
+    },
+    {
+      "rank": 8,
+      "asin": "B0D7DJHWDP",
+      "title": "Pit Boss 150 Wood Pellet Grill &amp; Smoker with Flame Broiler 256-Sq. In. Cooking Space, 180°F to 500°F Temperature Range, 7 lb. Pellet Hopper, for Tailgating, Camping, or Travel, Black",
+      "brand": "Pit Boss",
+      "price": 223.83,
+      "salesParent": 1776,
+      "revenue": 407680.81,
+      "rating": 4.4,
+      "reviews": 1325
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -7,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -7,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 20354798,
+    "priorHeadRevenue": 21885654,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 93,
+      "newCount": 16,
+      "pct": 17,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 41,
+      "brandCount": 56,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.53,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B08BWWKKKL",
+        "title": "Blackstone® 1883 Original 28&quot; Omnivore Griddle with Hood, Black",
+        "rating": 4.7,
+        "reviews": 2068
+      },
+      {
+        "rank": 2,
+        "asin": "B0GRBSFVPJ",
+        "title": "Ninja Woodfire ProConnect Premium XL Outdoor Grill &amp; Smoker, Black &amp; Gold",
+        "rating": 4.6,
+        "reviews": 1073
+      },
+      {
+        "rank": 3,
+        "asin": "B076MFM8LX",
+        "title": "Blackstone 1666 22” Tabletop Griddle with Stainless Steel Faceplate, Powder Coated Steel, Black",
+        "rating": 4.7,
+        "reviews": 6813
+      },
+      {
+        "rank": 4,
+        "asin": "B07XXSYLL8",
+        "title": "TempPro TempSwift TP19H 1 Sec Instant Read Meat Thermometer Digital",
+        "rating": 4.7,
+        "reviews": 56688
+      },
+      {
+        "rank": 5,
+        "asin": "B0BCFK9R8V",
+        "title": "EAST OAK 30&quot; Electric Smoker for Outdoors | Built-in Meat Probe &amp; Clear Viewing Window | Side Chip Loader for 6x Longer Uninterrupted Smoking | 725 sq in Cooking Area for Bigger Batches, Mist Black",
+        "rating": 4.7,
+        "reviews": 2007
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "2972638011:553760",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

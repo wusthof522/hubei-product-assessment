@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "8627109011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Health Care > Respiratory Aids & Accessories > Tracheostomy Care Kits",
+  "categoryPathCn": "健康与家居 > 卫生保健 > 呼吸辅助设备和配件 > 气管造口术护理套件",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 58,
+    "totalRevenue": 56870,
+    "avgRevenue": 981,
+    "medianPrice": 17.49,
+    "priceBand": "$10.99 - $25.97",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0CXNJ1DQY",
+      "title": "NG Tube/Tracheostomy Care Practice Set",
+      "brand": "Nurse Grower",
+      "price": 139.99,
+      "salesParent": 70,
+      "revenue": 9799.3,
+      "rating": 4.3,
+      "reviews": 14
+    },
+    {
+      "rank": 2,
+      "asin": "B0DK5DZVRP",
+      "title": "Threlaco 10 Pcs Tracheostomy Hme Heat Moisture Exchanger Supplies",
+      "brand": "Threlaco",
+      "price": 21.99,
+      "salesParent": 366,
+      "revenue": 7524.96,
+      "rating": 4.6,
+      "reviews": 142
+    },
+    {
+      "rank": 3,
+      "asin": "B000O0EJRQ",
+      "title": "TIDI Posey Foam Trach Tie – Large – 1 Package of 12 Ties – Tracheostomy Tube Holder – Home Care (8197L)",
+      "brand": "Posey",
+      "price": 16.73,
+      "salesParent": 280,
+      "revenue": 4835.6,
+      "rating": 4.4,
+      "reviews": 658
+    },
+    {
+      "rank": 4,
+      "asin": "B017K38H4A",
+      "title": "Dukal - 15200 Trach Care Kit, Sterile (Pack of 20)",
+      "brand": "Dukal",
+      "price": 41.1,
+      "salesParent": 101,
+      "revenue": 4079.39,
+      "rating": 4.5,
+      "reviews": 152
+    },
+    {
+      "rank": 5,
+      "asin": "B0CHYF8NTX",
+      "title": "TrelaCo 100 Pcs Tracheostomy Cleaning Brushes, 10mm Nylon Trach Tube",
+      "brand": "TrelaCo",
+      "price": 18.99,
+      "salesParent": 158,
+      "revenue": 3000.42,
+      "rating": 4.6,
+      "reviews": 125
+    },
+    {
+      "rank": 6,
+      "asin": "B0B8ZDW7SV",
+      "title": "Sosation15 Pcs Adjustable Tracheostomy Tube Holder, Reusable Care Kits",
+      "brand": "Sosation",
+      "price": 15.99,
+      "salesParent": 187,
+      "revenue": 2990.13,
+      "rating": 4.2,
+      "reviews": 332
+    },
+    {
+      "rank": 7,
+      "asin": "B003MWVM6O",
+      "title": "Special 1 Pack of 10 - AirLife Tracheostomy Mask BAX001225",
+      "brand": "MEDCHOICE",
+      "price": 19.38,
+      "salesParent": 148,
+      "revenue": 2900.8,
+      "rating": 4.6,
+      "reviews": 233
+    },
+    {
+      "rank": 8,
+      "asin": "B0FVRWZ4GQ",
+      "title": "50 Pcs Tracheostomy Supplies HME for Tracheostomy CPAP HME Filters for Humid CPAP Humidifier HME Filters for CPAP Individually Package Sterilized",
+      "brand": "YUQILIN",
+      "price": 55.99,
+      "salesParent": 42,
+      "revenue": 2351.58,
+      "rating": 4.5,
+      "reviews": 2
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -35,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -35,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 56870,
+    "priorHeadRevenue": 87574,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 58,
+      "newCount": 31,
+      "pct": 53,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 52,
+      "brandCount": 41,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.28,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0CXNJ1DQY",
+        "title": "NG Tube/Tracheostomy Care Practice Set",
+        "rating": 4.3,
+        "reviews": 14
+      },
+      {
+        "rank": 2,
+        "asin": "B0DK5DZVRP",
+        "title": "Threlaco 10 Pcs Tracheostomy Hme Heat Moisture Exchanger Supplies",
+        "rating": 4.6,
+        "reviews": 142
+      },
+      {
+        "rank": 3,
+        "asin": "B000O0EJRQ",
+        "title": "TIDI Posey Foam Trach Tie – Large – 1 Package of 12 Ties – Tracheostomy Tube Holder – Home Care (8197L)",
+        "rating": 4.4,
+        "reviews": 658
+      },
+      {
+        "rank": 4,
+        "asin": "B017K38H4A",
+        "title": "Dukal - 15200 Trach Care Kit, Sterile (Pack of 20)",
+        "rating": 4.5,
+        "reviews": 152
+      },
+      {
+        "rank": 5,
+        "asin": "B0CHYF8NTX",
+        "title": "TrelaCo 100 Pcs Tracheostomy Cleaning Brushes, 10mm Nylon Trach Tube",
+        "rating": 4.6,
+        "reviews": 125
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3760941:8627102011:8627109011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

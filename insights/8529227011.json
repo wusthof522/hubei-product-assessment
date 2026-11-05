@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "8529227011",
+  "level": "L4",
+  "categoryPathEn": "Home & Kitchen > Furniture > Kids' Furniture > Desks & Desk Sets",
+  "categoryPathCn": "家居用品 > 家具 > 儿童家具 > 办公桌",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 92,
+    "totalRevenue": 2400518,
+    "avgRevenue": 26093,
+    "medianPrice": 129.48,
+    "priceBand": "$97.24 - $167.74",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B00E84CG1K",
+      "title": "Flash Furniture Mindy Kids 5-Piece set Folding Square Table and Chairs Set for Daycare and Classrooms, Children's Activity Table and Chairs Set, Multicolor",
+      "brand": "Flash Furniture",
+      "price": 71.94,
+      "salesParent": 2765,
+      "revenue": 220868.19,
+      "rating": 4.6,
+      "reviews": 12006
+    },
+    {
+      "rank": 2,
+      "asin": "B0GFW7R5V7",
+      "title": "Kids Table and Chairs Set Large Storage, Height Adjustable",
+      "brand": "TODEFULL",
+      "price": 109.99,
+      "salesParent": 1011,
+      "revenue": 118003.92,
+      "rating": 4.6,
+      "reviews": 132
+    },
+    {
+      "rank": 3,
+      "asin": "B0FCFJ3R1H",
+      "title": "Kids Desk and Chair Set, Kids Study Desk with Night Light Drawing Paper Roll, Hutch &amp; Storage Cabinet, Child's Table-Student Writing Art Table Widened Desktop Computer Workstation for 5-12",
+      "brand": "Frogprin",
+      "price": 169.99,
+      "salesParent": 538,
+      "revenue": 91454.62,
+      "rating": 4.6,
+      "reviews": 198
+    },
+    {
+      "rank": 4,
+      "asin": "B0CQ2MQ9VD",
+      "title": "Kids Desk and Chair Set, Height Adjustable Children School Functional Study Desk with 55° Tiltable Desktop, 3 Modes &amp; Brightness LED Light, Storage Drawer &amp; Metal Hook for Boys Girls (Grey)",
+      "brand": "Rengue",
+      "price": 99.99,
+      "salesParent": 1001,
+      "revenue": 87056.97,
+      "rating": 4.6,
+      "reviews": 456
+    },
+    {
+      "rank": 5,
+      "asin": "B0087XPDTU",
+      "title": "Delta Children Chair Desk with Storage Bin, Disney Minnie Mouse",
+      "brand": "Delta Children",
+      "price": 40.0,
+      "salesParent": 1875,
+      "revenue": 75075.0,
+      "rating": 4.7,
+      "reviews": 19345
+    },
+    {
+      "rank": 6,
+      "asin": "B0D953CXPF",
+      "title": "Marvel Spidey and His Amazing Friends Kids Activity Table and Chair Set,3 Piece Set with Square Table &amp; 2 Folding Chairs, Furniture for Ages 3+, Indoor Play &amp; Learning",
+      "brand": "Idea Nuova",
+      "price": 62.99,
+      "salesParent": 1160,
+      "revenue": 71224.0,
+      "rating": 4.6,
+      "reviews": 7640
+    },
+    {
+      "rank": 7,
+      "asin": "B0GX9N34CT",
+      "title": "White Kids Desk with Hutch, Height Adjustable 32&quot; Small Study Table",
+      "brand": "WINAZ",
+      "price": 149.99,
+      "salesParent": 453,
+      "revenue": 65299.95,
+      "rating": 4.3,
+      "reviews": 97
+    },
+    {
+      "rank": 8,
+      "asin": "B0DHXNNSWY",
+      "title": "Kids Desk and Chair Set, Height Adjustable Kids Desk",
+      "brand": "Xaperexi",
+      "price": 109.0,
+      "salesParent": 462,
+      "revenue": 50769.18,
+      "rating": 4.4,
+      "reviews": 584
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 19,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 19,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 2400518,
+    "priorHeadRevenue": 2009178,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 92,
+      "newCount": 51,
+      "pct": 55,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 35,
+      "brandCount": 62,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.48,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B00E84CG1K",
+        "title": "Flash Furniture Mindy Kids 5-Piece set Folding Square Table and Chairs Set for Daycare and Classrooms, Children's Activity Table and Chairs Set, Multicolor",
+        "rating": 4.6,
+        "reviews": 12006
+      },
+      {
+        "rank": 2,
+        "asin": "B0GFW7R5V7",
+        "title": "Kids Table and Chairs Set Large Storage, Height Adjustable",
+        "rating": 4.6,
+        "reviews": 132
+      },
+      {
+        "rank": 3,
+        "asin": "B0FCFJ3R1H",
+        "title": "Kids Desk and Chair Set, Kids Study Desk with Night Light Drawing Paper Roll, Hutch &amp; Storage Cabinet, Child's Table-Student Writing Art Table Widened Desktop Computer Workstation for 5-12",
+        "rating": 4.6,
+        "reviews": 198
+      },
+      {
+        "rank": 4,
+        "asin": "B0CQ2MQ9VD",
+        "title": "Kids Desk and Chair Set, Height Adjustable Children School Functional Study Desk with 55° Tiltable Desktop, 3 Modes &amp; Brightness LED Light, Storage Drawer &amp; Metal Hook for Boys Girls (Grey)",
+        "rating": 4.6,
+        "reviews": 456
+      },
+      {
+        "rank": 5,
+        "asin": "B0087XPDTU",
+        "title": "Delta Children Chair Desk with Storage Bin, Disney Minnie Mouse",
+        "rating": 4.7,
+        "reviews": 19345
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "1055398:1063306:1063314:8529227011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

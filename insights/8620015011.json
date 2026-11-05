@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "8620015011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Medical Supplies & Equipment > Braces, Splints & Supports > Leg & Foot Supports",
+  "categoryPathCn": "健康与家居 > 医疗用品和设备 > 绷带、夹板和背带 > 腿部和足部支撑",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 21066817,
+    "avgRevenue": 212796,
+    "medianPrice": 34.99,
+    "priceBand": "$19.78 - $59.89",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B08JGP1WYM",
+      "title": "Modvel Compression Knee Brace for Women &amp; Men - 2 Pack Knee Brace for Running Knee Pain, Knee Support Compression Sleeve, Workout Sports Knee Braces for Meniscus Tear ACL &amp; Arthritis Pain Relief",
+      "brand": "Modvel",
+      "price": 24.99,
+      "salesParent": 59073,
+      "revenue": 1476234.25,
+      "rating": 4.4,
+      "reviews": 82517
+    },
+    {
+      "rank": 2,
+      "asin": "B016F59BDU",
+      "title": "Sleeve Stars Ankle Brace Men &amp; Women Support (Single/M:10&quot;-12&quot;/Black)",
+      "brand": "SS SLEEVE STARS",
+      "price": 18.95,
+      "salesParent": 51222,
+      "revenue": 970656.94,
+      "rating": 4.3,
+      "reviews": 48340
+    },
+    {
+      "rank": 3,
+      "asin": "B0055QNLR8",
+      "title": "Incrediwear Knee Sleeve – Knee Braces for Knee Pain, Joint Pain Relief, Swelling, Inflammation Relief, and Circulation, Knee Support for Women and Men",
+      "brand": "Incrediwear",
+      "price": 60.0,
+      "salesParent": 13465,
+      "revenue": 807900.0,
+      "rating": 4.4,
+      "reviews": 15986
+    },
+    {
+      "rank": 4,
+      "asin": "B00TZTO0VM",
+      "title": "Med Spec ASO Ankle Stabilizer Lace Up Ankle Brace Sprain Support Black, MD",
+      "brand": "Med Spec",
+      "price": 31.15,
+      "salesParent": 27356,
+      "revenue": 757487.62,
+      "rating": 4.4,
+      "reviews": 32504
+    },
+    {
+      "rank": 5,
+      "asin": "B009G5QAM2",
+      "title": "United Ortho USA14115 Short Air Cam Walker Fracture Boot, Medium, Black",
+      "brand": "United Ortho",
+      "price": 59.95,
+      "salesParent": 13157,
+      "revenue": 730345.06,
+      "rating": 4.3,
+      "reviews": 28484
+    },
+    {
+      "rank": 6,
+      "asin": "B09DTRB6VY",
+      "title": "Ankle Compression Sleeve &amp; Ankle Brace for Plantar Fasciitis Relief",
+      "brand": "Koprez",
+      "price": 39.99,
+      "salesParent": 15195,
+      "revenue": 607648.06,
+      "rating": 4.0,
+      "reviews": 1322
+    },
+    {
+      "rank": 7,
+      "asin": "B09F6SNKT4",
+      "title": "DR. BRACE ELITE Knee Brace with Side Stabilizers &amp; Patella Gel Pads",
+      "brand": "DR. BRACE",
+      "price": 27.97,
+      "salesParent": 22467,
+      "revenue": 606609.0,
+      "rating": 4.3,
+      "reviews": 17354
+    },
+    {
+      "rank": 8,
+      "asin": "B0CY3ZPFND",
+      "title": "NEENCA Professional Knee Brace, Hinged Knee Support for Women &amp; Men Relief",
+      "brand": "NEENCA",
+      "price": 59.89,
+      "salesParent": 9303,
+      "revenue": 557156.69,
+      "rating": 4.3,
+      "reviews": 3030
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -1,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -1,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 21066817,
+    "priorHeadRevenue": 21214577,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 17,
+      "pct": 17,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 30,
+      "brandCount": 65,
+      "level": "分散",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.31,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B08JGP1WYM",
+        "title": "Modvel Compression Knee Brace for Women &amp; Men - 2 Pack Knee Brace for Running Knee Pain, Knee Support Compression Sleeve, Workout Sports Knee Braces for Meniscus Tear ACL &amp; Arthritis Pain Relief",
+        "rating": 4.4,
+        "reviews": 82517
+      },
+      {
+        "rank": 2,
+        "asin": "B016F59BDU",
+        "title": "Sleeve Stars Ankle Brace Men &amp; Women Support (Single/M:10&quot;-12&quot;/Black)",
+        "rating": 4.3,
+        "reviews": 48340
+      },
+      {
+        "rank": 3,
+        "asin": "B0055QNLR8",
+        "title": "Incrediwear Knee Sleeve – Knee Braces for Knee Pain, Joint Pain Relief, Swelling, Inflammation Relief, and Circulation, Knee Support for Women and Men",
+        "rating": 4.4,
+        "reviews": 15986
+      },
+      {
+        "rank": 4,
+        "asin": "B00TZTO0VM",
+        "title": "Med Spec ASO Ankle Stabilizer Lace Up Ankle Brace Sprain Support Black, MD",
+        "rating": 4.4,
+        "reviews": 32504
+      },
+      {
+        "rank": 5,
+        "asin": "B009G5QAM2",
+        "title": "United Ortho USA14115 Short Air Cam Walker Fracture Boot, Medium, Black",
+        "rating": 4.3,
+        "reviews": 28484
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3775161:3775541:8620015011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

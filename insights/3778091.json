@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3778091",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Oral Care > Dental Floss & Picks > Floss Picks",
+  "categoryPathCn": "Health & Household > Oral Care > Dental Floss & Picks > Floss Picks",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 5294319,
+    "avgRevenue": 53478,
+    "medianPrice": 9.99,
+    "priceBand": "$6.96 - $15.95",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B085YL4HR7",
+      "title": "Plackers Micro Line Floss Picks, Intense Mint, 300 Count",
+      "brand": "Plackers",
+      "price": 6.26,
+      "salesParent": 138676,
+      "revenue": 895846.94,
+      "rating": 4.7,
+      "reviews": 84178
+    },
+    {
+      "rank": 2,
+      "asin": "B08MLDWN69",
+      "title": "Platypus Orthodontic Flossers for Braces, 40 Count (Pack of 1)",
+      "brand": "Platypus",
+      "price": 18.44,
+      "salesParent": 36203,
+      "revenue": 510100.28,
+      "rating": 4.7,
+      "reviews": 14666
+    },
+    {
+      "rank": 3,
+      "asin": "B0DJH7VTL9",
+      "title": "Oral-B Glide Mint Dental Floss Picks with Long Lasting Scope Flavor, 75 Count, Pack of 3",
+      "brand": "Oral-B",
+      "price": 11.23,
+      "salesParent": 43607,
+      "revenue": 483601.62,
+      "rating": 4.2,
+      "reviews": 5316
+    },
+    {
+      "rank": 4,
+      "asin": "B003K01BMI",
+      "title": "DenTek Floss Picks, Advanced Clean, Plaque Remover, 150 Count",
+      "brand": "DenTek",
+      "price": 4.17,
+      "salesParent": 63132,
+      "revenue": 265154.38,
+      "rating": 4.7,
+      "reviews": 90283
+    },
+    {
+      "rank": 5,
+      "asin": "B071CT5QMX",
+      "title": "GUM Soft-Picks Advanced Interdental Picks, 90 Count",
+      "brand": "GUM",
+      "price": 10.99,
+      "salesParent": 23522,
+      "revenue": 246040.12,
+      "rating": 4.7,
+      "reviews": 21952
+    },
+    {
+      "rank": 6,
+      "asin": "B07MWG6VH3",
+      "title": "Platypus Orthodontic Flossers for Braces, 30 Count (Pack of 2)",
+      "brand": "Platypus",
+      "price": 13.99,
+      "salesParent": 16654,
+      "revenue": 235654.09,
+      "rating": 4.7,
+      "reviews": 31965
+    },
+    {
+      "rank": 7,
+      "asin": "B073C6LMJD",
+      "title": "GUM Soft-Picks Original Interdental Picks, 270 Count",
+      "brand": "GUM",
+      "price": 18.89,
+      "salesParent": 11691,
+      "revenue": 220842.98,
+      "rating": 4.8,
+      "reviews": 15968
+    },
+    {
+      "rank": 8,
+      "asin": "B0GY94FH5B",
+      "title": "Oral-B Glide Dental Floss Picks Variety Set with Scope Outlast, Arctic Peppermint Oil and Ultra Deep Clean, 225 Count (75 Count x 3)",
+      "brand": "Oral-B",
+      "price": 12.57,
+      "salesParent": 12476,
+      "revenue": 156823.31,
+      "rating": 4.5,
+      "reviews": 438
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 39,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 39,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 5294319,
+    "priorHeadRevenue": 3818524,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 22,
+      "pct": 22,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 73,
+      "brandCount": 55,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.56,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B085YL4HR7",
+        "title": "Plackers Micro Line Floss Picks, Intense Mint, 300 Count",
+        "rating": 4.7,
+        "reviews": 84178
+      },
+      {
+        "rank": 2,
+        "asin": "B08MLDWN69",
+        "title": "Platypus Orthodontic Flossers for Braces, 40 Count (Pack of 1)",
+        "rating": 4.7,
+        "reviews": 14666
+      },
+      {
+        "rank": 3,
+        "asin": "B0DJH7VTL9",
+        "title": "Oral-B Glide Mint Dental Floss Picks with Long Lasting Scope Flavor, 75 Count, Pack of 3",
+        "rating": 4.2,
+        "reviews": 5316
+      },
+      {
+        "rank": 4,
+        "asin": "B003K01BMI",
+        "title": "DenTek Floss Picks, Advanced Clean, Plaque Remover, 150 Count",
+        "rating": 4.7,
+        "reviews": 90283
+      },
+      {
+        "rank": 5,
+        "asin": "B071CT5QMX",
+        "title": "GUM Soft-Picks Advanced Interdental Picks, 90 Count",
+        "rating": 4.7,
+        "reviews": 21952
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:10079992011:13213824011:3778091",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

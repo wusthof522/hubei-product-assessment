@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "723455011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Stationery & Gift Wrapping Supplies > Gift Wrapping Supplies > Gift Wrap Bows",
+  "categoryPathCn": "健康与家居 > 文具和礼品包装用品 > 办公礼品包装 > 礼品包装蝴蝶结",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 1108728,
+    "avgRevenue": 11087,
+    "medianPrice": 9.99,
+    "priceBand": "$7.99 - $14.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0CYZ7SSC3",
+      "title": "Sage Green Bows for Gift Wrapping, Sage Curly Ribbon Bows Self Adhesive Burst Gift Bow for Presents, Wine Bottle, Treat Bags, Wrap Accessories, Bridal Shower Wedding Party Favor - 6 Counts",
+      "brand": "HUIHUANG",
+      "price": 13.29,
+      "salesParent": 2388,
+      "revenue": 32763.36,
+      "rating": 4.8,
+      "reviews": 624
+    },
+    {
+      "rank": 2,
+      "asin": "B0FJWGGX8Y",
+      "title": "50 Pieces Gift Wrap Bows Premium Satin Ribbon Bows 3.3 Inch Craft Bows for Gift Wrapping DIY Treat Bags Holiday Gifts Bag Party Decorations, Wedding Decor Christmas Birthday Presents (Light Pink)",
+      "brand": "Amstorer",
+      "price": 6.99,
+      "salesParent": 4208,
+      "revenue": 29413.92,
+      "rating": 4.6,
+      "reviews": 466
+    },
+    {
+      "rank": 3,
+      "asin": "B0BK32MR7W",
+      "title": "Bowdabra Bow Maker with Large Bowdabra, Mini Bowdabra, 100yd Gold Bow Wire for Ribbon Gift Bows, Swags, Decorations, Hair Bows, Party Favors, Corsages, Wreath Bows, Christmas Decor",
+      "brand": "Bowdabra",
+      "price": 62.99,
+      "salesParent": 499,
+      "revenue": 27539.81,
+      "rating": 4.3,
+      "reviews": 195
+    },
+    {
+      "rank": 4,
+      "asin": "B0FPX12ZVN",
+      "title": "12 Inch Happy Birthday Big Pink Bow, Big Bow for Present, Party Decorations, Christmas Events Bikes,Table Decorations and Party Events Decoration ((Pink, 12 Inch (Pack of 1))",
+      "brand": "WSSCKSCR",
+      "price": 8.99,
+      "salesParent": 2885,
+      "revenue": 25936.15,
+      "rating": 4.2,
+      "reviews": 332
+    },
+    {
+      "rank": 5,
+      "asin": "B09K525N7M",
+      "title": "20 Pcs 6 Inch Xmas Pull Bows for Gift Wrapping, Green, Red, Gold, Silver",
+      "brand": "WILLBOND",
+      "price": 15.95,
+      "salesParent": 1576,
+      "revenue": 25137.2,
+      "rating": 4.6,
+      "reviews": 2139
+    },
+    {
+      "rank": 6,
+      "asin": "B0F9P81D16",
+      "title": "LaRibbons Rainbow Bows for Gift Wrapping Birthday Bows",
+      "brand": "LaRibbons",
+      "price": 14.99,
+      "salesParent": 1631,
+      "revenue": 24448.69,
+      "rating": 4.7,
+      "reviews": 178
+    },
+    {
+      "rank": 7,
+      "asin": "B06XJLXZRR",
+      "title": "Zoe Deco Big Car Bow - 30&quot; Red Giant Bow for Birthday, Christmas, Gift",
+      "brand": "Zoe Deco",
+      "price": 9.99,
+      "salesParent": 2339,
+      "revenue": 23366.61,
+      "rating": 3.8,
+      "reviews": 3290
+    },
+    {
+      "rank": 8,
+      "asin": "B09JBZ427T",
+      "title": "Burgundy Satin Ribbon Twist Tie Bows 3.5&quot; Pretied Bows Wine Premade Craft Bows for Treat Bags Cake Pop Gift Wrapping Basket Wedding Favors Cookie Candy Bagging Baby Shower - 50 Counts",
+      "brand": "AIMUDI",
+      "price": 14.99,
+      "salesParent": 1558,
+      "revenue": 22123.6,
+      "rating": 4.8,
+      "reviews": 1209
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -54,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -54,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1108728,
+    "priorHeadRevenue": 2398895,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 42,
+      "pct": 42,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 27,
+      "brandCount": 67,
+      "level": "分散",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.5,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0CYZ7SSC3",
+        "title": "Sage Green Bows for Gift Wrapping, Sage Curly Ribbon Bows Self Adhesive Burst Gift Bow for Presents, Wine Bottle, Treat Bags, Wrap Accessories, Bridal Shower Wedding Party Favor - 6 Counts",
+        "rating": 4.8,
+        "reviews": 624
+      },
+      {
+        "rank": 2,
+        "asin": "B0FJWGGX8Y",
+        "title": "50 Pieces Gift Wrap Bows Premium Satin Ribbon Bows 3.3 Inch Craft Bows for Gift Wrapping DIY Treat Bags Holiday Gifts Bag Party Decorations, Wedding Decor Christmas Birthday Presents (Light Pink)",
+        "rating": 4.6,
+        "reviews": 466
+      },
+      {
+        "rank": 3,
+        "asin": "B0BK32MR7W",
+        "title": "Bowdabra Bow Maker with Large Bowdabra, Mini Bowdabra, 100yd Gold Bow Wire for Ribbon Gift Bows, Swags, Decorations, Hair Bows, Party Favors, Corsages, Wreath Bows, Christmas Decor",
+        "rating": 4.3,
+        "reviews": 195
+      },
+      {
+        "rank": 4,
+        "asin": "B0FPX12ZVN",
+        "title": "12 Inch Happy Birthday Big Pink Bow, Big Bow for Present, Party Decorations, Christmas Events Bikes,Table Decorations and Party Events Decoration ((Pink, 12 Inch (Pack of 1))",
+        "rating": 4.2,
+        "reviews": 332
+      },
+      {
+        "rank": 5,
+        "asin": "B09K525N7M",
+        "title": "20 Pcs 6 Inch Xmas Pull Bows for Gift Wrapping, Green, Red, Gold, Silver",
+        "rating": 4.6,
+        "reviews": 2139
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:723418011:723452011:723455011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

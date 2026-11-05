@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3733371",
+  "level": "L4",
+  "categoryPathEn": "Home & Kitchen > Furniture > Kids' Furniture > Armoires & Dressers",
+  "categoryPathCn": "家居用品 > 家具 > 儿童家具 > 衣柜和梳妆台",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 96,
+    "totalRevenue": 1011125,
+    "avgRevenue": 10533,
+    "medianPrice": 119.99,
+    "priceBand": "$89.99 - $199.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0FDWMND1H",
+      "title": "Vabches Kids Dresser Cabinet with 7 Drawers and Large Table Top, White Chest of Drawers, Baby Dresser, Kids Bedroom Furniture, Nightstand for Child’s Room, White",
+      "brand": "Vabches",
+      "price": 239.99,
+      "salesParent": 634,
+      "revenue": 152153.66,
+      "rating": 4.2,
+      "reviews": 121
+    },
+    {
+      "rank": 2,
+      "asin": "B0HCT2K83P",
+      "title": "White Changing Table Dresser, Baby Dresser with Removable Changing Topper",
+      "brand": "BERRY NEST",
+      "price": 299.99,
+      "salesParent": 205,
+      "revenue": 61680.4,
+      "rating": 4.3,
+      "reviews": 9
+    },
+    {
+      "rank": 3,
+      "asin": "B0D8TVFSBF",
+      "title": "Baby Closet Organizer for Nursery: Durable Baby Wardrobe for Closet - Customizable Baby Dresser Amoire Shelves - Waterproof Shelf Clothes Organizer w/Wall Fixation (White)",
+      "brand": "CUBEDIY",
+      "price": 59.99,
+      "salesParent": 783,
+      "revenue": 46972.17,
+      "rating": 4.6,
+      "reviews": 445
+    },
+    {
+      "rank": 4,
+      "asin": "B0H63JNDFL",
+      "title": "Delta Children Universal 6 Drawer Dresser, Interlocking Drawers, Chestnut",
+      "brand": "Delta Children",
+      "price": 299.99,
+      "salesParent": 137,
+      "revenue": 41098.63,
+      "rating": 4.6,
+      "reviews": 6438
+    },
+    {
+      "rank": 5,
+      "asin": "B0DG277JZ6",
+      "title": "DaVinci Sammy Scallop 6-Drawer Dresser in White",
+      "brand": "DaVinci",
+      "price": 429.0,
+      "salesParent": 91,
+      "revenue": 39039.0,
+      "rating": 4.2,
+      "reviews": 49
+    },
+    {
+      "rank": 6,
+      "asin": "B0H3Z52M46",
+      "title": "Kids Dresser Cabinet with 6 Drawers, Changing Table for Nursery with Shelf, Multi-Functional Chest of Drawers, Kids Bedroom Furniture, Nightstand for Children's Room, Grey",
+      "brand": "HOSEOKA",
+      "price": 199.99,
+      "salesParent": 186,
+      "revenue": 37198.14,
+      "rating": 4.3,
+      "reviews": 5
+    },
+    {
+      "rank": 7,
+      "asin": "B0FX45G233",
+      "title": "Expandable Closet Organizers and Storage, White Fabric Storage Dresser, 3 Drawer Dresser, Clothes Shelves for Kids, Purse Organizer Small Shoe Rack for Closet Bedroom Dorm(31.29~43.42 in)",
+      "brand": "Cidaziya",
+      "price": 45.99,
+      "salesParent": 807,
+      "revenue": 37113.93,
+      "rating": 4.2,
+      "reviews": 163
+    },
+    {
+      "rank": 8,
+      "asin": "B0FCYC46X1",
+      "title": "Curipeer Dollhouse Kids Dress Up Storage with Full-Length Mirror &amp; Touch Activated Light, Open Hanging Kids Wardrobe Closet, Toddler Dress up Rack, Armoire Costume Organizer for Playroom, White",
+      "brand": "Curipeer",
+      "price": 139.99,
+      "salesParent": 257,
+      "revenue": 34759.25,
+      "rating": 4.4,
+      "reviews": 28
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 72,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 72,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1011125,
+    "priorHeadRevenue": 588709,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 96,
+      "newCount": 59,
+      "pct": 61,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 43,
+      "brandCount": 47,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.34,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0FDWMND1H",
+        "title": "Vabches Kids Dresser Cabinet with 7 Drawers and Large Table Top, White Chest of Drawers, Baby Dresser, Kids Bedroom Furniture, Nightstand for Child’s Room, White",
+        "rating": 4.2,
+        "reviews": 121
+      },
+      {
+        "rank": 2,
+        "asin": "B0HCT2K83P",
+        "title": "White Changing Table Dresser, Baby Dresser with Removable Changing Topper",
+        "rating": 4.3,
+        "reviews": 9
+      },
+      {
+        "rank": 3,
+        "asin": "B0D8TVFSBF",
+        "title": "Baby Closet Organizer for Nursery: Durable Baby Wardrobe for Closet - Customizable Baby Dresser Amoire Shelves - Waterproof Shelf Clothes Organizer w/Wall Fixation (White)",
+        "rating": 4.6,
+        "reviews": 445
+      },
+      {
+        "rank": 4,
+        "asin": "B0H63JNDFL",
+        "title": "Delta Children Universal 6 Drawer Dresser, Interlocking Drawers, Chestnut",
+        "rating": 4.6,
+        "reviews": 6438
+      },
+      {
+        "rank": 5,
+        "asin": "B0DG277JZ6",
+        "title": "DaVinci Sammy Scallop 6-Drawer Dresser in White",
+        "rating": 4.2,
+        "reviews": 49
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "1055398:1063306:1063314:3733371",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

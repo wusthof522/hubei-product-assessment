@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "276801011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Collectible Toys > Collectible Display & Storage > Coin Collecting Storage",
+  "categoryPathCn": "玩具 > 收藏品玩具 > 收藏品展示 > 硬币收集存储",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 50,
+    "totalRevenue": 32568,
+    "avgRevenue": 651,
+    "medianPrice": 17.89,
+    "priceBand": "$9.99 - $24.24",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B09VDSKF1S",
+      "title": "Small Military Challenge Coin Display case for Badges &amp; Ribbons Black",
+      "brand": "VERANI",
+      "price": 29.99,
+      "salesParent": 130,
+      "revenue": 4325.1,
+      "rating": 4.6,
+      "reviews": 848
+    },
+    {
+      "rank": 2,
+      "asin": "B0C782WHX1",
+      "title": "10Pcs 26MM Coin Slab Holder for Graded Coins",
+      "brand": "PCCB MINGT",
+      "price": 9.99,
+      "salesParent": 317,
+      "revenue": 3166.83,
+      "rating": 4.5,
+      "reviews": 149
+    },
+    {
+      "rank": 3,
+      "asin": "B0H2YXSNX6",
+      "title": "Challenge Coin Display Mahogany Military Coin Holder Display Stand",
+      "brand": "Yncotte",
+      "price": 24.99,
+      "salesParent": 111,
+      "revenue": 2773.89,
+      "rating": 4.7,
+      "reviews": 40
+    },
+    {
+      "rank": 4,
+      "asin": "B0H4L59NLV",
+      "title": "Coin Collection Book，430 Pockets Coin Collection Currency Album",
+      "brand": "AMEDELE",
+      "price": 21.99,
+      "salesParent": 106,
+      "revenue": 2330.94,
+      "rating": 4.6,
+      "reviews": 17
+    },
+    {
+      "rank": 5,
+      "asin": "B0FB8Z1GTK",
+      "title": "90PCS Blue Clear Banknote Holders - Top-Load",
+      "brand": "Uncle Paul",
+      "price": 19.99,
+      "salesParent": 97,
+      "revenue": 1939.03,
+      "rating": 4.6,
+      "reviews": 217
+    },
+    {
+      "rank": 6,
+      "asin": "B0H8NX6B7L",
+      "title": "Challenge Coin Display Stand &amp; Holder for Military Coins",
+      "brand": "ASOBRIS",
+      "price": 25.99,
+      "salesParent": 74,
+      "revenue": 1923.26,
+      "rating": 4.8,
+      "reviews": 34
+    },
+    {
+      "rank": 7,
+      "asin": "B0H1VM4L73",
+      "title": "Coin Collection Book for Collector, Fireproof Coin Collection Holder",
+      "brand": "JNATER",
+      "price": 29.99,
+      "salesParent": 54,
+      "revenue": 1619.46,
+      "rating": 5.0,
+      "reviews": 5
+    },
+    {
+      "rank": 8,
+      "asin": "B0FZTYVVMG",
+      "title": "ALRALLI 24PCS Alloy Challenge Coin Blanks, 40mm x 2mm (Gold-Plated)",
+      "brand": "ALRALLI",
+      "price": 27.99,
+      "salesParent": 55,
+      "revenue": 1539.45,
+      "rating": 3.5,
+      "reviews": 30
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 21,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 21,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 32568,
+    "priorHeadRevenue": 26805,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 50,
+      "newCount": 27,
+      "pct": 54,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 53,
+      "brandCount": 43,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.6,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B09VDSKF1S",
+        "title": "Small Military Challenge Coin Display case for Badges &amp; Ribbons Black",
+        "rating": 4.6,
+        "reviews": 848
+      },
+      {
+        "rank": 2,
+        "asin": "B0C782WHX1",
+        "title": "10Pcs 26MM Coin Slab Holder for Graded Coins",
+        "rating": 4.5,
+        "reviews": 149
+      },
+      {
+        "rank": 3,
+        "asin": "B0H2YXSNX6",
+        "title": "Challenge Coin Display Mahogany Military Coin Holder Display Stand",
+        "rating": 4.7,
+        "reviews": 40
+      },
+      {
+        "rank": 4,
+        "asin": "B0H4L59NLV",
+        "title": "Coin Collection Book，430 Pockets Coin Collection Currency Album",
+        "rating": 4.6,
+        "reviews": 17
+      },
+      {
+        "rank": 5,
+        "asin": "B0FB8Z1GTK",
+        "title": "90PCS Blue Clear Banknote Holders - Top-Load",
+        "rating": 4.6,
+        "reviews": 217
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:19431275011:19431291011:276801011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

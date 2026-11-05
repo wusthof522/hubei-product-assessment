@@ -1,0 +1,26 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "17895003011",
+  "level": "L2",
+  "categoryPathEn": "Electronics > Electronics & Wireless Outlet",
+  "categoryPathCn": "Electronics > Electronics & Wireless Outlet",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "empty",
+  "marketSize": {
+    "sampleCount": 0
+  },
+  "topProducts": [],
+  "trend": {
+    "yoyPct": null,
+    "direction": "flat"
+  },
+  "competition": {},
+  "voc": {
+    "avgRating": null,
+    "top5": [],
+    "painPoints": []
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "495224",
+  "level": "L2",
+  "categoryPathEn": "Tools & Home Improvement > Lighting & Ceiling Fans",
+  "categoryPathCn": "工具 > 照明",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 69127857,
+    "avgRevenue": 698261,
+    "medianPrice": 39.99,
+    "priceBand": "$26.99 - $109.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0DX1WPB9J",
+      "title": "Govee Permanent Outdoor Lights Pro, 200ft with 120 RGBIC LED Lights, White",
+      "brand": "Govee",
+      "price": 759.99,
+      "salesParent": 13531,
+      "revenue": 9358175.0,
+      "rating": 4.4,
+      "reviews": 2444
+    },
+    {
+      "rank": 2,
+      "asin": "B0D14WP9TB",
+      "title": "Govee Permanent Outdoor Lights 2, 100ft RGBIC Outdoor Lights with 100 Modes",
+      "brand": "Govee",
+      "price": 279.99,
+      "salesParent": 14309,
+      "revenue": 3804906.25,
+      "rating": 4.4,
+      "reviews": 3171
+    },
+    {
+      "rank": 3,
+      "asin": "B099WTN2TR",
+      "title": "Govee RGBIC Floor Lamp Basic, 1000lm LED Corner Lamp",
+      "brand": "Govee",
+      "price": 64.99,
+      "salesParent": 39678,
+      "revenue": 2886177.75,
+      "rating": 4.4,
+      "reviews": 12185
+    },
+    {
+      "rank": 4,
+      "asin": "B0H3NR1QB1",
+      "title": "Govee Permanent Outdoor Lights 2 Pro, 200ft with IP68 Waterproof, White",
+      "brand": "Govee",
+      "price": 799.99,
+      "salesParent": 3961,
+      "revenue": 2826688.5,
+      "rating": 4.4,
+      "reviews": 58
+    },
+    {
+      "rank": 5,
+      "asin": "B0BDF8CVBN",
+      "title": "MCGOR 10inch Under Cabinet Lighting, 2 Pack Rechargeable Motion Sensor Light Indoor, 5 Levels Dimmable Magnetic Closet Lights, Wireless Under Counter Lights for Kitchen, Stairs",
+      "brand": "MCGOR",
+      "price": 16.89,
+      "salesParent": 81967,
+      "revenue": 1681962.88,
+      "rating": 4.6,
+      "reviews": 50444
+    },
+    {
+      "rank": 6,
+      "asin": "B06XCTP65H",
+      "title": "Homemory 24Pcs Flickering Flameless Candle Battery Operated, 200+Hours Fake Electric LED Tea Lights for Votive, Centerpiece Table Decorations, Wedding, Aniversary, Halloween, Christmas",
+      "brand": "Homemory",
+      "price": 11.99,
+      "salesParent": 130240,
+      "revenue": 1547251.25,
+      "rating": 4.7,
+      "reviews": 78435
+    },
+    {
+      "rank": 7,
+      "asin": "B0FGCYSLJH",
+      "title": "Govee Permanent Outdoor Lights Prism 200ft, White",
+      "brand": "Govee",
+      "price": 859.99,
+      "salesParent": 1836,
+      "revenue": 1398095.62,
+      "rating": 4.6,
+      "reviews": 356
+    },
+    {
+      "rank": 8,
+      "asin": "B09WGVV6TB",
+      "title": "NYMPHY Solar Lights Outdoor Waterproof - 4 Pack (Cool White)",
+      "brand": "NYMPHY",
+      "price": 37.99,
+      "salesParent": 34652,
+      "revenue": 1316429.5,
+      "rating": 4.4,
+      "reviews": 18146
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 0,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 0,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 69127857,
+    "priorHeadRevenue": 68834885,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 34,
+      "pct": 34,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 56,
+      "brandCount": 60,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.4,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0DX1WPB9J",
+        "title": "Govee Permanent Outdoor Lights Pro, 200ft with 120 RGBIC LED Lights, White",
+        "rating": 4.4,
+        "reviews": 2444
+      },
+      {
+        "rank": 2,
+        "asin": "B0D14WP9TB",
+        "title": "Govee Permanent Outdoor Lights 2, 100ft RGBIC Outdoor Lights with 100 Modes",
+        "rating": 4.4,
+        "reviews": 3171
+      },
+      {
+        "rank": 3,
+        "asin": "B099WTN2TR",
+        "title": "Govee RGBIC Floor Lamp Basic, 1000lm LED Corner Lamp",
+        "rating": 4.4,
+        "reviews": 12185
+      },
+      {
+        "rank": 4,
+        "asin": "B0H3NR1QB1",
+        "title": "Govee Permanent Outdoor Lights 2 Pro, 200ft with IP68 Waterproof, White",
+        "rating": 4.4,
+        "reviews": 58
+      },
+      {
+        "rank": 5,
+        "asin": "B0BDF8CVBN",
+        "title": "MCGOR 10inch Under Cabinet Lighting, 2 Pack Rechargeable Motion Sensor Light Indoor, 5 Levels Dimmable Magnetic Closet Lights, Wireless Under Counter Lights for Kitchen, Stairs",
+        "rating": 4.6,
+        "reviews": 50444
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "228013:495224",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

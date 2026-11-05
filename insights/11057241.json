@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "11057241",
+  "level": "L2",
+  "categoryPathEn": "Beauty & Personal Care > Hair Care",
+  "categoryPathCn": "美容与护理 > 美发护发",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 97,
+    "totalRevenue": 222044969,
+    "avgRevenue": 2289123,
+    "medianPrice": 44.99,
+    "priceBand": "$26.97 - $88.0",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0HBNX8XVR",
+      "title": "Nizoral Anti-Dandruff Shampoo with 1% Ketoconazole, 14 Fl Oz (Pack of 12)",
+      "brand": "Nizoral",
+      "price": 288.82,
+      "salesParent": 63017,
+      "revenue": 18200570.0,
+      "rating": 4.7,
+      "reviews": 9593
+    },
+    {
+      "rank": 2,
+      "asin": "B07QZ5CTTF",
+      "title": "Nutrafol Women's Balance Hair Growth Supplements, Age 45+, 1-Month Bottle",
+      "brand": "Nutrafol",
+      "price": 88.0,
+      "salesParent": 145415,
+      "revenue": 12796520.0,
+      "rating": 4.1,
+      "reviews": 16667
+    },
+    {
+      "rank": 3,
+      "asin": "B0B89P16MC",
+      "title": "Shark FlexStyle, Air Multi-Styler &amp; Drying System, Coanda Curlers, HD430",
+      "brand": "Shark",
+      "price": 279.99,
+      "salesParent": 30644,
+      "revenue": 7228613.0,
+      "rating": 4.2,
+      "reviews": 6851
+    },
+    {
+      "rank": 4,
+      "asin": "B0FD7PD4QG",
+      "title": "HOT Tools 24K Gold Professional 1&quot; Extended Barrel Curling Iron with Clamp for Bouncy Curls, Faster Styling, Less Damage &amp; Long-Lasting Results (Pack of 6)",
+      "brand": "HOT TOOLS",
+      "price": 325.5,
+      "salesParent": 19357,
+      "revenue": 6300703.5,
+      "rating": 4.2,
+      "reviews": 2975
+    },
+    {
+      "rank": 5,
+      "asin": "B0B61TZ676",
+      "title": "Nutrafol Women Hair Growth Supplements, Ages 18-44, 1-Month Bottle",
+      "brand": "Nutrafol",
+      "price": 88.0,
+      "salesParent": 63275,
+      "revenue": 5568200.0,
+      "rating": 4.2,
+      "reviews": 21062
+    },
+    {
+      "rank": 6,
+      "asin": "B0C7YJ7WML",
+      "title": "Shark SpeedStyle Hair Dryer, 3 Styling Tools, Fine to Medium Hair, HD331",
+      "brand": "Shark",
+      "price": 169.0,
+      "salesParent": 32936,
+      "revenue": 4985522.0,
+      "rating": 4.3,
+      "reviews": 1632
+    },
+    {
+      "rank": 7,
+      "asin": "B0GQD9Y72Z",
+      "title": "Dyson Airwrap i.d.™ Multi-Styler, Allure Winner, Bluetooth Connected, No Heat Damage, 6-in-1 Versatility, Intelligent Hair Styler",
+      "brand": "Dyson",
+      "price": 534.49,
+      "salesParent": 7685,
+      "revenue": 4849158.0,
+      "rating": 4.3,
+      "reviews": 145
+    },
+    {
+      "rank": 8,
+      "asin": "B01J248HWM",
+      "title": "Bio Ionic Long Barrel Curling Iron, Moisture Heat Technology &amp; NanoIonic MX",
+      "brand": "BIO IONIC",
+      "price": 163.0,
+      "salesParent": 28956,
+      "revenue": 4619930.0,
+      "rating": 4.3,
+      "reviews": 3631
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 45,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 45,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 222044969,
+    "priorHeadRevenue": 153562178,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 97,
+      "newCount": 15,
+      "pct": 15,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 39,
+      "brandCount": 59,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.36,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0HBNX8XVR",
+        "title": "Nizoral Anti-Dandruff Shampoo with 1% Ketoconazole, 14 Fl Oz (Pack of 12)",
+        "rating": 4.7,
+        "reviews": 9593
+      },
+      {
+        "rank": 2,
+        "asin": "B07QZ5CTTF",
+        "title": "Nutrafol Women's Balance Hair Growth Supplements, Age 45+, 1-Month Bottle",
+        "rating": 4.1,
+        "reviews": 16667
+      },
+      {
+        "rank": 3,
+        "asin": "B0B89P16MC",
+        "title": "Shark FlexStyle, Air Multi-Styler &amp; Drying System, Coanda Curlers, HD430",
+        "rating": 4.2,
+        "reviews": 6851
+      },
+      {
+        "rank": 4,
+        "asin": "B0FD7PD4QG",
+        "title": "HOT Tools 24K Gold Professional 1&quot; Extended Barrel Curling Iron with Clamp for Bouncy Curls, Faster Styling, Less Damage &amp; Long-Lasting Results (Pack of 6)",
+        "rating": 4.2,
+        "reviews": 2975
+      },
+      {
+        "rank": 5,
+        "asin": "B0B61TZ676",
+        "title": "Nutrafol Women Hair Growth Supplements, Ages 18-44, 1-Month Bottle",
+        "rating": 4.2,
+        "reviews": 21062
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760911:11057241",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

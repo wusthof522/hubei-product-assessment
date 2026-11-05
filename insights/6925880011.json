@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "6925880011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Remote & App Controlled Vehicles & Parts > Remote & App Controlled Vehicle Parts > Servos & Parts",
+  "categoryPathCn": "玩具 > 遥控 > 遥控 > 伺服机",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 637463,
+    "avgRevenue": 6439,
+    "medianPrice": 37.95,
+    "priceBand": "$19.98 - $55.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0CP98TZJ2",
+      "title": "MG90S 9G Micro Servo Motor Metal Gear for RC Plane Robot Arduino (4)",
+      "brand": "Miuzei",
+      "price": 13.88,
+      "salesParent": 2323,
+      "revenue": 32243.24,
+      "rating": 4.5,
+      "reviews": 825
+    },
+    {
+      "rank": 2,
+      "asin": "B09Y4NZJBJ",
+      "title": "Monster 56KG Waterproof Brushless High Torque HV Ultra Fast Digital Servo Full Metal Gears for RC CAR Extremely Precise/Shockproof Rc Car Servo Watch Video!",
+      "brand": "Perfect Pass",
+      "price": 119.95,
+      "salesParent": 194,
+      "revenue": 23270.3,
+      "rating": 4.6,
+      "reviews": 485
+    },
+    {
+      "rank": 3,
+      "asin": "B0GZH48NHF",
+      "title": "INJORA N30 PRO Nano High Torque Servo with Saver for Axial SCX30, JR",
+      "brand": "INJORA",
+      "price": 38.99,
+      "salesParent": 497,
+      "revenue": 19626.53,
+      "rating": 4.8,
+      "reviews": 37
+    },
+    {
+      "rank": 4,
+      "asin": "B0DBLLXNMB",
+      "title": "2097-V34PR3-LM 2097-V34PR3-LM New in Stock Servo Driver",
+      "brand": "Generic",
+      "price": 1230.49,
+      "salesParent": 13,
+      "revenue": 15996.37,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "rank": 5,
+      "asin": "B0GTZ731F3",
+      "title": "AGFRC 40KG High-Torque RC Servo Motor - Year for the Horse, Waterproof Brushless Digital Standard Servo for 1/10 RC Cars (A73BHLW V2 2026 Special Edition)",
+      "brand": "AGFRC",
+      "price": 76.99,
+      "salesParent": 158,
+      "revenue": 12164.42,
+      "rating": 5.0,
+      "reviews": 17
+    },
+    {
+      "rank": 6,
+      "asin": "B0H1126G5C",
+      "title": "INJORA 11KG Coreless High Torque Servo with Mount &amp; Horn for SCX24 AX24",
+      "brand": "INJORA",
+      "price": 47.99,
+      "salesParent": 250,
+      "revenue": 11997.5,
+      "rating": 4.8,
+      "reviews": 39
+    },
+    {
+      "rank": 7,
+      "asin": "B0FKMPXRCS",
+      "title": "INJORA 11KG Coreless High Torque Micro Servo for 1/18 1/24 RC Crawler",
+      "brand": "INJORA",
+      "price": 39.99,
+      "salesParent": 287,
+      "revenue": 11477.13,
+      "rating": 4.2,
+      "reviews": 72
+    },
+    {
+      "rank": 8,
+      "asin": "B0CD1FTQRL",
+      "title": "INJORA INJS2065 7KG Waterproof Servo with Mount and Horn for TRX4M",
+      "brand": "INJORA",
+      "price": 28.98,
+      "salesParent": 369,
+      "revenue": 10693.62,
+      "rating": 4.4,
+      "reviews": 898
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 9,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 9,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 637463,
+    "priorHeadRevenue": 586807,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 25,
+      "pct": 25,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 48,
+      "brandCount": 42,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.48,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0CP98TZJ2",
+        "title": "MG90S 9G Micro Servo Motor Metal Gear for RC Plane Robot Arduino (4)",
+        "rating": 4.5,
+        "reviews": 825
+      },
+      {
+        "rank": 2,
+        "asin": "B09Y4NZJBJ",
+        "title": "Monster 56KG Waterproof Brushless High Torque HV Ultra Fast Digital Servo Full Metal Gears for RC CAR Extremely Precise/Shockproof Rc Car Servo Watch Video!",
+        "rating": 4.6,
+        "reviews": 485
+      },
+      {
+        "rank": 3,
+        "asin": "B0GZH48NHF",
+        "title": "INJORA N30 PRO Nano High Torque Servo with Saver for Axial SCX30, JR",
+        "rating": 4.8,
+        "reviews": 37
+      },
+      {
+        "rank": 4,
+        "asin": "B0DBLLXNMB",
+        "title": "2097-V34PR3-LM 2097-V34PR3-LM New in Stock Servo Driver",
+        "rating": null,
+        "reviews": null
+      },
+      {
+        "rank": 5,
+        "asin": "B0GTZ731F3",
+        "title": "AGFRC 40KG High-Torque RC Servo Motor - Year for the Horse, Waterproof Brushless Digital Standard Servo for 1/10 RC Cars (A73BHLW V2 2026 Special Edition)",
+        "rating": 5.0,
+        "reviews": 17
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:6925830011:2234126011:6925880011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

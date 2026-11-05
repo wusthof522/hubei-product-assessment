@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "10112773011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Household Supplies > Household Batteries > 3.7V",
+  "categoryPathCn": "健康与家居 > 家居用品 > 家用电池 > 3.7V",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 98,
+    "totalRevenue": 404625,
+    "avgRevenue": 4129,
+    "medianPrice": 16.99,
+    "priceBand": "$12.6 - $27.22",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0GKGN81L9",
+      "title": "3.7V 2600mAh 18650 Rechargeable Li-ion Battery with Jst XH2.54/2P Connector Plug Wires for DIY Electronics, Toys, Lighting,Bluetooth Devices and More - 2 Pack",
+      "brand": "XINLANTECH",
+      "price": 21.99,
+      "salesParent": 1538,
+      "revenue": 33820.62,
+      "rating": 3.8,
+      "reviews": 16
+    },
+    {
+      "rank": 2,
+      "asin": "B0HG9HMQ3N",
+      "title": "2-PACK Battery",
+      "brand": "Generic",
+      "price": 16.95,
+      "salesParent": 1918,
+      "revenue": 32510.1,
+      "rating": 3.9,
+      "reviews": 39
+    },
+    {
+      "rank": 3,
+      "asin": "B0BSLT62K6",
+      "title": "Authentic Samsung25R 3.7V Flat Top (4 Pack)",
+      "brand": "SOOCOOL",
+      "price": 32.67,
+      "salesParent": 899,
+      "revenue": 29370.33,
+      "rating": 4.3,
+      "reviews": 27
+    },
+    {
+      "rank": 4,
+      "asin": "B0HN4M1212",
+      "title": "8Count Replacement Battery",
+      "brand": "BENKIA",
+      "price": 29.99,
+      "salesParent": 573,
+      "revenue": 17184.27,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "rank": 5,
+      "asin": "B0FR9GH966",
+      "title": "4pcs 3.7V 2000mAh Lithium Polymer Rechargeable Battery 1S 1C LiPo Battery with PH 2.0mm Connector Integrated Protection Circuit for Arduino ESP32 Development Board for Speaker Wireless Device",
+      "brand": "JLJLUP",
+      "price": 23.99,
+      "salesParent": 711,
+      "revenue": 17056.89,
+      "rating": 4.5,
+      "reviews": 69
+    },
+    {
+      "rank": 6,
+      "asin": "B0FH9XHXRT",
+      "title": "3.7V Lipo Battery 3000mAh Rechargeable Lithium Polymer Batteries Pack with Wire JST1.25mm Connector Integrated Protection Circuit for Arduino ESP32 Development Board for Speaker Wireless Device",
+      "brand": "JLJLUP",
+      "price": 9.99,
+      "salesParent": 1561,
+      "revenue": 15594.39,
+      "rating": 4.6,
+      "reviews": 143
+    },
+    {
+      "rank": 7,
+      "asin": "B0FKNGM54G",
+      "title": "Shure SB900C Rechargeable Lithium-Ion Battery – Compatible with ULX-D Transmitters, Up to 12 Hours Runtime, Charger Sold Separately (SB900C)",
+      "brand": "Shure",
+      "price": 120.0,
+      "salesParent": 111,
+      "revenue": 13303.35,
+      "rating": 4.6,
+      "reviews": 12
+    },
+    {
+      "rank": 8,
+      "asin": "B0HN4RHRZ6",
+      "title": "4Count Replacement Battery",
+      "brand": "BENKIA",
+      "price": 20.99,
+      "salesParent": 561,
+      "revenue": 11775.39,
+      "rating": null,
+      "reviews": null
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -28,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -28,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 404625,
+    "priorHeadRevenue": 558285,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 98,
+      "newCount": 52,
+      "pct": 53,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 48,
+      "brandCount": 58,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.31,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0GKGN81L9",
+        "title": "3.7V 2600mAh 18650 Rechargeable Li-ion Battery with Jst XH2.54/2P Connector Plug Wires for DIY Electronics, Toys, Lighting,Bluetooth Devices and More - 2 Pack",
+        "rating": 3.8,
+        "reviews": 16
+      },
+      {
+        "rank": 2,
+        "asin": "B0HG9HMQ3N",
+        "title": "2-PACK Battery",
+        "rating": 3.9,
+        "reviews": 39
+      },
+      {
+        "rank": 3,
+        "asin": "B0BSLT62K6",
+        "title": "Authentic Samsung25R 3.7V Flat Top (4 Pack)",
+        "rating": 4.3,
+        "reviews": 27
+      },
+      {
+        "rank": 4,
+        "asin": "B0HN4M1212",
+        "title": "8Count Replacement Battery",
+        "rating": null,
+        "reviews": null
+      },
+      {
+        "rank": 5,
+        "asin": "B0FR9GH966",
+        "title": "4pcs 3.7V 2000mAh Lithium Polymer Rechargeable Battery 1S 1C LiPo Battery with PH 2.0mm Connector Integrated Protection Circuit for Arduino ESP32 Development Board for Speaker Wireless Device",
+        "rating": 4.5,
+        "reviews": 69
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:15342811:15745581:10112773011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

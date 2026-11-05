@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3774071",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins, Minerals & Supplements > Digestive Supplements > Probiotics",
+  "categoryPathCn": "健康与家居 > 身、泳和附剂 > 补充补充剂 > 查看",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 52085921,
+    "avgRevenue": 520859,
+    "medianPrice": 29.97,
+    "priceBand": "$23.16 - $39.95",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0CMJR4XGR",
+      "title": "Seed DS-01 Daily Synbiotic - Adult Probiotic + Prebiotic - 30-Days with Jar",
+      "brand": "Seed",
+      "price": 59.99,
+      "salesParent": 83547,
+      "revenue": 5011984.5,
+      "rating": 4.4,
+      "reviews": 8378
+    },
+    {
+      "rank": 2,
+      "asin": "B079H53D2B",
+      "title": "Physician's CHOICE Probiotics 60 Billion CFU - 10 Strains + Organic Prebiotics - Immune, Digestive &amp; Gut Health - Supports Occasional Constipation, Diarrhea, Gas &amp; Bloating - for Women &amp; Men - 30ct",
+      "brand": "Physician's CHOICE",
+      "price": 19.99,
+      "salesParent": 223147,
+      "revenue": 4603522.5,
+      "rating": 4.6,
+      "reviews": 145986
+    },
+    {
+      "rank": 3,
+      "asin": "B00Y8MP4G6",
+      "title": "Garden of Life Dr. Formulated Once Daily Women's Probiotics, 50B CFU, 30ct",
+      "brand": "Garden of Life",
+      "price": 26.69,
+      "salesParent": 129927,
+      "revenue": 3446963.5,
+      "rating": 4.6,
+      "reviews": 60557
+    },
+    {
+      "rank": 4,
+      "asin": "B01NB0G1V8",
+      "title": "Florastor Probiotic for Digestive and Immune Health, 100 Capsules",
+      "brand": "Florastor",
+      "price": 67.99,
+      "salesParent": 47545,
+      "revenue": 2868390.0,
+      "rating": 4.6,
+      "reviews": 16701
+    },
+    {
+      "rank": 5,
+      "asin": "B07B8BSGPL",
+      "title": "Physician's CHOICE Probiotics for Women - PH Balance, Digestive, UT, &amp; Feminine Health - 50 Billion CFU - 6 Unique Strains for Her - Organic Prebiotics, Cranberry Extract+ - Women Probiotic - 30 CT",
+      "brand": "Physician's CHOICE",
+      "price": 18.99,
+      "salesParent": 108305,
+      "revenue": 2465021.75,
+      "rating": 4.6,
+      "reviews": 57590
+    },
+    {
+      "rank": 6,
+      "asin": "B08Y66H6B7",
+      "title": "Culturelle Pro Strength Probiotics for Digestive Gut Health*, 12B CFU, 60ct",
+      "brand": "Culturelle",
+      "price": 30.99,
+      "salesParent": 62603,
+      "revenue": 1824251.38,
+      "rating": 4.7,
+      "reviews": 16106
+    },
+    {
+      "rank": 7,
+      "asin": "B0BX7C6H99",
+      "title": "ZBiotics Pre-Alcohol Probiotic — Drink Responsibly, for an Easier Tomorrow",
+      "brand": "ZBiotics",
+      "price": 36.0,
+      "salesParent": 48900,
+      "revenue": 1760400.0,
+      "rating": 4.6,
+      "reviews": 4598
+    },
+    {
+      "rank": 8,
+      "asin": "B08B7BWHJ8",
+      "title": "Align Probiotic, Pro Formula, Probiotics for Women and Men, Probiotics for Digestive Health, Men and Womens Probiotic Capsules Help Relieve Occasional Bloating &amp; Gas*, 63 Capsules",
+      "brand": "Align",
+      "price": 59.99,
+      "salesParent": 24183,
+      "revenue": 1466215.38,
+      "rating": 4.7,
+      "reviews": 10951
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 21,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 21,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 52085921,
+    "priorHeadRevenue": 43007556,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 5,
+      "pct": 5,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 49,
+      "brandCount": 59,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.58,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0CMJR4XGR",
+        "title": "Seed DS-01 Daily Synbiotic - Adult Probiotic + Prebiotic - 30-Days with Jar",
+        "rating": 4.4,
+        "reviews": 8378
+      },
+      {
+        "rank": 2,
+        "asin": "B079H53D2B",
+        "title": "Physician's CHOICE Probiotics 60 Billion CFU - 10 Strains + Organic Prebiotics - Immune, Digestive &amp; Gut Health - Supports Occasional Constipation, Diarrhea, Gas &amp; Bloating - for Women &amp; Men - 30ct",
+        "rating": 4.6,
+        "reviews": 145986
+      },
+      {
+        "rank": 3,
+        "asin": "B00Y8MP4G6",
+        "title": "Garden of Life Dr. Formulated Once Daily Women's Probiotics, 50B CFU, 30ct",
+        "rating": 4.6,
+        "reviews": 60557
+      },
+      {
+        "rank": 4,
+        "asin": "B01NB0G1V8",
+        "title": "Florastor Probiotic for Digestive and Immune Health, 100 Capsules",
+        "rating": 4.6,
+        "reviews": 16701
+      },
+      {
+        "rank": 5,
+        "asin": "B07B8BSGPL",
+        "title": "Physician's CHOICE Probiotics for Women - PH Balance, Digestive, UT, &amp; Feminine Health - 50 Billion CFU - 6 Unique Strains for Her - Organic Prebiotics, Cranberry Extract+ - Women Probiotic - 30 CT",
+        "rating": 4.6,
+        "reviews": 57590
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:23675621011:6942464011:3774071",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

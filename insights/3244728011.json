@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3244728011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Remote & App Controlled Vehicles & Parts > Remote & App Controlled Vehicles > Trains",
+  "categoryPathCn": "玩具 > 遥控 > 遥控 > 火车车头",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 51,
+    "totalRevenue": 94879,
+    "avgRevenue": 1860,
+    "medianPrice": 93.94,
+    "priceBand": "$31.99 - $127.64",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B07QHMFXM1",
+      "title": "Lionel Disney Christmas Express O Gauge Model Train Set",
+      "brand": "Lionel",
+      "price": 398.84,
+      "salesParent": 103,
+      "revenue": 41085.67,
+      "rating": 4.4,
+      "reviews": 404
+    },
+    {
+      "rank": 2,
+      "asin": "B0FFT17RWJ",
+      "title": "Christmas Electric Remote Control Train Set with Smoke, Lights, Sound, Locomotive, Cars and Remote Carriage, 3 Smoke Outlets, USB Rechargeable, with Track, Under Christmas Tree, Gifts for Kids 3+",
+      "brand": "Cirmine",
+      "price": 59.99,
+      "salesParent": 225,
+      "revenue": 13497.75,
+      "rating": 4.8,
+      "reviews": 77
+    },
+    {
+      "rank": 3,
+      "asin": "B0C24TYQYJ",
+      "title": "Lionel The Comet Christmas Freight Electric HO Gauge Model Train Set",
+      "brand": "Lionel",
+      "price": 388.84,
+      "salesParent": 28,
+      "revenue": 10887.52,
+      "rating": 4.7,
+      "reviews": 5
+    },
+    {
+      "rank": 4,
+      "asin": "B0BSK78Y6P",
+      "title": "Lionel Fast Fright Halloween LionChief Bluetooth 5.0 Electric O Gauge Train Set with Remote",
+      "brand": "Lionel",
+      "price": 439.99,
+      "salesParent": 18,
+      "revenue": 8225.64,
+      "rating": 3.6,
+      "reviews": 7
+    },
+    {
+      "rank": 5,
+      "asin": "B0C24VVX2L",
+      "title": "Lionel Southern Pacific Berkshire Freight Electric HO Gauge Model Train Set",
+      "brand": "Lionel",
+      "price": 368.84,
+      "salesParent": 21,
+      "revenue": 7745.64,
+      "rating": 4.0,
+      "reviews": 5
+    },
+    {
+      "rank": 6,
+      "asin": "B0FZL6H84Z",
+      "title": "Christmas Electric Remote Control Train Set with Smoke, Lights, Sound, Locomotive Train Model with Track, Remote Carriage, USB Rechargeable, Gifts for Train Lovers",
+      "brand": "Rakeetolly",
+      "price": 59.99,
+      "salesParent": 49,
+      "revenue": 2939.51,
+      "rating": 5.0,
+      "reviews": 11
+    },
+    {
+      "rank": 7,
+      "asin": "B0HGXD3DVZ",
+      "title": "Hanging Christmas Train Set with Smoke/Light/Sound–Rechargeable",
+      "brand": "YESHIN",
+      "price": 49.99,
+      "salesParent": 43,
+      "revenue": 2149.57,
+      "rating": 4.8,
+      "reviews": 7
+    },
+    {
+      "rank": 8,
+      "asin": "B0H88D26QR",
+      "title": "Christmas Electric Remote Control Train Set with Smoke, Lights, Sound, Locomotive Train Model with Track, Remote Carriage, USB Rechargeable, Gifts for Train Lovers",
+      "brand": "Heligotech",
+      "price": 58.99,
+      "salesParent": 29,
+      "revenue": 1653.58,
+      "rating": 4.8,
+      "reviews": 8
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": null,
+    "direction": "flat",
+    "comparable": false,
+    "rawYoyPct": 302,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 94879,
+    "priorHeadRevenue": 23587,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 51,
+      "newCount": 29,
+      "pct": 57,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 95,
+      "brandCount": 30,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.37,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B07QHMFXM1",
+        "title": "Lionel Disney Christmas Express O Gauge Model Train Set",
+        "rating": 4.4,
+        "reviews": 404
+      },
+      {
+        "rank": 2,
+        "asin": "B0FFT17RWJ",
+        "title": "Christmas Electric Remote Control Train Set with Smoke, Lights, Sound, Locomotive, Cars and Remote Carriage, 3 Smoke Outlets, USB Rechargeable, with Track, Under Christmas Tree, Gifts for Kids 3+",
+        "rating": 4.8,
+        "reviews": 77
+      },
+      {
+        "rank": 3,
+        "asin": "B0C24TYQYJ",
+        "title": "Lionel The Comet Christmas Freight Electric HO Gauge Model Train Set",
+        "rating": 4.7,
+        "reviews": 5
+      },
+      {
+        "rank": 4,
+        "asin": "B0BSK78Y6P",
+        "title": "Lionel Fast Fright Halloween LionChief Bluetooth 5.0 Electric O Gauge Train Set with Remote",
+        "rating": 3.6,
+        "reviews": 7
+      },
+      {
+        "rank": 5,
+        "asin": "B0C24VVX2L",
+        "title": "Lionel Southern Pacific Berkshire Freight Electric HO Gauge Model Train Set",
+        "rating": 4.0,
+        "reviews": 5
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:6925830011:166583011:3244728011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

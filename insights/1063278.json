@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "1063278",
+  "level": "L2",
+  "categoryPathEn": "Home & Kitchen > Home Décor Products",
+  "categoryPathCn": "家居用品 > 家居装饰",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 90,
+    "totalRevenue": 114694874,
+    "avgRevenue": 1274387,
+    "medianPrice": 61.81,
+    "priceBand": "$27.97 - $107.34",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0GHH8FPTH",
+      "title": "Hatch Restore 3 Sunrise Alarm Clock, Sound Machine, Smart Light (Cocoa) - White Noise, Screen-Free Sleep Routine (Pack of 2)",
+      "brand": "Hatch Baby",
+      "price": 339.98,
+      "salesParent": 23063,
+      "revenue": 7840959.0,
+      "rating": null,
+      "reviews": 3406
+    },
+    {
+      "rank": 2,
+      "asin": "B0GHHS1JT4",
+      "title": "Hatch Restore 3 Sunrise Alarm Clock, Sound Machine, Smart Light (Greige) - White Noise, Screen-Free Sleep Routine (Pack of 2)",
+      "brand": "Hatch Baby",
+      "price": 339.98,
+      "salesParent": 22750,
+      "revenue": 7734545.0,
+      "rating": 4.2,
+      "reviews": 3406
+    },
+    {
+      "rank": 3,
+      "asin": "B0GHHGZ7V8",
+      "title": "Hatch Restore 3 Sunrise Alarm Clock, Sound Machine, Smart Light (Putty) - White Noise, Screen-Free Sleep Routine (Pack of 2)",
+      "brand": "Hatch Baby",
+      "price": 339.98,
+      "salesParent": 22218,
+      "revenue": 7553676.0,
+      "rating": 4.2,
+      "reviews": 3406
+    },
+    {
+      "rank": 4,
+      "asin": "B0DLLSCVZW",
+      "title": "Hatch Restore 3 | Science-Backed Sleep Audio, Circadian Lighting (Putty)",
+      "brand": "Hatch Baby",
+      "price": 149.99,
+      "salesParent": 26227,
+      "revenue": 4127867.5,
+      "rating": 4.2,
+      "reviews": 3406
+    },
+    {
+      "rank": 5,
+      "asin": "B0CS6JGXBS",
+      "title": "RELEANY Washable Area Rug, 8'x10', Brick/Brown/Green",
+      "brand": "RELEANY",
+      "price": 89.99,
+      "salesParent": 44739,
+      "revenue": 3924057.75,
+      "rating": 4.5,
+      "reviews": 10872
+    },
+    {
+      "rank": 6,
+      "asin": "B0GY88MP8P",
+      "title": "upsimples 2 Pack Picture Frame A3, Wood Look Picture Frame, Natural",
+      "brand": "upsimples",
+      "price": 77.76,
+      "salesParent": 41499,
+      "revenue": 3226962.25,
+      "rating": 4.4,
+      "reviews": 44085
+    },
+    {
+      "rank": 7,
+      "asin": "B0BZQFHPDJ",
+      "title": "RUGPADUSA - Dual Surface - 8'x10' - 1/2&quot; Thick - Felt + Rubber - Non-Slip Backing Rug Pad - Adds Comfort and Protection - for Hard Surface Floors",
+      "brand": "RUGPADUSA",
+      "price": 129.95,
+      "salesParent": 17710,
+      "revenue": 2336480.25,
+      "rating": 4.5,
+      "reviews": 13178
+    },
+    {
+      "rank": 8,
+      "asin": "B0BR3STN87",
+      "title": "Linen Total Blackout Curtains for Bedroom Living Room 84 Inch, Cream",
+      "brand": "100% Blackout Shield",
+      "price": 32.97,
+      "salesParent": 58344,
+      "revenue": 1949856.38,
+      "rating": 4.5,
+      "reviews": 9259
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 32,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 32,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 114694874,
+    "priorHeadRevenue": 87008330,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 90,
+      "newCount": 39,
+      "pct": 43,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 44,
+      "brandCount": 58,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.44,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0GHH8FPTH",
+        "title": "Hatch Restore 3 Sunrise Alarm Clock, Sound Machine, Smart Light (Cocoa) - White Noise, Screen-Free Sleep Routine (Pack of 2)",
+        "rating": null,
+        "reviews": 3406
+      },
+      {
+        "rank": 2,
+        "asin": "B0GHHS1JT4",
+        "title": "Hatch Restore 3 Sunrise Alarm Clock, Sound Machine, Smart Light (Greige) - White Noise, Screen-Free Sleep Routine (Pack of 2)",
+        "rating": 4.2,
+        "reviews": 3406
+      },
+      {
+        "rank": 3,
+        "asin": "B0GHHGZ7V8",
+        "title": "Hatch Restore 3 Sunrise Alarm Clock, Sound Machine, Smart Light (Putty) - White Noise, Screen-Free Sleep Routine (Pack of 2)",
+        "rating": 4.2,
+        "reviews": 3406
+      },
+      {
+        "rank": 4,
+        "asin": "B0DLLSCVZW",
+        "title": "Hatch Restore 3 | Science-Backed Sleep Audio, Circadian Lighting (Putty)",
+        "rating": 4.2,
+        "reviews": 3406
+      },
+      {
+        "rank": 5,
+        "asin": "B0CS6JGXBS",
+        "title": "RELEANY Washable Area Rug, 8'x10', Brick/Brown/Green",
+        "rating": 4.5,
+        "reviews": 10872
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "1055398:1063278",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

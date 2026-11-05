@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "11062741",
+  "level": "L2",
+  "categoryPathEn": "Beauty & Personal Care > Tools & Accessories",
+  "categoryPathCn": "美容与护理 > 工具及配件",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 97,
+    "totalRevenue": 53246843,
+    "avgRevenue": 548937,
+    "medianPrice": 19.99,
+    "priceBand": "$9.98 - $37.0",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0DYG4Q6PL",
+      "title": "Shark CryoGlow LED Face Mask, Red Light Therapy, Under-Eye Cooling, FW312PL",
+      "brand": "Shark",
+      "price": 348.99,
+      "salesParent": 14502,
+      "revenue": 4657317.0,
+      "rating": 4.4,
+      "reviews": 1156
+    },
+    {
+      "rank": 2,
+      "asin": "B0GS8YKMN3",
+      "title": "medicube Booster Pro X2™ - 7 in 1 Glow Beauty Device, 2X Glow Care, Pink",
+      "brand": "medicube",
+      "price": 179.0,
+      "salesParent": 15493,
+      "revenue": 3489953.0,
+      "rating": 4.5,
+      "reviews": 1065
+    },
+    {
+      "rank": 3,
+      "asin": "B0DK8DCVK7",
+      "title": "Goddvenus Lash Clusters Kit Wispy Eyelash Clusters Lashes Natural DIY Lash Extension Kit 10-16mm Cluster Eyelash Extensions Kit 300pcs C Curl Individual Lashes Cluster Eyelash (No Tweezers)",
+      "brand": "Goddvenus",
+      "price": 14.99,
+      "salesParent": 123858,
+      "revenue": 1856631.38,
+      "rating": 4.4,
+      "reviews": 12733
+    },
+    {
+      "rank": 4,
+      "asin": "B0D7N2KWLH",
+      "title": "iRestore Red Light Therapy for Face, LED Face Mask for Wrinkles, 360 LEDs",
+      "brand": "iRestore",
+      "price": 379.0,
+      "salesParent": 4481,
+      "revenue": 1750188.88,
+      "rating": 4.5,
+      "reviews": 1063
+    },
+    {
+      "rank": 5,
+      "asin": "B0H2DKSJW9",
+      "title": "Lash Cluster Glue, Waterproof Bond and Seal Lash Glue, Black - 2PCS",
+      "brand": "GAQQI",
+      "price": 21.99,
+      "salesParent": 64438,
+      "revenue": 1416991.62,
+      "rating": 4.6,
+      "reviews": 5614
+    },
+    {
+      "rank": 6,
+      "asin": "B0HHQPQTBF",
+      "title": "Amazon Essentials Exfoliating Cotton Rounds (Previously Amazon Basics), 100 Count (Pack of 24)",
+      "brand": "Amazon Essentials",
+      "price": 103.44,
+      "salesParent": 12431,
+      "revenue": 1285862.62,
+      "rating": 4.5,
+      "reviews": 5629
+    },
+    {
+      "rank": 7,
+      "asin": "B09541P9WH",
+      "title": "Amazon Essentials Cotton Swabs, 500 Count (Previously Amazon Basics)",
+      "brand": "Amazon Essentials",
+      "price": 2.55,
+      "salesParent": 390125,
+      "revenue": 990917.5,
+      "rating": 4.7,
+      "reviews": 84229
+    },
+    {
+      "rank": 8,
+      "asin": "B09542G9ZN",
+      "title": "Amazon Essentials 100% Cotton Rounds, 100 Count (Previously Amazon Basics)",
+      "brand": "Amazon Essentials",
+      "price": 3.21,
+      "salesParent": 321417,
+      "revenue": 967465.19,
+      "rating": 4.7,
+      "reviews": 55673
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 40,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 40,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 53246843,
+    "priorHeadRevenue": 37954338,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 97,
+      "newCount": 28,
+      "pct": 29,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 30,
+      "brandCount": 76,
+      "level": "分散",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.44,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0DYG4Q6PL",
+        "title": "Shark CryoGlow LED Face Mask, Red Light Therapy, Under-Eye Cooling, FW312PL",
+        "rating": 4.4,
+        "reviews": 1156
+      },
+      {
+        "rank": 2,
+        "asin": "B0GS8YKMN3",
+        "title": "medicube Booster Pro X2™ - 7 in 1 Glow Beauty Device, 2X Glow Care, Pink",
+        "rating": 4.5,
+        "reviews": 1065
+      },
+      {
+        "rank": 3,
+        "asin": "B0DK8DCVK7",
+        "title": "Goddvenus Lash Clusters Kit Wispy Eyelash Clusters Lashes Natural DIY Lash Extension Kit 10-16mm Cluster Eyelash Extensions Kit 300pcs C Curl Individual Lashes Cluster Eyelash (No Tweezers)",
+        "rating": 4.4,
+        "reviews": 12733
+      },
+      {
+        "rank": 4,
+        "asin": "B0D7N2KWLH",
+        "title": "iRestore Red Light Therapy for Face, LED Face Mask for Wrinkles, 360 LEDs",
+        "rating": 4.5,
+        "reviews": 1063
+      },
+      {
+        "rank": 5,
+        "asin": "B0H2DKSJW9",
+        "title": "Lash Cluster Glue, Waterproof Bond and Seal Lash Glue, Black - 2PCS",
+        "rating": 4.6,
+        "reviews": 5614
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760911:11062741",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

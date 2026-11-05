@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3766301",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins, Minerals & Supplements > Herbal Supplements > Milk Thistle",
+  "categoryPathCn": "健康与家居 > 身、泳和附剂 > 草本补充 > 奶蓟",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 15244969,
+    "avgRevenue": 152450,
+    "medianPrice": 28.57,
+    "priceBand": "$22.99 - $37.46",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0CNSCNJB5",
+      "title": "Dose for Your Liver Cleanse Detox &amp; Repair, 16oz Bottle, 3 Pack",
+      "brand": "Dose for Your Liver",
+      "price": 99.0,
+      "salesParent": 55149,
+      "revenue": 5459751.0,
+      "rating": 4.6,
+      "reviews": 8429
+    },
+    {
+      "rank": 2,
+      "asin": "B0H6CRBG8V",
+      "title": "Uvola Milk Thistle Liver Support Supplement, Vegan, 60 Capsules, 2 Pack",
+      "brand": "TryUvola",
+      "price": 39.99,
+      "salesParent": 15421,
+      "revenue": 616531.56,
+      "rating": 4.1,
+      "reviews": 772
+    },
+    {
+      "rank": 3,
+      "asin": "B079JX3FMC",
+      "title": "Bronson Milk Thistle Silymarin Marianum &amp; Dandelion Extract, 120 Capsules",
+      "brand": "Bronson",
+      "price": 9.99,
+      "salesParent": 58991,
+      "revenue": 563364.06,
+      "rating": 4.7,
+      "reviews": 41486
+    },
+    {
+      "rank": 4,
+      "asin": "B089C71Q18",
+      "title": "Hepagard Natural Liver Support Supplement with NAC, Vegan, Gluten-Free",
+      "brand": "Hepagard",
+      "price": 39.95,
+      "salesParent": 11025,
+      "revenue": 440448.75,
+      "rating": 4.3,
+      "reviews": 4280
+    },
+    {
+      "rank": 5,
+      "asin": "B099MNTRZW",
+      "title": "Cheers Restore | Supplement with DHM, L-Cysteine, Milk Thistle | 12 Doses",
+      "brand": "Cheers",
+      "price": 34.99,
+      "salesParent": 11098,
+      "revenue": 388319.03,
+      "rating": 4.3,
+      "reviews": 809
+    },
+    {
+      "rank": 6,
+      "asin": "B0019LWV92",
+      "title": "Now Supplements, Glutathione 500 mg, Detoxification Support*, 60 Veg Caps",
+      "brand": "NOW Foods",
+      "price": 21.99,
+      "salesParent": 15739,
+      "revenue": 356173.56,
+      "rating": 4.6,
+      "reviews": 10628
+    },
+    {
+      "rank": 7,
+      "asin": "B07VQVMZBL",
+      "title": "Cheers Liver Combo | Restore (12 Doses) + Protect (30 Doses) | Supplements",
+      "brand": "Cheers",
+      "price": 59.99,
+      "salesParent": 4756,
+      "revenue": 285312.44,
+      "rating": 4.4,
+      "reviews": 946
+    },
+    {
+      "rank": 8,
+      "asin": "B0BG7M59NJ",
+      "title": "Milk Thistle Liver Health Support Supplement with NAC &amp; TUDCA Capsules",
+      "brand": "Clean Nutraceuticals",
+      "price": 29.95,
+      "salesParent": 9287,
+      "revenue": 278145.66,
+      "rating": 4.6,
+      "reviews": 4817
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 1,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 1,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 15244969,
+    "priorHeadRevenue": 15059256,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 30,
+      "pct": 30,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 54,
+      "brandCount": 81,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.43,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0CNSCNJB5",
+        "title": "Dose for Your Liver Cleanse Detox &amp; Repair, 16oz Bottle, 3 Pack",
+        "rating": 4.6,
+        "reviews": 8429
+      },
+      {
+        "rank": 2,
+        "asin": "B0H6CRBG8V",
+        "title": "Uvola Milk Thistle Liver Support Supplement, Vegan, 60 Capsules, 2 Pack",
+        "rating": 4.1,
+        "reviews": 772
+      },
+      {
+        "rank": 3,
+        "asin": "B079JX3FMC",
+        "title": "Bronson Milk Thistle Silymarin Marianum &amp; Dandelion Extract, 120 Capsules",
+        "rating": 4.7,
+        "reviews": 41486
+      },
+      {
+        "rank": 4,
+        "asin": "B089C71Q18",
+        "title": "Hepagard Natural Liver Support Supplement with NAC, Vegan, Gluten-Free",
+        "rating": 4.3,
+        "reviews": 4280
+      },
+      {
+        "rank": 5,
+        "asin": "B099MNTRZW",
+        "title": "Cheers Restore | Supplement with DHM, L-Cysteine, Milk Thistle | 12 Doses",
+        "rating": 4.3,
+        "reviews": 809
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:23675621011:3764461:3766301",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

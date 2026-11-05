@@ -1,0 +1,140 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23466452011",
+  "level": "L4",
+  "categoryPathEn": "Clothing, Shoes & Jewelry > Sport Specific Clothing > Ice Skating > Men",
+  "categoryPathCn": "服装、鞋履和珠宝 > 运动专用服装 > 溜冰 > 男士",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "insufficient",
+  "marketSize": {
+    "sampleCount": 4,
+    "totalRevenue": 150,
+    "avgRevenue": 37,
+    "medianPrice": 76.24,
+    "priceBand": "$17.11 - $146.17",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0B4MZCTDD",
+      "title": "LIUHUO Men's Suit Style Figure Skating Clothing Three-color Competition Performance Training",
+      "brand": "LIUHUO",
+      "price": 149.9,
+      "salesParent": 1,
+      "revenue": 149.9,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "rank": 2,
+      "asin": "B0D56P1TRH",
+      "title": "Men's Red Skating Performance Clothing Comfortable Fit Stylish Design Ideal for Skating Enthusiasts",
+      "brand": "JoyCan",
+      "price": 135.0,
+      "salesParent": 0,
+      "revenue": 0.0,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "rank": 3,
+      "asin": "B0DBQVK7D8",
+      "title": "Camo Sweatpants Men Casual Gargo Sweatpants Drawstring Sport Pants with Pockets Cinch Bottom Pants Light Track Pant",
+      "brand": "Generic",
+      "price": 16.99,
+      "salesParent": 0,
+      "revenue": 0.0,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "rank": 4,
+      "asin": "B0FPLNY9HD",
+      "title": "Men's Black Figure Skating Training Pants Boys' Ice Skating Leggings Warm Practice Training Wear",
+      "brand": "YOOJOO",
+      "price": 17.49,
+      "salesParent": 0,
+      "revenue": 0.0,
+      "rating": null,
+      "reviews": null
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": null,
+    "direction": "flat",
+    "comparable": null,
+    "rawYoyPct": null,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 150,
+    "priorHeadRevenue": 0,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 4,
+      "newCount": 1,
+      "pct": 25,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 100,
+      "brandCount": 4,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": null,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0B4MZCTDD",
+        "title": "LIUHUO Men's Suit Style Figure Skating Clothing Three-color Competition Performance Training",
+        "rating": null,
+        "reviews": null
+      },
+      {
+        "rank": 2,
+        "asin": "B0D56P1TRH",
+        "title": "Men's Red Skating Performance Clothing Comfortable Fit Stylish Design Ideal for Skating Enthusiasts",
+        "rating": null,
+        "reviews": null
+      },
+      {
+        "rank": 3,
+        "asin": "B0DBQVK7D8",
+        "title": "Camo Sweatpants Men Casual Gargo Sweatpants Drawstring Sport Pants with Pockets Cinch Bottom Pants Light Track Pant",
+        "rating": null,
+        "reviews": null
+      },
+      {
+        "rank": 4,
+        "asin": "B0FPLNY9HD",
+        "title": "Men's Black Figure Skating Training Pants Boys' Ice Skating Leggings Warm Practice Training Wear",
+        "rating": null,
+        "reviews": null
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "7141123011:23575629011:10208069011:23466452011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

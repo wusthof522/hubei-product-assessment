@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23564882011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Dolls & Accessories > Doll Accessories > Clothing & Accessories Sets",
+  "categoryPathCn": "玩具 > 娃娃 > 娃娃配件 > 服装和配饰套装",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 1752960,
+    "avgRevenue": 17530,
+    "medianPrice": 23.39,
+    "priceBand": "$16.98 - $28.96",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0H5M522B5",
+      "title": "American Girl Truly Me 18-inch Doll #122 with Brown Eyes, Straight Dark-Brown Hair, Tan Skin + Best Sleepover Ever! Sleeping Bag Set for Two, Ages 6+ Bundle",
+      "brand": "American Girl",
+      "price": 180.82,
+      "salesParent": 937,
+      "revenue": 169428.34,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "rank": 2,
+      "asin": "B082N2TFZG",
+      "title": "138 Pcs Doll Clothes and Accessories, 5 Wedding Gowns 9 Fashion Dresses 3 Tops 3 Pants 3 Bikini Swimsuits 20 Shoes for 11.5 inch Doll Christmas Stocking Stuffers Girls Gift Age 5-7 8-10",
+      "brand": "BYMORE",
+      "price": 17.99,
+      "salesParent": 8078,
+      "revenue": 145323.22,
+      "rating": 4.6,
+      "reviews": 21636
+    },
+    {
+      "rank": 3,
+      "asin": "B0HKT5465V",
+      "title": "Seasonal Holiday Décor Christmas Elf Decorations Accessories Decorative Elf Clothing &amp; Accessories",
+      "brand": "Generic",
+      "price": 18.99,
+      "salesParent": 2829,
+      "revenue": 50752.26,
+      "rating": 4.8,
+      "reviews": 18
+    },
+    {
+      "rank": 4,
+      "asin": "B0BZGX9CR8",
+      "title": "150 Pcs Doll Clothes and Accessories with Doll,Doll Playset for Girls",
+      "brand": "MINIFUN",
+      "price": 19.99,
+      "salesParent": 2524,
+      "revenue": 50631.44,
+      "rating": 4.4,
+      "reviews": 3154
+    },
+    {
+      "rank": 5,
+      "asin": "B0G43Y53TK",
+      "title": "Barbie Fashionistas Style Doll #249",
+      "brand": "Barbie",
+      "price": 8.09,
+      "salesParent": 4471,
+      "revenue": 45067.68,
+      "rating": 4.8,
+      "reviews": 351
+    },
+    {
+      "rank": 6,
+      "asin": "B0F876Q7RB",
+      "title": "American 18 Inch Doll Makeup Accessories and Clothes Outfit Sets (No Dolls)",
+      "brand": "ZQDOLL",
+      "price": 23.39,
+      "salesParent": 1660,
+      "revenue": 41699.2,
+      "rating": 4.6,
+      "reviews": 408
+    },
+    {
+      "rank": 7,
+      "asin": "B07KXV22BM",
+      "title": "Disney Frozen Elsa &amp; Anna Toy Dolls &amp; Figures, 19-Piece Play Set",
+      "brand": "JAKKS Pacific",
+      "price": 29.43,
+      "salesParent": 1255,
+      "revenue": 40009.4,
+      "rating": 4.8,
+      "reviews": 3517
+    },
+    {
+      "rank": 8,
+      "asin": "B087G8GNSS",
+      "title": "195 Pcs Doll Clothes and Accessories Kit, Include Princess Gowns, Fashion Skirt, Slip Dresses, Tops, Pants, Bikini Swimsuits, Shoes, Crowns, Necklaces, Glasses, Hangers in Gift Box for 11&quot;-12&quot; Dolls",
+      "brand": "BYMORE",
+      "price": 17.98,
+      "salesParent": 2149,
+      "revenue": 38639.02,
+      "rating": 4.2,
+      "reviews": 3874
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -15,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -15,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1752960,
+    "priorHeadRevenue": 2058490,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 39,
+      "pct": 39,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 37,
+      "brandCount": 57,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.52,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0H5M522B5",
+        "title": "American Girl Truly Me 18-inch Doll #122 with Brown Eyes, Straight Dark-Brown Hair, Tan Skin + Best Sleepover Ever! Sleeping Bag Set for Two, Ages 6+ Bundle",
+        "rating": null,
+        "reviews": null
+      },
+      {
+        "rank": 2,
+        "asin": "B082N2TFZG",
+        "title": "138 Pcs Doll Clothes and Accessories, 5 Wedding Gowns 9 Fashion Dresses 3 Tops 3 Pants 3 Bikini Swimsuits 20 Shoes for 11.5 inch Doll Christmas Stocking Stuffers Girls Gift Age 5-7 8-10",
+        "rating": 4.6,
+        "reviews": 21636
+      },
+      {
+        "rank": 3,
+        "asin": "B0HKT5465V",
+        "title": "Seasonal Holiday Décor Christmas Elf Decorations Accessories Decorative Elf Clothing &amp; Accessories",
+        "rating": 4.8,
+        "reviews": 18
+      },
+      {
+        "rank": 4,
+        "asin": "B0BZGX9CR8",
+        "title": "150 Pcs Doll Clothes and Accessories with Doll,Doll Playset for Girls",
+        "rating": 4.4,
+        "reviews": 3154
+      },
+      {
+        "rank": 5,
+        "asin": "B0G43Y53TK",
+        "title": "Barbie Fashionistas Style Doll #249",
+        "rating": 4.8,
+        "reviews": 351
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166118011:166119011:23564882011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

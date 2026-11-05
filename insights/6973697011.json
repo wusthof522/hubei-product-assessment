@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "6973697011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Diet & Sports Nutrition > Sports Nutrition > Pre-Workout",
+  "categoryPathCn": "健康与家居 > 暮和喜欢 > 运动营养 > 锻炼前",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 22246300,
+    "avgRevenue": 222463,
+    "medianPrice": 38.97,
+    "priceBand": "$27.97 - $49.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0CKH2BCDV",
+      "title": "RAW Essential Pre-Workout Powder (Fruit Burst) - Chris Bumstead Sports Nutrition Supplement for Men &amp; Women - Preworkout Energy Powder with Caffeine, L-Citrulline, L-Tyrosine, &amp; Beta Alanine Blend",
+      "brand": "RAW",
+      "price": 29.78,
+      "salesParent": 39902,
+      "revenue": 1114861.88,
+      "rating": 4.6,
+      "reviews": 515
+    },
+    {
+      "rank": 2,
+      "asin": "B08ND5DF3S",
+      "title": "EHP Labs OxyShred Pre Workout Powder - Preworkout Powder with L Glutamine &amp; Acetyl L Carnitine, Energy Boost Drink - Cosmic Blast, 60 Servings",
+      "brand": "EHP Labs",
+      "price": 54.19,
+      "salesParent": 15356,
+      "revenue": 832141.62,
+      "rating": 4.5,
+      "reviews": 1394
+    },
+    {
+      "rank": 3,
+      "asin": "B0CJGSQ121",
+      "title": "Transparent Labs Bulk Pre Workout Powder - 30 Servings, Strawberry Lemonade",
+      "brand": "Transparent Labs",
+      "price": 49.99,
+      "salesParent": 12872,
+      "revenue": 643471.31,
+      "rating": 4.5,
+      "reviews": 403
+    },
+    {
+      "rank": 4,
+      "asin": "B09B4DWNYQ",
+      "title": "Nutricost Nitric Oxide Booster 2250mg, 180 Capsules, Gluten Free",
+      "brand": "Nutricost",
+      "price": 14.95,
+      "salesParent": 43391,
+      "revenue": 641318.94,
+      "rating": 4.5,
+      "reviews": 15095
+    },
+    {
+      "rank": 5,
+      "asin": "B0D9NKPH6Q",
+      "title": "GHOST Legend Pre-Workout Powder, Sonic Cherry Limeade, 30 Servings",
+      "brand": "GHOST",
+      "price": 44.99,
+      "salesParent": 13000,
+      "revenue": 584870.0,
+      "rating": 4.5,
+      "reviews": 1791
+    },
+    {
+      "rank": 6,
+      "asin": "B0BFBS6TSC",
+      "title": "C4 Original Pre Workout with 150mg Caffeine, Frozen Bombsicle, 30 Servings",
+      "brand": "C4",
+      "price": 29.15,
+      "salesParent": 18543,
+      "revenue": 540528.44,
+      "rating": 4.4,
+      "reviews": 377
+    },
+    {
+      "rank": 7,
+      "asin": "B0734CCWGR",
+      "title": "Cellucor C4 Sport Pre Workout Powder Fruit Punch - NSF Certified for Sport | 30 Servings, Packaging may vary.",
+      "brand": "C4",
+      "price": 21.0,
+      "salesParent": 28340,
+      "revenue": 528541.0,
+      "rating": 4.5,
+      "reviews": 9169
+    },
+    {
+      "rank": 8,
+      "asin": "B0DKQLLNGW",
+      "title": "ALPHA LION Core Pre Workout with Creatine for Performance, Beta Alanine for Muscle, L-Citrulline for Pump &amp; Tri-Source Caffeine for Sustained Energy (60 Servings, Razzle Mania)",
+      "brand": "ALPHA LION",
+      "price": 49.99,
+      "salesParent": 10870,
+      "revenue": 528173.31,
+      "rating": 4.5,
+      "reviews": 1204
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -28,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -28,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 22246300,
+    "priorHeadRevenue": 30932118,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 12,
+      "pct": 12,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 34,
+      "brandCount": 58,
+      "level": "分散",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.41,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0CKH2BCDV",
+        "title": "RAW Essential Pre-Workout Powder (Fruit Burst) - Chris Bumstead Sports Nutrition Supplement for Men &amp; Women - Preworkout Energy Powder with Caffeine, L-Citrulline, L-Tyrosine, &amp; Beta Alanine Blend",
+        "rating": 4.6,
+        "reviews": 515
+      },
+      {
+        "rank": 2,
+        "asin": "B08ND5DF3S",
+        "title": "EHP Labs OxyShred Pre Workout Powder - Preworkout Powder with L Glutamine &amp; Acetyl L Carnitine, Energy Boost Drink - Cosmic Blast, 60 Servings",
+        "rating": 4.5,
+        "reviews": 1394
+      },
+      {
+        "rank": 3,
+        "asin": "B0CJGSQ121",
+        "title": "Transparent Labs Bulk Pre Workout Powder - 30 Servings, Strawberry Lemonade",
+        "rating": 4.5,
+        "reviews": 403
+      },
+      {
+        "rank": 4,
+        "asin": "B09B4DWNYQ",
+        "title": "Nutricost Nitric Oxide Booster 2250mg, 180 Capsules, Gluten Free",
+        "rating": 4.5,
+        "reviews": 15095
+      },
+      {
+        "rank": 5,
+        "asin": "B0D9NKPH6Q",
+        "title": "GHOST Legend Pre-Workout Powder, Sonic Cherry Limeade, 30 Servings",
+        "rating": 4.5,
+        "reviews": 1791
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3764441:6973663011:6973697011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

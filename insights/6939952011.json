@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "6939952011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins, Minerals & Supplements > Amino Acids > L-Glutamine",
+  "categoryPathCn": "健康与家居 > 身、泳和附剂 > 设计 > 左旋麸醯胺酸",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 2889192,
+    "avgRevenue": 28892,
+    "medianPrice": 29.59,
+    "priceBand": "$19.99 - $45.21",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B00SHXE7VK",
+      "title": "Nutricost L-Glutamine Powder (500 Grams) Unflavored, 100 Servings, GMO-Free",
+      "brand": "Nutricost",
+      "price": 22.95,
+      "salesParent": 24589,
+      "revenue": 564317.56,
+      "rating": 4.6,
+      "reviews": 18174
+    },
+    {
+      "rank": 2,
+      "asin": "B000FGWDL8",
+      "title": "THORNE L-Glutamine Powder, Amino Acid Supplement, 90 Servings",
+      "brand": "THORNE",
+      "price": 67.0,
+      "salesParent": 3273,
+      "revenue": 219291.0,
+      "rating": 4.7,
+      "reviews": 913
+    },
+    {
+      "rank": 3,
+      "asin": "B076MBQDC1",
+      "title": "L-Theanine 200mg, Double Strength, Theanine Supplement, 120 Capsules",
+      "brand": "Double Wood Supplements",
+      "price": 19.95,
+      "salesParent": 6378,
+      "revenue": 127241.1,
+      "rating": 4.7,
+      "reviews": 1753
+    },
+    {
+      "rank": 4,
+      "asin": "B01N6E26ZX",
+      "title": "Pure Encapsulations L-Glutamine Powder, 8 Ounces",
+      "brand": "Pure Encapsulations",
+      "price": 55.0,
+      "salesParent": 2095,
+      "revenue": 115225.0,
+      "rating": 4.7,
+      "reviews": 1125
+    },
+    {
+      "rank": 5,
+      "asin": "B000VYZG0O",
+      "title": "Pure Encapsulations L-Glutamine 500 mg, 90 Capsules",
+      "brand": "Pure Encapsulations",
+      "price": 24.5,
+      "salesParent": 4699,
+      "revenue": 115125.5,
+      "rating": 4.6,
+      "reviews": 2260
+    },
+    {
+      "rank": 6,
+      "asin": "B0797N816M",
+      "title": "Thorne L-Glutamine, 500 mg per Capsule, Amino Acid Supplement, 90 Capsules",
+      "brand": "THORNE",
+      "price": 26.0,
+      "salesParent": 3223,
+      "revenue": 83121.17,
+      "rating": 4.6,
+      "reviews": 1718
+    },
+    {
+      "rank": 7,
+      "asin": "B00E7TMOOA",
+      "title": "BulkSupplements.com L-Glutamine Powder - 500g (Pack of 1)",
+      "brand": "BulkSupplements",
+      "price": 24.97,
+      "salesParent": 3174,
+      "revenue": 79254.78,
+      "rating": 4.6,
+      "reviews": 9057
+    },
+    {
+      "rank": 8,
+      "asin": "B005P0VE7I",
+      "title": "Metagenics Glutagenics L-Glutamine &amp; DGL Gut Health Powder, 60 Servings",
+      "brand": "Metagenics",
+      "price": 85.95,
+      "salesParent": 923,
+      "revenue": 79147.25,
+      "rating": 4.6,
+      "reviews": 823
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -3,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -3,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 2889192,
+    "priorHeadRevenue": 2990086,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 8,
+      "pct": 8,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 51,
+      "brandCount": 73,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.55,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B00SHXE7VK",
+        "title": "Nutricost L-Glutamine Powder (500 Grams) Unflavored, 100 Servings, GMO-Free",
+        "rating": 4.6,
+        "reviews": 18174
+      },
+      {
+        "rank": 2,
+        "asin": "B000FGWDL8",
+        "title": "THORNE L-Glutamine Powder, Amino Acid Supplement, 90 Servings",
+        "rating": 4.7,
+        "reviews": 913
+      },
+      {
+        "rank": 3,
+        "asin": "B076MBQDC1",
+        "title": "L-Theanine 200mg, Double Strength, Theanine Supplement, 120 Capsules",
+        "rating": 4.7,
+        "reviews": 1753
+      },
+      {
+        "rank": 4,
+        "asin": "B01N6E26ZX",
+        "title": "Pure Encapsulations L-Glutamine Powder, 8 Ounces",
+        "rating": 4.7,
+        "reviews": 1125
+      },
+      {
+        "rank": 5,
+        "asin": "B000VYZG0O",
+        "title": "Pure Encapsulations L-Glutamine 500 mg, 90 Capsules",
+        "rating": 4.6,
+        "reviews": 2260
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:23675621011:10781161:6939952011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

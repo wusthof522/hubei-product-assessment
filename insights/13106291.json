@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "13106291",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Health Care > Women's Health > Menopause",
+  "categoryPathCn": "健康与家居 > 卫生保健 > 女性健康 > 更年期",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 6749198,
+    "avgRevenue": 67492,
+    "medianPrice": 29.99,
+    "priceBand": "$22.82 - $44.49",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B08966BN6P",
+      "title": "BB Company Provitalize | Probiotics for Women Digestive Health, Menopause, Joint Support | Sexy Midsection Curves, Bloat | Turmeric Curcumin Moringa | Vegetarian &amp; Gluten-Free | Ages 40+ | 60 Ct",
+      "brand": "BB Company",
+      "price": 53.0,
+      "salesParent": 21891,
+      "revenue": 1160223.0,
+      "rating": 4.0,
+      "reviews": 38370
+    },
+    {
+      "rank": 2,
+      "asin": "B07N813336",
+      "title": "Estroven Complete Multi-Symptom Menopause Supplement for Women, 28 Count",
+      "brand": "Estroven",
+      "price": 16.99,
+      "salesParent": 32930,
+      "revenue": 607887.75,
+      "rating": 4.4,
+      "reviews": 19652
+    },
+    {
+      "rank": 3,
+      "asin": "B08PQ4QWHD",
+      "title": "BB Company Slim Gut Bundle | Menopause Prebiotics and Probiotics for Women | Gut Vitamins for Digestive Health | Supports Joint Health &amp; Sexy Midsection | Provitalize &amp; Previtalize | 30 Day Supply",
+      "brand": "BB Company",
+      "price": 95.0,
+      "salesParent": 3508,
+      "revenue": 333260.0,
+      "rating": 4.0,
+      "reviews": 7482
+    },
+    {
+      "rank": 4,
+      "asin": "B01ANSJV80",
+      "title": "Estroven Weight Management for Menopause Relief Supplement for Women, 30 Ct",
+      "brand": "Estroven",
+      "price": 18.99,
+      "salesParent": 11924,
+      "revenue": 221667.16,
+      "rating": 4.3,
+      "reviews": 16691
+    },
+    {
+      "rank": 5,
+      "asin": "B00KFA94FC",
+      "title": "Amberen Menopause Supplement, Multi-Symptom Relief, 30 Day Supply",
+      "brand": "Amberen",
+      "price": 24.97,
+      "salesParent": 8018,
+      "revenue": 200209.45,
+      "rating": 4.2,
+      "reviews": 24052
+    },
+    {
+      "rank": 6,
+      "asin": "B0D5GFJRRL",
+      "title": "MENO Menopause Gummies - Hot Flashes &amp; Night Sweats – 30-Day Supply",
+      "brand": "O Positiv",
+      "price": 36.97,
+      "salesParent": 5394,
+      "revenue": 199416.19,
+      "rating": 4.2,
+      "reviews": 2377
+    },
+    {
+      "rank": 7,
+      "asin": "B0BHC66LZP",
+      "title": "Estroven Complete + Ashwagandha Menopause Supplement for Women, 60 Count",
+      "brand": "Estroven",
+      "price": 34.99,
+      "salesParent": 5082,
+      "revenue": 171161.77,
+      "rating": 4.4,
+      "reviews": 1999
+    },
+    {
+      "rank": 8,
+      "asin": "B005NKRJWE",
+      "title": "Metagenics Estrovera Menopause Supplement for Women, ERR 731, 30 Tablets",
+      "brand": "Metagenics",
+      "price": 39.67,
+      "salesParent": 3865,
+      "revenue": 153595.11,
+      "rating": 4.4,
+      "reviews": 2151
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -30,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -30,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 6749198,
+    "priorHeadRevenue": 9667428,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 16,
+      "pct": 16,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 56,
+      "brandCount": 70,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.25,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B08966BN6P",
+        "title": "BB Company Provitalize | Probiotics for Women Digestive Health, Menopause, Joint Support | Sexy Midsection Curves, Bloat | Turmeric Curcumin Moringa | Vegetarian &amp; Gluten-Free | Ages 40+ | 60 Ct",
+        "rating": 4.0,
+        "reviews": 38370
+      },
+      {
+        "rank": 2,
+        "asin": "B07N813336",
+        "title": "Estroven Complete Multi-Symptom Menopause Supplement for Women, 28 Count",
+        "rating": 4.4,
+        "reviews": 19652
+      },
+      {
+        "rank": 3,
+        "asin": "B08PQ4QWHD",
+        "title": "BB Company Slim Gut Bundle | Menopause Prebiotics and Probiotics for Women | Gut Vitamins for Digestive Health | Supports Joint Health &amp; Sexy Midsection | Provitalize &amp; Previtalize | 30 Day Supply",
+        "rating": 4.0,
+        "reviews": 7482
+      },
+      {
+        "rank": 4,
+        "asin": "B01ANSJV80",
+        "title": "Estroven Weight Management for Menopause Relief Supplement for Women, 30 Ct",
+        "rating": 4.3,
+        "reviews": 16691
+      },
+      {
+        "rank": 5,
+        "asin": "B00KFA94FC",
+        "title": "Amberen Menopause Supplement, Multi-Symptom Relief, 30 Day Supply",
+        "rating": 4.2,
+        "reviews": 24052
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3760941:386373011:13106291",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "15706941",
+  "level": "L2",
+  "categoryPathEn": "Automotive > Tools & Equipment",
+  "categoryPathCn": "汽车 > 工具",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 93,
+    "totalRevenue": 52672473,
+    "avgRevenue": 566371,
+    "medianPrice": 132.99,
+    "priceBand": "$69.91 - $314.48",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B015TKUPIC",
+      "title": "NOCO Boost GB40 12V 1000A UltraSafe Portable Lithium Jump Starter",
+      "brand": "NOCO",
+      "price": 99.95,
+      "salesParent": 30792,
+      "revenue": 2955724.0,
+      "rating": 4.6,
+      "reviews": 130478
+    },
+    {
+      "rank": 2,
+      "asin": "B016UG6PWE",
+      "title": "NOCO Boost GB70 2000A UltraSafe Jump Starter, 12V Lithium Battery Booster",
+      "brand": "NOCO",
+      "price": 139.99,
+      "salesParent": 13553,
+      "revenue": 2277581.75,
+      "rating": 4.6,
+      "reviews": 31187
+    },
+    {
+      "rank": 3,
+      "asin": "B08WZFPXFM",
+      "title": "NOCO Boost GBX155 4250A UltraSafe Jump Starter, 12V Lithium Battery Booster",
+      "brand": "NOCO",
+      "price": 369.95,
+      "salesParent": 6208,
+      "revenue": 2218925.5,
+      "rating": 4.2,
+      "reviews": 7352
+    },
+    {
+      "rank": 4,
+      "asin": "B0CRBB18F2",
+      "title": "Clore Automotive Jump-N-Carry JNC660 1700 Peak Amp 12 Volt Jump Starter, Blue &amp; Booster PAC ES2500 1100 Peak Amp 12V Jump Starter, 900 Amps",
+      "brand": "Clore Automotive",
+      "price": 235.66,
+      "salesParent": 5769,
+      "revenue": 1359522.5,
+      "rating": 5.0,
+      "reviews": 1
+    },
+    {
+      "rank": 5,
+      "asin": "B0C6YMS4KH",
+      "title": "ChargePoint HomeFlex Level 2 EV Fast Charger, J1772, Smart, Hardwired, 50A",
+      "brand": "ChargePoint",
+      "price": 549.0,
+      "salesParent": 2470,
+      "revenue": 1355857.12,
+      "rating": 4.3,
+      "reviews": 2330
+    },
+    {
+      "rank": 6,
+      "asin": "B0DWRYJWKG",
+      "title": "WOLFBOX MV24A 4000A Jump Starter with 160PSI Air Compressor, 12V Car Battery Booster, 88.8Wh Portable Jump Box (10L Gas/6L Diesel) with 65W Fast Charging, Tire Inflator, Jumper Cables, LED Light",
+      "brand": "WOLFBOX",
+      "price": 139.99,
+      "salesParent": 9841,
+      "revenue": 1337293.5,
+      "rating": 4.5,
+      "reviews": 2424
+    },
+    {
+      "rank": 7,
+      "asin": "B0D4JDNSCF",
+      "title": "OXILAM Jump Starter 6000A for All Gas/12L Diesel, Car Battery Jumper Starter Portable, 12V Lithium Jump Box with Jumper Cables, LED Display, LED Light, Power Bank with USB, Type C Port",
+      "brand": "OXILAM",
+      "price": 59.98,
+      "salesParent": 20445,
+      "revenue": 1290079.5,
+      "rating": 4.5,
+      "reviews": 3283
+    },
+    {
+      "rank": 8,
+      "asin": "B0FMD8Z8K2",
+      "title": "Car Battery Jump Starter with Air Compressor 4500A 150PSI, Car Jumper Starter Portable (9L Gas/8L Diesel), Jump Box Car Battery with Auto-Shutoff Tire Inflator, Jumper Cables and Light",
+      "brand": "Joltekon",
+      "price": 99.99,
+      "salesParent": 11975,
+      "revenue": 1197380.25,
+      "rating": 4.6,
+      "reviews": 1234
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -3,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -3,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 52672473,
+    "priorHeadRevenue": 54097675,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 93,
+      "newCount": 16,
+      "pct": 17,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 44,
+      "brandCount": 51,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.5,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B015TKUPIC",
+        "title": "NOCO Boost GB40 12V 1000A UltraSafe Portable Lithium Jump Starter",
+        "rating": 4.6,
+        "reviews": 130478
+      },
+      {
+        "rank": 2,
+        "asin": "B016UG6PWE",
+        "title": "NOCO Boost GB70 2000A UltraSafe Jump Starter, 12V Lithium Battery Booster",
+        "rating": 4.6,
+        "reviews": 31187
+      },
+      {
+        "rank": 3,
+        "asin": "B08WZFPXFM",
+        "title": "NOCO Boost GBX155 4250A UltraSafe Jump Starter, 12V Lithium Battery Booster",
+        "rating": 4.2,
+        "reviews": 7352
+      },
+      {
+        "rank": 4,
+        "asin": "B0CRBB18F2",
+        "title": "Clore Automotive Jump-N-Carry JNC660 1700 Peak Amp 12 Volt Jump Starter, Blue &amp; Booster PAC ES2500 1100 Peak Amp 12V Jump Starter, 900 Amps",
+        "rating": 5.0,
+        "reviews": 1
+      },
+      {
+        "rank": 5,
+        "asin": "B0C6YMS4KH",
+        "title": "ChargePoint HomeFlex Level 2 EV Fast Charger, J1772, Smart, Hardwired, 50A",
+        "rating": 4.3,
+        "reviews": 2330
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "15684181:15706941",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

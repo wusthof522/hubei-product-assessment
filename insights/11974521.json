@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "11974521",
+  "level": "L2",
+  "categoryPathEn": "Musical Instruments > Microphones & Accessories",
+  "categoryPathCn": "乐器 > 显微镜",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 96,
+    "totalRevenue": 20138197,
+    "avgRevenue": 209773,
+    "medianPrice": 109.0,
+    "priceBand": "$45.99 - $199.71",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0F995J8FR",
+      "title": "DJI Mic 3 (2 TX + 1 RX + Charging Case), Wireless Microphone",
+      "brand": "DJI",
+      "price": 259.0,
+      "salesParent": 5694,
+      "revenue": 1474746.0,
+      "rating": 4.6,
+      "reviews": 2616
+    },
+    {
+      "rank": 2,
+      "asin": "B0CP7P4RRQ",
+      "title": "Hollyland Lark M2 Wireless Microphone for iPhone15/16/17&amp;Android, USB C Mini Lapel Microphone Wireless, 1000ft Range, Hi-Fi Audio, Noise Cancellation, 30H Battery for Video Recording, Streaming",
+      "brand": "Hollyland",
+      "price": 76.0,
+      "salesParent": 12457,
+      "revenue": 913720.94,
+      "rating": 4.7,
+      "reviews": 14611
+    },
+    {
+      "rank": 3,
+      "asin": "B0CMJTSVRW",
+      "title": "Mini Mic Pro (Latest Model – #1 Microphone for iPhone &amp; Android, Wireless Mini Microphone, Clear Voice, Noise Cancelling, Lavalier Mic for TikTok, YouTube &amp; Interviews",
+      "brand": "Mini Mic Pro",
+      "price": 24.99,
+      "salesParent": 29599,
+      "revenue": 739679.0,
+      "rating": 4.3,
+      "reviews": 8284
+    },
+    {
+      "rank": 4,
+      "asin": "B0002E4Z8M",
+      "title": "Shure SM7B Dynamic Vocal Microphone for Podcasting &amp; Streaming",
+      "brand": "Shure",
+      "price": 429.0,
+      "salesParent": 1538,
+      "revenue": 669522.19,
+      "rating": 4.8,
+      "reviews": 12233
+    },
+    {
+      "rank": 5,
+      "asin": "B0CFZX734J",
+      "title": "DJI Mic 2 (2 TX + 1 RX + Charging Case), All-in-one Wireless Microphone",
+      "brand": "DJI",
+      "price": 199.0,
+      "salesParent": 3043,
+      "revenue": 604978.81,
+      "rating": 4.6,
+      "reviews": 5137
+    },
+    {
+      "rank": 6,
+      "asin": "B0BMFQP2ZZ",
+      "title": "FIFINE AmpliGame AM8 USB/XLR Dynamic Microphone for Gaming Streaming",
+      "brand": "FIFINE",
+      "price": 56.99,
+      "salesParent": 10927,
+      "revenue": 600547.94,
+      "rating": 4.5,
+      "reviews": 12381
+    },
+    {
+      "rank": 7,
+      "asin": "B00N1YPXW2",
+      "title": "Logitech Creators Blue Yeti USB Microphone for PC, Mac, Gaming, Recording, Streaming, Podcasting, Studio and Computer Condenser Mic with Blue VO!CE effects, 4 Pickup Patterns, Plug and Play - Blackout",
+      "brand": "Logitech G",
+      "price": 99.99,
+      "salesParent": 5386,
+      "revenue": 545817.25,
+      "rating": 4.6,
+      "reviews": 57197
+    },
+    {
+      "rank": 8,
+      "asin": "B0CTJ7PVN1",
+      "title": "Shure MV7+ USB-C &amp; XLR Podcast Dynamic Microphone - Black",
+      "brand": "Shure",
+      "price": 298.65,
+      "salesParent": 1634,
+      "revenue": 483762.03,
+      "rating": 4.7,
+      "reviews": 1171
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -25,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -25,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 20138197,
+    "priorHeadRevenue": 26702155,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 96,
+      "newCount": 25,
+      "pct": 26,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 56,
+      "brandCount": 37,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.52,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0F995J8FR",
+        "title": "DJI Mic 3 (2 TX + 1 RX + Charging Case), Wireless Microphone",
+        "rating": 4.6,
+        "reviews": 2616
+      },
+      {
+        "rank": 2,
+        "asin": "B0CP7P4RRQ",
+        "title": "Hollyland Lark M2 Wireless Microphone for iPhone15/16/17&amp;Android, USB C Mini Lapel Microphone Wireless, 1000ft Range, Hi-Fi Audio, Noise Cancellation, 30H Battery for Video Recording, Streaming",
+        "rating": 4.7,
+        "reviews": 14611
+      },
+      {
+        "rank": 3,
+        "asin": "B0CMJTSVRW",
+        "title": "Mini Mic Pro (Latest Model – #1 Microphone for iPhone &amp; Android, Wireless Mini Microphone, Clear Voice, Noise Cancelling, Lavalier Mic for TikTok, YouTube &amp; Interviews",
+        "rating": 4.3,
+        "reviews": 8284
+      },
+      {
+        "rank": 4,
+        "asin": "B0002E4Z8M",
+        "title": "Shure SM7B Dynamic Vocal Microphone for Podcasting &amp; Streaming",
+        "rating": 4.8,
+        "reviews": 12233
+      },
+      {
+        "rank": 5,
+        "asin": "B0CFZX734J",
+        "title": "DJI Mic 2 (2 TX + 1 RX + Charging Case), All-in-one Wireless Microphone",
+        "rating": 4.6,
+        "reviews": 5137
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "11091801:11974521",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

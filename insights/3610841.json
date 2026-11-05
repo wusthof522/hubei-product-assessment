@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3610841",
+  "level": "L2",
+  "categoryPathEn": "Home & Kitchen > Storage & Organization",
+  "categoryPathCn": "家居用品 > 储存",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 89,
+    "totalRevenue": 65238897,
+    "avgRevenue": 733021,
+    "medianPrice": 38.95,
+    "priceBand": "$25.47 - $89.94",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B00FXNAAW2",
+      "title": "Amazon Basics Slim Velvet Non-Slip Space Saving Suit Clothes Hangers, Closet Organizer, Black, 50-Pack",
+      "brand": "Amazon Basics",
+      "price": 17.84,
+      "salesParent": 184110,
+      "revenue": 3529388.75,
+      "rating": 4.8,
+      "reviews": 238888
+    },
+    {
+      "rank": 2,
+      "asin": "B00CQGTGXS",
+      "title": "IRIS USA 6-Pack 54 Quart Storage Bins with Lids, Clear",
+      "brand": "Iris Ohyama",
+      "price": 99.99,
+      "salesParent": 33182,
+      "revenue": 3317868.0,
+      "rating": 4.0,
+      "reviews": 34988
+    },
+    {
+      "rank": 3,
+      "asin": "B0HBP8BC2D",
+      "title": "Amazon Basics Vacuum Storage Bags, Compression Space Saving for Clothes and Linens, Reusable with Hand Pump, Large, Clear, 5 Count (Pack of 10)",
+      "brand": "Amazon Basics",
+      "price": 167.6,
+      "salesParent": 19499,
+      "revenue": 3268032.5,
+      "rating": 4.3,
+      "reviews": 89603
+    },
+    {
+      "rank": 4,
+      "asin": "B018YLFJX4",
+      "title": "Amazon Basics 5-Shelf Adjustable Heavy Duty Steel Wire Storage Shelves for Garage, Kitchen, Easy Assembly, 36&quot; x 14&quot; x 72&quot;, Black",
+      "brand": "Amazon Basics",
+      "price": 52.49,
+      "salesParent": 49442,
+      "revenue": 3136600.5,
+      "rating": 4.6,
+      "reviews": 264165
+    },
+    {
+      "rank": 5,
+      "asin": "B0BLKD3H7V",
+      "title": "Supports 200lbs Heavy Duty Moving Bags - Strong Zipper &amp; Wrap-Around Handles - Water-Resistant Storage Totes, Durable Alternative to Moving Boxes - 4 Pack - Black",
+      "brand": "HOMESURE",
+      "price": 39.61,
+      "salesParent": 35871,
+      "revenue": 1462460.62,
+      "rating": 4.7,
+      "reviews": 9849
+    },
+    {
+      "rank": 6,
+      "asin": "B0DRNRC5H5",
+      "title": "Vacbird Travel Vacuum Bags with Rechargeable Pump, 15 combo tarvel size",
+      "brand": "Vacbird",
+      "price": 31.99,
+      "salesParent": 46073,
+      "revenue": 1345792.25,
+      "rating": 4.4,
+      "reviews": 7154
+    },
+    {
+      "rank": 7,
+      "asin": "B0FQB8RXY9",
+      "title": "SONGMICS Trash Can, 13 Gallon (50 L), Stainless Steel, with Lid, Pedal",
+      "brand": "SONGMICS",
+      "price": 89.99,
+      "salesParent": 15399,
+      "revenue": 1296749.75,
+      "rating": 4.4,
+      "reviews": 862
+    },
+    {
+      "rank": 8,
+      "asin": "B07GYB2C3S",
+      "title": "Glad Trash Can with Clorox Odor Protection | Plastic Bin, 13 Gal, Black",
+      "brand": "Glad",
+      "price": 37.99,
+      "salesParent": 31379,
+      "revenue": 1192088.25,
+      "rating": 4.2,
+      "reviews": 29319
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 8,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 8,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 65238897,
+    "priorHeadRevenue": 60427923,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 89,
+      "newCount": 26,
+      "pct": 29,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 35,
+      "brandCount": 65,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.47,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B00FXNAAW2",
+        "title": "Amazon Basics Slim Velvet Non-Slip Space Saving Suit Clothes Hangers, Closet Organizer, Black, 50-Pack",
+        "rating": 4.8,
+        "reviews": 238888
+      },
+      {
+        "rank": 2,
+        "asin": "B00CQGTGXS",
+        "title": "IRIS USA 6-Pack 54 Quart Storage Bins with Lids, Clear",
+        "rating": 4.0,
+        "reviews": 34988
+      },
+      {
+        "rank": 3,
+        "asin": "B0HBP8BC2D",
+        "title": "Amazon Basics Vacuum Storage Bags, Compression Space Saving for Clothes and Linens, Reusable with Hand Pump, Large, Clear, 5 Count (Pack of 10)",
+        "rating": 4.3,
+        "reviews": 89603
+      },
+      {
+        "rank": 4,
+        "asin": "B018YLFJX4",
+        "title": "Amazon Basics 5-Shelf Adjustable Heavy Duty Steel Wire Storage Shelves for Garage, Kitchen, Easy Assembly, 36&quot; x 14&quot; x 72&quot;, Black",
+        "rating": 4.6,
+        "reviews": 264165
+      },
+      {
+        "rank": 5,
+        "asin": "B0BLKD3H7V",
+        "title": "Supports 200lbs Heavy Duty Moving Bags - Strong Zipper &amp; Wrap-Around Handles - Water-Resistant Storage Totes, Durable Alternative to Moving Boxes - 4 Pack - Black",
+        "rating": 4.7,
+        "reviews": 9849
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "1055398:3610841",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

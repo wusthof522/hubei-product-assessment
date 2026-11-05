@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23569927011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Health Care > Incontinence & Ostomy > Pads, Liners, Shields & Guards",
+  "categoryPathCn": "Health & Household > Health Care > Incontinence & Ostomy > Pads, Liners, Shields & Guards",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 30893645,
+    "avgRevenue": 308936,
+    "medianPrice": 26.36,
+    "priceBand": "$15.98 - $39.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B01NAX7KC7",
+      "title": "Poise Overnight Incontinence Pads for Women, 8 Drop, 72 ct",
+      "brand": "Poise",
+      "price": 39.38,
+      "salesParent": 76107,
+      "revenue": 3274123.25,
+      "rating": 4.5,
+      "reviews": 16125
+    },
+    {
+      "rank": 2,
+      "asin": "B06W5CN2ZK",
+      "title": "Poise Incontinence &amp; Postpartum Pads for Bladder Leaks, 6 Drop Ultimate Absorbency, Regular Length, 112 Count, Packaging May Vary",
+      "brand": "Poise",
+      "price": 45.88,
+      "salesParent": 47504,
+      "revenue": 2176158.25,
+      "rating": 4.5,
+      "reviews": 7354
+    },
+    {
+      "rank": 3,
+      "asin": "B072LY2FT2",
+      "title": "TENA Sensitive Care Overnight Incontinence Pads, Women, Extra Coverage 90ct",
+      "brand": "TENA",
+      "price": 39.87,
+      "salesParent": 44838,
+      "revenue": 1800245.75,
+      "rating": 4.4,
+      "reviews": 19645
+    },
+    {
+      "rank": 4,
+      "asin": "B0CQ3SP1KM",
+      "title": "Always Discreet Incontinence Pads for Women, 7-Drop, 104 Count",
+      "brand": "Always Discreet",
+      "price": 56.88,
+      "salesParent": 29257,
+      "revenue": 1541843.88,
+      "rating": 4.4,
+      "reviews": 4416
+    },
+    {
+      "rank": 5,
+      "asin": "B0BLGRQHCQ",
+      "title": "Poise Incontinence Pads for Women, 7 Drop, Long, 78 ct",
+      "brand": "Poise",
+      "price": 42.96,
+      "salesParent": 35220,
+      "revenue": 1507416.0,
+      "rating": 4.6,
+      "reviews": 3043
+    },
+    {
+      "rank": 6,
+      "asin": "B010OW806O",
+      "title": "Poise Incontinence Pads for Women, 4 Drop, 132 ct",
+      "brand": "Poise",
+      "price": 28.95,
+      "salesParent": 48499,
+      "revenue": 1422475.62,
+      "rating": 4.6,
+      "reviews": 22928
+    },
+    {
+      "rank": 7,
+      "asin": "B01KOFCNJ6",
+      "title": "Poise Incontinence Pads for Women, 5 Drop, Long, 84 ct",
+      "brand": "Poise",
+      "price": 29.06,
+      "salesParent": 49069,
+      "revenue": 1402882.75,
+      "rating": 4.6,
+      "reviews": 26592
+    },
+    {
+      "rank": 8,
+      "asin": "B07BQV5D1P",
+      "title": "Poise Incontinence Pads for Women, 3 Drop, Long, 96 ct",
+      "brand": "Poise",
+      "price": 26.32,
+      "salesParent": 43259,
+      "revenue": 1138576.88,
+      "rating": 4.6,
+      "reviews": 16955
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 0,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 0,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 30893645,
+    "priorHeadRevenue": 30740922,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 20,
+      "pct": 20,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 91,
+      "brandCount": 28,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.32,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B01NAX7KC7",
+        "title": "Poise Overnight Incontinence Pads for Women, 8 Drop, 72 ct",
+        "rating": 4.5,
+        "reviews": 16125
+      },
+      {
+        "rank": 2,
+        "asin": "B06W5CN2ZK",
+        "title": "Poise Incontinence &amp; Postpartum Pads for Bladder Leaks, 6 Drop Ultimate Absorbency, Regular Length, 112 Count, Packaging May Vary",
+        "rating": 4.5,
+        "reviews": 7354
+      },
+      {
+        "rank": 3,
+        "asin": "B072LY2FT2",
+        "title": "TENA Sensitive Care Overnight Incontinence Pads, Women, Extra Coverage 90ct",
+        "rating": 4.4,
+        "reviews": 19645
+      },
+      {
+        "rank": 4,
+        "asin": "B0CQ3SP1KM",
+        "title": "Always Discreet Incontinence Pads for Women, 7-Drop, 104 Count",
+        "rating": 4.4,
+        "reviews": 4416
+      },
+      {
+        "rank": 5,
+        "asin": "B0BLGRQHCQ",
+        "title": "Poise Incontinence Pads for Women, 7 Drop, Long, 78 ct",
+        "rating": 4.6,
+        "reviews": 3043
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3760941:3763261:23569927011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

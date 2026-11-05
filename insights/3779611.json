@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3779611",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Health Care > Women's Health > Yeast Infection Treatments",
+  "categoryPathCn": "健康与家居 > 卫生保健 > 女性健康 > 酵母菌感染治疗",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 4644331,
+    "avgRevenue": 46443,
+    "medianPrice": 18.28,
+    "priceBand": "$12.63 - $26.46",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0009Q633I",
+      "title": "MONISTAT 1-Dose Yeast Infection Treatment, 1 Ovule Insert &amp; External Itch Cream",
+      "brand": "Monistat",
+      "price": 18.44,
+      "salesParent": 30804,
+      "revenue": 525824.25,
+      "rating": 4.6,
+      "reviews": 25977
+    },
+    {
+      "rank": 2,
+      "asin": "B000ZC7Q3W",
+      "title": "Monistat 3-Day Yeast Infection Treatment, Miconazole Vaginal Suppositories",
+      "brand": "Monistat",
+      "price": 13.98,
+      "salesParent": 30341,
+      "revenue": 453901.38,
+      "rating": 4.6,
+      "reviews": 10918
+    },
+    {
+      "rank": 3,
+      "asin": "B0H7DYZN26",
+      "title": "URO Vaginal Probiotic Gummies for Odor, Flora, &amp; pH Balance – 30-Day Supply",
+      "brand": "O Positiv",
+      "price": 29.97,
+      "salesParent": 11073,
+      "revenue": 331857.81,
+      "rating": 4.6,
+      "reviews": 140
+    },
+    {
+      "rank": 4,
+      "asin": "B0DK9ZNH4G",
+      "title": "URO Boric Acid Vaginal Suppostiory for Women with Lactic Acid – 12 Ct",
+      "brand": "O Positiv",
+      "price": 20.97,
+      "salesParent": 15620,
+      "revenue": 327551.38,
+      "rating": 4.7,
+      "reviews": 5427
+    },
+    {
+      "rank": 5,
+      "asin": "B0DPR5XGPX",
+      "title": "Love Wellness Good Girl Vaginal Probiotics | 9-Strain | 30-Day Supply",
+      "brand": "Love Wellness",
+      "price": 24.47,
+      "salesParent": 11154,
+      "revenue": 272938.38,
+      "rating": 4.4,
+      "reviews": 13219
+    },
+    {
+      "rank": 6,
+      "asin": "B0C9SDSZNK",
+      "title": "Her Fantasy Box | Fresh &amp; Clean – Boric Acid for pH Balance, Odor Control &amp; Comfort – 30 Count",
+      "brand": "Her Fantasy Box",
+      "price": 13.39,
+      "salesParent": 15573,
+      "revenue": 208522.47,
+      "rating": 4.6,
+      "reviews": 3914
+    },
+    {
+      "rank": 7,
+      "asin": "B07ZVJMW94",
+      "title": "Monistat 3-Day Yeast Infection Treatment for Women, 3 Pre-Filled Miconazole Cream Applicators (Pack of 2), Regular Strength Fast Acting Relief for Vaginal Itching and Irritation",
+      "brand": "Monistat",
+      "price": 36.17,
+      "salesParent": 4567,
+      "revenue": 197659.75,
+      "rating": 4.6,
+      "reviews": 648
+    },
+    {
+      "rank": 8,
+      "asin": "B000GCIAHM",
+      "title": "Monistat 7-Day Yeast Infection Treatment, Miconazole Cream + Applicators",
+      "brand": "Monistat",
+      "price": 11.69,
+      "salesParent": 15730,
+      "revenue": 178692.8,
+      "rating": 4.7,
+      "reviews": 9243
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -36,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -36,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 4644331,
+    "priorHeadRevenue": 7205508,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 15,
+      "pct": 15,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 69,
+      "brandCount": 63,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.47,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0009Q633I",
+        "title": "MONISTAT 1-Dose Yeast Infection Treatment, 1 Ovule Insert &amp; External Itch Cream",
+        "rating": 4.6,
+        "reviews": 25977
+      },
+      {
+        "rank": 2,
+        "asin": "B000ZC7Q3W",
+        "title": "Monistat 3-Day Yeast Infection Treatment, Miconazole Vaginal Suppositories",
+        "rating": 4.6,
+        "reviews": 10918
+      },
+      {
+        "rank": 3,
+        "asin": "B0H7DYZN26",
+        "title": "URO Vaginal Probiotic Gummies for Odor, Flora, &amp; pH Balance – 30-Day Supply",
+        "rating": 4.6,
+        "reviews": 140
+      },
+      {
+        "rank": 4,
+        "asin": "B0DK9ZNH4G",
+        "title": "URO Boric Acid Vaginal Suppostiory for Women with Lactic Acid – 12 Ct",
+        "rating": 4.7,
+        "reviews": 5427
+      },
+      {
+        "rank": 5,
+        "asin": "B0DPR5XGPX",
+        "title": "Love Wellness Good Girl Vaginal Probiotics | 9-Strain | 30-Day Supply",
+        "rating": 4.4,
+        "reviews": 13219
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3760941:386373011:3779611",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

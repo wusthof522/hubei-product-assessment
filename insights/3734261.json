@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3734261",
+  "level": "L4",
+  "categoryPathEn": "Home & Kitchen > Furniture > Bedroom Furniture > Room Dividers",
+  "categoryPathCn": "家居用品 > 家具 > 家具卧室 > 卧室屏风",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 96,
+    "totalRevenue": 4237956,
+    "avgRevenue": 44145,
+    "medianPrice": 119.99,
+    "priceBand": "$68.24 - $171.54",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0B6HRH4WF",
+      "title": "6 Panel Bamboo Room Divider - 5.6 ft Tall Folding Privacy Screen for Room Separation, Natural Brown Freestanding Partition Wall for Home Office (67&quot; H x 92.1&quot; W)",
+      "brand": "Furnnylane",
+      "price": 157.99,
+      "salesParent": 1039,
+      "revenue": 164151.61,
+      "rating": 4.4,
+      "reviews": 614
+    },
+    {
+      "rank": 2,
+      "asin": "B0FRXJ8FGJ",
+      "title": "AJAZZ Room Divider Curtain (Black, W100 x L84 in, 1 Panel)+ Tension Curtain Rod No Drilling (H) 43-120×(W) 35-100 in, for Privacy/Soundproof Curtains, Heavy Duty Wall Separator",
+      "brand": "AJAZZ",
+      "price": 89.99,
+      "salesParent": 1515,
+      "revenue": 136334.84,
+      "rating": 4.4,
+      "reviews": 294
+    },
+    {
+      "rank": 3,
+      "asin": "B0B42BP1HF",
+      "title": "6 Panel Folding Privacy Screen 9ft Wide 6ft Tall Room Divider",
+      "brand": "MAYOLIAH",
+      "price": 80.99,
+      "salesParent": 1300,
+      "revenue": 113165.01,
+      "rating": 4.2,
+      "reviews": 1172
+    },
+    {
+      "rank": 4,
+      "asin": "B0DFH63QDM",
+      "title": "Room Divider Curtain Rod, No Drilling Room Separator for Space Partition Adjustable 4-10ft(H) 28-70inch(W) Heavy Duty Temporary Wall Divider Floor to Ceiling Tension Rod, Black",
+      "brand": "SUNALLY",
+      "price": 29.99,
+      "salesParent": 3531,
+      "revenue": 105894.69,
+      "rating": 4.5,
+      "reviews": 1312
+    },
+    {
+      "rank": 5,
+      "asin": "B0DNPJ9FQY",
+      "title": "VEVOR Room Divider, 4 Panel Room Divider, Folding Privacy Screen and Portable Partition Divider for Room Separation, Freestanding Room Partitions for Office, Bedroom, Study, Grey",
+      "brand": "VEVOR",
+      "price": 60.9,
+      "salesParent": 1738,
+      "revenue": 99344.08,
+      "rating": 4.5,
+      "reviews": 1235
+    },
+    {
+      "rank": 6,
+      "asin": "B0DFH8C526",
+      "title": "Room Divider for Separation 28-114in(W) Privacy Wall Divider, Black",
+      "brand": "SUNALLY",
+      "price": 42.99,
+      "salesParent": 2262,
+      "revenue": 92493.18,
+      "rating": 4.5,
+      "reviews": 1696
+    },
+    {
+      "rank": 7,
+      "asin": "B0FT8PN1RJ",
+      "title": "FDW 4-Panel Folding Room Divider | 6ft, Coal Black | Light &amp; Portable",
+      "brand": "FDW",
+      "price": 65.99,
+      "salesParent": 1334,
+      "revenue": 88030.66,
+      "rating": 4.4,
+      "reviews": 7705
+    },
+    {
+      "rank": 8,
+      "asin": "B0CWXLD2WB",
+      "title": "Room Divider Curtains Ceiling Mounted Track Sets Extra Wide Blackout Curtain Flexible Tracks for Bedroom Privacy Partition Separator, 1 Panel Black Drape and White Rail, W8.3 x H7ft",
+      "brand": "cbsroro",
+      "price": 39.99,
+      "salesParent": 2112,
+      "revenue": 86317.44,
+      "rating": 4.3,
+      "reviews": 1022
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 2,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 2,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 4237956,
+    "priorHeadRevenue": 4144823,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 96,
+      "newCount": 38,
+      "pct": 40,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 29,
+      "brandCount": 57,
+      "level": "分散",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.33,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0B6HRH4WF",
+        "title": "6 Panel Bamboo Room Divider - 5.6 ft Tall Folding Privacy Screen for Room Separation, Natural Brown Freestanding Partition Wall for Home Office (67&quot; H x 92.1&quot; W)",
+        "rating": 4.4,
+        "reviews": 614
+      },
+      {
+        "rank": 2,
+        "asin": "B0FRXJ8FGJ",
+        "title": "AJAZZ Room Divider Curtain (Black, W100 x L84 in, 1 Panel)+ Tension Curtain Rod No Drilling (H) 43-120×(W) 35-100 in, for Privacy/Soundproof Curtains, Heavy Duty Wall Separator",
+        "rating": 4.4,
+        "reviews": 294
+      },
+      {
+        "rank": 3,
+        "asin": "B0B42BP1HF",
+        "title": "6 Panel Folding Privacy Screen 9ft Wide 6ft Tall Room Divider",
+        "rating": 4.2,
+        "reviews": 1172
+      },
+      {
+        "rank": 4,
+        "asin": "B0DFH63QDM",
+        "title": "Room Divider Curtain Rod, No Drilling Room Separator for Space Partition Adjustable 4-10ft(H) 28-70inch(W) Heavy Duty Temporary Wall Divider Floor to Ceiling Tension Rod, Black",
+        "rating": 4.5,
+        "reviews": 1312
+      },
+      {
+        "rank": 5,
+        "asin": "B0DNPJ9FQY",
+        "title": "VEVOR Room Divider, 4 Panel Room Divider, Folding Privacy Screen and Portable Partition Divider for Room Separation, Freestanding Room Partitions for Office, Bedroom, Study, Grey",
+        "rating": 4.5,
+        "reviews": 1235
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "1055398:1063306:1063308:3734261",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

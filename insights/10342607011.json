@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "10342607011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Household Supplies > Tobacco-Related Products > Hookahs & Accessories",
+  "categoryPathCn": "健康与家居 > 家居用品 > 烟草类商品 > 水烟筒和配件",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 1126880,
+    "avgRevenue": 11383,
+    "medianPrice": 20.99,
+    "priceBand": "$15.99 - $39.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0D986R14P",
+      "title": "Black Hookah Set with Everything – 18&quot; Hookah Set 2 Hose with LED Acrylic Base, Easy Setup, and Large Cloud Performance Hookah Machine - Premium Hookah 2 Hose for Home &amp; Parties",
+      "brand": "M. ROSENFELD",
+      "price": 57.99,
+      "salesParent": 1888,
+      "revenue": 107993.6,
+      "rating": 4.2,
+      "reviews": 2705
+    },
+    {
+      "rank": 2,
+      "asin": "B0CMTWXCQ6",
+      "title": "Charcoal Discs to Burn Incense - 30 pcs Charcoal for Incense Burning - 33 mm Most Quick Light Coals Tablets by M. ROSENFELD - 33 mm Resin Burner Rolls – Pack of 30 Instant Fire Coal Tablets",
+      "brand": "M. ROSENFELD",
+      "price": 9.99,
+      "salesParent": 7604,
+      "revenue": 75963.96,
+      "rating": 4.4,
+      "reviews": 2030
+    },
+    {
+      "rank": 3,
+      "asin": "B07S6HB1MJ",
+      "title": "Sunlight® Charcoal Tablets for Incense– Quick Light Charcoal Tablets – Charcoal Disk Lights – 33 mm Resin Burner Rolls – – Charcoal Burner - Instant Fire Coal Tablet (100 Count (Pack of 1))",
+      "brand": "Sunlight Charcoal",
+      "price": 13.99,
+      "salesParent": 4546,
+      "revenue": 60598.18,
+      "rating": 4.6,
+      "reviews": 21079
+    },
+    {
+      "rank": 4,
+      "asin": "B001B38GG0",
+      "title": "Hookah Shisha Natural Charcoals, 120 Count",
+      "brand": "CocoNara",
+      "price": 17.99,
+      "salesParent": 3052,
+      "revenue": 52128.16,
+      "rating": 4.6,
+      "reviews": 5184
+    },
+    {
+      "rank": 5,
+      "asin": "B079WP5D89",
+      "title": "Hookah Charcoal Hookah Coals Coconut – XL Pack 84 Count &amp; 1.2 KG (2.6 lbs) – Premium Quality 25mm (1x1x1 in) – 100% Natural Coconut Coals for Hookah Cubes – NOT Quick Light",
+      "brand": "M. ROSENFELD",
+      "price": 16.99,
+      "salesParent": 2185,
+      "revenue": 35440.7,
+      "rating": 4.3,
+      "reviews": 4367
+    },
+    {
+      "rank": 6,
+      "asin": "B00NU5M3F2",
+      "title": "2 - Box of 120 Piece Coconut Coco Nara Coconara Premium Lighting Hookah Hookah Charcoal Coals- 2 Count",
+      "brand": "CocoNara",
+      "price": 28.99,
+      "salesParent": 1078,
+      "revenue": 31024.84,
+      "rating": 4.7,
+      "reviews": 863
+    },
+    {
+      "rank": 7,
+      "asin": "B09FLVGD5R",
+      "title": "Hookah Set With Everything 4 Hose - GRENAOH 22&quot; Premium Hookah Shisha set with Glass Vase, Ceramic Bowl and Coal Tongs Ashtray (4-black)",
+      "brand": "GRENAOH",
+      "price": 35.99,
+      "salesParent": 816,
+      "revenue": 29367.84,
+      "rating": 4.4,
+      "reviews": 1450
+    },
+    {
+      "rank": 8,
+      "asin": "B08791JTNY",
+      "title": "Kitosun Glass Hookah Complete Set with Everything - Stainless Steel Hookah Down Stem with Diffuser Washable Silicone Hose Rubber Shisha Bowl Metal Charcoal Holder Tongs Purge ready to go, Easy pull",
+      "brand": "KITOSUN",
+      "price": 119.99,
+      "salesParent": 207,
+      "revenue": 24837.93,
+      "rating": 4.7,
+      "reviews": 283
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 13,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 13,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1126880,
+    "priorHeadRevenue": 997379,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 23,
+      "pct": 23,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 57,
+      "brandCount": 48,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.34,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0D986R14P",
+        "title": "Black Hookah Set with Everything – 18&quot; Hookah Set 2 Hose with LED Acrylic Base, Easy Setup, and Large Cloud Performance Hookah Machine - Premium Hookah 2 Hose for Home &amp; Parties",
+        "rating": 4.2,
+        "reviews": 2705
+      },
+      {
+        "rank": 2,
+        "asin": "B0CMTWXCQ6",
+        "title": "Charcoal Discs to Burn Incense - 30 pcs Charcoal for Incense Burning - 33 mm Most Quick Light Coals Tablets by M. ROSENFELD - 33 mm Resin Burner Rolls – Pack of 30 Instant Fire Coal Tablets",
+        "rating": 4.4,
+        "reviews": 2030
+      },
+      {
+        "rank": 3,
+        "asin": "B07S6HB1MJ",
+        "title": "Sunlight® Charcoal Tablets for Incense– Quick Light Charcoal Tablets – Charcoal Disk Lights – 33 mm Resin Burner Rolls – – Charcoal Burner - Instant Fire Coal Tablet (100 Count (Pack of 1))",
+        "rating": 4.6,
+        "reviews": 21079
+      },
+      {
+        "rank": 4,
+        "asin": "B001B38GG0",
+        "title": "Hookah Shisha Natural Charcoals, 120 Count",
+        "rating": 4.6,
+        "reviews": 5184
+      },
+      {
+        "rank": 5,
+        "asin": "B079WP5D89",
+        "title": "Hookah Charcoal Hookah Coals Coconut – XL Pack 84 Count &amp; 1.2 KG (2.6 lbs) – Premium Quality 25mm (1x1x1 in) – 100% Natural Coconut Coals for Hookah Cubes – NOT Quick Light",
+        "rating": 4.3,
+        "reviews": 4367
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:15342811:10342472011:10342607011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

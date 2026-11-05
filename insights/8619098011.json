@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "8619098011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Medical Supplies & Equipment > Braces, Splints & Supports > Arm, Hand & Finger Supports",
+  "categoryPathCn": "健康与家居 > 医疗用品和设备 > 绷带、夹板和背带 > 护臂、护手和护指",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 9103201,
+    "avgRevenue": 91032,
+    "medianPrice": 19.4,
+    "priceBand": "$13.24 - $29.96",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0DNNFCTHR",
+      "title": "FREETOO Thumb and Wrist Brace Right Left Hand for Arthritis and Support",
+      "brand": "FREETOO",
+      "price": 19.99,
+      "salesParent": 21180,
+      "revenue": 423388.19,
+      "rating": 4.5,
+      "reviews": 6193
+    },
+    {
+      "rank": 2,
+      "asin": "B07BK4PXF7",
+      "title": "FEATOL Carpal Tunnel Wrist Brace Night Support, Adjustable Right Hand Brace",
+      "brand": "FEATOL",
+      "price": 13.99,
+      "salesParent": 30001,
+      "revenue": 409813.66,
+      "rating": 4.6,
+      "reviews": 26477
+    },
+    {
+      "rank": 3,
+      "asin": "B0CHXZT3LD",
+      "title": "FEATOL Thumb Spica Splint Wrist Brace for De Quervain's &amp; Carpal Tunnel",
+      "brand": "FEATOL",
+      "price": 29.99,
+      "salesParent": 14208,
+      "revenue": 359462.38,
+      "rating": 4.6,
+      "reviews": 5113
+    },
+    {
+      "rank": 4,
+      "asin": "B0BXMHW46R",
+      "title": "ComfyBrace 2 PACK Nighttime Pain Relief Wrist Brace for Carpal Tunnel, Tendonitis, Arthritis | Fits &amp; Soothes Aches in Both Hands | Palm Cushion Beads for Hot Spots | Breathable Fabric",
+      "brand": "ComfyBrace",
+      "price": 29.97,
+      "salesParent": 11135,
+      "revenue": 344182.84,
+      "rating": 4.5,
+      "reviews": 50595
+    },
+    {
+      "rank": 5,
+      "asin": "B07JPWYZN2",
+      "title": "Copper Compression Advanced Wrist Brace",
+      "brand": "Copper Compression",
+      "price": 27.95,
+      "salesParent": 11518,
+      "revenue": 321928.09,
+      "rating": 4.5,
+      "reviews": 16361
+    },
+    {
+      "rank": 6,
+      "asin": "B00GTXCMCG",
+      "title": "PUSH MetaGrip CMC Thumb Brace for Arthritis Pain Relief | Thumb Stabilizer &amp; Support for CMC Joint Osteoarthritis Pain | Adjustable &amp; Comfortable (Right Hand, Small)",
+      "brand": "PUSH",
+      "price": 125.99,
+      "salesParent": 2368,
+      "revenue": 298344.31,
+      "rating": 4.4,
+      "reviews": 1794
+    },
+    {
+      "rank": 7,
+      "asin": "B002NLGNW8",
+      "title": "MUELLER Sports Medicine Green Fitted Wrist Brace for Men and Women, Wrist Pain Relief Support, Ideal for Carpal Tunnel, Tendonitis, Arthritis, Right Hand, Black, Small/Medium",
+      "brand": "MUELLER",
+      "price": 19.0,
+      "salesParent": 15066,
+      "revenue": 269380.06,
+      "rating": 4.5,
+      "reviews": 43039
+    },
+    {
+      "rank": 8,
+      "asin": "B0C9TT6J2N",
+      "title": "FEATOL 2-Pack 6.5-Inch Carpal Tunnel Wrist Braces with Splints, Medium",
+      "brand": "FEATOL",
+      "price": 27.06,
+      "salesParent": 8925,
+      "revenue": 263019.75,
+      "rating": 4.6,
+      "reviews": 3096
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 4,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 4,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 9103201,
+    "priorHeadRevenue": 8711512,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 17,
+      "pct": 17,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 36,
+      "brandCount": 73,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.33,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0DNNFCTHR",
+        "title": "FREETOO Thumb and Wrist Brace Right Left Hand for Arthritis and Support",
+        "rating": 4.5,
+        "reviews": 6193
+      },
+      {
+        "rank": 2,
+        "asin": "B07BK4PXF7",
+        "title": "FEATOL Carpal Tunnel Wrist Brace Night Support, Adjustable Right Hand Brace",
+        "rating": 4.6,
+        "reviews": 26477
+      },
+      {
+        "rank": 3,
+        "asin": "B0CHXZT3LD",
+        "title": "FEATOL Thumb Spica Splint Wrist Brace for De Quervain's &amp; Carpal Tunnel",
+        "rating": 4.6,
+        "reviews": 5113
+      },
+      {
+        "rank": 4,
+        "asin": "B0BXMHW46R",
+        "title": "ComfyBrace 2 PACK Nighttime Pain Relief Wrist Brace for Carpal Tunnel, Tendonitis, Arthritis | Fits &amp; Soothes Aches in Both Hands | Palm Cushion Beads for Hot Spots | Breathable Fabric",
+        "rating": 4.5,
+        "reviews": 50595
+      },
+      {
+        "rank": 5,
+        "asin": "B07JPWYZN2",
+        "title": "Copper Compression Advanced Wrist Brace",
+        "rating": 4.5,
+        "reviews": 16361
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3775161:3775541:8619098011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

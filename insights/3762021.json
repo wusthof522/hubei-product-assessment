@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3762021",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Health Care > Diabetes Care > Test Strips",
+  "categoryPathCn": "健康与家居 > 卫生保健 > 糖尿病护理 > 试纸",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 7113576,
+    "avgRevenue": 71136,
+    "medianPrice": 30.48,
+    "priceBand": "$20.99 - $42.74",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B07CF8C4VX",
+      "title": "Ascensia Contour Next Blood Glucose Diabetes Test Strips, 70 Count",
+      "brand": "Ascensia",
+      "price": 26.58,
+      "salesParent": 52169,
+      "revenue": 1386652.0,
+      "rating": 4.7,
+      "reviews": 23333
+    },
+    {
+      "rank": 2,
+      "asin": "B08L473F6W",
+      "title": "OneTouch Verio Test Strips for Blood Glucose Meter, 30 Count, 2 Pack",
+      "brand": "OneTouch",
+      "price": 32.98,
+      "salesParent": 26295,
+      "revenue": 867209.06,
+      "rating": 4.7,
+      "reviews": 14167
+    },
+    {
+      "rank": 3,
+      "asin": "B085WBVJZZ",
+      "title": "TRUE METRIX Self Monitoring Blood Glucose Test Strips, 100 Count",
+      "brand": "TRUE METRIX",
+      "price": 31.0,
+      "salesParent": 22753,
+      "revenue": 705343.0,
+      "rating": 4.8,
+      "reviews": 26005
+    },
+    {
+      "rank": 4,
+      "asin": "B087NPJX1W",
+      "title": "Accu-Chek Guide Glucose Test Strips, Pack of 100",
+      "brand": "Accu-Chek",
+      "price": 42.0,
+      "salesParent": 13691,
+      "revenue": 575022.0,
+      "rating": 4.7,
+      "reviews": 12153
+    },
+    {
+      "rank": 5,
+      "asin": "B08G5CW8RF",
+      "title": "KETO-MOJO GK+ Glucose &amp; Ketone Strips, 60 Glucose + 60 Ketone",
+      "brand": "Keto-Mojo",
+      "price": 59.99,
+      "salesParent": 8569,
+      "revenue": 514054.31,
+      "rating": 4.6,
+      "reviews": 6816
+    },
+    {
+      "rank": 6,
+      "asin": "B0B9HR9M4P",
+      "title": "OneTouch Ultra Test Strips for Blood Glucose Monitoring, 120 Count",
+      "brand": "OneTouch",
+      "price": 89.99,
+      "salesParent": 4289,
+      "revenue": 385967.09,
+      "rating": 4.7,
+      "reviews": 1322
+    },
+    {
+      "rank": 7,
+      "asin": "B075VD1JTW",
+      "title": "Freestyle Lite® Blood Glucose Test Strips for Monitor System, Red-Yellow, (50 pieces)",
+      "brand": "Freestyle Lite",
+      "price": 33.95,
+      "salesParent": 7224,
+      "revenue": 242726.39,
+      "rating": 4.6,
+      "reviews": 7455
+    },
+    {
+      "rank": 8,
+      "asin": "B07VB22PNT",
+      "title": "Metene TD-4116 Blood Glucose Test Strips, 100 Count, No Monitor",
+      "brand": "Metene",
+      "price": 28.99,
+      "salesParent": 7386,
+      "revenue": 214120.14,
+      "rating": 4.7,
+      "reviews": 4502
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -31,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -31,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 7113576,
+    "priorHeadRevenue": 10251898,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 19,
+      "pct": 19,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 68,
+      "brandCount": 58,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.57,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B07CF8C4VX",
+        "title": "Ascensia Contour Next Blood Glucose Diabetes Test Strips, 70 Count",
+        "rating": 4.7,
+        "reviews": 23333
+      },
+      {
+        "rank": 2,
+        "asin": "B08L473F6W",
+        "title": "OneTouch Verio Test Strips for Blood Glucose Meter, 30 Count, 2 Pack",
+        "rating": 4.7,
+        "reviews": 14167
+      },
+      {
+        "rank": 3,
+        "asin": "B085WBVJZZ",
+        "title": "TRUE METRIX Self Monitoring Blood Glucose Test Strips, 100 Count",
+        "rating": 4.8,
+        "reviews": 26005
+      },
+      {
+        "rank": 4,
+        "asin": "B087NPJX1W",
+        "title": "Accu-Chek Guide Glucose Test Strips, Pack of 100",
+        "rating": 4.7,
+        "reviews": 12153
+      },
+      {
+        "rank": 5,
+        "asin": "B08G5CW8RF",
+        "title": "KETO-MOJO GK+ Glucose &amp; Ketone Strips, 60 Glucose + 60 Ketone",
+        "rating": 4.6,
+        "reviews": 6816
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3760941:3761401:3762021",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

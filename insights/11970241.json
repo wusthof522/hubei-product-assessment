@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "11970241",
+  "level": "L2",
+  "categoryPathEn": "Musical Instruments > Drums & Percussion",
+  "categoryPathCn": "乐器 > 大鼓",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 94,
+    "totalRevenue": 6818408,
+    "avgRevenue": 72536,
+    "medianPrice": 199.49,
+    "priceBand": "$94.99 - $454.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0DHD7JP68",
+      "title": "Alesis Nitro Max Kit and Strike Amp 12 MK2 - Electric Drum Set with and 12-inch 2500W Drum Amp Speaker, with Bluetooth",
+      "brand": "Alesis",
+      "price": 848.0,
+      "salesParent": 1344,
+      "revenue": 1139712.0,
+      "rating": 3.0,
+      "reviews": 1
+    },
+    {
+      "rank": 2,
+      "asin": "B0FMZM93K2",
+      "title": "Plus (Sandstone) | Steel Tongue Drum | 11 Inch | Calming Handpan",
+      "brand": "PANDA DRUM",
+      "price": 149.09,
+      "salesParent": 2719,
+      "revenue": 405756.34,
+      "rating": 4.7,
+      "reviews": 382
+    },
+    {
+      "rank": 3,
+      "asin": "B09ZXR98LJ",
+      "title": "Donner DED-80 Electronic Drum Set with 4 Quiet Mesh Pads, 180+ Sounds, 2 Pedals, Throne, Headphones, Sticks, and Melodics Lessons",
+      "brand": "Donner",
+      "price": 229.99,
+      "salesParent": 1217,
+      "revenue": 299832.28,
+      "rating": 4.4,
+      "reviews": 2006
+    },
+    {
+      "rank": 4,
+      "asin": "B0C7QVVMD9",
+      "title": "Steel Tongue Drum - 13 Inches 15 Notes Tongue Drum - Hand Pan Drum with Music Book, Handpan Drums Mallets and Carry Bag, D Major (Navy Blue)",
+      "brand": "HOPWELL",
+      "price": 59.99,
+      "salesParent": 3500,
+      "revenue": 213045.0,
+      "rating": 4.6,
+      "reviews": 2569
+    },
+    {
+      "rank": 5,
+      "asin": "B0FN13TJL5",
+      "title": "Pro (Black) | Steel Tongue Drum for Inside &amp; Outside | 15 Inch",
+      "brand": "PANDA DRUM",
+      "price": 249.95,
+      "salesParent": 777,
+      "revenue": 194211.14,
+      "rating": 4.6,
+      "reviews": 214
+    },
+    {
+      "rank": 6,
+      "asin": "B08DKHYLLV",
+      "title": "Donner DED-200 Electric Drum Sets with Quiet Mesh Drum Pads, 2 Cymbals w/Choke, 31 Kits and 450+ Sounds, Throne, Headphones, Sticks, USB MIDI, Melodics Lessons (5 Pads, 3 Cymbals)",
+      "brand": "Donner",
+      "price": 449.99,
+      "salesParent": 414,
+      "revenue": 186295.86,
+      "rating": 4.6,
+      "reviews": 1338
+    },
+    {
+      "rank": 7,
+      "asin": "B0DQTBM6NK",
+      "title": "Donner Electric Drum Set, DED-70 Electronic Drum Kit for Beginner with 150 Sounds, 4 Quiet Mesh Pads, 9&quot; Cymbals, USB MIDI, Type-C Charging, 2 Pedal, Throne, Headphones, Sticks, Melodics Lessons",
+      "brand": "Donner",
+      "price": 198.99,
+      "salesParent": 764,
+      "revenue": 153648.05,
+      "rating": 4.5,
+      "reviews": 545
+    },
+    {
+      "rank": 8,
+      "asin": "B0D9QJNPJ3",
+      "title": "Rain Drum for Outside Garden, 6 Inches 8 Notes Steel Tongue Chakra Drums, Waterproof Meditation Rain Chime, Musical Instruments for Adult Gift with Bag, Music Book, Drum Mallets (Green)",
+      "brand": "INNOWARMER",
+      "price": 24.99,
+      "salesParent": 5411,
+      "revenue": 135653.77,
+      "rating": 4.3,
+      "reviews": 2586
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -1,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -1,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 6818408,
+    "priorHeadRevenue": 6854422,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 94,
+      "newCount": 24,
+      "pct": 26,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 54,
+      "brandCount": 53,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.47,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0DHD7JP68",
+        "title": "Alesis Nitro Max Kit and Strike Amp 12 MK2 - Electric Drum Set with and 12-inch 2500W Drum Amp Speaker, with Bluetooth",
+        "rating": 3.0,
+        "reviews": 1
+      },
+      {
+        "rank": 2,
+        "asin": "B0FMZM93K2",
+        "title": "Plus (Sandstone) | Steel Tongue Drum | 11 Inch | Calming Handpan",
+        "rating": 4.7,
+        "reviews": 382
+      },
+      {
+        "rank": 3,
+        "asin": "B09ZXR98LJ",
+        "title": "Donner DED-80 Electronic Drum Set with 4 Quiet Mesh Pads, 180+ Sounds, 2 Pedals, Throne, Headphones, Sticks, and Melodics Lessons",
+        "rating": 4.4,
+        "reviews": 2006
+      },
+      {
+        "rank": 4,
+        "asin": "B0C7QVVMD9",
+        "title": "Steel Tongue Drum - 13 Inches 15 Notes Tongue Drum - Hand Pan Drum with Music Book, Handpan Drums Mallets and Carry Bag, D Major (Navy Blue)",
+        "rating": 4.6,
+        "reviews": 2569
+      },
+      {
+        "rank": 5,
+        "asin": "B0FN13TJL5",
+        "title": "Pro (Black) | Steel Tongue Drum for Inside &amp; Outside | 15 Inch",
+        "rating": 4.6,
+        "reviews": 214
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "11091801:11970241",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

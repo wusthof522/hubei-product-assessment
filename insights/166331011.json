@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "166331011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Learning & Education > Musical Instruments > Wind & Brass",
+  "categoryPathCn": "玩具 > 学习 > 乐器 > 风",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 68,
+    "totalRevenue": 179794,
+    "avgRevenue": 2644,
+    "medianPrice": 22.24,
+    "priceBand": "$11.99 - $28.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0DM5JV4L7",
+      "title": "Lewtemi Gold Trumpet Musical Instruments Toy for Kid Fake Plastic",
+      "brand": "Lewtemi",
+      "price": 25.99,
+      "salesParent": 1364,
+      "revenue": 33486.2,
+      "rating": 2.8,
+      "reviews": 162
+    },
+    {
+      "rank": 2,
+      "asin": "B0D86K1C74",
+      "title": "Toddler Musical Instruments Toy, Trumpet, Harmonica, Recorder Flute for Kids Baby, Musical Toys Set for Children Boys Girls Ages 2 3 4 5",
+      "brand": "Generic",
+      "price": 26.99,
+      "salesParent": 506,
+      "revenue": 13525.38,
+      "rating": 4.5,
+      "reviews": 216
+    },
+    {
+      "rank": 3,
+      "asin": "B0BJVBXT6C",
+      "title": "Lewtemi 3 Pcs Kids Instruments Musical Toy Gift 8 Color Keys, Gold",
+      "brand": "Lewtemi",
+      "price": 41.99,
+      "salesParent": 305,
+      "revenue": 12806.95,
+      "rating": 3.1,
+      "reviews": 483
+    },
+    {
+      "rank": 4,
+      "asin": "B0CCDRY78Y",
+      "title": "2 Pcs Toy Trumpet Saxophone Set for Kid, Plastic Musical Instrument Gift",
+      "brand": "Lewtemi",
+      "price": 37.99,
+      "salesParent": 318,
+      "revenue": 11390.76,
+      "rating": 3.0,
+      "reviews": 254
+    },
+    {
+      "rank": 5,
+      "asin": "B0D1JYKPCY",
+      "title": "50 Pcs Harmonica for Kids Birthday Party Favor Musical Instrument, Return Gift Cartoon Double Row Harmonica Bulk Toy for Kids Party Favors Goodie Bags Stuffers &amp; Operation Christmas Child Items",
+      "brand": "Wholelovein",
+      "price": 46.99,
+      "salesParent": 263,
+      "revenue": 11035.0,
+      "rating": 4.6,
+      "reviews": 18
+    },
+    {
+      "rank": 6,
+      "asin": "B0CDCBVRGH",
+      "title": "30 Pack Harmonica Toy Cartoon Harmonica with Double Row of 16 Holes Musical Instrument Toy for Toddler Kids Adult Beginners' Musical Instrument Toy Gift, Random Color",
+      "brand": "Restroma",
+      "price": 28.98,
+      "salesParent": 285,
+      "revenue": 7276.05,
+      "rating": 4.6,
+      "reviews": 101
+    },
+    {
+      "rank": 7,
+      "asin": "B0CDQ3ZPJK",
+      "title": "30 Pcs Harmonica for Kids 16 Holes Harmonicas Musical Instrument Toy",
+      "brand": "Fiada",
+      "price": 21.99,
+      "salesParent": 290,
+      "revenue": 6208.9,
+      "rating": 4.1,
+      "reviews": 123
+    },
+    {
+      "rank": 8,
+      "asin": "B07D8QXD6P",
+      "title": "Nuvo Toot Plastic Flute for Beginners, White/Pink",
+      "brand": "Nuvo",
+      "price": 34.99,
+      "salesParent": 175,
+      "revenue": 6123.25,
+      "rating": 4.6,
+      "reviews": 358
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -12,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -12,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 179794,
+    "priorHeadRevenue": 204243,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 68,
+      "newCount": 36,
+      "pct": 53,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 63,
+      "brandCount": 49,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.02,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0DM5JV4L7",
+        "title": "Lewtemi Gold Trumpet Musical Instruments Toy for Kid Fake Plastic",
+        "rating": 2.8,
+        "reviews": 162
+      },
+      {
+        "rank": 2,
+        "asin": "B0D86K1C74",
+        "title": "Toddler Musical Instruments Toy, Trumpet, Harmonica, Recorder Flute for Kids Baby, Musical Toys Set for Children Boys Girls Ages 2 3 4 5",
+        "rating": 4.5,
+        "reviews": 216
+      },
+      {
+        "rank": 3,
+        "asin": "B0BJVBXT6C",
+        "title": "Lewtemi 3 Pcs Kids Instruments Musical Toy Gift 8 Color Keys, Gold",
+        "rating": 3.1,
+        "reviews": 483
+      },
+      {
+        "rank": 4,
+        "asin": "B0CCDRY78Y",
+        "title": "2 Pcs Toy Trumpet Saxophone Set for Kid, Plastic Musical Instrument Gift",
+        "rating": 3.0,
+        "reviews": 254
+      },
+      {
+        "rank": 5,
+        "asin": "B0D1JYKPCY",
+        "title": "50 Pcs Harmonica for Kids Birthday Party Favor Musical Instrument, Return Gift Cartoon Double Row Harmonica Bulk Toy for Kids Party Favors Goodie Bags Stuffers &amp; Operation Christmas Child Items",
+        "rating": 4.6,
+        "reviews": 18
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166269011:166326011:166331011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

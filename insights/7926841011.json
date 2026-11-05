@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "7926841011",
+  "level": "L2",
+  "categoryPathEn": "Electronics > Video Game Consoles & Accessories",
+  "categoryPathCn": "电子产品 > 电子游戏机",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 22,
+    "totalRevenue": 2275126,
+    "avgRevenue": 103415,
+    "medianPrice": 24.44,
+    "priceBand": "$7.99 - $82.74",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0D932YWSZ",
+      "title": "Xbox Series S | Digital Gaming Console | 512GB SSD",
+      "brand": "Xbox",
+      "price": 494.0,
+      "salesParent": 3265,
+      "revenue": 1623913.0,
+      "rating": 4.7,
+      "reviews": 3677
+    },
+    {
+      "rank": 2,
+      "asin": "B0GNQ2S83C",
+      "title": "GameSir G7 Pro Wireless Gaming Controller - Officially Licensed for Xbox Series X|S, Xbox One, Windows PC &amp; Android, TMR Joysticks, 1000Hz Polling Rate, Charging Station - Zenless (Renewed)",
+      "brand": "GameSir",
+      "price": 90.99,
+      "salesParent": 3212,
+      "revenue": 292259.88,
+      "rating": 3.3,
+      "reviews": 61
+    },
+    {
+      "rank": 3,
+      "asin": "B07VZSDF3W",
+      "title": "HTC Vive SteamVR Base Station 2.0 (Single) – Precision Room-Scale Tracking for PC VR, Black",
+      "brand": "HTC",
+      "price": 228.98,
+      "salesParent": 841,
+      "revenue": 192580.59,
+      "rating": 4.5,
+      "reviews": 1943
+    },
+    {
+      "rank": 4,
+      "asin": "B0CM74YFSP",
+      "title": "Lenovo Legion Go 8.8&quot; 144Hz WQXGA Handheld Touchscreen Gaming PC AMD Ryzen Z1 Extreme 16GB RAM 512GB SSD Shadow Black, 8APU1",
+      "brand": "Lenovo",
+      "price": 959.99,
+      "salesParent": 79,
+      "revenue": 76359.03,
+      "rating": 4.4,
+      "reviews": 802
+    },
+    {
+      "rank": 5,
+      "asin": "B09WQGQ6D2",
+      "title": "W&amp;O Wireless Controller Compatible with Xbox 360 2.4GHZ Gamepad Joystick Wireless Controller Compatible with Xbox 360 and PC Windows 7,8,10,11 with Receiver (Black)",
+      "brand": "W&amp;O",
+      "price": 19.99,
+      "salesParent": 713,
+      "revenue": 14252.87,
+      "rating": 4.2,
+      "reviews": 5025
+    },
+    {
+      "rank": 6,
+      "asin": "B0GVXJFN8G",
+      "title": "Nonbliep 2 Pack Wireless Controller for Nintendo Switch 2/1 Lite/OLED and PC, with Bluetooth, Turbo, Gyro Axis, Dual Vibration, and Screenshot, Compatible with Steam and Switch 2/1",
+      "brand": "Nonbliep",
+      "price": 23.89,
+      "salesParent": 497,
+      "revenue": 12981.64,
+      "rating": 4.2,
+      "reviews": 1283
+    },
+    {
+      "rank": 7,
+      "asin": "B0DKNT4LWN",
+      "title": "JYELUK Replacement for Nintendo Switch Controller With RGB LED",
+      "brand": "JYELUK",
+      "price": 29.99,
+      "salesParent": 390,
+      "revenue": 11696.1,
+      "rating": 3.9,
+      "reviews": 572
+    },
+    {
+      "rank": 8,
+      "asin": "B0GVFT7PP9",
+      "title": "TV Dock Station for Switch 2 - Replacement TV Base Docking Station Set with Upgraded IC Module, Charger, HDMI Cable for Switch 2 Console",
+      "brand": "ALOBON",
+      "price": 79.99,
+      "salesParent": 144,
+      "revenue": 11518.56,
+      "rating": 3.6,
+      "reviews": 103
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": null,
+    "direction": "flat",
+    "comparable": null,
+    "rawYoyPct": 1804,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 2275126,
+    "priorHeadRevenue": 119461,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 22,
+      "newCount": 11,
+      "pct": 50,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 97,
+      "brandCount": 21,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.37,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0D932YWSZ",
+        "title": "Xbox Series S | Digital Gaming Console | 512GB SSD",
+        "rating": 4.7,
+        "reviews": 3677
+      },
+      {
+        "rank": 2,
+        "asin": "B0GNQ2S83C",
+        "title": "GameSir G7 Pro Wireless Gaming Controller - Officially Licensed for Xbox Series X|S, Xbox One, Windows PC &amp; Android, TMR Joysticks, 1000Hz Polling Rate, Charging Station - Zenless (Renewed)",
+        "rating": 3.3,
+        "reviews": 61
+      },
+      {
+        "rank": 3,
+        "asin": "B07VZSDF3W",
+        "title": "HTC Vive SteamVR Base Station 2.0 (Single) – Precision Room-Scale Tracking for PC VR, Black",
+        "rating": 4.5,
+        "reviews": 1943
+      },
+      {
+        "rank": 4,
+        "asin": "B0CM74YFSP",
+        "title": "Lenovo Legion Go 8.8&quot; 144Hz WQXGA Handheld Touchscreen Gaming PC AMD Ryzen Z1 Extreme 16GB RAM 512GB SSD Shadow Black, 8APU1",
+        "rating": 4.4,
+        "reviews": 802
+      },
+      {
+        "rank": 5,
+        "asin": "B09WQGQ6D2",
+        "title": "W&amp;O Wireless Controller Compatible with Xbox 360 2.4GHZ Gamepad Joystick Wireless Controller Compatible with Xbox 360 and PC Windows 7,8,10,11 with Receiver (Black)",
+        "rating": 4.2,
+        "reviews": 5025
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "172282:7926841011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "166620011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Vehicles > Remote & App Controlled Vehicles & Parts > Play Trains & Railway Sets > Train Sets",
+  "categoryPathCn": "Toys & Games > Vehicles > Remote & App Controlled Vehicles & Parts > Play Trains & Railway Sets > Train Sets",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 97,
+    "totalRevenue": 3617109,
+    "avgRevenue": 37290,
+    "medianPrice": 69.99,
+    "priceBand": "$42.5 - $117.49",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0FHWKP365",
+      "title": "88 pcs KlickRail® Electric Train Set Race Track for 3 4 5 6 7 8 Years Old | Building Toy Train Track Gravity-Defying 3D Embedded Layouts &amp; Motorized Car, STEM Gift(Deluxe Set(88 piece)",
+      "brand": "CalfQueen",
+      "price": 64.99,
+      "salesParent": 2710,
+      "revenue": 175174.39,
+      "rating": 4.6,
+      "reviews": 213
+    },
+    {
+      "rank": 2,
+      "asin": "B007IGRV6U",
+      "title": "BRIO World Deluxe Railway Set - 87-Piece Wooden Train Set - Includes Passenger &amp; Freight Trains, Stations, Accessories - Safe &amp; Sustainable - MESH Accredited Fun Play for Kids Ages 3 &amp; Up",
+      "brand": "Brio",
+      "price": 416.72,
+      "salesParent": 447,
+      "revenue": 148082.16,
+      "rating": 4.6,
+      "reviews": 1421
+    },
+    {
+      "rank": 3,
+      "asin": "B0H3P9V3QK",
+      "title": "121PCS Electric Train Set 3D Infinity Cube Race Track Toy for Kid 6+",
+      "brand": "Neikko",
+      "price": 79.99,
+      "salesParent": 2139,
+      "revenue": 139569.75,
+      "rating": 4.6,
+      "reviews": 99
+    },
+    {
+      "rank": 4,
+      "asin": "B000KEPCQI",
+      "title": "KidKraft Waterfall Mountain Wooden Train Set &amp; Table; 120 Pieces, 3 Bins",
+      "brand": "KidKraft",
+      "price": 190.26,
+      "salesParent": 615,
+      "revenue": 115589.25,
+      "rating": 4.4,
+      "reviews": 5562
+    },
+    {
+      "rank": 5,
+      "asin": "B087TQC21Y",
+      "title": "Hot Bee Train Set, Train Toys with Smoke, Lights, Sound and Train Tracks",
+      "brand": "Hot Bee",
+      "price": 45.99,
+      "salesParent": 2158,
+      "revenue": 99052.2,
+      "rating": 4.3,
+      "reviews": 10502
+    },
+    {
+      "rank": 6,
+      "asin": "B0CS7GDF28",
+      "title": "Lionel The Polar Express Battery Powered Train Set for Kids Ages 4+",
+      "brand": "Lionel",
+      "price": 114.99,
+      "salesParent": 784,
+      "revenue": 90152.16,
+      "rating": 4.4,
+      "reviews": 233
+    },
+    {
+      "rank": 7,
+      "asin": "B004RK7F2U",
+      "title": "BRIO World Cargo Railway Deluxe - Wooden Track Train Set - Battery-Powered Engine, 3 Cranes, Bridge, Truck - Kids Ages 3+ - Compatible with All Wooden Rail Sets - FSC Certified Wood - 54-Pieces",
+      "brand": "BRIO",
+      "price": 192.84,
+      "salesParent": 493,
+      "revenue": 90046.45,
+      "rating": 4.7,
+      "reviews": 1590
+    },
+    {
+      "rank": 8,
+      "asin": "B0G2JV69TG",
+      "title": "110PCS Electric Train Set for Kids,3D Gravity-Defying Track for Ages 3-8",
+      "brand": "Annexfun",
+      "price": 59.99,
+      "salesParent": 1326,
+      "revenue": 89279.59,
+      "rating": 4.7,
+      "reviews": 215
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 4,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 4,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 3617109,
+    "priorHeadRevenue": 3471564,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 97,
+      "newCount": 47,
+      "pct": 48,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 41,
+      "brandCount": 56,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.52,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0FHWKP365",
+        "title": "88 pcs KlickRail® Electric Train Set Race Track for 3 4 5 6 7 8 Years Old | Building Toy Train Track Gravity-Defying 3D Embedded Layouts &amp; Motorized Car, STEM Gift(Deluxe Set(88 piece)",
+        "rating": 4.6,
+        "reviews": 213
+      },
+      {
+        "rank": 2,
+        "asin": "B007IGRV6U",
+        "title": "BRIO World Deluxe Railway Set - 87-Piece Wooden Train Set - Includes Passenger &amp; Freight Trains, Stations, Accessories - Safe &amp; Sustainable - MESH Accredited Fun Play for Kids Ages 3 &amp; Up",
+        "rating": 4.6,
+        "reviews": 1421
+      },
+      {
+        "rank": 3,
+        "asin": "B0H3P9V3QK",
+        "title": "121PCS Electric Train Set 3D Infinity Cube Race Track Toy for Kid 6+",
+        "rating": 4.6,
+        "reviews": 99
+      },
+      {
+        "rank": 4,
+        "asin": "B000KEPCQI",
+        "title": "KidKraft Waterfall Mountain Wooden Train Set &amp; Table; 120 Pieces, 3 Bins",
+        "rating": 4.4,
+        "reviews": 5562
+      },
+      {
+        "rank": 5,
+        "asin": "B087TQC21Y",
+        "title": "Hot Bee Train Set, Train Toys with Smoke, Lights, Sound and Train Tracks",
+        "rating": 4.3,
+        "reviews": 10502
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:23539911011:166626011:166620011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

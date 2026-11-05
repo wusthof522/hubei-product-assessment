@@ -1,0 +1,86 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23777919011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins, Minerals & Supplements > Herbal Supplements > Trikatu",
+  "categoryPathCn": "健康与家居 > Vitamins, Minerals & Supplements > Herbal Supplements > Trikatu",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "insufficient",
+  "marketSize": {
+    "sampleCount": 1,
+    "totalRevenue": 3112,
+    "avgRevenue": 3112,
+    "medianPrice": 17.99,
+    "priceBand": null,
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0011Y0YKK",
+      "title": "Himalaya Organic Trikatu, 60 Day Supply - Digestive Health Supplement for Occasional Bloating, Heartburn, and Indigestion Relief - USDA Organic, Vegan, Non-GMO, Gluten Free, 60 Caplets",
+      "brand": "Himalaya",
+      "price": 17.99,
+      "salesParent": 173,
+      "revenue": 3112.27,
+      "rating": 4.4,
+      "reviews": 382
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": null,
+    "direction": "flat",
+    "comparable": null,
+    "rawYoyPct": -97,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 3112,
+    "priorHeadRevenue": 106664,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 1,
+      "newCount": 0,
+      "pct": 0,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 100,
+      "brandCount": 1,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.4,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0011Y0YKK",
+        "title": "Himalaya Organic Trikatu, 60 Day Supply - Digestive Health Supplement for Occasional Bloating, Heartburn, and Indigestion Relief - USDA Organic, Vegan, Non-GMO, Gluten Free, 60 Caplets",
+        "rating": 4.4,
+        "reviews": 382
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:23675621011:3764461:23777919011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

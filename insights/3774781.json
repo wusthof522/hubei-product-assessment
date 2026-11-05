@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3774781",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins, Minerals & Supplements > Vitamins > Vitamin D",
+  "categoryPathCn": "健康与家居 > 身、泳和附剂 > 形象 > 维生素D",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 19335597,
+    "avgRevenue": 193356,
+    "medianPrice": 18.79,
+    "priceBand": "$12.95 - $27.36",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B00GB85JR4",
+      "title": "NatureWise Vitamin D3 5000IU Supplement, Immune Support, 360 Mini Softgels",
+      "brand": "NatureWise",
+      "price": 14.99,
+      "salesParent": 134870,
+      "revenue": 2021701.25,
+      "rating": 4.8,
+      "reviews": 159713
+    },
+    {
+      "rank": 2,
+      "asin": "B0CTKTC9JT",
+      "title": "Vitafusion Fiber Well Sugar Free Fiber Supplement &amp; Vitamin D3 Gummy Vitamins for Bone and Immune System Support, Peach, BlackBerry and Strawberry Flavored, 50 mcg Vitamin D, 75 Day Supply, 150 Count",
+      "brand": "Vitafusion",
+      "price": 23.47,
+      "salesParent": 76242,
+      "revenue": 1789399.75,
+      "rating": 4.0,
+      "reviews": 6
+    },
+    {
+      "rank": 3,
+      "asin": "B004U3Y8OM",
+      "title": "Nature Made Vitamin D3 1000 IU (25 mcg), 300 Vitamin D Softgels",
+      "brand": "Nature Made",
+      "price": 8.89,
+      "salesParent": 126272,
+      "revenue": 1128871.62,
+      "rating": 4.8,
+      "reviews": 63301
+    },
+    {
+      "rank": 4,
+      "asin": "B0017Q948U",
+      "title": "Pure Encapsulations Vitamin D3 125 mcg (5,000 IU), 120 Capsules",
+      "brand": "Pure Encapsulations",
+      "price": 36.0,
+      "salesParent": 24836,
+      "revenue": 894096.0,
+      "rating": 4.8,
+      "reviews": 8775
+    },
+    {
+      "rank": 5,
+      "asin": "B0797HQFGT",
+      "title": "THORNE Vitamin D-5,000, Vitamin D3 Supplement, 5,000 IU, 60 Capsules",
+      "brand": "THORNE",
+      "price": 20.0,
+      "salesParent": 36473,
+      "revenue": 729460.0,
+      "rating": 4.8,
+      "reviews": 9652
+    },
+    {
+      "rank": 6,
+      "asin": "B004GJYTF8",
+      "title": "Nature Made Vitamin D3 2000 IU (50 mcg), 250 Vitamin D Softgels",
+      "brand": "Nature Made",
+      "price": 17.72,
+      "salesParent": 47445,
+      "revenue": 712149.44,
+      "rating": 4.8,
+      "reviews": 40616
+    },
+    {
+      "rank": 7,
+      "asin": "B008GC9T6A",
+      "title": "Nature Made Vitamin D3 5000 IU (125 mcg), 180 Vitamin D Softgels",
+      "brand": "Nature Made",
+      "price": 14.14,
+      "salesParent": 40176,
+      "revenue": 568490.38,
+      "rating": 4.8,
+      "reviews": 68457
+    },
+    {
+      "rank": 8,
+      "asin": "B00DYSUQEA",
+      "title": "Nature's Bounty Vitamin D3 2000 IU Essential for Healthy Bones 350 Softgels",
+      "brand": "Nature's Bounty",
+      "price": 9.99,
+      "salesParent": 46583,
+      "revenue": 496108.94,
+      "rating": 4.8,
+      "reviews": 76283
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -33,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -33,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 19335597,
+    "priorHeadRevenue": 28952708,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 3,
+      "pct": 3,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 56,
+      "brandCount": 51,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.72,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B00GB85JR4",
+        "title": "NatureWise Vitamin D3 5000IU Supplement, Immune Support, 360 Mini Softgels",
+        "rating": 4.8,
+        "reviews": 159713
+      },
+      {
+        "rank": 2,
+        "asin": "B0CTKTC9JT",
+        "title": "Vitafusion Fiber Well Sugar Free Fiber Supplement &amp; Vitamin D3 Gummy Vitamins for Bone and Immune System Support, Peach, BlackBerry and Strawberry Flavored, 50 mcg Vitamin D, 75 Day Supply, 150 Count",
+        "rating": 4.0,
+        "reviews": 6
+      },
+      {
+        "rank": 3,
+        "asin": "B004U3Y8OM",
+        "title": "Nature Made Vitamin D3 1000 IU (25 mcg), 300 Vitamin D Softgels",
+        "rating": 4.8,
+        "reviews": 63301
+      },
+      {
+        "rank": 4,
+        "asin": "B0017Q948U",
+        "title": "Pure Encapsulations Vitamin D3 125 mcg (5,000 IU), 120 Capsules",
+        "rating": 4.8,
+        "reviews": 8775
+      },
+      {
+        "rank": 5,
+        "asin": "B0797HQFGT",
+        "title": "THORNE Vitamin D-5,000, Vitamin D3 Supplement, 5,000 IU, 60 Capsules",
+        "rating": 4.8,
+        "reviews": 9652
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:23675621011:6936790011:3774781",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

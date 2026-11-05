@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23564874011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Novelty & Gag Toys > Fidget Toys > Fidget Pads",
+  "categoryPathCn": "Toys & Games > Novelty & Gag Toys > Fidget Toys > Fidget Pads",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 607849,
+    "avgRevenue": 6140,
+    "medianPrice": 15.99,
+    "priceBand": "$9.99 - $19.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0CRXCSLTX",
+      "title": "Pushpeel Sensory Activity Board: Silicone Fidget Toy for Calming, Stress, Anxiety, ADHD &amp; Autism | Silent, No Mess | Kids 3+ &amp; Adults | Includes Portable Travel Bag &amp; 11 Strings",
+      "brand": "Pushpeel",
+      "price": 19.98,
+      "salesParent": 11505,
+      "revenue": 248392.95,
+      "rating": 4.7,
+      "reviews": 2129
+    },
+    {
+      "rank": 2,
+      "asin": "B0H334WVP4",
+      "title": "Fidget Toys Sensory Activity Board for Kids, Fidget for Stress Anxiety Autistic ADHD, Calm Down Travel Airplane Classroom Students Prizes Toys Stuffer Gifts ,Portable Storage Box &amp; 14 String",
+      "brand": "DEFXIER",
+      "price": 9.99,
+      "salesParent": 2987,
+      "revenue": 28914.16,
+      "rating": 4.5,
+      "reviews": 108
+    },
+    {
+      "rank": 3,
+      "asin": "B091JXRHQN",
+      "title": "Original Fidget Toy Game, Rubberized Classical Controller",
+      "brand": "WTYCD",
+      "price": 6.99,
+      "salesParent": 2596,
+      "revenue": 18146.04,
+      "rating": 4.4,
+      "reviews": 4446
+    },
+    {
+      "rank": 4,
+      "asin": "B0GYYMGNNZ",
+      "title": "Large Sensory Activity Board, Silicone Fidget Toy for Autism, ADHD &amp; Stress Relief, Double-Sided Quiet Montessori Fine Motor Skills Toy Gift for 3+ Kids, Adults with 36 Strips Portable Bag (Green)",
+      "brand": "CHEROSIN",
+      "price": 15.99,
+      "salesParent": 1118,
+      "revenue": 17876.82,
+      "rating": 4.7,
+      "reviews": 28
+    },
+    {
+      "rank": 5,
+      "asin": "B0DYYBHBXC",
+      "title": "2 Pack Skin Picking Fidget Picky Toys Pick Fidget Pad Toys for Trichotillomania Skin Pickers Dermatillomania ADHD OCD Adults (2 Pack)",
+      "brand": "Generic",
+      "price": 8.99,
+      "salesParent": 1728,
+      "revenue": 15534.72,
+      "rating": 4.0,
+      "reviews": 170
+    },
+    {
+      "rank": 6,
+      "asin": "B0CLZY3763",
+      "title": "Upgraded 16 Set Sensory Mats, Mixed Colors Sensory Toys for Kids with Autism, Tactile Wall Panel Montessori Toy, Educational Toys for 3 Year Old, Toddler Learning Classroom Supplies Gift(8.3 Inch)",
+      "brand": "Keculf",
+      "price": 38.99,
+      "salesParent": 338,
+      "revenue": 13178.62,
+      "rating": 4.6,
+      "reviews": 228
+    },
+    {
+      "rank": 7,
+      "asin": "B0DPLDSZSF",
+      "title": "Reusable Skin Picking Fidget Toys, Picking Pad, Trichotillomania Fidget Toy",
+      "brand": "Sooppervix",
+      "price": 19.99,
+      "salesParent": 571,
+      "revenue": 11334.35,
+      "rating": 3.9,
+      "reviews": 307
+    },
+    {
+      "rank": 8,
+      "asin": "B0G2VJV3R8",
+      "title": "Fidget Toys for Kids 3+, Sensory Activity Knitted Board with 20 Strings",
+      "brand": "ddLUCK",
+      "price": 8.99,
+      "salesParent": 1092,
+      "revenue": 10745.28,
+      "rating": 4.7,
+      "reviews": 162
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -7,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -7,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 607849,
+    "priorHeadRevenue": 655728,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 68,
+      "pct": 69,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 56,
+      "brandCount": 71,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.34,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0CRXCSLTX",
+        "title": "Pushpeel Sensory Activity Board: Silicone Fidget Toy for Calming, Stress, Anxiety, ADHD &amp; Autism | Silent, No Mess | Kids 3+ &amp; Adults | Includes Portable Travel Bag &amp; 11 Strings",
+        "rating": 4.7,
+        "reviews": 2129
+      },
+      {
+        "rank": 2,
+        "asin": "B0H334WVP4",
+        "title": "Fidget Toys Sensory Activity Board for Kids, Fidget for Stress Anxiety Autistic ADHD, Calm Down Travel Airplane Classroom Students Prizes Toys Stuffer Gifts ,Portable Storage Box &amp; 14 String",
+        "rating": 4.5,
+        "reviews": 108
+      },
+      {
+        "rank": 3,
+        "asin": "B091JXRHQN",
+        "title": "Original Fidget Toy Game, Rubberized Classical Controller",
+        "rating": 4.4,
+        "reviews": 4446
+      },
+      {
+        "rank": 4,
+        "asin": "B0GYYMGNNZ",
+        "title": "Large Sensory Activity Board, Silicone Fidget Toy for Autism, ADHD &amp; Stress Relief, Double-Sided Quiet Montessori Fine Motor Skills Toy Gift for 3+ Kids, Adults with 36 Strips Portable Bag (Green)",
+        "rating": 4.7,
+        "reviews": 28
+      },
+      {
+        "rank": 5,
+        "asin": "B0DYYBHBXC",
+        "title": "2 Pack Skin Picking Fidget Picky Toys Pick Fidget Pad Toys for Trichotillomania Skin Pickers Dermatillomania ADHD OCD Adults (2 Pack)",
+        "rating": 4.0,
+        "reviews": 170
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166027011:17238448011:23564874011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3345523011",
+  "level": "L2",
+  "categoryPathEn": "Cell Phones & Accessories > SIM Cards & Prepaid Minutes",
+  "categoryPathCn": "手机 > SIM卡",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 98,
+    "totalRevenue": 1178348,
+    "avgRevenue": 12024,
+    "medianPrice": 27.99,
+    "priceBand": "$14.44 - $60.24",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0H7RCPYQ4",
+      "title": "SPIDERCASE for iPhone 18 Pro Case/iPhone 17 Pro Case, Burgundy",
+      "brand": "SPIDERCASE",
+      "price": 16.99,
+      "salesParent": 24639,
+      "revenue": 402847.66,
+      "rating": 4.5,
+      "reviews": 12033
+    },
+    {
+      "rank": 2,
+      "asin": "B08FXRTYPH",
+      "title": "$30/mo. Mint Mobile Phone Plan with Unlimited Talk, Text &amp; Data for 3 Months (3-in-1 SIM Card)",
+      "brand": "Mint Mobile",
+      "price": 90.0,
+      "salesParent": 1741,
+      "revenue": 140063.44,
+      "rating": 4.3,
+      "reviews": 1732
+    },
+    {
+      "rank": 3,
+      "asin": "B0G4CWFM83",
+      "title": "TOCOL for Samsung Galaxy S26 Ultra Screen Protector",
+      "brand": "TOCOL",
+      "price": 8.99,
+      "salesParent": 14297,
+      "revenue": 135249.62,
+      "rating": 4.3,
+      "reviews": 34969
+    },
+    {
+      "rank": 4,
+      "asin": "B0C4BC62ZN",
+      "title": "Tracfone $99.99 Annual Prepaid Card: 400 Talk Minutes / 365 Service Days (Basic Phones Only) [Physical Card]",
+      "brand": "Tracfone",
+      "price": 124.98,
+      "salesParent": 432,
+      "revenue": 44159.04,
+      "rating": 4.6,
+      "reviews": 777
+    },
+    {
+      "rank": 5,
+      "asin": "B09QKF2M2S",
+      "title": "EIOTCLUB Data SIM Card for 360 Days for Unlocked Security Hunting Cameras",
+      "brand": "EIOTCLUB",
+      "price": 119.0,
+      "salesParent": 318,
+      "revenue": 37842.0,
+      "rating": 4.5,
+      "reviews": 444
+    },
+    {
+      "rank": 6,
+      "asin": "B01AKR983M",
+      "title": "BlueCosmo Inmarsat IsatPhone 2.1 Satellite Phone Kit (SIM Included), unlocked - Global Coverage - Voice, SMS, GPS Tracking, Emergency SOS - Prepaid and Monthly Service Plan Options",
+      "brand": "BlueCosmo",
+      "price": 789.0,
+      "salesParent": 44,
+      "revenue": 34716.0,
+      "rating": 4.3,
+      "reviews": 307
+    },
+    {
+      "rank": 7,
+      "asin": "B0DJY2DCFX",
+      "title": "Data SIM Card 50GB 365Days Works with Verizon, AT&amp;T and T-Mobile",
+      "brand": "TALKSIM",
+      "price": 129.99,
+      "salesParent": 169,
+      "revenue": 21968.31,
+      "rating": 3.9,
+      "reviews": 96
+    },
+    {
+      "rank": 8,
+      "asin": "B0D4FFVT8D",
+      "title": "Tracfone $144 Unlimited Talk &amp; Text Annual Prepaid Plan(Physical Delivery)",
+      "brand": "Tracfone",
+      "price": 144.0,
+      "salesParent": 111,
+      "revenue": 15984.0,
+      "rating": null,
+      "reviews": null
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 32,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 32,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1178348,
+    "priorHeadRevenue": 891075,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 98,
+      "newCount": 30,
+      "pct": 31,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 74,
+      "brandCount": 43,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.04,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0H7RCPYQ4",
+        "title": "SPIDERCASE for iPhone 18 Pro Case/iPhone 17 Pro Case, Burgundy",
+        "rating": 4.5,
+        "reviews": 12033
+      },
+      {
+        "rank": 2,
+        "asin": "B08FXRTYPH",
+        "title": "$30/mo. Mint Mobile Phone Plan with Unlimited Talk, Text &amp; Data for 3 Months (3-in-1 SIM Card)",
+        "rating": 4.3,
+        "reviews": 1732
+      },
+      {
+        "rank": 3,
+        "asin": "B0G4CWFM83",
+        "title": "TOCOL for Samsung Galaxy S26 Ultra Screen Protector",
+        "rating": 4.3,
+        "reviews": 34969
+      },
+      {
+        "rank": 4,
+        "asin": "B0C4BC62ZN",
+        "title": "Tracfone $99.99 Annual Prepaid Card: 400 Talk Minutes / 365 Service Days (Basic Phones Only) [Physical Card]",
+        "rating": 4.6,
+        "reviews": 777
+      },
+      {
+        "rank": 5,
+        "asin": "B09QKF2M2S",
+        "title": "EIOTCLUB Data SIM Card for 360 Days for Unlocked Security Hunting Cameras",
+        "rating": 4.5,
+        "reviews": 444
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "2335752011:3345523011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

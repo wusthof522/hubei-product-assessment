@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "12897221",
+  "level": "L2",
+  "categoryPathEn": "Arts, Crafts & Sewing > Knitting & Crochet",
+  "categoryPathCn": "艺术、手工艺 > 编织",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 86,
+    "totalRevenue": 21025086,
+    "avgRevenue": 244478,
+    "medianPrice": 19.99,
+    "priceBand": "$11.86 - $32.53",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0FD82T2BS",
+      "title": "Red Heart Super Saver Metallic Black/Gold Yarn of 5oz/142g - Acrylic - 4 Medium (Worsted) - 255 Yards - Knitting/Crochet (Pack of 24)",
+      "brand": "Red Heart",
+      "price": 193.18,
+      "salesParent": 28279,
+      "revenue": 5462937.0,
+      "rating": 4.7,
+      "reviews": 37466
+    },
+    {
+      "rank": 2,
+      "asin": "B0FW53Z5WQ",
+      "title": "Cozyful Chunky Yarn for Hand Knitting - #10 Chunky Chenille Yarn, Jumbo Big Thick Chunky Yarns for Crocheting, Super Bulky Chunky Knit Blanket Yarns, 8 Skein (22 yds 8 oz Each Skein), Beige White",
+      "brand": "Cozyful",
+      "price": 34.99,
+      "salesParent": 23996,
+      "revenue": 839620.06,
+      "rating": 5.0,
+      "reviews": 3171
+    },
+    {
+      "rank": 3,
+      "asin": "B09W1L7J5D",
+      "title": "Red Heart Super Saver Yarn, 3 Pack, Grape Fizz 3 Count",
+      "brand": "Red Heart",
+      "price": 17.49,
+      "salesParent": 28279,
+      "revenue": 494599.72,
+      "rating": 4.4,
+      "reviews": 241
+    },
+    {
+      "rank": 4,
+      "asin": "B09W1KN962",
+      "title": "RED HEART Super Saver 3-Pack yarn, DARK ORCHID 3 Pack",
+      "brand": "Red Heart",
+      "price": 14.54,
+      "salesParent": 28279,
+      "revenue": 410045.5,
+      "rating": 4.7,
+      "reviews": 408
+    },
+    {
+      "rank": 5,
+      "asin": "B09W1KH15B",
+      "title": "RED HEART Super Saver 3-Pack yarn, LIGHT GREY 3 Pack",
+      "brand": "Red Heart",
+      "price": 14.54,
+      "salesParent": 28279,
+      "revenue": 407217.59,
+      "rating": 4.6,
+      "reviews": 633
+    },
+    {
+      "rank": 6,
+      "asin": "B0FBKMNMKB",
+      "title": "Cozyful Chunky Yarn for Hand Knitting - #10 Chunky Chenille Blanket Yarn, Jumbo Big Thick Chunky Yarns for Crocheting, Tie Dye Bulky Knit Yarns, 8 Skein (20 yds 8 oz Each Skein), Cream&amp;Sage&amp;Grey&amp;Khaki",
+      "brand": "Cozyful",
+      "price": 25.99,
+      "salesParent": 16228,
+      "revenue": 404401.75,
+      "rating": 4.5,
+      "reviews": 2250
+    },
+    {
+      "rank": 7,
+      "asin": "B09W1KW4WG",
+      "title": "RED HEART Super Saver 3-Pack yarn, FRUITY STRIPE 3 Pack",
+      "brand": "Red Heart",
+      "price": 14.54,
+      "salesParent": 28279,
+      "revenue": 396754.38,
+      "rating": 4.7,
+      "reviews": 359
+    },
+    {
+      "rank": 8,
+      "asin": "B0BB867T35",
+      "title": "Red Heart Super Saver Yarn for Crocheting &amp; Knitting, Parrot Stripe, 3-Pack",
+      "brand": "Red Heart",
+      "price": 13.37,
+      "salesParent": 28279,
+      "revenue": 378090.22,
+      "rating": 4.7,
+      "reviews": 228
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 140,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 140,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 21025086,
+    "priorHeadRevenue": 8778255,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 86,
+      "newCount": 18,
+      "pct": 21,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 82,
+      "brandCount": 31,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.6,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0FD82T2BS",
+        "title": "Red Heart Super Saver Metallic Black/Gold Yarn of 5oz/142g - Acrylic - 4 Medium (Worsted) - 255 Yards - Knitting/Crochet (Pack of 24)",
+        "rating": 4.7,
+        "reviews": 37466
+      },
+      {
+        "rank": 2,
+        "asin": "B0FW53Z5WQ",
+        "title": "Cozyful Chunky Yarn for Hand Knitting - #10 Chunky Chenille Yarn, Jumbo Big Thick Chunky Yarns for Crocheting, Super Bulky Chunky Knit Blanket Yarns, 8 Skein (22 yds 8 oz Each Skein), Beige White",
+        "rating": 5.0,
+        "reviews": 3171
+      },
+      {
+        "rank": 3,
+        "asin": "B09W1L7J5D",
+        "title": "Red Heart Super Saver Yarn, 3 Pack, Grape Fizz 3 Count",
+        "rating": 4.4,
+        "reviews": 241
+      },
+      {
+        "rank": 4,
+        "asin": "B09W1KN962",
+        "title": "RED HEART Super Saver 3-Pack yarn, DARK ORCHID 3 Pack",
+        "rating": 4.7,
+        "reviews": 408
+      },
+      {
+        "rank": 5,
+        "asin": "B09W1KH15B",
+        "title": "RED HEART Super Saver 3-Pack yarn, LIGHT GREY 3 Pack",
+        "rating": 4.6,
+        "reviews": 633
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "2617941011:12897221",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

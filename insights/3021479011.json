@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3021479011",
+  "level": "L2",
+  "categoryPathEn": "Industrial & Scientific > Hydraulics, Pneumatics & Plumbing",
+  "categoryPathCn": "工业类 > 液压系统、气动系统",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 83,
+    "totalRevenue": 5280583,
+    "avgRevenue": 63621,
+    "medianPrice": 97.14,
+    "priceBand": "$29.99 - $319.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0FQMWQLBR",
+      "title": "U.S. Solid Motorized Ball Valve – 1/2&quot; Brass Full-Port Ball Valve, Normally Closed, 9–24V AC/DC, 2-Wire Auto Return Setup (Pack of 12)",
+      "brand": "U.S. Solid",
+      "price": 367.1,
+      "salesParent": 593,
+      "revenue": 217690.3,
+      "rating": 4.3,
+      "reviews": 547
+    },
+    {
+      "rank": 2,
+      "asin": "B004NHMOJ6",
+      "title": "Watts LF25AUB-Z3 Series 2&quot; Lead-Free Cast Copper Silicon Alloy Water Pressure Reducing Valve, NPT Female Union x NPT Female Outlet, SS Seat, Adjustable Pressure 25 to 75 psi, Maximum 300 psi",
+      "brand": "Watts",
+      "price": 1339.97,
+      "salesParent": 165,
+      "revenue": 215004.91,
+      "rating": 4.4,
+      "reviews": 15
+    },
+    {
+      "rank": 3,
+      "asin": "B0GHQ1LWV8",
+      "title": "OMT 15 GPM Fuel Transfer Pump, Oil Drum Pump with Auto Shut-Off Nozzle",
+      "brand": "Orion Motor Tech",
+      "price": 98.99,
+      "salesParent": 1482,
+      "revenue": 157907.11,
+      "rating": 4.2,
+      "reviews": 2440
+    },
+    {
+      "rank": 4,
+      "asin": "B0CVLW8D9C",
+      "title": "4x38 Hydraulic Cylinder - 4&quot; Bore 38&quot; Stroke Double Acting Welded Cross Tube Hydraulic Cylinder 3500 PSI Retracted: 48, Extended: 86,SAE#8",
+      "brand": "AMRAP HYDRAULICS",
+      "price": 438.69,
+      "salesParent": 349,
+      "revenue": 153102.81,
+      "rating": 4.5,
+      "reviews": 226
+    },
+    {
+      "rank": 5,
+      "asin": "B083BXW2XW",
+      "title": "Lead -Free Brass 16.9&quot; Winterize Sprinkler System RV Motorhome Boat Camper and Travel Trailer: Air Comp Quick-Connect Plug To 3/4&quot; Garden Hose Faucet Blow Out Adapter Fitting with Valve",
+      "brand": "Minimprover",
+      "price": 22.97,
+      "salesParent": 7096,
+      "revenue": 142558.64,
+      "rating": 4.7,
+      "reviews": 2094
+    },
+    {
+      "rank": 6,
+      "asin": "B07JN3NJTC",
+      "title": "VEVOR 4 Quart Hydraulic Power Unit, Single Acting Dump Trailer Pump, 3200 PSI Max Relief Pressure &amp; 0.91 GPM Flow Rate, DC 12V Hydraulic Pump with Metal Reservoir for Dump Trailer Car Lifting",
+      "brand": "VEVOR",
+      "price": 205.9,
+      "salesParent": 639,
+      "revenue": 130662.72,
+      "rating": 4.2,
+      "reviews": 101
+    },
+    {
+      "rank": 7,
+      "asin": "B0C8N8CG9G",
+      "title": "AQUASTRONG 1.5 HP Shallow Well Jet/Centrifugal Pump, 4250 GPH, 115/230V, Durable Cast Iron Booster Pump for Lawn Sprinkler, Garden Irrigation",
+      "brand": "AQUASTRONG",
+      "price": 349.0,
+      "salesParent": 328,
+      "revenue": 114472.0,
+      "rating": 4.3,
+      "reviews": 273
+    },
+    {
+      "rank": 8,
+      "asin": "B0F3J4KQFC",
+      "title": "CheeMuii 100PCS Brass DOT Air Line Fittings with 3 Roll 50FT DOT Air Lines",
+      "brand": "CheeMuii",
+      "price": 139.99,
+      "salesParent": 763,
+      "revenue": 106812.0,
+      "rating": 4.6,
+      "reviews": 344
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 6,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 6,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 5280583,
+    "priorHeadRevenue": 4967109,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 83,
+      "newCount": 19,
+      "pct": 23,
+      "unknownLaunch": 1,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 28,
+      "brandCount": 62,
+      "level": "分散",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.5,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0FQMWQLBR",
+        "title": "U.S. Solid Motorized Ball Valve – 1/2&quot; Brass Full-Port Ball Valve, Normally Closed, 9–24V AC/DC, 2-Wire Auto Return Setup (Pack of 12)",
+        "rating": 4.3,
+        "reviews": 547
+      },
+      {
+        "rank": 2,
+        "asin": "B004NHMOJ6",
+        "title": "Watts LF25AUB-Z3 Series 2&quot; Lead-Free Cast Copper Silicon Alloy Water Pressure Reducing Valve, NPT Female Union x NPT Female Outlet, SS Seat, Adjustable Pressure 25 to 75 psi, Maximum 300 psi",
+        "rating": 4.4,
+        "reviews": 15
+      },
+      {
+        "rank": 3,
+        "asin": "B0GHQ1LWV8",
+        "title": "OMT 15 GPM Fuel Transfer Pump, Oil Drum Pump with Auto Shut-Off Nozzle",
+        "rating": 4.2,
+        "reviews": 2440
+      },
+      {
+        "rank": 4,
+        "asin": "B0CVLW8D9C",
+        "title": "4x38 Hydraulic Cylinder - 4&quot; Bore 38&quot; Stroke Double Acting Welded Cross Tube Hydraulic Cylinder 3500 PSI Retracted: 48, Extended: 86,SAE#8",
+        "rating": 4.5,
+        "reviews": 226
+      },
+      {
+        "rank": 5,
+        "asin": "B083BXW2XW",
+        "title": "Lead -Free Brass 16.9&quot; Winterize Sprinkler System RV Motorhome Boat Camper and Travel Trailer: Air Comp Quick-Connect Plug To 3/4&quot; Garden Hose Faucet Blow Out Adapter Fitting with Valve",
+        "rating": 4.7,
+        "reviews": 2094
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "16310091:3021479011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

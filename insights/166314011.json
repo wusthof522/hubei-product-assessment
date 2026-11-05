@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "166314011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Dress Up & Pretend Play > Dress-Up Accessories > Makeup",
+  "categoryPathCn": "玩具 > 扮靓 > 装扮配件 > 化妆品",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 98,
+    "totalRevenue": 2464359,
+    "avgRevenue": 25147,
+    "medianPrice": 22.93,
+    "priceBand": "$15.74 - $25.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B095LT69HN",
+      "title": "58 Pcs Kids Makeup Toys Kit for Girls, Real Washable Make Up Set",
+      "brand": "Hollyhi",
+      "price": 22.99,
+      "salesParent": 17485,
+      "revenue": 401980.16,
+      "rating": 4.6,
+      "reviews": 15883
+    },
+    {
+      "rank": 2,
+      "asin": "B08KFMHR2W",
+      "title": "Melissa &amp; Doug Love Your Look Pretend Makeup Kit 16-Piece Play Set",
+      "brand": "Melissa &amp; Doug",
+      "price": 20.49,
+      "salesParent": 7475,
+      "revenue": 155031.5,
+      "rating": 4.7,
+      "reviews": 3003
+    },
+    {
+      "rank": 3,
+      "asin": "B0D6G65KSX",
+      "title": "99 Pcs Kids Makeup Kit for Girls, Princess Toys Real Washable Cosmetics Set",
+      "brand": "Kuovei",
+      "price": 29.99,
+      "salesParent": 4825,
+      "revenue": 144701.75,
+      "rating": 4.7,
+      "reviews": 2218
+    },
+    {
+      "rank": 4,
+      "asin": "B087CRJ6KZ",
+      "title": "TEPSMIGO Pretend Makeup Kit for Girls, Kids Pretend Play Makeup Set - with Cosmetic Bag for Birthday Christmas, Toy Makeup Set for Little Girls Age 3+(Not Real Makeup)",
+      "brand": "Tepsmigo",
+      "price": 22.99,
+      "salesParent": 4718,
+      "revenue": 105824.74,
+      "rating": 4.7,
+      "reviews": 5453
+    },
+    {
+      "rank": 5,
+      "asin": "B09YGHTRLT",
+      "title": "59 Pcs Kids Makeup Toys Kit for Girl, Non-Toxic Real Washable Pretend Set",
+      "brand": "Hollyhi",
+      "price": 32.99,
+      "salesParent": 2392,
+      "revenue": 78912.09,
+      "rating": 4.7,
+      "reviews": 2811
+    },
+    {
+      "rank": 6,
+      "asin": "B0D46SXR9V",
+      "title": "Kids Nail Polish Set for Girls, Non-Toxic Quick Dry Nail Art Salon Kit with Nail Dryer and Peelable Nail Polish,Ideal Gift Toys for Girls Age 6-12",
+      "brand": "Websonaw",
+      "price": 23.39,
+      "salesParent": 2458,
+      "revenue": 63121.44,
+      "rating": 4.6,
+      "reviews": 1238
+    },
+    {
+      "rank": 7,
+      "asin": "B0DYNL6HRP",
+      "title": "Kids Makeup Kit for Girls - Girls Makeup Kit Toys, Real Washable Cosmetic Set with Storage Case, Kids Play Makeup Set for Christmas Birthday Gift 3 4 5 6 8 10 11 12+ Years Old, Pink",
+      "brand": "Beayuck",
+      "price": 24.99,
+      "salesParent": 2261,
+      "revenue": 60278.26,
+      "rating": 4.7,
+      "reviews": 2546
+    },
+    {
+      "rank": 8,
+      "asin": "B08B399224",
+      "title": "Spooktacular Creations 18 oz Fake Halloween Bottle Fake Blood Stage Blood for Halloween Costume, Zombie and Monster Makeup &amp; Dress Up",
+      "brand": "Spooktacular Creations",
+      "price": 16.99,
+      "salesParent": 3804,
+      "revenue": 51658.32,
+      "rating": 4.5,
+      "reviews": 2593
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -15,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -15,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 2464359,
+    "priorHeadRevenue": 2897499,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 98,
+      "newCount": 40,
+      "pct": 41,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 41,
+      "brandCount": 70,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.54,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B095LT69HN",
+        "title": "58 Pcs Kids Makeup Toys Kit for Girls, Real Washable Make Up Set",
+        "rating": 4.6,
+        "reviews": 15883
+      },
+      {
+        "rank": 2,
+        "asin": "B08KFMHR2W",
+        "title": "Melissa &amp; Doug Love Your Look Pretend Makeup Kit 16-Piece Play Set",
+        "rating": 4.7,
+        "reviews": 3003
+      },
+      {
+        "rank": 3,
+        "asin": "B0D6G65KSX",
+        "title": "99 Pcs Kids Makeup Kit for Girls, Princess Toys Real Washable Cosmetics Set",
+        "rating": 4.7,
+        "reviews": 2218
+      },
+      {
+        "rank": 4,
+        "asin": "B087CRJ6KZ",
+        "title": "TEPSMIGO Pretend Makeup Kit for Girls, Kids Pretend Play Makeup Set - with Cosmetic Bag for Birthday Christmas, Toy Makeup Set for Little Girls Age 3+(Not Real Makeup)",
+        "rating": 4.7,
+        "reviews": 5453
+      },
+      {
+        "rank": 5,
+        "asin": "B09YGHTRLT",
+        "title": "59 Pcs Kids Makeup Toys Kit for Girl, Non-Toxic Real Washable Pretend Set",
+        "rating": 4.7,
+        "reviews": 2811
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166316011:23744271011:166314011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

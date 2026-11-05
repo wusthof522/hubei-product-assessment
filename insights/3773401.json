@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3773401",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins, Minerals & Supplements > Chondroitin & Glucosamine > Chondroitin",
+  "categoryPathCn": "健康与家居 > 身、泳和附剂 > 金牌素和喇叭 > 软骨素",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 6319211,
+    "avgRevenue": 63830,
+    "medianPrice": 27.48,
+    "priceBand": "$22.47 - $37.95",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B01GVJK3XW",
+      "title": "Glucosamine Chondroitin MSM Joint Support Supplement for Women &amp; Men 90 Ct",
+      "brand": "Vimerson Health",
+      "price": 24.62,
+      "salesParent": 53316,
+      "revenue": 1528569.75,
+      "rating": 4.5,
+      "reviews": 46459
+    },
+    {
+      "rank": 2,
+      "asin": "B00006FE3S",
+      "title": "Osteo Bi-Flex Triple Strength Glucosamine Chondroitin Supplement, 120 Count",
+      "brand": "Osteo Bi-Flex",
+      "price": 20.69,
+      "salesParent": 26967,
+      "revenue": 574127.44,
+      "rating": 4.6,
+      "reviews": 17129
+    },
+    {
+      "rank": 3,
+      "asin": "B0FP75CY67",
+      "title": "Santo Remedio Articulaciones, Joint Health Support Supplement, 60 Servings",
+      "brand": "Santo Remedio",
+      "price": 64.49,
+      "salesParent": 4739,
+      "revenue": 305618.09,
+      "rating": 4.5,
+      "reviews": 1775
+    },
+    {
+      "rank": 4,
+      "asin": "B09YDMDMDP",
+      "title": "Nature Made Glucosamine Chondroitin Complex with MSM, 120 Caplets",
+      "brand": "Nature Made",
+      "price": 19.49,
+      "salesParent": 13293,
+      "revenue": 233823.88,
+      "rating": 4.6,
+      "reviews": 9189
+    },
+    {
+      "rank": 5,
+      "asin": "B01ANSLIFY",
+      "title": "Move Free Advanced Glucosamine Chondroitin MSM + Vitamin D3-120 ct",
+      "brand": "Move Free",
+      "price": 26.88,
+      "salesParent": 8253,
+      "revenue": 221840.64,
+      "rating": 4.6,
+      "reviews": 5793
+    },
+    {
+      "rank": 6,
+      "asin": "B004EMNER6",
+      "title": "Animal Flex Joint Supplement for Defense, Repair, Rebuild | 44 Pill Packs",
+      "brand": "Animal",
+      "price": 37.95,
+      "salesParent": 5327,
+      "revenue": 202159.66,
+      "rating": 4.6,
+      "reviews": 5953
+    },
+    {
+      "rank": 7,
+      "asin": "B0082D9QUW",
+      "title": "Osteo Bi-Flex One Per Day Vitamin D Supplement, 60 Coated Tablets",
+      "brand": "Osteo Bi-Flex",
+      "price": 19.57,
+      "salesParent": 8655,
+      "revenue": 167560.81,
+      "rating": 4.5,
+      "reviews": 13334
+    },
+    {
+      "rank": 8,
+      "asin": "B00GYZWNY6",
+      "title": "Kirkland Extra Strength Glucosamine 1500 mg Chondroitin 1200 mg 220 Tablets",
+      "brand": "KIRKLAND",
+      "price": 28.49,
+      "salesParent": 5540,
+      "revenue": 157169.8,
+      "rating": 4.7,
+      "reviews": 5329
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -17,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -17,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 6319211,
+    "priorHeadRevenue": 7643049,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 15,
+      "pct": 15,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 52,
+      "brandCount": 82,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.52,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B01GVJK3XW",
+        "title": "Glucosamine Chondroitin MSM Joint Support Supplement for Women &amp; Men 90 Ct",
+        "rating": 4.5,
+        "reviews": 46459
+      },
+      {
+        "rank": 2,
+        "asin": "B00006FE3S",
+        "title": "Osteo Bi-Flex Triple Strength Glucosamine Chondroitin Supplement, 120 Count",
+        "rating": 4.6,
+        "reviews": 17129
+      },
+      {
+        "rank": 3,
+        "asin": "B0FP75CY67",
+        "title": "Santo Remedio Articulaciones, Joint Health Support Supplement, 60 Servings",
+        "rating": 4.5,
+        "reviews": 1775
+      },
+      {
+        "rank": 4,
+        "asin": "B09YDMDMDP",
+        "title": "Nature Made Glucosamine Chondroitin Complex with MSM, 120 Caplets",
+        "rating": 4.6,
+        "reviews": 9189
+      },
+      {
+        "rank": 5,
+        "asin": "B01ANSLIFY",
+        "title": "Move Free Advanced Glucosamine Chondroitin MSM + Vitamin D3-120 ct",
+        "rating": 4.6,
+        "reviews": 5793
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:23675621011:3773391:3773401",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

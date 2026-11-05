@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23642778011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Toy Figures & Playsets > Play Figure Vehicles > Boats",
+  "categoryPathCn": "玩具 > 玩具图 > 游戏人物车辆 > 船",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 31,
+    "totalRevenue": 17294,
+    "avgRevenue": 558,
+    "medianPrice": 41.96,
+    "priceBand": "$18.87 - $70.44",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0HBCWQZ49",
+      "title": "Home Accents Holiday 9.5 FT Dead Water Animated LED Pirate Ship",
+      "brand": "Generic",
+      "price": 1199.99,
+      "salesParent": 3,
+      "revenue": 3599.97,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "rank": 2,
+      "asin": "B0CH6Z8BDT",
+      "title": "Terra GUP 1 Toy Compatible with Octonauts Toys, Oct GUP Metal Vehicle Rescue Ship Octopod Castle Barnacles Kwazii Shellington Tweak Dashi Peso Birthday Gifts for Kids",
+      "brand": "Cobalt Light",
+      "price": 49.99,
+      "salesParent": 48,
+      "revenue": 2399.52,
+      "rating": 3.6,
+      "reviews": 60
+    },
+    {
+      "rank": 3,
+      "asin": "B0HG8QX47H",
+      "title": "Battlestar Galactica Official Ships Collection | Classic Galactica",
+      "brand": "Master Replicas",
+      "price": 69.99,
+      "salesParent": 26,
+      "revenue": 1933.88,
+      "rating": 5.0,
+      "reviews": 1
+    },
+    {
+      "rank": 4,
+      "asin": "B0HG8CJQ4P",
+      "title": "Battlestar Galactica Official Ships Collection | Viper Mark I (Classic)",
+      "brand": "Master Replicas",
+      "price": 84.99,
+      "salesParent": 22,
+      "revenue": 1869.78,
+      "rating": null,
+      "reviews": 1
+    },
+    {
+      "rank": 5,
+      "asin": "B095XPF3MC",
+      "title": "Jaws - Shark Eating Boat Movie Moment Pop! Vinyl [RS]",
+      "brand": "Funko",
+      "price": 145.88,
+      "salesParent": 11,
+      "revenue": 1604.68,
+      "rating": 4.7,
+      "reviews": 297
+    },
+    {
+      "rank": 6,
+      "asin": "B08SP49PZ2",
+      "title": "ArtCreativity Aquatic Research Vessel, Battery Operated Toy Boat for Kids, Floats in Water, Floating Bathtub and Pool Toy for Boys and Girls, Best Birthday Gift for Children",
+      "brand": "ArtCreativity",
+      "price": 16.99,
+      "salesParent": 88,
+      "revenue": 1503.04,
+      "rating": 2.9,
+      "reviews": 473
+    },
+    {
+      "rank": 7,
+      "asin": "B0H74ZKX4R",
+      "title": "17.5 Inch Mini Aircraft Carrier with 8 Fighter Jets Helicopters",
+      "brand": "Toy Essentials",
+      "price": 24.99,
+      "salesParent": 44,
+      "revenue": 1099.56,
+      "rating": 4.1,
+      "reviews": 29
+    },
+    {
+      "rank": 8,
+      "asin": "B0DR3R5DR3",
+      "title": "Hot Wheels Star Wars Starships Select #35 TIE Avenger",
+      "brand": "Hot Wheels",
+      "price": 22.46,
+      "salesParent": 44,
+      "revenue": 983.4,
+      "rating": 5.0,
+      "reviews": 6
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": null,
+    "direction": "flat",
+    "comparable": null,
+    "rawYoyPct": 89,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 17294,
+    "priorHeadRevenue": 9159,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 31,
+      "newCount": 14,
+      "pct": 45,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 80,
+      "brandCount": 24,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.41,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0HBCWQZ49",
+        "title": "Home Accents Holiday 9.5 FT Dead Water Animated LED Pirate Ship",
+        "rating": null,
+        "reviews": null
+      },
+      {
+        "rank": 2,
+        "asin": "B0CH6Z8BDT",
+        "title": "Terra GUP 1 Toy Compatible with Octonauts Toys, Oct GUP Metal Vehicle Rescue Ship Octopod Castle Barnacles Kwazii Shellington Tweak Dashi Peso Birthday Gifts for Kids",
+        "rating": 3.6,
+        "reviews": 60
+      },
+      {
+        "rank": 3,
+        "asin": "B0HG8QX47H",
+        "title": "Battlestar Galactica Official Ships Collection | Classic Galactica",
+        "rating": 5.0,
+        "reviews": 1
+      },
+      {
+        "rank": 4,
+        "asin": "B0HG8CJQ4P",
+        "title": "Battlestar Galactica Official Ships Collection | Viper Mark I (Classic)",
+        "rating": null,
+        "reviews": 1
+      },
+      {
+        "rank": 5,
+        "asin": "B095XPF3MC",
+        "title": "Jaws - Shark Eating Boat Movie Moment Pop! Vinyl [RS]",
+        "rating": 4.7,
+        "reviews": 297
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:165993011:274293011:23642778011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

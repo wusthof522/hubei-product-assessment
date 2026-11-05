@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "13213837011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Oral Care > Baby & Child Dental Care > Children's Dental Care",
+  "categoryPathCn": "健康与家居 > 口腔护理 > 婴儿和儿童牙科护理 > 儿童牙科护理",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 92,
+    "totalRevenue": 11145301,
+    "avgRevenue": 121145,
+    "medianPrice": 15.34,
+    "priceBand": "$9.54 - $23.73",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0GYV219MS",
+      "title": "Mouthology Kids Toothpaste Fluoride Free, Watermelon, 3pk",
+      "brand": "Mouthology",
+      "price": 26.99,
+      "salesParent": 94619,
+      "revenue": 2553766.75,
+      "rating": 4.6,
+      "reviews": 218
+    },
+    {
+      "rank": 2,
+      "asin": "B0CP6B6P56",
+      "title": "Boka Toothpaste - Nano Hydroxyapatite Toothpaste, Fluoride Free Toothpaste",
+      "brand": "Boka",
+      "price": 11.62,
+      "salesParent": 74796,
+      "revenue": 869129.5,
+      "rating": 4.6,
+      "reviews": 12590
+    },
+    {
+      "rank": 3,
+      "asin": "B0H8QWLY9H",
+      "title": "Kids Cavity Protection Toothpaste, Sparkle Fun Flavor, 4.6 Ounce (Pack of 12)",
+      "brand": "Crest",
+      "price": 19.96,
+      "salesParent": 30465,
+      "revenue": 608081.38,
+      "rating": 4.8,
+      "reviews": 33351
+    },
+    {
+      "rank": 4,
+      "asin": "B082VL6SH9",
+      "title": "Tom's of Maine Natural Kids Fluoride Toothpaste, Strawberry, 3 Pack, 5.1 oz",
+      "brand": "Tom's of Maine",
+      "price": 12.69,
+      "salesParent": 42889,
+      "revenue": 577285.94,
+      "rating": 4.6,
+      "reviews": 17878
+    },
+    {
+      "rank": 5,
+      "asin": "B0C5B7VFW7",
+      "title": "hello Kids Fluoride Toothpaste Variety Pack, 3 Pack, 4.2 oz",
+      "brand": "hello",
+      "price": 14.1,
+      "salesParent": 40217,
+      "revenue": 559820.62,
+      "rating": 4.7,
+      "reviews": 2582
+    },
+    {
+      "rank": 6,
+      "asin": "B00YAR7ZL6",
+      "title": "Philips Sonicare for Kids 3+ Bluetooth Connected Rechargeable Electric Power Toothbrush, Interactive for Better Brushing, Turquoise, HX6321/02",
+      "brand": "Philips Sonicare",
+      "price": 34.96,
+      "salesParent": 13656,
+      "revenue": 477413.75,
+      "rating": 4.7,
+      "reviews": 15897
+    },
+    {
+      "rank": 7,
+      "asin": "B0FM46WJ7W",
+      "title": "autobrush Kids U-Shaped Electric Toothbrush, ADA Accepted, Ages 3-5",
+      "brand": "autobrush",
+      "price": 89.0,
+      "salesParent": 2763,
+      "revenue": 245907.0,
+      "rating": 4.0,
+      "reviews": 476
+    },
+    {
+      "rank": 8,
+      "asin": "B0BP5ZQ879",
+      "title": "Advanced Kid's Fluoride Toothpaste, Bubblegum Flavor, 4.2 oz, 3 Count, Color-Changing Anticavity Toothpaste",
+      "brand": "Crest",
+      "price": 11.24,
+      "salesParent": 20468,
+      "revenue": 231493.09,
+      "rating": 4.7,
+      "reviews": 3767
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 74,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 74,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 11145301,
+    "priorHeadRevenue": 6420659,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 92,
+      "newCount": 26,
+      "pct": 28,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 53,
+      "brandCount": 55,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.55,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0GYV219MS",
+        "title": "Mouthology Kids Toothpaste Fluoride Free, Watermelon, 3pk",
+        "rating": 4.6,
+        "reviews": 218
+      },
+      {
+        "rank": 2,
+        "asin": "B0CP6B6P56",
+        "title": "Boka Toothpaste - Nano Hydroxyapatite Toothpaste, Fluoride Free Toothpaste",
+        "rating": 4.6,
+        "reviews": 12590
+      },
+      {
+        "rank": 3,
+        "asin": "B0H8QWLY9H",
+        "title": "Kids Cavity Protection Toothpaste, Sparkle Fun Flavor, 4.6 Ounce (Pack of 12)",
+        "rating": 4.8,
+        "reviews": 33351
+      },
+      {
+        "rank": 4,
+        "asin": "B082VL6SH9",
+        "title": "Tom's of Maine Natural Kids Fluoride Toothpaste, Strawberry, 3 Pack, 5.1 oz",
+        "rating": 4.6,
+        "reviews": 17878
+      },
+      {
+        "rank": 5,
+        "asin": "B0C5B7VFW7",
+        "title": "hello Kids Fluoride Toothpaste Variety Pack, 3 Pack, 4.2 oz",
+        "rating": 4.7,
+        "reviews": 2582
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:10079992011:23912497011:13213837011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

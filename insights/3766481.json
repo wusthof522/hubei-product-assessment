@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3766481",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins, Minerals & Supplements > Herbal Supplements > Nettle",
+  "categoryPathCn": "健康与家居 > 身、泳和附剂 > 草本补充 > 荨麻",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 93,
+    "totalRevenue": 1606408,
+    "avgRevenue": 17273,
+    "medianPrice": 23.99,
+    "priceBand": "$15.29 - $32.98",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0DW5H679T",
+      "title": "Snap Supplements Prostate Health + Nitric Oxide Booster Bundle, 90+60 Caps",
+      "brand": "Snap Supplements",
+      "price": 39.95,
+      "salesParent": 6316,
+      "revenue": 252324.2,
+      "rating": 4.4,
+      "reviews": 3104
+    },
+    {
+      "rank": 2,
+      "asin": "B07TZLCBCJ",
+      "title": "Prostacor Natural Prostate Support Supplement for Men, Vegan, Gluten-Free",
+      "brand": "Prostacor",
+      "price": 39.95,
+      "salesParent": 5672,
+      "revenue": 226596.41,
+      "rating": 4.0,
+      "reviews": 1759
+    },
+    {
+      "rank": 3,
+      "asin": "B0BBPYJXJ4",
+      "title": "Snap Supplements Prostate Health Supplements for Men, 90 Vegan Capsules",
+      "brand": "Snap Supplements",
+      "price": 33.95,
+      "salesParent": 4920,
+      "revenue": 160884.0,
+      "rating": 4.4,
+      "reviews": 2883
+    },
+    {
+      "rank": 4,
+      "asin": "B0C3J2G9N1",
+      "title": "Advanced Kidney Cleanse Support - Cranberry Extract Capsules - 60 Count",
+      "brand": "Natures Craft",
+      "price": 19.99,
+      "salesParent": 4377,
+      "revenue": 87496.23,
+      "rating": 4.5,
+      "reviews": 2366
+    },
+    {
+      "rank": 5,
+      "asin": "B008AJWSSK",
+      "title": "边疆合作社有机刺荨麻叶，切割筛分，用于制作荨麻茶，犹太洁食 |16盎司（一包）",
+      "brand": "Frontier Co-op",
+      "price": 22.92,
+      "salesParent": 3387,
+      "revenue": 76410.72,
+      "rating": 4.7,
+      "reviews": 4949
+    },
+    {
+      "rank": 6,
+      "asin": "B0G5VBG7JX",
+      "title": "Force Factor Prostate Ultimate, Prostate Health Supplement for Men",
+      "brand": "Force Factor",
+      "price": 49.99,
+      "salesParent": 1209,
+      "revenue": 60437.91,
+      "rating": 4.3,
+      "reviews": 337
+    },
+    {
+      "rank": 7,
+      "asin": "B000FH11V0",
+      "title": "Designs for Health Quercetin + Nettle Supplement, 90 Capsules",
+      "brand": "Designs for Health",
+      "price": 45.99,
+      "salesParent": 1262,
+      "revenue": 58039.38,
+      "rating": 4.7,
+      "reviews": 768
+    },
+    {
+      "rank": 8,
+      "asin": "B0C2WKSJ8P",
+      "title": "Researched Nutritionals HistaQuel Histamine Support, 120 Capsules",
+      "brand": "Researched Nutritionals",
+      "price": 74.98,
+      "salesParent": 737,
+      "revenue": 55260.26,
+      "rating": 4.6,
+      "reviews": 146
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -8,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -8,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1606408,
+    "priorHeadRevenue": 1738543,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 93,
+      "newCount": 18,
+      "pct": 19,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 57,
+      "brandCount": 63,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.51,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0DW5H679T",
+        "title": "Snap Supplements Prostate Health + Nitric Oxide Booster Bundle, 90+60 Caps",
+        "rating": 4.4,
+        "reviews": 3104
+      },
+      {
+        "rank": 2,
+        "asin": "B07TZLCBCJ",
+        "title": "Prostacor Natural Prostate Support Supplement for Men, Vegan, Gluten-Free",
+        "rating": 4.0,
+        "reviews": 1759
+      },
+      {
+        "rank": 3,
+        "asin": "B0BBPYJXJ4",
+        "title": "Snap Supplements Prostate Health Supplements for Men, 90 Vegan Capsules",
+        "rating": 4.4,
+        "reviews": 2883
+      },
+      {
+        "rank": 4,
+        "asin": "B0C3J2G9N1",
+        "title": "Advanced Kidney Cleanse Support - Cranberry Extract Capsules - 60 Count",
+        "rating": 4.5,
+        "reviews": 2366
+      },
+      {
+        "rank": 5,
+        "asin": "B008AJWSSK",
+        "title": "边疆合作社有机刺荨麻叶，切割筛分，用于制作荨麻茶，犹太洁食 |16盎司（一包）",
+        "rating": 4.7,
+        "reviews": 4949
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:23675621011:3764461:3766481",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

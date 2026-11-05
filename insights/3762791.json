@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3762791",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Health Care > First Aid > Burn Care",
+  "categoryPathCn": "健康与家居 > 卫生保健 > 急救 > 烧伤护理",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 741722,
+    "avgRevenue": 7417,
+    "medianPrice": 16.43,
+    "priceBand": "$10.25 - $24.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B07KRMQ8W6",
+      "title": "Bactine MAX First Aid Spray, Pain Relief Cleansing Spray, 5 oz",
+      "brand": "Bactine MAX",
+      "price": 5.89,
+      "salesParent": 20147,
+      "revenue": 115845.25,
+      "rating": 4.7,
+      "reviews": 15219
+    },
+    {
+      "rank": 2,
+      "asin": "B00EM4G7LG",
+      "title": "ALOCANE Max Emergency Burn Gel, 4% Lidocaine First Aid Burn Gel, 2.5 Fl Oz",
+      "brand": "Alocane",
+      "price": 7.67,
+      "salesParent": 6581,
+      "revenue": 50476.27,
+      "rating": 4.7,
+      "reviews": 9485
+    },
+    {
+      "rank": 3,
+      "asin": "B0CZ6QM6HS",
+      "title": "GHOST Burn Weight Management Powder, Kiwi Strawberry, 60 Servings - Vegan",
+      "brand": "GHOST",
+      "price": 49.99,
+      "salesParent": 843,
+      "revenue": 42141.57,
+      "rating": 4.4,
+      "reviews": 451
+    },
+    {
+      "rank": 4,
+      "asin": "B09HR3THN2",
+      "title": "UltimateVitality Unscented Radiation Burn Relief Cream – Calendula Cream for Radiation Patients, Natural, Organic, Paraben, Pthalate Free - 6 ounces",
+      "brand": "UltimateVitality",
+      "price": 28.55,
+      "salesParent": 1396,
+      "revenue": 39381.16,
+      "rating": 4.6,
+      "reviews": 1706
+    },
+    {
+      "rank": 5,
+      "asin": "B0015THYGS",
+      "title": "Spenco 2nd Skin Moist Burn Pads, Large (3 x 4 Inches), 3-Count",
+      "brand": "Spenco",
+      "price": 12.13,
+      "salesParent": 3074,
+      "revenue": 36150.24,
+      "rating": 4.6,
+      "reviews": 3215
+    },
+    {
+      "rank": 6,
+      "asin": "B0CJJVTLW1",
+      "title": "Dimora Hydrogel Burn and Wound Dressing 4&quot; x 4&quot; - Hydrogel Nipple Pads Instant Cooling Relief for Minor Burns &amp; Wounds, Soothing Moist Burn Pads for 1st-2nd Degree Burns, Cuts, Abrasions, (10 Count)",
+      "brand": "Dimora",
+      "price": 22.99,
+      "salesParent": 964,
+      "revenue": 22162.36,
+      "rating": 4.3,
+      "reviews": 392
+    },
+    {
+      "rank": 7,
+      "asin": "B00COMJECM",
+      "title": "Boiron Calendula Gel Relief from Rashes, Skin Irritations, Razor Burn, or Insect Bites - Non-Greasy and Fragrance-Free - 2.6oz",
+      "brand": "Boiron",
+      "price": 10.0,
+      "salesParent": 2198,
+      "revenue": 21980.0,
+      "rating": 4.6,
+      "reviews": 2912
+    },
+    {
+      "rank": 8,
+      "asin": "B0DLKD9JNY",
+      "title": "EVERLIT Burn Kit with Sterile Waterproof Wound Dressing | Hydrogel-Foam Burn Dressings, Burn Gel, Non-Stick Pads, Gauze &amp; Shears | 30pcs First Aid Supplies for Instant Cooling, Soothing &amp; Relief",
+      "brand": "EVERLIT",
+      "price": 24.99,
+      "salesParent": 755,
+      "revenue": 18867.45,
+      "rating": 4.8,
+      "reviews": 367
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 0,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 0,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 741722,
+    "priorHeadRevenue": 743201,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 14,
+      "pct": 14,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 42,
+      "brandCount": 69,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.61,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B07KRMQ8W6",
+        "title": "Bactine MAX First Aid Spray, Pain Relief Cleansing Spray, 5 oz",
+        "rating": 4.7,
+        "reviews": 15219
+      },
+      {
+        "rank": 2,
+        "asin": "B00EM4G7LG",
+        "title": "ALOCANE Max Emergency Burn Gel, 4% Lidocaine First Aid Burn Gel, 2.5 Fl Oz",
+        "rating": 4.7,
+        "reviews": 9485
+      },
+      {
+        "rank": 3,
+        "asin": "B0CZ6QM6HS",
+        "title": "GHOST Burn Weight Management Powder, Kiwi Strawberry, 60 Servings - Vegan",
+        "rating": 4.4,
+        "reviews": 451
+      },
+      {
+        "rank": 4,
+        "asin": "B09HR3THN2",
+        "title": "UltimateVitality Unscented Radiation Burn Relief Cream – Calendula Cream for Radiation Patients, Natural, Organic, Paraben, Pthalate Free - 6 ounces",
+        "rating": 4.6,
+        "reviews": 1706
+      },
+      {
+        "rank": 5,
+        "asin": "B0015THYGS",
+        "title": "Spenco 2nd Skin Moist Burn Pads, Large (3 x 4 Inches), 3-Count",
+        "rating": 4.6,
+        "reviews": 3215
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3760941:3762591:3762791",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

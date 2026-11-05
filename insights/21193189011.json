@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "21193189011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Oral Care > Teeth Whitening > Strips",
+  "categoryPathCn": "Health & Household > Oral Care > Teeth Whitening > Strips",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 92,
+    "totalRevenue": 10708735,
+    "avgRevenue": 116399,
+    "medianPrice": 24.99,
+    "priceBand": "$15.99 - $32.98",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B00AHAWWO0",
+      "title": "Crest Teeth Whitening Strips, Crest 3D Whitestrips Professional Effects, Enamel Safe Teeth Whitening Kit, 22 Treatments (44 Strips), Professional-Level Whitening, 19 Levels Whiter",
+      "brand": "Crest",
+      "price": 34.99,
+      "salesParent": 162998,
+      "revenue": 6798646.5,
+      "rating": 4.6,
+      "reviews": 107227
+    },
+    {
+      "rank": 2,
+      "asin": "B0B5HN65QQ",
+      "title": "InoPro Green Teeth Whitening Strips - Peroxide Free Whitening Strips - Whitening Without The Harm - Deep Stains Removal - Sensitivity Free - 14 Treatments, 28 Strips, 28 Count (Pack of 1)",
+      "brand": "INOPRO /",
+      "price": 29.99,
+      "salesParent": 31081,
+      "revenue": 968483.94,
+      "rating": 4.4,
+      "reviews": 9490
+    },
+    {
+      "rank": 3,
+      "asin": "B0B94D516J",
+      "title": "DRDENT Purple Teeth Whitening Strips - 42 Strips (21 Treatments) - Peroxide Free Pap Whitening - Color Correcting Purple",
+      "brand": "DrDent",
+      "price": 22.99,
+      "salesParent": 12688,
+      "revenue": 291697.12,
+      "rating": 4.2,
+      "reviews": 5494
+    },
+    {
+      "rank": 4,
+      "asin": "B0DLLM824S",
+      "title": "Crest 3D Whitestrips Whitening Starter Kit – Teeth Whitening Kit, 10 Treatments, Each with 1 Upper/1Lower, 20 Strips – Crest 3DWhite Teeth Whitening Strips",
+      "brand": "Crest",
+      "price": 20.99,
+      "salesParent": 10965,
+      "revenue": 227633.41,
+      "rating": 4.5,
+      "reviews": 1190
+    },
+    {
+      "rank": 5,
+      "asin": "B0F42ZTSZZ",
+      "title": "Hismile V34 Whitening Strips, Teeth Whitening Strips, Pack of 28 Strips, Purple Whitening Strips, Combining Whitening and Colour Correction - 14 Treatments",
+      "brand": "HISMILE",
+      "price": 9.99,
+      "salesParent": 15144,
+      "revenue": 151288.56,
+      "rating": 3.8,
+      "reviews": 3335
+    },
+    {
+      "rank": 6,
+      "asin": "B001OOLLVS",
+      "title": "Crest 3DWhitestrips 1 Week Smile Transformation At-Home Teeth Whitening Kit, 14 Treatments, 8 Levels Whiter in 1 Week",
+      "brand": "Crest",
+      "price": 29.49,
+      "salesParent": 4641,
+      "revenue": 144427.92,
+      "rating": 4.5,
+      "reviews": 17401
+    },
+    {
+      "rank": 7,
+      "asin": "B0H8S9Y4XQ",
+      "title": "Purple Teeth Whitening Strips for Sensitive Teeth 28 Count Whitener Strips",
+      "brand": "Pdoo",
+      "price": 19.99,
+      "salesParent": 7245,
+      "revenue": 132003.89,
+      "rating": 4.4,
+      "reviews": 5145
+    },
+    {
+      "rank": 8,
+      "asin": "B0HGXWZKRX",
+      "title": "AVEYA Teeth Whitening Strips for Sensitive Teeth - Teeth Whitening Strips Kit, Helps Lift Surface Stains 28 Strips(14 Treatment), Mint, Purple",
+      "brand": "AVEYA",
+      "price": 29.99,
+      "salesParent": 3821,
+      "revenue": 114591.79,
+      "rating": 4.1,
+      "reviews": 21
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -36,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -36,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 10708735,
+    "priorHeadRevenue": 16834189,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 92,
+      "newCount": 61,
+      "pct": 66,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 85,
+      "brandCount": 63,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.2,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B00AHAWWO0",
+        "title": "Crest Teeth Whitening Strips, Crest 3D Whitestrips Professional Effects, Enamel Safe Teeth Whitening Kit, 22 Treatments (44 Strips), Professional-Level Whitening, 19 Levels Whiter",
+        "rating": 4.6,
+        "reviews": 107227
+      },
+      {
+        "rank": 2,
+        "asin": "B0B5HN65QQ",
+        "title": "InoPro Green Teeth Whitening Strips - Peroxide Free Whitening Strips - Whitening Without The Harm - Deep Stains Removal - Sensitivity Free - 14 Treatments, 28 Strips, 28 Count (Pack of 1)",
+        "rating": 4.4,
+        "reviews": 9490
+      },
+      {
+        "rank": 3,
+        "asin": "B0B94D516J",
+        "title": "DRDENT Purple Teeth Whitening Strips - 42 Strips (21 Treatments) - Peroxide Free Pap Whitening - Color Correcting Purple",
+        "rating": 4.2,
+        "reviews": 5494
+      },
+      {
+        "rank": 4,
+        "asin": "B0DLLM824S",
+        "title": "Crest 3D Whitestrips Whitening Starter Kit – Teeth Whitening Kit, 10 Treatments, Each with 1 Upper/1Lower, 20 Strips – Crest 3DWhite Teeth Whitening Strips",
+        "rating": 4.5,
+        "reviews": 1190
+      },
+      {
+        "rank": 5,
+        "asin": "B0F42ZTSZZ",
+        "title": "Hismile V34 Whitening Strips, Teeth Whitening Strips, Pack of 28 Strips, Purple Whitening Strips, Combining Whitening and Colour Correction - 14 Treatments",
+        "rating": 3.8,
+        "reviews": 3335
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:10079992011:3778441:21193189011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3764421",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Health Care > Smoking Cessation > Nicotine Patches",
+  "categoryPathCn": "健康与家居 > 卫生保健 > 戒烟 > 尼古丁药膏",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 1971335,
+    "avgRevenue": 19713,
+    "medianPrice": 17.99,
+    "priceBand": "$15.95 - $26.74",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0D9QMF4WM",
+      "title": "Step 1 Quit Smoking Patches, 21mg Stop Smoking Aids Patches, Anti-Stickers",
+      "brand": "NenMaoKeNu",
+      "price": 17.99,
+      "salesParent": 19563,
+      "revenue": 342743.78,
+      "rating": 4.0,
+      "reviews": 2438
+    },
+    {
+      "rank": 2,
+      "asin": "B000JI9EIW",
+      "title": "NicoDerm CQ Nicotine Patches 14mg, Stop Smoking Aid, Step 2, 21 Count",
+      "brand": "NicoDerm",
+      "price": 67.49,
+      "salesParent": 2948,
+      "revenue": 180388.11,
+      "rating": 3.9,
+      "reviews": 149
+    },
+    {
+      "rank": 3,
+      "asin": "B0036LAE3I",
+      "title": "Rugby Clear Nicotine Patches - 7mg Transdermal System Patch - Smoking or Vaping Quitting Aid - Step 3 - (1 Pack)",
+      "brand": "RUGBY LABORATORIES",
+      "price": 28.0,
+      "salesParent": 4044,
+      "revenue": 122129.0,
+      "rating": 4.5,
+      "reviews": 1736
+    },
+    {
+      "rank": 4,
+      "asin": "B0F9Y2JMNP",
+      "title": "21mg Quit Smoking Patches, Step 1 Stop Smoking Aids Patches, 30 Count Transdermal System Patch, Quit Smoking Stickers That Work with 2 Weeks, Easy and Effective Help to Quit",
+      "brand": "WHLH &amp; WELL-BEING",
+      "price": 15.95,
+      "salesParent": 5771,
+      "revenue": 102666.09,
+      "rating": 4.2,
+      "reviews": 349
+    },
+    {
+      "rank": 5,
+      "asin": "B001JK85I4",
+      "title": "Rugby Clear Nicotine Patches - 21mg Transdermal System Patch - Smoking or Vaping Quitting Aid - Step 1-14 Count (1 Pack)",
+      "brand": "RUGBY LABORATORIES",
+      "price": 36.2,
+      "salesParent": 3471,
+      "revenue": 100311.9,
+      "rating": 4.4,
+      "reviews": 2444
+    },
+    {
+      "rank": 6,
+      "asin": "B00XRPSQGA",
+      "title": "Habitrol Nicotine Transdermal System Stop Smoking Aid, Step 1 (21 mg), 14 Count (Pack of 1)",
+      "brand": "Habitrol",
+      "price": 29.2,
+      "salesParent": 3271,
+      "revenue": 95087.97,
+      "rating": 4.2,
+      "reviews": 2527
+    },
+    {
+      "rank": 7,
+      "asin": "B00XRPSR0U",
+      "title": "Habitrol Nicotine Transdermal System Patch | Stop Smoking Aid | Step 2 (14 mg) | 14 Patches (2 Week Kit) | Packaging May Vary",
+      "brand": "Habitrol",
+      "price": 28.99,
+      "salesParent": 1968,
+      "revenue": 58882.56,
+      "rating": 4.2,
+      "reviews": 991
+    },
+    {
+      "rank": 8,
+      "asin": "B00XRPSUGQ",
+      "title": "Habitrol Nicotine Transdermal System Patch | Stop Smoking Aid | Steps 1, 2, and 3 (21, 14, and 7 mg) | 56 Patches (8 Week Kit)",
+      "brand": "Habitrol",
+      "price": 99.97,
+      "salesParent": 530,
+      "revenue": 52984.1,
+      "rating": 4.2,
+      "reviews": 1949
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -34,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -34,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1971335,
+    "priorHeadRevenue": 2964554,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 52,
+      "pct": 52,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 64,
+      "brandCount": 54,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.07,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0D9QMF4WM",
+        "title": "Step 1 Quit Smoking Patches, 21mg Stop Smoking Aids Patches, Anti-Stickers",
+        "rating": 4.0,
+        "reviews": 2438
+      },
+      {
+        "rank": 2,
+        "asin": "B000JI9EIW",
+        "title": "NicoDerm CQ Nicotine Patches 14mg, Stop Smoking Aid, Step 2, 21 Count",
+        "rating": 3.9,
+        "reviews": 149
+      },
+      {
+        "rank": 3,
+        "asin": "B0036LAE3I",
+        "title": "Rugby Clear Nicotine Patches - 7mg Transdermal System Patch - Smoking or Vaping Quitting Aid - Step 3 - (1 Pack)",
+        "rating": 4.5,
+        "reviews": 1736
+      },
+      {
+        "rank": 4,
+        "asin": "B0F9Y2JMNP",
+        "title": "21mg Quit Smoking Patches, Step 1 Stop Smoking Aids Patches, 30 Count Transdermal System Patch, Quit Smoking Stickers That Work with 2 Weeks, Easy and Effective Help to Quit",
+        "rating": 4.2,
+        "reviews": 349
+      },
+      {
+        "rank": 5,
+        "asin": "B001JK85I4",
+        "title": "Rugby Clear Nicotine Patches - 21mg Transdermal System Patch - Smoking or Vaping Quitting Aid - Step 1-14 Count (1 Pack)",
+        "rating": 4.4,
+        "reviews": 2444
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3760941:3764401:3764421",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "2237594011",
+  "level": "L2",
+  "categoryPathEn": "Arts, Crafts & Sewing > Organization, Storage & Transport",
+  "categoryPathCn": "艺术、手工艺 > 组织，存储",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 98,
+    "totalRevenue": 5161704,
+    "avgRevenue": 52670,
+    "medianPrice": 25.98,
+    "priceBand": "$15.99 - $49.27",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0GDY1NG2G",
+      "title": "24QT 2Packs Clear Craft Organizers and Storage with Trays",
+      "brand": "GeeBom",
+      "price": 49.99,
+      "salesParent": 5484,
+      "revenue": 260490.0,
+      "rating": 4.5,
+      "reviews": 331
+    },
+    {
+      "rank": 2,
+      "asin": "B0BC8Y1W77",
+      "title": "Citylife 17QT Clear Craft Organizers and Storage Box with Removable Tray",
+      "brand": "Citylife",
+      "price": 28.98,
+      "salesParent": 7757,
+      "revenue": 239691.3,
+      "rating": 4.7,
+      "reviews": 2170
+    },
+    {
+      "rank": 3,
+      "asin": "B088K3FQ7W",
+      "title": "ARTDOT 60 Slots Storage Container for Diamond Art Kits for Adults, Portable Bead Storage Boxes for Diamond Painting Accessories and Tools",
+      "brand": "ARTDOT",
+      "price": 17.99,
+      "salesParent": 9000,
+      "revenue": 148590.0,
+      "rating": 4.8,
+      "reviews": 31278
+    },
+    {
+      "rank": 4,
+      "asin": "B0GFD619QN",
+      "title": "8 Pack Small Clear Stackable Acrylic Storage Boxes &amp; Drawers",
+      "brand": "zeawec",
+      "price": 29.99,
+      "salesParent": 4097,
+      "revenue": 144296.34,
+      "rating": 4.6,
+      "reviews": 370
+    },
+    {
+      "rank": 5,
+      "asin": "B07C8YSWDR",
+      "title": "novelinks Photo Storage Box and 16 Inner 4&quot; x 6&quot; Photo Storage Containers",
+      "brand": "novelinks",
+      "price": 25.99,
+      "salesParent": 4962,
+      "revenue": 121420.13,
+      "rating": 4.7,
+      "reviews": 23939
+    },
+    {
+      "rank": 6,
+      "asin": "B01H2NWHXU",
+      "title": "IRIS USA Board Game Storage |Made in USA| Thick Craft Case (6-Pack) - Clear",
+      "brand": "IRIS USA",
+      "price": 39.99,
+      "salesParent": 3029,
+      "revenue": 121039.0,
+      "rating": 4.6,
+      "reviews": 5411
+    },
+    {
+      "rank": 7,
+      "asin": "B0FM442YG5",
+      "title": "SPEENSUN Foldable Yarn Swift, Adjustable Umbrella Holder for Skeins",
+      "brand": "SPEENSUN",
+      "price": 49.95,
+      "salesParent": 2374,
+      "revenue": 118581.0,
+      "rating": 4.2,
+      "reviews": 47
+    },
+    {
+      "rank": 8,
+      "asin": "B0C8BY8S4M",
+      "title": "IRIS USA Storage Bins with Lids |Made in USA| 5 Qt - (6-Pack) - Clear",
+      "brand": "IRIS USA",
+      "price": 29.99,
+      "salesParent": 3851,
+      "revenue": 115491.49,
+      "rating": 4.6,
+      "reviews": 1411
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 30,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 30,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 5161704,
+    "priorHeadRevenue": 3980134,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 98,
+      "newCount": 20,
+      "pct": 20,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 27,
+      "brandCount": 72,
+      "level": "分散",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.56,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0GDY1NG2G",
+        "title": "24QT 2Packs Clear Craft Organizers and Storage with Trays",
+        "rating": 4.5,
+        "reviews": 331
+      },
+      {
+        "rank": 2,
+        "asin": "B0BC8Y1W77",
+        "title": "Citylife 17QT Clear Craft Organizers and Storage Box with Removable Tray",
+        "rating": 4.7,
+        "reviews": 2170
+      },
+      {
+        "rank": 3,
+        "asin": "B088K3FQ7W",
+        "title": "ARTDOT 60 Slots Storage Container for Diamond Art Kits for Adults, Portable Bead Storage Boxes for Diamond Painting Accessories and Tools",
+        "rating": 4.8,
+        "reviews": 31278
+      },
+      {
+        "rank": 4,
+        "asin": "B0GFD619QN",
+        "title": "8 Pack Small Clear Stackable Acrylic Storage Boxes &amp; Drawers",
+        "rating": 4.6,
+        "reviews": 370
+      },
+      {
+        "rank": 5,
+        "asin": "B07C8YSWDR",
+        "title": "novelinks Photo Storage Box and 16 Inner 4&quot; x 6&quot; Photo Storage Containers",
+        "rating": 4.7,
+        "reviews": 23939
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "2617941011:2237594011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

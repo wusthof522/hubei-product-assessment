@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "10342349011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Household Supplies > Lighters & Matches > Flints & Wicks",
+  "categoryPathCn": "健康与家居 > 家居用品 > 打火机和火柴 > 打火石和灯芯",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 216772,
+    "avgRevenue": 2190,
+    "medianPrice": 9.99,
+    "priceBand": "$7.95 - $13.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B000EAEAHK",
+      "title": "Zippo Genuine Flints",
+      "brand": "Zippo",
+      "price": 4.49,
+      "salesParent": 3560,
+      "revenue": 15842.0,
+      "rating": 4.8,
+      "reviews": 19477
+    },
+    {
+      "rank": 2,
+      "asin": "B000B589JI",
+      "title": "Zippo Fuel Canister",
+      "brand": "Zippo",
+      "price": 11.95,
+      "salesParent": 1055,
+      "revenue": 12607.25,
+      "rating": 4.6,
+      "reviews": 12905
+    },
+    {
+      "rank": 3,
+      "asin": "B0D6QVBL5C",
+      "title": "Premium Replacement Flints for Zippo &amp; Clipper Lighters, 100-pack",
+      "brand": "FERROFIRE",
+      "price": 4.99,
+      "salesParent": 1953,
+      "revenue": 9745.47,
+      "rating": 4.6,
+      "reviews": 2231
+    },
+    {
+      "rank": 4,
+      "asin": "B0DQQ31SCC",
+      "title": "Lighter Repair Kit, Vintage Lighter Repair Kit, 144PCS",
+      "brand": "The Left Bridge",
+      "price": 13.89,
+      "salesParent": 690,
+      "revenue": 9584.1,
+      "rating": 4.6,
+      "reviews": 231
+    },
+    {
+      "rank": 5,
+      "asin": "B00DYTG4G8",
+      "title": "Zippo Genuine Flints (10 Pack)",
+      "brand": "Zippo",
+      "price": 13.5,
+      "salesParent": 566,
+      "revenue": 7776.84,
+      "rating": 4.9,
+      "reviews": 678
+    },
+    {
+      "rank": 6,
+      "asin": "B0725G44GR",
+      "title": "Hemp Wick Bundle Pack: 200 FT Beeline Roll + 1 Hemplights Wick Lighter (Black)",
+      "brand": "Hemplights",
+      "price": 19.95,
+      "salesParent": 349,
+      "revenue": 7482.56,
+      "rating": 4.5,
+      "reviews": 2269
+    },
+    {
+      "rank": 7,
+      "asin": "B0G19PR73J",
+      "title": "Lighter Repair Kit Compatible with Zippo, Includes Flints, Wick, Insert",
+      "brand": "MEIJIAYOU",
+      "price": 13.99,
+      "salesParent": 528,
+      "revenue": 7386.72,
+      "rating": 4.5,
+      "reviews": 78
+    },
+    {
+      "rank": 8,
+      "asin": "B08JZD64TD",
+      "title": "MILIVIXAY 100% Organic Hemp Candle Wick with Natural Beeswax Coating, 200 FT Spool, Standard Size (1.0mm)+ Wick Sustainer Tabs (200PCS).",
+      "brand": "MILIVIXAY",
+      "price": 11.39,
+      "salesParent": 601,
+      "revenue": 6845.39,
+      "rating": 4.4,
+      "reviews": 503
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -9,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -9,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 216772,
+    "priorHeadRevenue": 237778,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 54,
+      "pct": 55,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 46,
+      "brandCount": 62,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.5,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B000EAEAHK",
+        "title": "Zippo Genuine Flints",
+        "rating": 4.8,
+        "reviews": 19477
+      },
+      {
+        "rank": 2,
+        "asin": "B000B589JI",
+        "title": "Zippo Fuel Canister",
+        "rating": 4.6,
+        "reviews": 12905
+      },
+      {
+        "rank": 3,
+        "asin": "B0D6QVBL5C",
+        "title": "Premium Replacement Flints for Zippo &amp; Clipper Lighters, 100-pack",
+        "rating": 4.6,
+        "reviews": 2231
+      },
+      {
+        "rank": 4,
+        "asin": "B0DQQ31SCC",
+        "title": "Lighter Repair Kit, Vintage Lighter Repair Kit, 144PCS",
+        "rating": 4.6,
+        "reviews": 231
+      },
+      {
+        "rank": 5,
+        "asin": "B00DYTG4G8",
+        "title": "Zippo Genuine Flints (10 Pack)",
+        "rating": 4.9,
+        "reviews": 678
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:15342811:10342347011:10342349011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

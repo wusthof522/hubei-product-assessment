@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23549344011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Sports & Outdoor Play > Ball Pits & Accessories > Ball Pits",
+  "categoryPathCn": "Toys & Games > Sports & Outdoor Play > Ball Pits & Accessories > Ball Pits",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 1824522,
+    "avgRevenue": 18430,
+    "medianPrice": 59.99,
+    "priceBand": "$37.98 - $119.89",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0F4QBTV8V",
+      "title": "Foam Ball Pit, 47.2&quot;x 13.8&quot; Large Ball Pits for Toddlers-Pink",
+      "brand": "SHJADE",
+      "price": 75.98,
+      "salesParent": 5920,
+      "revenue": 522617.59,
+      "rating": 4.6,
+      "reviews": 2704
+    },
+    {
+      "rank": 2,
+      "asin": "B0BX9D62Z1",
+      "title": "Wilwolfer Foam Ball Pit, Ball Pit for Toddlers, Gray, NO Balls",
+      "brand": "Wilwolfer",
+      "price": 35.99,
+      "salesParent": 2647,
+      "revenue": 89098.02,
+      "rating": 4.5,
+      "reviews": 1660
+    },
+    {
+      "rank": 3,
+      "asin": "B08YZB6BT9",
+      "title": "Baby Foam Ball Pit 35.4&quot; for Toddlers, White",
+      "brand": "HARBOLLE",
+      "price": 39.99,
+      "salesParent": 1955,
+      "revenue": 80624.2,
+      "rating": 4.5,
+      "reviews": 1316
+    },
+    {
+      "rank": 4,
+      "asin": "B073PTVDCQ",
+      "title": "Playz 5pc Pop Up Play Tent and Crawl Through Tunnels for Kids w/Carry Bag",
+      "brand": "Playz",
+      "price": 59.95,
+      "salesParent": 1151,
+      "revenue": 69002.45,
+      "rating": 4.5,
+      "reviews": 16694
+    },
+    {
+      "rank": 5,
+      "asin": "B0DGL6MPPT",
+      "title": "Ball Pit for Toddlers 35.43''x11.81 Baby Ball Pits Soft Memory Foam Ball Pit Round Kids Ball Pit Indoor Game Kids Play Ball Pool Ideal Gift for Girls and Boys (Grey, NO Balls)",
+      "brand": "Zedachica",
+      "price": 44.99,
+      "salesParent": 1615,
+      "revenue": 66311.9,
+      "rating": 4.7,
+      "reviews": 1311
+    },
+    {
+      "rank": 6,
+      "asin": "B0CKM1FP4F",
+      "title": "GoSports Gagagon Modular Kits - Commercial Grade Gaga Ball Pit Panels to Build Various Size Pits",
+      "brand": "GoSports",
+      "price": 249.99,
+      "salesParent": 247,
+      "revenue": 61552.4,
+      "rating": 4.5,
+      "reviews": 73
+    },
+    {
+      "rank": 7,
+      "asin": "B0CFYV6BPG",
+      "title": "GoSports Gaga Ball Pit – 10 ft, 15 ft or 20 ft Portable Indoor/Outdoor Gagagon Pit for School, Camp or Home Use",
+      "brand": "GoSports",
+      "price": 249.99,
+      "salesParent": 238,
+      "revenue": 58571.8,
+      "rating": 4.7,
+      "reviews": 149
+    },
+    {
+      "rank": 8,
+      "asin": "B07MSCSGV8",
+      "title": "Gift for Toddler Boys &amp; Girls, Ball Pit, Play Tent and Tunnels for Kids, Best Birthday Gift for 3 4 5 Year Old Pop Up Baby Play Toy, Target Game w/ 4 Darts Indoor &amp; Outdoor",
+      "brand": "Hide N Side",
+      "price": 64.95,
+      "salesParent": 957,
+      "revenue": 56319.45,
+      "rating": 4.6,
+      "reviews": 7065
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -5,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -5,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1824522,
+    "priorHeadRevenue": 1925458,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 39,
+      "pct": 39,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 51,
+      "brandCount": 72,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.45,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0F4QBTV8V",
+        "title": "Foam Ball Pit, 47.2&quot;x 13.8&quot; Large Ball Pits for Toddlers-Pink",
+        "rating": 4.6,
+        "reviews": 2704
+      },
+      {
+        "rank": 2,
+        "asin": "B0BX9D62Z1",
+        "title": "Wilwolfer Foam Ball Pit, Ball Pit for Toddlers, Gray, NO Balls",
+        "rating": 4.5,
+        "reviews": 1660
+      },
+      {
+        "rank": 3,
+        "asin": "B08YZB6BT9",
+        "title": "Baby Foam Ball Pit 35.4&quot; for Toddlers, White",
+        "rating": 4.5,
+        "reviews": 1316
+      },
+      {
+        "rank": 4,
+        "asin": "B073PTVDCQ",
+        "title": "Playz 5pc Pop Up Play Tent and Crawl Through Tunnels for Kids w/Carry Bag",
+        "rating": 4.5,
+        "reviews": 16694
+      },
+      {
+        "rank": 5,
+        "asin": "B0DGL6MPPT",
+        "title": "Ball Pit for Toddlers 35.43''x11.81 Baby Ball Pits Soft Memory Foam Ball Pit Round Kids Ball Pit Indoor Game Kids Play Ball Pool Ideal Gift for Girls and Boys (Grey, NO Balls)",
+        "rating": 4.7,
+        "reviews": 1311
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166420011:166421011:23549344011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

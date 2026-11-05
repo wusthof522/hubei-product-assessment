@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23564875011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Novelty & Gag Toys > Fidget Toys > Multi-Item Fidget Toy Packs",
+  "categoryPathCn": "Toys & Games > Novelty & Gag Toys > Fidget Toys > Multi-Item Fidget Toy Packs",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 97,
+    "totalRevenue": 2677525,
+    "avgRevenue": 27603,
+    "medianPrice": 19.99,
+    "priceBand": "$9.99 - $29.74",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0G3P428LL",
+      "title": "160 Pcs Fidget Toys Party Favors Pack, Randomly Selected Pop Sensory Set Gifts Stickers for Kids Adults Boy Girl Stocking Stuffers Autistic Bulk Goodie Bag Filler Treasure Box Classroom Prizes School",
+      "brand": "TwCare",
+      "price": 13.99,
+      "salesParent": 18816,
+      "revenue": 263235.84,
+      "rating": 4.3,
+      "reviews": 1973
+    },
+    {
+      "rank": 2,
+      "asin": "B0DZ6QKXWH",
+      "title": "Fidget Toys, 120 Pack Party Favors for Kids 8-12 4-8, Sensory Toys Bulk Autism Autistic, Treasure Box Toys for Classroom, Stocking Stuffers, Goodie Bag Stuffers, Christmas Birthday Gifts Prizes",
+      "brand": "VNAMO",
+      "price": 16.99,
+      "salesParent": 16960,
+      "revenue": 262201.59,
+      "rating": 4.6,
+      "reviews": 1253
+    },
+    {
+      "rank": 3,
+      "asin": "B0D32QLDPH",
+      "title": "1000Pcs Bulk Party Favors for Kids, Fidget Toys Pack,Stocking Stuffers, Treasure Box Chest, Birthday Party, Classroom Carnival Prizes, Pinata Stuffers, Goodie Bag Stuffers, Stress Relief, Sensory Toys",
+      "brand": "DKZ",
+      "price": 27.98,
+      "salesParent": 3379,
+      "revenue": 90320.67,
+      "rating": 4.2,
+      "reviews": 1150
+    },
+    {
+      "rank": 4,
+      "asin": "B0GRVDH5S4",
+      "title": "LESONG Mini Sticky Stacking Cubes for Kids: 150 PCS Washable Sensory Building Toy, Soft Squishy 0.39 inch Cubes with Storage Box, Balanced Stickiness for 2D &amp; 3D Building, Translucent Travel Toy",
+      "brand": "LESONG",
+      "price": 19.99,
+      "salesParent": 4080,
+      "revenue": 80906.4,
+      "rating": 4.1,
+      "reviews": 231
+    },
+    {
+      "rank": 5,
+      "asin": "B0DHS6KQ13",
+      "title": "Fidget Toys Sensory Rings for Kids: 12 Pack Finger Spinner Rings - Texture Stress Toys for Kids Autism Calming - Fun Fidgets for Student Classroom Prize Stocking Stuffers",
+      "brand": "KLT",
+      "price": 8.99,
+      "salesParent": 7165,
+      "revenue": 62765.4,
+      "rating": 4.1,
+      "reviews": 1179
+    },
+    {
+      "rank": 6,
+      "asin": "B0BKFDNJ72",
+      "title": "Sensory Autism Toys for Kids - Textured Stretchy Fidget Toys for Stress - Sensory Toys Special Needs for Autistic Boys Girls Stocking Stuffers Gifts, Treasure Prizes Classroom - 8 Pack",
+      "brand": "LESONG",
+      "price": 13.99,
+      "salesParent": 4477,
+      "revenue": 62633.23,
+      "rating": 4.7,
+      "reviews": 1214
+    },
+    {
+      "rank": 7,
+      "asin": "B0D9YB8614",
+      "title": "15Pack Fidget Toys Bulk for Adult Kids Age 5-7 8-12, Stocking Stuffers for Kids Figette Classroom Must Have Back to School Gifts Treasure Prize Box Sensory Autism ADHD Autistic Stress Anxiety",
+      "brand": "Dr.Kbder",
+      "price": 13.99,
+      "salesParent": 3880,
+      "revenue": 59131.2,
+      "rating": 4.6,
+      "reviews": 1377
+    },
+    {
+      "rank": 8,
+      "asin": "B0CP22LZZ1",
+      "title": "120 Pcs Fidget Toys Pack, Pop Sensory Party Favors Set Gifts for Kids Adults Boy Girl Stocking Stuffers Autistic Bulk Goodie Bag Filler Treasure Box Classroom Prizes School",
+      "brand": "TwCare",
+      "price": 19.95,
+      "salesParent": 2955,
+      "revenue": 55967.7,
+      "rating": 4.6,
+      "reviews": 2184
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 17,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 17,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 2677525,
+    "priorHeadRevenue": 2298214,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 97,
+      "newCount": 58,
+      "pct": 60,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 54,
+      "brandCount": 62,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.51,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0G3P428LL",
+        "title": "160 Pcs Fidget Toys Party Favors Pack, Randomly Selected Pop Sensory Set Gifts Stickers for Kids Adults Boy Girl Stocking Stuffers Autistic Bulk Goodie Bag Filler Treasure Box Classroom Prizes School",
+        "rating": 4.3,
+        "reviews": 1973
+      },
+      {
+        "rank": 2,
+        "asin": "B0DZ6QKXWH",
+        "title": "Fidget Toys, 120 Pack Party Favors for Kids 8-12 4-8, Sensory Toys Bulk Autism Autistic, Treasure Box Toys for Classroom, Stocking Stuffers, Goodie Bag Stuffers, Christmas Birthday Gifts Prizes",
+        "rating": 4.6,
+        "reviews": 1253
+      },
+      {
+        "rank": 3,
+        "asin": "B0D32QLDPH",
+        "title": "1000Pcs Bulk Party Favors for Kids, Fidget Toys Pack,Stocking Stuffers, Treasure Box Chest, Birthday Party, Classroom Carnival Prizes, Pinata Stuffers, Goodie Bag Stuffers, Stress Relief, Sensory Toys",
+        "rating": 4.2,
+        "reviews": 1150
+      },
+      {
+        "rank": 4,
+        "asin": "B0GRVDH5S4",
+        "title": "LESONG Mini Sticky Stacking Cubes for Kids: 150 PCS Washable Sensory Building Toy, Soft Squishy 0.39 inch Cubes with Storage Box, Balanced Stickiness for 2D &amp; 3D Building, Translucent Travel Toy",
+        "rating": 4.1,
+        "reviews": 231
+      },
+      {
+        "rank": 5,
+        "asin": "B0DHS6KQ13",
+        "title": "Fidget Toys Sensory Rings for Kids: 12 Pack Finger Spinner Rings - Texture Stress Toys for Kids Autism Calming - Fun Fidgets for Student Classroom Prize Stocking Stuffers",
+        "rating": 4.1,
+        "reviews": 1179
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166027011:17238448011:23564875011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

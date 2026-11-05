@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3764481",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins, Minerals & Supplements > Herbal Supplements > Alfalfa",
+  "categoryPathCn": "健康与家居 > 身、泳和附剂 > 草本补充 > 苜蓿",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 41,
+    "totalRevenue": 764265,
+    "avgRevenue": 18641,
+    "medianPrice": 21.5,
+    "priceBand": "$12.53 - $37.44",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0DCQ4R3WX",
+      "title": "Gruns Kids Multivitamin Kids Greens Gummies, 28 ct",
+      "brand": "Grüns",
+      "price": 57.0,
+      "salesParent": 6749,
+      "revenue": 384693.0,
+      "rating": 4.3,
+      "reviews": 702
+    },
+    {
+      "rank": 2,
+      "asin": "B08C7TVWDG",
+      "title": "USDA Organic Superfood Greens, 28 Ingredients, Vegan, Non-GMO, 60 Tablets",
+      "brand": "Number One Nutrition",
+      "price": 23.95,
+      "salesParent": 4002,
+      "revenue": 93166.56,
+      "rating": 4.4,
+      "reviews": 7851
+    },
+    {
+      "rank": 3,
+      "asin": "B08L8XRYY4",
+      "title": "Animal Daily Greens Superfood Supplement for Gut Health | 30 Pill Packs",
+      "brand": "Animal",
+      "price": 35.94,
+      "salesParent": 2214,
+      "revenue": 79305.48,
+      "rating": 4.7,
+      "reviews": 2245
+    },
+    {
+      "rank": 4,
+      "asin": "B0CV5Q3ZVQ",
+      "title": "Vitafusion Melatonin and Magnesium Gummies | 5mg Melatonin Per 2 Gummies",
+      "brand": "Vitafusion",
+      "price": 13.49,
+      "salesParent": 2503,
+      "revenue": 33765.47,
+      "rating": 4.6,
+      "reviews": 208
+    },
+    {
+      "rank": 5,
+      "asin": "B0D1B28125",
+      "title": "Zena Organic Super Greens Powder, 70+ Superfoods Drink Mix, 0 Sugar, 3G Fiber, Fruits, Veggies, Spirulina, Chlorella, Antioxidants, Pre &amp; Probiotics, Digestive Enzymes, Mixed Berry Flavor, 45 Servings",
+      "brand": "Zena Nutrition",
+      "price": 39.0,
+      "salesParent": 734,
+      "revenue": 29044.38,
+      "rating": 4.7,
+      "reviews": 272
+    },
+    {
+      "rank": 6,
+      "asin": "B0FRB346P5",
+      "title": "Zena Nutrition Organic Super Greens Energy &amp; Hydration Powder, 70+ Superfoods, 0 Sugar, 5G Fiber, Spirulina, Chlorella, Prebiotics/Probiotics, Natural Caffeine + Electrolytes, 40 Drink Mix Packets",
+      "brand": "Zena Nutrition",
+      "price": 39.99,
+      "salesParent": 435,
+      "revenue": 17395.65,
+      "rating": 4.0,
+      "reviews": 101
+    },
+    {
+      "rank": 7,
+      "asin": "B00IU4Q5IE",
+      "title": "Eatmor Appetite Stimulant | Weight Gain Pills for Men and Women | Natural Hunger Boosting Orxegenic Supplement | VH Nutrition | 120 Capsules | 30 Day Supply",
+      "brand": "VH Nutrition",
+      "price": 21.49,
+      "salesParent": 760,
+      "revenue": 16332.4,
+      "rating": 3.8,
+      "reviews": 5903
+    },
+    {
+      "rank": 8,
+      "asin": "B0014M57RE",
+      "title": "Now Supplements, Alfalfa 650 mg, Super Green, 500 Tabs",
+      "brand": "NOW",
+      "price": 14.49,
+      "salesParent": 969,
+      "revenue": 15232.68,
+      "rating": 4.6,
+      "reviews": 2979
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -48,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -48,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 764265,
+    "priorHeadRevenue": 1461014,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 41,
+      "newCount": 7,
+      "pct": 17,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 84,
+      "brandCount": 35,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.34,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0DCQ4R3WX",
+        "title": "Gruns Kids Multivitamin Kids Greens Gummies, 28 ct",
+        "rating": 4.3,
+        "reviews": 702
+      },
+      {
+        "rank": 2,
+        "asin": "B08C7TVWDG",
+        "title": "USDA Organic Superfood Greens, 28 Ingredients, Vegan, Non-GMO, 60 Tablets",
+        "rating": 4.4,
+        "reviews": 7851
+      },
+      {
+        "rank": 3,
+        "asin": "B08L8XRYY4",
+        "title": "Animal Daily Greens Superfood Supplement for Gut Health | 30 Pill Packs",
+        "rating": 4.7,
+        "reviews": 2245
+      },
+      {
+        "rank": 4,
+        "asin": "B0CV5Q3ZVQ",
+        "title": "Vitafusion Melatonin and Magnesium Gummies | 5mg Melatonin Per 2 Gummies",
+        "rating": 4.6,
+        "reviews": 208
+      },
+      {
+        "rank": 5,
+        "asin": "B0D1B28125",
+        "title": "Zena Organic Super Greens Powder, 70+ Superfoods Drink Mix, 0 Sugar, 3G Fiber, Fruits, Veggies, Spirulina, Chlorella, Antioxidants, Pre &amp; Probiotics, Digestive Enzymes, Mixed Berry Flavor, 45 Servings",
+        "rating": 4.7,
+        "reviews": 272
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:23675621011:3764461:3764481",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

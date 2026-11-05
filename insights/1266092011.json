@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "1266092011",
+  "level": "L2",
+  "categoryPathEn": "Electronics > Television & Video",
+  "categoryPathCn": "电子产品 > 电视",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 86,
+    "totalRevenue": 183737206,
+    "avgRevenue": 2136479,
+    "medianPrice": 698.97,
+    "priceBand": "$137.46 - $1497.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0H9LMWDW2",
+      "title": "Hisense 100&quot; E7 Cinema Series Mini-LED 4K UHD Smart Fire TV (100E7SF, 2026) with HT Saturn 4.1.2ch Soundbar, Dolby Vision IQ · Atmos, DTS:X, 144Hz, Wireless Subwoofer",
+      "brand": "Hisense",
+      "price": 4297.98,
+      "salesParent": 4520,
+      "revenue": 19426870.0,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "rank": 2,
+      "asin": "B0H859NKTH",
+      "title": "Insignia 65&quot; Class F50 Series LED 4K UHD Smart Fire TV, Voice Remote with Alexa, Stream Live TV Without Cable",
+      "brand": "INSIGNIA",
+      "price": 299.99,
+      "salesParent": 61319,
+      "revenue": 17095124.0,
+      "rating": 4.3,
+      "reviews": 14895
+    },
+    {
+      "rank": 3,
+      "asin": "B0H2K5C45C",
+      "title": "LG 83-Inch OLED C6 TV &amp; Sound Suite Bundle 83-Inch OLED evo AI 4K C6 TV + 2X M5 Wireless Dolby Atmos Speakers + W7 Wireless Subwoofer | Dolby Atmos, Dolby Vision, HDR10 (New 2026 Model)",
+      "brand": "LG",
+      "price": 4149.96,
+      "salesParent": 2707,
+      "revenue": 11233942.0,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "rank": 4,
+      "asin": "B0GP9QN5SN",
+      "title": "Samsung 65-Inch Class M70H Series, Mini LED, 4K, Smart TV, 2026 Model",
+      "brand": "Samsung",
+      "price": 377.99,
+      "salesParent": 25116,
+      "revenue": 10544953.0,
+      "rating": 4.3,
+      "reviews": 1331
+    },
+    {
+      "rank": 5,
+      "asin": "B0FXZ21F3X",
+      "title": "Roku 55-Inch Select Series Smart TV 2026-4K (2160p) QLED TV",
+      "brand": "Roku",
+      "price": 269.99,
+      "salesParent": 34863,
+      "revenue": 9191630.0,
+      "rating": 4.4,
+      "reviews": 1926
+    },
+    {
+      "rank": 6,
+      "asin": "B0GZPYYNGH",
+      "title": "Samsung 98-Inch Class U9000H Series Crystal UHD, Smart TV, 2026 Model",
+      "brand": "Samsung",
+      "price": 1367.99,
+      "salesParent": 5081,
+      "revenue": 8231982.5,
+      "rating": 4.4,
+      "reviews": 9
+    },
+    {
+      "rank": 7,
+      "asin": "B0DXN3QKS8",
+      "title": "Samsung 55-Inch Class The Frame LS03F 4K QLED Smart TV (2025 Model) Slim Fit Wall Mount, Modern Frame Design, NQ4 AI Gen2 Processor, Art Mode, Artful Picture Quality, Samsung Vision AI, Alexa Built-in",
+      "brand": "Samsung",
+      "price": 867.99,
+      "salesParent": 7586,
+      "revenue": 6493388.0,
+      "rating": 4.4,
+      "reviews": 301
+    },
+    {
+      "rank": 8,
+      "asin": "B0DXY833HV",
+      "title": "Roku Streaming Stick Plus with Voice Remote - 4K &amp; HDR10+",
+      "brand": "Roku",
+      "price": 48.0,
+      "salesParent": 110445,
+      "revenue": 5027456.5,
+      "rating": 4.6,
+      "reviews": 10964
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -29,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -29,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 183737206,
+    "priorHeadRevenue": 260335763,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 86,
+      "newCount": 50,
+      "pct": 58,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 78,
+      "brandCount": 23,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.37,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0H9LMWDW2",
+        "title": "Hisense 100&quot; E7 Cinema Series Mini-LED 4K UHD Smart Fire TV (100E7SF, 2026) with HT Saturn 4.1.2ch Soundbar, Dolby Vision IQ · Atmos, DTS:X, 144Hz, Wireless Subwoofer",
+        "rating": null,
+        "reviews": null
+      },
+      {
+        "rank": 2,
+        "asin": "B0H859NKTH",
+        "title": "Insignia 65&quot; Class F50 Series LED 4K UHD Smart Fire TV, Voice Remote with Alexa, Stream Live TV Without Cable",
+        "rating": 4.3,
+        "reviews": 14895
+      },
+      {
+        "rank": 3,
+        "asin": "B0H2K5C45C",
+        "title": "LG 83-Inch OLED C6 TV &amp; Sound Suite Bundle 83-Inch OLED evo AI 4K C6 TV + 2X M5 Wireless Dolby Atmos Speakers + W7 Wireless Subwoofer | Dolby Atmos, Dolby Vision, HDR10 (New 2026 Model)",
+        "rating": null,
+        "reviews": null
+      },
+      {
+        "rank": 4,
+        "asin": "B0GP9QN5SN",
+        "title": "Samsung 65-Inch Class M70H Series, Mini LED, 4K, Smart TV, 2026 Model",
+        "rating": 4.3,
+        "reviews": 1331
+      },
+      {
+        "rank": 5,
+        "asin": "B0FXZ21F3X",
+        "title": "Roku 55-Inch Select Series Smart TV 2026-4K (2160p) QLED TV",
+        "rating": 4.4,
+        "reviews": 1926
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "172282:1266092011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

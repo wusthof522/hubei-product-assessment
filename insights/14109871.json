@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "14109871",
+  "level": "L4",
+  "categoryPathEn": "Home & Kitchen > Furniture > Kids' Furniture > Chairs & Seats",
+  "categoryPathCn": "家居用品 > 家具 > 儿童家具 > 椅子",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 94,
+    "totalRevenue": 4416048,
+    "avgRevenue": 46979,
+    "medianPrice": 64.99,
+    "priceBand": "$44.99 - $107.74",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0B2MPVQH1",
+      "title": "Bean Bag Chair, 4FT Round Memory Foam Filled Bean Bag for Teens &amp; Kids, Ultra Soft Faux Fur Fabric Bean Bag Chairs for Playroom, Living Room, Bedroom,Black",
+      "brand": "Kisoy",
+      "price": 89.99,
+      "salesParent": 3583,
+      "revenue": 322434.16,
+      "rating": 4.3,
+      "reviews": 1096
+    },
+    {
+      "rank": 2,
+      "asin": "B0CWTVS1P1",
+      "title": "ACKO 16 Inch Folding Step Stool with Safety Lock, Holds 400 lbs, Black",
+      "brand": "ACKO",
+      "price": 27.99,
+      "salesParent": 9892,
+      "revenue": 276877.06,
+      "rating": 4.5,
+      "reviews": 22158
+    },
+    {
+      "rank": 3,
+      "asin": "B0DQD8FWHM",
+      "title": "MAXYOYO Kids Bean Bag Chair, Stuffed Bean Bag Sofa, Beige, Standard",
+      "brand": "MAXYOYO",
+      "price": 69.99,
+      "salesParent": 3266,
+      "revenue": 228587.33,
+      "rating": 4.5,
+      "reviews": 828
+    },
+    {
+      "rank": 4,
+      "asin": "B0D9H4YBCT",
+      "title": "2-in-1 Kids Chair and Couch, Cozy Corduroy Kids Sofa, Green",
+      "brand": "Jouha",
+      "price": 37.99,
+      "salesParent": 4269,
+      "revenue": 162392.77,
+      "rating": 4.5,
+      "reviews": 865
+    },
+    {
+      "rank": 5,
+      "asin": "B0DNZJ2W9C",
+      "title": "MAXYOYO 3 in 1 Kids Bean Bag Chair, Comfy Floor Sofa with Removed Cover",
+      "brand": "MAXYOYO",
+      "price": 59.99,
+      "salesParent": 2606,
+      "revenue": 156333.94,
+      "rating": 4.5,
+      "reviews": 505
+    },
+    {
+      "rank": 6,
+      "asin": "B0CSFDX9HM",
+      "title": "Zhenx Spinning Chair for Autistic Kids (Ages 3-18), Autism Sensory Toy Gift",
+      "brand": "Zhenx",
+      "price": 64.59,
+      "salesParent": 2009,
+      "revenue": 140569.73,
+      "rating": 4.7,
+      "reviews": 1677
+    },
+    {
+      "rank": 7,
+      "asin": "B0D846DGK3",
+      "title": "Delta Children - Spidey and His Amazing Friends Cozee Buddy Flip-Out Kids Chair, Red",
+      "brand": "Delta Children",
+      "price": 44.99,
+      "salesParent": 2581,
+      "revenue": 116790.25,
+      "rating": 4.3,
+      "reviews": 1090
+    },
+    {
+      "rank": 8,
+      "asin": "B0DHYDVGPB",
+      "title": "Special Supplies Sensory Rocking Chair for Kids - Comfortable Kids Rocker- Versatile Floor Chair with Soft Fabric and Stability for Playroom, Bedroom, or Nursery (Ages 3+) (Grey)",
+      "brand": "Special Supplies",
+      "price": 99.99,
+      "salesParent": 1194,
+      "revenue": 110707.68,
+      "rating": 4.4,
+      "reviews": 251
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -12,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -12,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 4416048,
+    "priorHeadRevenue": 5040123,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 94,
+      "newCount": 39,
+      "pct": 41,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 43,
+      "brandCount": 64,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.54,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0B2MPVQH1",
+        "title": "Bean Bag Chair, 4FT Round Memory Foam Filled Bean Bag for Teens &amp; Kids, Ultra Soft Faux Fur Fabric Bean Bag Chairs for Playroom, Living Room, Bedroom,Black",
+        "rating": 4.3,
+        "reviews": 1096
+      },
+      {
+        "rank": 2,
+        "asin": "B0CWTVS1P1",
+        "title": "ACKO 16 Inch Folding Step Stool with Safety Lock, Holds 400 lbs, Black",
+        "rating": 4.5,
+        "reviews": 22158
+      },
+      {
+        "rank": 3,
+        "asin": "B0DQD8FWHM",
+        "title": "MAXYOYO Kids Bean Bag Chair, Stuffed Bean Bag Sofa, Beige, Standard",
+        "rating": 4.5,
+        "reviews": 828
+      },
+      {
+        "rank": 4,
+        "asin": "B0D9H4YBCT",
+        "title": "2-in-1 Kids Chair and Couch, Cozy Corduroy Kids Sofa, Green",
+        "rating": 4.5,
+        "reviews": 865
+      },
+      {
+        "rank": 5,
+        "asin": "B0DNZJ2W9C",
+        "title": "MAXYOYO 3 in 1 Kids Bean Bag Chair, Comfy Floor Sofa with Removed Cover",
+        "rating": 4.5,
+        "reviews": 505
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "1055398:1063306:1063314:14109871",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

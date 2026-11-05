@@ -1,0 +1,3309 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="湖北企业产品出海免费初评：写下一款产品，免费看它在亚马逊美国站的市场体量、价格和竞争。不限企业规模。">
+  <meta property="og:title" content="湖北产品出海免费初评 · 湖北省电子商务行业协会">
+  <meta property="og:description" content="免费获得市场体量、价格带、竞争度和差评痛点初评。">
+  <link rel="icon" href="data:,">
+  <title>湖北产品出海免费初评 · 湖北省电子商务行业协会</title>
+  <style>
+    :root {
+      --ink: #17202a;
+      --ink-soft: #46515d;
+      --muted: #6b7682;
+      --line: #dfe4e8;
+      --line-strong: #c9d0d6;
+      --paper: #ffffff;
+      --canvas: #f5f7f8;
+      --orange: #ef8f00;
+      --orange-hover: #d87e00;
+      --green: #157347;
+      --green-soft: #eaf6ef;
+      --blue: #0a66a8;
+      --blue-soft: #eaf4fb;
+      --danger: #b42318;
+      --shadow: 0 14px 36px rgba(23, 32, 42, 0.09);
+      --radius: 8px;
+      --nav-height: 68px;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      margin: 0;
+      overflow-x: hidden;
+      background: var(--canvas);
+      color: var(--ink);
+      font-family: "Segoe UI", "Microsoft YaHei", "PingFang SC", sans-serif;
+      font-size: 15px;
+      line-height: 1.6;
+      letter-spacing: 0;
+    }
+
+    button,
+    input,
+    select,
+    textarea {
+      font: inherit;
+      letter-spacing: 0;
+    }
+
+    button {
+      cursor: pointer;
+    }
+
+    a {
+      color: inherit;
+    }
+
+    img {
+      display: block;
+      max-width: 100%;
+    }
+
+    .icon {
+      width: 18px;
+      height: 18px;
+      flex: 0 0 auto;
+      stroke-width: 2;
+    }
+
+    .topbar {
+      position: sticky;
+      top: 0;
+      z-index: 50;
+      height: var(--nav-height);
+      background: rgba(255, 255, 255, 0.96);
+      border-bottom: 1px solid var(--line);
+      backdrop-filter: blur(14px);
+    }
+
+    .topbar-inner {
+      max-width: 1180px;
+      height: 100%;
+      margin: 0 auto;
+      padding: 0 24px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 20px;
+    }
+
+    .brand {
+      display: flex;
+      align-items: center;
+      min-width: 0;
+      gap: 12px;
+      text-decoration: none;
+    }
+
+    .brand-mark {
+      width: 38px;
+      height: 38px;
+      border-radius: 6px;
+      display: grid;
+      place-items: center;
+      background: var(--ink);
+      color: #fff;
+      font-size: 18px;
+      font-weight: 800;
+    }
+
+    .brand-copy {
+      min-width: 0;
+    }
+
+    .brand-name {
+      display: block;
+      overflow: hidden;
+      color: var(--ink);
+      font-size: 15px;
+      font-weight: 750;
+      line-height: 1.2;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+
+    .brand-sub {
+      display: block;
+      margin-top: 3px;
+      color: var(--muted);
+      font-size: 11px;
+      line-height: 1.2;
+    }
+
+    .top-actions {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .btn {
+      min-height: 42px;
+      border: 1px solid transparent;
+      border-radius: 6px;
+      padding: 0 18px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      background: var(--orange);
+      color: #211704;
+      font-weight: 700;
+      text-decoration: none;
+      transition: background 160ms ease, border-color 160ms ease, transform 160ms ease;
+    }
+
+    .btn:hover {
+      background: var(--orange-hover);
+    }
+
+    .btn:active {
+      transform: translateY(1px);
+    }
+
+    .btn-secondary {
+      border-color: var(--line-strong);
+      background: var(--paper);
+      color: var(--ink);
+    }
+
+    .btn-secondary:hover {
+      border-color: #9ca7b0;
+      background: #f8f9fa;
+    }
+
+    .btn-ghost {
+      min-height: 38px;
+      border-color: transparent;
+      background: transparent;
+      color: var(--ink-soft);
+      padding: 0 10px;
+    }
+
+    .btn-ghost:hover {
+      background: #eef1f3;
+    }
+
+    .btn-wide {
+      min-width: 150px;
+    }
+
+    .hero {
+      position: relative;
+      min-height: min(600px, calc(100svh - 104px));
+      display: flex;
+      align-items: center;
+      overflow: hidden;
+      background-image: url("assets/factory-hero.jpg");
+      background-position: center;
+      background-size: cover;
+      color: #fff;
+    }
+
+    .hero::before {
+      position: absolute;
+      inset: 0;
+      content: "";
+      background: rgba(10, 19, 27, 0.66);
+    }
+
+    .hero-inner {
+      position: relative;
+      z-index: 1;
+      width: 100%;
+      max-width: 1180px;
+      margin: 0 auto;
+      padding: 64px 24px 72px;
+    }
+
+    .hero-content {
+      max-width: 760px;
+    }
+
+    .eyebrow {
+      margin: 0 0 16px;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      color: #f5c778;
+      font-size: 14px;
+      font-weight: 700;
+    }
+
+    h1 {
+      max-width: 720px;
+      margin: 0;
+      overflow-wrap: anywhere;
+      font-size: clamp(34px, 5vw, 58px);
+      line-height: 1.13;
+      letter-spacing: 0;
+    }
+
+    .hero-lead {
+      max-width: 680px;
+      margin: 22px 0 0;
+      color: #e8edf0;
+      font-size: 19px;
+      line-height: 1.75;
+    }
+
+    .hero-points {
+      margin: 24px 0 0;
+      padding: 0;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px 24px;
+      list-style: none;
+      color: #fff;
+      font-size: 14px;
+    }
+
+    .hero-points li {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .hero-points .icon {
+      color: #75d09d;
+    }
+
+    .hero-actions {
+      margin-top: 34px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+
+    .hero .btn {
+      min-height: 48px;
+      padding: 0 22px;
+    }
+
+    .hero .btn-secondary {
+      border-color: rgba(255, 255, 255, 0.55);
+      background: rgba(255, 255, 255, 0.08);
+      color: #fff;
+      backdrop-filter: blur(8px);
+    }
+
+    .hero .btn-secondary:hover {
+      border-color: #fff;
+      background: rgba(255, 255, 255, 0.15);
+    }
+
+    .hero-disclaimer {
+      margin: 20px 0 0;
+      color: #c7d0d6;
+      font-size: 12px;
+    }
+
+    .benefit-band {
+      position: relative;
+      z-index: 2;
+      background: var(--paper);
+      border-bottom: 1px solid var(--line);
+    }
+
+    .benefit-grid {
+      max-width: 1180px;
+      margin: 0 auto;
+      padding: 24px;
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 0;
+    }
+
+    .benefit-item {
+      min-width: 0;
+      padding: 8px 28px;
+      display: flex;
+      align-items: flex-start;
+      gap: 13px;
+      border-right: 1px solid var(--line);
+    }
+
+    .benefit-item:first-child {
+      padding-left: 0;
+    }
+
+    .benefit-item:last-child {
+      padding-right: 0;
+      border-right: 0;
+    }
+
+    .benefit-icon {
+      width: 36px;
+      height: 36px;
+      border-radius: 6px;
+      display: grid;
+      place-items: center;
+      background: var(--green-soft);
+      color: var(--green);
+    }
+
+    .benefit-title {
+      margin: 0;
+      font-size: 15px;
+      font-weight: 750;
+    }
+
+    .benefit-text {
+      margin: 4px 0 0;
+      color: var(--muted);
+      font-size: 13px;
+    }
+
+    .partner-band {
+      background: var(--paper);
+      border-bottom: 1px solid var(--line);
+    }
+
+    .partner-inner {
+      max-width: 1180px;
+      margin: 0 auto;
+      padding: 18px 24px;
+      display: flex;
+      align-items: center;
+      gap: 24px;
+    }
+
+    .partner-label {
+      flex: 0 0 auto;
+      color: var(--muted);
+      font-size: 12px;
+      font-weight: 700;
+    }
+
+    .partner-list {
+      min-width: 0;
+      flex: 1;
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 24px;
+    }
+
+    .partner {
+      min-width: 0;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      color: var(--ink-soft);
+      font-size: 12px;
+      line-height: 1.35;
+    }
+
+    .partner img {
+      width: 32px;
+      height: 32px;
+      flex: 0 0 auto;
+      border: 1px solid var(--line);
+      border-radius: 4px;
+      background: #fff;
+      object-fit: contain;
+    }
+
+    .workspace {
+      max-width: 1180px;
+      margin: 0 auto;
+      padding: 56px 24px 72px;
+      display: grid;
+      grid-template-columns: minmax(0, 780px) minmax(260px, 1fr);
+      gap: 48px;
+      align-items: start;
+    }
+
+    .section-kicker {
+      margin: 0 0 6px;
+      color: var(--blue);
+      font-size: 13px;
+      font-weight: 800;
+    }
+
+    .workspace-title {
+      margin: 0;
+      font-size: 28px;
+      line-height: 1.3;
+    }
+
+    .workspace-lead {
+      margin: 10px 0 24px;
+      color: var(--muted);
+    }
+
+    .form-shell {
+      overflow: hidden;
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      background: var(--paper);
+      box-shadow: var(--shadow);
+    }
+
+    .progress-head {
+      padding: 22px 28px 18px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 18px;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .progress-copy {
+      min-width: 0;
+    }
+
+    .progress-title {
+      margin: 0;
+      font-size: 16px;
+      font-weight: 750;
+    }
+
+    .progress-meta {
+      margin: 4px 0 0;
+      color: var(--muted);
+      font-size: 12px;
+    }
+
+    .draft-state {
+      display: flex;
+      align-items: center;
+      gap: 7px;
+      color: var(--green);
+      font-size: 12px;
+      white-space: nowrap;
+    }
+
+    .progress-track {
+      height: 4px;
+      background: #e9edf0;
+    }
+
+    .progress-fill {
+      width: 33.333%;
+      height: 100%;
+      background: var(--orange);
+      transition: width 220ms ease;
+    }
+
+    .step-tabs {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      border-bottom: 1px solid var(--line);
+    }
+
+    .step-tab {
+      min-height: 58px;
+      border: 0;
+      border-right: 1px solid var(--line);
+      background: #fafbfb;
+      color: var(--muted);
+      font-size: 13px;
+      font-weight: 700;
+    }
+
+    .step-tab:last-child {
+      border-right: 0;
+    }
+
+    .step-tab.active {
+      background: var(--paper);
+      color: var(--ink);
+    }
+
+    .step-tab.done {
+      color: var(--green);
+    }
+
+    .step-panel {
+      display: none;
+      padding: 30px 28px 28px;
+    }
+
+    .step-panel.active {
+      display: block;
+    }
+
+    .panel-heading {
+      margin-bottom: 24px;
+    }
+
+    .panel-heading h3 {
+      margin: 0;
+      font-size: 20px;
+    }
+
+    .panel-heading p {
+      margin: 7px 0 0;
+      color: var(--muted);
+      font-size: 13px;
+    }
+
+    .field-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 20px;
+    }
+
+    .field {
+      min-width: 0;
+    }
+
+    .field-full {
+      grid-column: 1 / -1;
+    }
+
+    .field label,
+    .field-label {
+      margin-bottom: 7px;
+      display: flex;
+      align-items: baseline;
+      justify-content: space-between;
+      gap: 12px;
+      color: var(--ink);
+      font-size: 13px;
+      font-weight: 700;
+    }
+
+    .optional {
+      color: var(--muted);
+      font-size: 11px;
+      font-weight: 500;
+    }
+
+    .required::after {
+      margin-left: 3px;
+      color: var(--danger);
+      content: "*";
+    }
+
+    input,
+    select,
+    textarea {
+      width: 100%;
+      min-height: 44px;
+      border: 1px solid var(--line-strong);
+      border-radius: 6px;
+      outline: 0;
+      background: #fff;
+      color: var(--ink);
+      padding: 10px 12px;
+      transition: border-color 160ms ease, box-shadow 160ms ease;
+    }
+
+    input:focus,
+    select:focus,
+    textarea:focus {
+      border-color: var(--blue);
+      box-shadow: 0 0 0 3px rgba(10, 102, 168, 0.12);
+    }
+
+    input.invalid,
+    select.invalid {
+      border-color: var(--danger);
+    }
+
+    textarea {
+      min-height: 94px;
+      resize: vertical;
+    }
+
+    .hint {
+      margin: 6px 0 0;
+      color: var(--muted);
+      font-size: 11px;
+    }
+
+    .contact-notice {
+      margin: 8px 0 0;
+      border-left: 4px solid var(--orange);
+      display: flex;
+      align-items: flex-start;
+      gap: 8px;
+      background: #fff8ec;
+      padding: 10px 12px;
+      color: #62420e;
+      font-size: 12px;
+      font-weight: 700;
+    }
+
+    .contact-notice .icon {
+      width: 17px;
+      height: 17px;
+      margin-top: 1px;
+      flex: 0 0 auto;
+    }
+
+    .support-cta {
+      width: 100%;
+      min-height: 58px;
+      margin-top: 10px;
+      border: 2px solid #d87e00;
+      border-radius: 6px;
+      display: flex;
+      align-items: center;
+      gap: 11px;
+      background: #fff3dc;
+      padding: 10px 13px;
+      color: #603800;
+      text-align: left;
+    }
+
+    .support-cta:hover {
+      background: #ffe8bc;
+    }
+
+    .support-cta .icon {
+      width: 24px;
+      height: 24px;
+      flex: 0 0 auto;
+      color: #b86600;
+    }
+
+    .support-cta strong,
+    .support-cta span {
+      display: block;
+    }
+
+    .support-cta strong {
+      font-size: 14px;
+    }
+
+    .support-cta span {
+      margin-top: 2px;
+      font-size: 11px;
+      font-weight: 600;
+    }
+
+    .error {
+      min-height: 18px;
+      margin: 4px 0 0;
+      color: var(--danger);
+      font-size: 11px;
+    }
+
+    .category-suggestion {
+      margin-top: 9px;
+      padding: 10px 12px;
+      display: none;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      border: 1px solid #bcd9ec;
+      border-radius: 6px;
+      background: var(--blue-soft);
+      color: #174b6b;
+      font-size: 12px;
+    }
+
+    .category-suggestion.show {
+      display: flex;
+    }
+
+    .category-suggestion button {
+      border: 0;
+      background: transparent;
+      color: var(--blue);
+      font-size: 12px;
+      font-weight: 700;
+    }
+
+    .category-suggestion.no-match {
+      align-items: flex-start;
+      border-color: #efc16f;
+      background: #fff8ec;
+      color: #62420e;
+    }
+
+    .category-suggestion.no-match .category-primary {
+      align-items: flex-start;
+    }
+
+    .category-suggestion.no-match .category-primary span {
+      overflow: visible;
+      text-overflow: clip;
+      white-space: normal;
+    }
+
+    .category-suggestion.no-match button {
+      flex: 0 0 auto;
+      color: #9a5700;
+      text-decoration: underline;
+    }
+
+    .category-primary {
+      min-width: 0;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .category-primary span {
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+
+    .category-options {
+      margin-top: 8px;
+      display: none;
+      max-height: 300px;
+      overflow: hidden;
+      overflow-y: auto;
+      border: 1px solid var(--line);
+      border-radius: 6px;
+      background: #fff;
+    }
+
+    .source-other-input {
+      margin-top: 10px;
+    }
+
+    .source-other-input::placeholder {
+      color: #a1a8a5;
+      opacity: 1;
+    }
+
+    .category-options.show {
+      display: block;
+    }
+
+    .category-option {
+      width: 100%;
+      min-height: 56px;
+      border: 0;
+      border-bottom: 1px solid var(--line);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 14px;
+      background: #fff;
+      padding: 9px 12px;
+      color: var(--ink);
+      text-align: left;
+    }
+
+    .category-option-main {
+      min-width: 0;
+      flex: 1 1 auto;
+    }
+
+    .category-option-title {
+      display: flex;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 6px;
+    }
+
+    .category-option-title em {
+      flex: 0 0 auto;
+      border-radius: 3px;
+      background: #e7f5ed;
+      color: #18794e;
+      padding: 2px 5px;
+      font-size: 9px;
+      font-style: normal;
+      font-weight: 700;
+    }
+
+    .category-option:last-child {
+      border-bottom: 0;
+    }
+
+    .category-option:hover,
+    .category-option.selected {
+      background: var(--blue-soft);
+    }
+
+    .category-option strong {
+      display: block;
+      font-size: 13px;
+    }
+
+    .category-option small {
+      display: block;
+      overflow: hidden;
+      margin-top: 2px;
+      color: var(--muted);
+      font-size: 10px;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+
+    .category-option .category-option-en {
+      color: #53616b;
+      font-size: 10px;
+    }
+
+    .category-option .category-option-path {
+      color: var(--muted);
+    }
+
+    .category-option-count {
+      flex: 0 0 auto;
+      color: var(--muted);
+      font-size: 10px;
+      white-space: nowrap;
+    }
+
+    .upload-zone {
+      min-height: 142px;
+      border: 1px dashed #9ea8b1;
+      border-radius: 6px;
+      display: grid;
+      place-items: center;
+      background: #fafbfb;
+      color: var(--ink-soft);
+      text-align: center;
+      padding: 22px;
+      transition: border-color 160ms ease, background 160ms ease;
+    }
+
+    .upload-zone:hover,
+    .upload-zone.dragging {
+      border-color: var(--blue);
+      background: var(--blue-soft);
+    }
+
+    .upload-zone .icon {
+      width: 26px;
+      height: 26px;
+      margin: 0 auto 8px;
+      color: var(--blue);
+    }
+
+    .upload-zone strong {
+      display: block;
+      font-size: 13px;
+    }
+
+    .upload-zone span {
+      display: block;
+      margin-top: 5px;
+      color: var(--muted);
+      font-size: 11px;
+    }
+
+    .upload-preview {
+      margin-top: 10px;
+      display: none;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      border: 1px solid var(--line);
+      border-radius: 6px;
+      padding: 10px 12px;
+      color: var(--ink-soft);
+      font-size: 12px;
+    }
+
+    .upload-preview.show {
+      display: flex;
+    }
+
+    .upload-summary {
+      min-width: 0;
+      flex: 1;
+    }
+
+    .upload-thumbs {
+      margin-bottom: 8px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+
+    .upload-thumb {
+      position: relative;
+      width: 58px;
+      height: 58px;
+      overflow: hidden;
+      border: 1px solid var(--line);
+      border-radius: 5px;
+      background: #fff;
+    }
+
+    .upload-thumb img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+
+    .upload-thumb button {
+      position: absolute;
+      top: 2px;
+      right: 2px;
+      width: 20px;
+      height: 20px;
+      border: 0;
+      border-radius: 50%;
+      display: grid;
+      place-items: center;
+      background: rgba(23, 32, 42, 0.82);
+      color: #fff;
+      font-size: 13px;
+      line-height: 1;
+    }
+
+    .choice-grid {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 10px;
+    }
+
+    .choice {
+      position: relative;
+    }
+
+    .choice input {
+      position: absolute;
+      width: 1px;
+      height: 1px;
+      opacity: 0;
+      pointer-events: none;
+    }
+
+    .choice label {
+      min-height: 46px;
+      margin: 0;
+      border: 1px solid var(--line-strong);
+      border-radius: 6px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      background: #fff;
+      color: var(--ink-soft);
+      font-size: 13px;
+      font-weight: 650;
+      text-align: center;
+      cursor: pointer;
+      transition: border-color 160ms ease, background 160ms ease, color 160ms ease;
+    }
+
+    .choice input:focus-visible + label {
+      box-shadow: 0 0 0 3px rgba(10, 102, 168, 0.12);
+    }
+
+    .choice input:checked + label {
+      border-color: var(--blue);
+      background: var(--blue-soft);
+      color: #174b6b;
+    }
+
+    .choice-grid.two {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+    .choice-grid.services {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+    .choice-grid.services label {
+      justify-content: flex-start;
+      padding: 10px 12px;
+      text-align: left;
+    }
+
+    .info-note {
+      margin-top: 20px;
+      border-left: 3px solid var(--green);
+      background: var(--green-soft);
+      padding: 12px 14px;
+      color: #22563d;
+      font-size: 12px;
+    }
+
+    .consent {
+      margin-top: 20px;
+      display: flex;
+      align-items: flex-start;
+      gap: 10px;
+      color: var(--ink-soft);
+      font-size: 12px;
+    }
+
+    .consent input {
+      width: 17px;
+      height: 17px;
+      min-height: 0;
+      margin-top: 2px;
+      padding: 0;
+      accent-color: var(--green);
+    }
+
+    .text-link {
+      border: 0;
+      background: transparent;
+      color: var(--blue);
+      padding: 0;
+      text-decoration: underline;
+      text-underline-offset: 2px;
+    }
+
+    .form-actions {
+      margin-top: 28px;
+      padding-top: 22px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      border-top: 1px solid var(--line);
+    }
+
+    .sidebar {
+      position: sticky;
+      top: calc(var(--nav-height) + 28px);
+    }
+
+    .side-section {
+      padding: 0 0 24px;
+      margin-bottom: 24px;
+      border-bottom: 1px solid var(--line-strong);
+    }
+
+    .side-section:last-child {
+      border-bottom: 0;
+    }
+
+    .side-section h3 {
+      margin: 0 0 13px;
+      font-size: 15px;
+    }
+
+    .trust-list,
+    .process-list {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+    }
+
+    .trust-list li {
+      margin: 0 0 11px;
+      display: flex;
+      align-items: flex-start;
+      gap: 9px;
+      color: var(--ink-soft);
+      font-size: 12px;
+    }
+
+    .trust-list .icon {
+      width: 16px;
+      height: 16px;
+      margin-top: 2px;
+      color: var(--green);
+    }
+
+    .process-list {
+      counter-reset: process;
+    }
+
+    .process-list li {
+      position: relative;
+      min-height: 46px;
+      padding: 0 0 18px 36px;
+      color: var(--ink-soft);
+      font-size: 12px;
+      counter-increment: process;
+    }
+
+    .process-list li::before {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 24px;
+      height: 24px;
+      border-radius: 50%;
+      display: grid;
+      place-items: center;
+      background: var(--ink);
+      color: #fff;
+      content: counter(process);
+      font-size: 11px;
+      font-weight: 800;
+    }
+
+    .process-list li::after {
+      position: absolute;
+      top: 27px;
+      bottom: 2px;
+      left: 11px;
+      width: 1px;
+      background: var(--line-strong);
+      content: "";
+    }
+
+    .process-list li:last-child::after {
+      display: none;
+    }
+
+    .side-contact {
+      color: var(--muted);
+      font-size: 12px;
+    }
+
+    .side-contact strong {
+      display: block;
+      color: var(--ink);
+      font-size: 14px;
+    }
+
+    .faq-band {
+      background: var(--paper);
+      border-top: 1px solid var(--line);
+      border-bottom: 1px solid var(--line);
+    }
+
+    .faq-inner {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 56px 24px 64px;
+    }
+
+    .faq-inner h2 {
+      margin: 0;
+      font-size: 26px;
+      text-align: center;
+    }
+
+    .faq-lead {
+      margin: 8px 0 30px;
+      color: var(--muted);
+      text-align: center;
+    }
+
+    details {
+      border-top: 1px solid var(--line);
+    }
+
+    details:last-child {
+      border-bottom: 1px solid var(--line);
+    }
+
+    summary {
+      min-height: 58px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+      color: var(--ink);
+      font-weight: 700;
+      list-style: none;
+      cursor: pointer;
+    }
+
+    summary::-webkit-details-marker {
+      display: none;
+    }
+
+    summary .icon {
+      transition: transform 160ms ease;
+    }
+
+    details[open] summary .icon {
+      transform: rotate(180deg);
+    }
+
+    details p {
+      margin: -2px 0 20px;
+      color: var(--muted);
+      font-size: 13px;
+    }
+
+    footer {
+      background: #17202a;
+      color: #d6dde2;
+    }
+
+    .footer-inner {
+      max-width: 1180px;
+      margin: 0 auto;
+      padding: 34px 24px;
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 30px;
+    }
+
+    .footer-brand {
+      max-width: 620px;
+    }
+
+    .footer-brand strong {
+      display: block;
+      color: #fff;
+      font-size: 14px;
+    }
+
+    .footer-brand p,
+    .footer-meta p {
+      margin: 7px 0 0;
+      color: #9eabb5;
+      font-size: 11px;
+    }
+
+    .modal-backdrop {
+      position: fixed;
+      inset: 0;
+      z-index: 100;
+      display: none;
+      align-items: center;
+      justify-content: center;
+      overflow-y: auto;
+      background: rgba(9, 16, 22, 0.7);
+      padding: 24px;
+    }
+
+    .modal-backdrop.show {
+      display: flex;
+    }
+
+    .modal {
+      width: min(720px, 100%);
+      max-height: calc(100svh - 48px);
+      overflow-y: auto;
+      border-radius: var(--radius);
+      background: var(--paper);
+      box-shadow: 0 24px 70px rgba(0, 0, 0, 0.28);
+    }
+
+    .modal-sm {
+      width: min(500px, 100%);
+    }
+
+    .poster-modal {
+      width: min(820px, 100%);
+    }
+
+    .poster-body {
+      padding: 0;
+      background: #0c2c50;
+    }
+
+    .poster-body a {
+      display: block;
+      line-height: 0;
+    }
+
+    .poster-body img {
+      width: 100%;
+      height: auto;
+      display: block;
+    }
+
+    .poster-tip {
+      margin: 0;
+      background: #fff8ec;
+      padding: 10px 16px;
+      color: #62420e;
+      font-size: 12px;
+      line-height: 1.5;
+      text-align: center;
+    }
+
+    .modal-head {
+      position: sticky;
+      top: 0;
+      z-index: 1;
+      padding: 20px 22px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 18px;
+      border-bottom: 1px solid var(--line);
+      background: var(--paper);
+    }
+
+    .modal-head h2 {
+      margin: 0;
+      font-size: 19px;
+    }
+
+    .icon-btn {
+      width: 38px;
+      height: 38px;
+      border: 0;
+      border-radius: 50%;
+      display: grid;
+      place-items: center;
+      background: #eef1f3;
+      color: var(--ink);
+    }
+
+    .icon-btn:hover {
+      background: #e3e7ea;
+    }
+
+    .modal-body {
+      padding: 24px 22px 26px;
+    }
+
+    .report-banner {
+      margin-bottom: 20px;
+      border-left: 4px solid var(--orange);
+      background: #fff8ec;
+      padding: 12px 14px;
+      color: #62420e;
+      font-size: 12px;
+    }
+
+    .report-stats {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 10px;
+    }
+
+    .stat {
+      min-height: 108px;
+      border: 1px solid var(--line);
+      border-radius: 6px;
+      padding: 14px;
+    }
+
+    .stat-label {
+      color: var(--muted);
+      font-size: 11px;
+    }
+
+    .stat-value {
+      margin-top: 7px;
+      color: var(--ink);
+      font-size: 21px;
+      font-weight: 800;
+      line-height: 1.25;
+    }
+
+    .stat-note {
+      margin-top: 5px;
+      color: var(--green);
+      font-size: 11px;
+    }
+
+    .report-section {
+      margin-top: 24px;
+    }
+
+    .report-section h3 {
+      margin: 0 0 12px;
+      font-size: 14px;
+    }
+
+    .bar-row {
+      margin-bottom: 11px;
+      display: grid;
+      grid-template-columns: 90px 1fr 42px;
+      align-items: center;
+      gap: 10px;
+      color: var(--ink-soft);
+      font-size: 11px;
+    }
+
+    .bar {
+      height: 8px;
+      overflow: hidden;
+      border-radius: 4px;
+      background: #e9edf0;
+    }
+
+    .bar span {
+      display: block;
+      height: 100%;
+      border-radius: inherit;
+      background: var(--orange);
+    }
+
+    .pain-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+
+    .pain-tag {
+      border: 1px solid #ecc7c3;
+      border-radius: 16px;
+      background: #fff4f2;
+      color: #8f2c23;
+      padding: 5px 10px;
+      font-size: 11px;
+    }
+
+    .report-footnote {
+      margin: 20px 0 0;
+      color: var(--muted);
+      font-size: 10px;
+    }
+
+    .privacy-copy h3 {
+      margin: 22px 0 6px;
+      font-size: 14px;
+    }
+
+    .privacy-copy h3:first-child {
+      margin-top: 0;
+    }
+
+    .privacy-copy p,
+    .privacy-copy li {
+      color: var(--ink-soft);
+      font-size: 12px;
+    }
+
+    .privacy-copy ul {
+      margin: 8px 0 0;
+      padding-left: 20px;
+    }
+
+    .authorization-box {
+      border-left: 4px solid var(--orange);
+      background: #fff8ec;
+      padding: 14px 16px;
+      color: #513c18;
+      font-size: 13px;
+    }
+
+    .authorization-box p {
+      margin: 0 0 10px;
+    }
+
+    .authorization-box p:last-child {
+      margin-bottom: 0;
+    }
+
+    .authorization-list {
+      margin: 18px 0 0;
+      padding: 0;
+      list-style: none;
+    }
+
+    .authorization-list li {
+      margin-bottom: 11px;
+      display: flex;
+      align-items: flex-start;
+      gap: 9px;
+      color: var(--ink-soft);
+      font-size: 12px;
+    }
+
+    .authorization-list .icon {
+      width: 16px;
+      height: 16px;
+      margin-top: 2px;
+      color: var(--green);
+    }
+
+    .authorization-qr {
+      margin-top: 18px;
+      border: 1px solid var(--line);
+      border-radius: 6px;
+      display: grid;
+      grid-template-columns: 126px minmax(0, 1fr);
+      align-items: center;
+      gap: 16px;
+      background: #f8f9fa;
+      padding: 14px;
+    }
+
+    .authorization-qr img,
+    .authorization-qr .qr-placeholder {
+      width: 126px;
+      height: 126px;
+      object-fit: contain;
+      background: #fff;
+    }
+
+    .authorization-qr strong {
+      display: block;
+      font-size: 14px;
+    }
+
+    .authorization-qr span {
+      display: block;
+      margin-top: 6px;
+      color: var(--muted);
+      font-size: 12px;
+    }
+
+    .authorization-qr .qr-save-tip,
+    .consult-qr-preview .qr-save-tip {
+      margin-bottom: 7px;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      color: #9a5700;
+      font-size: 12px;
+      font-weight: 800;
+    }
+
+    .authorization-qr .qr-save-tip .icon,
+    .consult-qr-preview .qr-save-tip .icon {
+      width: 15px;
+      height: 15px;
+    }
+
+    .success {
+      display: none;
+      padding: 44px 28px 36px;
+      text-align: center;
+    }
+
+    .success.show {
+      display: block;
+    }
+
+    .success-icon {
+      width: 58px;
+      height: 58px;
+      margin: 0 auto 16px;
+      border-radius: 50%;
+      display: grid;
+      place-items: center;
+      background: var(--green-soft);
+      color: var(--green);
+    }
+
+    .success-icon .icon {
+      width: 30px;
+      height: 30px;
+    }
+
+    .success h3 {
+      margin: 0;
+      font-size: 24px;
+    }
+
+    .success p {
+      max-width: 520px;
+      margin: 10px auto 0;
+      color: var(--muted);
+    }
+
+    .success-id {
+      margin: 18px auto 0;
+      display: inline-block;
+      border: 1px solid var(--line);
+      border-radius: 6px;
+      background: #f8f9fa;
+      padding: 8px 12px;
+      color: var(--ink-soft);
+      font-family: Consolas, monospace;
+      font-size: 12px;
+    }
+
+    .next-actions {
+      max-width: 540px;
+      margin: 30px auto 0;
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 0;
+      border-top: 1px solid var(--line);
+      border-bottom: 1px solid var(--line);
+      text-align: left;
+    }
+
+    .next-item {
+      padding: 18px 14px;
+      border-right: 1px solid var(--line);
+    }
+
+    .next-item:last-child {
+      border-right: 0;
+    }
+
+    .next-item strong {
+      display: block;
+      font-size: 12px;
+    }
+
+    .next-item span {
+      display: block;
+      margin-top: 4px;
+      color: var(--muted);
+      font-size: 10px;
+    }
+
+    .success-actions {
+      margin-top: 28px;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 10px;
+    }
+
+    .success-actions .registration-return {
+      border-color: var(--green);
+      background: var(--green);
+      color: #fff;
+    }
+
+    .success-actions .registration-return:hover {
+      border-color: #0f623c;
+      background: #0f623c;
+    }
+
+    .registration-return-status {
+      max-width: 540px;
+      margin: 20px auto 0;
+      padding: 14px 16px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 12px;
+      border: 1px solid #b9ddcb;
+      border-radius: 6px;
+      background: #eef8f2;
+      color: #145c3b;
+      font-size: 12px;
+    }
+
+    .registration-return-status[hidden] {
+      display: none;
+    }
+
+    .registration-return-status button {
+      border: 0;
+      padding: 0;
+      background: transparent;
+      color: #145c3b;
+      font: inherit;
+      font-weight: 700;
+      text-decoration: underline;
+      cursor: pointer;
+    }
+
+    .live-insight {
+      max-width: 680px;
+      margin: 30px auto 0;
+      text-align: left;
+    }
+
+    .insight-loading,
+    .insight-empty {
+      border: 1px solid var(--line);
+      border-radius: 6px;
+      background: #f8f9fa;
+      padding: 18px;
+      color: var(--muted);
+      font-size: 12px;
+      text-align: center;
+    }
+
+    .insight-headline {
+      margin: 0 0 6px;
+      font-size: 18px;
+    }
+
+    .insight-meta {
+      margin: 0 0 18px;
+      color: var(--muted);
+      font-size: 11px;
+    }
+
+    .insight-block {
+      margin-top: 18px;
+      border-top: 1px solid var(--line);
+      padding-top: 18px;
+    }
+
+    .insight-block h4 {
+      margin: 0 0 12px;
+      font-size: 14px;
+    }
+
+    .insight-grid {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 10px;
+    }
+
+    .insight-stat {
+      min-height: 104px;
+      border: 1px solid var(--line);
+      border-radius: 6px;
+      padding: 13px;
+    }
+
+    .insight-stat span {
+      display: block;
+      color: var(--muted);
+      font-size: 10px;
+    }
+
+    .insight-stat strong {
+      display: block;
+      margin-top: 7px;
+      color: var(--ink);
+      font-size: 18px;
+      line-height: 1.3;
+      overflow-wrap: anywhere;
+    }
+
+    .insight-stat small {
+      display: block;
+      margin-top: 5px;
+      color: var(--green);
+      font-size: 10px;
+    }
+
+    .top-product-list {
+      border: 1px solid var(--line);
+      border-radius: 6px;
+      overflow: hidden;
+    }
+
+    .top-product-row {
+      padding: 11px 12px;
+      display: grid;
+      grid-template-columns: 28px minmax(0, 1fr) auto;
+      align-items: center;
+      gap: 10px;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .top-product-row:last-child {
+      border-bottom: 0;
+    }
+
+    .top-product-rank {
+      width: 24px;
+      height: 24px;
+      border-radius: 50%;
+      display: grid;
+      place-items: center;
+      background: #eef1f3;
+      color: var(--ink-soft);
+      font-size: 10px;
+      font-weight: 800;
+    }
+
+    .top-product-title {
+      overflow: hidden;
+      color: var(--ink-soft);
+      font-size: 11px;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+
+    .top-product-meta {
+      color: var(--muted);
+      font-size: 10px;
+    }
+
+    .top-product-value {
+      color: var(--ink);
+      font-size: 12px;
+      font-weight: 800;
+      white-space: nowrap;
+    }
+
+    .qr-zone {
+      max-width: 520px;
+      margin: 28px auto 0;
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 12px;
+    }
+
+    .qr-card {
+      border: 1px solid var(--line);
+      border-radius: 6px;
+      background: #fff;
+      padding: 14px;
+      text-align: center;
+    }
+
+    .qr-card img,
+    .qr-placeholder {
+      width: min(150px, 100%);
+      aspect-ratio: 1;
+      margin: 0 auto;
+      border-radius: 4px;
+      object-fit: contain;
+    }
+
+    .qr-placeholder {
+      display: grid;
+      place-items: center;
+      background: #eef1f3;
+      color: var(--muted);
+      font-size: 11px;
+    }
+
+    .qr-card strong {
+      display: block;
+      margin-top: 10px;
+      font-size: 12px;
+    }
+
+    .qr-card span {
+      display: block;
+      margin-top: 3px;
+      color: var(--muted);
+      font-size: 10px;
+    }
+
+    .consult-qr {
+      margin-top: 18px;
+      border-top: 1px solid var(--line);
+      padding-top: 18px;
+    }
+
+    .consult-qr-preview {
+      margin-top: 10px;
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      border: 1px solid var(--line);
+      border-radius: 6px;
+      background: #f8f9fa;
+      padding: 12px;
+    }
+
+    .consult-qr-preview img,
+    .consult-qr-preview .qr-placeholder {
+      width: 104px;
+      height: 104px;
+      flex: 0 0 auto;
+      object-fit: contain;
+      background: #fff;
+    }
+
+    .consult-qr-preview strong {
+      display: block;
+      font-size: 13px;
+    }
+
+    .consult-qr-preview span {
+      display: block;
+      margin-top: 5px;
+      color: var(--muted);
+      font-size: 11px;
+    }
+
+    .toast {
+      position: fixed;
+      z-index: 200;
+      right: 20px;
+      bottom: 20px;
+      max-width: min(360px, calc(100vw - 40px));
+      border-radius: 6px;
+      background: var(--ink);
+      color: #fff;
+      padding: 12px 14px;
+      box-shadow: var(--shadow);
+      font-size: 12px;
+      opacity: 0;
+      pointer-events: none;
+      transform: translateY(8px);
+      transition: opacity 160ms ease, transform 160ms ease;
+    }
+
+    .toast.show {
+      opacity: 1;
+      transform: none;
+    }
+
+    
+      .workspace {
+        grid-template-columns: 1fr;
+        gap: 32px;
+      }
+
+      .sidebar {
+        position: static;
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 24px;
+      }
+
+      .side-section {
+        margin: 0;
+        border-bottom: 0;
+      }
+    
+
+    
+      :root {
+        --nav-height: 60px;
+      }
+
+      .topbar-inner {
+        padding: 0 16px;
+      }
+
+      .topbar {
+        overflow: hidden;
+      }
+
+      .brand-mark {
+        width: 34px;
+        height: 34px;
+      }
+
+      .brand {
+        flex: 1;
+      }
+
+      .brand-name {
+        max-width: calc(100vw - 96px);
+        font-size: 13px;
+      }
+
+      .brand-sub,
+      .top-actions .btn-ghost {
+        display: none;
+      }
+
+      .top-actions {
+        display: none;
+      }
+
+      .hero {
+        min-height: min(620px, calc(100svh - 60px));
+        background-position: 58% center;
+      }
+
+      .hero-inner {
+        padding: 56px 18px 60px;
+      }
+
+      h1 {
+        max-width: 100%;
+        font-size: 34px;
+        word-break: break-word;
+      }
+
+      .hero-lead {
+        font-size: 16px;
+      }
+
+      .hero-points {
+        display: grid;
+        gap: 9px;
+      }
+
+      .hero-actions {
+        display: grid;
+        grid-template-columns: 1fr;
+      }
+
+      .hero .btn {
+        width: 100%;
+      }
+
+      .benefit-grid {
+        padding: 18px;
+        grid-template-columns: 1fr;
+      }
+
+      .benefit-item,
+      .benefit-item:first-child,
+      .benefit-item:last-child {
+        padding: 14px 0;
+        border-right: 0;
+        border-bottom: 1px solid var(--line);
+      }
+
+      .benefit-item:last-child {
+        border-bottom: 0;
+      }
+
+      .partner-inner {
+        padding: 15px 18px;
+        align-items: flex-start;
+        flex-direction: column;
+        gap: 10px;
+      }
+
+      .partner-list {
+        width: 100%;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 12px 16px;
+      }
+
+      .workspace {
+        padding: 40px 16px 52px;
+      }
+
+      .workspace-title {
+        font-size: 24px;
+      }
+
+      .progress-head {
+        padding: 18px;
+      }
+
+      .step-tab {
+        min-height: 52px;
+        font-size: 12px;
+      }
+
+      input,
+      select,
+      textarea {
+        min-height: 48px;
+        font-size: 16px;
+      }
+
+      .btn {
+        min-height: 48px;
+        touch-action: manipulation;
+      }
+
+      .step-panel {
+        padding: 24px 18px 20px;
+      }
+
+      .field-grid {
+        grid-template-columns: 1fr;
+        gap: 16px;
+      }
+
+      .field-full {
+        grid-column: auto;
+      }
+
+      .choice-grid,
+      .choice-grid.two,
+      .choice-grid.services {
+        grid-template-columns: 1fr;
+      }
+
+      .choice label,
+      .category-option {
+        min-height: 52px;
+      }
+
+      .form-actions {
+        align-items: stretch;
+        flex-direction: column-reverse;
+      }
+
+      .form-actions .btn {
+        width: 100%;
+      }
+
+      .sidebar {
+        grid-template-columns: 1fr;
+      }
+
+      .side-section {
+        padding-bottom: 22px;
+        border-bottom: 1px solid var(--line);
+      }
+
+      .footer-inner {
+        flex-direction: column;
+      }
+
+      .report-stats,
+      .next-actions,
+      .insight-grid,
+      .qr-zone {
+        grid-template-columns: 1fr;
+      }
+
+      .next-item {
+        border-right: 0;
+        border-bottom: 1px solid var(--line);
+      }
+
+      .next-item:last-child {
+        border-bottom: 0;
+      }
+
+      .bar-row {
+        grid-template-columns: 72px 1fr 36px;
+      }
+
+      .modal-backdrop {
+        align-items: flex-end;
+        padding: 0;
+      }
+
+      .modal {
+        width: 100%;
+        max-height: 92svh;
+        border-radius: 8px 8px 0 0;
+        padding-bottom: env(safe-area-inset-bottom);
+      }
+
+      .consult-qr-preview {
+        align-items: flex-start;
+      }
+
+      .authorization-qr {
+        grid-template-columns: 96px minmax(0, 1fr);
+        gap: 12px;
+      }
+
+      .authorization-qr img,
+      .authorization-qr .qr-placeholder {
+        width: 96px;
+        height: 96px;
+      }
+    
+
+    @media (max-width: 390px) {
+      .brand-name {
+        max-width: 148px;
+      }
+
+      h1 {
+        font-size: 31px;
+      }
+
+      .draft-state span {
+        display: none;
+      }
+    }
+
+    .static-demo-notice {
+      width: min(1120px, calc(100% - 32px));
+      margin: 16px auto 0;
+      padding: 12px 16px;
+      border: 1px solid #d8a63b;
+      border-radius: 6px;
+      background: #fff8df;
+      color: #60470b;
+      font-size: 14px;
+      line-height: 1.6;
+    }
+
+    /* ===== Passport world · 湖北省电子商务行业协会 · seed:052c3cac3d167548 ===== */
+    :root {
+      --burgundy: #6b1f2d;
+      --burgundy-deep: #531522;
+      --gold: #c7a24d;
+      --gold-soft: #dcbf7a;
+      --paper: #f6f2ea;
+      --paper-white: #fffdf8;
+      --ink: #1f1a17;
+      --ink-soft: #463e38;
+      --muted: #665d55;
+      --rule: #ddd3c4;
+      --rule-strong: #b8aa96;
+      --navy: #1e2a56;
+      --purple: #5f4198;
+      --stamp-red: #a8323f;
+      --stamp-green: #2f6b45;
+      --visa-paper: #fbf3f2;
+      --entry-paper: #f3f6ef;
+      --app-w: 480px;
+      /* inherited component variables, re-pointed into this world */
+      --line: var(--rule);
+      --line-strong: var(--rule-strong);
+      --canvas: var(--paper);
+      --orange: var(--burgundy);
+      --orange-hover: var(--burgundy-deep);
+      --blue: var(--navy);
+      --blue-soft: #eceef5;
+      --green: var(--stamp-green);
+      --green-soft: #e6efe6;
+      --radius: 2px;
+      --shadow: none;
+    }
+
+    [hidden] { display: none !important; }
+
+    body {
+      background: #e3dccf;
+      color: var(--ink);
+      font-family: "Microsoft YaHei", "PingFang SC", "Hiragino Sans GB", "Noto Sans SC", sans-serif;
+      font-size: 16px;
+      line-height: 1.65;
+    }
+
+    ::selection { background: rgba(107, 31, 45, 0.18); }
+    :focus-visible { outline: 2px solid var(--navy); outline-offset: 2px; }
+    input, textarea { caret-color: var(--burgundy); }
+    input[type="checkbox"], input[type="radio"] { accent-color: var(--burgundy); }
+    html { scrollbar-color: var(--rule-strong) transparent; }
+
+    .app {
+      width: 100%;
+      max-width: var(--app-w);
+      min-height: 100vh;
+      margin: 0 auto;
+      padding-bottom: 74px;
+      background: var(--paper);
+    }
+
+    @media (min-width: 520px) {
+      .app { box-shadow: 0 0 0 1px rgba(31, 26, 23, 0.1), 0 30px 80px rgba(31, 26, 23, 0.16); }
+    }
+
+    /* issuing-authority strip */
+    .pp-bar {
+      position: sticky;
+      top: 0;
+      z-index: 30;
+      height: 60px;
+      padding: 0 14px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      border-bottom: 3px solid var(--burgundy);
+      background: var(--paper-white);
+    }
+
+    .pp-crest { min-width: 0; flex: 1 1 auto; }
+    .pp-crest img { display: block; width: auto; height: auto; max-width: min(100%, 240px); max-height: 34px; }
+
+    .pp-mgr {
+      height: 36px;
+      padding: 0 11px;
+      flex: none;
+      border: 1px solid var(--burgundy);
+      border-radius: 2px;
+      background: transparent;
+      color: var(--burgundy);
+      font-size: 13px;
+      font-weight: 700;
+      white-space: nowrap;
+      cursor: pointer;
+    }
+
+    .pp-mgr:active { background: rgba(107, 31, 45, 0.08); }
+
+    /* the cover */
+    .pp-cover {
+      position: relative;
+      padding: 30px 26px 44px;
+      background: var(--burgundy);
+      color: var(--gold-soft);
+    }
+
+    .pp-cover::before {
+      content: "";
+      position: absolute;
+      inset: 10px;
+      border: 1px solid rgba(199, 162, 77, 0.55);
+      pointer-events: none;
+    }
+
+    .pp-docno {
+      margin: 0;
+      font-size: 13px;
+      letter-spacing: 0.16em;
+      font-variant-numeric: tabular-nums;
+    }
+
+    .pp-title {
+      margin: 14px 0 0;
+      font-size: 33px;
+      font-weight: 700;
+      line-height: 1.3;
+      letter-spacing: 0.12em;
+      text-wrap: balance;
+    }
+
+    .pp-issuer {
+      margin: 14px 0 0;
+      padding-top: 12px;
+      border-top: 1px solid rgba(199, 162, 77, 0.5);
+      font-size: 13px;
+      letter-spacing: 0.14em;
+    }
+
+    /* passport pages */
+    .pp-page { position: relative; padding: 26px 18px; }
+
+    .pp-data {
+      position: relative;
+      z-index: 2;
+      margin: -22px 10px 0;
+      padding: 22px 16px 22px;
+      border: 1px solid var(--rule-strong);
+      background: url("assets/guilloche-green.svg") repeat, var(--entry-paper);
+      box-shadow: 0 6px 18px rgba(31, 26, 23, 0.12);
+    }
+
+    .pp-invite { margin: 0; color: var(--ink-soft); font-size: 16px; line-height: 1.75; text-wrap: pretty; }
+    .pp-terms { margin: 8px 0 0; color: var(--burgundy); font-size: 14px; font-weight: 700; text-wrap: balance; }
+
+    .pp-apply { margin-top: 16px; }
+    .pp-apply label { display: block; margin-bottom: 6px; color: var(--burgundy); font-size: 14px; font-weight: 700; letter-spacing: 0.04em; }
+
+    .pp-apply-row {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto;
+      border: 1.5px solid var(--ink);
+      border-radius: 2px;
+      background: var(--paper-white);
+    }
+
+    .pp-apply-row:focus-within { outline: 2px solid var(--navy); outline-offset: 2px; }
+    .pp-apply-row input { min-height: 52px; border: 0; border-radius: 0; padding: 0 12px; background: transparent; font-size: 16px; }
+    .pp-apply-row input:focus { outline: none; box-shadow: none; }
+
+    .pp-apply-row button {
+      padding: 0 16px;
+      border: 0;
+      border-left: 1.5px solid var(--ink);
+      background: var(--burgundy);
+      color: var(--gold-soft);
+      font-size: 16px;
+      font-weight: 700;
+      letter-spacing: 0.04em;
+      white-space: nowrap;
+      cursor: pointer;
+    }
+
+    .pp-apply-row button:active { background: var(--burgundy-deep); }
+
+    .pp-page-label { margin: 0 4px 10px; color: var(--muted); font-size: 14px; text-wrap: pretty; }
+    .pp-visa-wrap { padding: 28px 10px 26px; }
+
+    /* the visa page (sample and issued result share this markup) */
+    .sheet {
+      position: relative;
+      border: 1px solid #d8bcc2;
+      background: url("assets/guilloche-rose.svg") repeat, var(--visa-paper);
+      text-align: left;
+    }
+
+    .sheet p { max-width: none; }
+
+    .sheet .sheet-head { padding: 14px 16px 12px; border-top: 4px solid var(--burgundy); border-bottom: 1px solid #e3cbd0; }
+    .sheet .sheet-letterhead { margin: 0 0 8px; display: flex; align-items: center; gap: 8px; color: var(--ink); font-size: 13px; font-weight: 700; }
+    .sheet .sheet-letterhead img { width: 26px; height: auto; }
+    .sheet .sheet-serial {
+      margin: 0;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      gap: 2px 12px;
+      color: var(--navy);
+      font-size: 13px;
+      letter-spacing: 0.06em;
+      font-variant-numeric: tabular-nums;
+    }
+    .sheet .sheet-serial span { white-space: nowrap; }
+    .sheet .sheet-title { margin: 8px 0 0; color: var(--burgundy); font-family: inherit; font-size: 22px; font-weight: 700; line-height: 1.35; letter-spacing: 0.04em; }
+    .sheet .sheet-sub { margin: 2px 0 0; color: var(--muted); font-size: 14px; }
+    .sheet .sheet-band { display: none; }
+
+    .sheet-rows { margin: 0; }
+    .sheet-row {
+      padding: 11px 16px;
+      display: grid;
+      grid-template-columns: 5.4em minmax(0, 1fr);
+      gap: 12px;
+      border-bottom: 1px dashed #e0c6cc;
+    }
+    .sheet-row dt { padding-top: 3px; color: var(--muted); font-size: 13.5px; letter-spacing: 0.04em; }
+    .sheet-row dd { margin: 0; }
+    .sheet-row strong { display: block; color: var(--ink); font-size: 18px; line-height: 1.4; font-variant-numeric: tabular-nums; }
+    .sheet-row dd span { display: block; margin-top: 2px; color: var(--ink-soft); font-size: 14px; line-height: 1.6; text-wrap: pretty; }
+
+    .sheet-products { padding: 12px 16px 6px; border-bottom: 1px dashed #e0c6cc; }
+    .sheet-products h4 { margin: 0; color: var(--muted); font-size: 14px; font-weight: 700; }
+    .sheet-products ol { margin: 6px 0 0; padding-left: 1.4em; }
+    .sheet-products li { padding: 8px 0; border-top: 1px dotted #e0c6cc; font-size: 14px; }
+    .sheet-products li:first-child { border-top: 0; }
+    .sheet-product-title { display: -webkit-box; overflow: hidden; font-size: 13.5px; line-height: 1.5; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
+    .sheet-product-meta { display: block; margin-top: 2px; color: var(--muted); font-size: 13px; }
+
+    .visa-stamps {
+      padding: 18px 14px 10px;
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: center;
+      gap: 14px 18px;
+      border-bottom: 1px dashed #e0c6cc;
+    }
+
+    .stamp {
+      display: inline-flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 6px 14px;
+      border: 2.5px solid currentColor;
+      font-size: 18px;
+      font-weight: 800;
+      line-height: 1.25;
+      letter-spacing: 0.06em;
+      mix-blend-mode: multiply;
+      font-variant-numeric: tabular-nums;
+    }
+    .stamp small { font-size: 12px; font-weight: 700; letter-spacing: 0.08em; }
+    .stamp-entry { color: var(--purple); border-radius: 50%; padding: 10px 20px; transform: rotate(-9deg); }
+    .stamp-market { color: var(--stamp-red); transform: rotate(4deg); }
+    .stamp-new { color: var(--stamp-green); border-radius: 50%; width: 108px; height: 108px; justify-content: center; padding: 10px; transform: rotate(-3deg); }
+    .stamp-issued { color: var(--navy); border-style: double; border-width: 5px; transform: rotate(-7deg); }
+    .stamp.is-new { animation: pp-press 520ms cubic-bezier(0.2, 0.9, 0.2, 1) both; }
+
+    @keyframes pp-press {
+      0% { opacity: 0; transform: rotate(-7deg) scale(1.35); }
+      62% { opacity: 1; transform: rotate(-7deg) scale(0.96); }
+      100% { opacity: 1; transform: rotate(-7deg) scale(1); }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      .stamp.is-new { animation: none; }
+      .pp-dock { transition: none; }
+    }
+
+    .sheet-mrz {
+      margin: 0;
+      padding: 10px 16px;
+      color: var(--ink-soft);
+      font-size: 12.5px;
+      letter-spacing: 0.06em;
+      word-break: break-all;
+      font-variant-numeric: tabular-nums;
+    }
+
+    .sheet .sheet-foot { margin: 0; padding: 10px 16px 12px; border-top: 1px solid #e3cbd0; background: rgba(255, 253, 248, 0.7); color: var(--muted); font-size: 13px; text-wrap: pretty; }
+
+    /* the application (registration form) */
+    .pp-form { padding: 30px 12px 28px; border-top: 1px solid var(--rule); background: var(--paper); scroll-margin-top: 64px; }
+    .pp-h2 { margin: 0; color: var(--burgundy); font-size: 22px; font-weight: 700; line-height: 1.35; letter-spacing: 0.06em; text-wrap: balance; }
+    .pp-lead { margin: 8px 0 0; color: var(--ink-soft); font-size: 15px; line-height: 1.7; text-wrap: pretty; }
+    .pp-form > .pp-h2, .pp-form > .pp-lead { padding: 0 8px; }
+    .pp-form > .pp-lead { margin-bottom: 16px; }
+
+    .form-shell { border: 1px solid var(--rule-strong); border-top: 4px solid var(--burgundy); border-radius: 0; box-shadow: none; background: var(--paper-white); }
+    .progress-copy, .progress-track { display: none; }
+    .progress-head { padding: 8px 16px 0; justify-content: flex-end; border-bottom: 0; }
+    .draft-state { color: var(--stamp-green); font-size: 13.5px; }
+    .step-tabs { border-top: 1px solid var(--rule); background: var(--paper); }
+    .step-tab { font-size: 14px; color: var(--muted); letter-spacing: 0.04em; }
+    .step-tab.active { color: var(--burgundy); box-shadow: inset 0 -3px 0 var(--burgundy); background: var(--paper-white); }
+    .step-panel { padding: 22px 16px 18px; }
+    .panel-heading h3 { font-size: 19px; color: var(--ink); }
+    .panel-heading p { font-size: 14.5px; color: var(--ink-soft); }
+    .step-panel .field-grid { gap: 0; }
+    .step-panel .field { padding: 14px 0; border-bottom: 1px dashed var(--rule); }
+    .step-panel .field:last-child { border-bottom: 0; }
+    .field label, .field-label { color: var(--burgundy); font-size: 14.5px; letter-spacing: 0.04em; }
+    .field label.required, .field-label.required { justify-content: flex-start; gap: 0; }
+    .optional { font-size: 13px; color: var(--muted); letter-spacing: 0; }
+    .hint, .contact-notice { font-size: 13.5px; color: var(--muted); }
+    .error { font-size: 14px; }
+    input, select, textarea { border-radius: 2px; border-color: var(--rule-strong); background: var(--paper-white); }
+    input:focus, select:focus, textarea:focus { border-color: var(--navy); box-shadow: 0 0 0 3px rgba(30, 42, 86, 0.14); }
+    ::placeholder { color: #776d64; }
+
+    .contact-notice, .info-note { border: 1px solid var(--rule); border-left-width: 1px; border-radius: 2px; background: var(--paper); color: var(--ink-soft); }
+    .contact-notice .icon { display: none; }
+
+    .category-suggestion { border-radius: 2px; background: var(--entry-paper); font-size: 14px; }
+    .category-primary { font-size: 14px; }
+    #changeCategory:empty { display: none; }
+    .category-options { max-height: none; overflow: visible; border-radius: 2px; }
+    .category-option { min-height: 56px; border-radius: 0; }
+    .category-option-title strong { font-size: 15.5px; }
+    .category-option-title em { margin-left: 6px; padding: 0 5px; border: 1px solid var(--purple); border-radius: 2px; color: var(--purple); font-size: 12px; font-style: normal; }
+    .category-option small.category-option-path { font-size: 13px; color: var(--muted); }
+    .category-option-none strong { color: var(--burgundy); font-weight: 700; }
+
+    .upload-zone { border: 1px solid var(--rule-strong); border-radius: 2px; background: var(--paper-white); }
+    .upload-zone strong { font-size: 15px; color: var(--ink); }
+    .upload-zone span span { font-size: 13px; color: var(--muted); }
+    .upload-preview, .privacy-copy li, .privacy-copy p { font-size: 14px; }
+    .upload-thumb button { width: 30px; height: 30px; }
+
+    .choice-grid { gap: 0 14px; }
+    .choice-grid:not(.two):not(.services) { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+    .choice-grid.two, .choice-grid.services { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .choice-grid .choice label,
+    .choice-grid.services .choice label {
+      position: relative;
+      min-height: 46px;
+      padding: 8px 4px 8px 28px;
+      justify-content: flex-start;
+      border: 0;
+      border-bottom: 1px dashed var(--rule);
+      border-radius: 0;
+      background: transparent;
+      font-size: 15px;
+      text-align: left;
+    }
+    .choice-grid .choice label::before {
+      content: "";
+      position: absolute;
+      top: 50%;
+      left: 2px;
+      width: 18px;
+      height: 18px;
+      margin-top: -9px;
+      border: 1.5px solid var(--rule-strong);
+      border-radius: 2px;
+      background: var(--paper-white);
+    }
+    .choice input[type="radio"] + label::before { border-radius: 50%; }
+    .choice-grid .choice input:checked + label { border-color: var(--rule); background: transparent; color: var(--ink); font-weight: 700; box-shadow: none; }
+    .choice-grid .choice input:checked + label::before { border-color: var(--burgundy); background: var(--burgundy); box-shadow: inset 0 0 0 3px var(--paper-white); }
+
+    .consent { font-size: 14px; }
+    .consent input { width: 22px; height: 22px; }
+
+    .btn { border-radius: 2px; font-weight: 700; letter-spacing: 0.04em; }
+    .btn:not(.btn-secondary):not(.btn-ghost) { background: var(--burgundy); color: var(--gold-soft); }
+    .btn:not(.btn-secondary):not(.btn-ghost):hover { background: var(--burgundy-deep); }
+    .btn-secondary { border: 1px solid var(--burgundy); background: transparent; color: var(--burgundy); }
+    .btn-ghost { color: var(--ink-soft); }
+
+    /* after submit: the issued page */
+    .success { padding: 26px 16px 22px; text-align: left; }
+    .success h3 { color: var(--burgundy); font-size: 22px; letter-spacing: 0.04em; }
+    .success > p { font-size: 15px; color: var(--ink-soft); }
+    .success-icon, .success-id, .next-actions { display: none; }
+    .live-insight { margin-top: 18px; }
+    .insight-empty, .insight-loading { border-radius: 2px; font-size: 15px; }
+    .qr-zone { display: grid; grid-template-columns: 1fr; gap: 10px; margin-top: 18px; }
+    .qr-card { border-radius: 2px; text-align: left; }
+    .qr-card-main { padding: 14px; display: grid; grid-template-columns: 104px minmax(0, 1fr); gap: 14px; align-items: center; border: 1px solid var(--burgundy); background: var(--paper); }
+    .qr-card-main img { width: 104px; height: 104px; }
+    .qr-card-text { grid-template-columns: 1fr; }
+    .qr-card strong { display: block; color: var(--burgundy); font-size: 15.5px; }
+    .qr-card span { display: block; margin-top: 2px; color: var(--ink-soft); font-size: 14px; }
+    .qr-card-minor { padding: 10px 14px; display: grid; grid-template-columns: 64px minmax(0, 1fr); gap: 12px; align-items: center; border: 1px solid var(--rule); }
+    .qr-card-minor img { width: 64px; height: 64px; }
+    .qr-card-minor strong { color: var(--ink); font-size: 14px; }
+    .qr-card-minor span { font-size: 13px; color: var(--muted); }
+    .success-actions { display: grid; grid-template-columns: 1fr; gap: 10px; margin-top: 18px; }
+    .success-actions .btn { width: 100%; min-height: 50px; }
+
+    /* after-submit notes, course, faq, back cover, dock */
+    .pp-after { border-top: 1px solid var(--rule); }
+    .pp-steps { margin: 16px 0 0; padding: 0; list-style: none; counter-reset: ppstep; }
+    .pp-steps li { position: relative; padding: 12px 0 12px 44px; border-top: 1px dashed var(--rule); counter-increment: ppstep; font-size: 15px; }
+    .pp-steps li::before {
+      content: counter(ppstep);
+      position: absolute;
+      top: 12px;
+      left: 0;
+      width: 30px;
+      height: 30px;
+      display: grid;
+      place-items: center;
+      border: 2px solid var(--navy);
+      border-radius: 50%;
+      color: var(--navy);
+      font-size: 15px;
+      font-weight: 800;
+      transform: rotate(-6deg);
+    }
+    .pp-steps strong { display: block; }
+    .pp-steps span { color: var(--ink-soft); font-size: 14px; text-wrap: pretty; }
+    .pp-promise { margin: 14px 0 0; padding: 0; list-style: none; }
+    .pp-promise li { padding: 5px 0 5px 16px; position: relative; color: var(--ink-soft); font-size: 14px; }
+    .pp-promise li::before { content: ""; position: absolute; left: 2px; top: 0.95em; width: 6px; height: 6px; background: var(--burgundy); }
+
+    .pp-next {
+      margin: 0 18px;
+      padding: 14px 0;
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto;
+      align-items: baseline;
+      gap: 12px;
+      border-top: 2px dashed var(--rule-strong);
+      border-bottom: 2px dashed var(--rule-strong);
+    }
+    .pp-next strong { font-size: 16px; }
+    .pp-next span { color: var(--burgundy); font-size: 14px; font-weight: 700; letter-spacing: 0.06em; }
+
+    .pp-faq { margin-top: 10px; }
+    .pp-faq details { border-top: 1px dashed var(--rule); }
+    .pp-faq details:last-child { border-bottom: 1px dashed var(--rule); }
+    .pp-faq summary { padding: 6px 0; min-height: 54px; font-size: 15.5px; font-weight: 700; cursor: pointer; }
+    .pp-faq details p { margin: -4px 0 16px; color: var(--ink-soft); font-size: 14.5px; line-height: 1.75; text-wrap: pretty; }
+
+    .pp-back { position: relative; padding: 30px 26px 34px; background: var(--burgundy); color: var(--gold-soft); font-size: 14px; line-height: 1.8; }
+    .pp-back::before { content: ""; position: absolute; inset: 10px; border: 1px solid rgba(199, 162, 77, 0.5); pointer-events: none; }
+    .pp-back-brand { display: flex; align-items: center; gap: 10px; }
+    .pp-back-brand img { height: 30px; width: auto; padding: 3px 5px; border-radius: 2px; background: var(--paper-white); }
+    .pp-back-brand strong { letter-spacing: 0.1em; }
+    .pp-back p { margin: 10px 0 0; }
+
+    .pp-dock {
+      position: fixed;
+      left: 50%;
+      bottom: 0;
+      z-index: 40;
+      width: 100%;
+      max-width: var(--app-w);
+      padding: 10px 14px calc(10px + env(safe-area-inset-bottom));
+      display: grid;
+      grid-template-columns: auto minmax(0, 1fr);
+      gap: 10px;
+      border-top: 2px solid var(--burgundy);
+      background: var(--paper-white);
+      transform: translateX(-50%);
+      transition: transform 220ms cubic-bezier(0.16, 1, 0.3, 1), opacity 220ms ease;
+    }
+    .pp-dock.is-hidden { opacity: 0; pointer-events: none; transform: translate(-50%, 110%); }
+    .pp-dock .btn { min-height: 48px; }
+    body.is-submitted .pp-dock, body.is-submitted .pp-after { display: none; }
+
+    /* modals */
+    .modal { max-width: var(--app-w); margin: 0 auto; border-radius: 2px 2px 0 0; background: var(--paper-white); }
+    .modal-head { border-bottom: 1px solid var(--rule); }
+    .modal-head h2 { color: var(--burgundy); font-size: 18px; letter-spacing: 0.04em; }
+    .icon-btn { width: 44px; height: 44px; }
+    .authorization-box { border: 1px solid var(--rule); border-left-width: 1px; background: var(--paper); color: var(--ink-soft); font-size: 14.5px; }
+    .authorization-list { font-size: 14.5px; }
+    .authorization-qr, .consult-qr, .consult-qr-preview { border: 0; padding: 0; background: transparent; box-shadow: none; }
+    .authorization-qr { display: block; }
+    .qr-note { padding: 12px 14px; display: grid; gap: 4px; border: 1px solid var(--rule); background: var(--paper); font-size: 14px; color: var(--ink-soft); }
+    .qr-note strong { color: var(--burgundy); font-size: 15px; }
+
+    .static-demo-notice { width: calc(100% - 24px); margin: 12px auto; border-radius: 2px; font-size: 13.5px; }
+
+    /* ===== finish-review round 1 ===== */
+    @media (min-width: 520px) { body { background: #431320; } }
+
+    /* the cover is the top: the sticky strip is part of the burgundy cover */
+    .pp-bar { border-bottom: 1px solid rgba(199, 162, 77, 0.7); background: var(--burgundy); }
+    .pp-crest { display: flex; align-items: center; gap: 8px; color: var(--gold-soft); text-decoration: none; }
+    .pp-roundel {
+      width: 36px;
+      height: 36px;
+      flex: none;
+      display: grid;
+      place-items: center;
+      border: 1px solid var(--gold);
+      border-radius: 50%;
+      background: var(--paper-white);
+    }
+    .pp-roundel img { width: 28px; height: auto; }
+    .pp-crest-name { min-width: 0; overflow: hidden; font-size: 13.5px; font-weight: 700; letter-spacing: 0.06em; white-space: nowrap; text-overflow: ellipsis; }
+    .pp-mgr { border-color: var(--gold-soft); color: var(--gold-soft); }
+    .pp-mgr:active { background: rgba(220, 191, 122, 0.12); }
+    .pp-cover { padding: 30px 26px 52px; }
+    .pp-title { margin-top: 0; }
+    .pp-issuer { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 4px 12px; }
+    .pp-docno { margin: 0; letter-spacing: 0.12em; font-variant-numeric: tabular-nums; }
+
+    /* one stamp already lands in the first screen, straddling the cover seam */
+    .pp-data { padding-top: 34px; }
+    .pp-hero-stamp { position: absolute; top: -62px; right: 12px; z-index: 3; transform: rotate(-11deg); }
+
+    /* rubber stamps: authored SVG, ink-masked, laid over the row they prove */
+    .stamp { display: block; overflow: visible; mix-blend-mode: multiply; border: 0; padding: 0; }
+    .stamp-entry { color: var(--purple); }
+    .stamp-market { color: var(--stamp-red); }
+    .stamp-new { color: var(--stamp-green); width: 96px; height: 96px; border-radius: 0; }
+    .stamp-issued { color: var(--navy); }
+    .stamp.is-new { animation: pp-press 520ms cubic-bezier(0.2, 0.9, 0.2, 1) both; }
+    @keyframes pp-press {
+      0% { opacity: 0; transform: rotate(-7deg) scale(1.35); }
+      62% { opacity: 1; transform: rotate(-7deg) scale(0.96); }
+      100% { opacity: 1; transform: rotate(-7deg) scale(1); }
+    }
+
+    .sheet { container-type: inline-size; }
+    .sheet .sheet-head { position: relative; padding-right: 112px; }
+    .sheet-topline { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 4px 12px; }
+    .sheet-topline .sheet-letterhead { margin: 0; }
+    .sheet-docno { color: var(--navy); font-size: 13px; letter-spacing: 0.06em; font-variant-numeric: tabular-nums; white-space: nowrap; }
+    .sheet .sheet-title { margin-top: 10px; }
+    .sheet-head > .stamp { position: absolute; top: 14px; right: 10px; }
+    .sheet-head > .stamp-entry { transform: rotate(-10deg); }
+    .sheet-head > .stamp-issued { top: 26px; transform: rotate(-7deg); }
+
+    .sheet-row { position: relative; grid-template-columns: 1fr; gap: 2px; padding: 12px 16px; }
+    .sheet-row dt { padding-top: 0; font-size: 13px; letter-spacing: 0.08em; }
+    .sheet-row.has-stamp { padding-right: 116px; min-height: 96px; }
+    .sheet-row > .stamp { position: absolute; top: 50%; right: 10px; }
+    .sheet-row > .stamp-market { transform: translateY(-50%) rotate(5deg); }
+    .sheet-row > .stamp-new { transform: translateY(-50%) rotate(-6deg); }
+    .sheet-row > .stamp-entry { width: 92px; height: 92px; transform: translateY(-50%) rotate(-9deg); }
+    .sheet-products h5 { margin: 0; color: var(--muted); font-size: 14px; font-weight: 700; }
+
+    .sheet-mrz { white-space: nowrap; overflow: hidden; text-overflow: clip; word-break: normal; letter-spacing: 0.04em; font-size: 13px; }
+
+    /* the application is written on the same security paper as the data page */
+    .form-shell { border: 1px solid var(--rule-strong); border-top: 4px solid var(--burgundy); background: url("assets/guilloche-green.svg") repeat, var(--entry-paper); }
+    .progress-head { background: transparent; }
+    .step-tabs { border-top: 1px solid var(--rule); border-bottom: 1px solid var(--rule); background: transparent; }
+    .step-tab { background: transparent; font-size: 13.5px; }
+    .step-tab.active { background: transparent; }
+    .step-panel input:not([type="checkbox"]):not([type="radio"]):not([type="file"]),
+    .step-panel select,
+    .step-panel textarea {
+      border: 0;
+      border-bottom: 1px solid var(--rule-strong);
+      border-radius: 0;
+      background: rgba(255, 253, 248, 0.72);
+      padding-left: 4px;
+    }
+    .step-panel input:not([type="checkbox"]):not([type="radio"]):not([type="file"]):focus,
+    .step-panel select:focus,
+    .step-panel textarea:focus { border-bottom-color: var(--navy); box-shadow: 0 1px 0 var(--navy); }
+    .step-panel .invalid { border-bottom-color: var(--danger) !important; box-shadow: 0 1px 0 var(--danger) !important; }
+    .upload-zone { background: rgba(255, 253, 248, 0.72); }
+    .category-options { background: var(--paper-white); }
+
+    /* after submit: no card inside a card */
+    body.is-submitted .form-shell { border: 0; background: transparent; }
+    body.is-submitted .success { padding: 22px 0 18px; }
+
+    .icon-btn { border: 1px solid var(--rule); background: var(--paper); }
+
+    /* ===== finish-review round 1b ===== */
+    .sheet .sheet-head.is-issued { padding-right: 162px; }
+    .sheet-row.has-rect { padding-right: 160px; }
+    .sheet-head.is-issued > .stamp-issued { top: 54px; }
+    .sheet .sheet-head.is-issued .sheet-topline { margin-right: -146px; }
+
+    /* ===== finish-review round 2 ===== */
+    .sheet .sheet-head.is-issued .sheet-topline { margin-right: 0; }
+    .sheet-sub .sheet-docno { display: inline-block; margin-top: 2px; }
+    .sheet .sheet-head { padding-right: 116px; }
+    .sheet .sheet-head.is-issued { padding-right: 160px; }
+    .sheet-head.is-issued > .stamp-issued { top: 46px; }
+    .pp-issuer { padding-right: 96px; }
+    .pp-hero-stamp { top: -50px; right: 10px; }
+    @media (max-width: 370px) {
+      .pp-crest-name { max-width: 7.5em; font-size: 12px; letter-spacing: 0; line-height: 1.25; white-space: normal; }
+    }
+
+    /* ===== round 2b (owner-visible fix after the second verdict) ===== */
+    .pp-nowrap { white-space: nowrap; }
+    @media (max-width: 420px) { .pp-issuer { padding-right: 0; } }
+  </style>
+</head>
+<body>
+<div class="app">
+  <header class="pp-bar">
+    <a class="pp-crest" href="#top" aria-label="湖北省电子商务行业协会">
+      <span class="pp-roundel"><img src="partners/heca-emblem.png" alt="HECA" width="30" height="23"></span>
+      <span class="pp-crest-name">湖北省电子商务行业协会</span>
+    </a>
+    <button class="pp-mgr" type="button" data-open="consultModal">加亚马逊官方经理</button>
+  </header>
+
+  <main id="top">
+    <section class="pp-cover" aria-labelledby="heroTitle">
+      <h1 class="pp-title" id="heroTitle">湖北产品出海<br>免费初评</h1>
+      <p class="pp-issuer"><span>出海护照 · <span class="pp-nowrap">湖北省电子商务行业协会 签发</span></span><span class="pp-docno">No. HB-2026</span></p>
+    </section>
+
+    <section class="pp-data" aria-label="申请">
+      <svg class="stamp stamp-entry pp-hero-stamp" viewBox="0 0 120 120" width="92" height="92" aria-hidden="true" focusable="false">
+      <defs><path id="hero-ring" d="M60,60 m-44,0 a44,44 0 1,1 88,0 a44,44 0 1,1 -88,0"/><filter id="hero-ink" x="-5%" y="-5%" width="110%" height="110%">
+      <feTurbulence type="fractalNoise" baseFrequency="1.15" numOctaves="2" seed="2" result="noise"/>
+      <feColorMatrix in="noise" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 -2 2.25" result="mask"/>
+      <feComposite in="SourceGraphic" in2="mask" operator="in"/>
+    </filter></defs>
+      <g filter="url(#hero-ink)">
+        <circle cx="60" cy="60" r="56" fill="none" stroke="currentColor" stroke-width="3.2"/>
+        <circle cx="60" cy="60" r="51" fill="none" stroke="currentColor" stroke-width="1.2"/>
+        <circle cx="60" cy="60" r="35" fill="none" stroke="currentColor" stroke-width="1.2"/>
+        <text fill="currentColor" font-size="12.5" font-weight="700" letter-spacing="1.6"><textPath href="#hero-ring">美国站 · 入境 · 美国站 · 入境 · </textPath></text>
+        <text x="60" y="63" fill="currentColor" text-anchor="middle" font-size="19" font-weight="800">美国站</text>
+        <text x="60" y="80" fill="currentColor" text-anchor="middle" font-size="12.5" font-weight="700">2026.10</text>
+      </g>
+    </svg>
+      <p class="pp-invite">工厂、外贸和电商团队、刚起步的小微企业都欢迎。写下一款产品，免费看它在亚马逊美国站卖得怎么样。</p>
+      <p class="pp-terms">不限企业规模 · 不需要营业执照 · 不用先开店</p>
+      <form class="pp-apply" id="hbStart" novalidate>
+        <label for="hbStartName">您的产品叫什么？</label>
+        <div class="pp-apply-row">
+          <input id="hbStartName" type="text" placeholder="如：实木床架" autocomplete="off" enterkeyhint="go">
+          <button type="submit">免费出一份</button>
+        </div>
+      </form>
+    </section>
+
+    <div class="static-demo-notice" id="staticDemoNotice" role="status" hidden>
+      当前为在线流程测试版。填写和提交结果仅保存在本浏览器，不会发送给协会或亚马逊。
+    </div>
+
+    <section class="pp-visa-wrap" aria-label="签证页示例">
+      <p class="pp-page-label">签证页示例：提交后，您的产品会拿到这样一页。</p>
+      <div id="hbSampleSheet">
+      <article class="sheet">
+        <header class="sheet-head">
+          <p class="sheet-letterhead"><img src="partners/heca-emblem.png" alt="" width="26" height="20"><span>湖北省电子商务行业协会</span></p>
+          <h2 class="sheet-title">床架 · 市场初评</h2>
+          <p class="sheet-sub">家具 · 家具卧室 · 美国站<br>数据月份 2026 年 10 月<br><span class="sheet-docno">示例编号 HB-SAMPLE</span></p>
+          <svg class="stamp stamp-entry" viewBox="0 0 120 120" width="100" height="100" aria-hidden="true" focusable="false">
+      <defs><path id="samplee-ring" d="M60,60 m-44,0 a44,44 0 1,1 88,0 a44,44 0 1,1 -88,0"/><filter id="samplee-ink" x="-5%" y="-5%" width="110%" height="110%">
+      <feTurbulence type="fractalNoise" baseFrequency="1.15" numOctaves="2" seed="2" result="noise"/>
+      <feColorMatrix in="noise" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 -2 2.25" result="mask"/>
+      <feComposite in="SourceGraphic" in2="mask" operator="in"/>
+    </filter></defs>
+      <g filter="url(#samplee-ink)">
+        <circle cx="60" cy="60" r="56" fill="none" stroke="currentColor" stroke-width="3.2"/>
+        <circle cx="60" cy="60" r="51" fill="none" stroke="currentColor" stroke-width="1.2"/>
+        <circle cx="60" cy="60" r="35" fill="none" stroke="currentColor" stroke-width="1.2"/>
+        <text fill="currentColor" font-size="12.5" font-weight="700" letter-spacing="1.6"><textPath href="#samplee-ring">美国站 · 入境 · 美国站 · 入境 · </textPath></text>
+        <text x="60" y="63" fill="currentColor" text-anchor="middle" font-size="19" font-weight="800">美国站</text>
+        <text x="60" y="80" fill="currentColor" text-anchor="middle" font-size="12.5" font-weight="700">2026.10</text>
+      </g>
+    </svg>
+        </header>
+        <dl class="sheet-rows">
+          
+          <div class="sheet-row has-stamp has-rect">
+            <dt>市场有多大</dt>
+            <dd><strong>约 ¥3.1 亿 / 月</strong><span>头部 94 款商品的月销售额，约 $4,608 万。</span></dd><svg class="stamp stamp-market" viewBox="0 0 156 76" width="142" height="69" aria-hidden="true" focusable="false">
+      <defs><filter id="samplem-ink" x="-5%" y="-5%" width="110%" height="110%">
+      <feTurbulence type="fractalNoise" baseFrequency="1.15" numOctaves="2" seed="3" result="noise"/>
+      <feColorMatrix in="noise" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 -2 2.25" result="mask"/>
+      <feComposite in="SourceGraphic" in2="mask" operator="in"/>
+    </filter></defs>
+      <g filter="url(#samplem-ink)">
+        <rect x="3" y="3" width="150" height="70" fill="none" stroke="currentColor" stroke-width="3.2"/>
+        <rect x="9" y="9" width="138" height="58" fill="none" stroke="currentColor" stroke-width="1.2"/>
+        <text x="78" y="40" fill="currentColor" text-anchor="middle" font-size="21" font-weight="800" textLength="122" lengthAdjust="spacingAndGlyphs">约 ¥3.1 亿</text>
+        <text x="78" y="57" fill="currentColor" text-anchor="middle" font-size="12" font-weight="700">月销售额</text>
+      </g>
+    </svg>
+          </div>
+          <div class="sheet-row">
+            <dt>卖什么价</dt>
+            <dd><strong>约 ¥1,110</strong><span>多数在 ¥763–1,858 之间。对照一下您的出厂价、运费和平台费用。</span></dd>
+          </div>
+          <div class="sheet-row">
+            <dt>和去年比</dt>
+            <dd><strong>下降 10%</strong><span>头部销售额比去年同月少 10%。</span></dd>
+          </div>
+          <div class="sheet-row has-stamp">
+            <dt>新品机会</dt>
+            <dd><strong>53%</strong><span>头部商品里，53% 是近 18 个月才上架的。新品还有空间。</span></dd><svg class="stamp stamp-new" viewBox="0 0 120 120" width="100" height="100" aria-hidden="true" focusable="false">
+      <defs><path id="samplen-ring" d="M60,60 m-44,0 a44,44 0 1,1 88,0 a44,44 0 1,1 -88,0"/><filter id="samplen-ink" x="-5%" y="-5%" width="110%" height="110%">
+      <feTurbulence type="fractalNoise" baseFrequency="1.15" numOctaves="2" seed="2" result="noise"/>
+      <feColorMatrix in="noise" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 -2 2.25" result="mask"/>
+      <feComposite in="SourceGraphic" in2="mask" operator="in"/>
+    </filter></defs>
+      <g filter="url(#samplen-ink)">
+        <circle cx="60" cy="60" r="56" fill="none" stroke="currentColor" stroke-width="3.2"/>
+        <circle cx="60" cy="60" r="51" fill="none" stroke="currentColor" stroke-width="1.2"/>
+        <circle cx="60" cy="60" r="35" fill="none" stroke="currentColor" stroke-width="1.2"/>
+        <text fill="currentColor" font-size="12.5" font-weight="700" letter-spacing="1.6"><textPath href="#samplen-ring">近 18 个月 · 新品上架 · 近 18 个月 · </textPath></text>
+        <text x="60" y="63" fill="currentColor" text-anchor="middle" font-size="19" font-weight="800">53%</text>
+        <text x="60" y="80" fill="currentColor" text-anchor="middle" font-size="12.5" font-weight="700">新品占比</text>
+      </g>
+    </svg>
+          </div>
+          <div class="sheet-row">
+            <dt>竞争</dt>
+            <dd><strong>前 5 个品牌占 38%</strong><span>有头部品牌，但没有被少数几家垄断。</span></dd>
+          </div>
+          <div class="sheet-row">
+            <dt>买家评价</dt>
+            <dd><strong>平均 4.4 分</strong><span>差评里反复出现的问题，往往就是改款方向。</span></dd>
+          </div>
+        </dl>
+        
+        <p class="sheet-mrz" aria-hidden="true">V&lt;HBEC&lt;&lt;3733101&lt;&lt;US&lt;&lt;202610&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</p>
+        <footer class="sheet-foot">数据来源：卖家精灵估算，不是亚马逊的真实销量，仅供参考。人民币按 1 美元约 6.8 元换算。</footer>
+      </article></div>
+    </section>
+
+    <section class="pp-form" id="assessment" aria-labelledby="formTitle">
+      <h2 class="pp-h2" id="formTitle">填写出海申请</h2>
+      <p class="pp-lead">3 页，约 3 分钟。填写的文字会自动保存在本机，退出后可以接着填。</p>
+        <div class="form-shell">
+          <div id="formArea">
+            <div class="progress-head">
+              <div class="progress-copy">
+                <p class="progress-title" id="stepTitle">第 1 步：产品信息</p>
+                <p class="progress-meta" id="stepMeta">先让我们了解您想评估的产品</p>
+              </div>
+              <div class="draft-state">
+                <i class="icon" data-lucide="check"></i>
+                <span id="draftText">草稿已保存</span>
+              </div>
+            </div>
+            <div class="progress-track" aria-hidden="true">
+              <div class="progress-fill" id="progressFill"></div>
+            </div>
+            <div class="step-tabs" role="tablist" aria-label="填写进度">
+              <button class="step-tab active" type="button" data-step-tab="1">第一页 产品</button>
+              <button class="step-tab" type="button" data-step-tab="2">第二页 需求</button>
+              <button class="step-tab" type="button" data-step-tab="3">第三页 联系</button>
+            </div>
+
+            <form id="assessmentForm" novalidate>
+              <section class="step-panel active" data-step="1">
+                <div class="panel-heading">
+                  <h3>您想评估什么产品？</h3>
+                  <p>不需要填写标准亚马逊标题，按日常叫法描述即可。</p>
+                </div>
+                <div class="field-grid">
+                  <div class="field field-full">
+                    <label class="required" for="productName">产品名称</label>
+                    <input
+                      id="productName"
+                      name="productName"
+                      type="text"
+                      placeholder="例如：实木可折叠电视柜、儿童便携雨衣"
+                      autocomplete="off"
+                      aria-autocomplete="list"
+                      aria-controls="categoryOptions"
+                      aria-expanded="false"
+                    >
+                    <div class="category-suggestion" id="categorySuggestion">
+                      <span class="category-primary">
+                                                <span id="categoryPrimaryText">输入产品名称后自动匹配类目</span>
+                      </span>
+                      <button type="button" id="changeCategory">查看其他类目</button>
+                    </div>
+                    <div class="category-options" id="categoryOptions" role="listbox" aria-label="匹配到的亚马逊类目"></div>
+                    <p class="error" data-error-for="productName"></p>
+                  </div>
+
+                  <div class="field">
+                    <label for="productLink">现有商品链接 <span class="optional">选填</span></label>
+                    <input id="productLink" name="productLink" type="url" placeholder="1688、淘宝、独立站等">
+                    <p class="hint">有链接可帮助专员更快了解产品。</p>
+                  </div>
+
+                  <div class="field">
+                    <label for="priceRange">大概的出厂价 <span class="optional">选填</span></label>
+                    <select id="priceRange" name="priceRange">
+                      <option value="">请选择价格区间</option>
+                      <option>50 元以内</option>
+                      <option>50–200 元</option>
+                      <option>200–500 元</option>
+                      <option>500–1000 元</option>
+                      <option>1000 元以上</option>
+                      <option>暂不确定</option>
+                    </select>
+                  </div>
+
+                  <div class="field field-full">
+                    <span class="field-label">产品图片或产品说明 <span class="optional">强烈建议上传产品图片</span></span>
+                    <label class="upload-zone" id="uploadZone" for="productImages">
+                      <span>
+                        <i class="icon" data-lucide="image-up"></i>
+                        <strong>点击选择产品图片</strong>
+                        <span>支持 JPG / PNG，最多 3 张，单张不超过 5 MB</span>
+                      </span>
+                    </label>
+                    <input id="productImages" name="productImages" type="file" accept="image/jpeg,image/png" multiple hidden>
+                    <div class="upload-preview" id="uploadPreview">
+                      <div class="upload-summary">
+                        <div class="upload-thumbs" id="uploadThumbs"></div>
+                        <span id="uploadText"></span>
+                      </div>
+                      <button class="btn btn-ghost" type="button" id="removeFiles" aria-label="移除已选图片">
+                        <i class="icon" data-lucide="trash-2"></i>
+                      </button>
+                    </div>
+                    <textarea id="productNote" name="productNote" placeholder="也可以直接描述材质、尺寸、卖点、日产能等信息"></textarea>
+                    <p class="error" data-error-for="productProof"></p>
+                  </div>
+                </div>
+                <div class="form-actions">
+                  <button class="btn btn-ghost" type="button" id="clearDraft">
+                    <i class="icon" data-lucide="rotate-ccw"></i>
+                    清空草稿
+                  </button>
+                  <button class="btn btn-wide" type="button" data-next>
+                    下一步
+                    <i class="icon" data-lucide="arrow-right"></i>
+                  </button>
+                </div>
+              </section>
+
+              <section class="step-panel" data-step="2">
+                <div class="panel-heading">
+                  <h3>您希望先解决什么问题？</h3>
+                  <p>可多选，不确定的项目后续由专员协助判断。</p>
+                </div>
+                <div class="field-grid">
+                  <div class="field field-full">
+                    <span class="field-label required">意向市场</span>
+                    <div class="choice-grid">
+                      <div class="choice"><input id="marketUs" name="markets" value="美国站" type="checkbox"><label for="marketUs">美国站</label></div>
+                      <div class="choice"><input id="marketEu" name="markets" value="欧洲站" type="checkbox"><label for="marketEu">欧洲站</label></div>
+                      <div class="choice"><input id="marketJp" name="markets" value="日本站" type="checkbox"><label for="marketJp">日本站</label></div>
+                    </div>
+                    <p class="error" data-error-for="markets"></p>
+                  </div>
+
+                  <div class="field field-full">
+                    <span class="field-label required">目前的亚马逊阶段</span>
+                    <div class="choice-grid two">
+                      <div class="choice"><input id="stageNew" name="stage" value="还没有店铺" type="radio"><label for="stageNew">还没有店铺</label></div>
+                      <div class="choice"><input id="stageExisting" name="stage" value="已有店铺" type="radio"><label for="stageExisting">已有店铺</label></div>
+                    </div>
+                    <p class="error" data-error-for="stage"></p>
+                  </div>
+
+                  <div class="field field-full">
+                    <span class="field-label">希望获得的支持 <span class="optional">可多选</span></span>
+                    <div class="choice-grid services">
+                      <div class="choice"><input id="needMarket" name="needs" value="市场评估" type="checkbox"><label for="needMarket">市场与选品评估</label></div>
+                      <div class="choice"><input id="needModify" name="needs" value="产品改款" type="checkbox"><label for="needModify">产品改款建议</label></div>
+                      <div class="choice"><input id="needStore" name="needs" value="开店运营" type="checkbox"><label for="needStore">开店与运营</label></div>
+                      <div class="choice"><input id="needLogistics" name="needs" value="合规物流" type="checkbox"><label for="needLogistics">合规与物流</label></div>
+                    </div>
+                  </div>
+                </div>
+                <div class="form-actions">
+                  <button class="btn btn-secondary" type="button" data-prev>
+                    <i class="icon" data-lucide="arrow-left"></i>
+                    上一步
+                  </button>
+                  <button class="btn btn-wide" type="button" data-next>
+                    下一步
+                    <i class="icon" data-lucide="arrow-right"></i>
+                  </button>
+                </div>
+              </section>
+
+              <section class="step-panel" data-step="3">
+                <div class="panel-heading">
+                  <h3>专员如何联系您？</h3>
+                  <p>联系方式仅用于本次产品评估和后续服务对接。</p>
+                </div>
+                <div class="field-grid">
+                  <div class="field">
+                    <label class="required" for="company">公司或工厂名称</label>
+                    <input id="company" name="company" type="text" placeholder="公司、工厂或店铺名称，简称也可以">
+                    <p class="error" data-error-for="company"></p>
+                  </div>
+                  <div class="field">
+                    <label class="required" for="contact">联系人</label>
+                    <input id="contact" name="contact" type="text" placeholder="您的姓名" autocomplete="name">
+                    <p class="error" data-error-for="contact"></p>
+                  </div>
+                  <div class="field">
+                    <label class="required" for="phone">手机号码</label>
+                    <input id="phone" name="phone" type="tel" inputmode="numeric" maxlength="11" placeholder="请输入常用手机号" autocomplete="tel">
+                    <p class="error" data-error-for="phone"></p>
+                    <p class="contact-notice">
+                      <i class="icon" data-lucide="message-circle-warning"></i>
+                      <span>建议填写常用微信对应的手机号，供专员联系您。</span>
+                    </p>
+                  </div>
+                  <div class="field">
+                    <label for="source">从哪里了解到本页面 <span class="optional">选填</span></label>
+                    <select id="source" name="source">
+                      <option value="">请选择</option>
+                      <option value="referral">朋友推荐</option>
+                      <option value="manual">其他（手动填写）</option>
+                    </select>
+                    <input
+                      class="source-other-input"
+                      id="sourceOther"
+                      name="sourceOther"
+                      type="text"
+                      maxlength="60"
+                      placeholder="如 武汉邮政"
+                      hidden
+                    >
+                    <p class="error" data-error-for="sourceOther"></p>
+                  </div>
+                  <div class="field field-full">
+                    <label for="revenue">企业年营收区间 <span class="optional">选填</span></label>
+                    <select id="revenue" name="revenue">
+                      <option value="">不方便说可以不选</option>
+                      <option>500 万元以下</option>
+                      <option>500–1000 万元</option>
+                      <option>1000–3000 万元</option>
+                      <option>3000 万元–1 亿元</option>
+                      <option>1–10 亿元</option>
+                      <option>10 亿元以上</option>
+                    </select>
+                    <p class="error" data-error-for="revenue"></p>
+                  </div>
+                </div>
+                <label class="consent">
+                  <input id="consent" name="consent" type="checkbox">
+                  <span>
+                    我已阅读并同意
+                    <button class="text-link" type="button" data-open="privacyModal">《信息使用与隐私说明》</button>，
+                    同意协会在本次产品评估和服务对接范围内使用上述资料。
+                  </span>
+                </label>
+                <p class="error" data-error-for="consent"></p>
+                <div class="form-actions">
+                  <button class="btn btn-secondary" type="button" data-prev>
+                    <i class="icon" data-lucide="arrow-left"></i>
+                    上一步
+                  </button>
+                  <button class="btn btn-wide" type="submit">
+                    <i class="icon" data-lucide="send"></i>
+                    提交免费初评
+                  </button>
+                </div>
+              </section>
+            </form>
+          </div>
+
+          <section class="success" id="successView" aria-live="polite">
+            <div class="success-icon"><i class="icon" data-lucide="check"></i></div>
+            <h3>产品信息已提交</h3>
+            <p>下面是您这款产品所在类目的市场初评。亚马逊全球开店湖北经理会按您留的手机号联系您。</p>
+            <div class="success-id" id="submissionId">流水号：HB-DEMO</div>
+            <div class="registration-return-status" id="registrationReturnStatus" hidden>
+              <span id="registrationReturnCountdown">提交成功，正在返回报名页面…</span>
+              <button type="button" id="stayOnReport" hidden>留在本页</button>
+            </div>
+            <div class="live-insight" id="insightZone"></div>
+            <div class="qr-zone" id="qrZone"></div>
+            <div class="success-actions">
+              <a class="btn registration-return" id="returnToRegistration" href="#" hidden>返回活动报名</a>
+              <button class="btn" type="button" data-open="consultModal">加亚马逊官方经理，解读这份初评</button>
+              <button class="btn btn-secondary" type="button" id="submitAnother">再评估一款产品</button>
+            </div>
+          </section>
+        </div>
+    </section>
+
+    <section class="pp-page pp-after" aria-labelledby="afterTitle">
+      <h2 class="pp-h2" id="afterTitle">提交以后</h2>
+      <ol class="pp-steps">
+        <li><strong>马上拿到签证页</strong><span>页面直接显示您这款产品所在类目的市场数据。</span></li>
+        <li><strong>经理核对</strong><span>亚马逊全球开店湖北经理核对产品、站点和您的需求。</span></li>
+        <li><strong>给出建议</strong><span>经理联系您，讲清楚初评结论和下一步怎么做。</span></li>
+      </ol>
+      <ul class="pp-promise">
+        <li>资料不公开展示，不用于和本次初评无关的营销。</li>
+        <li>可以随时要求查询、更正或删除您的资料。</li>
+      </ul>
+    </section>
+
+    <div class="pp-next" aria-label="课程预告">
+      <strong>AI Agent 亚马逊运营扫盲课</strong>
+      <span>敬请期待</span>
+    </div>
+
+    <section class="pp-page" aria-labelledby="faqTitle">
+      <h2 class="pp-h2" id="faqTitle">常见问题</h2>
+      <div class="pp-faq">
+        <details>
+          <summary>初评要收费吗？<i class="icon" data-lucide="chevron-down"></i></summary>
+          <p>不收费。符合要求的企业还可以获得亚马逊全球开店的官方免费出海支持。第三方代运营、认证、拍摄或物流等增值服务，不属于官方免费支持。</p>
+        </details>
+        <details>
+          <summary>我的产品图和经营信息会给谁看？<i class="icon" data-lucide="chevron-down"></i></summary>
+          <p>只在本次初评和您同意的后续服务范围内，由协会和负责对接的人员处理。要提供给其他第三方时，会再次告诉您接收方和用途。</p>
+        </details>
+      </div>
+    </section>
+    <div id="partnerList" hidden></div>
+  </main>
+
+  <footer class="pp-back">
+    <div class="pp-back-brand">
+      <img src="partners/heca-emblem.png" alt="" width="40" height="30">
+      <strong>湖北省电子商务行业协会</strong>
+    </div>
+    <p>服务湖北企业的产品出海初评与资源对接。</p>
+    <p>服务时间：工作日 09:00–18:00<br>资料查询、更正和删除：请联系湖北省电子商务行业协会</p>
+  </footer>
+
+  <div class="pp-dock" id="mDock">
+    <button class="btn btn-secondary" type="button" data-open="consultModal">加经理</button>
+    <a class="btn" href="#assessment">免费出一份初评</a>
+  </div>
+</div>
+
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+
+
+  <div class="modal-backdrop" id="privacyModal" role="dialog" aria-modal="true" aria-labelledby="privacyTitle">
+    <div class="modal modal-sm">
+      <div class="modal-head">
+        <h2 id="privacyTitle">信息使用与隐私说明</h2>
+        <button class="icon-btn" type="button" data-close aria-label="关闭">
+          <i class="icon" data-lucide="x"></i>
+        </button>
+      </div>
+      <div class="modal-body privacy-copy">
+        <h3>收集目的</h3>
+        <p>用于产品出海初评、确认企业需求以及安排服务专员联系，不用于与本次申请无关的营销。</p>
+        <h3>资料范围</h3>
+        <p>包括您主动提交的企业名称、联系人、手机号码、产品图片、商品信息和服务需求。</p>
+        <h3>资料提供</h3>
+        <p>您提交的资料可能由参与本项目的协会工作人员，以及负责亚马逊相关业务的经理查看和处理，用于产品评估、报告生成、出海建议及后续业务对接。</p>
+        <h3>您的权利</h3>
+        <ul>
+          <li>查询或更正已提交的企业资料；</li>
+          <li>撤回授权并申请删除相关资料；</li>
+          <li>咨询资料保存期限和安全措施。</li>
+        </ul>
+        <p>正式上线前应补充实际信息处理主体名称、办公地址、联系电话和资料保存期限。</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="modal-backdrop" id="authorizationModal" role="dialog" aria-modal="true" aria-labelledby="authorizationTitle">
+    <div class="modal modal-sm">
+      <div class="modal-head">
+        <h2 id="authorizationTitle">信息提交与授权说明</h2>
+        <button class="icon-btn" type="button" data-close aria-label="返回修改">
+          <i class="icon" data-lucide="x"></i>
+        </button>
+      </div>
+      <div class="modal-body">
+        <div class="authorization-box">
+          <p><strong>提交前请确认：</strong></p>
+          <p>您提交的企业信息、联系人信息、产品资料、经营信息及服务需求，可能由参与本项目的协会工作人员，以及负责亚马逊相关业务的经理查看和处理。</p>
+          <p>相关人员仅可将这些资料用于产品评估、报告生成、出海建议及后续业务对接。</p>
+        </div>
+        <ul class="authorization-list">
+          <li><span>请确认您有权提交上述资料，且资料不包含您无权披露的商业秘密或第三方保密信息。</span></li>
+          <li><span>点击“同意并提交”，即表示您已知悉并同意上述资料查看及使用范围。</span></li>
+          <li><span>如有敏感信息不便在线提交，可以先不填，经理联系您时再说。</span></li>
+        </ul>
+        <div class="authorization-qr" id="authorizationQr">
+          <div class="qr-placeholder">正在加载二维码</div>
+        </div>
+        <div class="form-actions">
+          <button class="btn btn-secondary" type="button" data-close>
+            <i class="icon" data-lucide="arrow-left"></i>
+            返回修改
+          </button>
+          <button class="btn" type="button" id="confirmSubmission">
+            <i class="icon" data-lucide="check"></i>
+            同意并提交
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="modal-backdrop" id="consultModal" role="dialog" aria-modal="true" aria-labelledby="consultTitle">
+    <div class="modal modal-sm">
+      <div class="modal-head">
+        <h2 id="consultTitle">加亚马逊官方经理</h2>
+        <button class="icon-btn" type="button" data-close aria-label="关闭">
+          <i class="icon" data-lucide="x"></i>
+        </button>
+      </div>
+      <div class="modal-body">
+        <p class="contact-notice">不用填表，直接联系亚马逊全球开店湖北经理。</p>
+        <div class="consult-qr" style="margin-top:16px">
+          <div class="field" hidden>
+            <label for="consultPartner">扫码联系对应负责人</label>
+            <select id="consultPartner"></select>
+          </div>
+          <div class="consult-qr-preview" id="consultQrPreview">
+            <div class="qr-placeholder">正在加载二维码</div>
+          </div>
+        </div>
+        <div class="form-actions">
+          <button class="btn btn-secondary" type="button" data-close>关闭</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="assets/lucide.min.js"></script>
+  <script src="assets/visa-sheet.js"></script>
+  <script src="assets/collect-app.js"></script>
+  <script src="assets/page-shell.js"></script>
+</body>
+</html>

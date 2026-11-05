@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "10971181011",
+  "level": "L2",
+  "categoryPathEn": "Sports & Outdoors > Sports & Fitness",
+  "categoryPathCn": "运动与户外 > 运动与健身",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 94,
+    "totalRevenue": 60225657,
+    "avgRevenue": 640698,
+    "medianPrice": 257.99,
+    "priceBand": "$66.98 - $653.0",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0CWKZT7PL",
+      "title": "Jasion Electric Bike for Adults, 26&quot; Electric Mountain Bike with Brushless Motor, Electric Bicycles, Removable Battery, Ebike for Adults Front Suspension",
+      "brand": "Jasion",
+      "price": 2499.0,
+      "salesParent": 1348,
+      "revenue": 3368652.0,
+      "rating": 5.0,
+      "reviews": 7
+    },
+    {
+      "rank": 2,
+      "asin": "B0HJFRY2BZ",
+      "title": "VOLPAM Electric Scooter, 350W/500W Motor, 21/28/40 Miles Long Range",
+      "brand": "VOLPAM",
+      "price": 159.99,
+      "salesParent": 10639,
+      "revenue": 1880975.25,
+      "rating": 4.2,
+      "reviews": 2238
+    },
+    {
+      "rank": 3,
+      "asin": "B0DC9YPF6L",
+      "title": "Jasion RetroVolt Pro Electric Bike for Adults,【3000W Peak Motor &amp; 38MPH &amp; 90Miles】 Electric Mountain Bike, Full Suspension Ebikes for Adults, 20&quot; Fat Tire Electric Dirt Bike-RS",
+      "brand": "Jasion",
+      "price": 1179.99,
+      "salesParent": 1495,
+      "revenue": 1764085.0,
+      "rating": 4.1,
+      "reviews": 10
+    },
+    {
+      "rank": 4,
+      "asin": "B0B4NZRVSH",
+      "title": "Jasion RetroVolt Electric Bike, 2000W Peak, 70-Mile Range, Fat Tire | 48V 13Ah removable battery, 30MPH, full suspension, hydraulic brakes, IPX6, for commutes, beach roads, weekends",
+      "brand": "Jasion",
+      "price": 899.99,
+      "salesParent": 1708,
+      "revenue": 1537182.88,
+      "rating": 4.3,
+      "reviews": 92
+    },
+    {
+      "rank": 5,
+      "asin": "B0GWJ5PJS9",
+      "title": "Electric Scooter Adults, 15 Miles Long Range, 19 Mph Max Speed",
+      "brand": "VOLPAM",
+      "price": 159.89,
+      "salesParent": 9293,
+      "revenue": 1486694.12,
+      "rating": 3.1,
+      "reviews": 113
+    },
+    {
+      "rank": 6,
+      "asin": "B0GSW6YS8B",
+      "title": "VOLPAM Electric Scooter, 350W/500W Motor, 21/28/40 Miles Long Range",
+      "brand": "VOLPAM",
+      "price": 119.99,
+      "salesParent": 11075,
+      "revenue": 1328889.25,
+      "rating": 4.1,
+      "reviews": 15
+    },
+    {
+      "rank": 7,
+      "asin": "B0DW3WF8WD",
+      "title": "Jasion RetroVolt Electric Bike, 70-Mile Range, 2000W Peak, 5 Riding Modes",
+      "brand": "Jasion",
+      "price": 879.98,
+      "salesParent": 1382,
+      "revenue": 1216132.38,
+      "rating": 5.0,
+      "reviews": 48
+    },
+    {
+      "rank": 8,
+      "asin": "B0GCDH78P3",
+      "title": "Jasion RetroVolt Electric Bike, 70/90-Mile Range, 2000W Peak, Fat Tire",
+      "brand": "Jasion",
+      "price": 669.99,
+      "salesParent": 1789,
+      "revenue": 1198612.12,
+      "rating": 4.4,
+      "reviews": 5
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 15,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 15,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 60225657,
+    "priorHeadRevenue": 52562554,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 94,
+      "newCount": 29,
+      "pct": 31,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 50,
+      "brandCount": 53,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.44,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0CWKZT7PL",
+        "title": "Jasion Electric Bike for Adults, 26&quot; Electric Mountain Bike with Brushless Motor, Electric Bicycles, Removable Battery, Ebike for Adults Front Suspension",
+        "rating": 5.0,
+        "reviews": 7
+      },
+      {
+        "rank": 2,
+        "asin": "B0HJFRY2BZ",
+        "title": "VOLPAM Electric Scooter, 350W/500W Motor, 21/28/40 Miles Long Range",
+        "rating": 4.2,
+        "reviews": 2238
+      },
+      {
+        "rank": 3,
+        "asin": "B0DC9YPF6L",
+        "title": "Jasion RetroVolt Pro Electric Bike for Adults,【3000W Peak Motor &amp; 38MPH &amp; 90Miles】 Electric Mountain Bike, Full Suspension Ebikes for Adults, 20&quot; Fat Tire Electric Dirt Bike-RS",
+        "rating": 4.1,
+        "reviews": 10
+      },
+      {
+        "rank": 4,
+        "asin": "B0B4NZRVSH",
+        "title": "Jasion RetroVolt Electric Bike, 2000W Peak, 70-Mile Range, Fat Tire | 48V 13Ah removable battery, 30MPH, full suspension, hydraulic brakes, IPX6, for commutes, beach roads, weekends",
+        "rating": 4.3,
+        "reviews": 92
+      },
+      {
+        "rank": 5,
+        "asin": "B0GWJ5PJS9",
+        "title": "Electric Scooter Adults, 15 Miles Long Range, 19 Mph Max Speed",
+        "rating": 3.1,
+        "reviews": 113
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3375251:10971181011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

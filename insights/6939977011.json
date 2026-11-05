@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "6939977011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins, Minerals & Supplements > Antioxidants > Astaxanthin",
+  "categoryPathCn": "健康与家居 > 身、泳和附剂 > 抗拒 > 虾青素",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 6761009,
+    "avgRevenue": 67610,
+    "medianPrice": 25.97,
+    "priceBand": "$19.99 - $31.36",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B08MWZQ4S6",
+      "title": "Micro Ingredients Astaxanthin 12mg Per Serving with MCT Oil, 120 Softgels",
+      "brand": "Micro Ingredients",
+      "price": 34.95,
+      "salesParent": 39892,
+      "revenue": 1268565.62,
+      "rating": 4.6,
+      "reviews": 6585
+    },
+    {
+      "rank": 2,
+      "asin": "B07V574YYY",
+      "title": "Sports Research® Icelandic Astaxanthin 12mg w/Coconut Oil, 60 Softgels",
+      "brand": "Sports Research",
+      "price": 26.95,
+      "salesParent": 32470,
+      "revenue": 835453.06,
+      "rating": 4.6,
+      "reviews": 12633
+    },
+    {
+      "rank": 3,
+      "asin": "B0GH2CPCTZ",
+      "title": "Astaxanthin 12mg Antioxidants Supplement – Natural Microalgae Source – Lipid-Based Softgel for Enhanced Absorption – Cognitive, Vision &amp; Joint Support – 30 Softgels (Pack of 1)",
+      "brand": "ClarityMD",
+      "price": 29.09,
+      "salesParent": 23480,
+      "revenue": 678806.81,
+      "rating": 4.5,
+      "reviews": 2376
+    },
+    {
+      "rank": 4,
+      "asin": "B097F68J43",
+      "title": "Nutrex Hawaii BioAstin Hawaiian Astaxanthin High Potency, 12mg, 90 Softgels",
+      "brand": "Nutrex Hawaii",
+      "price": 44.99,
+      "salesParent": 14316,
+      "revenue": 656388.56,
+      "rating": 4.4,
+      "reviews": 13261
+    },
+    {
+      "rank": 5,
+      "asin": "B09ZBL2LP2",
+      "title": "Astaxanthin 12mg Softgels, Clinically Studied AstaReal, 60 Softgels",
+      "brand": "Double Wood Supplements",
+      "price": 25.95,
+      "salesParent": 15050,
+      "revenue": 382571.0,
+      "rating": 4.6,
+      "reviews": 3068
+    },
+    {
+      "rank": 6,
+      "asin": "B078Z16G8W",
+      "title": "Nutricost Astaxanthin (12mg) 120 Softgels (4 Month Supply)",
+      "brand": "Nutricost",
+      "price": 27.95,
+      "salesParent": 9924,
+      "revenue": 277375.81,
+      "rating": 4.6,
+      "reviews": 4070
+    },
+    {
+      "rank": 7,
+      "asin": "B0F4M8Y6V6",
+      "title": "Micro Ingredients Astaxanthin 24mg Per Serving with MCT Oil, 60 Softgels",
+      "brand": "Micro Ingredients",
+      "price": 27.96,
+      "salesParent": 8396,
+      "revenue": 274381.28,
+      "rating": 4.6,
+      "reviews": 1155
+    },
+    {
+      "rank": 8,
+      "asin": "B0G4GKMRSM",
+      "title": "Premium Astaxanthin 12mg, Antioxidant Supplement for Eye, Joint, Skin Health,Microalgae Source, 4 Month Supply | Supports Internal Circulation, 120 Softgels",
+      "brand": "Xaarty",
+      "price": 19.99,
+      "salesParent": 14290,
+      "revenue": 253361.69,
+      "rating": 4.3,
+      "reviews": 2136
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 116,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 116,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 6761009,
+    "priorHeadRevenue": 3132370,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 61,
+      "pct": 61,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 62,
+      "brandCount": 83,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.38,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B08MWZQ4S6",
+        "title": "Micro Ingredients Astaxanthin 12mg Per Serving with MCT Oil, 120 Softgels",
+        "rating": 4.6,
+        "reviews": 6585
+      },
+      {
+        "rank": 2,
+        "asin": "B07V574YYY",
+        "title": "Sports Research® Icelandic Astaxanthin 12mg w/Coconut Oil, 60 Softgels",
+        "rating": 4.6,
+        "reviews": 12633
+      },
+      {
+        "rank": 3,
+        "asin": "B0GH2CPCTZ",
+        "title": "Astaxanthin 12mg Antioxidants Supplement – Natural Microalgae Source – Lipid-Based Softgel for Enhanced Absorption – Cognitive, Vision &amp; Joint Support – 30 Softgels (Pack of 1)",
+        "rating": 4.5,
+        "reviews": 2376
+      },
+      {
+        "rank": 4,
+        "asin": "B097F68J43",
+        "title": "Nutrex Hawaii BioAstin Hawaiian Astaxanthin High Potency, 12mg, 90 Softgels",
+        "rating": 4.4,
+        "reviews": 13261
+      },
+      {
+        "rank": 5,
+        "asin": "B09ZBL2LP2",
+        "title": "Astaxanthin 12mg Softgels, Clinically Studied AstaReal, 60 Softgels",
+        "rating": 4.6,
+        "reviews": 3068
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:23675621011:3774521:6939977011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

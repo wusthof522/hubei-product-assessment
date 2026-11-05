@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "8529229011",
+  "level": "L4",
+  "categoryPathEn": "Home & Kitchen > Furniture > Kids' Furniture > Tables & Chairs",
+  "categoryPathCn": "家居用品 > 家具 > 儿童家具 > 桌子",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 91,
+    "totalRevenue": 5140657,
+    "avgRevenue": 56491,
+    "medianPrice": 84.99,
+    "priceBand": "$59.99 - $127.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0BX6KC7ZN",
+      "title": "Adjustable Toddler Table and Chair Set, 31.5&quot; L x 23.6&quot; W Beige",
+      "brand": "Brelley",
+      "price": 69.99,
+      "salesParent": 4388,
+      "revenue": 329582.69,
+      "rating": 4.8,
+      "reviews": 2035
+    },
+    {
+      "rank": 2,
+      "asin": "B0DP8Q4CMD",
+      "title": "Height Adjustable Toddler Table and 2 Chairs Set, Beige",
+      "brand": "Brelley",
+      "price": 63.99,
+      "salesParent": 3513,
+      "revenue": 230206.89,
+      "rating": 4.9,
+      "reviews": 1684
+    },
+    {
+      "rank": 3,
+      "asin": "B0FP27GDWD",
+      "title": "Toddler Table and Chair Set, Graffiti Tabletop, 2 Chairs, Grey",
+      "brand": "Pterying",
+      "price": 58.83,
+      "salesParent": 3648,
+      "revenue": 202792.33,
+      "rating": 4.7,
+      "reviews": 582
+    },
+    {
+      "rank": 4,
+      "asin": "B00CE69IGA",
+      "title": "Melissa &amp; Doug Solid Wood Table and 2 Chairs Playroom Furniture",
+      "brand": "Melissa &amp; Doug",
+      "price": 118.99,
+      "salesParent": 1621,
+      "revenue": 192882.78,
+      "rating": 4.7,
+      "reviews": 10395
+    },
+    {
+      "rank": 5,
+      "asin": "B0CLWZGLSD",
+      "title": "Delta Children MySize Kids Wood Table and Chair Set (2 Chairs Included) - Ideal for Arts &amp; Crafts, Snack Time, Homeschooling, Homework &amp; More, Bianca White/Natural",
+      "brand": "Delta Children",
+      "price": 59.98,
+      "salesParent": 2041,
+      "revenue": 122419.18,
+      "rating": 4.5,
+      "reviews": 16775
+    },
+    {
+      "rank": 6,
+      "asin": "B0B5T2JLG3",
+      "title": "Height Adjustable Toddler Table and 4 Chairs Set, Beige",
+      "brand": "Brelley",
+      "price": 109.99,
+      "salesParent": 1074,
+      "revenue": 116335.68,
+      "rating": 4.7,
+      "reviews": 1090
+    },
+    {
+      "rank": 7,
+      "asin": "B07KW62F8C",
+      "title": "Trolls Activity Table and Chairs – Folding Children's Table &amp; Chair Set – Includes 2 Kid Chairs with Non Skid Rubber Feet &amp; Padded Seats – Sturdy Metal Construction",
+      "brand": "DREAMWORKS TROLLS",
+      "price": 83.62,
+      "salesParent": 1293,
+      "revenue": 108120.66,
+      "rating": 4.7,
+      "reviews": 865
+    },
+    {
+      "rank": 8,
+      "asin": "B0FYP59XJW",
+      "title": "Kinder King Kids Table &amp; 2 Chairs Set, Adjustable Heights, Storage, Grey",
+      "brand": "Kinder King",
+      "price": 109.99,
+      "salesParent": 923,
+      "revenue": 105637.34,
+      "rating": 4.7,
+      "reviews": 164
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 7,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 7,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 5140657,
+    "priorHeadRevenue": 4817281,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 91,
+      "newCount": 30,
+      "pct": 33,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 38,
+      "brandCount": 55,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.57,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0BX6KC7ZN",
+        "title": "Adjustable Toddler Table and Chair Set, 31.5&quot; L x 23.6&quot; W Beige",
+        "rating": 4.8,
+        "reviews": 2035
+      },
+      {
+        "rank": 2,
+        "asin": "B0DP8Q4CMD",
+        "title": "Height Adjustable Toddler Table and 2 Chairs Set, Beige",
+        "rating": 4.9,
+        "reviews": 1684
+      },
+      {
+        "rank": 3,
+        "asin": "B0FP27GDWD",
+        "title": "Toddler Table and Chair Set, Graffiti Tabletop, 2 Chairs, Grey",
+        "rating": 4.7,
+        "reviews": 582
+      },
+      {
+        "rank": 4,
+        "asin": "B00CE69IGA",
+        "title": "Melissa &amp; Doug Solid Wood Table and 2 Chairs Playroom Furniture",
+        "rating": 4.7,
+        "reviews": 10395
+      },
+      {
+        "rank": 5,
+        "asin": "B0CLWZGLSD",
+        "title": "Delta Children MySize Kids Wood Table and Chair Set (2 Chairs Included) - Ideal for Arts &amp; Crafts, Snack Time, Homeschooling, Homework &amp; More, Bianca White/Natural",
+        "rating": 4.5,
+        "reviews": 16775
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "1055398:1063306:1063314:8529229011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

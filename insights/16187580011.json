@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "16187580011",
+  "level": "L4",
+  "categoryPathEn": "Home & Kitchen > Furniture > Kitchen & Dining Room Furniture > Pantries",
+  "categoryPathCn": "家居用品 > 家具 > 厨房 > 橱柜",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 93,
+    "totalRevenue": 9492685,
+    "avgRevenue": 102072,
+    "medianPrice": 199.99,
+    "priceBand": "$159.99 - $249.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0D21R1L54",
+      "title": "71&quot;Metal Pantry Storage Cabinet with Doors &amp; 4 Adjustable Shelves",
+      "brand": "SteeLoong",
+      "price": 135.99,
+      "salesParent": 4760,
+      "revenue": 713666.75,
+      "rating": 4.3,
+      "reviews": 766
+    },
+    {
+      "rank": 2,
+      "asin": "B0FDB25LD6",
+      "title": "Metal Pantry Storage Cabinets with Doors and Shelves,75&quot; Tall White",
+      "brand": "Yizosh",
+      "price": 125.99,
+      "salesParent": 4990,
+      "revenue": 691663.88,
+      "rating": 4.3,
+      "reviews": 2372
+    },
+    {
+      "rank": 3,
+      "asin": "B0DCVF9HT2",
+      "title": "Metal Pantry Cabinet, Kitchen Pantry Storage Cabinets with 2 Door",
+      "brand": "GAIOUS",
+      "price": 69.99,
+      "salesParent": 6252,
+      "revenue": 437577.47,
+      "rating": 4.2,
+      "reviews": 3172
+    },
+    {
+      "rank": 4,
+      "asin": "B0FDWWSNX9",
+      "title": "75&quot; Tall Pantry Cabinet,Farmhouse Kitchen Pantry Storage Cabinets with 2 Doors and 5 Shelves,White Metal Storage Cabinet,Large Cupboard for Home,Kitchen,Dining/Living Room",
+      "brand": "SISESOL",
+      "price": 139.99,
+      "salesParent": 2604,
+      "revenue": 364533.97,
+      "rating": 4.3,
+      "reviews": 964
+    },
+    {
+      "rank": 5,
+      "asin": "B0FHBD7W6P",
+      "title": "HOSTACK 71&quot; Tall Kitchen Pantry Storage Cabinet, 55&quot; W Kitchen Hutch, White",
+      "brand": "HOSTACK",
+      "price": 279.99,
+      "salesParent": 996,
+      "revenue": 294517.22,
+      "rating": 4.4,
+      "reviews": 643
+    },
+    {
+      "rank": 6,
+      "asin": "B0CXNVXMYP",
+      "title": "71&quot; White Metal Kitchen Pantry Storage Cabinet with Doors and Shelves",
+      "brand": "Polup",
+      "price": 159.99,
+      "salesParent": 1446,
+      "revenue": 228843.95,
+      "rating": 4.5,
+      "reviews": 566
+    },
+    {
+      "rank": 7,
+      "asin": "B0F9L87B5H",
+      "title": "HOSTACK 75&quot;H Kitchen Pantry Storage Cabinet, Kitchen Hutch Cabinet, White",
+      "brand": "HOSTACK",
+      "price": 269.99,
+      "salesParent": 801,
+      "revenue": 216261.98,
+      "rating": 4.4,
+      "reviews": 353
+    },
+    {
+      "rank": 8,
+      "asin": "B0DD7LTW9P",
+      "title": "HOSTACK 71&quot;H Kitchen Pantry Storage Cabinet, Farmhouse Hutch Cabinet, White",
+      "brand": "HOSTACK",
+      "price": 199.99,
+      "salesParent": 857,
+      "revenue": 176344.89,
+      "rating": 4.4,
+      "reviews": 992
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 37,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 37,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 9492685,
+    "priorHeadRevenue": 6929846,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 93,
+      "newCount": 60,
+      "pct": 65,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 42,
+      "brandCount": 54,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.35,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0D21R1L54",
+        "title": "71&quot;Metal Pantry Storage Cabinet with Doors &amp; 4 Adjustable Shelves",
+        "rating": 4.3,
+        "reviews": 766
+      },
+      {
+        "rank": 2,
+        "asin": "B0FDB25LD6",
+        "title": "Metal Pantry Storage Cabinets with Doors and Shelves,75&quot; Tall White",
+        "rating": 4.3,
+        "reviews": 2372
+      },
+      {
+        "rank": 3,
+        "asin": "B0DCVF9HT2",
+        "title": "Metal Pantry Cabinet, Kitchen Pantry Storage Cabinets with 2 Door",
+        "rating": 4.2,
+        "reviews": 3172
+      },
+      {
+        "rank": 4,
+        "asin": "B0FDWWSNX9",
+        "title": "75&quot; Tall Pantry Cabinet,Farmhouse Kitchen Pantry Storage Cabinets with 2 Doors and 5 Shelves,White Metal Storage Cabinet,Large Cupboard for Home,Kitchen,Dining/Living Room",
+        "rating": 4.3,
+        "reviews": 964
+      },
+      {
+        "rank": 5,
+        "asin": "B0FHBD7W6P",
+        "title": "HOSTACK 71&quot; Tall Kitchen Pantry Storage Cabinet, 55&quot; W Kitchen Hutch, White",
+        "rating": 4.4,
+        "reviews": 643
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "1055398:1063306:3733781:16187580011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

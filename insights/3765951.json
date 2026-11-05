@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3765951",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins, Minerals & Supplements > Herbal Supplements > Horny Goat Weed",
+  "categoryPathCn": "健康与家居 > 身、泳和附剂 > 草本补充 > 淫羊藿",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 981972,
+    "avgRevenue": 9820,
+    "medianPrice": 19.99,
+    "priceBand": "$14.99 - $29.65",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0154O5FYC",
+      "title": "Horny Goat Weed for Men (9 in 1 Formula) - Male Enhancing Supplement - 60ct",
+      "brand": "Natures Craft",
+      "price": 14.99,
+      "salesParent": 13527,
+      "revenue": 196953.12,
+      "rating": 3.9,
+      "reviews": 38694
+    },
+    {
+      "rank": 2,
+      "asin": "B0B2CLZF4P",
+      "title": "Fadogia Agrestis Tongkat Ali for Men with Turkesterone &amp; Horny Goat Weed",
+      "brand": "Clean Nutraceuticals",
+      "price": 24.95,
+      "salesParent": 1876,
+      "revenue": 46806.2,
+      "rating": 4.3,
+      "reviews": 1602
+    },
+    {
+      "rank": 3,
+      "asin": "B0GW9P5CCH",
+      "title": "|| G L O W || Premium Libido Support for Women - Assists Female Drive, Passion, Hormones, Blood-Flow, Energy - 9 Ingredients - Horny Goat Weed, Maca, Longjack &amp; More - 3rd Party Tested - 60 Caps",
+      "brand": "Nutrimend IQ",
+      "price": 49.99,
+      "salesParent": 699,
+      "revenue": 34943.01,
+      "rating": 4.9,
+      "reviews": 2
+    },
+    {
+      "rank": 4,
+      "asin": "B0FH69DY8W",
+      "title": "Hornygoatweed for Men, 12 in 1, Maca, Tongkat Ali, 60 Tablets",
+      "brand": "Vusinmju",
+      "price": 22.69,
+      "salesParent": 1379,
+      "revenue": 30751.7,
+      "rating": 4.7,
+      "reviews": 244
+    },
+    {
+      "rank": 5,
+      "asin": "B0B57F3T1Z",
+      "title": "Her's Female Libido Support for Women Increase Passion, Desire &amp; Excitement",
+      "brand": "Sapir's Nutrition",
+      "price": 22.9,
+      "salesParent": 1305,
+      "revenue": 29884.5,
+      "rating": 3.9,
+      "reviews": 1518
+    },
+    {
+      "rank": 6,
+      "asin": "B07W8Y9GKF",
+      "title": "Horny Goat Weed for Men - Male Enhancement Supplement (10-in-1 Formula) with Maca, Tongkat Ali, Saw Palmetto, Ginseng, L-Arginine &amp; Tribulus - Hornygoatweed for Men - 3rd Party Tested (60 Capsules)",
+      "brand": "DORADO NUTRITION",
+      "price": 11.95,
+      "salesParent": 2230,
+      "revenue": 26648.5,
+      "rating": 3.8,
+      "reviews": 11019
+    },
+    {
+      "rank": 7,
+      "asin": "B076PVXYQK",
+      "title": "Horny Goat Weed for Men &amp; Women - 120 Capsules, 9-Herb Formula, For Energy",
+      "brand": "DR. MARTIN'S NUTRITION",
+      "price": 15.73,
+      "salesParent": 1662,
+      "revenue": 24398.16,
+      "rating": 4.0,
+      "reviews": 12098
+    },
+    {
+      "rank": 8,
+      "asin": "B0DTP1C79J",
+      "title": "Libido Support for Women Fast Acting - Hornygoatweed Women Non-GMO",
+      "brand": "Enyvia",
+      "price": 26.97,
+      "salesParent": 835,
+      "revenue": 23121.15,
+      "rating": 4.2,
+      "reviews": 354
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -40,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -40,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 981972,
+    "priorHeadRevenue": 1637526,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 15,
+      "pct": 15,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 36,
+      "brandCount": 80,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.0,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0154O5FYC",
+        "title": "Horny Goat Weed for Men (9 in 1 Formula) - Male Enhancing Supplement - 60ct",
+        "rating": 3.9,
+        "reviews": 38694
+      },
+      {
+        "rank": 2,
+        "asin": "B0B2CLZF4P",
+        "title": "Fadogia Agrestis Tongkat Ali for Men with Turkesterone &amp; Horny Goat Weed",
+        "rating": 4.3,
+        "reviews": 1602
+      },
+      {
+        "rank": 3,
+        "asin": "B0GW9P5CCH",
+        "title": "|| G L O W || Premium Libido Support for Women - Assists Female Drive, Passion, Hormones, Blood-Flow, Energy - 9 Ingredients - Horny Goat Weed, Maca, Longjack &amp; More - 3rd Party Tested - 60 Caps",
+        "rating": 4.9,
+        "reviews": 2
+      },
+      {
+        "rank": 4,
+        "asin": "B0FH69DY8W",
+        "title": "Hornygoatweed for Men, 12 in 1, Maca, Tongkat Ali, 60 Tablets",
+        "rating": 4.7,
+        "reviews": 244
+      },
+      {
+        "rank": 5,
+        "asin": "B0B57F3T1Z",
+        "title": "Her's Female Libido Support for Women Increase Passion, Desire &amp; Excitement",
+        "rating": 3.9,
+        "reviews": 1518
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:23675621011:3764461:3765951",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

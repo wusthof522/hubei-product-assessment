@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "18116197011",
+  "level": "L2",
+  "categoryPathEn": "Appliances > Ranges, Ovens & Cooktops",
+  "categoryPathCn": "家电 > 炉灶，烤箱",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 91,
+    "totalRevenue": 6380150,
+    "avgRevenue": 70112,
+    "medianPrice": 301.0,
+    "priceBand": "$149.99 - $599.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0DRRYM7GL",
+      "title": "Magnetic Dryer Vent Coupling DV180 Magnetic Dryer Vent Connector Kit 4 Inch",
+      "brand": "Jeevony",
+      "price": 44.67,
+      "salesParent": 4923,
+      "revenue": 220451.94,
+      "rating": 4.6,
+      "reviews": 1328
+    },
+    {
+      "rank": 2,
+      "asin": "B07WS78DVK",
+      "title": "30 inch Insert Range Hood 900 CFM, Ducted/Ductless Vent Hood",
+      "brand": "IKTCH",
+      "price": 299.0,
+      "salesParent": 626,
+      "revenue": 185095.67,
+      "rating": 4.5,
+      "reviews": 1199
+    },
+    {
+      "rank": 3,
+      "asin": "B0DJNSDF38",
+      "title": "CA-UL-DRT1-CW-VINE009",
+      "brand": "AMZCHEF",
+      "price": 199.99,
+      "salesParent": 879,
+      "revenue": 175791.22,
+      "rating": 4.3,
+      "reviews": 10
+    },
+    {
+      "rank": 4,
+      "asin": "B07SC9MZBC",
+      "title": "30-inch Wall Mount Range Hood 900 CFM Ducted/Ductless Convertible, Kitchen Chimney Vent Stainless Steel with Gesture Sensing &amp; Touch Control Switch Panel, 2 Pcs Adjustable Lights(IKP02-30'')",
+      "brand": "IKTCH",
+      "price": 429.0,
+      "salesParent": 339,
+      "revenue": 142369.83,
+      "rating": 4.4,
+      "reviews": 1363
+    },
+    {
+      "rank": 5,
+      "asin": "B06XWFPJLH",
+      "title": "Hauslane Range Hood Under Cabinet 30&quot; Ducted with 6 Speed &amp; Auto Shut-off",
+      "brand": "Hauslane",
+      "price": 499.99,
+      "salesParent": 283,
+      "revenue": 140684.95,
+      "rating": 4.3,
+      "reviews": 2221
+    },
+    {
+      "rank": 6,
+      "asin": "B0924J3XJ5",
+      "title": "COMFEE' Range Hood 30 Inch Under Cabinet 200 CFM Ducted/Ductless",
+      "brand": "COMFEE'",
+      "price": 79.99,
+      "salesParent": 1717,
+      "revenue": 139231.53,
+      "rating": 4.4,
+      "reviews": 1893
+    },
+    {
+      "rank": 7,
+      "asin": "B0FQCBMY9N",
+      "title": "36 inch Island Range Hood Ceiling Mount 1200 CFM Stove Vent Hoods",
+      "brand": "RAPSUAR",
+      "price": 699.99,
+      "salesParent": 198,
+      "revenue": 138598.02,
+      "rating": 5.0,
+      "reviews": 180
+    },
+    {
+      "rank": 8,
+      "asin": "B0BG5W26RD",
+      "title": "AMZCHEF 30&quot; Under Cabinet Range Hood, 750CFM Stainless Steel Vent Hood",
+      "brand": "AMZCHEF",
+      "price": 178.48,
+      "salesParent": 685,
+      "revenue": 133211.95,
+      "rating": 4.3,
+      "reviews": 867
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -10,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -10,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 6380150,
+    "priorHeadRevenue": 7073604,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 91,
+      "newCount": 28,
+      "pct": 31,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 39,
+      "brandCount": 42,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.32,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0DRRYM7GL",
+        "title": "Magnetic Dryer Vent Coupling DV180 Magnetic Dryer Vent Connector Kit 4 Inch",
+        "rating": 4.6,
+        "reviews": 1328
+      },
+      {
+        "rank": 2,
+        "asin": "B07WS78DVK",
+        "title": "30 inch Insert Range Hood 900 CFM, Ducted/Ductless Vent Hood",
+        "rating": 4.5,
+        "reviews": 1199
+      },
+      {
+        "rank": 3,
+        "asin": "B0DJNSDF38",
+        "title": "CA-UL-DRT1-CW-VINE009",
+        "rating": 4.3,
+        "reviews": 10
+      },
+      {
+        "rank": 4,
+        "asin": "B07SC9MZBC",
+        "title": "30-inch Wall Mount Range Hood 900 CFM Ducted/Ductless Convertible, Kitchen Chimney Vent Stainless Steel with Gesture Sensing &amp; Touch Control Switch Panel, 2 Pcs Adjustable Lights(IKP02-30'')",
+        "rating": 4.4,
+        "reviews": 1363
+      },
+      {
+        "rank": 5,
+        "asin": "B06XWFPJLH",
+        "title": "Hauslane Range Hood Under Cabinet 30&quot; Ducted with 6 Speed &amp; Auto Shut-off",
+        "rating": 4.3,
+        "reviews": 2221
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "2619525011:18116197011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

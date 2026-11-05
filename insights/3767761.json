@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3767761",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Health Care > Alternative Medicine > Flower Essences",
+  "categoryPathCn": "健康与家居 > 卫生保健 > 替代药物 > 花精疗法",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 639042,
+    "avgRevenue": 6455,
+    "medianPrice": 18.98,
+    "priceBand": "$13.82 - $26.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0B24DF995",
+      "title": "Bach Rescue Remedy Dropper 10mL, Natural Stress Relief, Homeopathic Flower Essence, Vegan, Gluten &amp; Sugar-Free, Non-Habit Forming (Non-Alcohol Formula)",
+      "brand": "RESCUE",
+      "price": 14.99,
+      "salesParent": 6575,
+      "revenue": 98559.25,
+      "rating": 4.5,
+      "reviews": 3666
+    },
+    {
+      "rank": 2,
+      "asin": "B000OC1ETU",
+      "title": "Bach RESCUE PASTILLES, Orange and Elderflower Flavor, Natural Stress Relief Lozenges, Homeopathic Flower Essence, Vegetarian, Gluten &amp; Sugar-Free, Holiday Stocking Stuffer, 35 Count",
+      "brand": "RESCUE",
+      "price": 12.72,
+      "salesParent": 4472,
+      "revenue": 53932.32,
+      "rating": 4.4,
+      "reviews": 16779
+    },
+    {
+      "rank": 3,
+      "asin": "B0DG3431D4",
+      "title": "Bach RESCUE PASTILLES, Mixed Berry Flavor, Stress Relief Lozenges, Homeopathic, Flower Essences, 35 Count",
+      "brand": "RESCUE",
+      "price": 11.61,
+      "salesParent": 3825,
+      "revenue": 44599.5,
+      "rating": 4.2,
+      "reviews": 268
+    },
+    {
+      "rank": 4,
+      "asin": "B00016QT8A",
+      "title": "Bach Rock Rose Essence #26, 0.7 FZ",
+      "brand": "Bach Flower Remedies",
+      "price": 18.63,
+      "salesParent": 2436,
+      "revenue": 42167.16,
+      "rating": 4.7,
+      "reviews": 271
+    },
+    {
+      "rank": 5,
+      "asin": "B00016QTA8",
+      "title": "Bach Original Flower Remedies, White Chestnut - Calm the Mind - Natural Homeopathic Flower Essence for Emotional Balance - Vegan, Gluten Free, Sugar Free - 20mL Dropper",
+      "brand": "Bach Flower Remedies",
+      "price": 17.25,
+      "salesParent": 2333,
+      "revenue": 40780.84,
+      "rating": 4.6,
+      "reviews": 828
+    },
+    {
+      "rank": 6,
+      "asin": "B000FLF9NM",
+      "title": "Bach Aspen 20 mL(0.7 fl oz) Liquid",
+      "brand": "Bach Flower Remedies",
+      "price": 18.63,
+      "salesParent": 2063,
+      "revenue": 37154.63,
+      "rating": 4.7,
+      "reviews": 416
+    },
+    {
+      "rank": 7,
+      "asin": "B000YIG5ES",
+      "title": "Bach RESCUE REMEDY Spray 20mL, Natural Stress Relief, Homeopathic Flower Essence, Vegan, Gluten &amp; Sugar-Free, Non-Habit Forming (Packaging May Vary)",
+      "brand": "RESCUE",
+      "price": 20.31,
+      "salesParent": 1418,
+      "revenue": 28941.38,
+      "rating": 4.5,
+      "reviews": 8027
+    },
+    {
+      "rank": 8,
+      "asin": "B00N54OGY4",
+      "title": "Bach RESCUE REMEDY Dropper 20mL, Natural Stress Relief, Homeopathic Flower Essence, Vegan, Gluten &amp; Sugar-Free, Non-Habit Forming",
+      "brand": "RESCUE",
+      "price": 20.36,
+      "salesParent": 1427,
+      "revenue": 28868.21,
+      "rating": 4.6,
+      "reviews": 4839
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -13,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -13,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 639042,
+    "priorHeadRevenue": 736675,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 2,
+      "pct": 2,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 90,
+      "brandCount": 32,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.5,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0B24DF995",
+        "title": "Bach Rescue Remedy Dropper 10mL, Natural Stress Relief, Homeopathic Flower Essence, Vegan, Gluten &amp; Sugar-Free, Non-Habit Forming (Non-Alcohol Formula)",
+        "rating": 4.5,
+        "reviews": 3666
+      },
+      {
+        "rank": 2,
+        "asin": "B000OC1ETU",
+        "title": "Bach RESCUE PASTILLES, Orange and Elderflower Flavor, Natural Stress Relief Lozenges, Homeopathic Flower Essence, Vegetarian, Gluten &amp; Sugar-Free, Holiday Stocking Stuffer, 35 Count",
+        "rating": 4.4,
+        "reviews": 16779
+      },
+      {
+        "rank": 3,
+        "asin": "B0DG3431D4",
+        "title": "Bach RESCUE PASTILLES, Mixed Berry Flavor, Stress Relief Lozenges, Homeopathic, Flower Essences, 35 Count",
+        "rating": 4.2,
+        "reviews": 268
+      },
+      {
+        "rank": 4,
+        "asin": "B00016QT8A",
+        "title": "Bach Rock Rose Essence #26, 0.7 FZ",
+        "rating": 4.7,
+        "reviews": 271
+      },
+      {
+        "rank": 5,
+        "asin": "B00016QTA8",
+        "title": "Bach Original Flower Remedies, White Chestnut - Calm the Mind - Natural Homeopathic Flower Essence for Emotional Balance - Vegan, Gluten Free, Sugar Free - 20mL Dropper",
+        "rating": 4.6,
+        "reviews": 828
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3760941:13052911:3767761",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

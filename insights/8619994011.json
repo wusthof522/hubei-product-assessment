@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "8619994011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Medical Supplies & Equipment > Braces, Splints & Supports > Kinesiology Recovery Tapes",
+  "categoryPathCn": "健康与家居 > 医疗用品和设备 > 绷带、夹板和背带 > 运动学康复带",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 3172338,
+    "avgRevenue": 31723,
+    "medianPrice": 19.99,
+    "priceBand": "$13.24 - $24.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B006EPM74W",
+      "title": "KT Tape, Pro Synthetic Kinesiology Athletic Tape, 20 Count, 10” Precut Strip",
+      "brand": "KT Tape",
+      "price": 18.97,
+      "salesParent": 19339,
+      "revenue": 366860.81,
+      "rating": 4.6,
+      "reviews": 26552
+    },
+    {
+      "rank": 2,
+      "asin": "B001RR3UHU",
+      "title": "KT Tape, Original Cotton, Elastic Kinesiology Athletic Tape, 20 Count, 10” Precut Strips, Pink",
+      "brand": "KT Tape",
+      "price": 12.46,
+      "salesParent": 23694,
+      "revenue": 295227.25,
+      "rating": 4.5,
+      "reviews": 47200
+    },
+    {
+      "rank": 3,
+      "asin": "B09DDC81LS",
+      "title": "Care Science Copper Infused Kinesiology Tape, 40 Precut Strips, 2 Rolls",
+      "brand": "Care Science",
+      "price": 13.99,
+      "salesParent": 12831,
+      "revenue": 185279.64,
+      "rating": 4.4,
+      "reviews": 4181
+    },
+    {
+      "rank": 4,
+      "asin": "B0D7PD45R7",
+      "title": "Precut Kinesiology Tape for Knees, 10 Pcs, Black",
+      "brand": "IEADEN",
+      "price": 19.99,
+      "salesParent": 6973,
+      "revenue": 139390.27,
+      "rating": 3.8,
+      "reviews": 3425
+    },
+    {
+      "rank": 5,
+      "asin": "B0DC6BXM39",
+      "title": "5 Rolls Kinesiology Tape, 5 Colors 2 inch x 16.4 Feet Kinetic Tape",
+      "brand": "NUITPY",
+      "price": 9.99,
+      "salesParent": 13501,
+      "revenue": 134874.98,
+      "rating": 4.2,
+      "reviews": 3494
+    },
+    {
+      "rank": 6,
+      "asin": "B0BKSKYJSH",
+      "title": "CKeep Kinesiology Tape, Uncut Premium Elastic Athletic Tape 2 Rolls, Beige",
+      "brand": "CKeep",
+      "price": 9.99,
+      "salesParent": 13228,
+      "revenue": 132147.72,
+      "rating": 4.4,
+      "reviews": 5234
+    },
+    {
+      "rank": 7,
+      "asin": "B0DJ4RWJ8Y",
+      "title": "Precut Kinesiology Tape for Knees,Knee Support Tape&amp;Stability,12PCS",
+      "brand": "KTQUICK",
+      "price": 19.99,
+      "salesParent": 4379,
+      "revenue": 87536.21,
+      "rating": 3.9,
+      "reviews": 2450
+    },
+    {
+      "rank": 8,
+      "asin": "B00ME6ABMK",
+      "title": "KT Tape, Original Cotton, Elastic Kinesiology Athletic Tape, 16’ Uncut Roll",
+      "brand": "KT Tape",
+      "price": 12.47,
+      "salesParent": 6080,
+      "revenue": 75817.6,
+      "rating": 4.5,
+      "reviews": 7303
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -3,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -3,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 3172338,
+    "priorHeadRevenue": 3264483,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 30,
+      "pct": 30,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 63,
+      "brandCount": 45,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.19,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B006EPM74W",
+        "title": "KT Tape, Pro Synthetic Kinesiology Athletic Tape, 20 Count, 10” Precut Strip",
+        "rating": 4.6,
+        "reviews": 26552
+      },
+      {
+        "rank": 2,
+        "asin": "B001RR3UHU",
+        "title": "KT Tape, Original Cotton, Elastic Kinesiology Athletic Tape, 20 Count, 10” Precut Strips, Pink",
+        "rating": 4.5,
+        "reviews": 47200
+      },
+      {
+        "rank": 3,
+        "asin": "B09DDC81LS",
+        "title": "Care Science Copper Infused Kinesiology Tape, 40 Precut Strips, 2 Rolls",
+        "rating": 4.4,
+        "reviews": 4181
+      },
+      {
+        "rank": 4,
+        "asin": "B0D7PD45R7",
+        "title": "Precut Kinesiology Tape for Knees, 10 Pcs, Black",
+        "rating": 3.8,
+        "reviews": 3425
+      },
+      {
+        "rank": 5,
+        "asin": "B0DC6BXM39",
+        "title": "5 Rolls Kinesiology Tape, 5 Colors 2 inch x 16.4 Feet Kinetic Tape",
+        "rating": 4.2,
+        "reviews": 3494
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3775161:3775541:8619994011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

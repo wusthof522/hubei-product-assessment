@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "723457011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Stationery & Gift Wrapping Supplies > Gift Wrapping Supplies > Gift Wrap Paper",
+  "categoryPathCn": "健康与家居 > 文具和礼品包装用品 > 办公礼品包装 > 礼品包装纸",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 87,
+    "totalRevenue": 3839297,
+    "avgRevenue": 44130,
+    "medianPrice": 11.99,
+    "priceBand": "$9.99 - $13.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0H7X289Y5",
+      "title": "Burymento Pink Wrapping Paper Jumbo Roll, Holographic Star Gift Wrap",
+      "brand": "Burymento",
+      "price": 32.99,
+      "salesParent": 7796,
+      "revenue": 257190.05,
+      "rating": 4.7,
+      "reviews": 1478
+    },
+    {
+      "rank": 2,
+      "asin": "B0F2DZ1ZR9",
+      "title": "Burymento Pink Wrapping Paper Roll, Metallic Holographic Star Gift Wrap for Birthday, Valentines, Mothers day, Graduation, Wedding, Fathers day, Baby Shower, Christmas (30 IN x 32.8 FT)",
+      "brand": "Burymento",
+      "price": 22.99,
+      "salesParent": 8409,
+      "revenue": 185250.28,
+      "rating": 4.8,
+      "reviews": 32
+    },
+    {
+      "rank": 3,
+      "asin": "B0DXV62X5W",
+      "title": "MAYPLUSS Pink Wrapping Paper Roll, Cute Bow Gift Wrap",
+      "brand": "MAYPLUSS",
+      "price": 12.59,
+      "salesParent": 9932,
+      "revenue": 115012.56,
+      "rating": 4.7,
+      "reviews": 1497
+    },
+    {
+      "rank": 4,
+      "asin": "B0D9NFKFFC",
+      "title": "Burymento Pink Wrapping Paper Roll, Metallic Holographic Star Gift Wrap for Birthday, Valentines, Mothers day, Graduation, Wedding, Fathers day, Baby Shower, Christmas (17 IN x 32.8 FT)",
+      "brand": "Burymento",
+      "price": 12.99,
+      "salesParent": 9377,
+      "revenue": 110461.0,
+      "rating": 4.6,
+      "reviews": 1452
+    },
+    {
+      "rank": 5,
+      "asin": "B0BLSML9G3",
+      "title": "BIOBROWN Kraft Birthday Wrapping Paper Colorful Text Happy Birthday Design",
+      "brand": "BIOBROWN",
+      "price": 13.99,
+      "salesParent": 7446,
+      "revenue": 104169.54,
+      "rating": 4.7,
+      "reviews": 1354
+    },
+    {
+      "rank": 6,
+      "asin": "B0H3673YFM",
+      "title": "Merry Market Satin Christmas Wrapping Paper (Bows, Stripes, Solid Green)",
+      "brand": "Merry Market",
+      "price": 33.99,
+      "salesParent": 2546,
+      "revenue": 85163.7,
+      "rating": 4.7,
+      "reviews": 460
+    },
+    {
+      "rank": 7,
+      "asin": "B0DZX3B5VC",
+      "title": "LaRibbons Vintage Santa Foil Christmas Wrapping Paper, Candy Cane Stripe",
+      "brand": "LaRibbons",
+      "price": 13.99,
+      "salesParent": 5398,
+      "revenue": 75518.02,
+      "rating": 4.6,
+      "reviews": 762
+    },
+    {
+      "rank": 8,
+      "asin": "B0CQ4N89RB",
+      "title": "Homeral Wrapping Paper Jumbo Roll-30inch x 32.8ft Metallic Royal Blue for Christmas,Birthday,Holiday,Wedding,Baby Shower,Valentine's, Mother's Day,Bride Show,Graduate Party and more Occasion.",
+      "brand": "Homeral",
+      "price": 18.99,
+      "salesParent": 3933,
+      "revenue": 74687.67,
+      "rating": 4.5,
+      "reviews": 390
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 24,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 24,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 3839297,
+    "priorHeadRevenue": 3102536,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 87,
+      "newCount": 35,
+      "pct": 40,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 58,
+      "brandCount": 29,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.58,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0H7X289Y5",
+        "title": "Burymento Pink Wrapping Paper Jumbo Roll, Holographic Star Gift Wrap",
+        "rating": 4.7,
+        "reviews": 1478
+      },
+      {
+        "rank": 2,
+        "asin": "B0F2DZ1ZR9",
+        "title": "Burymento Pink Wrapping Paper Roll, Metallic Holographic Star Gift Wrap for Birthday, Valentines, Mothers day, Graduation, Wedding, Fathers day, Baby Shower, Christmas (30 IN x 32.8 FT)",
+        "rating": 4.8,
+        "reviews": 32
+      },
+      {
+        "rank": 3,
+        "asin": "B0DXV62X5W",
+        "title": "MAYPLUSS Pink Wrapping Paper Roll, Cute Bow Gift Wrap",
+        "rating": 4.7,
+        "reviews": 1497
+      },
+      {
+        "rank": 4,
+        "asin": "B0D9NFKFFC",
+        "title": "Burymento Pink Wrapping Paper Roll, Metallic Holographic Star Gift Wrap for Birthday, Valentines, Mothers day, Graduation, Wedding, Fathers day, Baby Shower, Christmas (17 IN x 32.8 FT)",
+        "rating": 4.6,
+        "reviews": 1452
+      },
+      {
+        "rank": 5,
+        "asin": "B0BLSML9G3",
+        "title": "BIOBROWN Kraft Birthday Wrapping Paper Colorful Text Happy Birthday Design",
+        "rating": 4.7,
+        "reviews": 1354
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:723418011:723452011:723457011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

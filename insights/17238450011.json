@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "17238450011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Novelty & Gag Toys > Fidget Toys > Fidget Spinners",
+  "categoryPathCn": "玩具 > 新颖性 > 益智玩具 > 小玩意旋转器",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 98,
+    "totalRevenue": 2501148,
+    "avgRevenue": 25522,
+    "medianPrice": 16.49,
+    "priceBand": "$9.99 - $24.24",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0DMSL33CK",
+      "title": "TOSY Magnet Fidget Spinner Glow - 16 Blocks, 3 in 1 Toy: Transformable Fidget Spinner, Infinity Cube, 2x2 Puzzle Cube, Glow, STEM/STEAM Magnet Tiles Birthday Gift for Kids/Boys/Girls/Adults, 2-Pack",
+      "brand": "TOSY",
+      "price": 34.99,
+      "salesParent": 6093,
+      "revenue": 213194.08,
+      "rating": 4.4,
+      "reviews": 102
+    },
+    {
+      "rank": 2,
+      "asin": "B09LMBLYF1",
+      "title": "Transformable Fidget Spinners 4 Pcs for Kids and Adults Stress Relief Sensory Toys for Boys and Girls Fingertip Gyros for Party Favors Christmas Stocking Stuffers Bulk for Kids",
+      "brand": "Gokeey",
+      "price": 8.98,
+      "salesParent": 21045,
+      "revenue": 198243.91,
+      "rating": 4.6,
+      "reviews": 13715
+    },
+    {
+      "rank": 3,
+      "asin": "B0FJ2989DS",
+      "title": "TOSY Magnet Fidget Spinner Mini - 8 Blocks, 100+ Shapes, 3-in-1 Transformable Fidget Toy, 2x2 Puzzle Cube &amp; Infinity Cube, Christmas &amp; Birthday STEM Gifts for Kids, Teens &amp; Adults",
+      "brand": "TOSY",
+      "price": 19.99,
+      "salesParent": 7868,
+      "revenue": 130294.08,
+      "rating": 4.4,
+      "reviews": 5981
+    },
+    {
+      "rank": 4,
+      "asin": "B0D8J414V5",
+      "title": "Transformable Fidget Spinners,9PCS Funny Sensory Fidget Toys for Kids",
+      "brand": "YIZER",
+      "price": 6.99,
+      "salesParent": 14415,
+      "revenue": 109986.45,
+      "rating": 4.5,
+      "reviews": 3831
+    },
+    {
+      "rank": 5,
+      "asin": "B0DMPFLN3B",
+      "title": "TOSY Magnet Fidget Spinner Glow - 16 Blocks, 3 in 1 Toy: Transformable Fidget Spinner, Infinity Cube, 2x2 Puzzle Cube, Glow, Stress Relief, STEM Magnet Tiles Birthday Gift for Kids/Boys/Girls/Adults",
+      "brand": "TOSY",
+      "price": 24.99,
+      "salesParent": 5064,
+      "revenue": 102799.0,
+      "rating": 4.4,
+      "reviews": 1300
+    },
+    {
+      "rank": 6,
+      "asin": "B097B3K46R",
+      "title": "LiKee Strong Suction Cup Fidget Rotating Sensory Bath Toys for Baby (Sun)",
+      "brand": "LiKee",
+      "price": 9.99,
+      "salesParent": 9602,
+      "revenue": 95923.98,
+      "rating": 4.7,
+      "reviews": 5154
+    },
+    {
+      "rank": 7,
+      "asin": "B0FMY8V94P",
+      "title": "12PCS Transformable Fidget Spinners for Kids Adults, Deformable Chain DIY Robot Spinner Sensory for Boys Girls, Christmas Fidgets Toys for Party Favors Birthday Gifts",
+      "brand": "FGYLYOX",
+      "price": 9.99,
+      "salesParent": 7853,
+      "revenue": 73504.08,
+      "rating": 4.7,
+      "reviews": 631
+    },
+    {
+      "rank": 8,
+      "asin": "B0DMPKFX57",
+      "title": "TOSY Magnet Fidget Spinner Mini - 8 Blocks, 3 in 1 Toy: Transformable Fidget Spinner, Infinity Cube, 2x2 Puzzle Cube, Stress Relief, STEM Sensory Magnet Tiles Birthday Gift for Kids/Boys/Girls/Adults",
+      "brand": "TOSY",
+      "price": 12.99,
+      "salesParent": 5164,
+      "revenue": 67080.36,
+      "rating": 4.4,
+      "reviews": 1641
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 9,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 9,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 2501148,
+    "priorHeadRevenue": 2299810,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 98,
+      "newCount": 48,
+      "pct": 49,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 40,
+      "brandCount": 76,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.46,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0DMSL33CK",
+        "title": "TOSY Magnet Fidget Spinner Glow - 16 Blocks, 3 in 1 Toy: Transformable Fidget Spinner, Infinity Cube, 2x2 Puzzle Cube, Glow, STEM/STEAM Magnet Tiles Birthday Gift for Kids/Boys/Girls/Adults, 2-Pack",
+        "rating": 4.4,
+        "reviews": 102
+      },
+      {
+        "rank": 2,
+        "asin": "B09LMBLYF1",
+        "title": "Transformable Fidget Spinners 4 Pcs for Kids and Adults Stress Relief Sensory Toys for Boys and Girls Fingertip Gyros for Party Favors Christmas Stocking Stuffers Bulk for Kids",
+        "rating": 4.6,
+        "reviews": 13715
+      },
+      {
+        "rank": 3,
+        "asin": "B0FJ2989DS",
+        "title": "TOSY Magnet Fidget Spinner Mini - 8 Blocks, 100+ Shapes, 3-in-1 Transformable Fidget Toy, 2x2 Puzzle Cube &amp; Infinity Cube, Christmas &amp; Birthday STEM Gifts for Kids, Teens &amp; Adults",
+        "rating": 4.4,
+        "reviews": 5981
+      },
+      {
+        "rank": 4,
+        "asin": "B0D8J414V5",
+        "title": "Transformable Fidget Spinners,9PCS Funny Sensory Fidget Toys for Kids",
+        "rating": 4.5,
+        "reviews": 3831
+      },
+      {
+        "rank": 5,
+        "asin": "B0DMPFLN3B",
+        "title": "TOSY Magnet Fidget Spinner Glow - 16 Blocks, 3 in 1 Toy: Transformable Fidget Spinner, Infinity Cube, 2x2 Puzzle Cube, Glow, Stress Relief, STEM Magnet Tiles Birthday Gift for Kids/Boys/Girls/Adults",
+        "rating": 4.4,
+        "reviews": 1300
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166027011:17238448011:17238450011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

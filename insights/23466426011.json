@@ -1,0 +1,26 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23466426011",
+  "level": "L4",
+  "categoryPathEn": "Clothing, Shoes & Jewelry > Sport Specific Clothing > Netball > Women",
+  "categoryPathCn": "服装、鞋履和珠宝 > 运动专用服装 > 无板篮球 > 女性",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "empty",
+  "marketSize": {
+    "sampleCount": 0
+  },
+  "topProducts": [],
+  "trend": {
+    "yoyPct": null,
+    "direction": "flat"
+  },
+  "competition": {},
+  "voc": {
+    "avgRating": null,
+    "top5": [],
+    "painPoints": []
+  }
+}

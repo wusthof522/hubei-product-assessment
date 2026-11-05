@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "166084011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Arts & Crafts > Drawing & Painting Supplies > Paints",
+  "categoryPathCn": "玩具 > 艺术 > 绘图 > 油漆",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 3377093,
+    "avgRevenue": 33771,
+    "medianPrice": 21.99,
+    "priceBand": "$14.99 - $32.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0BG3FKR7P",
+      "title": "Crayola Color Wonder Mess Free Fingerprint Book, Toddler Finger Painting",
+      "brand": "Crayola",
+      "price": 14.99,
+      "salesParent": 15027,
+      "revenue": 237276.33,
+      "rating": 4.7,
+      "reviews": 2239
+    },
+    {
+      "rank": 2,
+      "asin": "B0DNLJR1RJ",
+      "title": "Colorations Paraben-Free Simply Washable Tempera Paint, Rainbow Plus 8-Pack",
+      "brand": "Colorations",
+      "price": 34.99,
+      "salesParent": 5097,
+      "revenue": 177681.42,
+      "rating": 4.7,
+      "reviews": 1218
+    },
+    {
+      "rank": 3,
+      "asin": "B09GWCRSQV",
+      "title": "Crayola Washable Kids Paint (6ct), School Supplies, Painting Set for Kids, Spring Crafts, Art Teacher Gifts for Toddlers, Ages 3+",
+      "brand": "Crayola",
+      "price": 6.49,
+      "salesParent": 23355,
+      "revenue": 151573.94,
+      "rating": 4.7,
+      "reviews": 7882
+    },
+    {
+      "rank": 4,
+      "asin": "B0DNF5HHXL",
+      "title": "Colorations Paraben-Free Washable, Vibrant White Tempera Paint, 1 Gallon",
+      "brand": "Colorations",
+      "price": 21.99,
+      "salesParent": 5975,
+      "revenue": 131390.25,
+      "rating": 4.6,
+      "reviews": 180
+    },
+    {
+      "rank": 5,
+      "asin": "B0044SEK0A",
+      "title": "Crayola Washable Paint for Kids 12ct, Bulk Craft Paint Classroom Must Haves",
+      "brand": "Crayola",
+      "price": 50.99,
+      "salesParent": 2478,
+      "revenue": 126353.23,
+      "rating": 4.8,
+      "reviews": 3913
+    },
+    {
+      "rank": 6,
+      "asin": "B0BRX4VTBV",
+      "title": "Cra-Z-Art Washable Classic Paint Bulk Pack 8ct, Assorted Colors 4oz each bottle",
+      "brand": "Cra-Z-Art",
+      "price": 8.49,
+      "salesParent": 11277,
+      "revenue": 108259.2,
+      "rating": 4.4,
+      "reviews": 1501
+    },
+    {
+      "rank": 7,
+      "asin": "B0C1YTH9WK",
+      "title": "ABEIER Washable Finger Paint for Toddlers 1-3, 12 Non-Toxic Colors",
+      "brand": "ABEIER",
+      "price": 12.99,
+      "salesParent": 8270,
+      "revenue": 107427.3,
+      "rating": 4.6,
+      "reviews": 1313
+    },
+    {
+      "rank": 8,
+      "asin": "B0BH4YPQZB",
+      "title": "Crayola Spill Proof Paint Set (25ct), Washable Paint for Kids, Kids Craft Supplies, Holiday Gift for Toddlers &amp; Kids, Nontoxic, 3+",
+      "brand": "Crayola",
+      "price": 39.99,
+      "salesParent": 2429,
+      "revenue": 99224.65,
+      "rating": 4.6,
+      "reviews": 116
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -10,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -10,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 3377093,
+    "priorHeadRevenue": 3731647,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 28,
+      "pct": 28,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 56,
+      "brandCount": 46,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.58,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0BG3FKR7P",
+        "title": "Crayola Color Wonder Mess Free Fingerprint Book, Toddler Finger Painting",
+        "rating": 4.7,
+        "reviews": 2239
+      },
+      {
+        "rank": 2,
+        "asin": "B0DNLJR1RJ",
+        "title": "Colorations Paraben-Free Simply Washable Tempera Paint, Rainbow Plus 8-Pack",
+        "rating": 4.7,
+        "reviews": 1218
+      },
+      {
+        "rank": 3,
+        "asin": "B09GWCRSQV",
+        "title": "Crayola Washable Kids Paint (6ct), School Supplies, Painting Set for Kids, Spring Crafts, Art Teacher Gifts for Toddlers, Ages 3+",
+        "rating": 4.7,
+        "reviews": 7882
+      },
+      {
+        "rank": 4,
+        "asin": "B0DNF5HHXL",
+        "title": "Colorations Paraben-Free Washable, Vibrant White Tempera Paint, 1 Gallon",
+        "rating": 4.6,
+        "reviews": 180
+      },
+      {
+        "rank": 5,
+        "asin": "B0044SEK0A",
+        "title": "Crayola Washable Paint for Kids 12ct, Bulk Craft Paint Classroom Must Haves",
+        "rating": 4.8,
+        "reviews": 3913
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166057011:2488275011:166084011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

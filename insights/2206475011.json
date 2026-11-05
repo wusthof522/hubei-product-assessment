@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "2206475011",
+  "level": "L4",
+  "categoryPathEn": "Home & Kitchen > Furniture > Kids' Furniture > Vanities",
+  "categoryPathCn": "家居用品 > 家具 > 儿童家具 > 儿童梳妆台",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 98,
+    "totalRevenue": 1015613,
+    "avgRevenue": 10363,
+    "medianPrice": 109.99,
+    "priceBand": "$89.99 - $129.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0F3JFB62Y",
+      "title": "Kids Vanity with Lights and Chair, Princess Makeup Vanity Desk with Mirror Bookshelf Storage Cabinet,3 in 1 Toddler Vanity Table Makeup Dressing Table, Pretend Play Vanity Set for Little Girl",
+      "brand": "Frogprin",
+      "price": 136.99,
+      "salesParent": 505,
+      "revenue": 68967.85,
+      "rating": 4.3,
+      "reviews": 199
+    },
+    {
+      "rank": 2,
+      "asin": "B0FT359G27",
+      "title": "Spirich Unicorn and Rainbow-Themed Kids Vanity Set with Drawer",
+      "brand": "Spirich",
+      "price": 109.95,
+      "salesParent": 404,
+      "revenue": 44419.8,
+      "rating": 4.5,
+      "reviews": 34
+    },
+    {
+      "rank": 3,
+      "asin": "B0FPM79KLH",
+      "title": "OOOK Toddler Vanity for 3 Year Old with 10pcs Pretend Makeup Accessories",
+      "brand": "OOOK",
+      "price": 95.99,
+      "salesParent": 423,
+      "revenue": 40603.77,
+      "rating": 4.6,
+      "reviews": 415
+    },
+    {
+      "rank": 4,
+      "asin": "B088CXYT5B",
+      "title": "UTEX Pink Crown Princess Kids Vanity Set with Drawer for Little Girls",
+      "brand": "UTEX",
+      "price": 99.99,
+      "salesParent": 402,
+      "revenue": 40195.98,
+      "rating": 4.6,
+      "reviews": 1125
+    },
+    {
+      "rank": 5,
+      "asin": "B0DDT88LCC",
+      "title": "MU Kids Vanity with Lights, Girls Vanity Table and Chair Set with Lighted Mirror, Storage Cabinet, Bookshelf &amp; Shelves, Toddler Makeup Vanity Set for Little Girls, White",
+      "brand": "MU",
+      "price": 119.99,
+      "salesParent": 250,
+      "revenue": 32345.0,
+      "rating": 4.5,
+      "reviews": 361
+    },
+    {
+      "rank": 6,
+      "asin": "B0FPKB4BT3",
+      "title": "Teckid Kids Vanity Table and Chair Set with Lighted Mirror Storage Drawers Shelves for Little Girls",
+      "brand": "Teckid",
+      "price": 123.99,
+      "salesParent": 257,
+      "revenue": 31865.43,
+      "rating": 4.6,
+      "reviews": 89
+    },
+    {
+      "rank": 7,
+      "asin": "B0FB87WMYD",
+      "title": "ROBUD Kids Vanity Table Set with Mirror, Drawer, Chair &amp; Accessories",
+      "brand": "ROBUD",
+      "price": 75.29,
+      "salesParent": 399,
+      "revenue": 28552.44,
+      "rating": 4.2,
+      "reviews": 103
+    },
+    {
+      "rank": 8,
+      "asin": "B0FL7C68SZ",
+      "title": "labebe Kids Vanity, Girls Vanity Desk with LED Changing Lights, Pretend Play Princess Vanity Set, Wooden Toddler Makeup Desk Dressing Table with Drawer and Chair (Pink)",
+      "brand": "labebe",
+      "price": 109.99,
+      "salesParent": 257,
+      "revenue": 28267.43,
+      "rating": 4.4,
+      "reviews": 88
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -7,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -7,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1015613,
+    "priorHeadRevenue": 1088824,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 98,
+      "newCount": 71,
+      "pct": 72,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 37,
+      "brandCount": 51,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.48,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0F3JFB62Y",
+        "title": "Kids Vanity with Lights and Chair, Princess Makeup Vanity Desk with Mirror Bookshelf Storage Cabinet,3 in 1 Toddler Vanity Table Makeup Dressing Table, Pretend Play Vanity Set for Little Girl",
+        "rating": 4.3,
+        "reviews": 199
+      },
+      {
+        "rank": 2,
+        "asin": "B0FT359G27",
+        "title": "Spirich Unicorn and Rainbow-Themed Kids Vanity Set with Drawer",
+        "rating": 4.5,
+        "reviews": 34
+      },
+      {
+        "rank": 3,
+        "asin": "B0FPM79KLH",
+        "title": "OOOK Toddler Vanity for 3 Year Old with 10pcs Pretend Makeup Accessories",
+        "rating": 4.6,
+        "reviews": 415
+      },
+      {
+        "rank": 4,
+        "asin": "B088CXYT5B",
+        "title": "UTEX Pink Crown Princess Kids Vanity Set with Drawer for Little Girls",
+        "rating": 4.6,
+        "reviews": 1125
+      },
+      {
+        "rank": 5,
+        "asin": "B0DDT88LCC",
+        "title": "MU Kids Vanity with Lights, Girls Vanity Table and Chair Set with Lighted Mirror, Storage Cabinet, Bookshelf &amp; Shelves, Toddler Makeup Vanity Set for Little Girls, White",
+        "rating": 4.5,
+        "reviews": 361
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "1055398:1063306:1063314:2206475011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

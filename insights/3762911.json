@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3762911",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Health Care > First Aid > Itching & Rash Treatments",
+  "categoryPathCn": "健康与家居 > 卫生保健 > 急救 > 瘙痒和皮疹治疗",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 7095455,
+    "avgRevenue": 70955,
+    "medianPrice": 11.95,
+    "priceBand": "$8.01 - $19.43",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0GSCD31MN",
+      "title": "Cortizone-10 Max Strength Healing Itch Relief Eczema Lotion, 3.5 oz., 4-Pk",
+      "brand": "Cortizone 10",
+      "price": 35.99,
+      "salesParent": 50698,
+      "revenue": 1824621.12,
+      "rating": 4.7,
+      "reviews": 32114
+    },
+    {
+      "rank": 2,
+      "asin": "B0BX6LGM56",
+      "title": "CeraVe Moisturizing Cream for Itch Relief, Anti Itch Cream, 16oz",
+      "brand": "CeraVe",
+      "price": 23.97,
+      "salesParent": 17116,
+      "revenue": 410270.5,
+      "rating": 4.7,
+      "reviews": 12235
+    },
+    {
+      "rank": 3,
+      "asin": "B0C3K3KVNK",
+      "title": "Dermoplast Pain, Burn &amp; Itch Relief Spray, First Aid, 2.75 oz, 2 Pack",
+      "brand": "Dermoplast",
+      "price": 16.13,
+      "salesParent": 25200,
+      "revenue": 405216.0,
+      "rating": 4.8,
+      "reviews": 1558
+    },
+    {
+      "rank": 4,
+      "asin": "B00HQRCNWI",
+      "title": "Benadryl Itch Relief Gel Extra Strength, 2% Diphenhydramine HCl, 3.5 fl. Oz",
+      "brand": "Benadryl",
+      "price": 6.48,
+      "salesParent": 58650,
+      "revenue": 376533.0,
+      "rating": 4.6,
+      "reviews": 47168
+    },
+    {
+      "rank": 5,
+      "asin": "B0CMVYX6VN",
+      "title": "Cortizone-10 Max Strength Intensive Healing Itch Relief Cream, 2 oz.",
+      "brand": "Cortizone 10",
+      "price": 8.99,
+      "salesParent": 35018,
+      "revenue": 315862.38,
+      "rating": 4.8,
+      "reviews": 9173
+    },
+    {
+      "rank": 6,
+      "asin": "B0BJMQBSKJ",
+      "title": "Cortizone-10 Max Strength Soothing Aloe Itch Relief Cream, 2 oz.",
+      "brand": "Cortizone 10",
+      "price": 8.97,
+      "salesParent": 28776,
+      "revenue": 258408.47,
+      "rating": 4.7,
+      "reviews": 11766
+    },
+    {
+      "rank": 7,
+      "asin": "B09ZDLYBPS",
+      "title": "Hyland's PRID Drawing Salve for Skin Irritation, Ingrown Hair &amp; Itch 18grm",
+      "brand": "Hyland's",
+      "price": 8.96,
+      "salesParent": 20090,
+      "revenue": 177394.7,
+      "rating": 4.4,
+      "reviews": 11823
+    },
+    {
+      "rank": 8,
+      "asin": "B0CNL3G38V",
+      "title": "Mosquito Bite Itch Relief Bug Bite Patch, Camping Travel Essentials",
+      "brand": "quitch",
+      "price": 11.95,
+      "salesParent": 12751,
+      "revenue": 152374.45,
+      "rating": 4.5,
+      "reviews": 2639
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 44,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 44,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 7095455,
+    "priorHeadRevenue": 4916917,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 15,
+      "pct": 15,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 62,
+      "brandCount": 62,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.53,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0GSCD31MN",
+        "title": "Cortizone-10 Max Strength Healing Itch Relief Eczema Lotion, 3.5 oz., 4-Pk",
+        "rating": 4.7,
+        "reviews": 32114
+      },
+      {
+        "rank": 2,
+        "asin": "B0BX6LGM56",
+        "title": "CeraVe Moisturizing Cream for Itch Relief, Anti Itch Cream, 16oz",
+        "rating": 4.7,
+        "reviews": 12235
+      },
+      {
+        "rank": 3,
+        "asin": "B0C3K3KVNK",
+        "title": "Dermoplast Pain, Burn &amp; Itch Relief Spray, First Aid, 2.75 oz, 2 Pack",
+        "rating": 4.8,
+        "reviews": 1558
+      },
+      {
+        "rank": 4,
+        "asin": "B00HQRCNWI",
+        "title": "Benadryl Itch Relief Gel Extra Strength, 2% Diphenhydramine HCl, 3.5 fl. Oz",
+        "rating": 4.6,
+        "reviews": 47168
+      },
+      {
+        "rank": 5,
+        "asin": "B0CMVYX6VN",
+        "title": "Cortizone-10 Max Strength Intensive Healing Itch Relief Cream, 2 oz.",
+        "rating": 4.8,
+        "reviews": 9173
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3760941:3762591:3762911",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

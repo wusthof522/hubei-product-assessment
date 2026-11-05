@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3780171",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Health Care > Foot Health > Wart Removal",
+  "categoryPathCn": "健康与家居 > 卫生保健 > 足部护理 > 除疣",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 5686070,
+    "avgRevenue": 56861,
+    "medianPrice": 22.3,
+    "priceBand": "$19.76 - $29.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0HC4ZQQV6",
+      "title": "Fast-Acting Wart Remover Liquid 40% Salicylic Acid (2, 40% Salicylic Acid)",
+      "brand": "Dr.Johnes",
+      "price": 44.99,
+      "salesParent": 8922,
+      "revenue": 373831.81,
+      "rating": 4.4,
+      "reviews": 296
+    },
+    {
+      "rank": 2,
+      "asin": "B01N9X2Y1L",
+      "title": "Compound W Maximum Strength One Step Plantar Wart Remover Foot Pads, 20 Ct",
+      "brand": "Compound W",
+      "price": 8.26,
+      "salesParent": 45341,
+      "revenue": 371342.78,
+      "rating": 4.2,
+      "reviews": 56094
+    },
+    {
+      "rank": 3,
+      "asin": "B0HBJW7SLZ",
+      "title": "Fast-Acting Wart Remover Liquid 40% Salicylic Acid",
+      "brand": "Dr.Johnes",
+      "price": 24.99,
+      "salesParent": 12171,
+      "revenue": 304153.28,
+      "rating": 4.4,
+      "reviews": 298
+    },
+    {
+      "rank": 4,
+      "asin": "B0BJQJXCNN",
+      "title": "Dr. Scholl's Freeze Away Skin Tag Remover, Skin Tag Removal Kit, 8 Count",
+      "brand": "Dr. Scholl's",
+      "price": 19.98,
+      "salesParent": 14541,
+      "revenue": 290529.19,
+      "rating": 3.8,
+      "reviews": 24279
+    },
+    {
+      "rank": 5,
+      "asin": "B0H34WF1HL",
+      "title": "Fast-Acting Wart Remover Liquid: 40% Salicylic Acid Maximum Strength Plantar Wart and Corn Remover with Bee Venom for Hands, Feet and Toes",
+      "brand": "Dr.Johnes",
+      "price": 24.99,
+      "salesParent": 12269,
+      "revenue": 286358.47,
+      "rating": 4.5,
+      "reviews": 281
+    },
+    {
+      "rank": 6,
+      "asin": "B00SHK1EFK",
+      "title": "WartStick Maximum Strength Salicylic Acid Wart Remover, 0.2 oz",
+      "brand": "WartStick",
+      "price": 11.99,
+      "salesParent": 16290,
+      "revenue": 195317.09,
+      "rating": 4.1,
+      "reviews": 17822
+    },
+    {
+      "rank": 7,
+      "asin": "B08YZ7V85R",
+      "title": "Dr. Scholl's Freeze Away MAX Wart Remover for Hands &amp; Feet, 10 Treatments",
+      "brand": "Dr. Scholl's",
+      "price": 16.97,
+      "salesParent": 10703,
+      "revenue": 177348.7,
+      "rating": 4.0,
+      "reviews": 9257
+    },
+    {
+      "rank": 8,
+      "asin": "B000GCKCVY",
+      "title": "Compound W Maximum Strength Wart Remover Liquid, 0.31 Fl Oz",
+      "brand": "Compound W",
+      "price": 5.71,
+      "salesParent": 23134,
+      "revenue": 159161.92,
+      "rating": 4.0,
+      "reviews": 17813
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 21,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 21,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 5686070,
+    "priorHeadRevenue": 4700978,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 73,
+      "pct": 73,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 65,
+      "brandCount": 56,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.07,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0HC4ZQQV6",
+        "title": "Fast-Acting Wart Remover Liquid 40% Salicylic Acid (2, 40% Salicylic Acid)",
+        "rating": 4.4,
+        "reviews": 296
+      },
+      {
+        "rank": 2,
+        "asin": "B01N9X2Y1L",
+        "title": "Compound W Maximum Strength One Step Plantar Wart Remover Foot Pads, 20 Ct",
+        "rating": 4.2,
+        "reviews": 56094
+      },
+      {
+        "rank": 3,
+        "asin": "B0HBJW7SLZ",
+        "title": "Fast-Acting Wart Remover Liquid 40% Salicylic Acid",
+        "rating": 4.4,
+        "reviews": 298
+      },
+      {
+        "rank": 4,
+        "asin": "B0BJQJXCNN",
+        "title": "Dr. Scholl's Freeze Away Skin Tag Remover, Skin Tag Removal Kit, 8 Count",
+        "rating": 3.8,
+        "reviews": 24279
+      },
+      {
+        "rank": 5,
+        "asin": "B0H34WF1HL",
+        "title": "Fast-Acting Wart Remover Liquid: 40% Salicylic Acid Maximum Strength Plantar Wart and Corn Remover with Bee Venom for Hands, Feet and Toes",
+        "rating": 4.5,
+        "reviews": 281
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3760941:3779911:3780171",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

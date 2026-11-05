@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23566055011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Kids' Electronics > Tablets & Accessories > Tablets",
+  "categoryPathCn": "Toys & Games > Kids' Electronics > Tablets & Accessories > Tablets",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 95,
+    "totalRevenue": 1232799,
+    "avgRevenue": 12977,
+    "medianPrice": 59.99,
+    "priceBand": "$39.99 - $89.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0HGQY7STR",
+      "title": "Android 16 Kids Tablet HD 10 Inch with Stylus &amp; Case, 24GB RAM 64GB ROM 1TB",
+      "brand": "Evermyth",
+      "price": 89.97,
+      "salesParent": 4110,
+      "revenue": 440139.88,
+      "rating": 4.7,
+      "reviews": 465
+    },
+    {
+      "rank": 2,
+      "asin": "B0HGQYYGR8",
+      "title": "Android 16 Kids Tablet S5",
+      "brand": "Evermyth",
+      "price": 149.99,
+      "salesParent": 3870,
+      "revenue": 434910.59,
+      "rating": 3.9,
+      "reviews": 27
+    },
+    {
+      "rank": 3,
+      "asin": "B0H2M2XPTT",
+      "title": "Boppo Screen-Free Learning Tablet and On the Farm Toppo Bundle",
+      "brand": "BOPPO",
+      "price": 161.48,
+      "salesParent": 392,
+      "revenue": 63300.16,
+      "rating": 5.0,
+      "reviews": 2
+    },
+    {
+      "rank": 4,
+      "asin": "B0BXP7NSRG",
+      "title": "Kids Tablet 7 Toddler Children's Learning Tablet with WiFi, YouTube, Parental Control, Durable Case Education Learning Apps for Boys Girls (Blue)",
+      "brand": "Trayoo",
+      "price": 43.99,
+      "salesParent": 822,
+      "revenue": 36159.78,
+      "rating": 3.9,
+      "reviews": 2090
+    },
+    {
+      "rank": 5,
+      "asin": "B0C2P8MMTB",
+      "title": "Kids Tablet 7 Inch Tablet for Kids Ages 3-10, Android 11 3GB RAM 32GB ROM",
+      "brand": "MengDash",
+      "price": 46.99,
+      "salesParent": 648,
+      "revenue": 30481.92,
+      "rating": 3.8,
+      "reviews": 2420
+    },
+    {
+      "rank": 6,
+      "asin": "B0HHMY6W48",
+      "title": "Tablet 10 inch Android 16 Tablet for Kids, 24GB RAM 128GB ROM 1TB Expand, Kids Learning Tablet with Parental Control, Shockproof Case, Eye Protection HD IPS Screen, 6000mAh WiFi 6, Green",
+      "brand": "TT.KIDS",
+      "price": 139.99,
+      "salesParent": 173,
+      "revenue": 24218.27,
+      "rating": 5.0,
+      "reviews": 15
+    },
+    {
+      "rank": 7,
+      "asin": "B0CQ7M3PLF",
+      "title": "Contixo 10&quot; Android Kids Tablet Bundle - 32GB, Epic! &amp; Lingokids Educational Apps, Parental Controls, Kid-Proof Case w/Kickstand &amp; Stylus, Headphones &amp; Sleeve Bag - Pink",
+      "brand": "Contixo",
+      "price": 119.99,
+      "salesParent": 164,
+      "revenue": 19678.36,
+      "rating": 3.9,
+      "reviews": 355
+    },
+    {
+      "rank": 8,
+      "asin": "B0CPLZVM54",
+      "title": "Kids Tablet, 7 inch Android Tablet for Kids, 6GB+32GB 1TB Expand, Quad-Core Tablets with Case, BT, WiFi, Parental Control, Games, Dual (Rose)",
+      "brand": "aiprotablet",
+      "price": 46.99,
+      "salesParent": 430,
+      "revenue": 18851.2,
+      "rating": 4.0,
+      "reviews": 1329
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 73,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 73,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1232799,
+    "priorHeadRevenue": 711946,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 95,
+      "newCount": 53,
+      "pct": 56,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 89,
+      "brandCount": 48,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.05,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0HGQY7STR",
+        "title": "Android 16 Kids Tablet HD 10 Inch with Stylus &amp; Case, 24GB RAM 64GB ROM 1TB",
+        "rating": 4.7,
+        "reviews": 465
+      },
+      {
+        "rank": 2,
+        "asin": "B0HGQYYGR8",
+        "title": "Android 16 Kids Tablet S5",
+        "rating": 3.9,
+        "reviews": 27
+      },
+      {
+        "rank": 3,
+        "asin": "B0H2M2XPTT",
+        "title": "Boppo Screen-Free Learning Tablet and On the Farm Toppo Bundle",
+        "rating": 5.0,
+        "reviews": 2
+      },
+      {
+        "rank": 4,
+        "asin": "B0BXP7NSRG",
+        "title": "Kids Tablet 7 Toddler Children's Learning Tablet with WiFi, YouTube, Parental Control, Durable Case Education Learning Apps for Boys Girls (Blue)",
+        "rating": 3.9,
+        "reviews": 2090
+      },
+      {
+        "rank": 5,
+        "asin": "B0C2P8MMTB",
+        "title": "Kids Tablet 7 Inch Tablet for Kids Ages 3-10, Android 11 3GB RAM 32GB ROM",
+        "rating": 3.8,
+        "reviews": 2420
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166164011:23566053011:23566055011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

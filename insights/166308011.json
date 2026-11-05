@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "166308011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Learning & Education > Optics > Telescopes",
+  "categoryPathCn": "玩具 > 学习 > 光学元件 > 望远镜",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 651356,
+    "avgRevenue": 6579,
+    "medianPrice": 28.99,
+    "priceBand": "$18.29 - $49.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0CBQY8NGZ",
+      "title": "Celestron StarSense Explorer 150mm App-Enabled Tabletop Dobsonian Telescope",
+      "brand": "Celestron",
+      "price": 509.99,
+      "salesParent": 263,
+      "revenue": 134127.38,
+      "rating": 4.4,
+      "reviews": 148
+    },
+    {
+      "rank": 2,
+      "asin": "B081TLNB5B",
+      "title": "NASA Lunar Telescope for Kids Ages 8-12 with Tripod and Finder Scope",
+      "brand": "Blue Marble",
+      "price": 44.99,
+      "salesParent": 2968,
+      "revenue": 133530.33,
+      "rating": 4.1,
+      "reviews": 7046
+    },
+    {
+      "rank": 3,
+      "asin": "B0FXYL39P9",
+      "title": "Celestron Origin Mark II Intelligent Home Observatory, Plössl, Black/White",
+      "brand": "Celestron",
+      "price": 4299.0,
+      "salesParent": 15,
+      "revenue": 64485.0,
+      "rating": 4.8,
+      "reviews": 7
+    },
+    {
+      "rank": 4,
+      "asin": "B0DJPDX1P7",
+      "title": "UNISTELLAR Bundle: Odyssey PRO Smart Telescope + Official Backpack (2 Items)",
+      "brand": "Unistellar",
+      "price": 4800.04,
+      "salesParent": 13,
+      "revenue": 62400.52,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "rank": 5,
+      "asin": "B0DXJTQ89Z",
+      "title": "Telescope for Kids, 50mm 100x Beginner Telescope with Tripod",
+      "brand": "Luzsco",
+      "price": 28.99,
+      "salesParent": 933,
+      "revenue": 27206.28,
+      "rating": 4.2,
+      "reviews": 389
+    },
+    {
+      "rank": 6,
+      "asin": "B0BRYXHMJY",
+      "title": "LeapFrog Magic Adventures Telescope",
+      "brand": "LeapFrog",
+      "price": 99.0,
+      "salesParent": 205,
+      "revenue": 20217.1,
+      "rating": 4.4,
+      "reviews": 546
+    },
+    {
+      "rank": 7,
+      "asin": "B0GY1PT485",
+      "title": "Vaonis Vespera 3 - Smart Telescope for Adults &amp; Beginners - Auto-Tracking, Live Stacking, 11h Battery, 115GB Storage, Auto Anti-Fog, Aluminium Tripod - Astrophotography &amp; Stargazing Made Simple",
+      "brand": "Vaonis",
+      "price": 2490.0,
+      "salesParent": 8,
+      "revenue": 19920.0,
+      "rating": 4.0,
+      "reviews": 1
+    },
+    {
+      "rank": 8,
+      "asin": "B0FQZFKHCF",
+      "title": "Telescope for Kids, 50mm 100x Silver Beginner Telescope with Tripod",
+      "brand": "Luzsco",
+      "price": 26.99,
+      "salesParent": 540,
+      "revenue": 14574.6,
+      "rating": 4.2,
+      "reviews": 140
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -17,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -17,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 651356,
+    "priorHeadRevenue": 784818,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 28,
+      "pct": 28,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 73,
+      "brandCount": 54,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.12,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0CBQY8NGZ",
+        "title": "Celestron StarSense Explorer 150mm App-Enabled Tabletop Dobsonian Telescope",
+        "rating": 4.4,
+        "reviews": 148
+      },
+      {
+        "rank": 2,
+        "asin": "B081TLNB5B",
+        "title": "NASA Lunar Telescope for Kids Ages 8-12 with Tripod and Finder Scope",
+        "rating": 4.1,
+        "reviews": 7046
+      },
+      {
+        "rank": 3,
+        "asin": "B0FXYL39P9",
+        "title": "Celestron Origin Mark II Intelligent Home Observatory, Plössl, Black/White",
+        "rating": 4.8,
+        "reviews": 7
+      },
+      {
+        "rank": 4,
+        "asin": "B0DJPDX1P7",
+        "title": "UNISTELLAR Bundle: Odyssey PRO Smart Telescope + Official Backpack (2 Items)",
+        "rating": null,
+        "reviews": null
+      },
+      {
+        "rank": 5,
+        "asin": "B0DXJTQ89Z",
+        "title": "Telescope for Kids, 50mm 100x Beginner Telescope with Tripod",
+        "rating": 4.2,
+        "reviews": 389
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166269011:19318811011:166308011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

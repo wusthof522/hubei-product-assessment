@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23461499011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Medical Supplies & Equipment > Medical Compression Garments > Tights",
+  "categoryPathCn": "健康与家居 > 医疗用品和设备 > 医用压缩服 > 紧身衣",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 1066727,
+    "avgRevenue": 10667,
+    "medianPrice": 24.99,
+    "priceBand": "$19.99 - $32.74",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0DY74HHFC",
+      "title": "Medical Compression Leggings for Women &amp; Men, 20-30mmHg Compression Tights",
+      "brand": "Bewzilove",
+      "price": 21.99,
+      "salesParent": 2996,
+      "revenue": 63994.56,
+      "rating": 4.0,
+      "reviews": 784
+    },
+    {
+      "rank": 2,
+      "asin": "B0CNK1FQQX",
+      "title": "20-30mmHg Compression Pantyhose for Women, Medical Compression Stockings, High Waist Opaque Compression Tights for Lymphadema Edema, Swelling, Varicose Veins, Support Hose for Teacher Doctor",
+      "brand": "XUANSHOW",
+      "price": 25.77,
+      "salesParent": 2233,
+      "revenue": 57544.41,
+      "rating": 4.2,
+      "reviews": 220
+    },
+    {
+      "rank": 3,
+      "asin": "B0BBLWMNVR",
+      "title": "CHARMKING 3 Pairs Open Toe Compression Socks for Women &amp; Men Circulation 15-20 mmHg is Best Support for All Day Wear",
+      "brand": "CHARMKING",
+      "price": 9.99,
+      "salesParent": 5691,
+      "revenue": 55828.71,
+      "rating": 4.3,
+      "reviews": 4205
+    },
+    {
+      "rank": 4,
+      "asin": "B0CGNKX91W",
+      "title": "Compression Pantyhose Stockings for Women Men, 20-30 mmHg",
+      "brand": "Laubawck",
+      "price": 21.99,
+      "salesParent": 2211,
+      "revenue": 48619.89,
+      "rating": 4.3,
+      "reviews": 1146
+    },
+    {
+      "rank": 5,
+      "asin": "B0DSW5V7HV",
+      "title": "20-30 mmHg Medical Compression Pantyhose, Compression Tights Women",
+      "brand": "Myshear",
+      "price": 24.99,
+      "salesParent": 1899,
+      "revenue": 47456.01,
+      "rating": 4.2,
+      "reviews": 872
+    },
+    {
+      "rank": 6,
+      "asin": "B0D7LXLYST",
+      "title": "MANZI 2 Pairs Compression Pantyhose for Women Shaping Black Tights 10-15mmHg Support 50D Opaque Stockings",
+      "brand": "MANZI",
+      "price": 22.99,
+      "salesParent": 1905,
+      "revenue": 43795.95,
+      "rating": 4.2,
+      "reviews": 709
+    },
+    {
+      "rank": 7,
+      "asin": "B0D7ZMQ2HX",
+      "title": "15-20mmHg Compression Pantyhose Stockings for Women &amp; Men, 2 Pairs",
+      "brand": "Wegitcs",
+      "price": 29.99,
+      "salesParent": 1440,
+      "revenue": 42955.2,
+      "rating": 4.2,
+      "reviews": 241
+    },
+    {
+      "rank": 8,
+      "asin": "B0D1XJRBH4",
+      "title": "Compression Pantyhose for Women, 20-30 mmHg Medical Compression Stockings",
+      "brand": "Laubawck",
+      "price": 21.99,
+      "salesParent": 1822,
+      "revenue": 40065.78,
+      "rating": 4.3,
+      "reviews": 232
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -7,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -7,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1066727,
+    "priorHeadRevenue": 1144612,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 39,
+      "pct": 39,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 45,
+      "brandCount": 48,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.1,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0DY74HHFC",
+        "title": "Medical Compression Leggings for Women &amp; Men, 20-30mmHg Compression Tights",
+        "rating": 4.0,
+        "reviews": 784
+      },
+      {
+        "rank": 2,
+        "asin": "B0CNK1FQQX",
+        "title": "20-30mmHg Compression Pantyhose for Women, Medical Compression Stockings, High Waist Opaque Compression Tights for Lymphadema Edema, Swelling, Varicose Veins, Support Hose for Teacher Doctor",
+        "rating": 4.2,
+        "reviews": 220
+      },
+      {
+        "rank": 3,
+        "asin": "B0BBLWMNVR",
+        "title": "CHARMKING 3 Pairs Open Toe Compression Socks for Women &amp; Men Circulation 15-20 mmHg is Best Support for All Day Wear",
+        "rating": 4.3,
+        "reviews": 4205
+      },
+      {
+        "rank": 4,
+        "asin": "B0CGNKX91W",
+        "title": "Compression Pantyhose Stockings for Women Men, 20-30 mmHg",
+        "rating": 4.3,
+        "reviews": 1146
+      },
+      {
+        "rank": 5,
+        "asin": "B0DSW5V7HV",
+        "title": "20-30 mmHg Medical Compression Pantyhose, Compression Tights Women",
+        "rating": 4.2,
+        "reviews": 872
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3775161:23461496011:23461499011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3764321",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Health Care > Sleep & Snoring > Chin Straps",
+  "categoryPathCn": "健康与家居 > 卫生保健 > 睡眠和打鼾 > 下巴托带",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 95,
+    "totalRevenue": 476117,
+    "avgRevenue": 5012,
+    "medianPrice": 16.99,
+    "priceBand": "$12.7 - $19.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0HC5SNP17",
+      "title": "Chin Strap for CPAP users and Sleeping-Anti Snoring Devices",
+      "brand": "HOGYCAS",
+      "price": 16.99,
+      "salesParent": 3904,
+      "revenue": 68749.45,
+      "rating": 4.4,
+      "reviews": 105
+    },
+    {
+      "rank": 2,
+      "asin": "B08DR16XGV",
+      "title": "Anti Snore Chin Strap [Upgraded], Vosaro Snoring Solution Effective Anti Snore Device, Adjustable and Breathable Stop Snoring Head Band for Men Women, Black",
+      "brand": "Vosaro",
+      "price": 9.98,
+      "salesParent": 4014,
+      "revenue": 40019.58,
+      "rating": 3.4,
+      "reviews": 6115
+    },
+    {
+      "rank": 3,
+      "asin": "B0F8R4N5Q6",
+      "title": "Chin Strap for CPAP Users to Keep Mouth Closed, FSA/HSA, L-XL, Black",
+      "brand": "PIDOTI",
+      "price": 29.99,
+      "salesParent": 1232,
+      "revenue": 36947.68,
+      "rating": 3.9,
+      "reviews": 439
+    },
+    {
+      "rank": 4,
+      "asin": "B0FSSYWY3L",
+      "title": "HiStrips High Performance Nasal Strips, Sweat-Proof, Black, 30 Count",
+      "brand": "histrips.",
+      "price": 19.95,
+      "salesParent": 1793,
+      "revenue": 35770.35,
+      "rating": 3.9,
+      "reviews": 134
+    },
+    {
+      "rank": 5,
+      "asin": "B081X84XGJ",
+      "title": "Chin Strap for Sleeping and CPAP Users | Anti Snoring Chin Strap, Adjustable Jaw Strap for Sleep Apnea, Stop Snoring Solution for Men and Women, Comfortable Fit to Keep Mouth Closed – Medium",
+      "brand": "AVEELA",
+      "price": 29.99,
+      "salesParent": 1035,
+      "revenue": 31039.65,
+      "rating": 3.7,
+      "reviews": 3424
+    },
+    {
+      "rank": 6,
+      "asin": "B0H21L1333",
+      "title": "Chin Strap for Sleeping Pro, CPAP Chin Strap to Keep Mouth Closed, Jawline Shaper &amp; Double Chin Reducer, Tape-Free Alternative to Mouth Tape for Sleeping (Nocturne Black Free Size)",
+      "brand": "KIRA INTERNATIONAL",
+      "price": 29.99,
+      "salesParent": 791,
+      "revenue": 23595.53,
+      "rating": 3.0,
+      "reviews": 80
+    },
+    {
+      "rank": 7,
+      "asin": "B0HKV4QYWQ",
+      "title": "2 Pack Anti Snore Chin Strap for Sleeping， Jaw Tape Mouth Breathing Snoring Reducing Stopper, Sleep Devices for Cpap Users, Keep Mouth Closed Solution, Mandibular Advancement Aids for Women and Men",
+      "brand": "Znvyxhom",
+      "price": 22.99,
+      "salesParent": 838,
+      "revenue": 19265.62,
+      "rating": 3.0,
+      "reviews": 10
+    },
+    {
+      "rank": 8,
+      "asin": "B09M55P2YZ",
+      "title": "Anti Snoring Chin Strap for CPAP Users",
+      "brand": "AVEELA",
+      "price": 29.99,
+      "salesParent": 518,
+      "revenue": 15534.82,
+      "rating": 4.1,
+      "reviews": 127
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -44,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -44,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 476117,
+    "priorHeadRevenue": 844134,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 95,
+      "newCount": 76,
+      "pct": 80,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 50,
+      "brandCount": 63,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 3.8,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0HC5SNP17",
+        "title": "Chin Strap for CPAP users and Sleeping-Anti Snoring Devices",
+        "rating": 4.4,
+        "reviews": 105
+      },
+      {
+        "rank": 2,
+        "asin": "B08DR16XGV",
+        "title": "Anti Snore Chin Strap [Upgraded], Vosaro Snoring Solution Effective Anti Snore Device, Adjustable and Breathable Stop Snoring Head Band for Men Women, Black",
+        "rating": 3.4,
+        "reviews": 6115
+      },
+      {
+        "rank": 3,
+        "asin": "B0F8R4N5Q6",
+        "title": "Chin Strap for CPAP Users to Keep Mouth Closed, FSA/HSA, L-XL, Black",
+        "rating": 3.9,
+        "reviews": 439
+      },
+      {
+        "rank": 4,
+        "asin": "B0FSSYWY3L",
+        "title": "HiStrips High Performance Nasal Strips, Sweat-Proof, Black, 30 Count",
+        "rating": 3.9,
+        "reviews": 134
+      },
+      {
+        "rank": 5,
+        "asin": "B081X84XGJ",
+        "title": "Chin Strap for Sleeping and CPAP Users | Anti Snoring Chin Strap, Adjustable Jaw Strap for Sleep Apnea, Stop Snoring Solution for Men and Women, Comfortable Fit to Keep Mouth Closed – Medium",
+        "rating": 3.7,
+        "reviews": 3424
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3760941:3764271:3764321",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

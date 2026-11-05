@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "2975481011",
+  "level": "L2",
+  "categoryPathEn": "Pet Supplies > Horses",
+  "categoryPathCn": "宠物用品 > 马用品",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 7102471,
+    "avgRevenue": 71025,
+    "medianPrice": 39.99,
+    "priceBand": "$22.23 - $80.7",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B000B6I54G",
+      "title": "Absorbine Veterinary Liniment Gel, 12 oz Bottle",
+      "brand": "Absorbine",
+      "price": 16.19,
+      "salesParent": 30548,
+      "revenue": 494572.12,
+      "rating": 4.7,
+      "reviews": 34702
+    },
+    {
+      "rank": 2,
+      "asin": "B0BSFPKNH6",
+      "title": "HICC PET Dog Wipes for Dogs &amp; Cats, Glove Design, 20 Count",
+      "brand": "HICC PET",
+      "price": 24.99,
+      "salesParent": 13170,
+      "revenue": 329118.31,
+      "rating": 4.4,
+      "reviews": 5940
+    },
+    {
+      "rank": 3,
+      "asin": "B09V3GHJYF",
+      "title": "Absorbine Silver Honey Rapid Wound Repair Ointment 2oz Tube, Manuka Honey + MicroSilver BG, Horse &amp; Large Animal Wound Care",
+      "brand": "Silver Honey",
+      "price": 25.99,
+      "salesParent": 8102,
+      "revenue": 210570.98,
+      "rating": 4.7,
+      "reviews": 3679
+    },
+    {
+      "rank": 4,
+      "asin": "B00VPQY26Q",
+      "title": "100-Day Supply Equinety Horse XL Powder Horse Supplement with Amino Acids",
+      "brand": "Equinety",
+      "price": 102.99,
+      "salesParent": 1865,
+      "revenue": 192076.34,
+      "rating": 4.8,
+      "reviews": 2176
+    },
+    {
+      "rank": 5,
+      "asin": "B001C46U4I",
+      "title": "LIFE DATA LABS Farrier S Formula 2X Strength Bag, 11 lb.",
+      "brand": "Transpet",
+      "price": 83.99,
+      "salesParent": 2088,
+      "revenue": 175371.11,
+      "rating": 4.7,
+      "reviews": 995
+    },
+    {
+      "rank": 6,
+      "asin": "B0DYFBP35G",
+      "title": "Ivermectin Paste 1.87% Horse Dewormer - Apple Flavored Oral Syringe 6.08g Tube",
+      "brand": "Durvet",
+      "price": 36.48,
+      "salesParent": 4446,
+      "revenue": 169081.38,
+      "rating": 4.8,
+      "reviews": 885
+    },
+    {
+      "rank": 7,
+      "asin": "B00II3L6JK",
+      "title": "Ivermectin Paste 1.87% Horse Dewormer - Apple Flavored Oral Syringe 6.08g Tube",
+      "brand": "Durvet",
+      "price": 15.99,
+      "salesParent": 10468,
+      "revenue": 165499.08,
+      "rating": 4.7,
+      "reviews": 11346
+    },
+    {
+      "rank": 8,
+      "asin": "B0H3LBXTRZ",
+      "title": "Dog Water Fountain, 2L Stainless Steel Dog Water Fountain with Visual Water Level, Super Quiet Dog Water Bowl, 5-Stage Filtration Pet Water Dispenser, Easy to Clean - 2L",
+      "brand": "iMinorAir",
+      "price": 86.99,
+      "salesParent": 1768,
+      "revenue": 153798.31,
+      "rating": 4.8,
+      "reviews": 126
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 6,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 6,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 7102471,
+    "priorHeadRevenue": 6682165,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 16,
+      "pct": 16,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 36,
+      "brandCount": 64,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.65,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B000B6I54G",
+        "title": "Absorbine Veterinary Liniment Gel, 12 oz Bottle",
+        "rating": 4.7,
+        "reviews": 34702
+      },
+      {
+        "rank": 2,
+        "asin": "B0BSFPKNH6",
+        "title": "HICC PET Dog Wipes for Dogs &amp; Cats, Glove Design, 20 Count",
+        "rating": 4.4,
+        "reviews": 5940
+      },
+      {
+        "rank": 3,
+        "asin": "B09V3GHJYF",
+        "title": "Absorbine Silver Honey Rapid Wound Repair Ointment 2oz Tube, Manuka Honey + MicroSilver BG, Horse &amp; Large Animal Wound Care",
+        "rating": 4.7,
+        "reviews": 3679
+      },
+      {
+        "rank": 4,
+        "asin": "B00VPQY26Q",
+        "title": "100-Day Supply Equinety Horse XL Powder Horse Supplement with Amino Acids",
+        "rating": 4.8,
+        "reviews": 2176
+      },
+      {
+        "rank": 5,
+        "asin": "B001C46U4I",
+        "title": "LIFE DATA LABS Farrier S Formula 2X Strength Bag, 11 lb.",
+        "rating": 4.7,
+        "reviews": 995
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "2619533011:2975481011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "282517011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Stationery & Gift Wrapping Supplies > Stationery > Fine Writing Instruments",
+  "categoryPathCn": "健康与家居 > 文具和礼品包装用品 > 文具 > 精细书写工具",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 97,
+    "totalRevenue": 108788,
+    "avgRevenue": 1122,
+    "medianPrice": 13.95,
+    "priceBand": "$9.98 - $20.97",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0DT4FDYX8",
+      "title": "Mouthwash Travel Size Portable Alcohol &amp; Fluoride Free Mini Bulk 20 Packets",
+      "brand": "CAREFOR",
+      "price": 8.99,
+      "salesParent": 5359,
+      "revenue": 46784.07,
+      "rating": 4.4,
+      "reviews": 2877
+    },
+    {
+      "rank": 2,
+      "asin": "B0FY6QQ2F4",
+      "title": "Christian Gift Pen - Wooden Ballpoint Pen &amp; Engraved Cross Holder with Presentation Box - Christian Gifts for Men, Priests, Deacon Ordination &amp; Pastor Appreciation. Religious Gifts For Men",
+      "brand": "Armor Of God",
+      "price": 18.99,
+      "salesParent": 327,
+      "revenue": 6209.73,
+      "rating": 4.9,
+      "reviews": 19
+    },
+    {
+      "rank": 3,
+      "asin": "B0H42ZQBP8",
+      "title": "Sarah J. Maas A Court of Thorns and Roses Series Pen Set of 3, Night Court",
+      "brand": "Sarah J. Maas",
+      "price": 14.95,
+      "salesParent": 375,
+      "revenue": 5606.25,
+      "rating": 4.8,
+      "reviews": 9
+    },
+    {
+      "rank": 4,
+      "asin": "B0GVGTRLWV",
+      "title": "Mr. Pen- Bible Journaling Pens, 6 Pack, Black Ink, 0.7 mm, Ballpoint Pens",
+      "brand": "Mr. Pen",
+      "price": 5.85,
+      "salesParent": 835,
+      "revenue": 3857.7,
+      "rating": 4.8,
+      "reviews": 30
+    },
+    {
+      "rank": 5,
+      "asin": "B003H0ZTOW",
+      "title": "Cross Fountain Pen Converter, Push-In Style, Snap-Fit Design",
+      "brand": "Cross",
+      "price": 12.0,
+      "salesParent": 229,
+      "revenue": 2727.39,
+      "rating": 4.3,
+      "reviews": 1981
+    },
+    {
+      "rank": 6,
+      "asin": "B0BH546ZHC",
+      "title": "CRKT Williams Defense Pen EDC Accessory, British Racing Green, TPENWRG",
+      "brand": "CRKT",
+      "price": 29.99,
+      "salesParent": 85,
+      "revenue": 2549.15,
+      "rating": 3.8,
+      "reviews": 38
+    },
+    {
+      "rank": 7,
+      "asin": "B0C2CHPLD4",
+      "title": "Yeaqee 12 Pcs Breast Cancer Awareness Retractable Pens, 0.5mm Fine Point",
+      "brand": "Yeaqee",
+      "price": 14.99,
+      "salesParent": 180,
+      "revenue": 2547.0,
+      "rating": 4.3,
+      "reviews": 86
+    },
+    {
+      "rank": 8,
+      "asin": "B0GL9DKH5Y",
+      "title": "Tracer Carpenter Pencil, 5.2mm Mechanical Construction Pencil with Holster",
+      "brand": "Tracer",
+      "price": 17.99,
+      "salesParent": 137,
+      "revenue": 2464.63,
+      "rating": 4.3,
+      "reviews": 46
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 32,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 32,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 108788,
+    "priorHeadRevenue": 82694,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 97,
+      "newCount": 64,
+      "pct": 66,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 61,
+      "brandCount": 69,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.27,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0DT4FDYX8",
+        "title": "Mouthwash Travel Size Portable Alcohol &amp; Fluoride Free Mini Bulk 20 Packets",
+        "rating": 4.4,
+        "reviews": 2877
+      },
+      {
+        "rank": 2,
+        "asin": "B0FY6QQ2F4",
+        "title": "Christian Gift Pen - Wooden Ballpoint Pen &amp; Engraved Cross Holder with Presentation Box - Christian Gifts for Men, Priests, Deacon Ordination &amp; Pastor Appreciation. Religious Gifts For Men",
+        "rating": 4.9,
+        "reviews": 19
+      },
+      {
+        "rank": 3,
+        "asin": "B0H42ZQBP8",
+        "title": "Sarah J. Maas A Court of Thorns and Roses Series Pen Set of 3, Night Court",
+        "rating": 4.8,
+        "reviews": 9
+      },
+      {
+        "rank": 4,
+        "asin": "B0GVGTRLWV",
+        "title": "Mr. Pen- Bible Journaling Pens, 6 Pack, Black Ink, 0.7 mm, Ballpoint Pens",
+        "rating": 4.8,
+        "reviews": 30
+      },
+      {
+        "rank": 5,
+        "asin": "B003H0ZTOW",
+        "title": "Cross Fountain Pen Converter, Push-In Style, Snap-Fit Design",
+        "rating": 4.3,
+        "reviews": 1981
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:723418011:723462011:282517011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

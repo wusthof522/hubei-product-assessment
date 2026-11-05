@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "676707011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Vehicles > Finger Boards & Finger Bikes > Bikes",
+  "categoryPathCn": "玩具 > 车辆 > 手指板 > 自行车",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 113296,
+    "avgRevenue": 1133,
+    "medianPrice": 7.99,
+    "priceBand": "$5.99 - $18.33",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0CRWHTR57",
+      "title": "Retrospec Sesh BMX Kids Bike",
+      "brand": "Retrospec",
+      "price": 279.99,
+      "salesParent": 34,
+      "revenue": 9519.66,
+      "rating": 4.3,
+      "reviews": 123
+    },
+    {
+      "rank": 2,
+      "asin": "B0H45HFTYZ",
+      "title": "Finger MTB Bike 1:8 Scale Alloy Downhill Miniature Bicycle,Silver",
+      "brand": "Lurebrix",
+      "price": 18.44,
+      "salesParent": 425,
+      "revenue": 8151.5,
+      "rating": 4.8,
+      "reviews": 29
+    },
+    {
+      "rank": 3,
+      "asin": "B0F8BPKL98",
+      "title": "1:8 Scale Mountain Bike Toy DS Die-Cast Mini Finger Bicycle Model Desktop Decoration Scale Men Toy DH Alloy Bike Action Figurine Toy for Cake Topper Crafts (Black)",
+      "brand": "Kuasting",
+      "price": 23.98,
+      "salesParent": 331,
+      "revenue": 7937.38,
+      "rating": 4.3,
+      "reviews": 135
+    },
+    {
+      "rank": 4,
+      "asin": "B0D1XM1DF8",
+      "title": "Mini Metal Finger Bike Extreme Sports BMX Finger Bicycle Toys Game Set for Kids and Adults, Metal Bike Model Collections Decoration (BMX Black)",
+      "brand": "Ailejia",
+      "price": 23.98,
+      "salesParent": 323,
+      "revenue": 7745.54,
+      "rating": 4.4,
+      "reviews": 194
+    },
+    {
+      "rank": 5,
+      "asin": "B0H4GQQWCK",
+      "title": "Finger Mountain MTB Bike Model for Adults 1:8 Scale, Black",
+      "brand": "Lurebrix",
+      "price": 18.85,
+      "salesParent": 316,
+      "revenue": 6013.48,
+      "rating": 4.8,
+      "reviews": 33
+    },
+    {
+      "rank": 6,
+      "asin": "B0FN9Q96FF",
+      "title": "Spinner Finger Bikes – Set of Four, Real Metal, Rubber Tires, Moveable Parts, Collectible Mini Motorcycles for Stunts and Tricks – Assorted Color",
+      "brand": "Flip Pro",
+      "price": 29.99,
+      "salesParent": 167,
+      "revenue": 5008.33,
+      "rating": 4.0,
+      "reviews": 30
+    },
+    {
+      "rank": 7,
+      "asin": "B08M3X94TB",
+      "title": "Mini Finger Bike Toy – Alloy Mountain Bicycle Model with Tools, Movable Parts, Gift for Kids &amp; Collectors (Green)",
+      "brand": "kidbeile",
+      "price": 9.98,
+      "salesParent": 482,
+      "revenue": 4810.36,
+      "rating": 3.8,
+      "reviews": 275
+    },
+    {
+      "rank": 8,
+      "asin": "B0H417M2TX",
+      "title": "1:8 Scale Die-Cast Alloy Mountain Bike Model, Silver",
+      "brand": "Lurebrix",
+      "price": 18.85,
+      "salesParent": 235,
+      "revenue": 4493.2,
+      "rating": 4.8,
+      "reviews": 31
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 38,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 38,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 113296,
+    "priorHeadRevenue": 82301,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 80,
+      "pct": 80,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 64,
+      "brandCount": 57,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 3.83,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0CRWHTR57",
+        "title": "Retrospec Sesh BMX Kids Bike",
+        "rating": 4.3,
+        "reviews": 123
+      },
+      {
+        "rank": 2,
+        "asin": "B0H45HFTYZ",
+        "title": "Finger MTB Bike 1:8 Scale Alloy Downhill Miniature Bicycle,Silver",
+        "rating": 4.8,
+        "reviews": 29
+      },
+      {
+        "rank": 3,
+        "asin": "B0F8BPKL98",
+        "title": "1:8 Scale Mountain Bike Toy DS Die-Cast Mini Finger Bicycle Model Desktop Decoration Scale Men Toy DH Alloy Bike Action Figurine Toy for Cake Topper Crafts (Black)",
+        "rating": 4.3,
+        "reviews": 135
+      },
+      {
+        "rank": 4,
+        "asin": "B0D1XM1DF8",
+        "title": "Mini Metal Finger Bike Extreme Sports BMX Finger Bicycle Toys Game Set for Kids and Adults, Metal Bike Model Collections Decoration (BMX Black)",
+        "rating": 4.4,
+        "reviews": 194
+      },
+      {
+        "rank": 5,
+        "asin": "B0H4GQQWCK",
+        "title": "Finger Mountain MTB Bike Model for Adults 1:8 Scale, Black",
+        "rating": 4.8,
+        "reviews": 33
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:23539911011:166029011:676707011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

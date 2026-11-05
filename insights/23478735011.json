@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23478735011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Sports & Outdoor Play > Blasters & Foam Play > Foam Blasters",
+  "categoryPathCn": "Toys & Games > Sports & Outdoor Play > Blasters & Foam Play > Foam Blasters",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 97,
+    "totalRevenue": 4516250,
+    "avgRevenue": 46559,
+    "medianPrice": 29.98,
+    "priceBand": "$20.4 - $43.47",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0FQLK994V",
+      "title": "ZipString Aracna Glow-in-the-Dark Webshooter String Launcher Toy",
+      "brand": "ZipString",
+      "price": 44.95,
+      "salesParent": 19133,
+      "revenue": 850844.56,
+      "rating": 4.4,
+      "reviews": 665
+    },
+    {
+      "rank": 2,
+      "asin": "B09RS5C3LR",
+      "title": "Squad Hero Rechargeable Laser Tag for Kids, Teens &amp; Adults - Boys Gifts - Blasters &amp; Vest Sensors - Fun Ideas Age 8+ Year Old Toys - 4 Set - Lazer Teen Boy Game Boys &amp; Girls Outdoor Teenage Activities",
+      "brand": "Squad Hero",
+      "price": 94.98,
+      "salesParent": 2929,
+      "revenue": 289883.12,
+      "rating": 4.6,
+      "reviews": 2868
+    },
+    {
+      "rank": 3,
+      "asin": "B0DR9NDM34",
+      "title": "Nerf Loadout Galactic Commander Motorized Blaster, 3 Firing Modes, 3 Attachment Accessories, 48 Nerf N1 Darts, Kids Toys &amp; Gifts, Ages 8+",
+      "brand": "Nerf",
+      "price": 52.99,
+      "salesParent": 5222,
+      "revenue": 225277.08,
+      "rating": 4.6,
+      "reviews": 400
+    },
+    {
+      "rank": 4,
+      "asin": "B08MV8HMD3",
+      "title": "NERF Elite Disruptor Dynamic Green Dart Blaster",
+      "brand": "Nerf",
+      "price": 11.78,
+      "salesParent": 15083,
+      "revenue": 179789.36,
+      "rating": 4.6,
+      "reviews": 54675
+    },
+    {
+      "rank": 5,
+      "asin": "B08C7ZW4BM",
+      "title": "Toy Rocket Launcher for Kids: Outdoor Toys Slingshot - Best Gifts for Boys - Fun Gifts for 8 9 10 11 12 13 14 Year Old Boys + Teen Boy Gift Idea &amp; Cool Boys Toys Age 8-10 &amp; Teen Stocking Stuffers Gift",
+      "brand": "Refresh Sports",
+      "price": 19.87,
+      "salesParent": 6173,
+      "revenue": 122658.0,
+      "rating": 4.4,
+      "reviews": 2483
+    },
+    {
+      "rank": 6,
+      "asin": "B0DV6WC9QY",
+      "title": "Nerf Minecraft Sword Dart Blaster, Pull Back Priming, Foam Edge, 8 N1 Darts, Ages 8+",
+      "brand": "Nerf",
+      "price": 41.99,
+      "salesParent": 1913,
+      "revenue": 80518.17,
+      "rating": 4.8,
+      "reviews": 189
+    },
+    {
+      "rank": 7,
+      "asin": "B0GHZZNFC9",
+      "title": "Nerf Fortnite AR OG Blaster",
+      "brand": "Nerf",
+      "price": 52.99,
+      "salesParent": 1460,
+      "revenue": 77365.41,
+      "rating": 4.8,
+      "reviews": 30
+    },
+    {
+      "rank": 8,
+      "asin": "B0G2TGZ867",
+      "title": "Nerf Minecraft Diamond Pickaxe Dart Blaster, Pull Back Priming, Foam Head, 8 Nerf Elite Darts, Ages 8+",
+      "brand": "Nerf",
+      "price": 18.39,
+      "salesParent": 3512,
+      "revenue": 73435.92,
+      "rating": 4.9,
+      "reviews": 64
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 33,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 33,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 4516250,
+    "priorHeadRevenue": 3386928,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 97,
+      "newCount": 47,
+      "pct": 48,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 62,
+      "brandCount": 57,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.34,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0FQLK994V",
+        "title": "ZipString Aracna Glow-in-the-Dark Webshooter String Launcher Toy",
+        "rating": 4.4,
+        "reviews": 665
+      },
+      {
+        "rank": 2,
+        "asin": "B09RS5C3LR",
+        "title": "Squad Hero Rechargeable Laser Tag for Kids, Teens &amp; Adults - Boys Gifts - Blasters &amp; Vest Sensors - Fun Ideas Age 8+ Year Old Toys - 4 Set - Lazer Teen Boy Game Boys &amp; Girls Outdoor Teenage Activities",
+        "rating": 4.6,
+        "reviews": 2868
+      },
+      {
+        "rank": 3,
+        "asin": "B0DR9NDM34",
+        "title": "Nerf Loadout Galactic Commander Motorized Blaster, 3 Firing Modes, 3 Attachment Accessories, 48 Nerf N1 Darts, Kids Toys &amp; Gifts, Ages 8+",
+        "rating": 4.6,
+        "reviews": 400
+      },
+      {
+        "rank": 4,
+        "asin": "B08MV8HMD3",
+        "title": "NERF Elite Disruptor Dynamic Green Dart Blaster",
+        "rating": 4.6,
+        "reviews": 54675
+      },
+      {
+        "rank": 5,
+        "asin": "B08C7ZW4BM",
+        "title": "Toy Rocket Launcher for Kids: Outdoor Toys Slingshot - Best Gifts for Boys - Fun Gifts for 8 9 10 11 12 13 14 Year Old Boys + Teen Boy Gift Idea &amp; Cool Boys Toys Age 8-10 &amp; Teen Stocking Stuffers Gift",
+        "rating": 4.4,
+        "reviews": 2483
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166420011:2327110011:23478735011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "10342350011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Household Supplies > Lighters & Matches > Gift Sets & Starter Kits",
+  "categoryPathCn": "健康与家居 > 家居用品 > 打火机和火柴 > 礼品套装和入门套件",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "insufficient",
+  "marketSize": {
+    "sampleCount": 14,
+    "totalRevenue": 18155,
+    "avgRevenue": 1297,
+    "medianPrice": 24.95,
+    "priceBand": "$15.59 - $37.34",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0BRRPX8KW",
+      "title": "REIDEA Electric Lighter Gift for Candle Lovers, Windproof Flameless USB Rechargeable Arc Retractable Lighter with Safe Button and Power Indicator for BBQ and Fireworks, R1 Pro, Obsidian Black",
+      "brand": "REIDEA",
+      "price": 3.24,
+      "salesParent": 1573,
+      "revenue": 15431.13,
+      "rating": 4.5,
+      "reviews": 6434
+    },
+    {
+      "rank": 2,
+      "asin": "B08MV6C144",
+      "title": "Zippo Coyote Tactical Pouch and Black Crackle Windproof Lighter Gift Set",
+      "brand": "Zippo",
+      "price": 35.97,
+      "salesParent": 29,
+      "revenue": 1043.13,
+      "rating": 4.6,
+      "reviews": 108
+    },
+    {
+      "rank": 3,
+      "asin": "B0F8GRXBC4",
+      "title": "Refillable 3-in-1 Cigar Torch Lighter with Built-in Cutter &amp; Cigar Holder",
+      "brand": "CIGAIOL",
+      "price": 12.99,
+      "salesParent": 64,
+      "revenue": 831.36,
+      "rating": 4.4,
+      "reviews": 49
+    },
+    {
+      "rank": 4,
+      "asin": "B0FLJ5YBZL",
+      "title": "Cigar Cutter and Lighter Set with Butane Refillable Four Jet Flame Lighters Sharpening Blade Cigar Guillotine Windproof Lighter Torch (Black Set)",
+      "brand": "cgaplus",
+      "price": 16.99,
+      "salesParent": 22,
+      "revenue": 373.78,
+      "rating": 4.5,
+      "reviews": 134
+    },
+    {
+      "rank": 5,
+      "asin": "B07BS3LP6X",
+      "title": "Custom Initial Engraved Stainless Steel Cigar Tube Flask, Cutter, &amp; Lighter Gift Set Personalized",
+      "brand": "Daylor",
+      "price": 41.44,
+      "salesParent": 5,
+      "revenue": 207.2,
+      "rating": 4.5,
+      "reviews": 265
+    },
+    {
+      "rank": 6,
+      "asin": "B000EWKNEW",
+      "title": "Zippo Lighter Harley Davidson Pouch Gift Set (lighter not included), Black",
+      "brand": "Zippo",
+      "price": 16.45,
+      "salesParent": 12,
+      "revenue": 197.4,
+      "rating": 4.2,
+      "reviews": 175
+    },
+    {
+      "rank": 7,
+      "asin": "B00M04FTVO",
+      "title": "Dog newfoundland dog 02 Cigarette Case Oil Lighter Gift Set",
+      "brand": "Perfection In Style",
+      "price": 21.95,
+      "salesParent": 2,
+      "revenue": 43.9,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "rank": 8,
+      "asin": "B0FPMB2F8T",
+      "title": "Cigar Lighter and Cutter Set Windproof Lighters with Fuel Level Window",
+      "brand": "cgaplus",
+      "price": 9.0,
+      "salesParent": 3,
+      "revenue": 27.0,
+      "rating": 4.4,
+      "reviews": 30
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": null,
+    "direction": "flat",
+    "comparable": null,
+    "rawYoyPct": -53,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 18155,
+    "priorHeadRevenue": 38819,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 14,
+      "newCount": 4,
+      "pct": 29,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 100,
+      "brandCount": 8,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.39,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0BRRPX8KW",
+        "title": "REIDEA Electric Lighter Gift for Candle Lovers, Windproof Flameless USB Rechargeable Arc Retractable Lighter with Safe Button and Power Indicator for BBQ and Fireworks, R1 Pro, Obsidian Black",
+        "rating": 4.5,
+        "reviews": 6434
+      },
+      {
+        "rank": 2,
+        "asin": "B08MV6C144",
+        "title": "Zippo Coyote Tactical Pouch and Black Crackle Windproof Lighter Gift Set",
+        "rating": 4.6,
+        "reviews": 108
+      },
+      {
+        "rank": 3,
+        "asin": "B0F8GRXBC4",
+        "title": "Refillable 3-in-1 Cigar Torch Lighter with Built-in Cutter &amp; Cigar Holder",
+        "rating": 4.4,
+        "reviews": 49
+      },
+      {
+        "rank": 4,
+        "asin": "B0FLJ5YBZL",
+        "title": "Cigar Cutter and Lighter Set with Butane Refillable Four Jet Flame Lighters Sharpening Blade Cigar Guillotine Windproof Lighter Torch (Black Set)",
+        "rating": 4.5,
+        "reviews": 134
+      },
+      {
+        "rank": 5,
+        "asin": "B07BS3LP6X",
+        "title": "Custom Initial Engraved Stainless Steel Cigar Tube Flask, Cutter, &amp; Lighter Gift Set Personalized",
+        "rating": 4.5,
+        "reviews": 265
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:15342811:10342347011:10342350011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

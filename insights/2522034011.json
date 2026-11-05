@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "2522034011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Baby & Toddler Toys > Early Development & Activity Toys > Teaching Clocks",
+  "categoryPathCn": "玩具 > 婴幼儿 > 早期发展 > 教学时钟",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 98,
+    "totalRevenue": 253281,
+    "avgRevenue": 2585,
+    "medianPrice": 19.93,
+    "priceBand": "$11.99 - $27.24",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B01MT1S2W4",
+      "title": "Learning Resources Time Activity Set",
+      "brand": "Learning Resources",
+      "price": 14.99,
+      "salesParent": 3256,
+      "revenue": 46495.68,
+      "rating": 4.8,
+      "reviews": 11066
+    },
+    {
+      "rank": 2,
+      "asin": "B0F94H72L4",
+      "title": "The Fidget Game Squishy Time Rescue - Telling Time Game for Kids Ages 6-11",
+      "brand": "The Fidget Game",
+      "price": 29.99,
+      "salesParent": 795,
+      "revenue": 23842.05,
+      "rating": 4.7,
+      "reviews": 84
+    },
+    {
+      "rank": 3,
+      "asin": "B00B4EJO1C",
+      "title": "Melissa &amp; Doug Shape Sorting Clock - Wooden Educational Toy",
+      "brand": "Melissa &amp; Doug",
+      "price": 19.97,
+      "salesParent": 875,
+      "revenue": 14586.25,
+      "rating": 4.8,
+      "reviews": 3053
+    },
+    {
+      "rank": 4,
+      "asin": "B0FLDZ7YY3",
+      "title": "2-in-1 Wooden Math Manipulatives &amp; Teaching Clock Toys",
+      "brand": "Quliwise",
+      "price": 12.34,
+      "salesParent": 997,
+      "revenue": 13399.68,
+      "rating": 4.6,
+      "reviews": 209
+    },
+    {
+      "rank": 5,
+      "asin": "B075JB3N48",
+      "title": "BEST LEARNING Learning Clock - Talking Teaching Clock for Kids",
+      "brand": "BEST LEARNING",
+      "price": 32.98,
+      "salesParent": 406,
+      "revenue": 13389.88,
+      "rating": 4.5,
+      "reviews": 5568
+    },
+    {
+      "rank": 6,
+      "asin": "B00EM4QB3A",
+      "title": "Melissa &amp; Doug Turn &amp; Tell Wooden Clock - Educational Toy with 12+ Reversible Time Cards",
+      "brand": "Melissa &amp; Doug",
+      "price": 20.99,
+      "salesParent": 593,
+      "revenue": 12447.07,
+      "rating": 4.6,
+      "reviews": 2752
+    },
+    {
+      "rank": 7,
+      "asin": "B0FHWHH7NW",
+      "title": "Coogam Wooden Clock Teaching Time Toy, Analog Digital Clock with Fly-Telling Time Board Game, Montessori Time Learning Educational Toy for 3 4 5 Year Old Homeschool Classroom Kids",
+      "brand": "Coogam",
+      "price": 24.99,
+      "salesParent": 385,
+      "revenue": 9906.05,
+      "rating": 4.7,
+      "reviews": 157
+    },
+    {
+      "rank": 8,
+      "asin": "B08M49M434",
+      "title": "Learning Resources Big Time Mini Clock",
+      "brand": "Learning Resources",
+      "price": 10.95,
+      "salesParent": 738,
+      "revenue": 8398.44,
+      "rating": 4.5,
+      "reviews": 2564
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 1,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 1,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 253281,
+    "priorHeadRevenue": 250912,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 98,
+      "newCount": 37,
+      "pct": 38,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 58,
+      "brandCount": 75,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.51,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B01MT1S2W4",
+        "title": "Learning Resources Time Activity Set",
+        "rating": 4.8,
+        "reviews": 11066
+      },
+      {
+        "rank": 2,
+        "asin": "B0F94H72L4",
+        "title": "The Fidget Game Squishy Time Rescue - Telling Time Game for Kids Ages 6-11",
+        "rating": 4.7,
+        "reviews": 84
+      },
+      {
+        "rank": 3,
+        "asin": "B00B4EJO1C",
+        "title": "Melissa &amp; Doug Shape Sorting Clock - Wooden Educational Toy",
+        "rating": 4.8,
+        "reviews": 3053
+      },
+      {
+        "rank": 4,
+        "asin": "B0FLDZ7YY3",
+        "title": "2-in-1 Wooden Math Manipulatives &amp; Teaching Clock Toys",
+        "rating": 4.6,
+        "reviews": 209
+      },
+      {
+        "rank": 5,
+        "asin": "B075JB3N48",
+        "title": "BEST LEARNING Learning Clock - Talking Teaching Clock for Kids",
+        "rating": 4.5,
+        "reviews": 5568
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:196601011:21490695011:2522034011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

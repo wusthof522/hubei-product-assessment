@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "21579651011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Health Care > Eye Health > Dry Eye Relief",
+  "categoryPathCn": "健康与家居 > 卫生保健 > 眼睛健康 > 干眼症",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 9901857,
+    "avgRevenue": 99019,
+    "medianPrice": 22.95,
+    "priceBand": "$15.96 - $36.86",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B07CDN39DP",
+      "title": "Lumify Redness Relief Eye Drops, Whiter &amp; Brighter Looking Eyes, 0.08 oz",
+      "brand": "LUMIFY",
+      "price": 11.93,
+      "salesParent": 158680,
+      "revenue": 1893052.5,
+      "rating": 4.6,
+      "reviews": 43365
+    },
+    {
+      "rank": 2,
+      "asin": "B0DTZYRLR3",
+      "title": "Systane PRO PF Lubricating Eye Drops for Dry Eyes, 0.34 Fl Oz, 2 Pack",
+      "brand": "Systane",
+      "price": 28.5,
+      "salesParent": 23473,
+      "revenue": 670388.88,
+      "rating": 4.6,
+      "reviews": 3695
+    },
+    {
+      "rank": 3,
+      "asin": "B003UNOY7Y",
+      "title": "HydroEye Dry Eye Supplement, Clinically Tested, GLA &amp; Omega3s - 120 Count",
+      "brand": "ScienceBased Health",
+      "price": 43.95,
+      "salesParent": 13728,
+      "revenue": 603345.62,
+      "rating": 4.6,
+      "reviews": 7296
+    },
+    {
+      "rank": 4,
+      "asin": "B088P7RDRR",
+      "title": "Optase Dry Eye Intense Drops - Preservative Free Eye Drops - Multidose Bottle - Step 3 Hydrate - .33 fl oz, 300 Doses",
+      "brand": "Optase",
+      "price": 22.49,
+      "salesParent": 26522,
+      "revenue": 596745.0,
+      "rating": 4.5,
+      "reviews": 6909
+    },
+    {
+      "rank": 5,
+      "asin": "B0CW63B38Z",
+      "title": "Blink NutriTears Supplement for Dry Eyes, Lutein Zeaxanthin Vitamin D 50ct",
+      "brand": "BLINK",
+      "price": 23.97,
+      "salesParent": 22165,
+      "revenue": 526197.12,
+      "rating": 4.3,
+      "reviews": 4858
+    },
+    {
+      "rank": 6,
+      "asin": "B0013IRBGE",
+      "title": "TheraTears Dry Eye Lubricating Drops, Value Size, 1 Fl Oz",
+      "brand": "TheraTears",
+      "price": 13.18,
+      "salesParent": 41032,
+      "revenue": 515772.22,
+      "rating": 4.7,
+      "reviews": 34791
+    },
+    {
+      "rank": 7,
+      "asin": "B09TCZRG1K",
+      "title": "iVIZIA Sterile Lubricant Eye Drops for Dry Eyes, Preservative-Free, 5ml",
+      "brand": "iVIZIA",
+      "price": 9.84,
+      "salesParent": 41321,
+      "revenue": 436349.78,
+      "rating": 4.6,
+      "reviews": 2051
+    },
+    {
+      "rank": 8,
+      "asin": "B0BRNTR8Q8",
+      "title": "Systane Hydration Lubricating &amp; Hydrating Eye Drops, 0.34 fl oz, Twin Pack",
+      "brand": "Systane",
+      "price": 25.98,
+      "salesParent": 17532,
+      "revenue": 409898.16,
+      "rating": 4.6,
+      "reviews": 5044
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 44,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 44,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 9901857,
+    "priorHeadRevenue": 6879616,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 32,
+      "pct": 32,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 70,
+      "brandCount": 56,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.33,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B07CDN39DP",
+        "title": "Lumify Redness Relief Eye Drops, Whiter &amp; Brighter Looking Eyes, 0.08 oz",
+        "rating": 4.6,
+        "reviews": 43365
+      },
+      {
+        "rank": 2,
+        "asin": "B0DTZYRLR3",
+        "title": "Systane PRO PF Lubricating Eye Drops for Dry Eyes, 0.34 Fl Oz, 2 Pack",
+        "rating": 4.6,
+        "reviews": 3695
+      },
+      {
+        "rank": 3,
+        "asin": "B003UNOY7Y",
+        "title": "HydroEye Dry Eye Supplement, Clinically Tested, GLA &amp; Omega3s - 120 Count",
+        "rating": 4.6,
+        "reviews": 7296
+      },
+      {
+        "rank": 4,
+        "asin": "B088P7RDRR",
+        "title": "Optase Dry Eye Intense Drops - Preservative Free Eye Drops - Multidose Bottle - Step 3 Hydrate - .33 fl oz, 300 Doses",
+        "rating": 4.5,
+        "reviews": 6909
+      },
+      {
+        "rank": 5,
+        "asin": "B0CW63B38Z",
+        "title": "Blink NutriTears Supplement for Dry Eyes, Lutein Zeaxanthin Vitamin D 50ct",
+        "rating": 4.3,
+        "reviews": 4858
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3760941:3779691:21579651011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

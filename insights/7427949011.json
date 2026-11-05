@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "7427949011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Games & Accessories > Casino Equipment > Casino Prize Wheels",
+  "categoryPathCn": "玩具与游戏 > 游戏和配件 > 赌场设备 > 赌场奖轮",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 96,
+    "totalRevenue": 999065,
+    "avgRevenue": 10407,
+    "medianPrice": 40.99,
+    "priceBand": "$25.99 - $59.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0DFXPNQHS",
+      "title": "Facilife Prize Wheel, 12 Inch Spinning Wheel for Prizes, 10 Slots Color Prize Wheel Spinner with Stand, Table Spinning Wheel, Spin Wheel for Trade Shows, Carnivals, Spin the Wheel Game for Home Game",
+      "brand": "Facilife",
+      "price": 26.99,
+      "salesParent": 3901,
+      "revenue": 105287.99,
+      "rating": 4.3,
+      "reviews": 619
+    },
+    {
+      "rank": 2,
+      "asin": "B0DFWNKM14",
+      "title": "24-inch Spinning Prize Wheel, Ajustable 37&quot;-65&quot; Height Spin Doodle Game Spinner, Storable Prize Wheel Spinner with Stand, Wheel of Fortune Game, 14 Colors",
+      "brand": "GADFISH",
+      "price": 55.99,
+      "salesParent": 1288,
+      "revenue": 72115.13,
+      "rating": 4.5,
+      "reviews": 456
+    },
+    {
+      "rank": 3,
+      "asin": "B07HNWS7XJ",
+      "title": "12 Inch Heavy Duty Spinning Prize Wheel - 10 Slots Color Tabletop Roulette Spinner Wheel of Fortune - Spin The Wheel with Dry Erase Marker and Eraser Win The Fortune Spin Game for Trade Show",
+      "brand": "T-SIGN",
+      "price": 29.99,
+      "salesParent": 2010,
+      "revenue": 57847.8,
+      "rating": 4.0,
+      "reviews": 3215
+    },
+    {
+      "rank": 4,
+      "asin": "B0FLBN4MSB",
+      "title": "Pionites 12 Inch 12 Slots Prize Wheel Tabletop Fortune Spin with Dry Erase Marker and Eraser for Engaging Home Parties, Trade Show, Carnival Events (12'' 12slots)",
+      "brand": "Pionites",
+      "price": 24.98,
+      "salesParent": 2639,
+      "revenue": 53914.77,
+      "rating": 4.6,
+      "reviews": 333
+    },
+    {
+      "rank": 5,
+      "asin": "B07TBZDW8F",
+      "title": "12&quot; Prize Wheel Tabletop 14 Slots Heavy Duty Editable Spinning",
+      "brand": "WinSpin",
+      "price": 39.9,
+      "salesParent": 1196,
+      "revenue": 47720.4,
+      "rating": 4.7,
+      "reviews": 1303
+    },
+    {
+      "rank": 6,
+      "asin": "B0FLJWPPZD",
+      "title": "24-inch Prize Wheel, Adjustable Height Desktop &amp; Floor Stand Spinning Prize Wheel, Storable Prize Wheel Spinner, Suitable for Party, Carnivals and Tradeshow (32&quot;-61&quot;)",
+      "brand": "AugFir",
+      "price": 69.99,
+      "salesParent": 562,
+      "revenue": 39334.38,
+      "rating": 4.5,
+      "reviews": 95
+    },
+    {
+      "rank": 7,
+      "asin": "B0DM8LWFL5",
+      "title": "24-inch Tabletop Spinning Prize Wheel, Spin Doodle Game Spinner, Storable Prize Wheel Spinner with Stand, Wheel of Fortune Game, Suitable for Family Games, Party Games, 14 Colors",
+      "brand": "GADFISH",
+      "price": 45.99,
+      "salesParent": 698,
+      "revenue": 32101.02,
+      "rating": 4.3,
+      "reviews": 174
+    },
+    {
+      "rank": 8,
+      "asin": "B0DSJFDBMD",
+      "title": "Pionites Prize Wheel 8 INCH Tabletop Roulette Wheel of Fortune Spin with Dry Erase Marker for Engaging Home Parties, Trade Show, Carnival Events,Party Birthday Wedding Housewarming",
+      "brand": "Pionites",
+      "price": 9.98,
+      "salesParent": 2566,
+      "revenue": 25608.68,
+      "rating": 4.4,
+      "reviews": 701
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -9,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -9,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 999065,
+    "priorHeadRevenue": 1098765,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 96,
+      "newCount": 53,
+      "pct": 55,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 50,
+      "brandCount": 53,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.27,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0DFXPNQHS",
+        "title": "Facilife Prize Wheel, 12 Inch Spinning Wheel for Prizes, 10 Slots Color Prize Wheel Spinner with Stand, Table Spinning Wheel, Spin Wheel for Trade Shows, Carnivals, Spin the Wheel Game for Home Game",
+        "rating": 4.3,
+        "reviews": 619
+      },
+      {
+        "rank": 2,
+        "asin": "B0DFWNKM14",
+        "title": "24-inch Spinning Prize Wheel, Ajustable 37&quot;-65&quot; Height Spin Doodle Game Spinner, Storable Prize Wheel Spinner with Stand, Wheel of Fortune Game, 14 Colors",
+        "rating": 4.5,
+        "reviews": 456
+      },
+      {
+        "rank": 3,
+        "asin": "B07HNWS7XJ",
+        "title": "12 Inch Heavy Duty Spinning Prize Wheel - 10 Slots Color Tabletop Roulette Spinner Wheel of Fortune - Spin The Wheel with Dry Erase Marker and Eraser Win The Fortune Spin Game for Trade Show",
+        "rating": 4.0,
+        "reviews": 3215
+      },
+      {
+        "rank": 4,
+        "asin": "B0FLBN4MSB",
+        "title": "Pionites 12 Inch 12 Slots Prize Wheel Tabletop Fortune Spin with Dry Erase Marker and Eraser for Engaging Home Parties, Trade Show, Carnival Events (12'' 12slots)",
+        "rating": 4.6,
+        "reviews": 333
+      },
+      {
+        "rank": 5,
+        "asin": "B07TBZDW8F",
+        "title": "12&quot; Prize Wheel Tabletop 14 Slots Heavy Duty Editable Spinning",
+        "rating": 4.7,
+        "reviews": 1303
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166220011:13291101:7427949011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

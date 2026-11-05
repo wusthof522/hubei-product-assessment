@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "6925888011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Remote & App Controlled Vehicles & Parts > Remote & App Controlled Vehicle Parts > RC Turnbuckles & Pro-Links",
+  "categoryPathCn": "玩具 > 遥控 > 遥控 > RC转接头",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 98,
+    "totalRevenue": 43130,
+    "avgRevenue": 440,
+    "medianPrice": 19.73,
+    "priceBand": "$12.98 - $25.42",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0DQV3CST2",
+      "title": "INJORA Adjustable Stainless Steel Links Set for Losi Micro-B Micro-T",
+      "brand": "INJORA",
+      "price": 13.99,
+      "salesParent": 166,
+      "revenue": 2322.34,
+      "rating": 4.3,
+      "reviews": 235
+    },
+    {
+      "rank": 2,
+      "asin": "B0CPPN7914",
+      "title": "Upgrades Part for 1/10 Rustler 4x4 VXL/Rustler 4x4,Alloy Turnbuckles Camber Links,Suspension Arm,Caster Block,Steering Blocks,Rear Stub Axle Carriers,Steering Bellcranks,Shock Tower,Navy Blue",
+      "brand": "RCMYou",
+      "price": 79.99,
+      "salesParent": 15,
+      "revenue": 1149.9,
+      "rating": 3.8,
+      "reviews": 7
+    },
+    {
+      "rank": 3,
+      "asin": "B0G396X8ZX",
+      "title": "Stainless Steel Turnbuckles with Spacers for Slash Rustler,Silver",
+      "brand": "XZSNLYZ",
+      "price": 28.98,
+      "salesParent": 44,
+      "revenue": 1103.52,
+      "rating": 4.7,
+      "reviews": 20
+    },
+    {
+      "rank": 4,
+      "asin": "B081LMD8RQ",
+      "title": "Traxxas 8997X Toe Links, Wide Maxx (Tubes 6061-T6 Aluminum (Blue-Anodized))",
+      "brand": "Traxxas",
+      "price": 39.95,
+      "salesParent": 27,
+      "revenue": 1078.65,
+      "rating": 4.9,
+      "reviews": 72
+    },
+    {
+      "rank": 5,
+      "asin": "B0D8KXVG5Y",
+      "title": "RC Adjustable Turnbuckles Camber Links Steering Links Upgrades Part for 1/8 Typhon 4WD 3S MEGA 550 BLX,1/10 Big Rock 4X4 V3 3S BLX RC Car,Tie Rod Set Link Linkage Rod Adjustable,Red(6PCS)",
+      "brand": "hopsupRC",
+      "price": 24.89,
+      "salesParent": 40,
+      "revenue": 995.6,
+      "rating": 4.7,
+      "reviews": 27
+    },
+    {
+      "rank": 6,
+      "asin": "B0CPPSTKBT",
+      "title": "Upgrades Part for 1/10 Slash/Rustler/Stampede/Hoss 4x4 VXL 4wd,Alloy Turnbuckles Camber Links,Caster Block,Steering Blocks,Rear Stub Axle Carriers,Steering Bellcranks,Suspension Arm,Navy Blue",
+      "brand": "RCMYou",
+      "price": 69.99,
+      "salesParent": 14,
+      "revenue": 979.86,
+      "rating": 5.0,
+      "reviews": 7
+    },
+    {
+      "rank": 7,
+      "asin": "B0BHMYBNJR",
+      "title": "ARRMA Assembled Turnbuckle Set, ARA330766",
+      "brand": "ARRMA",
+      "price": 24.99,
+      "salesParent": 38,
+      "revenue": 949.62,
+      "rating": 4.8,
+      "reviews": 42
+    },
+    {
+      "rank": 8,
+      "asin": "B08GGDFBBH",
+      "title": "Yeah Racing MRMX-004 Titanium Tie Rod Turnbuckle Set : MST RMX2.0",
+      "brand": "Yeah Racing",
+      "price": 28.99,
+      "salesParent": 32,
+      "revenue": 927.68,
+      "rating": 4.6,
+      "reviews": 47
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -22,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -22,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 43130,
+    "priorHeadRevenue": 55505,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 98,
+      "newCount": 35,
+      "pct": 36,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 36,
+      "brandCount": 51,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.36,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0DQV3CST2",
+        "title": "INJORA Adjustable Stainless Steel Links Set for Losi Micro-B Micro-T",
+        "rating": 4.3,
+        "reviews": 235
+      },
+      {
+        "rank": 2,
+        "asin": "B0CPPN7914",
+        "title": "Upgrades Part for 1/10 Rustler 4x4 VXL/Rustler 4x4,Alloy Turnbuckles Camber Links,Suspension Arm,Caster Block,Steering Blocks,Rear Stub Axle Carriers,Steering Bellcranks,Shock Tower,Navy Blue",
+        "rating": 3.8,
+        "reviews": 7
+      },
+      {
+        "rank": 3,
+        "asin": "B0G396X8ZX",
+        "title": "Stainless Steel Turnbuckles with Spacers for Slash Rustler,Silver",
+        "rating": 4.7,
+        "reviews": 20
+      },
+      {
+        "rank": 4,
+        "asin": "B081LMD8RQ",
+        "title": "Traxxas 8997X Toe Links, Wide Maxx (Tubes 6061-T6 Aluminum (Blue-Anodized))",
+        "rating": 4.9,
+        "reviews": 72
+      },
+      {
+        "rank": 5,
+        "asin": "B0D8KXVG5Y",
+        "title": "RC Adjustable Turnbuckles Camber Links Steering Links Upgrades Part for 1/8 Typhon 4WD 3S MEGA 550 BLX,1/10 Big Rock 4X4 V3 3S BLX RC Car,Tie Rod Set Link Linkage Rod Adjustable,Red(6PCS)",
+        "rating": 4.7,
+        "reviews": 27
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:6925830011:2234126011:6925888011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

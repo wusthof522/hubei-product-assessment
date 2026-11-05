@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23466451011",
+  "level": "L4",
+  "categoryPathEn": "Clothing, Shoes & Jewelry > Sport Specific Clothing > Ice Skating > Boys",
+  "categoryPathCn": "服装、鞋履和珠宝 > 运动专用服装 > 溜冰 > 男孩们",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "insufficient",
+  "marketSize": {
+    "sampleCount": 11,
+    "totalRevenue": 182,
+    "avgRevenue": 17,
+    "medianPrice": 79.0,
+    "priceBand": "$19.28 - $155.0",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0H7YL1WL9",
+      "title": "Ice Figure Skating Training Suit for Boys Long Sleeve Shiny Rhinestones Metallic Top with Straight-Leg Pants",
+      "brand": "Shinsto",
+      "price": 30.28,
+      "salesParent": 6,
+      "revenue": 181.68,
+      "rating": 5.0,
+      "reviews": 1
+    },
+    {
+      "rank": 2,
+      "asin": "B0B4K17KW3",
+      "title": "LIUHUO Figure Skating Suit Men And Boys Black High Elastic Breathable Four Seasons Plus Velvet Long Sleeve",
+      "brand": "LIUHUO",
+      "price": 85.9,
+      "salesParent": 0,
+      "revenue": 0.0,
+      "rating": 5.0,
+      "reviews": 1
+    },
+    {
+      "rank": 3,
+      "asin": "B0B4JX97PB",
+      "title": "LIUHUO Boys and Men's Figure Skating Wear, Handmade Rhinestone Shiny Bodysuit",
+      "brand": "LIUHUO",
+      "price": 155.0,
+      "salesParent": 0,
+      "revenue": 0.0,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "rank": 4,
+      "asin": "B0C8FN6HCF",
+      "title": "LIUHUO Figure Skating Suit Men And Boys Black High Elastic Breathable Four Seasons Plus Velvet Long Sleeve",
+      "brand": "LIUHUO",
+      "price": 79.9,
+      "salesParent": 0,
+      "revenue": 0.0,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "rank": 5,
+      "asin": "B0D415LMLH",
+      "title": "Men's Performance Figure Skating Costume for Adult Competitions",
+      "brand": "JoyCan",
+      "price": 79.0,
+      "salesParent": 0,
+      "revenue": 0.0,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "rank": 6,
+      "asin": "B0GGHJ27GQ",
+      "title": "Boys 2-piece Figure Skating Clothing Set Color Block Long Sleeve Back Zipper Top with Pants Gymnastics Dancewear",
+      "brand": "Ocealan",
+      "price": 19.28,
+      "salesParent": 0,
+      "revenue": 0.0,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "rank": 7,
+      "asin": "B0GRV53T99",
+      "title": "Kids Boys Figure Skating Lyrical Dance Outfits Rhinestones Long Sleeve T-shirt with Elastic Pants Gym Training Suit",
+      "brand": "Lorilida",
+      "price": 19.28,
+      "salesParent": 0,
+      "revenue": 0.0,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "rank": 8,
+      "asin": "B0GTKH8BPZ",
+      "title": "YiZYiF Boys' Gymnastic Competition Costume Figure Ice Skating Outfits",
+      "brand": "YiZYiF",
+      "price": 8.99,
+      "salesParent": 0,
+      "revenue": 0.0,
+      "rating": null,
+      "reviews": null
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": null,
+    "direction": "flat",
+    "comparable": null,
+    "rawYoyPct": -44,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 182,
+    "priorHeadRevenue": 327,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 11,
+      "newCount": 8,
+      "pct": 73,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 100,
+      "brandCount": 8,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 5.0,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0H7YL1WL9",
+        "title": "Ice Figure Skating Training Suit for Boys Long Sleeve Shiny Rhinestones Metallic Top with Straight-Leg Pants",
+        "rating": 5.0,
+        "reviews": 1
+      },
+      {
+        "rank": 2,
+        "asin": "B0B4K17KW3",
+        "title": "LIUHUO Figure Skating Suit Men And Boys Black High Elastic Breathable Four Seasons Plus Velvet Long Sleeve",
+        "rating": 5.0,
+        "reviews": 1
+      },
+      {
+        "rank": 3,
+        "asin": "B0B4JX97PB",
+        "title": "LIUHUO Boys and Men's Figure Skating Wear, Handmade Rhinestone Shiny Bodysuit",
+        "rating": null,
+        "reviews": null
+      },
+      {
+        "rank": 4,
+        "asin": "B0C8FN6HCF",
+        "title": "LIUHUO Figure Skating Suit Men And Boys Black High Elastic Breathable Four Seasons Plus Velvet Long Sleeve",
+        "rating": null,
+        "reviews": null
+      },
+      {
+        "rank": 5,
+        "asin": "B0D415LMLH",
+        "title": "Men's Performance Figure Skating Costume for Adult Competitions",
+        "rating": null,
+        "reviews": null
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "7141123011:23575629011:10208069011:23466451011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

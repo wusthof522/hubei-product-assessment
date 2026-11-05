@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "15356231",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Household Supplies > Air Fresheners > Electric",
+  "categoryPathCn": "健康与家居 > 家居用品 > 空气清新 > 电动",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 89,
+    "totalRevenue": 14433446,
+    "avgRevenue": 162174,
+    "medianPrice": 14.99,
+    "priceBand": "$11.44 - $22.46",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0BKH5W88Y",
+      "title": "Glade PlugIns Air Freshener Refills, Cashmere Woods, 10 Count",
+      "brand": "Glade",
+      "price": 20.28,
+      "salesParent": 120500,
+      "revenue": 2340110.0,
+      "rating": 4.7,
+      "reviews": 22070
+    },
+    {
+      "rank": 2,
+      "asin": "B07X6141FG",
+      "title": "Air Wick Plug-In Refills, Apple Cinnamon Medley, Essential Oils,10 count",
+      "brand": "Air Wick",
+      "price": 21.98,
+      "salesParent": 46077,
+      "revenue": 1140866.5,
+      "rating": 4.7,
+      "reviews": 43189
+    },
+    {
+      "rank": 3,
+      "asin": "B077K2FMNQ",
+      "title": "Glade PlugIns Refills Air Freshener, Scented and Essential Oils for Home and Bathroom, Cashmere Woods, 3.35 Fl Oz, 5 Count",
+      "brand": "Glade",
+      "price": 11.98,
+      "salesParent": 80028,
+      "revenue": 958735.38,
+      "rating": 4.7,
+      "reviews": 71993
+    },
+    {
+      "rank": 4,
+      "asin": "B09S4T74JD",
+      "title": "Febreze Bathroom Air Freshener Odor-Fighting for Small Spaces Scented Plug In Alternative Long-Lasting for Home and Bathroom and Kitchen Closet Air Fresheners, Linen &amp; Sky Scent, 4 Count",
+      "brand": "Febreze",
+      "price": 9.84,
+      "salesParent": 84885,
+      "revenue": 733406.44,
+      "rating": 4.4,
+      "reviews": 91167
+    },
+    {
+      "rank": 5,
+      "asin": "B07QKL4W1V",
+      "title": "Air Wick Plug In Refills with Essential Oils, Fresh Linen, 10 count",
+      "brand": "Air Wick",
+      "price": 29.99,
+      "salesParent": 23081,
+      "revenue": 664963.62,
+      "rating": 4.7,
+      "reviews": 32085
+    },
+    {
+      "rank": 6,
+      "asin": "B0F6G2JWCY",
+      "title": "Glade® PlugIns® Scented Oil 5 Refills, Air Freshener, Golden Pumpkin &amp; Spice, 3.35 fl oz, Pack of 5",
+      "brand": "Glade",
+      "price": 11.98,
+      "salesParent": 50257,
+      "revenue": 600571.12,
+      "rating": 4.7,
+      "reviews": 4852
+    },
+    {
+      "rank": 7,
+      "asin": "B07QLQ3QP5",
+      "title": "Air Wick Plug In Refills Fresh Waters, Essential Oils,10 Count",
+      "brand": "Air Wick",
+      "price": 22.46,
+      "salesParent": 22628,
+      "revenue": 508224.84,
+      "rating": 4.7,
+      "reviews": 28592
+    },
+    {
+      "rank": 8,
+      "asin": "B08S2XV852",
+      "title": "Air Wick Essential Mist, Lavender &amp; Almond Blossom Diffuser Refill, 3 count",
+      "brand": "Air Wick",
+      "price": 13.98,
+      "salesParent": 21669,
+      "revenue": 312250.28,
+      "rating": 4.7,
+      "reviews": 30337
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -26,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -26,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 14433446,
+    "priorHeadRevenue": 19618767,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 89,
+      "newCount": 30,
+      "pct": 34,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 96,
+      "brandCount": 10,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.59,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0BKH5W88Y",
+        "title": "Glade PlugIns Air Freshener Refills, Cashmere Woods, 10 Count",
+        "rating": 4.7,
+        "reviews": 22070
+      },
+      {
+        "rank": 2,
+        "asin": "B07X6141FG",
+        "title": "Air Wick Plug-In Refills, Apple Cinnamon Medley, Essential Oils,10 count",
+        "rating": 4.7,
+        "reviews": 43189
+      },
+      {
+        "rank": 3,
+        "asin": "B077K2FMNQ",
+        "title": "Glade PlugIns Refills Air Freshener, Scented and Essential Oils for Home and Bathroom, Cashmere Woods, 3.35 Fl Oz, 5 Count",
+        "rating": 4.7,
+        "reviews": 71993
+      },
+      {
+        "rank": 4,
+        "asin": "B09S4T74JD",
+        "title": "Febreze Bathroom Air Freshener Odor-Fighting for Small Spaces Scented Plug In Alternative Long-Lasting for Home and Bathroom and Kitchen Closet Air Fresheners, Linen &amp; Sky Scent, 4 Count",
+        "rating": 4.4,
+        "reviews": 91167
+      },
+      {
+        "rank": 5,
+        "asin": "B07QKL4W1V",
+        "title": "Air Wick Plug In Refills with Essential Oils, Fresh Linen, 10 count",
+        "rating": 4.7,
+        "reviews": 32085
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:15342811:15356121:15356231",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3043471",
+  "level": "L2",
+  "categoryPathEn": "Patio, Lawn & Garden > Snow Removal",
+  "categoryPathCn": "庭院、草坪和园艺 > 除雪工具",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 88,
+    "totalRevenue": 13310461,
+    "avgRevenue": 151255,
+    "medianPrice": 274.49,
+    "priceBand": "$162.49 - $852.0",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B09FQ2WSKK",
+      "title": "EGO Power+ 21&quot; Electric Snow Blower, Gray/Black, Cordless Steel Auger, Includes (2) 56V 5.0Ah Batteries and Dual Port Charger, SNT2112",
+      "brand": "EGO Power+",
+      "price": 749.0,
+      "salesParent": 3624,
+      "revenue": 2690530.0,
+      "rating": 4.3,
+      "reviews": 1149
+    },
+    {
+      "rank": 2,
+      "asin": "B0DLQHWY77",
+      "title": "EGO Power+ 12&quot; Electric Snow Shovel, Cordless, Battery and Charger Not Included - SNS1200",
+      "brand": "EGO Power+",
+      "price": 279.0,
+      "salesParent": 3462,
+      "revenue": 946441.56,
+      "rating": 4.3,
+      "reviews": 123
+    },
+    {
+      "rank": 3,
+      "asin": "B0HHN34679",
+      "title": "VOLTASK 24V Cordless Snow Shovel, 13.2 Inch Electric Snow Blower, 23 Ft Snow Thrower, 4Ah Battery Snow Shovel with Directional Plate &amp; Adjustable Handle (Battery &amp; Quick Charger Included), Orange",
+      "brand": "VOLTASK",
+      "price": 129.99,
+      "salesParent": 2130,
+      "revenue": 292917.59,
+      "rating": 4.4,
+      "reviews": 2146
+    },
+    {
+      "rank": 4,
+      "asin": "B0HJ1C59F9",
+      "title": "VOLTASK 48V 16-Inch Electric Snow Shovel with Wheels, 1200W Brushless Motor",
+      "brand": "VOLTASK",
+      "price": 229.99,
+      "salesParent": 1334,
+      "revenue": 288744.28,
+      "rating": 4.3,
+      "reviews": 1117
+    },
+    {
+      "rank": 5,
+      "asin": "B07MJTKFGL",
+      "title": "Greenworks 80V (75+ Compatible Tools) 22” Brushless Cordless Snow Blower, 4.0Ah Battery and Charger Included",
+      "brand": "Greenworks",
+      "price": 733.95,
+      "salesParent": 375,
+      "revenue": 275231.25,
+      "rating": 3.6,
+      "reviews": 42
+    },
+    {
+      "rank": 6,
+      "asin": "B0H6WWKXKP",
+      "title": "40V Brushless Cordless Snow Shovel, 13Inch Electric Snow Blower with 3 * 4.0 Ah Battery and Charger, Battery Powered Snow Shovel with 25FT Throw Distance for Driveway,Steps, Patio, Sidewalk",
+      "brand": "BAOPROLEI",
+      "price": 229.9,
+      "salesParent": 975,
+      "revenue": 272580.75,
+      "rating": 4.8,
+      "reviews": 36
+    },
+    {
+      "rank": 7,
+      "asin": "B01MZH6E6E",
+      "title": "Snow Joe Premium Enviro Blend Ice Melt &amp; Deicer, Safer for Concrete, 50 lb",
+      "brand": "Snow Joe",
+      "price": 34.97,
+      "salesParent": 7683,
+      "revenue": 268674.53,
+      "rating": 4.5,
+      "reviews": 5461
+    },
+    {
+      "rank": 8,
+      "asin": "B00RZHF12S",
+      "title": "Buyers Products SaltDogg SHPE1000 Commercial Salt &amp; Sand Spreader w/ Electric Drive Hopper, Made In The USA, 1.0 Cu Yds Capacity, Stainless Steel Auger, Light/Medium Duty Commercial Salt Spreader",
+      "brand": "SaltDogg",
+      "price": 4664.45,
+      "salesParent": 58,
+      "revenue": 266859.16,
+      "rating": 4.2,
+      "reviews": 30
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 73,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 73,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 13310461,
+    "priorHeadRevenue": 7681969,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 88,
+      "newCount": 40,
+      "pct": 45,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 53,
+      "brandCount": 45,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.37,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B09FQ2WSKK",
+        "title": "EGO Power+ 21&quot; Electric Snow Blower, Gray/Black, Cordless Steel Auger, Includes (2) 56V 5.0Ah Batteries and Dual Port Charger, SNT2112",
+        "rating": 4.3,
+        "reviews": 1149
+      },
+      {
+        "rank": 2,
+        "asin": "B0DLQHWY77",
+        "title": "EGO Power+ 12&quot; Electric Snow Shovel, Cordless, Battery and Charger Not Included - SNS1200",
+        "rating": 4.3,
+        "reviews": 123
+      },
+      {
+        "rank": 3,
+        "asin": "B0HHN34679",
+        "title": "VOLTASK 24V Cordless Snow Shovel, 13.2 Inch Electric Snow Blower, 23 Ft Snow Thrower, 4Ah Battery Snow Shovel with Directional Plate &amp; Adjustable Handle (Battery &amp; Quick Charger Included), Orange",
+        "rating": 4.4,
+        "reviews": 2146
+      },
+      {
+        "rank": 4,
+        "asin": "B0HJ1C59F9",
+        "title": "VOLTASK 48V 16-Inch Electric Snow Shovel with Wheels, 1200W Brushless Motor",
+        "rating": 4.3,
+        "reviews": 1117
+      },
+      {
+        "rank": 5,
+        "asin": "B07MJTKFGL",
+        "title": "Greenworks 80V (75+ Compatible Tools) 22” Brushless Cordless Snow Blower, 4.0Ah Battery and Charger Included",
+        "rating": 3.6,
+        "reviews": 42
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "2972638011:3043471",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

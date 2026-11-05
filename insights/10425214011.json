@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "10425214011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Tricycles, Scooters & Wagons > Ride-On Parts & Accessories > Ride-On Replacement Parts",
+  "categoryPathCn": "玩具 > 三轮车、滑板车 > 乘用车零件 > 乘用车替换零件",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 945316,
+    "avgRevenue": 9453,
+    "medianPrice": 49.98,
+    "priceBand": "$26.99 - $87.48",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0DJ9TYNBR",
+      "title": "Mighty Max Battery Extended Range Drop in Replacement for 12v Razor ride on toy 7ah battery kit and harness",
+      "brand": "Mighty Max Battery",
+      "price": 54.99,
+      "salesParent": 967,
+      "revenue": 53175.33,
+      "rating": 4.3,
+      "reviews": 317
+    },
+    {
+      "rank": 2,
+      "asin": "B0F2HP3S8J",
+      "title": "24V 10Ah Lithium Battery for Kid Ride On Toys with 29.4V 1A Charger, 1 Pack",
+      "brand": "Lithium Hellas",
+      "price": 58.64,
+      "salesParent": 685,
+      "revenue": 47223.9,
+      "rating": 4.6,
+      "reviews": 292
+    },
+    {
+      "rank": 3,
+      "asin": "B00002EQAF",
+      "title": "Peg Perego Official 12 Volt Replacement Battery for Ride on Toys. All Season Performance. Works with John Deere, Polaris, and Case IH licensed Peg Perego Ride on Toys",
+      "brand": "Peg Perego",
+      "price": 79.99,
+      "salesParent": 731,
+      "revenue": 43457.95,
+      "rating": 4.5,
+      "reviews": 5308
+    },
+    {
+      "rank": 4,
+      "asin": "B07GLV6GVH",
+      "title": "FLHFULIHUA 12 Volt Battery Charger for Kids Ride on Toys - Universal Charger for Best Choice Products Wrangler SUV，Kid Trax Dynacraft ，Kidzone Bumper, ETL Listed",
+      "brand": "FLHFULIHUA",
+      "price": 12.65,
+      "salesParent": 2641,
+      "revenue": 33408.65,
+      "rating": 4.5,
+      "reviews": 7614
+    },
+    {
+      "rank": 5,
+      "asin": "B0DF27Z3Q6",
+      "title": "OTTARO 24V 7AH Battery for Ride on Car UTV,Size 7.4 x 4.05 x 4 inches",
+      "brand": "OTTARO",
+      "price": 109.99,
+      "salesParent": 287,
+      "revenue": 31567.13,
+      "rating": 4.3,
+      "reviews": 109
+    },
+    {
+      "rank": 6,
+      "asin": "B0DCRNVQH9",
+      "title": "12 Volt Battery for Peg Perego John Deere Gator Polaris Gaucho Rock'in Case Ih Tractor Ride On 12v 12ah Replacement Battery for Peg-Perego Kid's Toys Car",
+      "brand": "FACJOYMOOU",
+      "price": 54.98,
+      "salesParent": 554,
+      "revenue": 30442.3,
+      "rating": 4.2,
+      "reviews": 215
+    },
+    {
+      "rank": 7,
+      "asin": "B0DG531L8L",
+      "title": "24V 7Ah/12Ah Lithium Battery for Ride-On Cars &amp; Toys and power wheels, Compatible with Dynacraft Realtree 24V UTVs- Lightweight &amp; Long-Lasting, with 2A Fast Charger,Size: 8.5x4.2x4.5 inches (24V7Ah)",
+      "brand": "VATOSO",
+      "price": 99.98,
+      "salesParent": 302,
+      "revenue": 29224.54,
+      "rating": 4.3,
+      "reviews": 88
+    },
+    {
+      "rank": 8,
+      "asin": "B0C6T9TY3N",
+      "title": "24V Charger for Kids Ride On Car Toys 24 Volt Battery Charger Wrangler SUV Kid Trax Dynacraft Toy Car Jeep ATV Quad Disney Electric Ride-On Charger 24V Battery Charger",
+      "brand": "LAZORA",
+      "price": 13.88,
+      "salesParent": 2014,
+      "revenue": 27954.32,
+      "rating": 4.5,
+      "reviews": 613
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 15,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 15,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 945316,
+    "priorHeadRevenue": 819107,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 50,
+      "pct": 50,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 34,
+      "brandCount": 53,
+      "level": "分散",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.34,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0DJ9TYNBR",
+        "title": "Mighty Max Battery Extended Range Drop in Replacement for 12v Razor ride on toy 7ah battery kit and harness",
+        "rating": 4.3,
+        "reviews": 317
+      },
+      {
+        "rank": 2,
+        "asin": "B0F2HP3S8J",
+        "title": "24V 10Ah Lithium Battery for Kid Ride On Toys with 29.4V 1A Charger, 1 Pack",
+        "rating": 4.6,
+        "reviews": 292
+      },
+      {
+        "rank": 3,
+        "asin": "B00002EQAF",
+        "title": "Peg Perego Official 12 Volt Replacement Battery for Ride on Toys. All Season Performance. Works with John Deere, Polaris, and Case IH licensed Peg Perego Ride on Toys",
+        "rating": 4.5,
+        "reviews": 5308
+      },
+      {
+        "rank": 4,
+        "asin": "B07GLV6GVH",
+        "title": "FLHFULIHUA 12 Volt Battery Charger for Kids Ride on Toys - Universal Charger for Best Choice Products Wrangler SUV，Kid Trax Dynacraft ，Kidzone Bumper, ETL Listed",
+        "rating": 4.5,
+        "reviews": 7614
+      },
+      {
+        "rank": 5,
+        "asin": "B0DF27Z3Q6",
+        "title": "OTTARO 24V 7AH Battery for Ride on Car UTV,Size 7.4 x 4.05 x 4 inches",
+        "rating": 4.3,
+        "reviews": 109
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:256994011:23538169011:10425214011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

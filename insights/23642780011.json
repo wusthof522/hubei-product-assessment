@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23642780011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Toy Figures & Playsets > Play Figure Vehicles > Trucks",
+  "categoryPathCn": "玩具 > 玩具图 > 游戏人物车辆 > 卡车",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 74,
+    "totalRevenue": 371294,
+    "avgRevenue": 5017,
+    "medianPrice": 25.03,
+    "priceBand": "$15.8 - $33.98",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0CPN7F49B",
+      "title": "Fisher-Price Little People Fire Truck Toddler Toy",
+      "brand": "Fisher-Price",
+      "price": 30.88,
+      "salesParent": 5112,
+      "revenue": 106125.0,
+      "rating": 4.8,
+      "reviews": 1801
+    },
+    {
+      "rank": 2,
+      "asin": "B0C8JRXFDC",
+      "title": "Traxxas XRT 8s 4X4 Racing Monster Truck (Black)",
+      "brand": "Traxxas",
+      "price": 1099.95,
+      "salesParent": 29,
+      "revenue": 31898.55,
+      "rating": 4.6,
+      "reviews": 84
+    },
+    {
+      "rank": 3,
+      "asin": "B0DTC2HD2F",
+      "title": "Monster Jam Smash &amp; Bash Megalodon &amp; El Toro Loco Repairable 2-Pack",
+      "brand": "Monster Jam",
+      "price": 23.64,
+      "salesParent": 1051,
+      "revenue": 23742.09,
+      "rating": 4.6,
+      "reviews": 190
+    },
+    {
+      "rank": 4,
+      "asin": "B0G69T6GFW",
+      "title": "Green Toys Pink Dump Truck – Toddler Vehicle",
+      "brand": "Green Toys",
+      "price": 14.91,
+      "salesParent": 1165,
+      "revenue": 22286.45,
+      "rating": 4.8,
+      "reviews": 96
+    },
+    {
+      "rank": 5,
+      "asin": "B0DSCJCVJ2",
+      "title": "Paw Patrol Fire Rescue Rubble Fire Dump Truck Toy Vehicle Set",
+      "brand": "Paw Patrol",
+      "price": 14.99,
+      "salesParent": 1393,
+      "revenue": 19794.53,
+      "rating": 4.8,
+      "reviews": 50
+    },
+    {
+      "rank": 6,
+      "asin": "B0DSCDXQF1",
+      "title": "PAW Patrol Fire Rescue Rapid Reload Fire Truck Toy with Marshall Figure",
+      "brand": "Paw Patrol",
+      "price": 58.66,
+      "salesParent": 367,
+      "revenue": 19238.14,
+      "rating": 4.8,
+      "reviews": 436
+    },
+    {
+      "rank": 7,
+      "asin": "B0CZC2JQBP",
+      "title": "NKOK Blaze and the Monster Machines Free-Wheel Toy Cars (5PK), Blaze, Pickle, Crusher, Stripes &amp; Darington | 3-Inch Vehicles, Grippy Rubber Tires, Pivoting Axles, No Batteries, STEM-Inspired Play",
+      "brand": "NKOK",
+      "price": 24.99,
+      "salesParent": 415,
+      "revenue": 9864.55,
+      "rating": 4.7,
+      "reviews": 277
+    },
+    {
+      "rank": 8,
+      "asin": "B0DSCHP12V",
+      "title": "PAW Patrol Pup Squad Racers 6-Pack Collectible Toy Car Vehicles",
+      "brand": "Paw Patrol",
+      "price": 24.99,
+      "salesParent": 419,
+      "revenue": 9833.93,
+      "rating": 4.7,
+      "reviews": 271
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -30,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -30,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 371294,
+    "priorHeadRevenue": 531389,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 74,
+      "newCount": 44,
+      "pct": 59,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 71,
+      "brandCount": 40,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.65,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0CPN7F49B",
+        "title": "Fisher-Price Little People Fire Truck Toddler Toy",
+        "rating": 4.8,
+        "reviews": 1801
+      },
+      {
+        "rank": 2,
+        "asin": "B0C8JRXFDC",
+        "title": "Traxxas XRT 8s 4X4 Racing Monster Truck (Black)",
+        "rating": 4.6,
+        "reviews": 84
+      },
+      {
+        "rank": 3,
+        "asin": "B0DTC2HD2F",
+        "title": "Monster Jam Smash &amp; Bash Megalodon &amp; El Toro Loco Repairable 2-Pack",
+        "rating": 4.6,
+        "reviews": 190
+      },
+      {
+        "rank": 4,
+        "asin": "B0G69T6GFW",
+        "title": "Green Toys Pink Dump Truck – Toddler Vehicle",
+        "rating": 4.8,
+        "reviews": 96
+      },
+      {
+        "rank": 5,
+        "asin": "B0DSCJCVJ2",
+        "title": "Paw Patrol Fire Rescue Rubble Fire Dump Truck Toy Vehicle Set",
+        "rating": 4.8,
+        "reviews": 50
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:165993011:274293011:23642780011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

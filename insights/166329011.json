@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "166329011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Learning & Education > Musical Instruments > Pianos & Keyboards",
+  "categoryPathCn": "玩具 > 学习 > 乐器 > 钢琴",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 2064506,
+    "avgRevenue": 20645,
+    "medianPrice": 44.34,
+    "priceBand": "$22.99 - $79.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0CBQRXNVW",
+      "title": "Fisher-Price Glow and Grow Kick &amp; Play Piano Gym, Blue",
+      "brand": "Fisher-Price",
+      "price": 42.97,
+      "salesParent": 11611,
+      "revenue": 494976.94,
+      "rating": 4.8,
+      "reviews": 3626
+    },
+    {
+      "rank": 2,
+      "asin": "B0GFGLD4TW",
+      "title": "Clickeez Series 3 Keyboard Mega Pack | Includes a Keyboard Collectors Case &amp; 12 Bubble Pops-Themed (Including 3 Light-UP) Clickeez | Clickable Collectibles | Ages 6+",
+      "brand": "Clickeez",
+      "price": 32.49,
+      "salesParent": 13530,
+      "revenue": 455961.0,
+      "rating": 4.6,
+      "reviews": 186
+    },
+    {
+      "rank": 3,
+      "asin": "B0BGJFB1C5",
+      "title": "FOKI Floor Piano Mat, Baby &amp; Toddler Toys for 1-3 Year Old Boys &amp; Girls",
+      "brand": "Foki",
+      "price": 24.99,
+      "salesParent": 4164,
+      "revenue": 99477.96,
+      "rating": 4.6,
+      "reviews": 3204
+    },
+    {
+      "rank": 4,
+      "asin": "B0CDB7F7W3",
+      "title": "Baby Toys for 1 Year Old: 2 in 1 Baby Musical Mat Toddler Toys Age 1-2",
+      "brand": "Aitbay",
+      "price": 22.99,
+      "salesParent": 2593,
+      "revenue": 59613.07,
+      "rating": 4.5,
+      "reviews": 1932
+    },
+    {
+      "rank": 5,
+      "asin": "B01M5AWZKC",
+      "title": "Floor Piano Mat, Toddler Girl Toys Musical Mat, 1 2 3 Year Old Girl Gifts",
+      "brand": "M SANMERSEN",
+      "price": 19.79,
+      "salesParent": 2151,
+      "revenue": 46676.7,
+      "rating": 4.4,
+      "reviews": 27789
+    },
+    {
+      "rank": 6,
+      "asin": "B0B528TVYJ",
+      "title": "Kids Piano Keyboard, 37 Keys Digital Piano for Kids, Music Educational Instrument Toy, Wood Piano for 3+ Girls and Boys",
+      "brand": "ZIPPY",
+      "price": 139.99,
+      "salesParent": 304,
+      "revenue": 42556.96,
+      "rating": 4.8,
+      "reviews": 343
+    },
+    {
+      "rank": 7,
+      "asin": "B0DB61JF55",
+      "title": "FOKI 3-in-1 Floor Piano Mat, Musical Toys for Toddlers 1-3, Baby Music Mat",
+      "brand": "Foki",
+      "price": 26.99,
+      "salesParent": 1508,
+      "revenue": 39630.24,
+      "rating": 4.4,
+      "reviews": 510
+    },
+    {
+      "rank": 8,
+      "asin": "B08P5K9Y8Y",
+      "title": "Baby Piano Toys 6-12 Months, Elephant Piano Keyboard Newborn &amp; Infant Toys",
+      "brand": "WITALENT",
+      "price": 14.39,
+      "salesParent": 1974,
+      "revenue": 36420.3,
+      "rating": 4.6,
+      "reviews": 4928
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -29,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -29,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 2064506,
+    "priorHeadRevenue": 2902376,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 38,
+      "pct": 38,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 63,
+      "brandCount": 60,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.45,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0CBQRXNVW",
+        "title": "Fisher-Price Glow and Grow Kick &amp; Play Piano Gym, Blue",
+        "rating": 4.8,
+        "reviews": 3626
+      },
+      {
+        "rank": 2,
+        "asin": "B0GFGLD4TW",
+        "title": "Clickeez Series 3 Keyboard Mega Pack | Includes a Keyboard Collectors Case &amp; 12 Bubble Pops-Themed (Including 3 Light-UP) Clickeez | Clickable Collectibles | Ages 6+",
+        "rating": 4.6,
+        "reviews": 186
+      },
+      {
+        "rank": 3,
+        "asin": "B0BGJFB1C5",
+        "title": "FOKI Floor Piano Mat, Baby &amp; Toddler Toys for 1-3 Year Old Boys &amp; Girls",
+        "rating": 4.6,
+        "reviews": 3204
+      },
+      {
+        "rank": 4,
+        "asin": "B0CDB7F7W3",
+        "title": "Baby Toys for 1 Year Old: 2 in 1 Baby Musical Mat Toddler Toys Age 1-2",
+        "rating": 4.5,
+        "reviews": 1932
+      },
+      {
+        "rank": 5,
+        "asin": "B01M5AWZKC",
+        "title": "Floor Piano Mat, Toddler Girl Toys Musical Mat, 1 2 3 Year Old Girl Gifts",
+        "rating": 4.4,
+        "reviews": 27789
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166269011:166326011:166329011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

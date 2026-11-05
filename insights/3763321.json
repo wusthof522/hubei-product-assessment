@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3763321",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Health Care > Incontinence & Ostomy > Bladder Control Devices",
+  "categoryPathCn": "健康与家居 > 卫生保健 > 成人失禁用品 > 膀胱控制设备",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 96,
+    "totalRevenue": 2058260,
+    "avgRevenue": 21440,
+    "medianPrice": 41.31,
+    "priceBand": "$24.96 - $70.0",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0CRS23FSZ",
+      "title": "Perifit Care + | Pelvic Floor Exerciser with App | Kegel Trainer | Strengthen Your Pelvic Floor, get Better Bladder Control, Stronger Pelvic Support",
+      "brand": "Perifit",
+      "price": 179.0,
+      "salesParent": 958,
+      "revenue": 172008.91,
+      "rating": 4.5,
+      "reviews": 899
+    },
+    {
+      "rank": 2,
+      "asin": "B07HR3GL6V",
+      "title": "Intimate Rose Non-Vibrating Pelvic Wand, Pelvic Floor Muscle Massager",
+      "brand": "Intimate Rose",
+      "price": 34.99,
+      "salesParent": 3427,
+      "revenue": 119911.0,
+      "rating": 4.2,
+      "reviews": 4153
+    },
+    {
+      "rank": 3,
+      "asin": "B0GJT2QNW3",
+      "title": "Small Vaginal Dilators for Pelvic Floor Therapy &amp; Vaginismus Pain Relief",
+      "brand": "Intimate Rose",
+      "price": 79.99,
+      "salesParent": 1232,
+      "revenue": 98547.68,
+      "rating": 4.6,
+      "reviews": 1540
+    },
+    {
+      "rank": 4,
+      "asin": "B0CND44J4C",
+      "title": "Perifit Pelvic Floor Trainer, Kegel Exerciser with App for Women, Green",
+      "brand": "Perifit",
+      "price": 149.0,
+      "salesParent": 638,
+      "revenue": 93894.46,
+      "rating": 4.4,
+      "reviews": 1437
+    },
+    {
+      "rank": 5,
+      "asin": "B082BCSKH6",
+      "title": "Revive Bladder Support Pessary for Women | Reusable Vaginal Device for Stress Incontinence &amp; Leak Control | Comfortable Alternative to Pads &amp; Liners | Womens Health Support | 1 Pack, One Month Supply",
+      "brand": "RINOVUM",
+      "price": 34.99,
+      "salesParent": 1941,
+      "revenue": 67915.59,
+      "rating": 3.6,
+      "reviews": 2962
+    },
+    {
+      "rank": 6,
+      "asin": "B014GMBDQ2",
+      "title": "Pelvic Floor Exercise Devices - Kegel Weights for Pelvic Strengthening",
+      "brand": "Intimate Rose",
+      "price": 49.62,
+      "salesParent": 1250,
+      "revenue": 61250.0,
+      "rating": 4.3,
+      "reviews": 5966
+    },
+    {
+      "rank": 7,
+      "asin": "B08MT4VWGX",
+      "title": "VWELL Silicone Wands Set Women 5 Piece Kit Hands-Free Suction Base Discreet",
+      "brand": "IntiMD",
+      "price": 54.95,
+      "salesParent": 1068,
+      "revenue": 58686.6,
+      "rating": 4.6,
+      "reviews": 1505
+    },
+    {
+      "rank": 8,
+      "asin": "B011SQPZGS",
+      "title": "Kegel Toner for Women - Electric Pelvic Muscle Exerciser for Automatic Kegels, Incontinence Stimulator",
+      "brand": "K-fit",
+      "price": 149.95,
+      "salesParent": 386,
+      "revenue": 57880.7,
+      "rating": 4.1,
+      "reviews": 1826
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -16,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -16,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 2058260,
+    "priorHeadRevenue": 2459875,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 96,
+      "newCount": 35,
+      "pct": 36,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 41,
+      "brandCount": 66,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.13,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0CRS23FSZ",
+        "title": "Perifit Care + | Pelvic Floor Exerciser with App | Kegel Trainer | Strengthen Your Pelvic Floor, get Better Bladder Control, Stronger Pelvic Support",
+        "rating": 4.5,
+        "reviews": 899
+      },
+      {
+        "rank": 2,
+        "asin": "B07HR3GL6V",
+        "title": "Intimate Rose Non-Vibrating Pelvic Wand, Pelvic Floor Muscle Massager",
+        "rating": 4.2,
+        "reviews": 4153
+      },
+      {
+        "rank": 3,
+        "asin": "B0GJT2QNW3",
+        "title": "Small Vaginal Dilators for Pelvic Floor Therapy &amp; Vaginismus Pain Relief",
+        "rating": 4.6,
+        "reviews": 1540
+      },
+      {
+        "rank": 4,
+        "asin": "B0CND44J4C",
+        "title": "Perifit Pelvic Floor Trainer, Kegel Exerciser with App for Women, Green",
+        "rating": 4.4,
+        "reviews": 1437
+      },
+      {
+        "rank": 5,
+        "asin": "B082BCSKH6",
+        "title": "Revive Bladder Support Pessary for Women | Reusable Vaginal Device for Stress Incontinence &amp; Leak Control | Comfortable Alternative to Pads &amp; Liners | Womens Health Support | 1 Pack, One Month Supply",
+        "rating": 3.6,
+        "reviews": 2962
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3760941:3763261:3763321",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

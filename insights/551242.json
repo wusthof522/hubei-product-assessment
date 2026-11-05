@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "551242",
+  "level": "L2",
+  "categoryPathEn": "Patio, Lawn & Garden > Outdoor Power Tools",
+  "categoryPathCn": "庭院、草坪和园艺 > 电动工具",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 88,
+    "totalRevenue": 53054316,
+    "avgRevenue": 602890,
+    "medianPrice": 169.45,
+    "priceBand": "$89.92 - $373.75",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0C98GDD9R",
+      "title": "VEVOR Push Lawn Sweeper, 21&quot; Leaf &amp; Grass Collector 3.5 cu. ft. Hopper Bag",
+      "brand": "VEVOR",
+      "price": 89.9,
+      "salesParent": 48183,
+      "revenue": 4308042.0,
+      "rating": 3.9,
+      "reviews": 4570
+    },
+    {
+      "rank": 2,
+      "asin": "B0CTKZXNFL",
+      "title": "EGO POWER+ Leaf Blower Cordless 765 CFM with 56V 5.0Ah Battery and 320W Charger Included (LB7654) Plus Extra 2.5Ah Battery (BA1400T)",
+      "brand": "EGO Power+",
+      "price": 498.0,
+      "salesParent": 7199,
+      "revenue": 3585102.0,
+      "rating": 4.7,
+      "reviews": 413
+    },
+    {
+      "rank": 3,
+      "asin": "B0BVGSX46M",
+      "title": "Westinghouse ePX3500 Electric Pressure Washer, 2500 Max PSI 1.76 Max GPM with Anti-Tipping Technology, Onboard Soap Tank, Pro-Style Steel Wand, 5-Nozzle Set, for Cars/Fences/Driveways/Home/Patios",
+      "brand": "Westinghouse",
+      "price": 169.0,
+      "salesParent": 12695,
+      "revenue": 2145455.0,
+      "rating": 4.6,
+      "reviews": 8067
+    },
+    {
+      "rank": 4,
+      "asin": "B0DP2BPJ6C",
+      "title": "EGO Power+ 8&quot; Lawn Edger Attachment &amp; Multi-Head System Power Head - ME0820",
+      "brand": "EGO Power+",
+      "price": 217.54,
+      "salesParent": 7071,
+      "revenue": 1490779.0,
+      "rating": 4.4,
+      "reviews": 845
+    },
+    {
+      "rank": 5,
+      "asin": "B08PWYGBT6",
+      "title": "EGO Power+ LB5302 3-Speed Turbo 56-Volt 530 CFM Cordless Leaf Blower (2.5Ah Battery and Charger Included) + AN5300 Blower Flat Nozzle",
+      "brand": "EGO Power+",
+      "price": 216.0,
+      "salesParent": 6440,
+      "revenue": 1391040.0,
+      "rating": 4.0,
+      "reviews": 14
+    },
+    {
+      "rank": 6,
+      "asin": "B0CVSG63DG",
+      "title": "EGO Power+ 21&quot; Cordless Electric Lawn Mower, Self-Propelled - LM2134SP-2",
+      "brand": "EGO Power+",
+      "price": 879.0,
+      "salesParent": 1576,
+      "revenue": 1385304.0,
+      "rating": 4.4,
+      "reviews": 396
+    },
+    {
+      "rank": 7,
+      "asin": "B0HH977DCN",
+      "title": "Tietoc Mini Chainsaw 6 Inch Cordless, 2×2000mAh Battery Powered Handheld Electric Chain Saw with Pruning Shear, Portable Wood Tree Trimmer for Garden, Gift for Men Dad Husband",
+      "brand": "tietoc",
+      "price": 69.99,
+      "salesParent": 18832,
+      "revenue": 1251009.75,
+      "rating": 4.4,
+      "reviews": 84
+    },
+    {
+      "rank": 8,
+      "asin": "B0FLX45THX",
+      "title": "Leaf Blower Cordless, 650CFM Electric Leaf Blowers with 2 x 5.2Ah Batteries and Charger, 3 Speed Modes, 1 x Adjustable Shoulder Strap, Powerful Snow Blowers for Lawn Care, Patio, Dust, Blowing Leaves",
+      "brand": "YOOVL",
+      "price": 129.99,
+      "salesParent": 9746,
+      "revenue": 1151392.38,
+      "rating": 4.3,
+      "reviews": 1480
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 9,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 9,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 53054316,
+    "priorHeadRevenue": 48639998,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 88,
+      "newCount": 29,
+      "pct": 33,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 56,
+      "brandCount": 43,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.35,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0C98GDD9R",
+        "title": "VEVOR Push Lawn Sweeper, 21&quot; Leaf &amp; Grass Collector 3.5 cu. ft. Hopper Bag",
+        "rating": 3.9,
+        "reviews": 4570
+      },
+      {
+        "rank": 2,
+        "asin": "B0CTKZXNFL",
+        "title": "EGO POWER+ Leaf Blower Cordless 765 CFM with 56V 5.0Ah Battery and 320W Charger Included (LB7654) Plus Extra 2.5Ah Battery (BA1400T)",
+        "rating": 4.7,
+        "reviews": 413
+      },
+      {
+        "rank": 3,
+        "asin": "B0BVGSX46M",
+        "title": "Westinghouse ePX3500 Electric Pressure Washer, 2500 Max PSI 1.76 Max GPM with Anti-Tipping Technology, Onboard Soap Tank, Pro-Style Steel Wand, 5-Nozzle Set, for Cars/Fences/Driveways/Home/Patios",
+        "rating": 4.6,
+        "reviews": 8067
+      },
+      {
+        "rank": 4,
+        "asin": "B0DP2BPJ6C",
+        "title": "EGO Power+ 8&quot; Lawn Edger Attachment &amp; Multi-Head System Power Head - ME0820",
+        "rating": 4.4,
+        "reviews": 845
+      },
+      {
+        "rank": 5,
+        "asin": "B08PWYGBT6",
+        "title": "EGO Power+ LB5302 3-Speed Turbo 56-Volt 530 CFM Cordless Leaf Blower (2.5Ah Battery and Charger Included) + AN5300 Blower Flat Nozzle",
+        "rating": 4.0,
+        "reviews": 14
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "2972638011:551242",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

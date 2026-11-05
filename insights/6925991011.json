@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "6925991011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Remote & App Controlled Vehicles & Parts > Remote & App Controlled Vehicle Parts > RC Linkages",
+  "categoryPathCn": "玩具 > 遥控 > 遥控 > RC联系",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 152622,
+    "avgRevenue": 1542,
+    "medianPrice": 16.99,
+    "priceBand": "$13.68 - $20.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0GLPF1775",
+      "title": "MEUS RACING SCX24 Links Drivesahfts Set SCX24 MD24 Chassis 1/24 RC Crawler Upgrades",
+      "brand": "MEUS RACING",
+      "price": 34.99,
+      "salesParent": 193,
+      "revenue": 6753.07,
+      "rating": 4.1,
+      "reviews": 31
+    },
+    {
+      "rank": 2,
+      "asin": "B0CXT7Q5M8",
+      "title": "INJORA Black Brass High Clearance Links for TRX4M High Trail K10 F150",
+      "brand": "INJORA",
+      "price": 21.98,
+      "salesParent": 277,
+      "revenue": 6088.46,
+      "rating": 4.8,
+      "reviews": 356
+    },
+    {
+      "rank": 3,
+      "asin": "B09VNM9643",
+      "title": "INJORA Aluminum 4 Link Set for SCX24 C10 JLU Bronco Base Camp 4Runner, GL",
+      "brand": "INJORA",
+      "price": 18.98,
+      "salesParent": 307,
+      "revenue": 5826.86,
+      "rating": 4.6,
+      "reviews": 823
+    },
+    {
+      "rank": 4,
+      "asin": "B0CLTZVK9T",
+      "title": "MEUS RACING SCX10 II Links Set Wheelbase for AXIAL SCX10 II 90046 90047 90035 Upgrade Parts 10pcs (313mm)",
+      "brand": "MEUS RACING",
+      "price": 21.99,
+      "salesParent": 228,
+      "revenue": 5013.72,
+      "rating": 4.6,
+      "reviews": 123
+    },
+    {
+      "rank": 5,
+      "asin": "B0FMXM1CCJ",
+      "title": "INJORA 43g Brass High Clearance 4 Links Set for SCX24 Gladiator Power Wagon",
+      "brand": "INJORA",
+      "price": 22.99,
+      "salesParent": 205,
+      "revenue": 4712.95,
+      "rating": 4.6,
+      "reviews": 295
+    },
+    {
+      "rank": 6,
+      "asin": "B0GCHGM49W",
+      "title": "INJORA Black Coating Brass Steering Links for Axial SCX30 Upgrade",
+      "brand": "INJORA",
+      "price": 10.99,
+      "salesParent": 401,
+      "revenue": 4406.99,
+      "rating": 4.5,
+      "reviews": 134
+    },
+    {
+      "rank": 7,
+      "asin": "B0GGBF382K",
+      "title": "INJORA Black Brass High Clearance Chassis Links for Redcat Ascent-18 APEX",
+      "brand": "INJORA",
+      "price": 20.99,
+      "salesParent": 164,
+      "revenue": 3442.36,
+      "rating": 4.8,
+      "reviews": 84
+    },
+    {
+      "rank": 8,
+      "asin": "B0GXZDGLLQ",
+      "title": "INJORA Stainless Steel High Clearance Chassis Link for SCX30 99mm Wheelbase",
+      "brand": "INJORA",
+      "price": 13.99,
+      "salesParent": 228,
+      "revenue": 3189.72,
+      "rating": 4.4,
+      "reviews": 35
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 10,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 10,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 152622,
+    "priorHeadRevenue": 138809,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 40,
+      "pct": 40,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 78,
+      "brandCount": 32,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.52,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0GLPF1775",
+        "title": "MEUS RACING SCX24 Links Drivesahfts Set SCX24 MD24 Chassis 1/24 RC Crawler Upgrades",
+        "rating": 4.1,
+        "reviews": 31
+      },
+      {
+        "rank": 2,
+        "asin": "B0CXT7Q5M8",
+        "title": "INJORA Black Brass High Clearance Links for TRX4M High Trail K10 F150",
+        "rating": 4.8,
+        "reviews": 356
+      },
+      {
+        "rank": 3,
+        "asin": "B09VNM9643",
+        "title": "INJORA Aluminum 4 Link Set for SCX24 C10 JLU Bronco Base Camp 4Runner, GL",
+        "rating": 4.6,
+        "reviews": 823
+      },
+      {
+        "rank": 4,
+        "asin": "B0CLTZVK9T",
+        "title": "MEUS RACING SCX10 II Links Set Wheelbase for AXIAL SCX10 II 90046 90047 90035 Upgrade Parts 10pcs (313mm)",
+        "rating": 4.6,
+        "reviews": 123
+      },
+      {
+        "rank": 5,
+        "asin": "B0FMXM1CCJ",
+        "title": "INJORA 43g Brass High Clearance 4 Links Set for SCX24 Gladiator Power Wagon",
+        "rating": 4.6,
+        "reviews": 295
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:6925830011:2234126011:6925991011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

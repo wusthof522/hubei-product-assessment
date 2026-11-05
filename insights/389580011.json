@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "389580011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Household Supplies > Household Batteries > C",
+  "categoryPathCn": "健康与家居 > 家居用品 > 家用电池 > C",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 2625180,
+    "avgRevenue": 26517,
+    "medianPrice": 21.95,
+    "priceBand": "$15.74 - $32.5",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B09RTVZGXV",
+      "title": "Energizer Alkaline Power C Batteries (12 Pack), Long-Lasting Alkaline C Cell Batteries",
+      "brand": "Energizer",
+      "price": 24.63,
+      "salesParent": 50711,
+      "revenue": 1256111.5,
+      "rating": 4.8,
+      "reviews": 8281
+    },
+    {
+      "rank": 2,
+      "asin": "B000FD6RTA",
+      "title": "Duracell Coppertop C Batteries, 8 Count, 10-Year Shelf Life, Long-lasting",
+      "brand": "DURACELL",
+      "price": 16.42,
+      "salesParent": 41310,
+      "revenue": 705574.81,
+      "rating": 4.8,
+      "reviews": 39134
+    },
+    {
+      "rank": 3,
+      "asin": "B0044DA3NS",
+      "title": "Energizer MAX C Batteries, Premium Alkaline C Cell Batteries (8 Battery Count)",
+      "brand": "Energizer",
+      "price": 16.42,
+      "salesParent": 11650,
+      "revenue": 173934.5,
+      "rating": 4.8,
+      "reviews": 22798
+    },
+    {
+      "rank": 4,
+      "asin": "B0035HB694",
+      "title": "SureFire CR123A 3V Lithium Battery - 12 Pack SF123A Batteries",
+      "brand": "SureFire",
+      "price": 37.99,
+      "salesParent": 3373,
+      "revenue": 128140.27,
+      "rating": 4.7,
+      "reviews": 16901
+    },
+    {
+      "rank": 5,
+      "asin": "B07SYHWXTH",
+      "title": "Duracell 2767341 Coppertop C Alkaline Batteries 12/Pack (MN1400)",
+      "brand": "DURACELL",
+      "price": 20.48,
+      "salesParent": 1729,
+      "revenue": 35409.92,
+      "rating": 4.8,
+      "reviews": 479
+    },
+    {
+      "rank": 6,
+      "asin": "B0030BWJP0",
+      "title": "Energizer : Industrial Alkaline Batteries, C, 12 Batteries per Box -:- Sold as 2 Packs of - 12 - / - Total of 24 Each",
+      "brand": "Energizer",
+      "price": 27.94,
+      "salesParent": 1138,
+      "revenue": 31818.48,
+      "rating": 4.7,
+      "reviews": 3063
+    },
+    {
+      "rank": 7,
+      "asin": "B00FHVR8KC",
+      "title": "EBL Rechargeable C Batteries 5000mAh Ni-MH C Size Battery, Pack of 8",
+      "brand": "EBL",
+      "price": 27.99,
+      "salesParent": 1132,
+      "revenue": 31684.68,
+      "rating": 4.5,
+      "reviews": 7817
+    },
+    {
+      "rank": 8,
+      "asin": "B0DNYN4Y7V",
+      "title": "Artman Rechargeable Lithium C Batteries 4 Pack, 9000mWh C Cell Batteries",
+      "brand": "A Artman",
+      "price": 22.99,
+      "salesParent": 964,
+      "revenue": 22162.36,
+      "rating": 4.4,
+      "reviews": 392
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 168,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 168,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 2625180,
+    "priorHeadRevenue": 980576,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 21,
+      "pct": 21,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 93,
+      "brandCount": 51,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.53,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B09RTVZGXV",
+        "title": "Energizer Alkaline Power C Batteries (12 Pack), Long-Lasting Alkaline C Cell Batteries",
+        "rating": 4.8,
+        "reviews": 8281
+      },
+      {
+        "rank": 2,
+        "asin": "B000FD6RTA",
+        "title": "Duracell Coppertop C Batteries, 8 Count, 10-Year Shelf Life, Long-lasting",
+        "rating": 4.8,
+        "reviews": 39134
+      },
+      {
+        "rank": 3,
+        "asin": "B0044DA3NS",
+        "title": "Energizer MAX C Batteries, Premium Alkaline C Cell Batteries (8 Battery Count)",
+        "rating": 4.8,
+        "reviews": 22798
+      },
+      {
+        "rank": 4,
+        "asin": "B0035HB694",
+        "title": "SureFire CR123A 3V Lithium Battery - 12 Pack SF123A Batteries",
+        "rating": 4.7,
+        "reviews": 16901
+      },
+      {
+        "rank": 5,
+        "asin": "B07SYHWXTH",
+        "title": "Duracell 2767341 Coppertop C Alkaline Batteries 12/Pack (MN1400)",
+        "rating": 4.8,
+        "reviews": 479
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:15342811:15745581:389580011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

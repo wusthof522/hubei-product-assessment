@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "2975221011",
+  "level": "L2",
+  "categoryPathEn": "Pet Supplies > Birds",
+  "categoryPathCn": "宠物用品 > 鸟类",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 8093013,
+    "avgRevenue": 80930,
+    "medianPrice": 29.1,
+    "priceBand": "$16.73 - $45.74",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0055INY1Y",
+      "title": "Kaytee Nut &amp; Fruit Wild Bird Seed, 5 lb",
+      "brand": "Kaytee",
+      "price": 12.59,
+      "salesParent": 43253,
+      "revenue": 544555.25,
+      "rating": 4.7,
+      "reviews": 18409
+    },
+    {
+      "rank": 2,
+      "asin": "B08THGBXZP",
+      "title": "5LB Dried Black Soldier Fly Larvae for Chickens",
+      "brand": "WORMSKING",
+      "price": 23.99,
+      "salesParent": 8751,
+      "revenue": 233039.12,
+      "rating": 4.7,
+      "reviews": 5001
+    },
+    {
+      "rank": 3,
+      "asin": "B08C6Z5QX3",
+      "title": "Wild Harvest Daily Blend Bird Food For Parakeet, Canary &amp; Finch,10 lbs",
+      "brand": "Wild Harvest",
+      "price": 10.59,
+      "salesParent": 21773,
+      "revenue": 230576.08,
+      "rating": 4.7,
+      "reviews": 16193
+    },
+    {
+      "rank": 4,
+      "asin": "B001F95SV6",
+      "title": "ZuPreem FruitBlend Parrot &amp; Conure Food, Uniform Bird Food, M/L, 3.5 lb",
+      "brand": "ZuPreem",
+      "price": 24.29,
+      "salesParent": 9317,
+      "revenue": 226309.94,
+      "rating": 4.7,
+      "reviews": 5970
+    },
+    {
+      "rank": 5,
+      "asin": "B0002DK91A",
+      "title": "Kaytee Wild Bird No Mess Food Seed Blend for Cardinals, 10 Pound",
+      "brand": "Kaytee",
+      "price": 19.79,
+      "salesParent": 7612,
+      "revenue": 208112.08,
+      "rating": 4.4,
+      "reviews": 6933
+    },
+    {
+      "rank": 6,
+      "asin": "B0054RV486",
+      "title": "ZuPreem FruitBlend Cockatiel &amp; Conure Food, Uniform Bird Food, M, 2 lb",
+      "brand": "ZuPreem",
+      "price": 16.64,
+      "salesParent": 12034,
+      "revenue": 200245.75,
+      "rating": 4.7,
+      "reviews": 4455
+    },
+    {
+      "rank": 7,
+      "asin": "B0DZ34BL42",
+      "title": "New Country Organics I Power Pellet Layer Feed 40 lbs I Layer Feed for Laying Hens I Soy-Free I 17% Protein I Certified Organic and Non-GMO I 40 lbs",
+      "brand": "New Country Organics",
+      "price": 79.98,
+      "salesParent": 2425,
+      "revenue": 193951.52,
+      "rating": 2.6,
+      "reviews": 5
+    },
+    {
+      "rank": 8,
+      "asin": "B0006TVVIK",
+      "title": "Hagen Pigeon &amp; Dove Seed Mix with White Millet Bird Seed",
+      "brand": "Dogit",
+      "price": 42.25,
+      "salesParent": 4573,
+      "revenue": 191059.94,
+      "rating": 4.5,
+      "reviews": 594
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 9,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 9,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 8093013,
+    "priorHeadRevenue": 7411387,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 13,
+      "pct": 13,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 46,
+      "brandCount": 58,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.53,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0055INY1Y",
+        "title": "Kaytee Nut &amp; Fruit Wild Bird Seed, 5 lb",
+        "rating": 4.7,
+        "reviews": 18409
+      },
+      {
+        "rank": 2,
+        "asin": "B08THGBXZP",
+        "title": "5LB Dried Black Soldier Fly Larvae for Chickens",
+        "rating": 4.7,
+        "reviews": 5001
+      },
+      {
+        "rank": 3,
+        "asin": "B08C6Z5QX3",
+        "title": "Wild Harvest Daily Blend Bird Food For Parakeet, Canary &amp; Finch,10 lbs",
+        "rating": 4.7,
+        "reviews": 16193
+      },
+      {
+        "rank": 4,
+        "asin": "B001F95SV6",
+        "title": "ZuPreem FruitBlend Parrot &amp; Conure Food, Uniform Bird Food, M/L, 3.5 lb",
+        "rating": 4.7,
+        "reviews": 5970
+      },
+      {
+        "rank": 5,
+        "asin": "B0002DK91A",
+        "title": "Kaytee Wild Bird No Mess Food Seed Blend for Cardinals, 10 Pound",
+        "rating": 4.4,
+        "reviews": 6933
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "2619533011:2975221011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "13226756011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Health Care > Feminine Care > Douches & Enemas",
+  "categoryPathCn": "健康与家居 > 卫生保健 > 女士卫生护理 > 灌洗器",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 98,
+    "totalRevenue": 1806760,
+    "avgRevenue": 18436,
+    "medianPrice": 18.97,
+    "priceBand": "$9.99 - $33.95",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B07TXLZ8MR",
+      "title": "Frida Upside Down Peri Bottle for Postpartum Care, Portable Bidet",
+      "brand": "Frida Mom",
+      "price": 9.48,
+      "salesParent": 28478,
+      "revenue": 269971.44,
+      "rating": 4.8,
+      "reviews": 29369
+    },
+    {
+      "rank": 2,
+      "asin": "B0D187H8LL",
+      "title": "Summer's Eve Feminine Douche, Complete Clean | Odor Reduction | Boric Acid Complex | 2 Units | 4.5 oz Each",
+      "brand": "Summer's Eve",
+      "price": 8.96,
+      "salesParent": 13164,
+      "revenue": 117949.44,
+      "rating": 4.7,
+      "reviews": 4055
+    },
+    {
+      "rank": 3,
+      "asin": "B07XHGQZX8",
+      "title": "Enema Bulb Kit with Lube Anal Douche Superior Materials Douche for Men Women Made of Comfortable Material (Black)",
+      "brand": "RANEU",
+      "price": 9.99,
+      "salesParent": 10220,
+      "revenue": 102097.8,
+      "rating": 4.2,
+      "reviews": 7651
+    },
+    {
+      "rank": 4,
+      "asin": "B00099XNTM",
+      "title": "Summer's Eve Douche, Extra Cleansing Vinegar, 4.5 oz, 2-Count, 6 Pack",
+      "brand": "Summer's Eve",
+      "price": 17.88,
+      "salesParent": 4687,
+      "revenue": 83803.56,
+      "rating": 4.8,
+      "reviews": 4692
+    },
+    {
+      "rank": 5,
+      "asin": "B08BK3HRLL",
+      "title": "Smokitcen Enema Kit – 2L Enema Bag– 5.0ft. Long Silicone Hose – 5 Multi-Size Reusable Tips – Controlled Water Flow – for Colon Detox Cleanse Enemas",
+      "brand": "Smokitcen",
+      "price": 19.99,
+      "salesParent": 3190,
+      "revenue": 63768.1,
+      "rating": 4.4,
+      "reviews": 4783
+    },
+    {
+      "rank": 6,
+      "asin": "B0CLZ1KMGH",
+      "title": "Summer's Eve Douche, Complete Clean, 4.5 oz, 2-Count",
+      "brand": "Summer's Eve",
+      "price": 4.48,
+      "salesParent": 13619,
+      "revenue": 61013.12,
+      "rating": 4.7,
+      "reviews": 4043
+    },
+    {
+      "rank": 7,
+      "asin": "B07XCB3Z2H",
+      "title": "Enema Bulb Anal Douche Enema Kit for Women &amp; Men with 3 Nozzles (4 Piece Set)",
+      "brand": "RANEU",
+      "price": 9.95,
+      "salesParent": 5468,
+      "revenue": 54406.6,
+      "rating": 4.4,
+      "reviews": 5081
+    },
+    {
+      "rank": 8,
+      "asin": "B07SGJ79B3",
+      "title": "GNEGKLEAN Black Silicone Enema Bulb Kit for Men Women",
+      "brand": "GNEGKLEAN",
+      "price": 12.99,
+      "salesParent": 3593,
+      "revenue": 44840.64,
+      "rating": 4.3,
+      "reviews": 4838
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 1,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 1,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1806760,
+    "priorHeadRevenue": 1786238,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 98,
+      "newCount": 26,
+      "pct": 27,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 50,
+      "brandCount": 66,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.35,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B07TXLZ8MR",
+        "title": "Frida Upside Down Peri Bottle for Postpartum Care, Portable Bidet",
+        "rating": 4.8,
+        "reviews": 29369
+      },
+      {
+        "rank": 2,
+        "asin": "B0D187H8LL",
+        "title": "Summer's Eve Feminine Douche, Complete Clean | Odor Reduction | Boric Acid Complex | 2 Units | 4.5 oz Each",
+        "rating": 4.7,
+        "reviews": 4055
+      },
+      {
+        "rank": 3,
+        "asin": "B07XHGQZX8",
+        "title": "Enema Bulb Kit with Lube Anal Douche Superior Materials Douche for Men Women Made of Comfortable Material (Black)",
+        "rating": 4.2,
+        "reviews": 7651
+      },
+      {
+        "rank": 4,
+        "asin": "B00099XNTM",
+        "title": "Summer's Eve Douche, Extra Cleansing Vinegar, 4.5 oz, 2-Count, 6 Pack",
+        "rating": 4.8,
+        "reviews": 4692
+      },
+      {
+        "rank": 5,
+        "asin": "B08BK3HRLL",
+        "title": "Smokitcen Enema Kit – 2L Enema Bag– 5.0ft. Long Silicone Hose – 5 Multi-Size Reusable Tips – Controlled Water Flow – for Colon Detox Cleanse Enemas",
+        "rating": 4.4,
+        "reviews": 4783
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3760941:3779501:13226756011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

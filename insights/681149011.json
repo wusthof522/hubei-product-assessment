@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "681149011",
+  "level": "L4",
+  "categoryPathEn": "Home & Kitchen > Furniture > Game & Recreation Room Furniture > Folding Stools",
+  "categoryPathCn": "家居用品 > 家具 > 游戏 > 折叠凳",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 96,
+    "totalRevenue": 1172928,
+    "avgRevenue": 12218,
+    "medianPrice": 60.49,
+    "priceBand": "$35.99 - $89.74",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B071JB9SC8",
+      "title": "Utopia Home Folding Step Stool 9 Inch, Anti-Slip, Black, 1-Pack",
+      "brand": "Utopia Home",
+      "price": 11.99,
+      "salesParent": 13405,
+      "revenue": 151878.66,
+      "rating": 4.7,
+      "reviews": 29822
+    },
+    {
+      "rank": 2,
+      "asin": "B09472RY19",
+      "title": "Folding Step Stool 9 Inch, Non-Slip Foldable Stools for Kids, Black",
+      "brand": "ACSTEP",
+      "price": 11.99,
+      "salesParent": 13248,
+      "revenue": 151027.19,
+      "rating": 4.6,
+      "reviews": 18832
+    },
+    {
+      "rank": 3,
+      "asin": "B0F6CZFX5Y",
+      "title": "HBTower Folding Step Stool 9 Inch, 600 LBS Capacity with Safety Lock, Black",
+      "brand": "HBTower",
+      "price": 14.62,
+      "salesParent": 6649,
+      "revenue": 78591.18,
+      "rating": 4.6,
+      "reviews": 2314
+    },
+    {
+      "rank": 4,
+      "asin": "B07FLP5XVD",
+      "title": "Vigar Compact Foldable Step Stool, 12-1/2-Inch, Gray",
+      "brand": "Vigar",
+      "price": 26.99,
+      "salesParent": 2608,
+      "revenue": 70389.92,
+      "rating": 4.6,
+      "reviews": 13042
+    },
+    {
+      "rank": 5,
+      "asin": "B006H0XEIW",
+      "title": "Lavish Home Folding Stool with Padded Backless Seat, Black, 24 Inch",
+      "brand": "Lavish Home",
+      "price": 33.99,
+      "salesParent": 1666,
+      "revenue": 56627.34,
+      "rating": 4.2,
+      "reviews": 9356
+    },
+    {
+      "rank": 6,
+      "asin": "B0CCRT2PG6",
+      "title": "UWEAR 1 PCS Folding Bar Stool with Back, Tall Foldable Stool Seat Padded Portable Stools Counter Height Foldable Stools Chairs Collapsible Stool for Adults Kitchen Island (Black)",
+      "brand": "UWEAR",
+      "price": 79.98,
+      "salesParent": 449,
+      "revenue": 35915.51,
+      "rating": 4.4,
+      "reviews": 330
+    },
+    {
+      "rank": 7,
+      "asin": "B0D9NX65LS",
+      "title": "VENI HOME Folding Bar Stool with Backrest,25 Inch Leather Padded Counter Height Foldable Stool,Tall Folding Stool Chair for Gardening Kitchen Shop Cafe, Black (2 Pack)",
+      "brand": "Veni",
+      "price": 99.99,
+      "salesParent": 351,
+      "revenue": 34601.58,
+      "rating": 4.7,
+      "reviews": 127
+    },
+    {
+      "rank": 8,
+      "asin": "B01HTI7SZ0",
+      "title": "Wee's Beyond Cushioned Padded Folding Stool",
+      "brand": "Wee's Beyond",
+      "price": 40.99,
+      "salesParent": 688,
+      "revenue": 27692.0,
+      "rating": 4.2,
+      "reviews": 5592
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -31,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -31,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1172928,
+    "priorHeadRevenue": 1705712,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 96,
+      "newCount": 40,
+      "pct": 42,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 47,
+      "brandCount": 81,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.28,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B071JB9SC8",
+        "title": "Utopia Home Folding Step Stool 9 Inch, Anti-Slip, Black, 1-Pack",
+        "rating": 4.7,
+        "reviews": 29822
+      },
+      {
+        "rank": 2,
+        "asin": "B09472RY19",
+        "title": "Folding Step Stool 9 Inch, Non-Slip Foldable Stools for Kids, Black",
+        "rating": 4.6,
+        "reviews": 18832
+      },
+      {
+        "rank": 3,
+        "asin": "B0F6CZFX5Y",
+        "title": "HBTower Folding Step Stool 9 Inch, 600 LBS Capacity with Safety Lock, Black",
+        "rating": 4.6,
+        "reviews": 2314
+      },
+      {
+        "rank": 4,
+        "asin": "B07FLP5XVD",
+        "title": "Vigar Compact Foldable Step Stool, 12-1/2-Inch, Gray",
+        "rating": 4.6,
+        "reviews": 13042
+      },
+      {
+        "rank": 5,
+        "asin": "B006H0XEIW",
+        "title": "Lavish Home Folding Stool with Padded Backless Seat, Black, 24 Inch",
+        "rating": 4.2,
+        "reviews": 9356
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "1055398:1063306:5422303011:681149011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

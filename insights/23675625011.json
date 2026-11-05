@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23675625011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Health Care > OTC Medications & Treatments > Sleep Aids",
+  "categoryPathCn": "健康与家居 > 卫生保健 > 非处方药和治疗 > 助眠剂",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 4884959,
+    "avgRevenue": 48850,
+    "medianPrice": 15.89,
+    "priceBand": "$9.99 - $23.5",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B01683HFGY",
+      "title": "Unisom SleepTabs, Nighttime Sleep-aid, Doxylamine Succinate, 80 Tablets",
+      "brand": "Unisom",
+      "price": 13.98,
+      "salesParent": 48164,
+      "revenue": 674777.62,
+      "rating": 4.6,
+      "reviews": 12847
+    },
+    {
+      "rank": 2,
+      "asin": "B007OSBYRY",
+      "title": "ZzzQuil Liquid Sleep Aid, Diphenhydramine 50mg HCl, Nighttime Sleep Aid Liquid, Sleep Aids for Adults, Warming Berry Flavored, 2 Pack, 24 FL OZ",
+      "brand": "ZzzQuil",
+      "price": 13.53,
+      "salesParent": 39999,
+      "revenue": 641584.0,
+      "rating": 4.6,
+      "reviews": 10314
+    },
+    {
+      "rank": 3,
+      "asin": "B0848WCZFM",
+      "title": "HealthA2Z® Sleep Aid Diphenhydramine HCl 50mg, 250 Softgels",
+      "brand": "HealthA2Z",
+      "price": 9.99,
+      "salesParent": 44235,
+      "revenue": 441907.62,
+      "rating": 4.5,
+      "reviews": 20225
+    },
+    {
+      "rank": 4,
+      "asin": "B08Y74HSSH",
+      "title": "ZzzQuil, Ultra, Sleep Aid, Doxylamine Succinate 25mg, Sleep Aids for Adults, Nighttime Sleep Aid, 48 Count",
+      "brand": "ZzzQuil",
+      "price": 44.5,
+      "salesParent": 20701,
+      "revenue": 395182.09,
+      "rating": 4.4,
+      "reviews": 8263
+    },
+    {
+      "rank": 5,
+      "asin": "B07613ZLWT",
+      "title": "Unisom SleepGels Nighttime Sleep Aid Capsules for Adults, Diphenhydramine HCI 50mg, Non-Habit-Forming Sleep Medicine for Relief from Occasional Sleeplessness, 100 Count",
+      "brand": "Unisom",
+      "price": 17.48,
+      "salesParent": 17513,
+      "revenue": 301748.97,
+      "rating": 4.6,
+      "reviews": 13908
+    },
+    {
+      "rank": 6,
+      "asin": "B007MB5XTS",
+      "title": "ZzzQuil Liquid Sleep Aid, Diphenhydramine 50mg HCl, Nighttime Sleep Aid Liquid, Sleep Aids for Adults, Warming Berry Flavored, 12 FL OZ",
+      "brand": "Vicks",
+      "price": 9.96,
+      "salesParent": 28083,
+      "revenue": 280549.16,
+      "rating": 4.6,
+      "reviews": 10870
+    },
+    {
+      "rank": 7,
+      "asin": "B01M2CZMOS",
+      "title": "ZzzQuil LiquiCap Sleep Aid, Diphenhydramine 25mg HCl, Sleep Aids for Adults, Nighttime Sleep Aid, 72 LiquiCaps",
+      "brand": "ZzzQuil",
+      "price": 21.94,
+      "salesParent": 14132,
+      "revenue": 278824.34,
+      "rating": 4.5,
+      "reviews": 14391
+    },
+    {
+      "rank": 8,
+      "asin": "B0BRJTQ7GG",
+      "title": "HealthA2Z® Nighttime Sleep Aid Doxylamine Succinate 25mg, 120 Tablets",
+      "brand": "HealthA2Z",
+      "price": 9.99,
+      "salesParent": 18308,
+      "revenue": 183080.0,
+      "rating": 4.6,
+      "reviews": 3545
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 0,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 0,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 4884959,
+    "priorHeadRevenue": 4875045,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 9,
+      "pct": 9,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 78,
+      "brandCount": 51,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.27,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B01683HFGY",
+        "title": "Unisom SleepTabs, Nighttime Sleep-aid, Doxylamine Succinate, 80 Tablets",
+        "rating": 4.6,
+        "reviews": 12847
+      },
+      {
+        "rank": 2,
+        "asin": "B007OSBYRY",
+        "title": "ZzzQuil Liquid Sleep Aid, Diphenhydramine 50mg HCl, Nighttime Sleep Aid Liquid, Sleep Aids for Adults, Warming Berry Flavored, 2 Pack, 24 FL OZ",
+        "rating": 4.6,
+        "reviews": 10314
+      },
+      {
+        "rank": 3,
+        "asin": "B0848WCZFM",
+        "title": "HealthA2Z® Sleep Aid Diphenhydramine HCl 50mg, 250 Softgels",
+        "rating": 4.5,
+        "reviews": 20225
+      },
+      {
+        "rank": 4,
+        "asin": "B08Y74HSSH",
+        "title": "ZzzQuil, Ultra, Sleep Aid, Doxylamine Succinate 25mg, Sleep Aids for Adults, Nighttime Sleep Aid, 48 Count",
+        "rating": 4.4,
+        "reviews": 8263
+      },
+      {
+        "rank": 5,
+        "asin": "B07613ZLWT",
+        "title": "Unisom SleepGels Nighttime Sleep Aid Capsules for Adults, Diphenhydramine HCI 50mg, Non-Habit-Forming Sleep Medicine for Relief from Occasional Sleeplessness, 100 Count",
+        "rating": 4.6,
+        "reviews": 13908
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3760941:10079990011:23675625011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

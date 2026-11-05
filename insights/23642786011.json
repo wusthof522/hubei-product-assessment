@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23642786011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Vehicles > Construction Vehicles > Excavators",
+  "categoryPathCn": "玩具 > 车辆 > 建筑车辆 > 挖掘机",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 96,
+    "totalRevenue": 1277568,
+    "avgRevenue": 13308,
+    "medianPrice": 37.99,
+    "priceBand": "$26.71 - $94.68",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0GTKC6SXR",
+      "title": "1.4 Ton Mini Excavator 13.5HP Gas Digger with 8in Auger Canopy Rake",
+      "brand": "HUAYEE",
+      "price": 7999.0,
+      "salesParent": 13,
+      "revenue": 101794.81,
+      "rating": 4.4,
+      "reviews": 30
+    },
+    {
+      "rank": 2,
+      "asin": "B0HCTPK5ZJ",
+      "title": "1.2 Ton Mini Excavator w/13.5HP Gasoline Engine, Bucket, Canopy",
+      "brand": "DigSwift",
+      "price": 4999.0,
+      "salesParent": 18,
+      "revenue": 97579.44,
+      "rating": 5.0,
+      "reviews": 2
+    },
+    {
+      "rank": 3,
+      "asin": "B0BBYZGGXB",
+      "title": "Remote Control Excavator Toys for Boys Realistic Metal Bucket",
+      "brand": "KidsFaves",
+      "price": 35.99,
+      "salesParent": 1725,
+      "revenue": 74589.0,
+      "rating": 4.4,
+      "reviews": 727
+    },
+    {
+      "rank": 4,
+      "asin": "B0GHLM7J2Q",
+      "title": "MMS20P 2 Ton Mini Excavator 18 HP Kubota Diesel Engine with Side Swing, Hydraulic Thumb, Quick Coupler &amp; Ripper, Digger Machine for Landscaping Garden Tight Spaces Construction, Unloading Included",
+      "brand": "MMS",
+      "price": 12399.99,
+      "salesParent": 5,
+      "revenue": 62000.0,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "rank": 5,
+      "asin": "B0G9FGH16M",
+      "title": "4-Pack Construction Truck Sand Toys for Boys Kids Toddlers 1-3 2-4 3-5, Sand Trucks for Sandbox with Excavator, Construction Vehicle Bulk Set Toys Gifts for 1 2 3 4 5 + Year Old Boys Girls",
+      "brand": "KukuFun",
+      "price": 34.99,
+      "salesParent": 1622,
+      "revenue": 52504.14,
+      "rating": 4.4,
+      "reviews": 76
+    },
+    {
+      "rank": 6,
+      "asin": "B0F3217FQ2",
+      "title": "1.4 Ton Mini Excavator, Customizable Compact KU bota Digger for Landscaping",
+      "brand": "HUAYEE",
+      "price": 9999.0,
+      "salesParent": 4,
+      "revenue": 40024.0,
+      "rating": 5.0,
+      "reviews": 7
+    },
+    {
+      "rank": 7,
+      "asin": "B0HGF7XBY1",
+      "title": "MechMaxx Mini Compact Excavator 300cc 9hp, 43.3&quot; Max. Digging Depth, MEC06",
+      "brand": "MechMaxx",
+      "price": 4999.0,
+      "salesParent": 8,
+      "revenue": 39992.0,
+      "rating": 5.0,
+      "reviews": 1
+    },
+    {
+      "rank": 8,
+      "asin": "B0C9Q492PF",
+      "title": "Remote Control Excavator Toys, 11 Channel 1:20 RC Construction Truck",
+      "brand": "Samtop",
+      "price": 42.99,
+      "salesParent": 862,
+      "revenue": 37057.38,
+      "rating": 4.6,
+      "reviews": 487
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -51,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -51,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1277568,
+    "priorHeadRevenue": 2606717,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 96,
+      "newCount": 50,
+      "pct": 52,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 39,
+      "brandCount": 74,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.51,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0GTKC6SXR",
+        "title": "1.4 Ton Mini Excavator 13.5HP Gas Digger with 8in Auger Canopy Rake",
+        "rating": 4.4,
+        "reviews": 30
+      },
+      {
+        "rank": 2,
+        "asin": "B0HCTPK5ZJ",
+        "title": "1.2 Ton Mini Excavator w/13.5HP Gasoline Engine, Bucket, Canopy",
+        "rating": 5.0,
+        "reviews": 2
+      },
+      {
+        "rank": 3,
+        "asin": "B0BBYZGGXB",
+        "title": "Remote Control Excavator Toys for Boys Realistic Metal Bucket",
+        "rating": 4.4,
+        "reviews": 727
+      },
+      {
+        "rank": 4,
+        "asin": "B0GHLM7J2Q",
+        "title": "MMS20P 2 Ton Mini Excavator 18 HP Kubota Diesel Engine with Side Swing, Hydraulic Thumb, Quick Coupler &amp; Ripper, Digger Machine for Landscaping Garden Tight Spaces Construction, Unloading Included",
+        "rating": null,
+        "reviews": null
+      },
+      {
+        "rank": 5,
+        "asin": "B0G9FGH16M",
+        "title": "4-Pack Construction Truck Sand Toys for Boys Kids Toddlers 1-3 2-4 3-5, Sand Trucks for Sandbox with Excavator, Construction Vehicle Bulk Set Toys Gifts for 1 2 3 4 5 + Year Old Boys Girls",
+        "rating": 4.4,
+        "reviews": 76
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:23539911011:23627233011:23642786011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

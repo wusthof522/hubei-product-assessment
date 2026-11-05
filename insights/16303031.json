@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "16303031",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Wellness & Relaxation > Massage Tools & Equipment > Massage Tools",
+  "categoryPathCn": "健康与家居 > 保健生活用品 > 按摩工具和设备 > 按摩工具",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 6125250,
+    "avgRevenue": 61252,
+    "medianPrice": 19.99,
+    "priceBand": "$9.24 - $29.94",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0C23X74J6",
+      "title": "BESKAR Foot Massager Roller for Plantar Fasciitis Relief",
+      "brand": "BESKAR",
+      "price": 8.49,
+      "salesParent": 25907,
+      "revenue": 256738.36,
+      "rating": 4.6,
+      "reviews": 6618
+    },
+    {
+      "rank": 2,
+      "asin": "B076Q6442Z",
+      "title": "HEETA Scalp Massager Hair Growth Scrubber for Dandruff Removal Hair Care",
+      "brand": "HEETA",
+      "price": 7.99,
+      "salesParent": 28183,
+      "revenue": 207708.7,
+      "rating": 4.6,
+      "reviews": 154410
+    },
+    {
+      "rank": 3,
+      "asin": "B0006VJ6TO",
+      "title": "Body Back Buddy Classic Back Massager &amp; Neck Massager for Pain Relief, Blue",
+      "brand": "Body Back",
+      "price": 29.95,
+      "salesParent": 6446,
+      "revenue": 193057.7,
+      "rating": 4.6,
+      "reviews": 18517
+    },
+    {
+      "rank": 4,
+      "asin": "B07DPCWV8Z",
+      "title": "PSO-RITE Psoas Muscle Release Tool – Made in USA, Patented Deep Tissue Massage Device for Your Back, Hip Flexor &amp; Trigger Point Relief, Night Black",
+      "brand": "PSO-RITE",
+      "price": 49.99,
+      "salesParent": 3008,
+      "revenue": 192572.16,
+      "rating": 4.4,
+      "reviews": 7755
+    },
+    {
+      "rank": 5,
+      "asin": "B0G51JVB9S",
+      "title": "Lymphatic Contour Face Brush, Dry Brush Massager for Lymphatic Drainage",
+      "brand": "KET WUBZ",
+      "price": 9.98,
+      "salesParent": 18960,
+      "revenue": 177276.0,
+      "rating": 4.6,
+      "reviews": 2057
+    },
+    {
+      "rank": 6,
+      "asin": "B08XQNBZ5F",
+      "title": "TESMED Cellulite Manual Massager Roller for Thighs and Buttocks",
+      "brand": "TESMED",
+      "price": 29.9,
+      "salesParent": 4901,
+      "revenue": 172025.09,
+      "rating": 4.2,
+      "reviews": 7289
+    },
+    {
+      "rank": 7,
+      "asin": "B003KJC2F4",
+      "title": "KS Premium Quality Cupping Set w/ 19 Cups - BEST CUPPING SET IN KOREA",
+      "brand": "KS",
+      "price": 39.99,
+      "salesParent": 4151,
+      "revenue": 165998.5,
+      "rating": 4.7,
+      "reviews": 14436
+    },
+    {
+      "rank": 8,
+      "asin": "B017V7UKW2",
+      "title": "Massage Lacrosse Balls for Myofascial Release, Trigger Point Therapy, Muscle Knots, and Yoga Therapy. Set of 2 Firm Balls (Blue and Red)",
+      "brand": "Kieba",
+      "price": 7.99,
+      "salesParent": 20517,
+      "revenue": 163930.83,
+      "rating": 4.7,
+      "reviews": 24770
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 0,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 0,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 6125250,
+    "priorHeadRevenue": 6123198,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 11,
+      "pct": 11,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 17,
+      "brandCount": 88,
+      "level": "分散",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.45,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0C23X74J6",
+        "title": "BESKAR Foot Massager Roller for Plantar Fasciitis Relief",
+        "rating": 4.6,
+        "reviews": 6618
+      },
+      {
+        "rank": 2,
+        "asin": "B076Q6442Z",
+        "title": "HEETA Scalp Massager Hair Growth Scrubber for Dandruff Removal Hair Care",
+        "rating": 4.6,
+        "reviews": 154410
+      },
+      {
+        "rank": 3,
+        "asin": "B0006VJ6TO",
+        "title": "Body Back Buddy Classic Back Massager &amp; Neck Massager for Pain Relief, Blue",
+        "rating": 4.6,
+        "reviews": 18517
+      },
+      {
+        "rank": 4,
+        "asin": "B07DPCWV8Z",
+        "title": "PSO-RITE Psoas Muscle Release Tool – Made in USA, Patented Deep Tissue Massage Device for Your Back, Hip Flexor &amp; Trigger Point Relief, Night Black",
+        "rating": 4.4,
+        "reviews": 7755
+      },
+      {
+        "rank": 5,
+        "asin": "B0G51JVB9S",
+        "title": "Lymphatic Contour Face Brush, Dry Brush Massager for Lymphatic Drainage",
+        "rating": 4.6,
+        "reviews": 2057
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:10079996011:10080000011:16303031",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

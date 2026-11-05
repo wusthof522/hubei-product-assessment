@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "1272941011",
+  "level": "L2",
+  "categoryPathEn": "Patio, Lawn & Garden > Pools, Hot Tubs & Supplies",
+  "categoryPathCn": "庭院、草坪和园艺 > 泳池及配件",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 86,
+    "totalRevenue": 44657387,
+    "avgRevenue": 519272,
+    "medianPrice": 261.44,
+    "priceBand": "$71.98 - $699.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B002WKO7LY",
+      "title": "In The Swim 3 Inch Stabilized Chlorine Tablets - 50 Pounds",
+      "brand": "In The Swim",
+      "price": 154.99,
+      "salesParent": 11474,
+      "revenue": 1808302.5,
+      "rating": 4.7,
+      "reviews": 24288
+    },
+    {
+      "rank": 2,
+      "asin": "B01N78IVWJ",
+      "title": "Dolphin Nautilus CC Automatic Robotic Pool Vacuum Cleaner, Wall Climbing Scrubber Brush, Top Load Filter Access, Ideal for Above/In-Ground Pools up to 33 FT in Length",
+      "brand": "Dolphin",
+      "price": 649.0,
+      "salesParent": 2411,
+      "revenue": 1648762.25,
+      "rating": 4.0,
+      "reviews": 10752
+    },
+    {
+      "rank": 3,
+      "asin": "B0H3VFVJG8",
+      "title": "UIRWAY 500D Winter Pool Cover 12FT Round [Upgraded Heavy Duty Thick Fabric]",
+      "brand": "UIRWAY",
+      "price": 199.99,
+      "salesParent": 7066,
+      "revenue": 1413129.38,
+      "rating": 4.3,
+      "reviews": 1677
+    },
+    {
+      "rank": 4,
+      "asin": "B0H3VJGBXT",
+      "title": "UIRWAY 500D Winter Pool Cover 27FT Round [Upgraded Heavy Duty Thick Fabric]",
+      "brand": "UIRWAY",
+      "price": 189.99,
+      "salesParent": 6312,
+      "revenue": 1199216.88,
+      "rating": 4.3,
+      "reviews": 8
+    },
+    {
+      "rank": 5,
+      "asin": "B002WKKEU2",
+      "title": "In The Swim Pool Closing Kit - 15,000 Gallons",
+      "brand": "In The Swim",
+      "price": 39.99,
+      "salesParent": 24639,
+      "revenue": 1132901.25,
+      "rating": 4.7,
+      "reviews": 9738
+    },
+    {
+      "rank": 6,
+      "asin": "B0H3VDFG97",
+      "title": "UIRWAY 22 Ft Winter Round Pool Cover with Reflective Strips, Premium Fabric",
+      "brand": "UIRWAY",
+      "price": 139.99,
+      "salesParent": 8034,
+      "revenue": 1124679.75,
+      "rating": 4.1,
+      "reviews": 2577
+    },
+    {
+      "rank": 7,
+      "asin": "B0H3VKX63R",
+      "title": "UIRWAY 500D Winter Pool Cover 22FT Round [Upgraded Heavy Duty Thick Fabric]",
+      "brand": "UIRWAY",
+      "price": 149.99,
+      "salesParent": 7057,
+      "revenue": 1058479.5,
+      "rating": 4.3,
+      "reviews": 1688
+    },
+    {
+      "rank": 8,
+      "asin": "B0GDF9W9LQ",
+      "title": "Beatbot Sora 70 AI Navigation Pool Vacuum Robot Full-Coverage Pool Cleaning",
+      "brand": "Beatbot",
+      "price": 1499.0,
+      "salesParent": 691,
+      "revenue": 1035809.0,
+      "rating": 4.1,
+      "reviews": 252
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 0,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 0,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 44657387,
+    "priorHeadRevenue": 44803595,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 86,
+      "newCount": 35,
+      "pct": 41,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 40,
+      "brandCount": 45,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.35,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B002WKO7LY",
+        "title": "In The Swim 3 Inch Stabilized Chlorine Tablets - 50 Pounds",
+        "rating": 4.7,
+        "reviews": 24288
+      },
+      {
+        "rank": 2,
+        "asin": "B01N78IVWJ",
+        "title": "Dolphin Nautilus CC Automatic Robotic Pool Vacuum Cleaner, Wall Climbing Scrubber Brush, Top Load Filter Access, Ideal for Above/In-Ground Pools up to 33 FT in Length",
+        "rating": 4.0,
+        "reviews": 10752
+      },
+      {
+        "rank": 3,
+        "asin": "B0H3VFVJG8",
+        "title": "UIRWAY 500D Winter Pool Cover 12FT Round [Upgraded Heavy Duty Thick Fabric]",
+        "rating": 4.3,
+        "reviews": 1677
+      },
+      {
+        "rank": 4,
+        "asin": "B0H3VJGBXT",
+        "title": "UIRWAY 500D Winter Pool Cover 27FT Round [Upgraded Heavy Duty Thick Fabric]",
+        "rating": 4.3,
+        "reviews": 8
+      },
+      {
+        "rank": 5,
+        "asin": "B002WKKEU2",
+        "title": "In The Swim Pool Closing Kit - 15,000 Gallons",
+        "rating": 4.7,
+        "reviews": 9738
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "2972638011:1272941011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "2528079011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Sports & Outdoor Play > Pools & Water Toys > Water Balloons",
+  "categoryPathCn": "玩具 > 体育 > 游泳池 > 水气球",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 88,
+    "totalRevenue": 420295,
+    "avgRevenue": 4776,
+    "medianPrice": 22.99,
+    "priceBand": "$17.99 - $28.74",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0B459CY9W",
+      "title": "Original Bunch O Balloons Tropical Party 330+ Rapid-Filling Self-Sealing Water Balloons (Amazon Exclusive 10 count, pack of 1) by ZURU Water Balloon for the Whole Family, Kids, Teens and Adults",
+      "brand": "Bunch O Balloons",
+      "price": 25.23,
+      "salesParent": 6021,
+      "revenue": 118493.28,
+      "rating": 4.6,
+      "reviews": 19886
+    },
+    {
+      "rank": 2,
+      "asin": "B0BRZXJFHM",
+      "title": "12Pcs Reusable Water Balloons, Pool Beach water Toys for Boys and Girls, Outdoor Summer Toys for Kids Ages 3-12",
+      "brand": "Smirodi",
+      "price": 19.99,
+      "salesParent": 2475,
+      "revenue": 50341.5,
+      "rating": 4.7,
+      "reviews": 3567
+    },
+    {
+      "rank": 3,
+      "asin": "B0BR7TS7P6",
+      "title": "Reusable Water Balloons 12PCS - Summer Water Toys for Pool Beach &amp; Outdoor &amp; Bath, Self-Sealing Refillable Water Bombs for Kids Ages 3-14, Magnetic Splash Balls for Kids Fun Games &amp; Activities",
+      "brand": "KOKODI",
+      "price": 19.98,
+      "salesParent": 1252,
+      "revenue": 25027.48,
+      "rating": 4.7,
+      "reviews": 2053
+    },
+    {
+      "rank": 4,
+      "asin": "B0B44PDCLC",
+      "title": "Bunch O Balloons Tropical Party (6 Pack) by ZURU, 200+ Rapid-Filling Self-Sealing Tropical Colored Water Balloons for Outdoor Family, Friends, Children Summer Fun (6 Pack)",
+      "brand": "Bunch O Balloons",
+      "price": 15.99,
+      "salesParent": 950,
+      "revenue": 17014.5,
+      "rating": 4.6,
+      "reviews": 2525
+    },
+    {
+      "rank": 5,
+      "asin": "B0B4WFHDW9",
+      "title": "16Pcs Reusable Water Bomb Balloons, Pool Beach Toys for Kids ages 3-12, Summer Toy Water Toy for and Girls, Outdoor Activities Water Games Toys Self Sealing Water Splash Ball for Fun",
+      "brand": "Tlitlimom",
+      "price": 25.99,
+      "salesParent": 379,
+      "revenue": 9850.21,
+      "rating": 4.7,
+      "reviews": 5852
+    },
+    {
+      "rank": 6,
+      "asin": "B09YH8WH7V",
+      "title": "60 Pcs Reusable Water Balls, Reusable Water Balloons for Outdoor Toys and Games, Water Toys for Kids and Adults Boys and Girls - Summer Toys Ball for Pool and Backyard Fun",
+      "brand": "BEFANS",
+      "price": 21.99,
+      "salesParent": 405,
+      "revenue": 8905.95,
+      "rating": 4.4,
+      "reviews": 1608
+    },
+    {
+      "rank": 7,
+      "asin": "B09Y4CPBT5",
+      "title": "Water Balloon Launcher ;water balloon slingshot ;water balloon launcher slingshot;Beast 300-yard Waters Balloon Slingshot/Cannon/Launcher ;yellow-2pcs",
+      "brand": "lopfg",
+      "price": 19.99,
+      "salesParent": 416,
+      "revenue": 8315.84,
+      "rating": 4.4,
+      "reviews": 151
+    },
+    {
+      "rank": 8,
+      "asin": "B087CCVD5D",
+      "title": "ZURU Bunch O Balloons, 420 Water Balloons, Fill &amp; Tie 100 in 60 Seconds,",
+      "brand": "ZURU",
+      "price": 27.5,
+      "salesParent": 296,
+      "revenue": 8308.72,
+      "rating": 4.7,
+      "reviews": 1628
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -17,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -17,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 420295,
+    "priorHeadRevenue": 504099,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 88,
+      "newCount": 38,
+      "pct": 44,
+      "unknownLaunch": 1,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 62,
+      "brandCount": 64,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.22,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0B459CY9W",
+        "title": "Original Bunch O Balloons Tropical Party 330+ Rapid-Filling Self-Sealing Water Balloons (Amazon Exclusive 10 count, pack of 1) by ZURU Water Balloon for the Whole Family, Kids, Teens and Adults",
+        "rating": 4.6,
+        "reviews": 19886
+      },
+      {
+        "rank": 2,
+        "asin": "B0BRZXJFHM",
+        "title": "12Pcs Reusable Water Balloons, Pool Beach water Toys for Boys and Girls, Outdoor Summer Toys for Kids Ages 3-12",
+        "rating": 4.7,
+        "reviews": 3567
+      },
+      {
+        "rank": 3,
+        "asin": "B0BR7TS7P6",
+        "title": "Reusable Water Balloons 12PCS - Summer Water Toys for Pool Beach &amp; Outdoor &amp; Bath, Self-Sealing Refillable Water Bombs for Kids Ages 3-14, Magnetic Splash Balls for Kids Fun Games &amp; Activities",
+        "rating": 4.7,
+        "reviews": 2053
+      },
+      {
+        "rank": 4,
+        "asin": "B0B44PDCLC",
+        "title": "Bunch O Balloons Tropical Party (6 Pack) by ZURU, 200+ Rapid-Filling Self-Sealing Tropical Colored Water Balloons for Outdoor Family, Friends, Children Summer Fun (6 Pack)",
+        "rating": 4.6,
+        "reviews": 2525
+      },
+      {
+        "rank": 5,
+        "asin": "B0B4WFHDW9",
+        "title": "16Pcs Reusable Water Bomb Balloons, Pool Beach Toys for Kids ages 3-12, Summer Toy Water Toy for and Girls, Outdoor Activities Water Games Toys Self Sealing Water Splash Ball for Fun",
+        "rating": 4.7,
+        "reviews": 5852
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166420011:166437011:2528079011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

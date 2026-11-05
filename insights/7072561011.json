@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "7072561011",
+  "level": "L2",
+  "categoryPathEn": "Cell Phones & Accessories > Cell Phones",
+  "categoryPathCn": "手机 > 手机",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 95,
+    "totalRevenue": 96836260,
+    "avgRevenue": 1019329,
+    "medianPrice": 549.0,
+    "priceBand": "$255.0 - $879.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0G4SWDH8P",
+      "title": "Samsung Galaxy S26 Ultra, Unlocked Android Smartphone, 256GB, Black",
+      "brand": "Samsung",
+      "price": 1144.11,
+      "salesParent": 15825,
+      "revenue": 17902190.0,
+      "rating": 4.6,
+      "reviews": 2299
+    },
+    {
+      "rank": 2,
+      "asin": "B0GQYTNTRG",
+      "title": "Samsung Galaxy S26 Ultra, Unlocked Android Smartphone + Buds4 Pro, 512GB, Privacy Display, Galaxy AI, AI Camera, Super Fast Charging 3.0, Durable Battery, 2026, Cobalt Violet",
+      "brand": "Samsung",
+      "price": 1599.98,
+      "salesParent": 5304,
+      "revenue": 8486294.0,
+      "rating": 5.0,
+      "reviews": 2
+    },
+    {
+      "rank": 3,
+      "asin": "B0GQWDS7TG",
+      "title": "Samsung Galaxy S26 Ultra, Unlocked Android Smartphone + Buds4 Pro, 512GB, Privacy Display, Galaxy AI, AI Camera, Super Fast Charging 3.0, Durable Battery, 2026, Sky Blue",
+      "brand": "Samsung",
+      "price": 1553.86,
+      "salesParent": 5402,
+      "revenue": 8393952.0,
+      "rating": 5.0,
+      "reviews": 4
+    },
+    {
+      "rank": 4,
+      "asin": "B0GQWSG3GH",
+      "title": "Samsung Galaxy S26 Ultra, Unlocked Android Smartphone + Buds4 Pro, 512GB, Privacy Display, Galaxy AI, AI Camera, Super Fast Charging 3.0, Durable Battery, 2026, White",
+      "brand": "Samsung",
+      "price": 1599.98,
+      "salesParent": 4810,
+      "revenue": 7695903.5,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "rank": 5,
+      "asin": "B0GQYQR575",
+      "title": "Samsung Galaxy S26 Ultra, Unlocked Android Smartphone + Buds4 Pro, 512GB, Privacy Display, Galaxy AI, AI Camera, Super Fast Charging 3.0, Durable Battery, 2026, Black",
+      "brand": "Samsung",
+      "price": 1599.98,
+      "salesParent": 4734,
+      "revenue": 7574305.0,
+      "rating": 5.0,
+      "reviews": 6
+    },
+    {
+      "rank": 6,
+      "asin": "B0GQW7JPKH",
+      "title": "Samsung Galaxy S26 Ultra, Unlocked Android Smartphone + Buds4 Pro, 256GB, Privacy Display, Galaxy AI, AI Camera, Super Fast Charging 3.0, Durable Battery, 2026, Cobalt Violet",
+      "brand": "Samsung",
+      "price": 1392.45,
+      "salesParent": 4665,
+      "revenue": 6495779.0,
+      "rating": 4.6,
+      "reviews": 894
+    },
+    {
+      "rank": 7,
+      "asin": "B0H126B3KV",
+      "title": "Samsung Galaxy Z Fold8 Unlocked Android Smartphone, 256GB Graphite",
+      "brand": "Samsung",
+      "price": 1699.99,
+      "salesParent": 3489,
+      "revenue": 6247264.0,
+      "rating": 4.7,
+      "reviews": 321
+    },
+    {
+      "rank": 8,
+      "asin": "B0GQW2HLMK",
+      "title": "Samsung Galaxy S26, Unlocked Android Smartphone + Buds4 Pro, 512GB, Powerful Processor, Galaxy AI, Immersive Viewing, Durable Battery, 2026, Black",
+      "brand": "Samsung",
+      "price": 1299.98,
+      "salesParent": 4690,
+      "revenue": 6096906.0,
+      "rating": null,
+      "reviews": null
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -15,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -15,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 96836260,
+    "priorHeadRevenue": 114249806,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 95,
+      "newCount": 66,
+      "pct": 69,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 96,
+      "brandCount": 19,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.34,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0G4SWDH8P",
+        "title": "Samsung Galaxy S26 Ultra, Unlocked Android Smartphone, 256GB, Black",
+        "rating": 4.6,
+        "reviews": 2299
+      },
+      {
+        "rank": 2,
+        "asin": "B0GQYTNTRG",
+        "title": "Samsung Galaxy S26 Ultra, Unlocked Android Smartphone + Buds4 Pro, 512GB, Privacy Display, Galaxy AI, AI Camera, Super Fast Charging 3.0, Durable Battery, 2026, Cobalt Violet",
+        "rating": 5.0,
+        "reviews": 2
+      },
+      {
+        "rank": 3,
+        "asin": "B0GQWDS7TG",
+        "title": "Samsung Galaxy S26 Ultra, Unlocked Android Smartphone + Buds4 Pro, 512GB, Privacy Display, Galaxy AI, AI Camera, Super Fast Charging 3.0, Durable Battery, 2026, Sky Blue",
+        "rating": 5.0,
+        "reviews": 4
+      },
+      {
+        "rank": 4,
+        "asin": "B0GQWSG3GH",
+        "title": "Samsung Galaxy S26 Ultra, Unlocked Android Smartphone + Buds4 Pro, 512GB, Privacy Display, Galaxy AI, AI Camera, Super Fast Charging 3.0, Durable Battery, 2026, White",
+        "rating": null,
+        "reviews": null
+      },
+      {
+        "rank": 5,
+        "asin": "B0GQYQR575",
+        "title": "Samsung Galaxy S26 Ultra, Unlocked Android Smartphone + Buds4 Pro, 512GB, Privacy Display, Galaxy AI, AI Camera, Super Fast Charging 3.0, Durable Battery, 2026, Black",
+        "rating": 5.0,
+        "reviews": 6
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "2335752011:7072561011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

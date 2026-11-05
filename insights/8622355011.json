@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "8622355011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Health Care > Incontinence & Ostomy > Adhesives & Tapes",
+  "categoryPathCn": "健康与家居 > 卫生保健 > 成人失禁用品 > 粘合剂与胶带",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "insufficient",
+  "marketSize": {
+    "sampleCount": 12,
+    "totalRevenue": 121881,
+    "avgRevenue": 10157,
+    "medianPrice": 15.4,
+    "priceBand": "$13.46 - $28.74",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0B3SCYRG7",
+      "title": "Medical Adhesive Spray – Silicone Skin Glue for Ostomy Supplies",
+      "brand": "Skinister",
+      "price": 28.99,
+      "salesParent": 1751,
+      "revenue": 50761.49,
+      "rating": 4.4,
+      "reviews": 685
+    },
+    {
+      "rank": 2,
+      "asin": "B0DLJS5PQH",
+      "title": "Ten Aces Medical Adhesive Spray for Ostomy, Colostomy &amp; Urostomy, 50 mL",
+      "brand": "Ten Aces Med",
+      "price": 29.89,
+      "salesParent": 721,
+      "revenue": 21579.53,
+      "rating": 4.3,
+      "reviews": 187
+    },
+    {
+      "rank": 3,
+      "asin": "B008IUA6DU",
+      "title": "Torbot Skin-Tac Liquid Adhesive Barrier [4 Oz] (Ea-1)",
+      "brand": "Torbot",
+      "price": 15.5,
+      "salesParent": 977,
+      "revenue": 15153.0,
+      "rating": 4.5,
+      "reviews": 5653
+    },
+    {
+      "rank": 4,
+      "asin": "B001LZUWP6",
+      "title": "&gt;Skin tac adh 4 oz. Skin-Tac-H",
+      "brand": "Torbot",
+      "price": 13.3,
+      "salesParent": 455,
+      "revenue": 6297.2,
+      "rating": 4.5,
+      "reviews": 452
+    },
+    {
+      "rank": 5,
+      "asin": "B0H4Z6B4Y6",
+      "title": "No Sting Medical Adhesive Spray - Gentle Skin Glue for Ostomy Supplies, Colostomy, Ileostomy &amp; Urostomy Bags - Secure Water-Resistant Stoma Adhesive Prep &amp; Prosthetics Support",
+      "brand": "Ostmekt",
+      "price": 29.99,
+      "salesParent": 204,
+      "revenue": 6117.96,
+      "rating": 4.3,
+      "reviews": 6
+    },
+    {
+      "rank": 6,
+      "asin": "B0GLRQ4VV4",
+      "title": "Medical Adhesive Spray - Strong Waterproof Skin Barrier for Ostomy Bags, Prosthetics &amp; Wigs - Hypoallergenic, Long-Lasting Adhesion for Stoma Care",
+      "brand": "Ostmekt",
+      "price": 27.99,
+      "salesParent": 200,
+      "revenue": 5598.0,
+      "rating": 3.8,
+      "reviews": 66
+    },
+    {
+      "rank": 7,
+      "asin": "B01MZC3FK1",
+      "title": "Skin Tac Liquid Adhesive 4 oz Bottle",
+      "brand": "Torbot",
+      "price": 15.3,
+      "salesParent": 327,
+      "revenue": 4963.86,
+      "rating": 4.6,
+      "reviews": 1836
+    },
+    {
+      "rank": 8,
+      "asin": "B0GN3RBCPB",
+      "title": "Safe n' Simple Silicone Medical Adhesive Spray - 2oz Bottle - Versatile No Sting Skin Adhesive Spray and Medical Skin Glue for Ostomy Supplies, Diabetic Sensors, Bandages, Odor-Free, Water-Resistant",
+      "brand": "Safe n' Simple",
+      "price": 17.99,
+      "salesParent": 243,
+      "revenue": 4371.57,
+      "rating": 3.6,
+      "reviews": 85
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": null,
+    "direction": "flat",
+    "comparable": null,
+    "rawYoyPct": -7,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 121881,
+    "priorHeadRevenue": 130809,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 12,
+      "newCount": 5,
+      "pct": 42,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 99,
+      "brandCount": 7,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.27,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0B3SCYRG7",
+        "title": "Medical Adhesive Spray – Silicone Skin Glue for Ostomy Supplies",
+        "rating": 4.4,
+        "reviews": 685
+      },
+      {
+        "rank": 2,
+        "asin": "B0DLJS5PQH",
+        "title": "Ten Aces Medical Adhesive Spray for Ostomy, Colostomy &amp; Urostomy, 50 mL",
+        "rating": 4.3,
+        "reviews": 187
+      },
+      {
+        "rank": 3,
+        "asin": "B008IUA6DU",
+        "title": "Torbot Skin-Tac Liquid Adhesive Barrier [4 Oz] (Ea-1)",
+        "rating": 4.5,
+        "reviews": 5653
+      },
+      {
+        "rank": 4,
+        "asin": "B001LZUWP6",
+        "title": "&gt;Skin tac adh 4 oz. Skin-Tac-H",
+        "rating": 4.5,
+        "reviews": 452
+      },
+      {
+        "rank": 5,
+        "asin": "B0H4Z6B4Y6",
+        "title": "No Sting Medical Adhesive Spray - Gentle Skin Glue for Ostomy Supplies, Colostomy, Ileostomy &amp; Urostomy Bags - Secure Water-Resistant Stoma Adhesive Prep &amp; Prosthetics Support",
+        "rating": 4.3,
+        "reviews": 6
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3760941:3763261:8622355011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

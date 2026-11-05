@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "551240",
+  "level": "L2",
+  "categoryPathEn": "Tools & Home Improvement > Building Supplies",
+  "categoryPathCn": "工具 > 建筑用品",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 76,
+    "totalRevenue": 58332398,
+    "avgRevenue": 767532,
+    "medianPrice": 61.48,
+    "priceBand": "$40.46 - $141.49",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B00CJZ8LAK",
+      "title": "Filterbuy 20x20x1 Air Filter MERV 8 Dust &amp; Allergy Defense (4-Pack)",
+      "brand": "Filterbuy",
+      "price": 29.96,
+      "salesParent": 109492,
+      "revenue": 3125996.5,
+      "rating": 4.7,
+      "reviews": 160737
+    },
+    {
+      "rank": 2,
+      "asin": "B07G2HWJWC",
+      "title": "Simply 16x25x1 Air Filter, MERV 8, 6 Pack, For Home AC Furnace &amp; HVAC (Actual Size: 15.75&quot;x24.75&quot;x0.75&quot;) DUST, Pet, &amp; Allergy Control",
+      "brand": "Simply",
+      "price": 36.87,
+      "salesParent": 66108,
+      "revenue": 2505493.25,
+      "rating": 4.7,
+      "reviews": 55350
+    },
+    {
+      "rank": 3,
+      "asin": "B004Q6EZYQ",
+      "title": "Filtrete 20x20x1 Air Filter, MERV 11, MPR 1000, 2 HVAC Filters",
+      "brand": "Filtrete",
+      "price": 29.62,
+      "salesParent": 82210,
+      "revenue": 2229535.25,
+      "rating": 4.8,
+      "reviews": 59026
+    },
+    {
+      "rank": 4,
+      "asin": "B0D5BBYRJM",
+      "title": "Google Nest Learning Thermostat (4th gen) + Nest Temperature Sensor (2nd gen) - Obsidian",
+      "brand": "Google",
+      "price": 217.99,
+      "salesParent": 9535,
+      "revenue": 2188091.75,
+      "rating": 4.4,
+      "reviews": 2680
+    },
+    {
+      "rank": 5,
+      "asin": "B07FNXPGLG",
+      "title": "Filtrete 20x25x1 Air Filter, MERV 5, MPR 300, 6 HVAC Filters",
+      "brand": "Filtrete",
+      "price": 29.97,
+      "salesParent": 69700,
+      "revenue": 2088909.0,
+      "rating": 4.7,
+      "reviews": 187241
+    },
+    {
+      "rank": 6,
+      "asin": "B0040VU3XO",
+      "title": "AprilAire 213 Replacement Filter for AprilAire Whole-House Air Purifiers - MERV 13, Healthy Home Allergy, 20x25x4 Air Filter (Pack of 1)",
+      "brand": "Aprilaire",
+      "price": 64.99,
+      "salesParent": 28023,
+      "revenue": 1804681.25,
+      "rating": 4.8,
+      "reviews": 23658
+    },
+    {
+      "rank": 7,
+      "asin": "B08HRPDYTP",
+      "title": "Google Nest Thermostat - Smart Thermostat for Home - Programmable Wifi Thermostat - Snow",
+      "brand": "Google",
+      "price": 79.0,
+      "salesParent": 18204,
+      "revenue": 1802013.88,
+      "rating": 4.1,
+      "reviews": 29786
+    },
+    {
+      "rank": 8,
+      "asin": "B005GZ89WU",
+      "title": "Filtrete 16x25x1 Air Filter, MERV 11, MPR 1000, 4 HVAC Filters",
+      "brand": "Filtrete",
+      "price": 43.98,
+      "salesParent": 35186,
+      "revenue": 1628760.0,
+      "rating": 4.8,
+      "reviews": 26040
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -6,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -6,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 58332398,
+    "priorHeadRevenue": 62286296,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 76,
+      "newCount": 6,
+      "pct": 8,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 58,
+      "brandCount": 32,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.56,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B00CJZ8LAK",
+        "title": "Filterbuy 20x20x1 Air Filter MERV 8 Dust &amp; Allergy Defense (4-Pack)",
+        "rating": 4.7,
+        "reviews": 160737
+      },
+      {
+        "rank": 2,
+        "asin": "B07G2HWJWC",
+        "title": "Simply 16x25x1 Air Filter, MERV 8, 6 Pack, For Home AC Furnace &amp; HVAC (Actual Size: 15.75&quot;x24.75&quot;x0.75&quot;) DUST, Pet, &amp; Allergy Control",
+        "rating": 4.7,
+        "reviews": 55350
+      },
+      {
+        "rank": 3,
+        "asin": "B004Q6EZYQ",
+        "title": "Filtrete 20x20x1 Air Filter, MERV 11, MPR 1000, 2 HVAC Filters",
+        "rating": 4.8,
+        "reviews": 59026
+      },
+      {
+        "rank": 4,
+        "asin": "B0D5BBYRJM",
+        "title": "Google Nest Learning Thermostat (4th gen) + Nest Temperature Sensor (2nd gen) - Obsidian",
+        "rating": 4.4,
+        "reviews": 2680
+      },
+      {
+        "rank": 5,
+        "asin": "B07FNXPGLG",
+        "title": "Filtrete 20x25x1 Air Filter, MERV 5, MPR 300, 6 HVAC Filters",
+        "rating": 4.7,
+        "reviews": 187241
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "228013:551240",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "172574",
+  "level": "L2",
+  "categoryPathEn": "Office Products > Office Electronics",
+  "categoryPathCn": "办公产品 > 电子办公",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 164671386,
+    "avgRevenue": 1663347,
+    "medianPrice": 121.46,
+    "priceBand": "$63.89 - $279.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0GKNZ84TT",
+      "title": "Amazon Basics Clear Thermal Laminating Plastic Paper Laminator Sheets, 9 x 11.5-Inch, 1200-Pack, 2.8mil",
+      "brand": "Amazon Basics",
+      "price": 86.96,
+      "salesParent": 87435,
+      "revenue": 8110471.0,
+      "rating": 4.8,
+      "reviews": 95227
+    },
+    {
+      "rank": 2,
+      "asin": "B0GD8246HP",
+      "title": "HP 210A (W2100AQ1) Original Cartridge Toner CMYK 4-Pk for 4201/4301 Series",
+      "brand": "HP",
+      "price": 526.89,
+      "salesParent": 11657,
+      "revenue": 6141957.0,
+      "rating": 4.4,
+      "reviews": 66
+    },
+    {
+      "rank": 3,
+      "asin": "B08412HXK9",
+      "title": "HP 67 Black/Tri-Color Ink Cartridges (2-Pack) | Works with DeskJet 1255, 2700, 4100, Envy 6000, 6400 | Instant Ink Eligible | 3YP29AN | Packaging May Vary",
+      "brand": "HP",
+      "price": 43.89,
+      "salesParent": 131339,
+      "revenue": 5764468.5,
+      "rating": 4.6,
+      "reviews": 64308
+    },
+    {
+      "rank": 4,
+      "asin": "B0BNQFCPZY",
+      "title": "Brother Genuine TN2294PK Standard Yield 4-Pack Printer Toner Cartridges - Black, Cyan, Magenta, Yellow Toner Multipack",
+      "brand": "Brother",
+      "price": 300.88,
+      "salesParent": 18396,
+      "revenue": 5510154.0,
+      "rating": 4.3,
+      "reviews": 422
+    },
+    {
+      "rank": 5,
+      "asin": "B0GRKCJ56W",
+      "title": "Brother Genuine Standard Yield Toner Cartridge, TN730, Replacement Black Toner, Page Yield Up to 1,200 Pages, Amazon Dash Replenishment Cartridge,(Pack of 3)",
+      "brand": "Brother",
+      "price": 167.37,
+      "salesParent": 31505,
+      "revenue": 5272991.5,
+      "rating": 4.7,
+      "reviews": 33522
+    },
+    {
+      "rank": 6,
+      "asin": "B07T2S3D6J",
+      "title": "HP Original 962 Cyan, Magenta, Yellow / 962XL Black Ink Cartridges (4-Pack) | Works OfficeJet 9010 Series, OfficeJet Pro 9010, 9020 Series | Eligible for Instant Ink | 3JB34AN",
+      "brand": "HP",
+      "price": 154.89,
+      "salesParent": 30636,
+      "revenue": 4745210.0,
+      "rating": 4.6,
+      "reviews": 7806
+    },
+    {
+      "rank": 7,
+      "asin": "B0CJCG8QKB",
+      "title": "HP 936 Black, Cyan, Magenta, Yellow Ink Cartridges (4-Pack) | Works with OfficeJet 9120, Pro 9110, 9120, 9130, Wide Format 9730 | Eligible for Instant Ink | 6C3Z5LN",
+      "brand": "HP",
+      "price": 145.89,
+      "salesParent": 30610,
+      "revenue": 4465693.0,
+      "rating": 4.6,
+      "reviews": 2233
+    },
+    {
+      "rank": 8,
+      "asin": "B06ZY9LP74",
+      "title": "HP 64 Black &amp; Tri-Color Ink Cartridges Printers (Combo Pack) | Works with Printer Series: Inspire 7950e; Envy Photo 6200, 7100, 7800; Tango | Eligible for Instant Ink | X4D92AN",
+      "brand": "HP",
+      "price": 55.89,
+      "salesParent": 79503,
+      "revenue": 4443422.5,
+      "rating": 4.6,
+      "reviews": 24531
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -8,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -8,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 164671386,
+    "priorHeadRevenue": 179444711,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 29,
+      "pct": 29,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 85,
+      "brandCount": 20,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.38,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0GKNZ84TT",
+        "title": "Amazon Basics Clear Thermal Laminating Plastic Paper Laminator Sheets, 9 x 11.5-Inch, 1200-Pack, 2.8mil",
+        "rating": 4.8,
+        "reviews": 95227
+      },
+      {
+        "rank": 2,
+        "asin": "B0GD8246HP",
+        "title": "HP 210A (W2100AQ1) Original Cartridge Toner CMYK 4-Pk for 4201/4301 Series",
+        "rating": 4.4,
+        "reviews": 66
+      },
+      {
+        "rank": 3,
+        "asin": "B08412HXK9",
+        "title": "HP 67 Black/Tri-Color Ink Cartridges (2-Pack) | Works with DeskJet 1255, 2700, 4100, Envy 6000, 6400 | Instant Ink Eligible | 3YP29AN | Packaging May Vary",
+        "rating": 4.6,
+        "reviews": 64308
+      },
+      {
+        "rank": 4,
+        "asin": "B0BNQFCPZY",
+        "title": "Brother Genuine TN2294PK Standard Yield 4-Pack Printer Toner Cartridges - Black, Cyan, Magenta, Yellow Toner Multipack",
+        "rating": 4.3,
+        "reviews": 422
+      },
+      {
+        "rank": 5,
+        "asin": "B0GRKCJ56W",
+        "title": "Brother Genuine Standard Yield Toner Cartridge, TN730, Replacement Black Toner, Page Yield Up to 1,200 Pages, Amazon Dash Replenishment Cartridge,(Pack of 3)",
+        "rating": 4.7,
+        "reviews": 33522
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "1064954:172574",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

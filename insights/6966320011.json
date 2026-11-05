@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "6966320011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins, Minerals & Supplements > Herbal Supplements > Marshmallow Root",
+  "categoryPathCn": "健康与家居 > 身、泳和附剂 > 草本补充 > 药蜀葵根",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 57,
+    "totalRevenue": 704846,
+    "avgRevenue": 12366,
+    "medianPrice": 19.99,
+    "priceBand": "$13.24 - $26.36",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0FT93JHPS",
+      "title": "EsoRepair Esophageal &amp; Stomach Health Supplements for Men &amp; Women - Digestive Comfort - Slippery Elm Bark, Zinc L-Carnosine &amp; Aloe Vera Extract - Non-GMO &amp; Dairy Free",
+      "brand": "NANOREVIVE",
+      "price": 50.49,
+      "salesParent": 5827,
+      "revenue": 331847.66,
+      "rating": 3.9,
+      "reviews": 1063
+    },
+    {
+      "rank": 2,
+      "asin": "B001VNGOPU",
+      "title": "Frontier Organic Burdock Root, 1-Pound Bulk Bag, Common in Root Beer Recipes, Cut &amp; Sifted, Sustainable Grown, Kosher (Packaging May vary)",
+      "brand": "Frontier Co-op",
+      "price": 17.59,
+      "salesParent": 2352,
+      "revenue": 41371.68,
+      "rating": 4.7,
+      "reviews": 8770
+    },
+    {
+      "rank": 3,
+      "asin": "B009A7E4FQ",
+      "title": "Frontier Co-op Organic Marshmallow Root Herb, Cut and Sifted - For Marshmallow Root Tea, Powder, Capsules and More - Kosher | 16 Ounce (Pack of 1)",
+      "brand": "Frontier Co-op",
+      "price": 28.08,
+      "salesParent": 1266,
+      "revenue": 35258.1,
+      "rating": 4.6,
+      "reviews": 1831
+    },
+    {
+      "rank": 4,
+      "asin": "B0C7JT1D6S",
+      "title": "Organic Marshmallow Root Cut &amp; Sifted, 4 Ounces (Althaea officinalis) USDA Certified | Resealable Pouch| Packaged in The USA (Pack of 1)",
+      "brand": "Halo Naturals",
+      "price": 9.99,
+      "salesParent": 2797,
+      "revenue": 27942.03,
+      "rating": 4.7,
+      "reviews": 563
+    },
+    {
+      "rank": 5,
+      "asin": "B005UO54J8",
+      "title": "Starwest Botanicals Organic Marshmallow Root, Cut &amp; Sifted - Bulk 1 lb Bag",
+      "brand": "Starwest Botanicals",
+      "price": 28.84,
+      "salesParent": 862,
+      "revenue": 24963.52,
+      "rating": 4.6,
+      "reviews": 1134
+    },
+    {
+      "rank": 6,
+      "asin": "B000302280",
+      "title": "Nature's Way Premium Herbal Marshmallow Root, 960 mg per Serving, 100 VCaps",
+      "brand": "Nature's Way",
+      "price": 13.99,
+      "salesParent": 1637,
+      "revenue": 22868.89,
+      "rating": 4.5,
+      "reviews": 3835
+    },
+    {
+      "rank": 7,
+      "asin": "B0D54SYTPN",
+      "title": "Liberty Lifestyle Lions Mane Mushroom Supplement with Turkey Tail Reishi Cordyceps Chaga with Marshmallow Root - 2-Pack",
+      "brand": "Liberty Lifestyle",
+      "price": 31.95,
+      "salesParent": 638,
+      "revenue": 20384.1,
+      "rating": 4.5,
+      "reviews": 499
+    },
+    {
+      "rank": 8,
+      "asin": "B074WLN3WN",
+      "title": "Micro Ingredients Organic Marshmallow Root Powder, 8 Ounce, Filler Free and Traditionally Used, Supports Digestive Gastrointestinal Health, Non-Irradiated and No GMOs, Vegan Friendly",
+      "brand": "Micro Ingredients",
+      "price": 34.95,
+      "salesParent": 475,
+      "revenue": 16601.25,
+      "rating": 4.5,
+      "reviews": 2076
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 55,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 55,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 704846,
+    "priorHeadRevenue": 455202,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 57,
+      "newCount": 18,
+      "pct": 32,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 70,
+      "brandCount": 47,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.48,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0FT93JHPS",
+        "title": "EsoRepair Esophageal &amp; Stomach Health Supplements for Men &amp; Women - Digestive Comfort - Slippery Elm Bark, Zinc L-Carnosine &amp; Aloe Vera Extract - Non-GMO &amp; Dairy Free",
+        "rating": 3.9,
+        "reviews": 1063
+      },
+      {
+        "rank": 2,
+        "asin": "B001VNGOPU",
+        "title": "Frontier Organic Burdock Root, 1-Pound Bulk Bag, Common in Root Beer Recipes, Cut &amp; Sifted, Sustainable Grown, Kosher (Packaging May vary)",
+        "rating": 4.7,
+        "reviews": 8770
+      },
+      {
+        "rank": 3,
+        "asin": "B009A7E4FQ",
+        "title": "Frontier Co-op Organic Marshmallow Root Herb, Cut and Sifted - For Marshmallow Root Tea, Powder, Capsules and More - Kosher | 16 Ounce (Pack of 1)",
+        "rating": 4.6,
+        "reviews": 1831
+      },
+      {
+        "rank": 4,
+        "asin": "B0C7JT1D6S",
+        "title": "Organic Marshmallow Root Cut &amp; Sifted, 4 Ounces (Althaea officinalis) USDA Certified | Resealable Pouch| Packaged in The USA (Pack of 1)",
+        "rating": 4.7,
+        "reviews": 563
+      },
+      {
+        "rank": 5,
+        "asin": "B005UO54J8",
+        "title": "Starwest Botanicals Organic Marshmallow Root, Cut &amp; Sifted - Bulk 1 lb Bag",
+        "rating": 4.6,
+        "reviews": 1134
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:23675621011:3764461:6966320011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

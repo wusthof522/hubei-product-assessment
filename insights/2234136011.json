@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "2234136011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Collectible Toys > Collectible Display & Storage > Carrying Cases",
+  "categoryPathCn": "玩具 > 收藏品玩具 > 收藏品展示 > 携带箱",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 68,
+    "totalRevenue": 60070,
+    "avgRevenue": 883,
+    "medianPrice": 20.54,
+    "priceBand": "$16.03 - $32.74",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0HLT47DPP",
+      "title": "LISA x PlayStation™ Official Merch PowerA Protection Case for Dualsense Wireless Controller, White, One SizeTitle Generator",
+      "brand": "LISA",
+      "price": 60.0,
+      "salesParent": 284,
+      "revenue": 17040.0,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "rank": 2,
+      "asin": "B0H4Y3KCN2",
+      "title": "KKU 100 Pack Current Comic Book Bags and Boards, Clear Resealable Sleeves",
+      "brand": "KKU",
+      "price": 22.99,
+      "salesParent": 174,
+      "revenue": 4095.96,
+      "rating": 4.4,
+      "reviews": 30
+    },
+    {
+      "rank": 3,
+      "asin": "B0C7W3MTPX",
+      "title": "Lykus Titan M350 Hard Case for DJI Mavic 3 Pro/Classic and RC Pro,RC2",
+      "brand": "Lykus",
+      "price": 69.99,
+      "salesParent": 51,
+      "revenue": 3569.49,
+      "rating": 4.7,
+      "reviews": 501
+    },
+    {
+      "rank": 4,
+      "asin": "B0GYRB921H",
+      "title": "VioraWhite 2 Pcs Mesh Shell Bags Beach, Black, Dark Blue",
+      "brand": "VioraWhite",
+      "price": 11.99,
+      "salesParent": 277,
+      "revenue": 3465.27,
+      "rating": 4.6,
+      "reviews": 92
+    },
+    {
+      "rank": 5,
+      "asin": "B09M6SB9VQ",
+      "title": "Lekufee Waterproof Hard Carrying Case for DJI Mavic 3 Pro/Classic/Combo/Cine and RC Pro/RC 2/RC- N3/N2/N1 and Accessories (Case Only)",
+      "brand": "Lekufee",
+      "price": 89.99,
+      "salesParent": 37,
+      "revenue": 3329.63,
+      "rating": 4.6,
+      "reviews": 503
+    },
+    {
+      "rank": 6,
+      "asin": "B0DPL3F445",
+      "title": "Comic ProLine 100-Ct Bags &amp; Boards Silver Size 7-1/4&quot; Wide 2mil Crystal-Clear OPP Bags, 7-1/8&quot; Wide Acid-Free Boards w/Bonus Sealing Stickers - Packed with 3X Corner Protection - Made in Canada",
+      "brand": "SIDEKICK",
+      "price": 33.95,
+      "salesParent": 85,
+      "revenue": 2865.35,
+      "rating": 4.9,
+      "reviews": 18
+    },
+    {
+      "rank": 7,
+      "asin": "B0FZQ4RB8L",
+      "title": "Travel Rolling Suitcase Compatible with Barbie Dolls 12-Inch, Pink",
+      "brand": "GRAOSO",
+      "price": 39.99,
+      "salesParent": 58,
+      "revenue": 2480.66,
+      "rating": 4.0,
+      "reviews": 45
+    },
+    {
+      "rank": 8,
+      "asin": "B0C6JRRW5Y",
+      "title": "Toniebox Starter Set Hard Case with Handle - Portable Travel Carry Case for Tonies Box Compatible with Tonies Figure (Blue)",
+      "brand": "MEILADY-X",
+      "price": 16.89,
+      "salesParent": 137,
+      "revenue": 2313.93,
+      "rating": 4.7,
+      "reviews": 789
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -56,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -56,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 60070,
+    "priorHeadRevenue": 137986,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 68,
+      "newCount": 42,
+      "pct": 64,
+      "unknownLaunch": 2,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 54,
+      "brandCount": 64,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.46,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0HLT47DPP",
+        "title": "LISA x PlayStation™ Official Merch PowerA Protection Case for Dualsense Wireless Controller, White, One SizeTitle Generator",
+        "rating": null,
+        "reviews": null
+      },
+      {
+        "rank": 2,
+        "asin": "B0H4Y3KCN2",
+        "title": "KKU 100 Pack Current Comic Book Bags and Boards, Clear Resealable Sleeves",
+        "rating": 4.4,
+        "reviews": 30
+      },
+      {
+        "rank": 3,
+        "asin": "B0C7W3MTPX",
+        "title": "Lykus Titan M350 Hard Case for DJI Mavic 3 Pro/Classic and RC Pro,RC2",
+        "rating": 4.7,
+        "reviews": 501
+      },
+      {
+        "rank": 4,
+        "asin": "B0GYRB921H",
+        "title": "VioraWhite 2 Pcs Mesh Shell Bags Beach, Black, Dark Blue",
+        "rating": 4.6,
+        "reviews": 92
+      },
+      {
+        "rank": 5,
+        "asin": "B09M6SB9VQ",
+        "title": "Lekufee Waterproof Hard Carrying Case for DJI Mavic 3 Pro/Classic/Combo/Cine and RC Pro/RC 2/RC- N3/N2/N1 and Accessories (Case Only)",
+        "rating": 4.6,
+        "reviews": 503
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:19431275011:19431291011:2234136011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

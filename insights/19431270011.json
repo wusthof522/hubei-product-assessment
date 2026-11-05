@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "19431270011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Arts & Crafts > Drawing & Writing Boards > Magnetic & Mechanical Drawing Boards",
+  "categoryPathCn": "玩具 > 艺术 > 绘图 > 磁性和机械绘图板",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 1522748,
+    "avgRevenue": 15227,
+    "medianPrice": 19.99,
+    "priceBand": "$14.99 - $24.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0BGN2HQHH",
+      "title": "Kikidex Magnetic Drawing Board, Toddler Girl Toys for 1-3 Year Old, Doodle Board Pad Learning and Educational Toys for 1 2 3 Year Old Kids Birthday Gift (Soft Pink)",
+      "brand": "Kikidex",
+      "price": 26.99,
+      "salesParent": 27104,
+      "revenue": 667571.5,
+      "rating": 4.6,
+      "reviews": 12153
+    },
+    {
+      "rank": 2,
+      "asin": "B0BZ4H7T9N",
+      "title": "Seimome Magnetic Drawing Board, Toddler Girl Toys for 1-3 Year Old, Doodle Board Learning and Educational Kids Toys- Pink",
+      "brand": "Seimome",
+      "price": 23.74,
+      "salesParent": 6241,
+      "revenue": 158146.94,
+      "rating": 4.6,
+      "reviews": 2622
+    },
+    {
+      "rank": 3,
+      "asin": "B08DHTP61S",
+      "title": "SGILE Magnetic Drawing Board for Toddler,Magna Doodle Toys,Large 12.6×8.7&quot;",
+      "brand": "SGILE",
+      "price": 12.99,
+      "salesParent": 4459,
+      "revenue": 74420.71,
+      "rating": 4.6,
+      "reviews": 1689
+    },
+    {
+      "rank": 4,
+      "asin": "B01N1ZVYDM",
+      "title": "Etch A Sketch, Classic Red Drawing Toy with Magic Screen, for Ages 3 and Up",
+      "brand": "Etch A Sketch",
+      "price": 24.95,
+      "salesParent": 2358,
+      "revenue": 59822.46,
+      "rating": 4.5,
+      "reviews": 3243
+    },
+    {
+      "rank": 5,
+      "asin": "B0CGRQ1TCK",
+      "title": "PicassoTiles 2-Pack Magnetic Drawing Board, Letter Board Freestyle STEM Toy",
+      "brand": "PicassoTiles",
+      "price": 35.99,
+      "salesParent": 1526,
+      "revenue": 54920.74,
+      "rating": 4.5,
+      "reviews": 241
+    },
+    {
+      "rank": 6,
+      "asin": "B07KSLK712",
+      "title": "Mini Magnetic Drawing Boards (12-Pack) Party Favor Drawing Tablets for Kids",
+      "brand": "Bedwina",
+      "price": 17.99,
+      "salesParent": 3058,
+      "revenue": 53545.58,
+      "rating": 4.6,
+      "reviews": 6170
+    },
+    {
+      "rank": 7,
+      "asin": "B0CFLMRYGG",
+      "title": "AiTuiTui Magnetic Drawing Board Toys for Kids, Dinosaur Doodle Board Educational Learning Toys Gifts for Boys Girls, Color Sketch Writing Pad Travel Games for Christmas or Birthday (Blue)",
+      "brand": "AiTuiTui",
+      "price": 11.99,
+      "salesParent": 2892,
+      "revenue": 32101.2,
+      "rating": 4.5,
+      "reviews": 4430
+    },
+    {
+      "rank": 8,
+      "asin": "B0CVSGYFHY",
+      "title": "Chuckle &amp; Roar Magnetic Drawing Board for Kids, Rainbow Drawing Pad Ages 6+",
+      "brand": "Chuckle &amp; Roar",
+      "price": 19.99,
+      "salesParent": 1410,
+      "revenue": 26014.5,
+      "rating": 4.6,
+      "reviews": 283
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -17,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -17,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1522748,
+    "priorHeadRevenue": 1840561,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 34,
+      "pct": 34,
+      "unknownLaunch": 1,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 68,
+      "brandCount": 79,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.39,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0BGN2HQHH",
+        "title": "Kikidex Magnetic Drawing Board, Toddler Girl Toys for 1-3 Year Old, Doodle Board Pad Learning and Educational Toys for 1 2 3 Year Old Kids Birthday Gift (Soft Pink)",
+        "rating": 4.6,
+        "reviews": 12153
+      },
+      {
+        "rank": 2,
+        "asin": "B0BZ4H7T9N",
+        "title": "Seimome Magnetic Drawing Board, Toddler Girl Toys for 1-3 Year Old, Doodle Board Learning and Educational Kids Toys- Pink",
+        "rating": 4.6,
+        "reviews": 2622
+      },
+      {
+        "rank": 3,
+        "asin": "B08DHTP61S",
+        "title": "SGILE Magnetic Drawing Board for Toddler,Magna Doodle Toys,Large 12.6×8.7&quot;",
+        "rating": 4.6,
+        "reviews": 1689
+      },
+      {
+        "rank": 4,
+        "asin": "B01N1ZVYDM",
+        "title": "Etch A Sketch, Classic Red Drawing Toy with Magic Screen, for Ages 3 and Up",
+        "rating": 4.5,
+        "reviews": 3243
+      },
+      {
+        "rank": 5,
+        "asin": "B0CGRQ1TCK",
+        "title": "PicassoTiles 2-Pack Magnetic Drawing Board, Letter Board Freestyle STEM Toy",
+        "rating": 4.5,
+        "reviews": 241
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166057011:19431267011:19431270011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

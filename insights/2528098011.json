@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "2528098011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Sports & Outdoor Play > Bean Bags & Footbags > Footbags",
+  "categoryPathCn": "玩具 > 体育 > 豆袋 > 脚袋",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 97,
+    "totalRevenue": 375352,
+    "avgRevenue": 3870,
+    "medianPrice": 14.99,
+    "priceBand": "$9.99 - $21.17",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0H1XYQB6S",
+      "title": "The Original Hacky Sack® for Kids 12 Panel Performance Original Footbag®",
+      "brand": "PlayMonster",
+      "price": 9.97,
+      "salesParent": 4950,
+      "revenue": 49401.0,
+      "rating": 4.6,
+      "reviews": 35
+    },
+    {
+      "rank": 2,
+      "asin": "B0GD8L8RRS",
+      "title": "PlayMonster The Original Hacky Sack Footbag Core 70s, 80’s Toys - Material Bag - Hacky Ball, Foot Bag Kick Sack, Indoor and Outdoor Toys for Kids and Adults - Hacking a Sack, Kids Toys, Ages 8+",
+      "brand": "PlayMonster",
+      "price": 14.99,
+      "salesParent": 2615,
+      "revenue": 36243.9,
+      "rating": 3.9,
+      "reviews": 144
+    },
+    {
+      "rank": 3,
+      "asin": "B097J64KQP",
+      "title": "DIRTBAG Classic Footbags with Signature Carry Pouch, 3-Pack",
+      "brand": "DIRTBAG",
+      "price": 32.5,
+      "salesParent": 721,
+      "revenue": 23432.5,
+      "rating": 4.2,
+      "reviews": 580
+    },
+    {
+      "rank": 4,
+      "asin": "B01IWZ5BHQ",
+      "title": "DIRTBAG All Star Footbag 3 Pack with Pouch, 100% Handmade, Premium Quality, Bright Vivid Colors, Signature Carry Bag",
+      "brand": "DIRTBAG",
+      "price": 40.0,
+      "salesParent": 407,
+      "revenue": 16280.0,
+      "rating": 4.4,
+      "reviews": 810
+    },
+    {
+      "rank": 5,
+      "asin": "B01FWNYH58",
+      "title": "World Footbag Dirtbag",
+      "brand": "World Footbag",
+      "price": 12.25,
+      "salesParent": 1188,
+      "revenue": 14339.16,
+      "rating": 4.4,
+      "reviews": 1470
+    },
+    {
+      "rank": 6,
+      "asin": "B0H1XKMXB4",
+      "title": "The Original Hacky Sack® for Kids All Weather Original Footbag® Hacky Ball",
+      "brand": "PlayMonster",
+      "price": 14.99,
+      "salesParent": 923,
+      "revenue": 13835.77,
+      "rating": 4.9,
+      "reviews": 28
+    },
+    {
+      "rank": 7,
+      "asin": "B0H1XLWJZ8",
+      "title": "The Original Hacky Sack® for Adults Black Pro 32 Panel, Original Footbag®",
+      "brand": "PlayMonster",
+      "price": 19.99,
+      "salesParent": 704,
+      "revenue": 13559.04,
+      "rating": 4.6,
+      "reviews": 30
+    },
+    {
+      "rank": 8,
+      "asin": "B0CC4Q2TLJ",
+      "title": "Liliful 24 Pcs Footbag Balls 2.56 Inch Juggling Toy,Multicolor,Vintage",
+      "brand": "Liliful",
+      "price": 29.99,
+      "salesParent": 341,
+      "revenue": 10226.59,
+      "rating": 4.3,
+      "reviews": 79
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 139,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 139,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 375352,
+    "priorHeadRevenue": 156933,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 97,
+      "newCount": 70,
+      "pct": 72,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 60,
+      "brandCount": 66,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.14,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0H1XYQB6S",
+        "title": "The Original Hacky Sack® for Kids 12 Panel Performance Original Footbag®",
+        "rating": 4.6,
+        "reviews": 35
+      },
+      {
+        "rank": 2,
+        "asin": "B0GD8L8RRS",
+        "title": "PlayMonster The Original Hacky Sack Footbag Core 70s, 80’s Toys - Material Bag - Hacky Ball, Foot Bag Kick Sack, Indoor and Outdoor Toys for Kids and Adults - Hacking a Sack, Kids Toys, Ages 8+",
+        "rating": 3.9,
+        "reviews": 144
+      },
+      {
+        "rank": 3,
+        "asin": "B097J64KQP",
+        "title": "DIRTBAG Classic Footbags with Signature Carry Pouch, 3-Pack",
+        "rating": 4.2,
+        "reviews": 580
+      },
+      {
+        "rank": 4,
+        "asin": "B01IWZ5BHQ",
+        "title": "DIRTBAG All Star Footbag 3 Pack with Pouch, 100% Handmade, Premium Quality, Bright Vivid Colors, Signature Carry Bag",
+        "rating": 4.4,
+        "reviews": 810
+      },
+      {
+        "rank": 5,
+        "asin": "B01FWNYH58",
+        "title": "World Footbag Dirtbag",
+        "rating": 4.4,
+        "reviews": 1470
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166420011:166422011:2528098011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

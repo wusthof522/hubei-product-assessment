@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "10342473011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Household Supplies > Tobacco-Related Products > Cigar Accessories & Humidors",
+  "categoryPathCn": "健康与家居 > 家居用品 > 烟草类商品 > 雪茄配件和烟草保湿罐",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 2338791,
+    "avgRevenue": 23388,
+    "medianPrice": 76.49,
+    "priceBand": "$28.24 - $227.49",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0CP1ZNWJ7",
+      "title": "Tesonway Cigar Humidor, Cedar Wood Humidor Cigar Box, Glass Top Desktop Humidor with Front Hygrometer, Humidifier, Divider, Accessories Drawer and Combination Lock, Cigar Gifts for Men (Brown)",
+      "brand": "Tesonway",
+      "price": 35.99,
+      "salesParent": 6226,
+      "revenue": 224073.75,
+      "rating": 4.5,
+      "reviews": 2168
+    },
+    {
+      "rank": 2,
+      "asin": "B0F7XTPBG3",
+      "title": "XIFEI Cigar Humidor Cabinet, Glass Top &amp; Adjustable LED Lighting, Digital Hygrometer, 2 Humidifiers, Cigar Tube, Desktop Cedar Wood Humidor with Accessory Drawer for 80-100 Cigars, Ideal Men's Gift",
+      "brand": "XIFEI",
+      "price": 99.98,
+      "salesParent": 949,
+      "revenue": 94881.02,
+      "rating": 4.3,
+      "reviews": 604
+    },
+    {
+      "rank": 3,
+      "asin": "B0CMQBB9PQ",
+      "title": "Cigar Climate Control Cabinet, Raching MON5800 Cigar Humidor Cabinet with Ammonia Removal, 570L Wood Frame Cabinet for Cigar Storing&amp;Aging - Black",
+      "brand": "RACHING",
+      "price": 4799.0,
+      "salesParent": 19,
+      "revenue": 91181.0,
+      "rating": 5.0,
+      "reviews": 2
+    },
+    {
+      "rank": 4,
+      "asin": "B0FLCW1N31",
+      "title": "VEVOR Electric Humidor, 288L, 1700 Counts Electric Cigar Humidor Cabinet",
+      "brand": "VEVOR",
+      "price": 1891.9,
+      "salesParent": 43,
+      "revenue": 81351.7,
+      "rating": 4.6,
+      "reviews": 18
+    },
+    {
+      "rank": 5,
+      "asin": "B0BQJ5H5YT",
+      "title": "16L Electric Cigar Humidors with Temperature Control System, Cigar Cabinet with Spanish Cedar Wood Shelves &amp; Hygrometer, Gifts for Men (2 Layers 100 Capacity)",
+      "brand": "KingChii",
+      "price": 139.99,
+      "salesParent": 524,
+      "revenue": 72746.92,
+      "rating": 4.4,
+      "reviews": 600
+    },
+    {
+      "rank": 6,
+      "asin": "B0FLY6STDG",
+      "title": "Electric Cigar Humidor Cabinet up to 600 Cigars, Temperature &amp; Humidity Control System-75L Cooling Fridge with Cedar Wood Shelves Digital LED Screen Fingerprint Safety Lock Home &amp; Commercial Use",
+      "brand": "FANKAI",
+      "price": 439.98,
+      "salesParent": 155,
+      "revenue": 68196.9,
+      "rating": 4.1,
+      "reviews": 91
+    },
+    {
+      "rank": 7,
+      "asin": "B0D5M5J3Y3",
+      "title": "200-Count Ebony Cigar Humidor Cabinet with Digital Hygrometer, LED",
+      "brand": "Marvero",
+      "price": 139.98,
+      "salesParent": 445,
+      "revenue": 63866.4,
+      "rating": 4.4,
+      "reviews": 361
+    },
+    {
+      "rank": 8,
+      "asin": "B0C2HDTKH8",
+      "title": "TISFA Cigar Humidor, Leather Cedar Wood Cigar Case with Cigar Lighter, V Cut Cigar Cutter, Cigar Holder 3 in 1, Portable Travel Cigar Humidor Box with Humidifier (Black)",
+      "brand": "TISFA",
+      "price": 48.98,
+      "salesParent": 1042,
+      "revenue": 51037.16,
+      "rating": 4.7,
+      "reviews": 1383
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 20,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 20,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 2338791,
+    "priorHeadRevenue": 1950043,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 26,
+      "pct": 26,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 35,
+      "brandCount": 52,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.46,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0CP1ZNWJ7",
+        "title": "Tesonway Cigar Humidor, Cedar Wood Humidor Cigar Box, Glass Top Desktop Humidor with Front Hygrometer, Humidifier, Divider, Accessories Drawer and Combination Lock, Cigar Gifts for Men (Brown)",
+        "rating": 4.5,
+        "reviews": 2168
+      },
+      {
+        "rank": 2,
+        "asin": "B0F7XTPBG3",
+        "title": "XIFEI Cigar Humidor Cabinet, Glass Top &amp; Adjustable LED Lighting, Digital Hygrometer, 2 Humidifiers, Cigar Tube, Desktop Cedar Wood Humidor with Accessory Drawer for 80-100 Cigars, Ideal Men's Gift",
+        "rating": 4.3,
+        "reviews": 604
+      },
+      {
+        "rank": 3,
+        "asin": "B0CMQBB9PQ",
+        "title": "Cigar Climate Control Cabinet, Raching MON5800 Cigar Humidor Cabinet with Ammonia Removal, 570L Wood Frame Cabinet for Cigar Storing&amp;Aging - Black",
+        "rating": 5.0,
+        "reviews": 2
+      },
+      {
+        "rank": 4,
+        "asin": "B0FLCW1N31",
+        "title": "VEVOR Electric Humidor, 288L, 1700 Counts Electric Cigar Humidor Cabinet",
+        "rating": 4.6,
+        "reviews": 18
+      },
+      {
+        "rank": 5,
+        "asin": "B0BQJ5H5YT",
+        "title": "16L Electric Cigar Humidors with Temperature Control System, Cigar Cabinet with Spanish Cedar Wood Shelves &amp; Hygrometer, Gifts for Men (2 Layers 100 Capacity)",
+        "rating": 4.4,
+        "reviews": 600
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:15342811:10342472011:10342473011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

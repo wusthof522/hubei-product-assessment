@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "166242011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Games & Accessories > Card Games > Collectible Card Games",
+  "categoryPathCn": "玩具 > 游戏 > 纸牌游戏 > 交易卡游戏",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 17952359,
+    "avgRevenue": 179524,
+    "medianPrice": 89.99,
+    "priceBand": "$44.3 - $205.79",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0H783FY5Z",
+      "title": "Pokémon TCG: 30th Celebration Booster Bundle",
+      "brand": "Pokémon",
+      "price": 81.97,
+      "salesParent": 21964,
+      "revenue": 2004654.25,
+      "rating": 4.4,
+      "reviews": 301
+    },
+    {
+      "rank": 2,
+      "asin": "B0HG27QLDL",
+      "title": "Pokémon Official 100 Pokemon Card Lot with Rare, Holofoil, Trainer and Energy Cards - Bundle with Random Colored Deck Box Included NFL (100 Assorted Cards)",
+      "brand": "Pokémon",
+      "price": 34.99,
+      "salesParent": 43385,
+      "revenue": 1518041.25,
+      "rating": 3.8,
+      "reviews": 13
+    },
+    {
+      "rank": 3,
+      "asin": "B0H8SV3WJ8",
+      "title": "Pokémon TCG: 30th Celebration Elite Trainer Box (1 Full-Art Promo Card, 9 Booster Packs &amp; Premium Accessories)",
+      "brand": "Pokémon",
+      "price": 161.77,
+      "salesParent": 7253,
+      "revenue": 1262022.0,
+      "rating": 4.8,
+      "reviews": 568
+    },
+    {
+      "rank": 4,
+      "asin": "B0GXC89N66",
+      "title": "Magic: The Gathering | The Hobbit Collector Booster Box | 12 Packs + 1 Foil Box Topper Card | Collectible Trading Card Game",
+      "brand": "Magic: The Gathering",
+      "price": 769.95,
+      "salesParent": 960,
+      "revenue": 796713.56,
+      "rating": 4.3,
+      "reviews": 26
+    },
+    {
+      "rank": 5,
+      "asin": "B01CYZHGC8",
+      "title": "50 Pokemon Cards Plus a Rare Legendary Pokemon Card | Bundle with LCC Deck Box",
+      "brand": "Pokémon",
+      "price": 19.99,
+      "salesParent": 27168,
+      "revenue": 543088.31,
+      "rating": 4.4,
+      "reviews": 3711
+    },
+    {
+      "rank": 6,
+      "asin": "B0GXCBW828",
+      "title": "Magic: The Gathering Foundations Commander Deck Bundle - All 5 Decks (Calling All Angels, Keen Engineering, Wretched Ranks, Reign of Dragons, Tramplesaurus Rex)",
+      "brand": "Magic: The Gathering",
+      "price": 179.95,
+      "salesParent": 2508,
+      "revenue": 483843.34,
+      "rating": 4.7,
+      "reviews": 80
+    },
+    {
+      "rank": 7,
+      "asin": "B0H784PD4X",
+      "title": "Pokémon TCG: 30TH Celebration Ultra-Premium Collection",
+      "brand": "Pokémon",
+      "price": 479.99,
+      "salesParent": 656,
+      "revenue": 473290.88,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "rank": 8,
+      "asin": "B0GXCHBRTC",
+      "title": "Magic: The Gathering Reality Fracture Play Booster Box | 30 Packs",
+      "brand": "Magic: The Gathering",
+      "price": 137.99,
+      "salesParent": 3065,
+      "revenue": 456930.22,
+      "rating": 3.6,
+      "reviews": 58
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -48,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -48,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 17952359,
+    "priorHeadRevenue": 34629009,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 62,
+      "pct": 62,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 100,
+      "brandCount": 5,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.4,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0H783FY5Z",
+        "title": "Pokémon TCG: 30th Celebration Booster Bundle",
+        "rating": 4.4,
+        "reviews": 301
+      },
+      {
+        "rank": 2,
+        "asin": "B0HG27QLDL",
+        "title": "Pokémon Official 100 Pokemon Card Lot with Rare, Holofoil, Trainer and Energy Cards - Bundle with Random Colored Deck Box Included NFL (100 Assorted Cards)",
+        "rating": 3.8,
+        "reviews": 13
+      },
+      {
+        "rank": 3,
+        "asin": "B0H8SV3WJ8",
+        "title": "Pokémon TCG: 30th Celebration Elite Trainer Box (1 Full-Art Promo Card, 9 Booster Packs &amp; Premium Accessories)",
+        "rating": 4.8,
+        "reviews": 568
+      },
+      {
+        "rank": 4,
+        "asin": "B0GXC89N66",
+        "title": "Magic: The Gathering | The Hobbit Collector Booster Box | 12 Packs + 1 Foil Box Topper Card | Collectible Trading Card Game",
+        "rating": 4.3,
+        "reviews": 26
+      },
+      {
+        "rank": 5,
+        "asin": "B01CYZHGC8",
+        "title": "50 Pokemon Cards Plus a Rare Legendary Pokemon Card | Bundle with LCC Deck Box",
+        "rating": 4.4,
+        "reviews": 3711
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166220011:166239011:166242011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

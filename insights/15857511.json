@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "15857511",
+  "level": "L2",
+  "categoryPathEn": "Automotive > Exterior Accessories",
+  "categoryPathCn": "汽车 > 外部配件",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 95,
+    "totalRevenue": 25140870,
+    "avgRevenue": 264641,
+    "medianPrice": 302.0,
+    "priceBand": "$129.25 - $599.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0H624WWH5",
+      "title": "CURT 51180 Echo Mobile Bluetooth Trailer Brake Controller, 7-Way, 1-2 Axles, 9 x 9 x 3 inches (Pack of 6)",
+      "brand": "CURT",
+      "price": 1739.7,
+      "salesParent": 862,
+      "revenue": 1499621.38,
+      "rating": 4.1,
+      "reviews": 3257
+    },
+    {
+      "rank": 2,
+      "asin": "B09BYZ6GC5",
+      "title": "EzyShade Car Cover Waterproof All Weather. See Vehicle Size-Chart. Size A4",
+      "brand": "EzyShade",
+      "price": 57.71,
+      "salesParent": 12072,
+      "revenue": 785042.12,
+      "rating": 4.3,
+      "reviews": 11958
+    },
+    {
+      "rank": 3,
+      "asin": "B0CZNMCZ7R",
+      "title": "Window Visors Rain Guards for 2015-2026 Ford F150 Crew / SuperCrew Cab",
+      "brand": "YQAUTEC",
+      "price": 36.99,
+      "salesParent": 15067,
+      "revenue": 581887.5,
+      "rating": 3.9,
+      "reviews": 14329
+    },
+    {
+      "rank": 4,
+      "asin": "B0CHYK4XTV",
+      "title": "Hard Folding Truck Bed Tonneau Cover Compatiable with Chevy Silverado &amp; GMC Sierra 1500(2007-2026) 5.8 FT Short Box(NO CarbonPro Bed), Tri Fold Style",
+      "brand": "WHALEMOTOR",
+      "price": 399.99,
+      "salesParent": 1269,
+      "revenue": 535479.94,
+      "rating": 4.3,
+      "reviews": 526
+    },
+    {
+      "rank": 5,
+      "asin": "B08L44X6NZ",
+      "title": "RealTruck BAK BAKFlip MX4 Hard Folding Truck Bed Tonneau Cover | 448339 | Fits 2021-2026 Ford F-150 (incl. Raptor/Lightning) 5' 7&quot; Bed (67.1&quot;)",
+      "brand": "RealTruck",
+      "price": 1180.0,
+      "salesParent": 450,
+      "revenue": 520856.97,
+      "rating": 4.2,
+      "reviews": 762
+    },
+    {
+      "rank": 6,
+      "asin": "B0GR4S82ZG",
+      "title": "WOLFBOX Power Running Boards Chevy Silverado &amp; GMC Sierra Crew Cab",
+      "brand": "WOLFBOX",
+      "price": 999.99,
+      "salesParent": 477,
+      "revenue": 480334.22,
+      "rating": 4.5,
+      "reviews": 89
+    },
+    {
+      "rank": 7,
+      "asin": "B0BDG5K75S",
+      "title": "VViViD+ Matte White to Purple Space Pearl Vinyl Car Wrap Film (100ft x 5ft)",
+      "brand": "VViViD",
+      "price": 579.98,
+      "salesParent": 805,
+      "revenue": 466883.88,
+      "rating": 2.0,
+      "reviews": 4789
+    },
+    {
+      "rank": 8,
+      "asin": "B075FWLLCJ",
+      "title": "VViViD+ Premium Vinyl Wrap Film (100ft x 5ft, Gloss Viper Lime Green)",
+      "brand": "VViViD",
+      "price": 524.98,
+      "salesParent": 805,
+      "revenue": 422608.88,
+      "rating": 4.2,
+      "reviews": 4775
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 4,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 4,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 25140870,
+    "priorHeadRevenue": 24199073,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 95,
+      "newCount": 23,
+      "pct": 24,
+      "unknownLaunch": 1,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 28,
+      "brandCount": 61,
+      "level": "分散",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.39,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0H624WWH5",
+        "title": "CURT 51180 Echo Mobile Bluetooth Trailer Brake Controller, 7-Way, 1-2 Axles, 9 x 9 x 3 inches (Pack of 6)",
+        "rating": 4.1,
+        "reviews": 3257
+      },
+      {
+        "rank": 2,
+        "asin": "B09BYZ6GC5",
+        "title": "EzyShade Car Cover Waterproof All Weather. See Vehicle Size-Chart. Size A4",
+        "rating": 4.3,
+        "reviews": 11958
+      },
+      {
+        "rank": 3,
+        "asin": "B0CZNMCZ7R",
+        "title": "Window Visors Rain Guards for 2015-2026 Ford F150 Crew / SuperCrew Cab",
+        "rating": 3.9,
+        "reviews": 14329
+      },
+      {
+        "rank": 4,
+        "asin": "B0CHYK4XTV",
+        "title": "Hard Folding Truck Bed Tonneau Cover Compatiable with Chevy Silverado &amp; GMC Sierra 1500(2007-2026) 5.8 FT Short Box(NO CarbonPro Bed), Tri Fold Style",
+        "rating": 4.3,
+        "reviews": 526
+      },
+      {
+        "rank": 5,
+        "asin": "B08L44X6NZ",
+        "title": "RealTruck BAK BAKFlip MX4 Hard Folding Truck Bed Tonneau Cover | 448339 | Fits 2021-2026 Ford F-150 (incl. Raptor/Lightning) 5' 7&quot; Bed (67.1&quot;)",
+        "rating": 4.2,
+        "reviews": 762
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "15684181:15857511",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

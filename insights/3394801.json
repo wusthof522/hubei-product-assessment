@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3394801",
+  "level": "L3",
+  "categoryPathEn": "Sports & Outdoors > Sports & Fitness > Accessories",
+  "categoryPathCn": "运动与户外 > 运动与健身 > 配件",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 96,
+    "totalRevenue": 37312827,
+    "avgRevenue": 388675,
+    "medianPrice": 29.99,
+    "priceBand": "$21.22 - $59.24",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0H487FD7L",
+      "title": "STANLEY Quencher H2.0 Flow State Tumbler, 40 oz, Blue Dream Stone",
+      "brand": "STANLEY",
+      "price": 45.0,
+      "salesParent": 135181,
+      "revenue": 6083145.0,
+      "rating": 4.7,
+      "reviews": 207821
+    },
+    {
+      "rank": 2,
+      "asin": "B0GTMTZF3V",
+      "title": "Google Fitbit Air - Screenless Activity Tracker, Obsidian",
+      "brand": "Google Fitbit",
+      "price": 99.99,
+      "salesParent": 32887,
+      "revenue": 3277847.25,
+      "rating": 4.3,
+      "reviews": 2448
+    },
+    {
+      "rank": 3,
+      "asin": "B0F68LWT91",
+      "title": "HydroJug Sport - Stainless Steel Tumbler with Straw, Vacuum Insulated, 40oz Leakproof Water Bottle, Ergonomic Design, Reusable, Dishwasher Safe, Rubber Base, Durable for Gym or Outdoors, Sweet Cherry",
+      "brand": "HydroJug",
+      "price": 59.99,
+      "salesParent": 46786,
+      "revenue": 2912896.25,
+      "rating": 4.5,
+      "reviews": 61
+    },
+    {
+      "rank": 4,
+      "asin": "B0HBNY9PD3",
+      "title": "Ello Cooper Insulated Stainless Steel Water Bottle with Straw, Antigua, 32 Ounces (Pack of 6)",
+      "brand": "Ello",
+      "price": 149.94,
+      "salesParent": 7982,
+      "revenue": 1196821.12,
+      "rating": 4.5,
+      "reviews": 14793
+    },
+    {
+      "rank": 5,
+      "asin": "B0DGHQWVDQ",
+      "title": "HydroJug Sport 32 oz Insulated Stainless Steel Water Bottle, Cream",
+      "brand": "HydroJug",
+      "price": 27.99,
+      "salesParent": 41403,
+      "revenue": 1159698.0,
+      "rating": 4.5,
+      "reviews": 6920
+    },
+    {
+      "rank": 6,
+      "asin": "B0CLV2F7VW",
+      "title": "IDAODAN Electric Balloon Pump, Portable Electric Balloon Blower Machine Inflator Air Pump for Party Decorations",
+      "brand": "ID IDAODAN",
+      "price": 29.99,
+      "salesParent": 33741,
+      "revenue": 1027413.5,
+      "rating": 4.4,
+      "reviews": 8369
+    },
+    {
+      "rank": 7,
+      "asin": "B0GWCSNJV5",
+      "title": "Owala Marvel Spider-Man FreeSip Stainless Steel Water Bottle 32 oz",
+      "brand": "Owala",
+      "price": 34.24,
+      "salesParent": 24383,
+      "revenue": 918020.0,
+      "rating": 4.7,
+      "reviews": 17835
+    },
+    {
+      "rank": 8,
+      "asin": "B0H51TZRMM",
+      "title": "goodr OG Polarized Sunglasses Women &amp; Men",
+      "brand": "goodr",
+      "price": 30.0,
+      "salesParent": 29667,
+      "revenue": 890010.0,
+      "rating": 4.5,
+      "reviews": 9751
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 40,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 40,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 37312827,
+    "priorHeadRevenue": 26645873,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 96,
+      "newCount": 40,
+      "pct": 42,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 55,
+      "brandCount": 53,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.55,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0H487FD7L",
+        "title": "STANLEY Quencher H2.0 Flow State Tumbler, 40 oz, Blue Dream Stone",
+        "rating": 4.7,
+        "reviews": 207821
+      },
+      {
+        "rank": 2,
+        "asin": "B0GTMTZF3V",
+        "title": "Google Fitbit Air - Screenless Activity Tracker, Obsidian",
+        "rating": 4.3,
+        "reviews": 2448
+      },
+      {
+        "rank": 3,
+        "asin": "B0F68LWT91",
+        "title": "HydroJug Sport - Stainless Steel Tumbler with Straw, Vacuum Insulated, 40oz Leakproof Water Bottle, Ergonomic Design, Reusable, Dishwasher Safe, Rubber Base, Durable for Gym or Outdoors, Sweet Cherry",
+        "rating": 4.5,
+        "reviews": 61
+      },
+      {
+        "rank": 4,
+        "asin": "B0HBNY9PD3",
+        "title": "Ello Cooper Insulated Stainless Steel Water Bottle with Straw, Antigua, 32 Ounces (Pack of 6)",
+        "rating": 4.5,
+        "reviews": 14793
+      },
+      {
+        "rank": 5,
+        "asin": "B0DGHQWVDQ",
+        "title": "HydroJug Sport 32 oz Insulated Stainless Steel Water Bottle, Cream",
+        "rating": 4.5,
+        "reviews": 6920
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3375251:3394801",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

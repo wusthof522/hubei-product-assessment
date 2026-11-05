@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3763391",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Health Care > Incontinence & Ostomy > Protective Briefs & Underwear",
+  "categoryPathCn": "健康与家居 > 卫生保健 > 成人失禁用品 > 成人纸尿裤",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 96,
+    "totalRevenue": 54464347,
+    "avgRevenue": 567337,
+    "medianPrice": 43.98,
+    "priceBand": "$31.11 - $53.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B09556SRJH",
+      "title": "Depend Fresh Protection Adult Diapers for Women, Large, 72 Count",
+      "brand": "Depend",
+      "price": 42.37,
+      "salesParent": 176483,
+      "revenue": 7968207.5,
+      "rating": 4.5,
+      "reviews": 46211
+    },
+    {
+      "rank": 2,
+      "asin": "B095562DZX",
+      "title": "Depend Fresh Protection Adult Diapers for Men, Large, 72 Count",
+      "brand": "Depend",
+      "price": 52.96,
+      "salesParent": 125841,
+      "revenue": 6610427.5,
+      "rating": 4.5,
+      "reviews": 31663
+    },
+    {
+      "rank": 3,
+      "asin": "B0BLG84F6Q",
+      "title": "Depend Night Defense Adult Diapers for Women, Medium, 60 Count",
+      "brand": "Depend",
+      "price": 53.99,
+      "salesParent": 87478,
+      "revenue": 4666951.0,
+      "rating": 4.5,
+      "reviews": 11437
+    },
+    {
+      "rank": 4,
+      "asin": "B00U0NRI0W",
+      "title": "GoodNites Boys Nighttime Underwear, Size S/M, 44 Ct, 2 Packs of 22",
+      "brand": "GoodNites",
+      "price": 32.49,
+      "salesParent": 110808,
+      "revenue": 3551396.25,
+      "rating": 4.7,
+      "reviews": 28478
+    },
+    {
+      "rank": 5,
+      "asin": "B0BLGS18BM",
+      "title": "Depend Night Defense Adult Diapers for Men, Large, 56 Count",
+      "brand": "Depend",
+      "price": 53.99,
+      "salesParent": 49540,
+      "revenue": 2644940.5,
+      "rating": 4.4,
+      "reviews": 10278
+    },
+    {
+      "rank": 6,
+      "asin": "B00KXUW72G",
+      "title": "Adult Diapers for Women, Maximum Absorbency Incontinence and Postpartum Underwear Size S/M, Up to 100% Leak Free Bladder Leak Protection, 32 Count",
+      "brand": "Always Discreet",
+      "price": 19.39,
+      "salesParent": 122814,
+      "revenue": 2436629.75,
+      "rating": 4.4,
+      "reviews": 52524
+    },
+    {
+      "rank": 7,
+      "asin": "B01N6J36E6",
+      "title": "Depend Real Fit Incontinence Underwear for Men, L/XL, 52 Count",
+      "brand": "Depend",
+      "price": 48.99,
+      "salesParent": 42714,
+      "revenue": 2104091.5,
+      "rating": 4.5,
+      "reviews": 14034
+    },
+    {
+      "rank": 8,
+      "asin": "B01JA3IIME",
+      "title": "TENA Sensitive Care Overnight Incontinence Underwear Women, XL 39-52in 56ct",
+      "brand": "TENA",
+      "price": 51.99,
+      "salesParent": 34418,
+      "revenue": 1817270.38,
+      "rating": 4.3,
+      "reviews": 9673
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 32,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 32,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 54464347,
+    "priorHeadRevenue": 41279018,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 96,
+      "newCount": 16,
+      "pct": 17,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 76,
+      "brandCount": 32,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.27,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B09556SRJH",
+        "title": "Depend Fresh Protection Adult Diapers for Women, Large, 72 Count",
+        "rating": 4.5,
+        "reviews": 46211
+      },
+      {
+        "rank": 2,
+        "asin": "B095562DZX",
+        "title": "Depend Fresh Protection Adult Diapers for Men, Large, 72 Count",
+        "rating": 4.5,
+        "reviews": 31663
+      },
+      {
+        "rank": 3,
+        "asin": "B0BLG84F6Q",
+        "title": "Depend Night Defense Adult Diapers for Women, Medium, 60 Count",
+        "rating": 4.5,
+        "reviews": 11437
+      },
+      {
+        "rank": 4,
+        "asin": "B00U0NRI0W",
+        "title": "GoodNites Boys Nighttime Underwear, Size S/M, 44 Ct, 2 Packs of 22",
+        "rating": 4.7,
+        "reviews": 28478
+      },
+      {
+        "rank": 5,
+        "asin": "B0BLGS18BM",
+        "title": "Depend Night Defense Adult Diapers for Men, Large, 56 Count",
+        "rating": 4.4,
+        "reviews": 10278
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3760941:3763261:3763391",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

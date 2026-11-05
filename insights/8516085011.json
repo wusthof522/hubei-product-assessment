@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "8516085011",
+  "level": "L4",
+  "categoryPathEn": "Home & Kitchen > Furniture > Game & Recreation Room Furniture > Folding Tables & Chairs",
+  "categoryPathCn": "家居用品 > 家具 > 游戏 > 折叠桌",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 97,
+    "totalRevenue": 11499003,
+    "avgRevenue": 118546,
+    "medianPrice": 119.99,
+    "priceBand": "$75.09 - $168.97",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0D8K66FZJ",
+      "title": "6 Feet Foldable Table with Built in Handle &amp; Steel Legs | 6FT Heavy Duty Folding Portable | Perfect for Party, Dining, Wedding, Events, Picnic Indoor, Outdoor, Camping, Utility, Folding - 6 Foot",
+      "brand": "Our Modern Space",
+      "price": 52.4,
+      "salesParent": 31559,
+      "revenue": 1654322.75,
+      "rating": 4.5,
+      "reviews": 4818
+    },
+    {
+      "rank": 2,
+      "asin": "B0GS1QNM88",
+      "title": "FDW | 6FT Folding Table | White | Portable Plastic Table",
+      "brand": "FDW",
+      "price": 48.88,
+      "salesParent": 12190,
+      "revenue": 668621.5,
+      "rating": 4.2,
+      "reviews": 4514
+    },
+    {
+      "rank": 3,
+      "asin": "B0CXY8YW6K",
+      "title": "VINGLI 10 Pack Folding Chairs with Padded Seats, Metal Frame with Pu Leather Seat &amp; Back, Capacity 350 lbs, Black",
+      "brand": "VINGLI",
+      "price": 179.99,
+      "salesParent": 2301,
+      "revenue": 405459.22,
+      "rating": 4.4,
+      "reviews": 731
+    },
+    {
+      "rank": 4,
+      "asin": "B0FTNNH8R7",
+      "title": "3.5 Feet Circular Round Foldable Table with Built in Handle &amp; Steel Legs | Heavy Duty Portable | Perfect for Party, Dining, Wedding, Events, Picnic Indoor, Outdoor, Camping, Utility",
+      "brand": "Our Modern Space",
+      "price": 62.85,
+      "salesParent": 6011,
+      "revenue": 377791.34,
+      "rating": 4.3,
+      "reviews": 100
+    },
+    {
+      "rank": 5,
+      "asin": "B07ZZXNR2P",
+      "title": "VINGLI 10 Pack White Plastic Folding Chair, Indoor Outdoor Portable Stackable Commercial Seat with Steel Frame 350lb. Capacity for Events Office Wedding Party Picnic Kitchen Dining",
+      "brand": "VINGLI",
+      "price": 144.99,
+      "salesParent": 2349,
+      "revenue": 335907.0,
+      "rating": 4.6,
+      "reviews": 2360
+    },
+    {
+      "rank": 6,
+      "asin": "B0HH8L2RV2",
+      "title": "OLIXIS Padded Folding Chairs Set of 4, Portable Foldable Patio Dining Chairs, Heavy Duty Metal Frame, for Kitchen, Dining, Office, Wedding, Garden, Party, Outdoor, Indoor, Black",
+      "brand": "OLIXIS",
+      "price": 59.98,
+      "salesParent": 4628,
+      "revenue": 283233.59,
+      "rating": 4.3,
+      "reviews": 23
+    },
+    {
+      "rank": 7,
+      "asin": "B0GMQRTMS9",
+      "title": "Folding Table 2 Pack, 32 Inch Foldable Cocktail Bar, High Top Round Folding Bar Tables No Assembly, Portable Bistro &amp; Commercial Event Furniture for Wedding, Banquet, Party, Indoor Outdoor Use",
+      "brand": "MAKE CHANGES",
+      "price": 125.99,
+      "salesParent": 1909,
+      "revenue": 248265.45,
+      "rating": 4.6,
+      "reviews": 673
+    },
+    {
+      "rank": 8,
+      "asin": "B0CV478K1D",
+      "title": "Nazhura 350 Weight Limit Heavy Duty Plastic Folding Chair with Reinforced Steel Frame for Indoor and Outdoor, Wedding, Party, Restaurant, Meeting Room, Patio and Garden",
+      "brand": "Nazhura",
+      "price": 129.95,
+      "salesParent": 1829,
+      "revenue": 237678.55,
+      "rating": 4.6,
+      "reviews": 461
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 4,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 4,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 11499003,
+    "priorHeadRevenue": 11061889,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 97,
+      "newCount": 43,
+      "pct": 44,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 50,
+      "brandCount": 50,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.45,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0D8K66FZJ",
+        "title": "6 Feet Foldable Table with Built in Handle &amp; Steel Legs | 6FT Heavy Duty Folding Portable | Perfect for Party, Dining, Wedding, Events, Picnic Indoor, Outdoor, Camping, Utility, Folding - 6 Foot",
+        "rating": 4.5,
+        "reviews": 4818
+      },
+      {
+        "rank": 2,
+        "asin": "B0GS1QNM88",
+        "title": "FDW | 6FT Folding Table | White | Portable Plastic Table",
+        "rating": 4.2,
+        "reviews": 4514
+      },
+      {
+        "rank": 3,
+        "asin": "B0CXY8YW6K",
+        "title": "VINGLI 10 Pack Folding Chairs with Padded Seats, Metal Frame with Pu Leather Seat &amp; Back, Capacity 350 lbs, Black",
+        "rating": 4.4,
+        "reviews": 731
+      },
+      {
+        "rank": 4,
+        "asin": "B0FTNNH8R7",
+        "title": "3.5 Feet Circular Round Foldable Table with Built in Handle &amp; Steel Legs | Heavy Duty Portable | Perfect for Party, Dining, Wedding, Events, Picnic Indoor, Outdoor, Camping, Utility",
+        "rating": 4.3,
+        "reviews": 100
+      },
+      {
+        "rank": 5,
+        "asin": "B07ZZXNR2P",
+        "title": "VINGLI 10 Pack White Plastic Folding Chair, Indoor Outdoor Portable Stackable Commercial Seat with Steel Frame 350lb. Capacity for Events Office Wedding Party Picnic Kitchen Dining",
+        "rating": 4.6,
+        "reviews": 2360
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "1055398:1063306:5422303011:8516085011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

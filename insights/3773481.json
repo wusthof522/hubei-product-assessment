@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3773481",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins, Minerals & Supplements > Essential Fatty Acids > DHA",
+  "categoryPathCn": "健康与家居 > 身、泳和附剂 > 需要别人 > DHA",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 70,
+    "totalRevenue": 2916297,
+    "avgRevenue": 41661,
+    "medianPrice": 28.0,
+    "priceBand": "$19.99 - $39.96",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0062CW1BG",
+      "title": "Nordic Naturals Prenatal DHA, Omega-3 + Vitamin D3, Unflavored - 180 Count",
+      "brand": "Nordic Naturals",
+      "price": 46.71,
+      "salesParent": 10257,
+      "revenue": 475719.66,
+      "rating": 4.7,
+      "reviews": 6295
+    },
+    {
+      "rank": 2,
+      "asin": "B002WTCLGI",
+      "title": "Nordic Naturals Children's DHA, 530 mg Omega-3 Fish Oil - Strawberry - 8 oz",
+      "brand": "Nordic Naturals",
+      "price": 29.71,
+      "salesParent": 12816,
+      "revenue": 380763.34,
+      "rating": 4.6,
+      "reviews": 10859
+    },
+    {
+      "rank": 3,
+      "asin": "B07WMZTX28",
+      "title": "Nordic Naturals Zero Sugar Children’s DHA Gummies, Tropical Punch - 30 Count",
+      "brand": "Nordic Naturals",
+      "price": 17.67,
+      "salesParent": 21326,
+      "revenue": 376830.41,
+      "rating": 4.5,
+      "reviews": 5609
+    },
+    {
+      "rank": 4,
+      "asin": "B07VF9HB74",
+      "title": "Nordic Naturals DHA Xtra Supplement, 1660 mg Omega-3 Fish Oil - 90 Count",
+      "brand": "Nordic Naturals",
+      "price": 39.06,
+      "salesParent": 7575,
+      "revenue": 295879.5,
+      "rating": 4.7,
+      "reviews": 3669
+    },
+    {
+      "rank": 5,
+      "asin": "B0BDMTY4D8",
+      "title": "THORNE Prenatal DHA, Omega-3 Fish Oil with EPA &amp; DHA, 60 Softgels",
+      "brand": "THORNE",
+      "price": 30.0,
+      "salesParent": 9656,
+      "revenue": 287459.12,
+      "rating": 4.6,
+      "reviews": 1017
+    },
+    {
+      "rank": 6,
+      "asin": "B075882FKG",
+      "title": "Nordic Naturals DHA for Kids Liquid, Omega-3 Xtra - 880mg Total Omegas -2oz",
+      "brand": "Nordic Naturals",
+      "price": 27.16,
+      "salesParent": 3950,
+      "revenue": 107282.0,
+      "rating": 4.6,
+      "reviews": 3054
+    },
+    {
+      "rank": 7,
+      "asin": "B0073M4VIA",
+      "title": "Nordic Naturals ProDHA Xtra 1000, 1660 mg Omega-3, DHA, Strawberry - 120 Count",
+      "brand": "Nordic Naturals",
+      "price": 62.47,
+      "salesParent": 1441,
+      "revenue": 90019.27,
+      "rating": 4.7,
+      "reviews": 1202
+    },
+    {
+      "rank": 8,
+      "asin": "B00GU0AWAW",
+      "title": "Nordic Naturals Baby’s DHA, 1050 mg Omega-3 + 300 IU Vitamin D3 - 4 oz",
+      "brand": "Nordic Naturals",
+      "price": 25.46,
+      "salesParent": 3528,
+      "revenue": 89822.88,
+      "rating": 4.6,
+      "reviews": 5787
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -45,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -45,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 2916297,
+    "priorHeadRevenue": 5280282,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 70,
+      "newCount": 13,
+      "pct": 19,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 90,
+      "brandCount": 43,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.46,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0062CW1BG",
+        "title": "Nordic Naturals Prenatal DHA, Omega-3 + Vitamin D3, Unflavored - 180 Count",
+        "rating": 4.7,
+        "reviews": 6295
+      },
+      {
+        "rank": 2,
+        "asin": "B002WTCLGI",
+        "title": "Nordic Naturals Children's DHA, 530 mg Omega-3 Fish Oil - Strawberry - 8 oz",
+        "rating": 4.6,
+        "reviews": 10859
+      },
+      {
+        "rank": 3,
+        "asin": "B07WMZTX28",
+        "title": "Nordic Naturals Zero Sugar Children’s DHA Gummies, Tropical Punch - 30 Count",
+        "rating": 4.5,
+        "reviews": 5609
+      },
+      {
+        "rank": 4,
+        "asin": "B07VF9HB74",
+        "title": "Nordic Naturals DHA Xtra Supplement, 1660 mg Omega-3 Fish Oil - 90 Count",
+        "rating": 4.7,
+        "reviews": 3669
+      },
+      {
+        "rank": 5,
+        "asin": "B0BDMTY4D8",
+        "title": "THORNE Prenatal DHA, Omega-3 Fish Oil with EPA &amp; DHA, 60 Softgels",
+        "rating": 4.6,
+        "reviews": 1017
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:23675621011:6943343011:3773481",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

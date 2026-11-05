@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3763281",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Health Care > Incontinence & Ostomy > Bedding & Furniture Protection",
+  "categoryPathCn": "健康与家居 > 卫生保健 > 成人失禁用品 > 防水用品",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 12569124,
+    "avgRevenue": 126961,
+    "medianPrice": 35.99,
+    "priceBand": "$26.99 - $44.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0DP5DY2CT",
+      "title": "Chucks Pads Disposable [100-Pack] Adult Incontinence Underpads 23&quot;x36&quot;",
+      "brand": "Stack Man",
+      "price": 32.52,
+      "salesParent": 57548,
+      "revenue": 1793195.62,
+      "rating": 4.5,
+      "reviews": 8224
+    },
+    {
+      "rank": 2,
+      "asin": "B0CPPLLBHT",
+      "title": "100 Count 22” x 22” Super Absorbency Disposable Underpads",
+      "brand": "Wowflash",
+      "price": 29.98,
+      "salesParent": 42444,
+      "revenue": 1371790.12,
+      "rating": 4.4,
+      "reviews": 6241
+    },
+    {
+      "rank": 3,
+      "asin": "B07Q1XCM3L",
+      "title": "4 Pack Waterproof Reusable Heavy Absorbency Incontinence Bed Pads 34&quot;x36&quot;",
+      "brand": "Utopia Bedding",
+      "price": 20.69,
+      "salesParent": 37296,
+      "revenue": 824241.62,
+      "rating": 4.5,
+      "reviews": 24838
+    },
+    {
+      "rank": 4,
+      "asin": "B002NHIFNW",
+      "title": "Medline Super Absorbent Underpad, 36&quot; x 36&quot;, 50 Count, Extra Large Disposable Incontinence Pads, Protective Bed Pads, Chucks, For Kids, Adults, Elderly, Furniture &amp; Surface Protection Pee Pad",
+      "brand": "Medline",
+      "price": 44.99,
+      "salesParent": 13914,
+      "revenue": 639626.62,
+      "rating": 4.6,
+      "reviews": 23159
+    },
+    {
+      "rank": 5,
+      "asin": "B07GYZNDY8",
+      "title": "Medline Ultrasorbs Drypads, 30&quot; x 36&quot;, 25 Count, Super Absorbent Disposable Bed Pads, Large Incontinence Bed Pads, Chucks Protective Underpads, 10 Times More Absorbent, For Adults, Elderly",
+      "brand": "Medline",
+      "price": 41.99,
+      "salesParent": 12021,
+      "revenue": 503439.5,
+      "rating": 4.8,
+      "reviews": 7815
+    },
+    {
+      "rank": 6,
+      "asin": "B0DBM3QNDG",
+      "title": "4 Pack 36” x 36” Extra Heavy Absorbency Washable Underpads Bed Pads",
+      "brand": "FYGRIP",
+      "price": 29.98,
+      "salesParent": 11979,
+      "revenue": 374942.69,
+      "rating": 4.6,
+      "reviews": 3307
+    },
+    {
+      "rank": 7,
+      "asin": "B00BL6FUX4",
+      "title": "Medline Ultrasorbs Advanced Extra Strength Drypads, 30&quot; x 36&quot;, 70 Count, Super Absorbent Disposable Pads, Incontinence Bed Pads, Chucks Bed Pads, Elderly, 350 lb Repositioning Capacity",
+      "brand": "Medline",
+      "price": 99.35,
+      "salesParent": 3491,
+      "revenue": 344910.81,
+      "rating": 4.7,
+      "reviews": 1654
+    },
+    {
+      "rank": 8,
+      "asin": "B00BE5D2FA",
+      "title": "McKesson Ultra Disposable Underpads, Heavy Absorbency, 30 x 36 in, 100 ct",
+      "brand": "McKesson",
+      "price": 50.99,
+      "salesParent": 6817,
+      "revenue": 342145.22,
+      "rating": 4.5,
+      "reviews": 10842
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -8,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -8,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 12569124,
+    "priorHeadRevenue": 13662478,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 23,
+      "pct": 23,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 57,
+      "brandCount": 54,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.41,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0DP5DY2CT",
+        "title": "Chucks Pads Disposable [100-Pack] Adult Incontinence Underpads 23&quot;x36&quot;",
+        "rating": 4.5,
+        "reviews": 8224
+      },
+      {
+        "rank": 2,
+        "asin": "B0CPPLLBHT",
+        "title": "100 Count 22” x 22” Super Absorbency Disposable Underpads",
+        "rating": 4.4,
+        "reviews": 6241
+      },
+      {
+        "rank": 3,
+        "asin": "B07Q1XCM3L",
+        "title": "4 Pack Waterproof Reusable Heavy Absorbency Incontinence Bed Pads 34&quot;x36&quot;",
+        "rating": 4.5,
+        "reviews": 24838
+      },
+      {
+        "rank": 4,
+        "asin": "B002NHIFNW",
+        "title": "Medline Super Absorbent Underpad, 36&quot; x 36&quot;, 50 Count, Extra Large Disposable Incontinence Pads, Protective Bed Pads, Chucks, For Kids, Adults, Elderly, Furniture &amp; Surface Protection Pee Pad",
+        "rating": 4.6,
+        "reviews": 23159
+      },
+      {
+        "rank": 5,
+        "asin": "B07GYZNDY8",
+        "title": "Medline Ultrasorbs Drypads, 30&quot; x 36&quot;, 25 Count, Super Absorbent Disposable Bed Pads, Large Incontinence Bed Pads, Chucks Protective Underpads, 10 Times More Absorbent, For Adults, Elderly",
+        "rating": 4.8,
+        "reviews": 7815
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3760941:3763261:3763281",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

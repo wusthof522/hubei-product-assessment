@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3774431",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins, Minerals & Supplements > Minerals > Multiminerals",
+  "categoryPathCn": "健康与家居 > 身、泳和附剂 > 出国 > 复合呈现",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 4229836,
+    "avgRevenue": 42726,
+    "medianPrice": 26.7,
+    "priceBand": "$19.52 - $35.0",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B01DHKOS3O",
+      "title": "Multivitamin for Women – Methylated Multivitamin – Daily Wellness – 60 Caps",
+      "brand": "Vimerson Health",
+      "price": 19.52,
+      "salesParent": 79142,
+      "revenue": 1803646.25,
+      "rating": 4.5,
+      "reviews": 51922
+    },
+    {
+      "rank": 2,
+      "asin": "B003L31NM2",
+      "title": "Garden of Life Vitamin Code Raw Calcium Supplement, 120 Capsules",
+      "brand": "Garden of Life",
+      "price": 38.09,
+      "salesParent": 10413,
+      "revenue": 393403.12,
+      "rating": 4.7,
+      "reviews": 6525
+    },
+    {
+      "rank": 3,
+      "asin": "B0098U0QC0",
+      "title": "Garden of Life Vitamin Code Raw Zinc Supplement 30mg, 60 Vegan Capsules",
+      "brand": "Garden of Life",
+      "price": 11.19,
+      "salesParent": 22388,
+      "revenue": 248730.67,
+      "rating": 4.7,
+      "reviews": 32136
+    },
+    {
+      "rank": 4,
+      "asin": "B0DNRG1YQS",
+      "title": "MaryRuth's Liquid Nighttime Liquid Multimineral + Skin Renew, 30 Servings",
+      "brand": "MARYRUTH'S",
+      "price": 74.95,
+      "salesParent": 3009,
+      "revenue": 214300.98,
+      "rating": 4.6,
+      "reviews": 753
+    },
+    {
+      "rank": 5,
+      "asin": "B0CWC4LGPM",
+      "title": "MaryRuth's Liquid Nighttime Multimineral, NO Melatonin, 4 Flavors, 15.22oz",
+      "brand": "MARYRUTH'S",
+      "price": 19.78,
+      "salesParent": 10206,
+      "revenue": 201670.56,
+      "rating": 4.3,
+      "reviews": 11034
+    },
+    {
+      "rank": 6,
+      "asin": "B0DS7X3P1L",
+      "title": "Natrol Sleep &amp; Restore Magnesium Glycinate Blend Gummies, Cherry, 60 Count",
+      "brand": "Natrol",
+      "price": 13.98,
+      "salesParent": 8041,
+      "revenue": 116514.0,
+      "rating": 3.9,
+      "reviews": 1192
+    },
+    {
+      "rank": 7,
+      "asin": "B0DQM168QR",
+      "title": "MaryRuth's Kids Liquid Nighttime Multimineral, Bone Health, 15.22 Fl Oz",
+      "brand": "MARYRUTH'S",
+      "price": 23.54,
+      "salesParent": 3667,
+      "revenue": 86321.18,
+      "rating": 4.6,
+      "reviews": 498
+    },
+    {
+      "rank": 8,
+      "asin": "B0041B11BQ",
+      "title": "Designs for Health Complete Mineral Complex Supplement, 90 Capsules",
+      "brand": "Designs for Health",
+      "price": 29.49,
+      "salesParent": 2657,
+      "revenue": 78354.93,
+      "rating": 4.6,
+      "reviews": 1471
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -38,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -38,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 4229836,
+    "priorHeadRevenue": 6829547,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 31,
+      "pct": 31,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 77,
+      "brandCount": 69,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.43,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B01DHKOS3O",
+        "title": "Multivitamin for Women – Methylated Multivitamin – Daily Wellness – 60 Caps",
+        "rating": 4.5,
+        "reviews": 51922
+      },
+      {
+        "rank": 2,
+        "asin": "B003L31NM2",
+        "title": "Garden of Life Vitamin Code Raw Calcium Supplement, 120 Capsules",
+        "rating": 4.7,
+        "reviews": 6525
+      },
+      {
+        "rank": 3,
+        "asin": "B0098U0QC0",
+        "title": "Garden of Life Vitamin Code Raw Zinc Supplement 30mg, 60 Vegan Capsules",
+        "rating": 4.7,
+        "reviews": 32136
+      },
+      {
+        "rank": 4,
+        "asin": "B0DNRG1YQS",
+        "title": "MaryRuth's Liquid Nighttime Liquid Multimineral + Skin Renew, 30 Servings",
+        "rating": 4.6,
+        "reviews": 753
+      },
+      {
+        "rank": 5,
+        "asin": "B0CWC4LGPM",
+        "title": "MaryRuth's Liquid Nighttime Multimineral, NO Melatonin, 4 Flavors, 15.22oz",
+        "rating": 4.3,
+        "reviews": 11034
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:23675621011:3774271:3774431",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3773681",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins, Minerals & Supplements > Glandular Extracts > Thyroid Extracts",
+  "categoryPathCn": "健康与家居 > 身、泳和附剂 > 圣诞体提取物 > 甲状腺提取物",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 1852955,
+    "avgRevenue": 18530,
+    "medianPrice": 29.95,
+    "priceBand": "$21.32 - $39.95",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B00M13NHFY",
+      "title": "1 Body Thyroid Support for Women &amp; Men, Iodine &amp; Selenium Supplement",
+      "brand": "1 Body",
+      "price": 30.99,
+      "salesParent": 7379,
+      "revenue": 218123.23,
+      "rating": 4.3,
+      "reviews": 23541
+    },
+    {
+      "rank": 2,
+      "asin": "B0BT6C8NGW",
+      "title": "Thyroid Support for Women &amp; Men, Selenium 300mcg, Iodine 500mcg, L-Tyrosine",
+      "brand": "Clean Nutraceuticals",
+      "price": 29.95,
+      "salesParent": 6981,
+      "revenue": 204473.5,
+      "rating": 4.5,
+      "reviews": 3541
+    },
+    {
+      "rank": 3,
+      "asin": "B004W9NGJM",
+      "title": "THORNE Thyroid Health Complex, Iodine, L-Tyrosine &amp; Selenium, 120 Capsules",
+      "brand": "THORNE",
+      "price": 40.0,
+      "salesParent": 4473,
+      "revenue": 178920.0,
+      "rating": 4.6,
+      "reviews": 1204
+    },
+    {
+      "rank": 4,
+      "asin": "B0036THNO8",
+      "title": "Gaia Herbs Thyroid Support, 120 Vegan Capsules, 60 Servings",
+      "brand": "Gaia Herbs",
+      "price": 49.49,
+      "salesParent": 1518,
+      "revenue": 75125.82,
+      "rating": 4.6,
+      "reviews": 1288
+    },
+    {
+      "rank": 5,
+      "asin": "B0DCPDVXV5",
+      "title": "NEW AGE Selenium, Zinc, Iodine, L Tyrosine, Ashwagandha - Supplement for Women and Men with Bladderwrack, Turmeric, Silica Kelp, Schisandra - 120 Count",
+      "brand": "NEW AGE",
+      "price": 34.95,
+      "salesParent": 1692,
+      "revenue": 59135.4,
+      "rating": 4.5,
+      "reviews": 1279
+    },
+    {
+      "rank": 6,
+      "asin": "B000VYXBHE",
+      "title": "Designs for Health Thyroid Synergy, Thyroid Support, 120 Capsules",
+      "brand": "Designs for Health",
+      "price": 49.99,
+      "salesParent": 1132,
+      "revenue": 56588.68,
+      "rating": 4.5,
+      "reviews": 661
+    },
+    {
+      "rank": 7,
+      "asin": "B0C6FSJP5T",
+      "title": "Thyroid – Raw Grass-Fed Desiccated – New Zealand, 60 Caps",
+      "brand": "Evolved Elements",
+      "price": 49.99,
+      "salesParent": 979,
+      "revenue": 48411.55,
+      "rating": 4.3,
+      "reviews": 623
+    },
+    {
+      "rank": 8,
+      "asin": "B0GFWVJZYW",
+      "title": "Conversol Thyroid Support Supplement with Milk Thistle, Artichoke, Choline, Glutathione, Selenium &amp; NAC - Thyroid &amp; Liver Support Nutrients - 60 Vegan Capsules",
+      "brand": "miavola",
+      "price": 59.99,
+      "salesParent": 799,
+      "revenue": 47932.01,
+      "rating": 4.2,
+      "reviews": 47
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -28,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -28,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1852955,
+    "priorHeadRevenue": 2588411,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 27,
+      "pct": 27,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 42,
+      "brandCount": 83,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.32,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B00M13NHFY",
+        "title": "1 Body Thyroid Support for Women &amp; Men, Iodine &amp; Selenium Supplement",
+        "rating": 4.3,
+        "reviews": 23541
+      },
+      {
+        "rank": 2,
+        "asin": "B0BT6C8NGW",
+        "title": "Thyroid Support for Women &amp; Men, Selenium 300mcg, Iodine 500mcg, L-Tyrosine",
+        "rating": 4.5,
+        "reviews": 3541
+      },
+      {
+        "rank": 3,
+        "asin": "B004W9NGJM",
+        "title": "THORNE Thyroid Health Complex, Iodine, L-Tyrosine &amp; Selenium, 120 Capsules",
+        "rating": 4.6,
+        "reviews": 1204
+      },
+      {
+        "rank": 4,
+        "asin": "B0036THNO8",
+        "title": "Gaia Herbs Thyroid Support, 120 Vegan Capsules, 60 Servings",
+        "rating": 4.6,
+        "reviews": 1288
+      },
+      {
+        "rank": 5,
+        "asin": "B0DCPDVXV5",
+        "title": "NEW AGE Selenium, Zinc, Iodine, L Tyrosine, Ashwagandha - Supplement for Women and Men with Bladderwrack, Turmeric, Silica Kelp, Schisandra - 120 Count",
+        "rating": 4.5,
+        "reviews": 1279
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:23675621011:3773631:3773681",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "15356211",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Household Supplies > Laundry > Stain Removers",
+  "categoryPathCn": "健康与家居 > 家居用品 > 衣物清洁 > 衣领净",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 24654465,
+    "avgRevenue": 249035,
+    "medianPrice": 15.99,
+    "priceBand": "$9.99 - $21.19",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0BVXQQNBB",
+      "title": "Miss Mouth's Messy Eater Stain Treater Spray, Laundry Stain Remover, 16 Oz",
+      "brand": "Miss Mouth's",
+      "price": 27.99,
+      "salesParent": 303282,
+      "revenue": 8488863.0,
+      "rating": 4.6,
+      "reviews": 6646
+    },
+    {
+      "rank": 2,
+      "asin": "B0CJH9DRM6",
+      "title": "Enzyme Laundry Booster Odor Remover - 2 lbs Unscented Enzymatic Clothes Stain Cleaner Powder, Natural Deodorizer with Bio Active Enzymes, Detergent Additive Eliminator for Sweat, Oil, Blood - 64 Loads",
+      "brand": "ACTIVE",
+      "price": 19.95,
+      "salesParent": 89633,
+      "revenue": 1788178.38,
+      "rating": 4.5,
+      "reviews": 9448
+    },
+    {
+      "rank": 3,
+      "asin": "B01BUNHFAS",
+      "title": "OxiClean Odor Blasters Versatile Odor and Stain Remover Powder, 5 lb",
+      "brand": "OxiClean",
+      "price": 11.79,
+      "salesParent": 136688,
+      "revenue": 1537740.0,
+      "rating": 4.8,
+      "reviews": 49042
+    },
+    {
+      "rank": 4,
+      "asin": "B0BVY2XKJX",
+      "title": "OxiClean Max Force Laundry Stain Treater Spray, 12 Fl Oz (Pack of 3)",
+      "brand": "OxiClean",
+      "price": 8.99,
+      "salesParent": 106283,
+      "revenue": 1315783.5,
+      "rating": 4.7,
+      "reviews": 8778
+    },
+    {
+      "rank": 5,
+      "asin": "B00IA9QTAI",
+      "title": "OxiClean White Revive Laundry Whitener and Stain Remover Powder, 5 lb",
+      "brand": "OxiClean",
+      "price": 11.79,
+      "salesParent": 81916,
+      "revenue": 928108.25,
+      "rating": 4.7,
+      "reviews": 47050
+    },
+    {
+      "rank": 6,
+      "asin": "B00I8YAT42",
+      "title": "OxiClean Versatile Stain Remover Powder, 5 lb",
+      "brand": "OxiClean",
+      "price": 11.93,
+      "salesParent": 45354,
+      "revenue": 525199.31,
+      "rating": 4.8,
+      "reviews": 28932
+    },
+    {
+      "rank": 7,
+      "asin": "B01B0ADMP8",
+      "title": "Shout Color Catcher Dye-Trapping Laundry Sheets, 72 Count, (1-Pack)",
+      "brand": "SHOUT",
+      "price": 11.57,
+      "salesParent": 45086,
+      "revenue": 521645.0,
+      "rating": 4.8,
+      "reviews": 41234
+    },
+    {
+      "rank": 8,
+      "asin": "B09MSP7M5Y",
+      "title": "Dirty Labs | Bio Enzyme Laundry Booster | Scent Free | 48 Loads (1 lb)",
+      "brand": "Dirty Labs",
+      "price": 22.0,
+      "salesParent": 18632,
+      "revenue": 409345.03,
+      "rating": 4.5,
+      "reviews": 2725
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 4,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 4,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 24654465,
+    "priorHeadRevenue": 23713611,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 15,
+      "pct": 15,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 78,
+      "brandCount": 53,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.61,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0BVXQQNBB",
+        "title": "Miss Mouth's Messy Eater Stain Treater Spray, Laundry Stain Remover, 16 Oz",
+        "rating": 4.6,
+        "reviews": 6646
+      },
+      {
+        "rank": 2,
+        "asin": "B0CJH9DRM6",
+        "title": "Enzyme Laundry Booster Odor Remover - 2 lbs Unscented Enzymatic Clothes Stain Cleaner Powder, Natural Deodorizer with Bio Active Enzymes, Detergent Additive Eliminator for Sweat, Oil, Blood - 64 Loads",
+        "rating": 4.5,
+        "reviews": 9448
+      },
+      {
+        "rank": 3,
+        "asin": "B01BUNHFAS",
+        "title": "OxiClean Odor Blasters Versatile Odor and Stain Remover Powder, 5 lb",
+        "rating": 4.8,
+        "reviews": 49042
+      },
+      {
+        "rank": 4,
+        "asin": "B0BVY2XKJX",
+        "title": "OxiClean Max Force Laundry Stain Treater Spray, 12 Fl Oz (Pack of 3)",
+        "rating": 4.7,
+        "reviews": 8778
+      },
+      {
+        "rank": 5,
+        "asin": "B00IA9QTAI",
+        "title": "OxiClean White Revive Laundry Whitener and Stain Remover Powder, 5 lb",
+        "rating": 4.7,
+        "reviews": 47050
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:15342811:15356111:15356211",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

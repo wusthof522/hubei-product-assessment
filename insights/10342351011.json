@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "10342351011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Household Supplies > Lighters & Matches > Lighter Fluid",
+  "categoryPathCn": "健康与家居 > 家居用品 > 打火机和火柴 > 打火机油",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "insufficient",
+  "marketSize": {
+    "sampleCount": 14,
+    "totalRevenue": 216368,
+    "avgRevenue": 15455,
+    "medianPrice": 18.97,
+    "priceBand": "$12.14 - $26.22",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B000XJ36UO",
+      "title": "Ronson Lighter Fuel 5 fl oz – Lighter Fluid Refill for Wick Lighters, Clean-Burning Fuel for Refillable Lighters, Outdoor, Camping &amp; Everyday Use, Precision Pour Spout",
+      "brand": "Ronson",
+      "price": 5.98,
+      "salesParent": 15358,
+      "revenue": 94451.7,
+      "rating": 4.7,
+      "reviews": 14328
+    },
+    {
+      "rank": 2,
+      "asin": "B071LFFN5V",
+      "title": "ZIPPO 494 Zippo Lighter Fluid 4 oz",
+      "brand": "Zippo",
+      "price": 9.89,
+      "salesParent": 7350,
+      "revenue": 71589.0,
+      "rating": 4.8,
+      "reviews": 32799
+    },
+    {
+      "rank": 3,
+      "asin": "B0DP94LJHL",
+      "title": "Billy Buckskin Charcoal Lighter Fluid, Clean Burning, 1 Quart, 2-Pack",
+      "brand": "BILLY BUCKSKIN HOME &amp; BEAUTY",
+      "price": 29.9,
+      "salesParent": 1146,
+      "revenue": 34265.4,
+      "rating": 4.6,
+      "reviews": 1298
+    },
+    {
+      "rank": 4,
+      "asin": "B09317CH99",
+      "title": "Mr. Bar-B-Q 2-Pack Lighter Fuel Bottles, Charcoal Lighter Fluid, 1 Quart",
+      "brand": "Mr. Bar-B-Q",
+      "price": 29.9,
+      "salesParent": 227,
+      "revenue": 6787.3,
+      "rating": 4.7,
+      "reviews": 645
+    },
+    {
+      "rank": 5,
+      "asin": "B0DXP9NRFF",
+      "title": "Replacement for fits Kingsford Charcoal Lighter Fluid 32 oz (12-pack)",
+      "brand": "KXUPOIAV",
+      "price": 98.9,
+      "salesParent": 52,
+      "revenue": 5633.68,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "rank": 6,
+      "asin": "B0H95879LX",
+      "title": "Lighter Fuel 5 oz, 4 Pack – Petroleum Distillate Lighter Fluid Refill for All Wick Lighters, 5 fl oz (148 mL) per Bottle, Household, Camping and Emergency Use",
+      "brand": "Generic",
+      "price": 18.97,
+      "salesParent": 109,
+      "revenue": 2067.73,
+      "rating": 5.0,
+      "reviews": 2
+    },
+    {
+      "rank": 7,
+      "asin": "B0HMK73JB5",
+      "title": "32 Oz Container, Fuel Liquid for Compatible Charcoal Lighting Applications, Convenient Bottle for Outdoor Cooking Use",
+      "brand": "Generic",
+      "price": 20.98,
+      "salesParent": 40,
+      "revenue": 862.4,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "rank": 8,
+      "asin": "B0HKMRZ4TG",
+      "title": "FALAH Charcoal Lighter Fluid, 32 oz for Outdoor Grills and BBQ",
+      "brand": "FALAH",
+      "price": 18.98,
+      "salesParent": 14,
+      "revenue": 265.72,
+      "rating": null,
+      "reviews": null
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": null,
+    "direction": "flat",
+    "comparable": null,
+    "rawYoyPct": 161,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 216368,
+    "priorHeadRevenue": 82947,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 14,
+      "newCount": 6,
+      "pct": 43,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 98,
+      "brandCount": 10,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.79,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B000XJ36UO",
+        "title": "Ronson Lighter Fuel 5 fl oz – Lighter Fluid Refill for Wick Lighters, Clean-Burning Fuel for Refillable Lighters, Outdoor, Camping &amp; Everyday Use, Precision Pour Spout",
+        "rating": 4.7,
+        "reviews": 14328
+      },
+      {
+        "rank": 2,
+        "asin": "B071LFFN5V",
+        "title": "ZIPPO 494 Zippo Lighter Fluid 4 oz",
+        "rating": 4.8,
+        "reviews": 32799
+      },
+      {
+        "rank": 3,
+        "asin": "B0DP94LJHL",
+        "title": "Billy Buckskin Charcoal Lighter Fluid, Clean Burning, 1 Quart, 2-Pack",
+        "rating": 4.6,
+        "reviews": 1298
+      },
+      {
+        "rank": 4,
+        "asin": "B09317CH99",
+        "title": "Mr. Bar-B-Q 2-Pack Lighter Fuel Bottles, Charcoal Lighter Fluid, 1 Quart",
+        "rating": 4.7,
+        "reviews": 645
+      },
+      {
+        "rank": 5,
+        "asin": "B0DXP9NRFF",
+        "title": "Replacement for fits Kingsford Charcoal Lighter Fluid 32 oz (12-pack)",
+        "rating": null,
+        "reviews": null
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:15342811:10342347011:10342351011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

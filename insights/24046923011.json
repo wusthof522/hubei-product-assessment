@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "24046923011",
+  "level": "L2",
+  "categoryPathEn": "Electronics > Headphones, Earbuds & Accessories",
+  "categoryPathCn": "电子产品 > 耳机、耳塞及配件",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 159692836,
+    "avgRevenue": 1613059,
+    "medianPrice": 129.95,
+    "priceBand": "$39.99 - $199.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0DZHR44J9",
+      "title": "Bose QuietComfort Headphones - Wireless Bluetooth Headphones, Active Over Ear Noise Cancelling and Mic, USB-C Charging, Deep Bass, Up to 24 Hours of Playtime, Twilight Blue - Limited Edition Color",
+      "brand": "Bose",
+      "price": 169.0,
+      "salesParent": 52376,
+      "revenue": 15245083.0,
+      "rating": 4.5,
+      "reviews": 22626
+    },
+    {
+      "rank": 2,
+      "asin": "B0C8PR4W22",
+      "title": "Beats Studio Pro Premium Wireless Over-Ear Headphones- Up to 40-Hour Battery Life, Active Noise Cancelling, Great for Travel &amp; Commuting, USB-C Lossless Audio, Apple &amp; Android Compatible -Black",
+      "brand": "Beats",
+      "price": 199.95,
+      "salesParent": 53170,
+      "revenue": 11008849.0,
+      "rating": 4.5,
+      "reviews": 29162
+    },
+    {
+      "rank": 3,
+      "asin": "B0CZPGX972",
+      "title": "Beats Solo 4 - Wireless On-Ear Bluetooth Headphones, Up to 50-Hour Battery Life, Ultra-Lightweight Comfort, Powerful and Balanced Sound, Apple &amp; Android Compatible - Cloud Pink",
+      "brand": "Beats",
+      "price": 129.95,
+      "salesParent": 73340,
+      "revenue": 9523932.0,
+      "rating": 4.6,
+      "reviews": 30174
+    },
+    {
+      "rank": 4,
+      "asin": "B0D2HKCMBP",
+      "title": "SHOKZ OpenRun Pro 2 Bone Conduction Bluetooth Sport Headphones, Black",
+      "brand": "SHOKZ",
+      "price": 179.95,
+      "salesParent": 42699,
+      "revenue": 7683685.0,
+      "rating": 4.3,
+      "reviews": 9127
+    },
+    {
+      "rank": 5,
+      "asin": "B0DT2344N3",
+      "title": "Beats Powerbeats Pro 2 - Wireless Noise Cancelling Workout Earbuds with Secure- Fit Earhooks, Up to 45-Hour Battery with Charging Case, Sweat &amp; Water Resistant, Heart Rate Monitoring - Jet Black",
+      "brand": "Beats",
+      "price": 199.95,
+      "salesParent": 20977,
+      "revenue": 4593333.5,
+      "rating": 4.1,
+      "reviews": 5995
+    },
+    {
+      "rank": 6,
+      "asin": "B0G1PJLWLZ",
+      "title": "Samsung Galaxy Buds 4 Pro (2026) AI True Wireless Bluetooth Earbuds, Black",
+      "brand": "Samsung",
+      "price": 244.0,
+      "salesParent": 17496,
+      "revenue": 3958120.0,
+      "rating": 4.4,
+      "reviews": 2719
+    },
+    {
+      "rank": 7,
+      "asin": "B0DGHMNQ5Z",
+      "title": "Apple AirPods 4 Wireless Earbuds",
+      "brand": "Apple",
+      "price": 128.99,
+      "salesParent": 30372,
+      "revenue": 3823227.25,
+      "rating": 4.5,
+      "reviews": 36205
+    },
+    {
+      "rank": 8,
+      "asin": "B0FDKR293G",
+      "title": "Bose QuietComfort Ultra Bluetooth Headphones (2nd Gen), Wireless Headphones with Spatial Audio, Over Ear Noise Cancelling with Mic, Up to 30 Hours of Play time, Black",
+      "brand": "Bose",
+      "price": 369.0,
+      "salesParent": 8497,
+      "revenue": 3625075.25,
+      "rating": 4.2,
+      "reviews": 3133
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -17,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -17,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 159692836,
+    "priorHeadRevenue": 192960442,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 45,
+      "pct": 45,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 61,
+      "brandCount": 32,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.32,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0DZHR44J9",
+        "title": "Bose QuietComfort Headphones - Wireless Bluetooth Headphones, Active Over Ear Noise Cancelling and Mic, USB-C Charging, Deep Bass, Up to 24 Hours of Playtime, Twilight Blue - Limited Edition Color",
+        "rating": 4.5,
+        "reviews": 22626
+      },
+      {
+        "rank": 2,
+        "asin": "B0C8PR4W22",
+        "title": "Beats Studio Pro Premium Wireless Over-Ear Headphones- Up to 40-Hour Battery Life, Active Noise Cancelling, Great for Travel &amp; Commuting, USB-C Lossless Audio, Apple &amp; Android Compatible -Black",
+        "rating": 4.5,
+        "reviews": 29162
+      },
+      {
+        "rank": 3,
+        "asin": "B0CZPGX972",
+        "title": "Beats Solo 4 - Wireless On-Ear Bluetooth Headphones, Up to 50-Hour Battery Life, Ultra-Lightweight Comfort, Powerful and Balanced Sound, Apple &amp; Android Compatible - Cloud Pink",
+        "rating": 4.6,
+        "reviews": 30174
+      },
+      {
+        "rank": 4,
+        "asin": "B0D2HKCMBP",
+        "title": "SHOKZ OpenRun Pro 2 Bone Conduction Bluetooth Sport Headphones, Black",
+        "rating": 4.3,
+        "reviews": 9127
+      },
+      {
+        "rank": 5,
+        "asin": "B0DT2344N3",
+        "title": "Beats Powerbeats Pro 2 - Wireless Noise Cancelling Workout Earbuds with Secure- Fit Earhooks, Up to 45-Hour Battery with Charging Case, Sweat &amp; Water Resistant, Heart Rate Monitoring - Jet Black",
+        "rating": 4.1,
+        "reviews": 5995
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "172282:24046923011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

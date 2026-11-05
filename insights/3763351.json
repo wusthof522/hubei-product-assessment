@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3763351",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Health Care > Incontinence & Ostomy > Cleansers, Cloths & Creams",
+  "categoryPathCn": "健康与家居 > 卫生保健 > 成人失禁用品 > 清洁除臭用品",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 97,
+    "totalRevenue": 4285551,
+    "avgRevenue": 44181,
+    "medianPrice": 21.0,
+    "priceBand": "$11.07 - $36.7",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B08PC8JT3J",
+      "title": "Inspire Adult Wet Wipes, Wash Cloths | Adult Wipes for Incontinence &amp; Cleansing for Elderly, 8&quot;x12&quot; (600 Count)",
+      "brand": "Inspire",
+      "price": 41.99,
+      "salesParent": 33929,
+      "revenue": 1319498.75,
+      "rating": 4.5,
+      "reviews": 24763
+    },
+    {
+      "rank": 2,
+      "asin": "B0DBGQB4Q8",
+      "title": "OPTEEL Adult Wipes for the Elderly – Extra Large 8x13, Pre-Moistened 720ct",
+      "brand": "OPTEEL",
+      "price": 39.95,
+      "salesParent": 23017,
+      "revenue": 877868.38,
+      "rating": 4.6,
+      "reviews": 6067
+    },
+    {
+      "rank": 3,
+      "asin": "B00Q3Z79G4",
+      "title": "FitRight Personal Cleansing Wipes with Aloe 8x10 Unscented 600 Count",
+      "brand": "Medline",
+      "price": 34.2,
+      "salesParent": 11714,
+      "revenue": 400618.81,
+      "rating": 4.6,
+      "reviews": 14820
+    },
+    {
+      "rank": 4,
+      "asin": "B0F48BDRP5",
+      "title": "Adult Wipes for Elderly - 720 Count Extra Large 8&quot;x13&quot; Disposable Washcloths Rinse Free Bathing Wipes for Incontinence &amp; Bedridden Care - Thick, Soft &amp; Unscented with Aloe &amp; Vitamin E (12 Packs of 60)",
+      "brand": "Snuvid",
+      "price": 38.99,
+      "salesParent": 3799,
+      "revenue": 139537.27,
+      "rating": 4.6,
+      "reviews": 881
+    },
+    {
+      "rank": 5,
+      "asin": "B0F8PZ87DJ",
+      "title": "720 Count (12 Packs of 60) Wipes for Adults, 8&quot; x 12&quot; Extra Large Wet Wipes for Incontinence &amp; Cleansing, Disposable Body Shower &amp; Bath Wipes for Elderly Bathing No-Rinse - Vitamin E &amp; Aloe",
+      "brand": "AOZITA",
+      "price": 32.39,
+      "salesParent": 3624,
+      "revenue": 127565.0,
+      "rating": 4.6,
+      "reviews": 1022
+    },
+    {
+      "rank": 6,
+      "asin": "B09LRDD8ZL",
+      "title": "TENA Proskin Adult Wipes for Incontinence, Unisex, 288 ct",
+      "brand": "TENA",
+      "price": 29.82,
+      "salesParent": 2956,
+      "revenue": 88147.92,
+      "rating": 4.7,
+      "reviews": 968
+    },
+    {
+      "rank": 7,
+      "asin": "B07H8S6W63",
+      "title": "TenderProtect Original XL Body Wipes for Adults, 600 Count Adult Wet Wipes",
+      "brand": "TENDERProtect",
+      "price": 41.98,
+      "salesParent": 2032,
+      "revenue": 85303.36,
+      "rating": 4.6,
+      "reviews": 2744
+    },
+    {
+      "rank": 8,
+      "asin": "B09SMRJFXP",
+      "title": "Frida Mom C-Section Recovery Must Have Kit for Labor, Delivery &amp; Postpartum",
+      "brand": "Frida Mom",
+      "price": 89.0,
+      "salesParent": 945,
+      "revenue": 84105.0,
+      "rating": 4.6,
+      "reviews": 570
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 22,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 22,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 4285551,
+    "priorHeadRevenue": 3507429,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 97,
+      "newCount": 12,
+      "pct": 12,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 69,
+      "brandCount": 58,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.6,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B08PC8JT3J",
+        "title": "Inspire Adult Wet Wipes, Wash Cloths | Adult Wipes for Incontinence &amp; Cleansing for Elderly, 8&quot;x12&quot; (600 Count)",
+        "rating": 4.5,
+        "reviews": 24763
+      },
+      {
+        "rank": 2,
+        "asin": "B0DBGQB4Q8",
+        "title": "OPTEEL Adult Wipes for the Elderly – Extra Large 8x13, Pre-Moistened 720ct",
+        "rating": 4.6,
+        "reviews": 6067
+      },
+      {
+        "rank": 3,
+        "asin": "B00Q3Z79G4",
+        "title": "FitRight Personal Cleansing Wipes with Aloe 8x10 Unscented 600 Count",
+        "rating": 4.6,
+        "reviews": 14820
+      },
+      {
+        "rank": 4,
+        "asin": "B0F48BDRP5",
+        "title": "Adult Wipes for Elderly - 720 Count Extra Large 8&quot;x13&quot; Disposable Washcloths Rinse Free Bathing Wipes for Incontinence &amp; Bedridden Care - Thick, Soft &amp; Unscented with Aloe &amp; Vitamin E (12 Packs of 60)",
+        "rating": 4.6,
+        "reviews": 881
+      },
+      {
+        "rank": 5,
+        "asin": "B0F8PZ87DJ",
+        "title": "720 Count (12 Packs of 60) Wipes for Adults, 8&quot; x 12&quot; Extra Large Wet Wipes for Incontinence &amp; Cleansing, Disposable Body Shower &amp; Bath Wipes for Elderly Bathing No-Rinse - Vitamin E &amp; Aloe",
+        "rating": 4.6,
+        "reviews": 1022
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3760941:3763261:3763351",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

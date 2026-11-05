@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3774621",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins, Minerals & Supplements > Antioxidants > Pycnogenol",
+  "categoryPathCn": "健康与家居 > 身、泳和附剂 > 抗拒 > 碧萝芷",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 35,
+    "totalRevenue": 796685,
+    "avgRevenue": 22762,
+    "medianPrice": 31.9,
+    "priceBand": "$26.36 - $49.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B00B0YI97Q",
+      "title": "Life Extension Pycnogenol French Maritime Pine Bark Extract, 60 Capsules",
+      "brand": "Life Extension",
+      "price": 51.75,
+      "salesParent": 4433,
+      "revenue": 229407.75,
+      "rating": 4.6,
+      "reviews": 991
+    },
+    {
+      "rank": 2,
+      "asin": "B00142E92I",
+      "title": "Healthy Origins Pycnogenol Pine Bark 100 mg, 60 Veggie Caps",
+      "brand": "Healthy Origins",
+      "price": 49.99,
+      "salesParent": 2523,
+      "revenue": 126124.77,
+      "rating": 4.5,
+      "reviews": 2949
+    },
+    {
+      "rank": 3,
+      "asin": "B004YZTH74",
+      "title": "NOW Supplements, Pycnogenol 100 mg with Amla, 60 Veg Caps",
+      "brand": "NOW",
+      "price": 53.45,
+      "salesParent": 966,
+      "revenue": 51690.66,
+      "rating": 4.6,
+      "reviews": 1064
+    },
+    {
+      "rank": 4,
+      "asin": "B09BM27JYW",
+      "title": "Zazzee Extra Strength French Maritime Pine Bark Extract 20:1, 180 Capsules",
+      "brand": "Zazzee",
+      "price": 29.97,
+      "salesParent": 1616,
+      "revenue": 48431.52,
+      "rating": 4.5,
+      "reviews": 1566
+    },
+    {
+      "rank": 5,
+      "asin": "B014Q1M4FM",
+      "title": "Viva Naturals Pycnogenol - 100mg French Maritime Pine Bark Extract – Supports Circulation, Antioxidant-Like Activity, Joints &amp; Immune Health and Function – 60 Veggie Capsules",
+      "brand": "Viva Naturals",
+      "price": 49.99,
+      "salesParent": 887,
+      "revenue": 44341.13,
+      "rating": 4.5,
+      "reviews": 1702
+    },
+    {
+      "rank": 6,
+      "asin": "B0017K776M",
+      "title": "Pure Encapsulations Pycnogenol 100 mg, 60 Capsules",
+      "brand": "Pure Encapsulations",
+      "price": 164.0,
+      "salesParent": 247,
+      "revenue": 40508.0,
+      "rating": 4.4,
+      "reviews": 77
+    },
+    {
+      "rank": 7,
+      "asin": "B07HLBDH6R",
+      "title": "NutraChamps Pycnogenol French Maritime Pine Bark Extract, Premium Circulation Complex, Blood Flow, Nitric Oxide Production, Superior Absorption, Results with Black Pepper Extract, 60 Capsules",
+      "brand": "NutraChamps",
+      "price": 27.95,
+      "salesParent": 1353,
+      "revenue": 37816.35,
+      "rating": 4.3,
+      "reviews": 2536
+    },
+    {
+      "rank": 8,
+      "asin": "B007G427TA",
+      "title": "BESTVITE Pycnogenol 100mg (60 Caps) - French Maritime Pine Bark Extract",
+      "brand": "BESTVITE",
+      "price": 42.99,
+      "salesParent": 527,
+      "revenue": 22655.73,
+      "rating": 4.6,
+      "reviews": 357
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 12,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 12,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 796685,
+    "priorHeadRevenue": 711734,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 35,
+      "newCount": 1,
+      "pct": 3,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 70,
+      "brandCount": 26,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.43,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B00B0YI97Q",
+        "title": "Life Extension Pycnogenol French Maritime Pine Bark Extract, 60 Capsules",
+        "rating": 4.6,
+        "reviews": 991
+      },
+      {
+        "rank": 2,
+        "asin": "B00142E92I",
+        "title": "Healthy Origins Pycnogenol Pine Bark 100 mg, 60 Veggie Caps",
+        "rating": 4.5,
+        "reviews": 2949
+      },
+      {
+        "rank": 3,
+        "asin": "B004YZTH74",
+        "title": "NOW Supplements, Pycnogenol 100 mg with Amla, 60 Veg Caps",
+        "rating": 4.6,
+        "reviews": 1064
+      },
+      {
+        "rank": 4,
+        "asin": "B09BM27JYW",
+        "title": "Zazzee Extra Strength French Maritime Pine Bark Extract 20:1, 180 Capsules",
+        "rating": 4.5,
+        "reviews": 1566
+      },
+      {
+        "rank": 5,
+        "asin": "B014Q1M4FM",
+        "title": "Viva Naturals Pycnogenol - 100mg French Maritime Pine Bark Extract – Supports Circulation, Antioxidant-Like Activity, Joints &amp; Immune Health and Function – 60 Veggie Capsules",
+        "rating": 4.5,
+        "reviews": 1702
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:23675621011:3774521:3774621",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

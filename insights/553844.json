@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "553844",
+  "level": "L2",
+  "categoryPathEn": "Patio, Lawn & Garden > Pest Control",
+  "categoryPathCn": "庭院、草坪和园艺 > 防虫用品",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 60936688,
+    "avgRevenue": 615522,
+    "medianPrice": 26.99,
+    "priceBand": "$18.99 - $37.8",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0CKY689WQ",
+      "title": "Zevo Flying Insect Trap for Fruit Flies &amp; Gnats, 1 Plug-In Base &amp; 3 Refills",
+      "brand": "ZEVO",
+      "price": 25.8,
+      "salesParent": 121228,
+      "revenue": 2962812.5,
+      "rating": 4.2,
+      "reviews": 92144
+    },
+    {
+      "rank": 2,
+      "asin": "B0CKY5N63H",
+      "title": "Zevo Flying Insect Trap for Fruit Flies &amp; Gnats, 2 Plug-In Bases, 4 Refills",
+      "brand": "ZEVO",
+      "price": 37.54,
+      "salesParent": 69004,
+      "revenue": 2818123.25,
+      "rating": 4.3,
+      "reviews": 38180
+    },
+    {
+      "rank": 3,
+      "asin": "B07JMDYDVJ",
+      "title": "Grandpa Gus's Mouse Repellent Pouches, Peppermint &amp; Cinnamon, Pack of 10",
+      "brand": "Grandpa Gus's",
+      "price": 32.99,
+      "salesParent": 82901,
+      "revenue": 2734904.25,
+      "rating": 4.1,
+      "reviews": 29701
+    },
+    {
+      "rank": 4,
+      "asin": "B0C3FTCYZL",
+      "title": "Zevo Flying Insect Trap Refill Cartridges for Fruit Flies &amp; Gnats, 4 Count",
+      "brand": "ZEVO",
+      "price": 14.97,
+      "salesParent": 176112,
+      "revenue": 2618785.5,
+      "rating": 4.8,
+      "reviews": 38711
+    },
+    {
+      "rank": 5,
+      "asin": "B0F1H7DYTP",
+      "title": "Tomcat with Bromethalin Bait Chunx Pail, 4.25 lbs.",
+      "brand": "Tomcat",
+      "price": 28.68,
+      "salesParent": 40346,
+      "revenue": 1698566.5,
+      "rating": 4.5,
+      "reviews": 2997
+    },
+    {
+      "rank": 6,
+      "asin": "B01N0TGJHB",
+      "title": "Ortho Home Defense Insect Killer for Indoor &amp; Perimeter2, Wand, 1.33 gal.",
+      "brand": "Ortho",
+      "price": 19.79,
+      "salesParent": 83408,
+      "revenue": 1650644.38,
+      "rating": 4.5,
+      "reviews": 20926
+    },
+    {
+      "rank": 7,
+      "asin": "B0FD75NVMF",
+      "title": "BugMD Vamoose! Pro Mouse and Rat Repellent Pouches, Mineral Pumice",
+      "brand": "BugMD",
+      "price": 44.99,
+      "salesParent": 34415,
+      "revenue": 1548330.88,
+      "rating": 4.0,
+      "reviews": 2379
+    },
+    {
+      "rank": 8,
+      "asin": "B00CEFPWV6",
+      "title": "Catchmaster Rat &amp; Mouse Glue Traps 10 Pack, Large Heavy Duty Sticky Traps",
+      "brand": "Catchmaster",
+      "price": 21.97,
+      "salesParent": 67143,
+      "revenue": 1478488.88,
+      "rating": 4.4,
+      "reviews": 7526
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -39,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -39,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 60936688,
+    "priorHeadRevenue": 99728391,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 20,
+      "pct": 20,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 41,
+      "brandCount": 54,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.22,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0CKY689WQ",
+        "title": "Zevo Flying Insect Trap for Fruit Flies &amp; Gnats, 1 Plug-In Base &amp; 3 Refills",
+        "rating": 4.2,
+        "reviews": 92144
+      },
+      {
+        "rank": 2,
+        "asin": "B0CKY5N63H",
+        "title": "Zevo Flying Insect Trap for Fruit Flies &amp; Gnats, 2 Plug-In Bases, 4 Refills",
+        "rating": 4.3,
+        "reviews": 38180
+      },
+      {
+        "rank": 3,
+        "asin": "B07JMDYDVJ",
+        "title": "Grandpa Gus's Mouse Repellent Pouches, Peppermint &amp; Cinnamon, Pack of 10",
+        "rating": 4.1,
+        "reviews": 29701
+      },
+      {
+        "rank": 4,
+        "asin": "B0C3FTCYZL",
+        "title": "Zevo Flying Insect Trap Refill Cartridges for Fruit Flies &amp; Gnats, 4 Count",
+        "rating": 4.8,
+        "reviews": 38711
+      },
+      {
+        "rank": 5,
+        "asin": "B0F1H7DYTP",
+        "title": "Tomcat with Bromethalin Bait Chunx Pail, 4.25 lbs.",
+        "rating": 4.5,
+        "reviews": 2997
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "2972638011:553844",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

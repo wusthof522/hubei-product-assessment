@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3733601",
+  "level": "L4",
+  "categoryPathEn": "Home & Kitchen > Furniture > Living Room Furniture > Chaise Lounges",
+  "categoryPathCn": "家居用品 > 家具 > 客厅家具 > 休闲椅",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 94,
+    "totalRevenue": 6228153,
+    "avgRevenue": 66257,
+    "medianPrice": 289.98,
+    "priceBand": "$219.99 - $472.49",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0H8DD69BG",
+      "title": "66&quot; Chaise Lounge Chair Indoor, Corduroy Upholstered Reading Chair Oversized Boneless Chair, Cloud Lounge Chair with 3 Pillows for Living Room, No Assembly Required",
+      "brand": "Chorlenimi",
+      "price": 249.99,
+      "salesParent": 1403,
+      "revenue": 283293.75,
+      "rating": 4.4,
+      "reviews": 88
+    },
+    {
+      "rank": 2,
+      "asin": "B0H9XRPB5F",
+      "title": "66&quot; Chaise Lounge Chair Indoor, Corduroy Upholstered Reading Chair Oversized Boneless Chair, Cloud Lounge Chair with 3 Pillows for Living Room, No Assembly Required",
+      "brand": "Chorlenimi",
+      "price": 239.99,
+      "salesParent": 1113,
+      "revenue": 267108.88,
+      "rating": 4.5,
+      "reviews": 1
+    },
+    {
+      "rank": 3,
+      "asin": "B0D9NNNSX4",
+      "title": "DaVinci Suzy Recliner Glider w/ 270° Swivel, Electronic, Vanilla",
+      "brand": "DaVinci",
+      "price": 599.0,
+      "salesParent": 462,
+      "revenue": 244869.25,
+      "rating": 4.5,
+      "reviews": 127
+    },
+    {
+      "rank": 4,
+      "asin": "B0HJZCMRZ2",
+      "title": "Mid Century Modern Top Grain Leather Chaise Lounge Chair &amp; Ottoman | Modern Classic Recliner with Heavy Duty Base, Fixed Tilting for Living Room, Study, Lounge &amp; Office, Walnut Brown",
+      "brand": "SAINCH",
+      "price": 999.99,
+      "salesParent": 209,
+      "revenue": 208997.91,
+      "rating": 4.8,
+      "reviews": 7
+    },
+    {
+      "rank": 5,
+      "asin": "B0HJZ5PV1X",
+      "title": "Mid Century Modern Top Grain Leather Chaise Lounge Chair &amp; Ottoman | Modern Classic Recliner with Heavy Duty Base, Fixed Tilting for Living Room, Study, Lounge &amp; Office, Walnut Black",
+      "brand": "SAINCH",
+      "price": 869.99,
+      "salesParent": 213,
+      "revenue": 185307.88,
+      "rating": 4.8,
+      "reviews": 8
+    },
+    {
+      "rank": 6,
+      "asin": "B0HJZGDTMR",
+      "title": "Mid Century Modern Top Grain Leather Chaise Lounge Chair &amp; Ottoman | Modern Classic Recliner with Heavy Duty Base, Fixed Tilting for Living Room, Study, Lounge &amp; Office, Palisander Black",
+      "brand": "SAINCH",
+      "price": 869.99,
+      "salesParent": 210,
+      "revenue": 182697.89,
+      "rating": 4.8,
+      "reviews": 8
+    },
+    {
+      "rank": 7,
+      "asin": "B0GCLBNM9Y",
+      "title": "MAXYOYO Oversized Round Chaise Lounge Sofa, Boneless Chair with Ottoman",
+      "brand": "MAXYOYO",
+      "price": 255.99,
+      "salesParent": 720,
+      "revenue": 181756.8,
+      "rating": 4.4,
+      "reviews": 164
+    },
+    {
+      "rank": 8,
+      "asin": "B0HFMZDV63",
+      "title": "Top Black Grain Leather, Mid Century Chaise Lounge Chair and Ottoman, Modern Chair Classic Design, Palisander Wood, Heavy Duty Base Support for Living Room Office",
+      "brand": "SAINCH",
+      "price": 759.99,
+      "salesParent": 212,
+      "revenue": 165694.97,
+      "rating": 4.8,
+      "reviews": 5
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 47,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 47,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 6228153,
+    "priorHeadRevenue": 4245437,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 94,
+      "newCount": 83,
+      "pct": 88,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 53,
+      "brandCount": 64,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.48,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0H8DD69BG",
+        "title": "66&quot; Chaise Lounge Chair Indoor, Corduroy Upholstered Reading Chair Oversized Boneless Chair, Cloud Lounge Chair with 3 Pillows for Living Room, No Assembly Required",
+        "rating": 4.4,
+        "reviews": 88
+      },
+      {
+        "rank": 2,
+        "asin": "B0H9XRPB5F",
+        "title": "66&quot; Chaise Lounge Chair Indoor, Corduroy Upholstered Reading Chair Oversized Boneless Chair, Cloud Lounge Chair with 3 Pillows for Living Room, No Assembly Required",
+        "rating": 4.5,
+        "reviews": 1
+      },
+      {
+        "rank": 3,
+        "asin": "B0D9NNNSX4",
+        "title": "DaVinci Suzy Recliner Glider w/ 270° Swivel, Electronic, Vanilla",
+        "rating": 4.5,
+        "reviews": 127
+      },
+      {
+        "rank": 4,
+        "asin": "B0HJZCMRZ2",
+        "title": "Mid Century Modern Top Grain Leather Chaise Lounge Chair &amp; Ottoman | Modern Classic Recliner with Heavy Duty Base, Fixed Tilting for Living Room, Study, Lounge &amp; Office, Walnut Brown",
+        "rating": 4.8,
+        "reviews": 7
+      },
+      {
+        "rank": 5,
+        "asin": "B0HJZ5PV1X",
+        "title": "Mid Century Modern Top Grain Leather Chaise Lounge Chair &amp; Ottoman | Modern Classic Recliner with Heavy Duty Base, Fixed Tilting for Living Room, Study, Lounge &amp; Office, Walnut Black",
+        "rating": 4.8,
+        "reviews": 8
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "1055398:1063306:1063318:3733601",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

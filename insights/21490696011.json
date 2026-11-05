@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "21490696011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Baby & Toddler Toys > Early Development & Activity Toys > Activity Cubes",
+  "categoryPathCn": "玩具 > 婴幼儿 > 早期发展 > 活动方块",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 98,
+    "totalRevenue": 2014331,
+    "avgRevenue": 20554,
+    "medianPrice": 31.49,
+    "priceBand": "$19.98 - $61.24",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B00OC5FU8Q",
+      "title": "VTech Busy Learners Activity Cube, Purple",
+      "brand": "VTech",
+      "price": 19.97,
+      "salesParent": 13144,
+      "revenue": 267348.97,
+      "rating": 4.8,
+      "reviews": 42329
+    },
+    {
+      "rank": 2,
+      "asin": "B07BF1V8K8",
+      "title": "Battat Wooden Activity Cube - 5-Sided Play Center With Bead Maze, Doors",
+      "brand": "Battat",
+      "price": 79.99,
+      "salesParent": 2917,
+      "revenue": 233330.83,
+      "rating": 4.8,
+      "reviews": 11138
+    },
+    {
+      "rank": 3,
+      "asin": "B0DB454GQM",
+      "title": "Youuys Baby Tissue Box Toy for Babies 6-12 Months, Montessori Sensory Toys for 1 Year Old Boy, Infant Toy with Crinkle Tissues &amp; Fine Motor, for 6 9 12 18 Months Old Kids 1st Birthday",
+      "brand": "Youuys",
+      "price": 16.99,
+      "salesParent": 8905,
+      "revenue": 145596.75,
+      "rating": 4.5,
+      "reviews": 949
+    },
+    {
+      "rank": 4,
+      "asin": "B0CQ12FL1H",
+      "title": "hand2mind Numberblocks Blockzee Balance Activity Set, Ages 3+",
+      "brand": "hand2mind",
+      "price": 14.97,
+      "salesParent": 6604,
+      "revenue": 113324.64,
+      "rating": 4.7,
+      "reviews": 866
+    },
+    {
+      "rank": 5,
+      "asin": "B08ZR65PLQ",
+      "title": "hand2mind Numberblocks 1-10 MathLink Cubes Activity Set, Ages 3+",
+      "brand": "hand2mind",
+      "price": 19.97,
+      "salesParent": 5423,
+      "revenue": 108297.0,
+      "rating": 4.8,
+      "reviews": 11835
+    },
+    {
+      "rank": 6,
+      "asin": "B0CFZTK174",
+      "title": "SOCBTNSO Montessori Busy Cube Travel Toy, Stocking Stuffers for Toddlers",
+      "brand": "SOCBTNSO",
+      "price": 9.99,
+      "salesParent": 8705,
+      "revenue": 102631.95,
+      "rating": 4.7,
+      "reviews": 2909
+    },
+    {
+      "rank": 7,
+      "asin": "B0F8DHP62C",
+      "title": "Rubik's WOWCUBE - Handheld Game Console, 100+ Games and Apps for Teens and Adults (Ages 14+) - STEM Certified Entertainment System - 24 Screens Interactive Gaming Cube",
+      "brand": "WOWCUBE",
+      "price": 359.0,
+      "salesParent": 123,
+      "revenue": 47684.64,
+      "rating": 3.5,
+      "reviews": 30
+    },
+    {
+      "rank": 8,
+      "asin": "B0CDWW9Y6L",
+      "title": "Wooden Activity Cube | Montessori Toys for 1 2 3 Year Old Toddler Gifts",
+      "brand": "KMTJT",
+      "price": 27.99,
+      "salesParent": 1748,
+      "revenue": 46269.56,
+      "rating": 4.5,
+      "reviews": 1019
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 13,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 13,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 2014331,
+    "priorHeadRevenue": 1783304,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 98,
+      "newCount": 32,
+      "pct": 33,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 48,
+      "brandCount": 77,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.54,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B00OC5FU8Q",
+        "title": "VTech Busy Learners Activity Cube, Purple",
+        "rating": 4.8,
+        "reviews": 42329
+      },
+      {
+        "rank": 2,
+        "asin": "B07BF1V8K8",
+        "title": "Battat Wooden Activity Cube - 5-Sided Play Center With Bead Maze, Doors",
+        "rating": 4.8,
+        "reviews": 11138
+      },
+      {
+        "rank": 3,
+        "asin": "B0DB454GQM",
+        "title": "Youuys Baby Tissue Box Toy for Babies 6-12 Months, Montessori Sensory Toys for 1 Year Old Boy, Infant Toy with Crinkle Tissues &amp; Fine Motor, for 6 9 12 18 Months Old Kids 1st Birthday",
+        "rating": 4.5,
+        "reviews": 949
+      },
+      {
+        "rank": 4,
+        "asin": "B0CQ12FL1H",
+        "title": "hand2mind Numberblocks Blockzee Balance Activity Set, Ages 3+",
+        "rating": 4.7,
+        "reviews": 866
+      },
+      {
+        "rank": 5,
+        "asin": "B08ZR65PLQ",
+        "title": "hand2mind Numberblocks 1-10 MathLink Cubes Activity Set, Ages 3+",
+        "rating": 4.8,
+        "reviews": 11835
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:196601011:21490695011:21490696011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

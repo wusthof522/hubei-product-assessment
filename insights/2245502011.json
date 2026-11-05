@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "2245502011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Household Supplies > Cleaning Tools > Sweeping",
+  "categoryPathCn": "健康与家居 > 家居用品 > 清洁工具 > 清扫",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 7515860,
+    "avgRevenue": 75918,
+    "medianPrice": 21.99,
+    "priceBand": "$17.99 - $32.39",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B09SYYRBVP",
+      "title": "Upgrade Broom and Dustpan Set, Self-Cleaning with Dustpan Teeth, Indoor&amp;Outdoor Sweeping, Ideal for Dog Cat Pets Home Use, Stand Up Broom and Dustpan (Gray&amp;Orange)",
+      "brand": "kelamayi",
+      "price": 25.99,
+      "salesParent": 64938,
+      "revenue": 1471495.12,
+      "rating": 4.5,
+      "reviews": 52903
+    },
+    {
+      "rank": 2,
+      "asin": "B08Z9ZLLVX",
+      "title": "O-Cedar Pet Pro Broom with Step-On Dustpan | Remove 99% with One Sweep | Removes 3 Times More Pet Hair | Quiet Cleaning Tool for Cat and Dog Owners",
+      "brand": "O-Cedar",
+      "price": 13.98,
+      "salesParent": 48049,
+      "revenue": 667400.62,
+      "rating": 4.7,
+      "reviews": 17443
+    },
+    {
+      "rank": 3,
+      "asin": "B0GFD3M5XX",
+      "title": "Broom with Dustpan Set for Pet Hair &amp; Dust Cleanup, Red &amp; Gray",
+      "brand": "zeawec",
+      "price": 17.98,
+      "salesParent": 27429,
+      "revenue": 516213.78,
+      "rating": 4.5,
+      "reviews": 1302
+    },
+    {
+      "rank": 4,
+      "asin": "B0C6XTNXL8",
+      "title": "AIR U+ Floor Scrub Brush with Long Handle, 3 in 1 Floor Scrubber",
+      "brand": "AIR U+",
+      "price": 24.99,
+      "salesParent": 20942,
+      "revenue": 516010.88,
+      "rating": 4.3,
+      "reviews": 4459
+    },
+    {
+      "rank": 5,
+      "asin": "B0BKQBNXGR",
+      "title": "Ivandar Broom and Dustpan Set for Home, Broom and Dustpan Combo for Office, Long Handle Broom with Upright Standing Dust pan,Indoor&amp;Outdoor Sweeping (Gray&amp;Orange)",
+      "brand": "Ivandar",
+      "price": 18.52,
+      "salesParent": 15431,
+      "revenue": 355375.94,
+      "rating": 4.5,
+      "reviews": 8793
+    },
+    {
+      "rank": 6,
+      "asin": "B0CZNXSZTY",
+      "title": "NACENA Broom and Dustpan Set, 52-in Long Adjustable Handle Broom Dustpan Combo with Dustpan Teeth to Automatically Clean Hair Suitable for Home Kitchen Office Hall Floor（Black&amp;Red）",
+      "brand": "nacena",
+      "price": 19.99,
+      "salesParent": 12098,
+      "revenue": 225869.66,
+      "rating": 4.4,
+      "reviews": 6862
+    },
+    {
+      "rank": 7,
+      "asin": "B0CX2TQMWH",
+      "title": "Helio AirBroom 3-Piece Sweeper, Squeegee &amp; Dustpan for Wet/Dry Cleaning",
+      "brand": "Helio AirBroom",
+      "price": 19.99,
+      "salesParent": 9851,
+      "revenue": 196921.48,
+      "rating": 3.8,
+      "reviews": 8573
+    },
+    {
+      "rank": 8,
+      "asin": "B0DB21X9RK",
+      "title": "2-Pack is More economical,Brooms with Dustpan Combo Set， with 52&quot; Long Handle, Dustpan Teeth with self-Cleaning Function, Indoor and Outdoor Sweeping, Perfect for Home Office (Large/Red /2-Pack)",
+      "brand": "DJDTDTY",
+      "price": 29.99,
+      "salesParent": 4410,
+      "revenue": 141957.89,
+      "rating": 4.4,
+      "reviews": 597
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 4,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 4,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 7515860,
+    "priorHeadRevenue": 7217535,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 30,
+      "pct": 30,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 47,
+      "brandCount": 67,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.35,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B09SYYRBVP",
+        "title": "Upgrade Broom and Dustpan Set, Self-Cleaning with Dustpan Teeth, Indoor&amp;Outdoor Sweeping, Ideal for Dog Cat Pets Home Use, Stand Up Broom and Dustpan (Gray&amp;Orange)",
+        "rating": 4.5,
+        "reviews": 52903
+      },
+      {
+        "rank": 2,
+        "asin": "B08Z9ZLLVX",
+        "title": "O-Cedar Pet Pro Broom with Step-On Dustpan | Remove 99% with One Sweep | Removes 3 Times More Pet Hair | Quiet Cleaning Tool for Cat and Dog Owners",
+        "rating": 4.7,
+        "reviews": 17443
+      },
+      {
+        "rank": 3,
+        "asin": "B0GFD3M5XX",
+        "title": "Broom with Dustpan Set for Pet Hair &amp; Dust Cleanup, Red &amp; Gray",
+        "rating": 4.5,
+        "reviews": 1302
+      },
+      {
+        "rank": 4,
+        "asin": "B0C6XTNXL8",
+        "title": "AIR U+ Floor Scrub Brush with Long Handle, 3 in 1 Floor Scrubber",
+        "rating": 4.3,
+        "reviews": 4459
+      },
+      {
+        "rank": 5,
+        "asin": "B0BKQBNXGR",
+        "title": "Ivandar Broom and Dustpan Set for Home, Broom and Dustpan Combo for Office, Long Handle Broom with Upright Standing Dust pan,Indoor&amp;Outdoor Sweeping (Gray&amp;Orange)",
+        "rating": 4.5,
+        "reviews": 8793
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:15342811:15342831:2245502011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

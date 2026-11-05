@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23811661011",
+  "level": "L4",
+  "categoryPathEn": "Home & Kitchen > Furniture > Bedroom Furniture > Storage Trunks & Chests",
+  "categoryPathCn": "家居用品 > 家具 > 家具卧室 > 储物箱和箱子",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 96,
+    "totalRevenue": 1395916,
+    "avgRevenue": 14541,
+    "medianPrice": 149.51,
+    "priceBand": "$99.25 - $299.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0BMPTQ7SK",
+      "title": "Vixdonos Decorative Metal Box Storage Trunks Set of 2 College Dorm Chest with Lock Hole,23.7X14.2X9.5 Inches(White)",
+      "brand": "Vixdonos",
+      "price": 158.99,
+      "salesParent": 795,
+      "revenue": 126397.0,
+      "rating": 4.6,
+      "reviews": 353
+    },
+    {
+      "rank": 2,
+      "asin": "B0F8QJM6G3",
+      "title": "Vixdonos Large Metal Trunk Decorative Storage Box College Dorm Chest with Handle",
+      "brand": "Vixdonos",
+      "price": 128.99,
+      "salesParent": 653,
+      "revenue": 84230.48,
+      "rating": 4.7,
+      "reviews": 132
+    },
+    {
+      "rank": 3,
+      "asin": "B07Q23YWJ6",
+      "title": "Signature Design by Ashley Storage Trunk Coffee Table, Brown, Kettleby",
+      "brand": "Signature Design by Ashley",
+      "price": 284.99,
+      "salesParent": 211,
+      "revenue": 69541.38,
+      "rating": 4.6,
+      "reviews": 863
+    },
+    {
+      "rank": 4,
+      "asin": "B081JDNTR8",
+      "title": "Teacher Created Resources Large Plastic Treasure Chest Classroom Rewards Pirate Party Goody Box (TCR8759) (Pack of 1)",
+      "brand": "Teacher Created Resources",
+      "price": 27.44,
+      "salesParent": 2324,
+      "revenue": 63770.56,
+      "rating": 4.3,
+      "reviews": 2634
+    },
+    {
+      "rank": 5,
+      "asin": "B0GW98VZRT",
+      "title": "AFI Westfield Queen Murphy Bed Chest with 6-Inch Folding Mattress, Walnut",
+      "brand": "AFI",
+      "price": 1199.16,
+      "salesParent": 54,
+      "revenue": 59493.96,
+      "rating": 3.4,
+      "reviews": 14
+    },
+    {
+      "rank": 6,
+      "asin": "B06WD88VJ3",
+      "title": "Cedar Hope Chest with Waterfall Top, Amish Made Wooden Storage Trunk Box for Bedroom, Blanket, Clothes, Anti-Slam Hinges and Lock, 46&quot;, Brown Maple Wood, Asbury Stain",
+      "brand": "Rustic Red Door Co.",
+      "price": 1399.0,
+      "salesParent": 42,
+      "revenue": 58758.0,
+      "rating": 4.8,
+      "reviews": 249
+    },
+    {
+      "rank": 7,
+      "asin": "B0DB3G7GNG",
+      "title": "Casafield 30&quot; Storage Chest with Lid, Handles, and Safety Hinge - Natural, Water Hyacinth Wicker Storage Trunk for Entry Way, Living Room, Bedroom",
+      "brand": "Casafield",
+      "price": 136.99,
+      "salesParent": 395,
+      "revenue": 54111.05,
+      "rating": 4.2,
+      "reviews": 104
+    },
+    {
+      "rank": 8,
+      "asin": "B07ST4LJ4F",
+      "title": "Water Hyacinth Wicker Storage Trunk, Natural, 30x17.5x17.5 Inches",
+      "brand": "eHemco",
+      "price": 136.99,
+      "salesParent": 386,
+      "revenue": 52878.14,
+      "rating": 4.5,
+      "reviews": 643
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 26,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 26,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1395916,
+    "priorHeadRevenue": 1110659,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 96,
+      "newCount": 40,
+      "pct": 42,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 40,
+      "brandCount": 60,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.3,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0BMPTQ7SK",
+        "title": "Vixdonos Decorative Metal Box Storage Trunks Set of 2 College Dorm Chest with Lock Hole,23.7X14.2X9.5 Inches(White)",
+        "rating": 4.6,
+        "reviews": 353
+      },
+      {
+        "rank": 2,
+        "asin": "B0F8QJM6G3",
+        "title": "Vixdonos Large Metal Trunk Decorative Storage Box College Dorm Chest with Handle",
+        "rating": 4.7,
+        "reviews": 132
+      },
+      {
+        "rank": 3,
+        "asin": "B07Q23YWJ6",
+        "title": "Signature Design by Ashley Storage Trunk Coffee Table, Brown, Kettleby",
+        "rating": 4.6,
+        "reviews": 863
+      },
+      {
+        "rank": 4,
+        "asin": "B081JDNTR8",
+        "title": "Teacher Created Resources Large Plastic Treasure Chest Classroom Rewards Pirate Party Goody Box (TCR8759) (Pack of 1)",
+        "rating": 4.3,
+        "reviews": 2634
+      },
+      {
+        "rank": 5,
+        "asin": "B0GW98VZRT",
+        "title": "AFI Westfield Queen Murphy Bed Chest with 6-Inch Folding Mattress, Walnut",
+        "rating": 3.4,
+        "reviews": 14
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "1055398:1063306:1063308:23811661011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23564878011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Novelty & Gag Toys > Fidget Toys > Infinity Cubes",
+  "categoryPathCn": "Toys & Games > Novelty & Gag Toys > Fidget Toys > Infinity Cubes",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 64,
+    "totalRevenue": 249061,
+    "avgRevenue": 3892,
+    "medianPrice": 17.49,
+    "priceBand": "$9.99 - $24.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0CVYK21SN",
+      "title": "PILPOC theFube Fidget Cube, Stress Relief Infinity Cube for Adults &amp; Kids",
+      "brand": "PILPOC",
+      "price": 13.95,
+      "salesParent": 13339,
+      "revenue": 179809.72,
+      "rating": 4.4,
+      "reviews": 22247
+    },
+    {
+      "rank": 2,
+      "asin": "B0H58NSGJ9",
+      "title": "GAN 16 ui Maglev MAX Smart Speed Cube with AI Insights for Advanced Cubers",
+      "brand": "GAN",
+      "price": 139.99,
+      "salesParent": 56,
+      "revenue": 7839.44,
+      "rating": 5.0,
+      "reviews": 9
+    },
+    {
+      "rank": 3,
+      "asin": "B0B4D6GWH9",
+      "title": "Sumind 24 Pcs Infinity Cube Fidget Toy Bulk Mini Blocks Gadget Starry Style",
+      "brand": "Sumind",
+      "price": 30.99,
+      "salesParent": 195,
+      "revenue": 6148.35,
+      "rating": 4.4,
+      "reviews": 104
+    },
+    {
+      "rank": 4,
+      "asin": "B09M7WL81S",
+      "title": "BunMo Wooden Fidget Cube – Beechwood Infinity Cube Fidget Toy, Larger One Pack – Smooth Folding Pocket Fidget, Natural Wood Sensory Cube for Desk or Travel",
+      "brand": "BUNMO",
+      "price": 14.99,
+      "salesParent": 351,
+      "revenue": 5310.63,
+      "rating": 4.4,
+      "reviews": 1891
+    },
+    {
+      "rank": 5,
+      "asin": "B09MS4DTHY",
+      "title": "Gejoy 12 pcs Infinity Cube Toy Mini Cube Blocks Desk Toy,Star and Macarons",
+      "brand": "Gejoy",
+      "price": 17.99,
+      "salesParent": 263,
+      "revenue": 4684.03,
+      "rating": 4.1,
+      "reviews": 315
+    },
+    {
+      "rank": 6,
+      "asin": "B0BMQR15JY",
+      "title": "Zhanmai 30 Pieces Galaxy Infinity Cube Fidget Sensory Toy, Fresh Style",
+      "brand": "Zhanmai",
+      "price": 32.99,
+      "salesParent": 140,
+      "revenue": 4618.6,
+      "rating": 4.4,
+      "reviews": 290
+    },
+    {
+      "rank": 7,
+      "asin": "B095XYL9Y3",
+      "title": "4 Packs Infinity Cube Toy Stress Relieving Game for Kids and Adults,Cute Mini Unique Gadget Anxiety Relief Kill Time Magic Puzzle Flip ADD, ADHD, Killing",
+      "brand": "IGINOA",
+      "price": 13.99,
+      "salesParent": 285,
+      "revenue": 4235.1,
+      "rating": 4.5,
+      "reviews": 1033
+    },
+    {
+      "rank": 8,
+      "asin": "B0GKZZ78T4",
+      "title": "2.2 inch Kaleidoscope Infinity Cube,Holographic Fidget Block Toy for Adults",
+      "brand": "Funcore LABS",
+      "price": 16.99,
+      "salesParent": 189,
+      "revenue": 3211.11,
+      "rating": 4.7,
+      "reviews": 57
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 9,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 9,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 249061,
+    "priorHeadRevenue": 228286,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 64,
+      "newCount": 34,
+      "pct": 53,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 83,
+      "brandCount": 47,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.36,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0CVYK21SN",
+        "title": "PILPOC theFube Fidget Cube, Stress Relief Infinity Cube for Adults &amp; Kids",
+        "rating": 4.4,
+        "reviews": 22247
+      },
+      {
+        "rank": 2,
+        "asin": "B0H58NSGJ9",
+        "title": "GAN 16 ui Maglev MAX Smart Speed Cube with AI Insights for Advanced Cubers",
+        "rating": 5.0,
+        "reviews": 9
+      },
+      {
+        "rank": 3,
+        "asin": "B0B4D6GWH9",
+        "title": "Sumind 24 Pcs Infinity Cube Fidget Toy Bulk Mini Blocks Gadget Starry Style",
+        "rating": 4.4,
+        "reviews": 104
+      },
+      {
+        "rank": 4,
+        "asin": "B09M7WL81S",
+        "title": "BunMo Wooden Fidget Cube – Beechwood Infinity Cube Fidget Toy, Larger One Pack – Smooth Folding Pocket Fidget, Natural Wood Sensory Cube for Desk or Travel",
+        "rating": 4.4,
+        "reviews": 1891
+      },
+      {
+        "rank": 5,
+        "asin": "B09MS4DTHY",
+        "title": "Gejoy 12 pcs Infinity Cube Toy Mini Cube Blocks Desk Toy,Star and Macarons",
+        "rating": 4.1,
+        "reviews": 315
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166027011:17238448011:23564878011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

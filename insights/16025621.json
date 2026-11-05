@@ -1,0 +1,180 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "16025621",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Baby & Child Care > Health Care > Pain Relievers",
+  "categoryPathCn": "健康与家居 > 婴儿和儿童护理 > 健康护理 > 止痛药",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "insufficient",
+  "marketSize": {
+    "sampleCount": 7,
+    "totalRevenue": 999953,
+    "avgRevenue": 142850,
+    "medianPrice": 8.97,
+    "priceBand": "$8.29 - $9.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B073Q34KKQ",
+      "title": "Infants' Tylenol Acetaminophen Oral Suspension, Dye-Free, Cherry, 2 fl. oz",
+      "brand": "Tylenol",
+      "price": 9.97,
+      "salesParent": 63785,
+      "revenue": 635936.44,
+      "rating": 4.9,
+      "reviews": 21528
+    },
+    {
+      "rank": 2,
+      "asin": "B01J24FQHQ",
+      "title": "Motrin Infants' Concentrated Drops with Ibuprofen, Fever Reducer, 1 fl. oz",
+      "brand": "Infants' Motrin",
+      "price": 8.62,
+      "salesParent": 31581,
+      "revenue": 294650.72,
+      "rating": 4.9,
+      "reviews": 9153
+    },
+    {
+      "rank": 3,
+      "asin": "B09BG783WG",
+      "title": "Children’s Advil Pain Reliever and Fever Reducer, 4 fl oz (3 Pack)",
+      "brand": "HALEON",
+      "price": 17.46,
+      "salesParent": 2428,
+      "revenue": 44262.44,
+      "rating": 4.8,
+      "reviews": 1297
+    },
+    {
+      "rank": 4,
+      "asin": "B0CX2WPYCP",
+      "title": "Mommy's Bliss Infants' Pain and Fever Reducer, Baby Acetaminophen, Dye-Free Medicine, Infant Fever Reducer, Delicious Mixed Berry Flavor, Ages 2+, 2 Fluid Ounces",
+      "brand": "Mommy's Bliss",
+      "price": 9.99,
+      "salesParent": 1351,
+      "revenue": 10537.8,
+      "rating": 4.8,
+      "reviews": 626
+    },
+    {
+      "rank": 5,
+      "asin": "B0FM6HTC57",
+      "title": "Children's Acetaminophen 160mg/5mL, Chocolate Flavor, 4 Fl Oz",
+      "brand": "Dr. Cocoa",
+      "price": 5.99,
+      "salesParent": 1170,
+      "revenue": 8073.0,
+      "rating": 4.3,
+      "reviews": 102
+    },
+    {
+      "rank": 6,
+      "asin": "B0GYBG83JV",
+      "title": "FirstCare Children’s Pain Reliever &amp; Fever Reducer, Gummy-Like Soft Chewable Tablets, Easy-to-Take Acetaminophen 80 mg for Kids Ages 2–11, Cherry Flavor, 24 Count",
+      "brand": "FirstCare",
+      "price": 8.29,
+      "salesParent": 586,
+      "revenue": 4887.24,
+      "rating": 4.1,
+      "reviews": 77
+    },
+    {
+      "rank": 7,
+      "asin": "B0BB85VMYW",
+      "title": "Genexa Kids’ Pain and Fever Reducer | Childrens Acetaminophen, Dye Free, Chewable Tablets for Kids 2-11 | Delicious Organic Grape Flavor | 80 mg | 24 Count",
+      "brand": "Genexa",
+      "price": 8.97,
+      "salesParent": 179,
+      "revenue": 1605.63,
+      "rating": 4.6,
+      "reviews": 1007
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": null,
+    "direction": "flat",
+    "comparable": null,
+    "rawYoyPct": 508,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 999953,
+    "priorHeadRevenue": 164526,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 7,
+      "newCount": 2,
+      "pct": 29,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 99,
+      "brandCount": 7,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.63,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B073Q34KKQ",
+        "title": "Infants' Tylenol Acetaminophen Oral Suspension, Dye-Free, Cherry, 2 fl. oz",
+        "rating": 4.9,
+        "reviews": 21528
+      },
+      {
+        "rank": 2,
+        "asin": "B01J24FQHQ",
+        "title": "Motrin Infants' Concentrated Drops with Ibuprofen, Fever Reducer, 1 fl. oz",
+        "rating": 4.9,
+        "reviews": 9153
+      },
+      {
+        "rank": 3,
+        "asin": "B09BG783WG",
+        "title": "Children’s Advil Pain Reliever and Fever Reducer, 4 fl oz (3 Pack)",
+        "rating": 4.8,
+        "reviews": 1297
+      },
+      {
+        "rank": 4,
+        "asin": "B0CX2WPYCP",
+        "title": "Mommy's Bliss Infants' Pain and Fever Reducer, Baby Acetaminophen, Dye-Free Medicine, Infant Fever Reducer, Delicious Mixed Berry Flavor, Ages 2+, 2 Fluid Ounces",
+        "rating": 4.8,
+        "reviews": 626
+      },
+      {
+        "rank": 5,
+        "asin": "B0FM6HTC57",
+        "title": "Children's Acetaminophen 160mg/5mL, Chocolate Flavor, 4 Fl Oz",
+        "rating": 4.3,
+        "reviews": 102
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:10787321:16025501:16025621",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

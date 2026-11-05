@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "6936725011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins, Minerals & Supplements > Vitamins > Prenatal Vitamins",
+  "categoryPathCn": "健康与家居 > 身、泳和附剂 > 形象 > 产前维生素",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 16684230,
+    "avgRevenue": 168528,
+    "medianPrice": 35.0,
+    "priceBand": "$25.99 - $49.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B00O59SH3E",
+      "title": "THORNE Basic Prenatal, Includes Active Folate, Choline &amp; Iron, 90 Capsules",
+      "brand": "THORNE",
+      "price": 37.0,
+      "salesParent": 41024,
+      "revenue": 1517888.0,
+      "rating": 4.2,
+      "reviews": 6826
+    },
+    {
+      "rank": 2,
+      "asin": "B07BXVFC32",
+      "title": "Nature Made prenatal vitamins for women with folic acid + DHA, 110 softgels",
+      "brand": "Nature Made",
+      "price": 20.81,
+      "salesParent": 75886,
+      "revenue": 1401614.38,
+      "rating": 4.7,
+      "reviews": 42262
+    },
+    {
+      "rank": 3,
+      "asin": "B0D4T8Q2FR",
+      "title": "Ritual Women's Prenatal Multivitamins - 60 Capsules - 30 Servings | Clinical-Backed - Key Essential Vitamins and Minerals to Support Mom and Baby During Pregnancy* - Choline - Vegan - Citrus",
+      "brand": "Ritual",
+      "price": 36.79,
+      "salesParent": 20980,
+      "revenue": 771854.25,
+      "rating": 4.2,
+      "reviews": 5649
+    },
+    {
+      "rank": 4,
+      "asin": "B0DM3HCNTM",
+      "title": "SmartyPants Prenatal Multi &amp; Omegas Gummies, Prenatal Support, 90 Count",
+      "brand": "SmartyPants",
+      "price": 27.95,
+      "salesParent": 24287,
+      "revenue": 717680.81,
+      "rating": 4.6,
+      "reviews": 830
+    },
+    {
+      "rank": 5,
+      "asin": "B07G4C85XX",
+      "title": "Pink Stork Total Prenatal Vitamin + DHA, Iron, Folate | Clean Label | 60 ct",
+      "brand": "Pink Stork",
+      "price": 35.0,
+      "salesParent": 18214,
+      "revenue": 637490.0,
+      "rating": 4.4,
+      "reviews": 9404
+    },
+    {
+      "rank": 6,
+      "asin": "B0CSH5PMHQ",
+      "title": "Perelel 1st Trimester Prenatal Vitamins for Women, Folate, Omega 3, Iron",
+      "brand": "Perelel",
+      "price": 58.76,
+      "salesParent": 10582,
+      "revenue": 621798.31,
+      "rating": 4.2,
+      "reviews": 647
+    },
+    {
+      "rank": 7,
+      "asin": "B084PHB9WZ",
+      "title": "One A Day Prenatal Advanced- Prenatal Vitamins with Folic Acid, Choline, DHA &amp; Iron, Pregnancy Vitamins for Women to Support Baby’s Development, 60+60 Ct (120 Total Set) (Packaging May Vary)",
+      "brand": "ONE A DAY",
+      "price": 30.18,
+      "salesParent": 19106,
+      "revenue": 575281.69,
+      "rating": 4.5,
+      "reviews": 9715
+    },
+    {
+      "rank": 8,
+      "asin": "B09W35QHJW",
+      "title": "Ritual Postpartum Essentials for Women - Folate, Iron, Choline, Omega-3",
+      "brand": "Ritual",
+      "price": 42.98,
+      "salesParent": 13455,
+      "revenue": 541698.25,
+      "rating": 4.5,
+      "reviews": 1906
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 6,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 6,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 16684230,
+    "priorHeadRevenue": 15806080,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 9,
+      "pct": 9,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 46,
+      "brandCount": 50,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.45,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B00O59SH3E",
+        "title": "THORNE Basic Prenatal, Includes Active Folate, Choline &amp; Iron, 90 Capsules",
+        "rating": 4.2,
+        "reviews": 6826
+      },
+      {
+        "rank": 2,
+        "asin": "B07BXVFC32",
+        "title": "Nature Made prenatal vitamins for women with folic acid + DHA, 110 softgels",
+        "rating": 4.7,
+        "reviews": 42262
+      },
+      {
+        "rank": 3,
+        "asin": "B0D4T8Q2FR",
+        "title": "Ritual Women's Prenatal Multivitamins - 60 Capsules - 30 Servings | Clinical-Backed - Key Essential Vitamins and Minerals to Support Mom and Baby During Pregnancy* - Choline - Vegan - Citrus",
+        "rating": 4.2,
+        "reviews": 5649
+      },
+      {
+        "rank": 4,
+        "asin": "B0DM3HCNTM",
+        "title": "SmartyPants Prenatal Multi &amp; Omegas Gummies, Prenatal Support, 90 Count",
+        "rating": 4.6,
+        "reviews": 830
+      },
+      {
+        "rank": 5,
+        "asin": "B07G4C85XX",
+        "title": "Pink Stork Total Prenatal Vitamin + DHA, Iron, Folate | Clean Label | 60 ct",
+        "rating": 4.4,
+        "reviews": 9404
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:23675621011:6936790011:6936725011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

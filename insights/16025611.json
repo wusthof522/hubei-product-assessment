@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "16025611",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Baby & Child Care > Health Care > Cold & Flu Remedies",
+  "categoryPathCn": "健康与家居 > 婴儿和儿童护理 > 健康护理 > 感冒和流感治疗",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "insufficient",
+  "marketSize": {
+    "sampleCount": 11,
+    "totalRevenue": 668192,
+    "avgRevenue": 60745,
+    "medianPrice": 10.99,
+    "priceBand": "$7.99 - $18.47",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B00K3EM2AE",
+      "title": "Mucinex Children's Multi-Symptom Cold Day/Night Value Pack, 2x4 FL OZ",
+      "brand": "Mucinex",
+      "price": 18.47,
+      "salesParent": 14633,
+      "revenue": 260467.39,
+      "rating": 4.8,
+      "reviews": 5999
+    },
+    {
+      "rank": 2,
+      "asin": "B00J42CH7Y",
+      "title": "Allegra Children's 12-Hour Allergy Relief Liquid, Berry Flavor, 8 oz.",
+      "brand": "Allegra",
+      "price": 17.96,
+      "salesParent": 8500,
+      "revenue": 152065.0,
+      "rating": 4.8,
+      "reviews": 5406
+    },
+    {
+      "rank": 3,
+      "asin": "B01FCDDEUC",
+      "title": "Genexa Kids Cold Crush, Drug Free &amp; Made Clean, 60 Chewable Tablets",
+      "brand": "Genexa",
+      "price": 13.99,
+      "salesParent": 8322,
+      "revenue": 116424.78,
+      "rating": 4.7,
+      "reviews": 3601
+    },
+    {
+      "rank": 4,
+      "asin": "B01KUJEWBS",
+      "title": "Dimetapp Children's Cold &amp; Cough Nighttime Cold &amp; Congestion Grape Flavor, 8 Fl Oz",
+      "brand": "Dimetapp",
+      "price": 9.79,
+      "salesParent": 8180,
+      "revenue": 78773.4,
+      "rating": 4.8,
+      "reviews": 1188
+    },
+    {
+      "rank": 5,
+      "asin": "B0C6WDB1H5",
+      "title": "Vicks Kids Dayquil &amp; Nyquil Berry Cold &amp; Cough Medicine Co-Pack, Daytime &amp; Nighttime Relief of Multiple Symptoms, Great-Tasting Berry Flavor, Free of Alcohol &amp; Acetaminophen, for Ages 6+, 2X8Oz",
+      "brand": "Vicks",
+      "price": 18.97,
+      "salesParent": 2723,
+      "revenue": 51219.63,
+      "rating": 4.8,
+      "reviews": 1348
+    },
+    {
+      "rank": 6,
+      "asin": "B0FYRY6KG5",
+      "title": "Children's Dimetapp Multi-Symptom Cold &amp; Flu, Grape Flavor, 4 fl oz, 2-Pack",
+      "brand": "Dimetapp",
+      "price": 10.99,
+      "salesParent": 417,
+      "revenue": 4582.83,
+      "rating": 4.8,
+      "reviews": 47
+    },
+    {
+      "rank": 7,
+      "asin": "B09GKNW77B",
+      "title": "Robitussin Children's Elderberry Cough and Chest Congestion DM - 4 fl oz",
+      "brand": "Robitussin",
+      "price": 7.94,
+      "salesParent": 410,
+      "revenue": 3370.2,
+      "rating": 4.7,
+      "reviews": 344
+    },
+    {
+      "rank": 8,
+      "asin": "B0BWJFG19G",
+      "title": "Oilogic Stuffy Nose &amp; Cough Essential Oil Vapor Cream for Babies &amp; Toddlers",
+      "brand": "Oilogic",
+      "price": 7.49,
+      "salesParent": 155,
+      "revenue": 1160.95,
+      "rating": 4.5,
+      "reviews": 160
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": null,
+    "direction": "flat",
+    "comparable": null,
+    "rawYoyPct": 23,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 668192,
+    "priorHeadRevenue": 543806,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 11,
+      "newCount": 3,
+      "pct": 27,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 99,
+      "brandCount": 9,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.73,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B00K3EM2AE",
+        "title": "Mucinex Children's Multi-Symptom Cold Day/Night Value Pack, 2x4 FL OZ",
+        "rating": 4.8,
+        "reviews": 5999
+      },
+      {
+        "rank": 2,
+        "asin": "B00J42CH7Y",
+        "title": "Allegra Children's 12-Hour Allergy Relief Liquid, Berry Flavor, 8 oz.",
+        "rating": 4.8,
+        "reviews": 5406
+      },
+      {
+        "rank": 3,
+        "asin": "B01FCDDEUC",
+        "title": "Genexa Kids Cold Crush, Drug Free &amp; Made Clean, 60 Chewable Tablets",
+        "rating": 4.7,
+        "reviews": 3601
+      },
+      {
+        "rank": 4,
+        "asin": "B01KUJEWBS",
+        "title": "Dimetapp Children's Cold &amp; Cough Nighttime Cold &amp; Congestion Grape Flavor, 8 Fl Oz",
+        "rating": 4.8,
+        "reviews": 1188
+      },
+      {
+        "rank": 5,
+        "asin": "B0C6WDB1H5",
+        "title": "Vicks Kids Dayquil &amp; Nyquil Berry Cold &amp; Cough Medicine Co-Pack, Daytime &amp; Nighttime Relief of Multiple Symptoms, Great-Tasting Berry Flavor, Free of Alcohol &amp; Acetaminophen, for Ages 6+, 2X8Oz",
+        "rating": 4.8,
+        "reviews": 1348
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:10787321:16025501:16025611",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

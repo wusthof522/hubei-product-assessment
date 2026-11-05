@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "8615538011",
+  "level": "L2",
+  "categoryPathEn": "Industrial & Scientific > Retail Store Fixtures & Equipment",
+  "categoryPathCn": "工业类 > 零售商店设备",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 94,
+    "totalRevenue": 6805859,
+    "avgRevenue": 72403,
+    "medianPrice": 41.49,
+    "priceBand": "$24.99 - $109.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0CMQPTD31",
+      "title": "Clothes Rack - Clothing Rack with Storage Mesh Shelf &amp; Casters, Heavy-Duty Metal Clothing Rack for Hanging Clothes, Dresses, Coats, Large Load Capacity, Easy Assembly, Black, 28.0&quot;x16.9&quot;x59.0&quot;",
+      "brand": "Sakugi",
+      "price": 19.99,
+      "salesParent": 23549,
+      "revenue": 517136.03,
+      "rating": 4.3,
+      "reviews": 5701
+    },
+    {
+      "rank": 2,
+      "asin": "B0G92CQ7KH",
+      "title": "TONOR Wood Wall Panels for Interior Wall Decor-4 Pack 47.2&quot; x 23.6&quot;",
+      "brand": "TONOR",
+      "price": 109.99,
+      "salesParent": 3913,
+      "revenue": 426986.56,
+      "rating": 4.2,
+      "reviews": 1591
+    },
+    {
+      "rank": 3,
+      "asin": "B0G3W2TYFL",
+      "title": "TONOR Wood Wall Panels for Interior Wall Decor-10 Pack 47.2&quot; x 23.6&quot;",
+      "brand": "TONOR",
+      "price": 249.99,
+      "salesParent": 1636,
+      "revenue": 408983.66,
+      "rating": 3.8,
+      "reviews": 26
+    },
+    {
+      "rank": 4,
+      "asin": "B0DJM2J2G4",
+      "title": "Fuxury Plastic Bags Thank You Shopping Grocery T-Shirt Bag with Handles",
+      "brand": "Fuxury",
+      "price": 33.85,
+      "salesParent": 12027,
+      "revenue": 403265.28,
+      "rating": 4.4,
+      "reviews": 2675
+    },
+    {
+      "rank": 5,
+      "asin": "B0GWXFYQKB",
+      "title": "TONOR Wood Wall Panels for Interior Wall Decor-8 Pack 47.2&quot; x 23.6&quot;",
+      "brand": "TONOR",
+      "price": 199.99,
+      "salesParent": 1202,
+      "revenue": 240387.98,
+      "rating": 3.8,
+      "reviews": 10
+    },
+    {
+      "rank": 6,
+      "asin": "B0854J48FD",
+      "title": "Reli. Plastic Bags Thank You (1050 Count)",
+      "brand": "Reli.",
+      "price": 35.99,
+      "salesParent": 6006,
+      "revenue": 216155.95,
+      "rating": 4.6,
+      "reviews": 10076
+    },
+    {
+      "rank": 7,
+      "asin": "B07QQF9XP7",
+      "title": "Reli. Thank You Plastic Bags (350 Count)",
+      "brand": "Reli.",
+      "price": 20.99,
+      "salesParent": 9623,
+      "revenue": 201986.77,
+      "rating": 4.7,
+      "reviews": 28558
+    },
+    {
+      "rank": 8,
+      "asin": "B0GWXJP583",
+      "title": "TONOR Wood Wall Panels for Interior Wall Decor-6 Pack 47.2&quot; x 23.6&quot;",
+      "brand": "TONOR",
+      "price": 169.99,
+      "salesParent": 815,
+      "revenue": 136846.66,
+      "rating": 3.5,
+      "reviews": 7
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 44,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 44,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 6805859,
+    "priorHeadRevenue": 4735773,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 94,
+      "newCount": 34,
+      "pct": 36,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 44,
+      "brandCount": 70,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.43,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0CMQPTD31",
+        "title": "Clothes Rack - Clothing Rack with Storage Mesh Shelf &amp; Casters, Heavy-Duty Metal Clothing Rack for Hanging Clothes, Dresses, Coats, Large Load Capacity, Easy Assembly, Black, 28.0&quot;x16.9&quot;x59.0&quot;",
+        "rating": 4.3,
+        "reviews": 5701
+      },
+      {
+        "rank": 2,
+        "asin": "B0G92CQ7KH",
+        "title": "TONOR Wood Wall Panels for Interior Wall Decor-4 Pack 47.2&quot; x 23.6&quot;",
+        "rating": 4.2,
+        "reviews": 1591
+      },
+      {
+        "rank": 3,
+        "asin": "B0G3W2TYFL",
+        "title": "TONOR Wood Wall Panels for Interior Wall Decor-10 Pack 47.2&quot; x 23.6&quot;",
+        "rating": 3.8,
+        "reviews": 26
+      },
+      {
+        "rank": 4,
+        "asin": "B0DJM2J2G4",
+        "title": "Fuxury Plastic Bags Thank You Shopping Grocery T-Shirt Bag with Handles",
+        "rating": 4.4,
+        "reviews": 2675
+      },
+      {
+        "rank": 5,
+        "asin": "B0GWXFYQKB",
+        "title": "TONOR Wood Wall Panels for Interior Wall Decor-8 Pack 47.2&quot; x 23.6&quot;",
+        "rating": 3.8,
+        "reviews": 10
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "16310091:8615538011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

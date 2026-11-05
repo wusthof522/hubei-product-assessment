@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "2488224011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Arts & Crafts > Craft Kits > Jewelry",
+  "categoryPathCn": "玩具 > 艺术 > 工艺品套装 > 珠宝首饰",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 3146355,
+    "avgRevenue": 31781,
+    "medianPrice": 19.99,
+    "priceBand": "$14.99 - $25.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0B4BX6SY2",
+      "title": "leitait Girls Toys Bracelet Making Kit -3400pcs Charm Jewelry Making Kit Supplies,Unicorn/Mermaid Crafts Birthday Christmas Gifts for Girls Ages 5 6 7 8 9 10 11 12 Years Old",
+      "brand": "leitait",
+      "price": 19.99,
+      "salesParent": 17689,
+      "revenue": 353603.09,
+      "rating": 4.6,
+      "reviews": 4414
+    },
+    {
+      "rank": 2,
+      "asin": "B096XS6NFF",
+      "title": "Arts and Crafts for Kids Age 8-12 Friendship Bracelet Making Kit for Girls - Best Birthday Gifts Ideas for Girl 7 9 10 11 Year Old - Popular Bracelets String Maker Toys Set",
+      "brand": "DDAI",
+      "price": 34.96,
+      "salesParent": 4639,
+      "revenue": 162179.44,
+      "rating": 4.6,
+      "reviews": 3163
+    },
+    {
+      "rank": 3,
+      "asin": "B0DT8HQYPF",
+      "title": "Cool Maker Stack'd Heishi Studio Bracelet Making Kit, Ages 7+",
+      "brand": "Cool Maker",
+      "price": 11.24,
+      "salesParent": 9504,
+      "revenue": 134671.69,
+      "rating": 4.3,
+      "reviews": 1148
+    },
+    {
+      "rank": 4,
+      "asin": "B0DCH598KN",
+      "title": "Ooly DIY Shrink Art Bracelet Kit, 24 Pc – BFF",
+      "brand": "Ooly",
+      "price": 14.95,
+      "salesParent": 8052,
+      "revenue": 120377.4,
+      "rating": 4.6,
+      "reviews": 1102
+    },
+    {
+      "rank": 5,
+      "asin": "B0727P9R1H",
+      "title": "GILI Pop Beads - Jewelry Making Kit for 3 4 5 6 7 8 Year Old Little Girls - Arts and Crafts Toys for Kids Age 4yr-8yr - Necklace Bracelet Creativity Snap Set Top Best Christmas Birthday Gifts (500pcs)",
+      "brand": "GILI",
+      "price": 37.98,
+      "salesParent": 3204,
+      "revenue": 117747.0,
+      "rating": 4.4,
+      "reviews": 4266
+    },
+    {
+      "rank": 6,
+      "asin": "B08H4SG94J",
+      "title": "Dan&amp;Darci Arts and Crafts Vault - Craft Supplies Kit in a Box - Birthday Gift for Kids Ages 4 5 6 7 8 9 10 11 &amp; 12 Year Old Girls &amp; Boys - Crafting Set Kits - Gift Ideas for Kid Art Activity Gifts",
+      "brand": "Dan&amp;Darci",
+      "price": 34.98,
+      "salesParent": 2999,
+      "revenue": 108413.85,
+      "rating": 4.8,
+      "reviews": 5424
+    },
+    {
+      "rank": 7,
+      "asin": "B0GRWJCPMS",
+      "title": "Rainbow Loom Puff Pop Bracelet Making Kit, 1200 Fluff Bands, DIY Craft",
+      "brand": "Rainbow Loom",
+      "price": 24.99,
+      "salesParent": 3234,
+      "revenue": 80817.66,
+      "rating": 4.6,
+      "reviews": 59
+    },
+    {
+      "rank": 8,
+      "asin": "B085WNTJT1",
+      "title": "Rainbow Loom MEGA Combo Set, Features 7000+ Colorful Rubber Bands, 2 Bracelet Instructions, Organizer Case, Great Gift for Kids 7+ DIY Craft, STEAM",
+      "brand": "Rainbow Loom",
+      "price": 23.99,
+      "salesParent": 3426,
+      "revenue": 78044.28,
+      "rating": 4.8,
+      "reviews": 6762
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -8,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -8,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 3146355,
+    "priorHeadRevenue": 3408456,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 34,
+      "pct": 34,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 46,
+      "brandCount": 63,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.55,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0B4BX6SY2",
+        "title": "leitait Girls Toys Bracelet Making Kit -3400pcs Charm Jewelry Making Kit Supplies,Unicorn/Mermaid Crafts Birthday Christmas Gifts for Girls Ages 5 6 7 8 9 10 11 12 Years Old",
+        "rating": 4.6,
+        "reviews": 4414
+      },
+      {
+        "rank": 2,
+        "asin": "B096XS6NFF",
+        "title": "Arts and Crafts for Kids Age 8-12 Friendship Bracelet Making Kit for Girls - Best Birthday Gifts Ideas for Girl 7 9 10 11 Year Old - Popular Bracelets String Maker Toys Set",
+        "rating": 4.6,
+        "reviews": 3163
+      },
+      {
+        "rank": 3,
+        "asin": "B0DT8HQYPF",
+        "title": "Cool Maker Stack'd Heishi Studio Bracelet Making Kit, Ages 7+",
+        "rating": 4.3,
+        "reviews": 1148
+      },
+      {
+        "rank": 4,
+        "asin": "B0DCH598KN",
+        "title": "Ooly DIY Shrink Art Bracelet Kit, 24 Pc – BFF",
+        "rating": 4.6,
+        "reviews": 1102
+      },
+      {
+        "rank": 5,
+        "asin": "B0727P9R1H",
+        "title": "GILI Pop Beads - Jewelry Making Kit for 3 4 5 6 7 8 Year Old Little Girls - Arts and Crafts Toys for Kids Age 4yr-8yr - Necklace Bracelet Creativity Snap Set Top Best Christmas Birthday Gifts (500pcs)",
+        "rating": 4.4,
+        "reviews": 4266
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166057011:166064011:2488224011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

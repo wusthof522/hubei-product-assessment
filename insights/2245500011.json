@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "2245500011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Household Supplies > Cleaning Tools > Squeegees",
+  "categoryPathCn": "健康与家居 > 家居用品 > 清洁工具 > 橡胶扫帚",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 98,
+    "totalRevenue": 3353670,
+    "avgRevenue": 34221,
+    "medianPrice": 25.98,
+    "priceBand": "$16.99 - $42.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B07F9RGM6B",
+      "title": "Hiware All-Purpose Shower Squeegee for Shower Doors, Bathroom, Window and Car Glass - Stainless Steel, 10 Inches",
+      "brand": "HIWARE",
+      "price": 9.99,
+      "salesParent": 24122,
+      "revenue": 243632.2,
+      "rating": 4.7,
+      "reviews": 77771
+    },
+    {
+      "rank": 2,
+      "asin": "B0HDB85SBH",
+      "title": "MR.SIGA Professional Window Squeegee &amp; Microfiber Window Scrubber, 14 inch (Pack of 2)",
+      "brand": "MR.SIGA",
+      "price": 39.98,
+      "salesParent": 4382,
+      "revenue": 175192.36,
+      "rating": 4.4,
+      "reviews": 26433
+    },
+    {
+      "rank": 3,
+      "asin": "B0CDBVC1W7",
+      "title": "Professional Window Squeegee,2 in 1 Squeegee Window Cleaner with Long Stainless Steel Handle,Sponge Car Window Squeegee for Gas Station, Glass,Shower (Sponge Style)",
+      "brand": "Bryquelin",
+      "price": 15.19,
+      "salesParent": 8648,
+      "revenue": 142000.16,
+      "rating": 4.3,
+      "reviews": 2039
+    },
+    {
+      "rank": 4,
+      "asin": "B0D5CCCVWH",
+      "title": "Squeegee for Shower Glass Door, 10 Inches, Black",
+      "brand": "SetSail",
+      "price": 6.99,
+      "salesParent": 15088,
+      "revenue": 129757.0,
+      "rating": 4.6,
+      "reviews": 2875
+    },
+    {
+      "rank": 5,
+      "asin": "B0DK3C5DGP",
+      "title": "2pcs Shower Squeegee for Glass Doors with Adhesive Hanging Hook Set",
+      "brand": "ALFLOD",
+      "price": 9.98,
+      "salesParent": 11025,
+      "revenue": 111793.5,
+      "rating": 4.6,
+      "reviews": 4494
+    },
+    {
+      "rank": 6,
+      "asin": "B0D73PFTVJ",
+      "title": "IGADPole 28 FT Water-Fed Washing Kit with Soap-Dispenser, Brush, 10″ Squeegee &amp; Cobweb Duster for Windows, Gutters, Solar Panels &amp; Exterior Walls",
+      "brand": "IGAD",
+      "price": 139.0,
+      "salesParent": 749,
+      "revenue": 104111.0,
+      "rating": 4.2,
+      "reviews": 2302
+    },
+    {
+      "rank": 7,
+      "asin": "B0B27D9PYT",
+      "title": "Original Broombi - All-Surface Silicone Broom, Squeegee, Pet Hair Remover - Smart Broom for Indoor Cleaning - Cleans Glass, Fine Dust, Hair, Liquids - for Smooth Floors, Rugs, Windows (Black)",
+      "brand": "Broombi",
+      "price": 34.95,
+      "salesParent": 2867,
+      "revenue": 100201.65,
+      "rating": 4.3,
+      "reviews": 6099
+    },
+    {
+      "rank": 8,
+      "asin": "B0BKTM56C3",
+      "title": "DSV Professional Squeegee for Window Cleaning with Long 55&quot; Extension Handle, Window Cleaning Kit, 2-in-1 Window Squeegee, Car Window Cleaner Tool, Window Cleaner for High Outdoor Windows",
+      "brand": "DSV Standard",
+      "price": 15.99,
+      "salesParent": 6744,
+      "revenue": 100014.0,
+      "rating": 4.4,
+      "reviews": 3563
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 3,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 3,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 3353670,
+    "priorHeadRevenue": 3258115,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 98,
+      "newCount": 48,
+      "pct": 49,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 34,
+      "brandCount": 62,
+      "level": "分散",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.37,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B07F9RGM6B",
+        "title": "Hiware All-Purpose Shower Squeegee for Shower Doors, Bathroom, Window and Car Glass - Stainless Steel, 10 Inches",
+        "rating": 4.7,
+        "reviews": 77771
+      },
+      {
+        "rank": 2,
+        "asin": "B0HDB85SBH",
+        "title": "MR.SIGA Professional Window Squeegee &amp; Microfiber Window Scrubber, 14 inch (Pack of 2)",
+        "rating": 4.4,
+        "reviews": 26433
+      },
+      {
+        "rank": 3,
+        "asin": "B0CDBVC1W7",
+        "title": "Professional Window Squeegee,2 in 1 Squeegee Window Cleaner with Long Stainless Steel Handle,Sponge Car Window Squeegee for Gas Station, Glass,Shower (Sponge Style)",
+        "rating": 4.3,
+        "reviews": 2039
+      },
+      {
+        "rank": 4,
+        "asin": "B0D5CCCVWH",
+        "title": "Squeegee for Shower Glass Door, 10 Inches, Black",
+        "rating": 4.6,
+        "reviews": 2875
+      },
+      {
+        "rank": 5,
+        "asin": "B0DK3C5DGP",
+        "title": "2pcs Shower Squeegee for Glass Doors with Adhesive Hanging Hook Set",
+        "rating": 4.6,
+        "reviews": 4494
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:15342811:15342831:2245500011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

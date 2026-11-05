@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "2245503011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Household Supplies > Cleaning Tools > Mopping",
+  "categoryPathCn": "健康与家居 > 家居用品 > 清洁工具 > 拖地",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 97,
+    "totalRevenue": 27844336,
+    "avgRevenue": 287055,
+    "medianPrice": 21.99,
+    "priceBand": "$15.43 - $31.66",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B00WSWGVZQ",
+      "title": "O-Cedar EasyWring Microfiber Spin Mop, Bucket Floor Cleaning System, Red, Gray, Standard",
+      "brand": "O-Cedar",
+      "price": 37.2,
+      "salesParent": 59578,
+      "revenue": 2213918.5,
+      "rating": 4.6,
+      "reviews": 197202
+    },
+    {
+      "rank": 2,
+      "asin": "B0FKZFMVNB",
+      "title": "Swiffer PowerMop Mopping Kit for Floor Cleaning, Set Includes 1 Power Mop, 2 Replacement Pads, 1 Liquid Solution Refill, 2 Batteries, No Bucket Needed Electric Spray Cleaner, Multi-Surface and Wood",
+      "brand": "Swiffer",
+      "price": 26.99,
+      "salesParent": 72650,
+      "revenue": 1960823.5,
+      "rating": 4.5,
+      "reviews": 47493
+    },
+    {
+      "rank": 3,
+      "asin": "B0F7ZZBMBN",
+      "title": "O-Cedar H2prO Flat Mop System with 2 Mop Head Refills | Quick Cleaning Tool | Clean with Clean Water | Machine Washable Reusable Microfiber Mop Pad | Safe on Wood Floors, Vinyl,Tile, Baseboards, Walls",
+      "brand": "O-Cedar",
+      "price": 62.98,
+      "salesParent": 25837,
+      "revenue": 1627214.25,
+      "rating": 4.5,
+      "reviews": 428
+    },
+    {
+      "rank": 4,
+      "asin": "B0F817N4KD",
+      "title": "O-Cedar H2prO Flat Mop System with 1 Mop Head Refill | Quick Cleaning Tool | Clean with Clean Water | Machine Washable Reusable Microfiber Mop Pad | Safe on Wood Floors, Vinyl, Tile, Baseboards, Walls",
+      "brand": "O-Cedar",
+      "price": 58.99,
+      "salesParent": 25813,
+      "revenue": 1512641.75,
+      "rating": 4.4,
+      "reviews": 365
+    },
+    {
+      "rank": 5,
+      "asin": "B08ZBDK8BT",
+      "title": "O-Cedar RinseClean Spin Mop &amp; Bucket System | Clean with Clean Water | Removes 99% of Bacteria",
+      "brand": "O-Cedar",
+      "price": 49.96,
+      "salesParent": 29931,
+      "revenue": 1493856.25,
+      "rating": 4.4,
+      "reviews": 37900
+    },
+    {
+      "rank": 6,
+      "asin": "B0DWCNSYKK",
+      "title": "O-Cedar H2prO Flat Mop System | Quick Everyday Cleaning | Dual-Tank Fresh Water System | Machine Washable Reusable Microfiber Mop Pad | Safe on Hardwood, Tile &amp; Vinyl Floors",
+      "brand": "O-Cedar",
+      "price": 44.96,
+      "salesParent": 26550,
+      "revenue": 1163421.0,
+      "rating": 4.3,
+      "reviews": 4324
+    },
+    {
+      "rank": 7,
+      "asin": "B012CFJFOW",
+      "title": "Swiffer Sweeper Wet Mopping Cloth Multi Surface Refills, Mops for Floor Cleaning, Febreze Lavender Scent, 36 Count",
+      "brand": "Swiffer",
+      "price": 12.0,
+      "salesParent": 89486,
+      "revenue": 1080990.88,
+      "rating": 4.7,
+      "reviews": 91491
+    },
+    {
+      "rank": 8,
+      "asin": "B07VWL357N",
+      "title": "O-Cedar EasyWring Microfiber Spin Mop &amp; Bucket Floor Cleaning System + 2 Extra Refills, Red/Gray",
+      "brand": "O-Cedar",
+      "price": 44.96,
+      "salesParent": 23317,
+      "revenue": 1048332.31,
+      "rating": 4.7,
+      "reviews": 81583
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 9,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 9,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 27844336,
+    "priorHeadRevenue": 25527862,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 97,
+      "newCount": 27,
+      "pct": 28,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 79,
+      "brandCount": 54,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.51,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B00WSWGVZQ",
+        "title": "O-Cedar EasyWring Microfiber Spin Mop, Bucket Floor Cleaning System, Red, Gray, Standard",
+        "rating": 4.6,
+        "reviews": 197202
+      },
+      {
+        "rank": 2,
+        "asin": "B0FKZFMVNB",
+        "title": "Swiffer PowerMop Mopping Kit for Floor Cleaning, Set Includes 1 Power Mop, 2 Replacement Pads, 1 Liquid Solution Refill, 2 Batteries, No Bucket Needed Electric Spray Cleaner, Multi-Surface and Wood",
+        "rating": 4.5,
+        "reviews": 47493
+      },
+      {
+        "rank": 3,
+        "asin": "B0F7ZZBMBN",
+        "title": "O-Cedar H2prO Flat Mop System with 2 Mop Head Refills | Quick Cleaning Tool | Clean with Clean Water | Machine Washable Reusable Microfiber Mop Pad | Safe on Wood Floors, Vinyl,Tile, Baseboards, Walls",
+        "rating": 4.5,
+        "reviews": 428
+      },
+      {
+        "rank": 4,
+        "asin": "B0F817N4KD",
+        "title": "O-Cedar H2prO Flat Mop System with 1 Mop Head Refill | Quick Cleaning Tool | Clean with Clean Water | Machine Washable Reusable Microfiber Mop Pad | Safe on Wood Floors, Vinyl, Tile, Baseboards, Walls",
+        "rating": 4.4,
+        "reviews": 365
+      },
+      {
+        "rank": 5,
+        "asin": "B08ZBDK8BT",
+        "title": "O-Cedar RinseClean Spin Mop &amp; Bucket System | Clean with Clean Water | Removes 99% of Bacteria",
+        "rating": 4.4,
+        "reviews": 37900
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:15342811:15342831:2245503011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

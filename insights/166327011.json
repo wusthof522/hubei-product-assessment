@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "166327011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Learning & Education > Musical Instruments > Drums & Percussion",
+  "categoryPathCn": "玩具 > 学习 > 乐器 > 大鼓",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 1714384,
+    "avgRevenue": 17144,
+    "medianPrice": 35.49,
+    "priceBand": "$25.24 - $44.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0CS6MK19Y",
+      "title": "VTech Kidi Star Drum Pad, Black",
+      "brand": "VTech",
+      "price": 59.99,
+      "salesParent": 2264,
+      "revenue": 135817.36,
+      "rating": 4.7,
+      "reviews": 1123
+    },
+    {
+      "rank": 2,
+      "asin": "B0CH39J42V",
+      "title": "Wooden Drum Set for Toddlers 18M+, Montessori Musical Toy for Kids",
+      "brand": "Promise Babe",
+      "price": 37.99,
+      "salesParent": 2770,
+      "revenue": 102545.4,
+      "rating": 4.5,
+      "reviews": 292
+    },
+    {
+      "rank": 3,
+      "asin": "B0DBH3V23Q",
+      "title": "Vanplay Kids Drum Set, Montessori Toys for 2 3 Year Old Boy Girl Gifts",
+      "brand": "Vanplay",
+      "price": 33.29,
+      "salesParent": 2274,
+      "revenue": 82546.2,
+      "rating": 4.7,
+      "reviews": 609
+    },
+    {
+      "rank": 4,
+      "asin": "B007XVYSDE",
+      "title": "VTech KidiBeats Kids Drum Set, Orange",
+      "brand": "VTech",
+      "price": 19.99,
+      "salesParent": 3992,
+      "revenue": 79800.08,
+      "rating": 4.7,
+      "reviews": 15912
+    },
+    {
+      "rank": 5,
+      "asin": "B07W4H8N39",
+      "title": "Kids Musical Instruments, 33Pcs 18 Types Wooden Percussion Instruments Tambourine Xylophone Toys for Kids Children, Preschool Education Early Learning Musical Toy for Boys and Girls",
+      "brand": "Taimasi",
+      "price": 28.99,
+      "salesParent": 2230,
+      "revenue": 66364.8,
+      "rating": 4.6,
+      "reviews": 4284
+    },
+    {
+      "rank": 6,
+      "asin": "B0D2MF53TH",
+      "title": "Vanplay Drum Set - Montessori Toys for 2 3 Year Old Girl Boy Gifts",
+      "brand": "Vanplay",
+      "price": 35.99,
+      "salesParent": 1825,
+      "revenue": 65681.75,
+      "rating": 4.5,
+      "reviews": 702
+    },
+    {
+      "rank": 7,
+      "asin": "B0DQWSRSJP",
+      "title": "LinseyFun Upgraded Kids Drum Set for Toddlers 3-5, Light-up Jazz Drum Toy",
+      "brand": "LinseyFun",
+      "price": 45.99,
+      "salesParent": 1188,
+      "revenue": 54897.48,
+      "rating": 4.3,
+      "reviews": 651
+    },
+    {
+      "rank": 8,
+      "asin": "B0CSDSYR5K",
+      "title": "Baby Musical Instruments-Montessori Wooden Toys for Toddlers",
+      "brand": "Aliex",
+      "price": 37.99,
+      "salesParent": 1487,
+      "revenue": 53636.09,
+      "rating": 4.6,
+      "reviews": 946
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -6,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -6,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1714384,
+    "priorHeadRevenue": 1830290,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 30,
+      "pct": 30,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 39,
+      "brandCount": 72,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.54,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0CS6MK19Y",
+        "title": "VTech Kidi Star Drum Pad, Black",
+        "rating": 4.7,
+        "reviews": 1123
+      },
+      {
+        "rank": 2,
+        "asin": "B0CH39J42V",
+        "title": "Wooden Drum Set for Toddlers 18M+, Montessori Musical Toy for Kids",
+        "rating": 4.5,
+        "reviews": 292
+      },
+      {
+        "rank": 3,
+        "asin": "B0DBH3V23Q",
+        "title": "Vanplay Kids Drum Set, Montessori Toys for 2 3 Year Old Boy Girl Gifts",
+        "rating": 4.7,
+        "reviews": 609
+      },
+      {
+        "rank": 4,
+        "asin": "B007XVYSDE",
+        "title": "VTech KidiBeats Kids Drum Set, Orange",
+        "rating": 4.7,
+        "reviews": 15912
+      },
+      {
+        "rank": 5,
+        "asin": "B07W4H8N39",
+        "title": "Kids Musical Instruments, 33Pcs 18 Types Wooden Percussion Instruments Tambourine Xylophone Toys for Kids Children, Preschool Education Early Learning Musical Toy for Boys and Girls",
+        "rating": 4.6,
+        "reviews": 4284
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166269011:166326011:166327011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23642781011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Toy Figures & Playsets > Play Figure Vehicles > Motorcycles",
+  "categoryPathCn": "玩具 > 玩具图 > 游戏人物车辆 > 摩托车",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 36,
+    "totalRevenue": 87324,
+    "avgRevenue": 2426,
+    "medianPrice": 21.99,
+    "priceBand": "$19.65 - $30.38",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B08FCS54L6",
+      "title": "Paw Patrol, Moto Pups Wildcat’s Deluxe Pull Back Motorcycle Vehicle with Wheelie Feature and Toy Figure",
+      "brand": "Paw Patrol",
+      "price": 34.99,
+      "salesParent": 495,
+      "revenue": 16765.65,
+      "rating": 4.8,
+      "reviews": 3008
+    },
+    {
+      "rank": 2,
+      "asin": "B0FCY2RB7R",
+      "title": "4-Pack Motorcycle Toy for Kids - Pull Back Motorcycles with Sounds &amp; Lights, 1:12 Scale Die Cast Friction Powered Toy Cars, Toys for 3 4 5 6 7 8 Year Old Kids, Birthday Gifts for Boys",
+      "brand": "ACROFEK",
+      "price": 19.99,
+      "salesParent": 232,
+      "revenue": 5359.2,
+      "rating": 4.6,
+      "reviews": 53
+    },
+    {
+      "rank": 3,
+      "asin": "B01N8P38WJ",
+      "title": "Take-Apart Motorcycle with Electric Drill, Lights, Sounds and 20+ Pieces",
+      "brand": "Liberty Imports",
+      "price": 22.99,
+      "salesParent": 228,
+      "revenue": 5241.72,
+      "rating": 4.5,
+      "reviews": 664
+    },
+    {
+      "rank": 4,
+      "asin": "B0CMVBG24L",
+      "title": "Jazwares Marvel Spidey and His Amazing Friends Spidey Team Split Racer - 8.5-Inch Three-in-One Vehicle with Web Darts, Sound Effects, and Phrases",
+      "brand": "Jazwares",
+      "price": 34.9,
+      "salesParent": 142,
+      "revenue": 4873.44,
+      "rating": 4.8,
+      "reviews": 548
+    },
+    {
+      "rank": 5,
+      "asin": "B07KMG13YL",
+      "title": "NewRay KTM 450 SXF Dirt Bike, Realistic and Functional, Kids Toy or Collectible Motorcycle 1/10 Scale (57943)",
+      "brand": "NewRay",
+      "price": 23.86,
+      "salesParent": 191,
+      "revenue": 4614.56,
+      "rating": 4.4,
+      "reviews": 947
+    },
+    {
+      "rank": 6,
+      "asin": "B0FVRWB193",
+      "title": "Diecast Model Bike Compatible for 1:12 Scale Honda CRF450R Dirt Bike NewRay Motorcycle 58493",
+      "brand": "Generic",
+      "price": 23.29,
+      "salesParent": 196,
+      "revenue": 4564.84,
+      "rating": 4.5,
+      "reviews": 45
+    },
+    {
+      "rank": 7,
+      "asin": "B0FCY66YCJ",
+      "title": "4-Pack Motorcycle Toys for Kids - Pull Back Toy Motorcycle with Sounds &amp; Lights, 1:12 Scale Die Cast Friction Powered Toy Dirt Bike,Birthday Gifts for Toddler Boys Age 3 4 5 6 7 8 Year Old",
+      "brand": "BOBUEXER",
+      "price": 21.99,
+      "salesParent": 210,
+      "revenue": 4365.9,
+      "rating": 4.4,
+      "reviews": 35
+    },
+    {
+      "rank": 8,
+      "asin": "B0F1M9KT66",
+      "title": "1:12 Dirtbike Toy Model Motorcycle for Kawasaki KX450F Green",
+      "brand": "Risopen",
+      "price": 26.99,
+      "salesParent": 151,
+      "revenue": 4075.49,
+      "rating": 4.6,
+      "reviews": 83
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -40,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -40,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 87324,
+    "priorHeadRevenue": 146250,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 36,
+      "newCount": 18,
+      "pct": 50,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 67,
+      "brandCount": 22,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.46,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B08FCS54L6",
+        "title": "Paw Patrol, Moto Pups Wildcat’s Deluxe Pull Back Motorcycle Vehicle with Wheelie Feature and Toy Figure",
+        "rating": 4.8,
+        "reviews": 3008
+      },
+      {
+        "rank": 2,
+        "asin": "B0FCY2RB7R",
+        "title": "4-Pack Motorcycle Toy for Kids - Pull Back Motorcycles with Sounds &amp; Lights, 1:12 Scale Die Cast Friction Powered Toy Cars, Toys for 3 4 5 6 7 8 Year Old Kids, Birthday Gifts for Boys",
+        "rating": 4.6,
+        "reviews": 53
+      },
+      {
+        "rank": 3,
+        "asin": "B01N8P38WJ",
+        "title": "Take-Apart Motorcycle with Electric Drill, Lights, Sounds and 20+ Pieces",
+        "rating": 4.5,
+        "reviews": 664
+      },
+      {
+        "rank": 4,
+        "asin": "B0CMVBG24L",
+        "title": "Jazwares Marvel Spidey and His Amazing Friends Spidey Team Split Racer - 8.5-Inch Three-in-One Vehicle with Web Darts, Sound Effects, and Phrases",
+        "rating": 4.8,
+        "reviews": 548
+      },
+      {
+        "rank": 5,
+        "asin": "B07KMG13YL",
+        "title": "NewRay KTM 450 SXF Dirt Bike, Realistic and Functional, Kids Toy or Collectible Motorcycle 1/10 Scale (57943)",
+        "rating": 4.4,
+        "reviews": 947
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:165993011:274293011:23642781011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

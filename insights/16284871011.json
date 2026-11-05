@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "16284871011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Household Supplies > Tissues, Toilet Paper & Sprays > Toilet Paper Sprays",
+  "categoryPathCn": "Health & Household > Household Supplies > Tissues, Toilet Paper & Sprays > Toilet Paper Sprays",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 71,
+    "totalRevenue": 367958,
+    "avgRevenue": 5183,
+    "medianPrice": 19.99,
+    "priceBand": "$14.99 - $27.96",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0CCBVTJLM",
+      "title": "Muse Apothecary Flush Ritual - Aromatic &amp; Refreshing Toilet Spray, Use Before You Go, 2 oz, Infused with Natural Essential Oils - Coconut + Sandalwood, 2 Pack",
+      "brand": "Muse Apothecary",
+      "price": 9.98,
+      "salesParent": 9400,
+      "revenue": 93811.99,
+      "rating": 4.4,
+      "reviews": 4883
+    },
+    {
+      "rank": 2,
+      "asin": "B096HDX4WL",
+      "title": "Poo-Pourri Before-You-Go Toilet Spray, Fresh Sea Salt, 4 Fl Oz",
+      "brand": "Poo-Pourri",
+      "price": 14.99,
+      "salesParent": 6149,
+      "revenue": 85225.14,
+      "rating": 4.7,
+      "reviews": 8798
+    },
+    {
+      "rank": 3,
+      "asin": "B01N9HAKTH",
+      "title": "PRISTINE Toilet Paper Spray, Flushable Wipe Alternative, Seen on Shark Tank",
+      "brand": "PRISTINE",
+      "price": 14.95,
+      "salesParent": 2492,
+      "revenue": 37255.4,
+      "rating": 4.3,
+      "reviews": 6097
+    },
+    {
+      "rank": 4,
+      "asin": "B019D5OGRA",
+      "title": "Refresh Liquid Wipe Toilet Paper Foam Original Formula 1.69 Fl Oz (3 Pack)",
+      "brand": "Refresh Liquid Wipe",
+      "price": 18.49,
+      "salesParent": 1832,
+      "revenue": 33873.68,
+      "rating": 4.2,
+      "reviews": 3461
+    },
+    {
+      "rank": 5,
+      "asin": "B08V8NNL62",
+      "title": "TUSHÉ Toilet Paper Foam (2-Pack) – Flushable Wet Wipe Alternative for Sensitive Skin – Unscented, Septic Safe – Aloe Vera, Witch Hazel &amp; Vitamin E – 100ml (3.38 fl oz)",
+      "brand": "TUSHÉ",
+      "price": 13.99,
+      "salesParent": 1383,
+      "revenue": 19348.17,
+      "rating": 4.4,
+      "reviews": 626
+    },
+    {
+      "rank": 6,
+      "asin": "B0DTQT2GYW",
+      "title": "Poo-Pourri Tropic Like Its Hot, Berry &amp; Bright, and Balsam Bum 2 Ounce Set",
+      "brand": "Poo-Pourri",
+      "price": 21.74,
+      "salesParent": 695,
+      "revenue": 15109.3,
+      "rating": 4.7,
+      "reviews": 323
+    },
+    {
+      "rank": 7,
+      "asin": "B0HFM8B4P2",
+      "title": "Poo-Pourri Before-You-Go Toilet Spray, Best Sellers Variety 5-Pack, 2 fl oz",
+      "brand": "Poo-Pourri",
+      "price": 35.99,
+      "salesParent": 400,
+      "revenue": 14396.0,
+      "rating": null,
+      "reviews": 1
+    },
+    {
+      "rank": 8,
+      "asin": "B08FBY575G",
+      "title": "Squatty Potty Toilet Paper Tissue Paper Foam - 2 Pack, 50 ml, 1.69 Fl Oz",
+      "brand": "Squatty Potty",
+      "price": 12.99,
+      "salesParent": 893,
+      "revenue": 11600.07,
+      "rating": 4.1,
+      "reviews": 1797
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 78,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 78,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 367958,
+    "priorHeadRevenue": 207232,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 71,
+      "newCount": 18,
+      "pct": 25,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 89,
+      "brandCount": 28,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.45,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0CCBVTJLM",
+        "title": "Muse Apothecary Flush Ritual - Aromatic &amp; Refreshing Toilet Spray, Use Before You Go, 2 oz, Infused with Natural Essential Oils - Coconut + Sandalwood, 2 Pack",
+        "rating": 4.4,
+        "reviews": 4883
+      },
+      {
+        "rank": 2,
+        "asin": "B096HDX4WL",
+        "title": "Poo-Pourri Before-You-Go Toilet Spray, Fresh Sea Salt, 4 Fl Oz",
+        "rating": 4.7,
+        "reviews": 8798
+      },
+      {
+        "rank": 3,
+        "asin": "B01N9HAKTH",
+        "title": "PRISTINE Toilet Paper Spray, Flushable Wipe Alternative, Seen on Shark Tank",
+        "rating": 4.3,
+        "reviews": 6097
+      },
+      {
+        "rank": 4,
+        "asin": "B019D5OGRA",
+        "title": "Refresh Liquid Wipe Toilet Paper Foam Original Formula 1.69 Fl Oz (3 Pack)",
+        "rating": 4.2,
+        "reviews": 3461
+      },
+      {
+        "rank": 5,
+        "asin": "B08V8NNL62",
+        "title": "TUSHÉ Toilet Paper Foam (2-Pack) – Flushable Wet Wipe Alternative for Sensitive Skin – Unscented, Septic Safe – Aloe Vera, Witch Hazel &amp; Vitamin E – 100ml (3.38 fl oz)",
+        "rating": 4.4,
+        "reviews": 626
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:15342811:23700319011:16284871011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

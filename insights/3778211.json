@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3778211",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Oral Care > Toothbrushes & Accessories > Manual Toothbrushes",
+  "categoryPathCn": "健康与家居 > 口腔护理 > 牙刷 > 手动",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 13809619,
+    "avgRevenue": 138096,
+    "medianPrice": 11.8,
+    "priceBand": "$8.98 - $20.52",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0FQ6GG1VC",
+      "title": "Colgate Extra Clean Toothbrush, Soft Toothbrush for Adults",
+      "brand": "Colgate",
+      "price": 52.0,
+      "salesParent": 81770,
+      "revenue": 4517792.5,
+      "rating": 4.6,
+      "reviews": 69333
+    },
+    {
+      "rank": 2,
+      "asin": "B0F5Q3GTBN",
+      "title": "GuruNanda Disposable Travel Toothbrush 1.0, Fluoride Free Toothpaste, 70 ct",
+      "brand": "GuruNanda",
+      "price": 29.99,
+      "salesParent": 17473,
+      "revenue": 499378.34,
+      "rating": 4.6,
+      "reviews": 2472
+    },
+    {
+      "rank": 3,
+      "asin": "B00CC6XSRC",
+      "title": "Colgate Extra Clean Medium Toothbrushes, 6 Pack",
+      "brand": "Colgate",
+      "price": 4.96,
+      "salesParent": 98563,
+      "revenue": 488872.47,
+      "rating": 4.6,
+      "reviews": 59251
+    },
+    {
+      "rank": 4,
+      "asin": "B071DPCBQG",
+      "title": "Colgate Wisp Disposable Toothbrushes for Travel, Pack of 4, 96 Total Count",
+      "brand": "Colgate",
+      "price": 22.54,
+      "salesParent": 18589,
+      "revenue": 439815.75,
+      "rating": 4.7,
+      "reviews": 28809
+    },
+    {
+      "rank": 5,
+      "asin": "B00AFWVHI2",
+      "title": "MOUTHWATCHERS Dr Plotkas Soft Bristle Flossing Toothbrush Manual Soft Toothbrush for Adults, Ultra Clean, Good for Sensitive Teeth and Gums, Variety 4 Pack, Colors May Vary",
+      "brand": "MOUTHWATCHERS",
+      "price": 15.99,
+      "salesParent": 24579,
+      "revenue": 393018.22,
+      "rating": 4.7,
+      "reviews": 7397
+    },
+    {
+      "rank": 6,
+      "asin": "B005LB75NI",
+      "title": "NIMBUS Extra Soft Toothbrushes for Sensitive Teeth (Regular, 5 Pack)",
+      "brand": "NIMBUS",
+      "price": 18.99,
+      "salesParent": 19444,
+      "revenue": 366130.53,
+      "rating": 4.8,
+      "reviews": 12552
+    },
+    {
+      "rank": 7,
+      "asin": "B01KZ6V00W",
+      "title": "Oral-B Pro Clean Cross Action Toothbrushes, Deep Plaque Removal, 6 Count",
+      "brand": "Oral-B",
+      "price": 29.74,
+      "salesParent": 16444,
+      "revenue": 364070.16,
+      "rating": 4.7,
+      "reviews": 23158
+    },
+    {
+      "rank": 8,
+      "asin": "B0F6NX58GB",
+      "title": "Colgate 360 Advanced Clean Floss Tip Soft Toothbrushes, 6 Pack",
+      "brand": "Colgate",
+      "price": 18.31,
+      "salesParent": 14360,
+      "revenue": 258336.39,
+      "rating": 4.8,
+      "reviews": 840
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 69,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 69,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 13809619,
+    "priorHeadRevenue": 8183045,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 21,
+      "pct": 21,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 73,
+      "brandCount": 46,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.56,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0FQ6GG1VC",
+        "title": "Colgate Extra Clean Toothbrush, Soft Toothbrush for Adults",
+        "rating": 4.6,
+        "reviews": 69333
+      },
+      {
+        "rank": 2,
+        "asin": "B0F5Q3GTBN",
+        "title": "GuruNanda Disposable Travel Toothbrush 1.0, Fluoride Free Toothpaste, 70 ct",
+        "rating": 4.6,
+        "reviews": 2472
+      },
+      {
+        "rank": 3,
+        "asin": "B00CC6XSRC",
+        "title": "Colgate Extra Clean Medium Toothbrushes, 6 Pack",
+        "rating": 4.6,
+        "reviews": 59251
+      },
+      {
+        "rank": 4,
+        "asin": "B071DPCBQG",
+        "title": "Colgate Wisp Disposable Toothbrushes for Travel, Pack of 4, 96 Total Count",
+        "rating": 4.7,
+        "reviews": 28809
+      },
+      {
+        "rank": 5,
+        "asin": "B00AFWVHI2",
+        "title": "MOUTHWATCHERS Dr Plotkas Soft Bristle Flossing Toothbrush Manual Soft Toothbrush for Adults, Ultra Clean, Good for Sensitive Teeth and Gums, Variety 4 Pack, Colors May Vary",
+        "rating": 4.7,
+        "reviews": 7397
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:10079992011:18065341011:3778211",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

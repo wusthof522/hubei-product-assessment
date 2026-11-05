@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "6939082011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Diet & Sports Nutrition > Weight Loss > Ready to Drink Shakes",
+  "categoryPathCn": "健康与家居 > 暮和喜欢 > 减肥瘦身 > 准备喝奶昔",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 62,
+    "totalRevenue": 2831925,
+    "avgRevenue": 45676,
+    "medianPrice": 42.74,
+    "priceBand": "$21.99 - $69.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B000NYSNVQ",
+      "title": "Glucerna Original Nutrition Shake to Support Blood Sugar Management",
+      "brand": "Glucerna",
+      "price": 43.68,
+      "salesParent": 19749,
+      "revenue": 879817.94,
+      "rating": 4.8,
+      "reviews": 5641
+    },
+    {
+      "rank": 2,
+      "asin": "B071JJCB4S",
+      "title": "BUBS Naturals Collagen Peptides Powder, Collagen for Women &amp; Men, Hydrolyzed Peptides, Unflavored Pasture Raised Grass Fed, Paleo Keto Friendly, Supports Hair Skin &amp; Joint Health (20 oz) 28 Servings",
+      "brand": "BUBS Naturals",
+      "price": 42.2,
+      "salesParent": 16159,
+      "revenue": 719398.69,
+      "rating": 4.7,
+      "reviews": 3549
+    },
+    {
+      "rank": 3,
+      "asin": "B0BL8PHN4M",
+      "title": "SlimFast Protein Shake, Chocolate- 20g Protein, Meal Replacement Shake Ready to Drink, High Protein with Low Carb and Low Sugar, 24 Vitamins and Minerals, 12 Count (Pack of 1) (Packaging May Vary)",
+      "brand": "SlimFast",
+      "price": 20.97,
+      "salesParent": 24223,
+      "revenue": 488093.44,
+      "rating": 4.6,
+      "reviews": 2229
+    },
+    {
+      "rank": 4,
+      "asin": "B0FKQLL3F9",
+      "title": "SlimFast Meal Replacement Shake, Original Creamy Milk Chocolate, 11 Fl. Oz, 12 Count",
+      "brand": "SlimFast",
+      "price": 19.99,
+      "salesParent": 8465,
+      "revenue": 169215.34,
+      "rating": 4.5,
+      "reviews": 423
+    },
+    {
+      "rank": 5,
+      "asin": "B00802FYYW",
+      "title": "Isagenix IsaLean, 24g Protein Shake, Creamy Chocolate, 28.1 oz",
+      "brand": "Isagenix",
+      "price": 73.0,
+      "salesParent": 1950,
+      "revenue": 142350.0,
+      "rating": 4.3,
+      "reviews": 2936
+    },
+    {
+      "rank": 6,
+      "asin": "B0DVN5VGNC",
+      "title": "BOOST Advanced Nutritional Protein Shake, Chocolate, 12-11 FL OZ Cartons",
+      "brand": "BOOST",
+      "price": 38.97,
+      "salesParent": 1614,
+      "revenue": 62897.58,
+      "rating": 4.1,
+      "reviews": 346
+    },
+    {
+      "rank": 7,
+      "asin": "B0BRYMQ1NS",
+      "title": "Equilife Daily Nutritional Support Multivitamin, Chocolate, 14 Servings",
+      "brand": "Equilife",
+      "price": 52.9,
+      "salesParent": 1133,
+      "revenue": 59935.7,
+      "rating": 4.6,
+      "reviews": 86
+    },
+    {
+      "rank": 8,
+      "asin": "B09R52VRK8",
+      "title": "Almased Vanilla Meal Replacement Shake - Low-Glycemic High Plant Base Protein Powder- Nutritional Weight Health Support Supplement - Vanilla Flavor - 17.6 oz (1.1 Pound (3 Pack))",
+      "brand": "Almased",
+      "price": 111.99,
+      "salesParent": 356,
+      "revenue": 39868.44,
+      "rating": 4.4,
+      "reviews": 315
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 49,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 49,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 2831925,
+    "priorHeadRevenue": 1902595,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 62,
+      "newCount": 5,
+      "pct": 8,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 89,
+      "brandCount": 39,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.39,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B000NYSNVQ",
+        "title": "Glucerna Original Nutrition Shake to Support Blood Sugar Management",
+        "rating": 4.8,
+        "reviews": 5641
+      },
+      {
+        "rank": 2,
+        "asin": "B071JJCB4S",
+        "title": "BUBS Naturals Collagen Peptides Powder, Collagen for Women &amp; Men, Hydrolyzed Peptides, Unflavored Pasture Raised Grass Fed, Paleo Keto Friendly, Supports Hair Skin &amp; Joint Health (20 oz) 28 Servings",
+        "rating": 4.7,
+        "reviews": 3549
+      },
+      {
+        "rank": 3,
+        "asin": "B0BL8PHN4M",
+        "title": "SlimFast Protein Shake, Chocolate- 20g Protein, Meal Replacement Shake Ready to Drink, High Protein with Low Carb and Low Sugar, 24 Vitamins and Minerals, 12 Count (Pack of 1) (Packaging May Vary)",
+        "rating": 4.6,
+        "reviews": 2229
+      },
+      {
+        "rank": 4,
+        "asin": "B0FKQLL3F9",
+        "title": "SlimFast Meal Replacement Shake, Original Creamy Milk Chocolate, 11 Fl. Oz, 12 Count",
+        "rating": 4.5,
+        "reviews": 423
+      },
+      {
+        "rank": 5,
+        "asin": "B00802FYYW",
+        "title": "Isagenix IsaLean, 24g Protein Shake, Creamy Chocolate, 28.1 oz",
+        "rating": 4.3,
+        "reviews": 2936
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3764441:3774931:6939082011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

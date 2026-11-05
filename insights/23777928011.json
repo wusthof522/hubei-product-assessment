@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23777928011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins, Minerals & Supplements > Herbal Supplements > Ashwagandha",
+  "categoryPathCn": "健康与家居 > 身、泳和附剂 > 草本补充 > 南非醉茄",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 8130996,
+    "avgRevenue": 82131,
+    "medianPrice": 23.99,
+    "priceBand": "$18.49 - $29.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B094T2BZCK",
+      "title": "Goli Ashwagandha &amp; Vitamin D Gummy - 60 Count - Mixed Berry, KSM-66, Vegan, Plant Based, Non-GMO, Gluten-Free &amp; Gelatin Free Relax. Restore. Unwind, Pack of 1",
+      "brand": "Goli",
+      "price": 14.98,
+      "salesParent": 59991,
+      "revenue": 897465.38,
+      "rating": 4.5,
+      "reviews": 63690
+    },
+    {
+      "rank": 2,
+      "asin": "B06ZYHJYD5",
+      "title": "NaturaLife Labs Organic Ashwagandha 2100 mg per Serving – Full Spectrum Root Powder and Standardized Extract (Withanolides) – 100 Capsules – Vegan – Non-GMO, Gluten-Free",
+      "brand": "NaturaLife Labs",
+      "price": 16.95,
+      "salesParent": 31591,
+      "revenue": 505771.91,
+      "rating": 4.5,
+      "reviews": 53065
+    },
+    {
+      "rank": 3,
+      "asin": "B0058HX8WM",
+      "title": "Pure Encapsulations Ashwagandha, 60 Capsules",
+      "brand": "Pure Encapsulations",
+      "price": 29.0,
+      "salesParent": 13159,
+      "revenue": 381611.0,
+      "rating": 4.7,
+      "reviews": 3754
+    },
+    {
+      "rank": 4,
+      "asin": "B079K32QB6",
+      "title": "Nutricost KSM-66 Ashwagandha Root Extract (600mg) 60 Capsules",
+      "brand": "Nutricost",
+      "price": 14.95,
+      "salesParent": 21939,
+      "revenue": 327988.03,
+      "rating": 4.6,
+      "reviews": 4392
+    },
+    {
+      "rank": 5,
+      "asin": "B0G4XN31BL",
+      "title": "Sports Research® Organic Ashwagandha 600mg w/KSM-66®, 90 Count",
+      "brand": "Sports Research",
+      "price": 32.95,
+      "salesParent": 8436,
+      "revenue": 277966.22,
+      "rating": 4.7,
+      "reviews": 1351
+    },
+    {
+      "rank": 6,
+      "asin": "B0002BBATC",
+      "title": "Himalaya USDA Organic Ashwagandha Root, 670 mg, 60 Day Supply, 60 Caplets",
+      "brand": "Himalaya",
+      "price": 22.99,
+      "salesParent": 12326,
+      "revenue": 276348.91,
+      "rating": 4.6,
+      "reviews": 13331
+    },
+    {
+      "rank": 7,
+      "asin": "B0FFQPKH7Z",
+      "title": "THORNE Ashwagandha, Highly Concentrated Shoden Extract, 30 Capsules",
+      "brand": "THORNE",
+      "price": 22.0,
+      "salesParent": 10970,
+      "revenue": 241340.0,
+      "rating": 4.6,
+      "reviews": 713
+    },
+    {
+      "rank": 8,
+      "asin": "B0F4T4X2Y5",
+      "title": "KSM-66 Ashwagandha Root Extract, 600mg, Organic, 120 Capsules",
+      "brand": "Double Wood Supplements",
+      "price": 18.95,
+      "salesParent": 10295,
+      "revenue": 187060.16,
+      "rating": 4.7,
+      "reviews": 886
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -4,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -4,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 8130996,
+    "priorHeadRevenue": 8478233,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 16,
+      "pct": 16,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 34,
+      "brandCount": 75,
+      "level": "分散",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.51,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B094T2BZCK",
+        "title": "Goli Ashwagandha &amp; Vitamin D Gummy - 60 Count - Mixed Berry, KSM-66, Vegan, Plant Based, Non-GMO, Gluten-Free &amp; Gelatin Free Relax. Restore. Unwind, Pack of 1",
+        "rating": 4.5,
+        "reviews": 63690
+      },
+      {
+        "rank": 2,
+        "asin": "B06ZYHJYD5",
+        "title": "NaturaLife Labs Organic Ashwagandha 2100 mg per Serving – Full Spectrum Root Powder and Standardized Extract (Withanolides) – 100 Capsules – Vegan – Non-GMO, Gluten-Free",
+        "rating": 4.5,
+        "reviews": 53065
+      },
+      {
+        "rank": 3,
+        "asin": "B0058HX8WM",
+        "title": "Pure Encapsulations Ashwagandha, 60 Capsules",
+        "rating": 4.7,
+        "reviews": 3754
+      },
+      {
+        "rank": 4,
+        "asin": "B079K32QB6",
+        "title": "Nutricost KSM-66 Ashwagandha Root Extract (600mg) 60 Capsules",
+        "rating": 4.6,
+        "reviews": 4392
+      },
+      {
+        "rank": 5,
+        "asin": "B0G4XN31BL",
+        "title": "Sports Research® Organic Ashwagandha 600mg w/KSM-66®, 90 Count",
+        "rating": 4.7,
+        "reviews": 1351
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:23675621011:3764461:23777928011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

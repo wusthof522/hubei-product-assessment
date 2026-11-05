@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "6925882011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Remote & App Controlled Vehicles & Parts > Remote & App Controlled Vehicle Parts > Vehicle Bodies & Scale Accessories",
+  "categoryPathCn": "玩具 > 遥控 > 遥控 > 车体",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 98,
+    "totalRevenue": 364318,
+    "avgRevenue": 3718,
+    "medianPrice": 57.99,
+    "priceBand": "$32.99 - $111.74",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0HK7V9R9Y",
+      "title": "Bumper with Fog Light Hole fit for 2023+ Peterbilt 579 Semi Truck (Chrome Bumper with Fog Lamp)",
+      "brand": "Hpdmauto",
+      "price": 759.99,
+      "salesParent": 39,
+      "revenue": 29639.61,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "rank": 2,
+      "asin": "B0H5JY9BBL",
+      "title": "bumper assembly, without fog light holes, suitable for 2013-2022 Peterbilt 579 semi truck chrome alloy",
+      "brand": "Hpdmauto",
+      "price": 699.99,
+      "salesParent": 23,
+      "revenue": 16099.77,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "rank": 3,
+      "asin": "B0H4L8PKWY",
+      "title": "KUAFU Front Bumper Comaptible with 2006-Up Peterbilt 386(3Pcs)",
+      "brand": "KUAFU",
+      "price": 550.0,
+      "salesParent": 23,
+      "revenue": 12650.0,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "rank": 4,
+      "asin": "B0HHRYG4F1",
+      "title": "KUAFU Front Bumper Compatible with 2018-Up Freightliner Cascadia",
+      "brand": "KUAFU",
+      "price": 600.0,
+      "salesParent": 21,
+      "revenue": 12600.0,
+      "rating": 4.0,
+      "reviews": 1
+    },
+    {
+      "rank": 5,
+      "asin": "B0H1MNMVR7",
+      "title": "INJORA IR60-10 Hard Body with Interior &amp; Bed Cage for 1/10 RC Crawler, PU",
+      "brand": "INJORA",
+      "price": 93.99,
+      "salesParent": 118,
+      "revenue": 11090.82,
+      "rating": 4.2,
+      "reviews": 53
+    },
+    {
+      "rank": 6,
+      "asin": "B0GRV2TBZH",
+      "title": "INJORA LCG Aluminum Chassis Kit with POM Rock Sliders for Axial SCX30",
+      "brand": "INJORA",
+      "price": 24.99,
+      "salesParent": 386,
+      "revenue": 9646.14,
+      "rating": 4.9,
+      "reviews": 60
+    },
+    {
+      "rank": 7,
+      "asin": "B0H73QCFSN",
+      "title": "Fab Fours JL24-B5152-1 Ghost Stubby Front Winch Bumper w/Guard Jeep JL/JT 2018-2025",
+      "brand": "Fab Fours",
+      "price": 495.64,
+      "salesParent": 19,
+      "revenue": 9454.59,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "rank": 8,
+      "asin": "B0HJCL5YTR",
+      "title": "KUAFU Front Bumper Compatible with 2015-2022 Peterbilt 579 1st Gen",
+      "brand": "KUAFU",
+      "price": 495.0,
+      "salesParent": 17,
+      "revenue": 8415.0,
+      "rating": null,
+      "reviews": null
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 31,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 31,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 364318,
+    "priorHeadRevenue": 277426,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 98,
+      "newCount": 52,
+      "pct": 53,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 60,
+      "brandCount": 39,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.54,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0HK7V9R9Y",
+        "title": "Bumper with Fog Light Hole fit for 2023+ Peterbilt 579 Semi Truck (Chrome Bumper with Fog Lamp)",
+        "rating": null,
+        "reviews": null
+      },
+      {
+        "rank": 2,
+        "asin": "B0H5JY9BBL",
+        "title": "bumper assembly, without fog light holes, suitable for 2013-2022 Peterbilt 579 semi truck chrome alloy",
+        "rating": null,
+        "reviews": null
+      },
+      {
+        "rank": 3,
+        "asin": "B0H4L8PKWY",
+        "title": "KUAFU Front Bumper Comaptible with 2006-Up Peterbilt 386(3Pcs)",
+        "rating": null,
+        "reviews": null
+      },
+      {
+        "rank": 4,
+        "asin": "B0HHRYG4F1",
+        "title": "KUAFU Front Bumper Compatible with 2018-Up Freightliner Cascadia",
+        "rating": 4.0,
+        "reviews": 1
+      },
+      {
+        "rank": 5,
+        "asin": "B0H1MNMVR7",
+        "title": "INJORA IR60-10 Hard Body with Interior &amp; Bed Cage for 1/10 RC Crawler, PU",
+        "rating": 4.2,
+        "reviews": 53
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:6925830011:2234126011:6925882011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

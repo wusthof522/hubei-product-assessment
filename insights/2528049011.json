@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "2528049011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Learning & Education > Electronic Learning Toys > Learning System Cartridges",
+  "categoryPathCn": "玩具 > 学习 > 电子学习玩具 > 学习系统墨盒",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 254869,
+    "avgRevenue": 2574,
+    "medianPrice": 34.83,
+    "priceBand": "$20.54 - $46.14",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0GYCM8G18",
+      "title": "Talking Flash Cards for Toddlers Ages 1-3, 224 Words Montessori Speech Therapy Toys, Autism Sensory Toy, Educational Learning Speech Therapy Birthday Gifts for Boys Girls (Blue)",
+      "brand": "Aullsaty",
+      "price": 9.96,
+      "salesParent": 17882,
+      "revenue": 185615.16,
+      "rating": 4.6,
+      "reviews": 7474
+    },
+    {
+      "rank": 2,
+      "asin": "B0FMGRTW7G",
+      "title": "Flycatcher smART Sketcher 2.0 All Sports Cartridge, 50+ Designs, 5+",
+      "brand": "Flycatcher",
+      "price": 19.99,
+      "salesParent": 748,
+      "revenue": 14952.52,
+      "rating": 4.6,
+      "reviews": 646
+    },
+    {
+      "rank": 3,
+      "asin": "B01M1H9P39",
+      "title": "VTech Touch and Learn Activity Desk Deluxe Expansion Pack for Pre-K",
+      "brand": "VTech",
+      "price": 41.99,
+      "salesParent": 237,
+      "revenue": 9908.97,
+      "rating": 4.7,
+      "reviews": 4916
+    },
+    {
+      "rank": 4,
+      "asin": "B0H8KCXK1B",
+      "title": "900 in 1 Multi-Game Cartridge for SNES 16-Bit Game Console",
+      "brand": "Generic",
+      "price": 59.99,
+      "salesParent": 161,
+      "revenue": 9658.39,
+      "rating": 5.0,
+      "reviews": 4
+    },
+    {
+      "rank": 5,
+      "asin": "B01LXLAFJP",
+      "title": "VTech Touch and Learn Activity Desk 4-in-1 Kindergarten Expansion Pack Bundle for Age 3-5",
+      "brand": "VTech",
+      "price": 35.02,
+      "salesParent": 276,
+      "revenue": 9577.2,
+      "rating": 4.7,
+      "reviews": 1426
+    },
+    {
+      "rank": 6,
+      "asin": "B01DXULVXS",
+      "title": "LeapFrog LeapStart 1st Grade Activity Book: STEM (Science, Technology, Engineering, Math) and Problem Solving",
+      "brand": "LeapFrog",
+      "price": 12.49,
+      "salesParent": 291,
+      "revenue": 3634.59,
+      "rating": 4.7,
+      "reviews": 482
+    },
+    {
+      "rank": 7,
+      "asin": "B0H5NFH295",
+      "title": "Super 64 Plus 340 in 1 Multi Game Cartridge for Nintendo N64",
+      "brand": "Generic",
+      "price": 87.99,
+      "salesParent": 38,
+      "revenue": 3355.78,
+      "rating": 2.6,
+      "reviews": 4
+    },
+    {
+      "rank": 8,
+      "asin": "B01CIHHW26",
+      "title": "VTech Touch and Learn Activity Desk Deluxe Expansion Pack for Preschoolers",
+      "brand": "VTech",
+      "price": 11.99,
+      "salesParent": 239,
+      "revenue": 2865.61,
+      "rating": 4.7,
+      "reviews": 2677
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": null,
+    "direction": "flat",
+    "comparable": false,
+    "rawYoyPct": 268,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 254869,
+    "priorHeadRevenue": 69294,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 27,
+      "pct": 27,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 97,
+      "brandCount": 35,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.18,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0GYCM8G18",
+        "title": "Talking Flash Cards for Toddlers Ages 1-3, 224 Words Montessori Speech Therapy Toys, Autism Sensory Toy, Educational Learning Speech Therapy Birthday Gifts for Boys Girls (Blue)",
+        "rating": 4.6,
+        "reviews": 7474
+      },
+      {
+        "rank": 2,
+        "asin": "B0FMGRTW7G",
+        "title": "Flycatcher smART Sketcher 2.0 All Sports Cartridge, 50+ Designs, 5+",
+        "rating": 4.6,
+        "reviews": 646
+      },
+      {
+        "rank": 3,
+        "asin": "B01M1H9P39",
+        "title": "VTech Touch and Learn Activity Desk Deluxe Expansion Pack for Pre-K",
+        "rating": 4.7,
+        "reviews": 4916
+      },
+      {
+        "rank": 4,
+        "asin": "B0H8KCXK1B",
+        "title": "900 in 1 Multi-Game Cartridge for SNES 16-Bit Game Console",
+        "rating": 5.0,
+        "reviews": 4
+      },
+      {
+        "rank": 5,
+        "asin": "B01LXLAFJP",
+        "title": "VTech Touch and Learn Activity Desk 4-in-1 Kindergarten Expansion Pack Bundle for Age 3-5",
+        "rating": 4.7,
+        "reviews": 1426
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166269011:166177011:2528049011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

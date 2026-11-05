@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "15524340011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Household Supplies > Household Cleaning > Wood Polish & Care",
+  "categoryPathCn": "健康与家居 > 家居用品 > 家庭清洁剂 > 木制抛光和护理",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 5973072,
+    "avgRevenue": 59731,
+    "medianPrice": 19.43,
+    "priceBand": "$12.98 - $29.73",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B074XF6PML",
+      "title": "Method Naturally Derived Wood for Good Daily Cleaner Spray, Almond, 28 FL Oz Mega Value, Pack of 4 (28 x 4, Total 112 Oz)",
+      "brand": "Method",
+      "price": 42.08,
+      "salesParent": 18469,
+      "revenue": 779761.19,
+      "rating": 4.7,
+      "reviews": 7837
+    },
+    {
+      "rank": 2,
+      "asin": "B09C9NWH7F",
+      "title": "The Original Bee's Wax Old World Formula Furniture Polish - 2 Pack",
+      "brand": "The Original Bee's Wax",
+      "price": 34.97,
+      "salesParent": 11266,
+      "revenue": 393972.03,
+      "rating": 4.6,
+      "reviews": 10105
+    },
+    {
+      "rank": 3,
+      "asin": "B09MXDBNNL",
+      "title": "Kate Naturals Mineral Oil for Wood Cutting Board, Food Grade, Odorless, 8oz",
+      "brand": "Kate Naturals",
+      "price": 8.99,
+      "salesParent": 28823,
+      "revenue": 241536.75,
+      "rating": 4.8,
+      "reviews": 7107
+    },
+    {
+      "rank": 4,
+      "asin": "B07PHQCH4C",
+      "title": "Furniture Repair Kit Wood Markers - Set of 13 - Markers and Wax Sticks with Sharpener Kit, for Stains, Scratches, Wood Floors, Tables, Desks, Carpenters, Bedposts, Touch Ups, and Cover Ups",
+      "brand": "DAIXISM",
+      "price": 9.98,
+      "salesParent": 19658,
+      "revenue": 194024.45,
+      "rating": 4.3,
+      "reviews": 23375
+    },
+    {
+      "rank": 5,
+      "asin": "B09C9P65LW",
+      "title": "Thirteen Chefs Mineral Oil - 8 oz Food Grade Conditioner for Wood Cutting Board, Countertop &amp; Butcher Block, Lubricant for Knife or Meat Grinder - Safe USP Finish on Marble, Soapstone",
+      "brand": "Thirteen Chefs",
+      "price": 9.99,
+      "salesParent": 18486,
+      "revenue": 179683.92,
+      "rating": 4.8,
+      "reviews": 44991
+    },
+    {
+      "rank": 6,
+      "asin": "B075FHF7TY",
+      "title": "John Boos 2-Piece All-Natural Care &amp; Maintenance Set",
+      "brand": "John Boos",
+      "price": 25.95,
+      "salesParent": 6643,
+      "revenue": 172385.86,
+      "rating": 4.8,
+      "reviews": 10213
+    },
+    {
+      "rank": 7,
+      "asin": "B000VDUWO0",
+      "title": "Pledge Expert Care Enhancing Furniture Polish, Lemon, 9.7 oz, (1-Pack)",
+      "brand": "Pledge",
+      "price": 4.99,
+      "salesParent": 33474,
+      "revenue": 165026.81,
+      "rating": 4.8,
+      "reviews": 8060
+    },
+    {
+      "rank": 8,
+      "asin": "B08141WSJ1",
+      "title": "Weiman Cabinet and Wood Cleaner, Shine, Clean and Protect Spray - For Wood Cabinets, Furniture, Tables, Baseboards, Trim and more, 16 oz, 2 PACK with MicroFiber Towel",
+      "brand": "Weiman",
+      "price": 21.98,
+      "salesParent": 5642,
+      "revenue": 123052.0,
+      "rating": 4.5,
+      "reviews": 10763
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 33,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 33,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 5973072,
+    "priorHeadRevenue": 4498652,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 13,
+      "pct": 13,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 45,
+      "brandCount": 58,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.58,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B074XF6PML",
+        "title": "Method Naturally Derived Wood for Good Daily Cleaner Spray, Almond, 28 FL Oz Mega Value, Pack of 4 (28 x 4, Total 112 Oz)",
+        "rating": 4.7,
+        "reviews": 7837
+      },
+      {
+        "rank": 2,
+        "asin": "B09C9NWH7F",
+        "title": "The Original Bee's Wax Old World Formula Furniture Polish - 2 Pack",
+        "rating": 4.6,
+        "reviews": 10105
+      },
+      {
+        "rank": 3,
+        "asin": "B09MXDBNNL",
+        "title": "Kate Naturals Mineral Oil for Wood Cutting Board, Food Grade, Odorless, 8oz",
+        "rating": 4.8,
+        "reviews": 7107
+      },
+      {
+        "rank": 4,
+        "asin": "B07PHQCH4C",
+        "title": "Furniture Repair Kit Wood Markers - Set of 13 - Markers and Wax Sticks with Sharpener Kit, for Stains, Scratches, Wood Floors, Tables, Desks, Carpenters, Bedposts, Touch Ups, and Cover Ups",
+        "rating": 4.3,
+        "reviews": 23375
+      },
+      {
+        "rank": 5,
+        "asin": "B09C9P65LW",
+        "title": "Thirteen Chefs Mineral Oil - 8 oz Food Grade Conditioner for Wood Cutting Board, Countertop &amp; Butcher Block, Lubricant for Knife or Meat Grinder - Safe USP Finish on Marble, Soapstone",
+        "rating": 4.8,
+        "reviews": 44991
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:15342811:15342821:15524340011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

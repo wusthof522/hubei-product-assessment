@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "13591416011",
+  "level": "L2",
+  "categoryPathEn": "Automotive > Paint & Paint Supplies",
+  "categoryPathCn": "汽车 > 涂料",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 77,
+    "totalRevenue": 4313257,
+    "avgRevenue": 56016,
+    "medianPrice": 38.99,
+    "priceBand": "$15.99 - $80.5",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0082LJMC6",
+      "title": "SprayMax 2K Glamour High Gloss Clear Coat | 2K Automotive Clear Coat Spray Paint | High Gloss Finishing Spray | UV-Resistant, Scratch &amp; Gasoline Resistant | Professional Grade 11.8 oz",
+      "brand": "SprayMax",
+      "price": 28.98,
+      "salesParent": 8172,
+      "revenue": 231594.48,
+      "rating": 4.6,
+      "reviews": 18115
+    },
+    {
+      "rank": 2,
+      "asin": "B099KN8Z22",
+      "title": "Adam's Polishes Advanced Graphene Ceramic Coating - 10H Graphene Coating for Auto Detailing, 9+ Years of Car Protection &amp; Patented UV Technology",
+      "brand": "Adam's Polishes",
+      "price": 124.94,
+      "salesParent": 1687,
+      "revenue": 212629.48,
+      "rating": 4.4,
+      "reviews": 842
+    },
+    {
+      "rank": 3,
+      "asin": "B00407NK6A",
+      "title": "Dupli-Color Perfect Match Premium Automotive Paint, Clear, 8 oz",
+      "brand": "Dupli-Color",
+      "price": 13.79,
+      "salesParent": 14637,
+      "revenue": 193208.39,
+      "rating": 4.2,
+      "reviews": 42048
+    },
+    {
+      "rank": 4,
+      "asin": "B01MR96I32",
+      "title": "SHERWIN WILLIAMS Finish 1 Automotive Refinish Ultimate Overall Clearcoat (FC720), 1 Gallon | Medium Universal Hardener (FH612), 1 Quart Included",
+      "brand": "SHERWIN WILLIAMS",
+      "price": 104.89,
+      "salesParent": 1835,
+      "revenue": 191757.5,
+      "rating": 4.7,
+      "reviews": 1818
+    },
+    {
+      "rank": 5,
+      "asin": "B07C4JRDY1",
+      "title": "Gtechniq Crystal Serum Light Ceramic Coating for Cars, 1.7 fl oz",
+      "brand": "Gtechniq",
+      "price": 106.01,
+      "salesParent": 1739,
+      "revenue": 186768.61,
+      "rating": 4.6,
+      "reviews": 1036
+    },
+    {
+      "rank": 6,
+      "asin": "B00H2VVQNU",
+      "title": "POR-15 Rust Preventive Coating — Non-Porous Protective Barrier, 32 fl oz, Semi-Gloss Black",
+      "brand": "POR-15",
+      "price": 72.0,
+      "salesParent": 1824,
+      "revenue": 131291.53,
+      "rating": 4.7,
+      "reviews": 11992
+    },
+    {
+      "rank": 7,
+      "asin": "B09KTK4KB4",
+      "title": "Adam's Polishes Advanced Graphene Ceramic Spray Coating - 18+ Months Sprayable Graphene Oxide Ceramic Coating for Cars, Boats, RV's &amp; Motorcycle | Adds Extreme Gloss, Depth, Shine &amp; Protection",
+      "brand": "Adam's Polishes",
+      "price": 48.44,
+      "salesParent": 2283,
+      "revenue": 114355.47,
+      "rating": 4.5,
+      "reviews": 2385
+    },
+    {
+      "rank": 8,
+      "asin": "B09WJWP2V8",
+      "title": "cocomfix Gloss Black Rim Touch Up Paint, Wheel Scratch Repair Pen, 1 fl oz",
+      "brand": "cocomfix",
+      "price": 9.99,
+      "salesParent": 9733,
+      "revenue": 110470.0,
+      "rating": 4.2,
+      "reviews": 1673
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -20,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -20,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 4313257,
+    "priorHeadRevenue": 5407946,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 77,
+      "newCount": 15,
+      "pct": 19,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 35,
+      "brandCount": 45,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.47,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0082LJMC6",
+        "title": "SprayMax 2K Glamour High Gloss Clear Coat | 2K Automotive Clear Coat Spray Paint | High Gloss Finishing Spray | UV-Resistant, Scratch &amp; Gasoline Resistant | Professional Grade 11.8 oz",
+        "rating": 4.6,
+        "reviews": 18115
+      },
+      {
+        "rank": 2,
+        "asin": "B099KN8Z22",
+        "title": "Adam's Polishes Advanced Graphene Ceramic Coating - 10H Graphene Coating for Auto Detailing, 9+ Years of Car Protection &amp; Patented UV Technology",
+        "rating": 4.4,
+        "reviews": 842
+      },
+      {
+        "rank": 3,
+        "asin": "B00407NK6A",
+        "title": "Dupli-Color Perfect Match Premium Automotive Paint, Clear, 8 oz",
+        "rating": 4.2,
+        "reviews": 42048
+      },
+      {
+        "rank": 4,
+        "asin": "B01MR96I32",
+        "title": "SHERWIN WILLIAMS Finish 1 Automotive Refinish Ultimate Overall Clearcoat (FC720), 1 Gallon | Medium Universal Hardener (FH612), 1 Quart Included",
+        "rating": 4.7,
+        "reviews": 1818
+      },
+      {
+        "rank": 5,
+        "asin": "B07C4JRDY1",
+        "title": "Gtechniq Crystal Serum Light Ceramic Coating for Cars, 1.7 fl oz",
+        "rating": 4.6,
+        "reviews": 1036
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "15684181:13591416011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

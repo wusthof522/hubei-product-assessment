@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "2975504011",
+  "level": "L2",
+  "categoryPathEn": "Pet Supplies > Reptiles & Amphibians",
+  "categoryPathCn": "宠物用品 > 两栖动物用品",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 96,
+    "totalRevenue": 5675792,
+    "avgRevenue": 59123,
+    "medianPrice": 32.73,
+    "priceBand": "$15.95 - $144.98",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0G4X9MGB7",
+      "title": "Tetra ReptoMin Floating Food Sticks for Aquatic Turtles, 2 lbs",
+      "brand": "Tetra",
+      "price": 34.2,
+      "salesParent": 8732,
+      "revenue": 285187.12,
+      "rating": 4.8,
+      "reviews": 21839
+    },
+    {
+      "rank": 2,
+      "asin": "B08HRT8LRS",
+      "title": "New Age Pet® ECOFLEX® 48&quot; Mojave Reptile Enclosure, Large, Maple",
+      "brand": "New Age Pet",
+      "price": 244.72,
+      "salesParent": 1166,
+      "revenue": 265894.62,
+      "rating": 4.2,
+      "reviews": 1869
+    },
+    {
+      "rank": 3,
+      "asin": "B0CXXS86YM",
+      "title": "120 Gallon Reptile Tank, Stackable 4x2x2 Reptile Enclosure",
+      "brand": "Phailozoo",
+      "price": 359.99,
+      "salesParent": 545,
+      "revenue": 196194.55,
+      "rating": 4.6,
+      "reviews": 540
+    },
+    {
+      "rank": 4,
+      "asin": "B0H16MRFL9",
+      "title": "Jurassic Natural Australian Desert Dragon Habitat Substrate, Red, 10lb (Pack of 4)",
+      "brand": "JurassicNatural",
+      "price": 129.96,
+      "salesParent": 1426,
+      "revenue": 185322.97,
+      "rating": 4.8,
+      "reviews": 2155
+    },
+    {
+      "rank": 5,
+      "asin": "B096JWWQMC",
+      "title": "LUCKY HERP 150W Ceramic Heat Emitter, Reptile Heat Bulbs, Ceramic Heat Lamp for Reptiles, Amphibian, Chicken, Dog, Cat (2-Pack)",
+      "brand": "LUCKY HERP",
+      "price": 15.99,
+      "salesParent": 9810,
+      "revenue": 157450.5,
+      "rating": 4.6,
+      "reviews": 2641
+    },
+    {
+      "rank": 6,
+      "asin": "B0HJ54CHWH",
+      "title": "BN-LINK Reptile Heat Pad 8&quot;X12&quot; 16W for 30-40gal Under Tank Terrarium Heating Mat Waterproof for Turtle, Lizard, Frogs, Snake, Hermit Crab 2 Pack",
+      "brand": "BN-LINK",
+      "price": 27.99,
+      "salesParent": 5171,
+      "revenue": 154406.06,
+      "rating": 1.0,
+      "reviews": 1
+    },
+    {
+      "rank": 7,
+      "asin": "B0F7X4MTXX",
+      "title": "unipaws 110 Gallon Reptile Tank for Lizards, Bearded Dragon Enclosure Cage",
+      "brand": "unipaws",
+      "price": 199.99,
+      "salesParent": 635,
+      "revenue": 126993.66,
+      "rating": 4.4,
+      "reviews": 169
+    },
+    {
+      "rank": 8,
+      "asin": "B0B5W8GMPB",
+      "title": "REPTI ZOO 2 Pack Heat Lamp 100W, Intense Basking Spot Simulated Natural Sunlight Heating Lamp Bulb, Heat Emitter UVA Heat Lamp Bulb for Reptile Chickens Pet Brooder",
+      "brand": "REPTI ZOO",
+      "price": 17.99,
+      "salesParent": 6761,
+      "revenue": 121630.39,
+      "rating": 4.4,
+      "reviews": 1134
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 28,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 28,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 5675792,
+    "priorHeadRevenue": 4426759,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 96,
+      "newCount": 24,
+      "pct": 25,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 29,
+      "brandCount": 56,
+      "level": "分散",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.42,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0G4X9MGB7",
+        "title": "Tetra ReptoMin Floating Food Sticks for Aquatic Turtles, 2 lbs",
+        "rating": 4.8,
+        "reviews": 21839
+      },
+      {
+        "rank": 2,
+        "asin": "B08HRT8LRS",
+        "title": "New Age Pet® ECOFLEX® 48&quot; Mojave Reptile Enclosure, Large, Maple",
+        "rating": 4.2,
+        "reviews": 1869
+      },
+      {
+        "rank": 3,
+        "asin": "B0CXXS86YM",
+        "title": "120 Gallon Reptile Tank, Stackable 4x2x2 Reptile Enclosure",
+        "rating": 4.6,
+        "reviews": 540
+      },
+      {
+        "rank": 4,
+        "asin": "B0H16MRFL9",
+        "title": "Jurassic Natural Australian Desert Dragon Habitat Substrate, Red, 10lb (Pack of 4)",
+        "rating": 4.8,
+        "reviews": 2155
+      },
+      {
+        "rank": 5,
+        "asin": "B096JWWQMC",
+        "title": "LUCKY HERP 150W Ceramic Heat Emitter, Reptile Heat Bulbs, Ceramic Heat Lamp for Reptiles, Amphibian, Chicken, Dog, Cat (2-Pack)",
+        "rating": 4.6,
+        "reviews": 2641
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "2619533011:2975504011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

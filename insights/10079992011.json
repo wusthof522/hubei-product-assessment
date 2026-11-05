@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "10079992011",
+  "level": "L2",
+  "categoryPathEn": "Health & Household > Oral Care",
+  "categoryPathCn": "健康与家居 > 口腔护理",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 90,
+    "totalRevenue": 143021998,
+    "avgRevenue": 1589133,
+    "medianPrice": 28.97,
+    "priceBand": "$15.66 - $69.97",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B00AHAWWO0",
+      "title": "Crest Teeth Whitening Strips, Crest 3D Whitestrips Professional Effects, Enamel Safe Teeth Whitening Kit, 22 Treatments (44 Strips), Professional-Level Whitening, 19 Levels Whiter",
+      "brand": "Crest",
+      "price": 34.99,
+      "salesParent": 162998,
+      "revenue": 6798646.5,
+      "rating": 4.6,
+      "reviews": 107227
+    },
+    {
+      "rank": 2,
+      "asin": "B0GQWSKBLD",
+      "title": "Philips Sonicare 5950 Rechargeable Electric Toothbrush, 2 Brush Head, Black",
+      "brand": "Philips Sonicare",
+      "price": 109.99,
+      "salesParent": 54149,
+      "revenue": 5955848.5,
+      "rating": 4.4,
+      "reviews": 1953
+    },
+    {
+      "rank": 3,
+      "asin": "B00HFQQ0VU",
+      "title": "Waterpik Aquarius Countertop Water Flosser with 10 Settings, 7 Tips, White",
+      "brand": "Waterpik",
+      "price": 99.47,
+      "salesParent": 69841,
+      "revenue": 5570518.5,
+      "rating": 4.6,
+      "reviews": 158814
+    },
+    {
+      "rank": 4,
+      "asin": "B0FQ6GG1VC",
+      "title": "Colgate Extra Clean Toothbrush, Soft Toothbrush for Adults",
+      "brand": "Colgate",
+      "price": 52.0,
+      "salesParent": 81770,
+      "revenue": 4517792.5,
+      "rating": 4.6,
+      "reviews": 69333
+    },
+    {
+      "rank": 5,
+      "asin": "B01GNVF8S8",
+      "title": "Waterpik Cordless Advanced Portable Water Flosser, Rechargeable, White",
+      "brand": "Waterpik",
+      "price": 99.99,
+      "salesParent": 47301,
+      "revenue": 4315270.5,
+      "rating": 4.2,
+      "reviews": 78730
+    },
+    {
+      "rank": 6,
+      "asin": "B0FPSRZZJS",
+      "title": "Bundle of TheraBreath Healthy Gums Toothpaste, 4 Oz, (2-Pack) + TheraBreath ICY Mint Mouthwash, Alcohol-Free, 16 oz (Pack of 2)",
+      "brand": "TheraBreath",
+      "price": 28.94,
+      "salesParent": 132700,
+      "revenue": 3840338.0,
+      "rating": 4.8,
+      "reviews": 27
+    },
+    {
+      "rank": 7,
+      "asin": "B01AKGRTUM",
+      "title": "Oral-B Pro 1000 Rechargeable Electric Toothbrush, Black",
+      "brand": "Oral-B",
+      "price": 47.94,
+      "salesParent": 72519,
+      "revenue": 3601293.5,
+      "rating": 4.5,
+      "reviews": 165718
+    },
+    {
+      "rank": 8,
+      "asin": "B083JHCCV2",
+      "title": "Boka Toothpaste - Nano Hydroxyapatite Toothpaste, Fluoride Free Toothpaste",
+      "brand": "Boka",
+      "price": 11.62,
+      "salesParent": 278314,
+      "revenue": 3186695.25,
+      "rating": 4.5,
+      "reviews": 58681
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 6,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 6,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 143021998,
+    "priorHeadRevenue": 134379739,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 90,
+      "newCount": 18,
+      "pct": 20,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 58,
+      "brandCount": 35,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.54,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B00AHAWWO0",
+        "title": "Crest Teeth Whitening Strips, Crest 3D Whitestrips Professional Effects, Enamel Safe Teeth Whitening Kit, 22 Treatments (44 Strips), Professional-Level Whitening, 19 Levels Whiter",
+        "rating": 4.6,
+        "reviews": 107227
+      },
+      {
+        "rank": 2,
+        "asin": "B0GQWSKBLD",
+        "title": "Philips Sonicare 5950 Rechargeable Electric Toothbrush, 2 Brush Head, Black",
+        "rating": 4.4,
+        "reviews": 1953
+      },
+      {
+        "rank": 3,
+        "asin": "B00HFQQ0VU",
+        "title": "Waterpik Aquarius Countertop Water Flosser with 10 Settings, 7 Tips, White",
+        "rating": 4.6,
+        "reviews": 158814
+      },
+      {
+        "rank": 4,
+        "asin": "B0FQ6GG1VC",
+        "title": "Colgate Extra Clean Toothbrush, Soft Toothbrush for Adults",
+        "rating": 4.6,
+        "reviews": 69333
+      },
+      {
+        "rank": 5,
+        "asin": "B01GNVF8S8",
+        "title": "Waterpik Cordless Advanced Portable Water Flosser, Rechargeable, White",
+        "rating": 4.2,
+        "reviews": 78730
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:10079992011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

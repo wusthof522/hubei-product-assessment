@@ -1,0 +1,180 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "15719731",
+  "level": "L2",
+  "categoryPathEn": "Automotive > Replacement Parts",
+  "categoryPathCn": "汽车 > 替换零件",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "insufficient",
+  "marketSize": {
+    "sampleCount": 7,
+    "totalRevenue": 8634896,
+    "avgRevenue": 1233557,
+    "medianPrice": 183.25,
+    "priceBand": "$39.23 - $707.95",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0DXW2FP8Y",
+      "title": "Rain-X 810363 Repellency Water Repellent Wiper Blades, 22&quot; &amp; 22&quot; (2 Pack)",
+      "brand": "Rain-X",
+      "price": 39.23,
+      "salesParent": 52299,
+      "revenue": 2028678.25,
+      "rating": 4.4,
+      "reviews": 120732
+    },
+    {
+      "rank": 2,
+      "asin": "B08233BS4Q",
+      "title": "Detroit Axle - Brake Kit for Chevy GMC Silverado Sierra 1500 Tahoe Yukon XL",
+      "brand": "Detroit Axle",
+      "price": 286.48,
+      "salesParent": 5634,
+      "revenue": 1614028.38,
+      "rating": 4.4,
+      "reviews": 30649
+    },
+    {
+      "rank": 3,
+      "asin": "B0F5Q9K92G",
+      "title": "TRQ Front Brake Pad &amp; Rotor Kit Semi-Metallic",
+      "brand": "TRQ",
+      "price": 707.95,
+      "salesParent": 1968,
+      "revenue": 1393245.62,
+      "rating": 4.5,
+      "reviews": 229
+    },
+    {
+      "rank": 4,
+      "asin": "B0CP2P7VVY",
+      "title": "CP4 to DCR Pump Conversion for 2011+ Ford 6.7L",
+      "brand": "S&amp;S Diesel Motorsport",
+      "price": 2400.0,
+      "salesParent": 441,
+      "revenue": 1058400.0,
+      "rating": 4.7,
+      "reviews": 216
+    },
+    {
+      "rank": 5,
+      "asin": "B084CVBJDF",
+      "title": "Rain-X 820149 WeatherBeater Wiper Blades, 22&quot; Windshield Wipers (Pack of 2), Automotive Replacement Windshield Wiper Blades That Meet Or Exceed OEM Quality And Durability",
+      "brand": "Rain-X",
+      "price": 27.65,
+      "salesParent": 35358,
+      "revenue": 957848.25,
+      "rating": 4.3,
+      "reviews": 21429
+    },
+    {
+      "rank": 6,
+      "asin": "B07Q2YLZ2N",
+      "title": "Detroit Axle - Brake Kit for 2006-2018 Toyota Rav4",
+      "brand": "Detroit Axle",
+      "price": 183.25,
+      "salesParent": 4356,
+      "revenue": 792400.0,
+      "rating": 4.4,
+      "reviews": 18988
+    },
+    {
+      "rank": 7,
+      "asin": "B0751CBXBT",
+      "title": "KILMAT 80 mil 36 sqft Car Sound Deadening Mat, Butyl Automotive Sound Deadener, Audio Noise Insulation and dampening",
+      "brand": "KILMAT",
+      "price": 69.95,
+      "salesParent": 11298,
+      "revenue": 790295.06,
+      "rating": 4.8,
+      "reviews": 26828
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": null,
+    "direction": "flat",
+    "comparable": null,
+    "rawYoyPct": -69,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 8634896,
+    "priorHeadRevenue": 28128301,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 7,
+      "newCount": 2,
+      "pct": 29,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 100,
+      "brandCount": 5,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.5,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0DXW2FP8Y",
+        "title": "Rain-X 810363 Repellency Water Repellent Wiper Blades, 22&quot; &amp; 22&quot; (2 Pack)",
+        "rating": 4.4,
+        "reviews": 120732
+      },
+      {
+        "rank": 2,
+        "asin": "B08233BS4Q",
+        "title": "Detroit Axle - Brake Kit for Chevy GMC Silverado Sierra 1500 Tahoe Yukon XL",
+        "rating": 4.4,
+        "reviews": 30649
+      },
+      {
+        "rank": 3,
+        "asin": "B0F5Q9K92G",
+        "title": "TRQ Front Brake Pad &amp; Rotor Kit Semi-Metallic",
+        "rating": 4.5,
+        "reviews": 229
+      },
+      {
+        "rank": 4,
+        "asin": "B0CP2P7VVY",
+        "title": "CP4 to DCR Pump Conversion for 2011+ Ford 6.7L",
+        "rating": 4.7,
+        "reviews": 216
+      },
+      {
+        "rank": 5,
+        "asin": "B084CVBJDF",
+        "title": "Rain-X 820149 WeatherBeater Wiper Blades, 22&quot; Windshield Wipers (Pack of 2), Automotive Replacement Windshield Wiper Blades That Meet Or Exceed OEM Quality And Durability",
+        "rating": 4.3,
+        "reviews": 21429
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "15684181:15719731",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

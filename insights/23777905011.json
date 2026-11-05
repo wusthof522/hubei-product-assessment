@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23777905011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins, Minerals & Supplements > Herbal Supplements > Karela",
+  "categoryPathCn": "健康与家居 > 身、泳和附剂 > 草本补充 > 卡雷拉",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "insufficient",
+  "marketSize": {
+    "sampleCount": 18,
+    "totalRevenue": 121545,
+    "avgRevenue": 6752,
+    "medianPrice": 18.57,
+    "priceBand": "$9.98 - $27.45",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0002BBAV0",
+      "title": "Himalaya USDA Organic Bitter Melon Capsules, 660 mg, 60 Caplets",
+      "brand": "Himalaya",
+      "price": 18.49,
+      "salesParent": 3298,
+      "revenue": 60980.02,
+      "rating": 4.4,
+      "reviews": 6698
+    },
+    {
+      "rank": 2,
+      "asin": "B08L9ZLQRD",
+      "title": "Carlyle Bitter Melon Complex | 200 Capsules",
+      "brand": "Carlyle",
+      "price": 11.99,
+      "salesParent": 2163,
+      "revenue": 25891.11,
+      "rating": 4.5,
+      "reviews": 3768
+    },
+    {
+      "rank": 3,
+      "asin": "B0HBK63343",
+      "title": "Liver Drink Cleanse Detox &amp; Repair, Organic Milk Thistle Liver Detox Supplement, Daily Energy Drink with Turmeric, Dandelion, Ginger, Artichoke, Karela, Supports Liver Health &amp; Digestion, 21 Packs",
+      "brand": "Wiltormin",
+      "price": 39.99,
+      "salesParent": 289,
+      "revenue": 11164.07,
+      "rating": 5.0,
+      "reviews": 12
+    },
+    {
+      "rank": 4,
+      "asin": "B0HBJXQZDJ",
+      "title": "Liver Drink Cleanse Detox &amp; Repair, Organic Milk Thistle Liver Detox Supplement, Daily Energy Drink with Turmeric, Dandelion, Ginger, Artichoke, Karela, Supports Liver Health &amp; Digestion, 16 Packs",
+      "brand": "Wiltormin",
+      "price": 19.99,
+      "salesParent": 289,
+      "revenue": 8745.14,
+      "rating": 4.1,
+      "reviews": 8
+    },
+    {
+      "rank": 5,
+      "asin": "B0B3W42BLS",
+      "title": "Secrets of the Tribe Bitter Melon USDA Organic | Alcohol-Free Liquid Extract for Energy&amp;Digestive Support | Momordica Charantia Dried Fruit, Antioxidant Vegan Drops (4 fl oz)",
+      "brand": "Secrets of the Tribe",
+      "price": 35.99,
+      "salesParent": 188,
+      "revenue": 6766.12,
+      "rating": 4.4,
+      "reviews": 403
+    },
+    {
+      "rank": 6,
+      "asin": "B01LXD2F9G",
+      "title": "BASIC AYURVEDA Bitter Gourd (Karela) Juice (Pack of 2) | 16.23 Fl Oz (480ml) |",
+      "brand": "BASIC AYURVEDA",
+      "price": 21.95,
+      "salesParent": 147,
+      "revenue": 2688.63,
+      "rating": 4.2,
+      "reviews": 278
+    },
+    {
+      "rank": 7,
+      "asin": "B00VMK5AU2",
+      "title": "Basic Ayurveda Bitter Gourd (Karela) Juice | 16.23 Fl Oz (480ml) | Natural Bitter Melon Juice for Detox Support | Plant Based Ayurvedic Herbal Drink | for Liver Health, Digestion &amp; Immunity",
+      "brand": "BASIC AYURVEDA",
+      "price": 9.99,
+      "salesParent": 101,
+      "revenue": 1008.99,
+      "rating": 4.2,
+      "reviews": 97
+    },
+    {
+      "rank": 8,
+      "asin": "B005J222V4",
+      "title": "BASIC AYURVEDA Bitter Gourd (Karela) Juice | 16.23 Fl Oz (480ml) | Natural Bitter Melon Juice for Detox Support | Plant Based Ayurvedic Herbal Drink | for Liver Health, Digestion &amp; Immunity",
+      "brand": "BASIC AYURVEDA",
+      "price": 9.98,
+      "salesParent": 101,
+      "revenue": 1007.98,
+      "rating": 4.4,
+      "reviews": 486
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": null,
+    "direction": "flat",
+    "comparable": null,
+    "rawYoyPct": 121,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 121545,
+    "priorHeadRevenue": 54882,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 18,
+      "newCount": 5,
+      "pct": 28,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 98,
+      "brandCount": 13,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.39,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0002BBAV0",
+        "title": "Himalaya USDA Organic Bitter Melon Capsules, 660 mg, 60 Caplets",
+        "rating": 4.4,
+        "reviews": 6698
+      },
+      {
+        "rank": 2,
+        "asin": "B08L9ZLQRD",
+        "title": "Carlyle Bitter Melon Complex | 200 Capsules",
+        "rating": 4.5,
+        "reviews": 3768
+      },
+      {
+        "rank": 3,
+        "asin": "B0HBK63343",
+        "title": "Liver Drink Cleanse Detox &amp; Repair, Organic Milk Thistle Liver Detox Supplement, Daily Energy Drink with Turmeric, Dandelion, Ginger, Artichoke, Karela, Supports Liver Health &amp; Digestion, 21 Packs",
+        "rating": 5.0,
+        "reviews": 12
+      },
+      {
+        "rank": 4,
+        "asin": "B0HBJXQZDJ",
+        "title": "Liver Drink Cleanse Detox &amp; Repair, Organic Milk Thistle Liver Detox Supplement, Daily Energy Drink with Turmeric, Dandelion, Ginger, Artichoke, Karela, Supports Liver Health &amp; Digestion, 16 Packs",
+        "rating": 4.1,
+        "reviews": 8
+      },
+      {
+        "rank": 5,
+        "asin": "B0B3W42BLS",
+        "title": "Secrets of the Tribe Bitter Melon USDA Organic | Alcohol-Free Liquid Extract for Energy&amp;Digestive Support | Momordica Charantia Dried Fruit, Antioxidant Vegan Drops (4 fl oz)",
+        "rating": 4.4,
+        "reviews": 403
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:23675621011:3764461:23777905011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

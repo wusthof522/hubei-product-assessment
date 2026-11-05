@@ -1,0 +1,26 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "214324811011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Health Care > Over-the-Counter Medication > Erectile Dysfunction Treatment",
+  "categoryPathCn": "Health & Household > Health Care > Over-the-Counter Medication > Erectile Dysfunction Treatment",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "empty",
+  "marketSize": {
+    "sampleCount": 0
+  },
+  "topProducts": [],
+  "trend": {
+    "yoyPct": null,
+    "direction": "flat"
+  },
+  "competition": {},
+  "voc": {
+    "avgRating": null,
+    "top5": [],
+    "painPoints": []
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "166079011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Arts & Crafts > Drawing & Painting Supplies > Crayons",
+  "categoryPathCn": "玩具 > 艺术 > 绘图 > 蜡笔小新",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 3141519,
+    "avgRevenue": 31415,
+    "medianPrice": 16.99,
+    "priceBand": "$12.6 - $28.49",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B00Y4QBJAQ",
+      "title": "Crayola Crayons Bulk (24 Packs), Teacher Classroom Must Haves &amp; Essentials",
+      "brand": "Crayola",
+      "price": 21.88,
+      "salesParent": 15995,
+      "revenue": 298306.75,
+      "rating": 4.8,
+      "reviews": 7872
+    },
+    {
+      "rank": 2,
+      "asin": "B07D4T2XKB",
+      "title": "Crayola Mini Twistables Crayons for Kids 50ct, Holiday Gift for Kids, 3+",
+      "brand": "Crayola",
+      "price": 13.83,
+      "salesParent": 19549,
+      "revenue": 270167.19,
+      "rating": 4.7,
+      "reviews": 51095
+    },
+    {
+      "rank": 3,
+      "asin": "B0FCLBLN6Y",
+      "title": "Jar Melo Jumbo Crayons for Toddlers, 12 Colors TwistJoy Washable Crayon",
+      "brand": "Jar Melo",
+      "price": 21.99,
+      "salesParent": 6470,
+      "revenue": 139752.0,
+      "rating": 4.6,
+      "reviews": 1081
+    },
+    {
+      "rank": 4,
+      "asin": "B097QVRBYV",
+      "title": "Madisi Crayons Bulk Pack, Regular Size, 4 Colors, 250 Packs, 1000 Count",
+      "brand": "Madisi",
+      "price": 39.99,
+      "salesParent": 3258,
+      "revenue": 130287.42,
+      "rating": 4.8,
+      "reviews": 707
+    },
+    {
+      "rank": 5,
+      "asin": "B01GSY9MD2",
+      "title": "Honeysticks 100% Pure Beeswax Crayons (12 Pack) - for Baby 1+, Toddlers 1-3",
+      "brand": "Honeysticks",
+      "price": 22.95,
+      "salesParent": 5038,
+      "revenue": 115622.1,
+      "rating": 4.5,
+      "reviews": 17986
+    },
+    {
+      "rank": 6,
+      "asin": "B0BZ9R1WHQ",
+      "title": "CrayonKing 100 Bulk Crayons, 25 Individually Wrapped 4-Packs",
+      "brand": "CrayonKing",
+      "price": 12.49,
+      "salesParent": 10425,
+      "revenue": 114049.49,
+      "rating": 4.8,
+      "reviews": 8045
+    },
+    {
+      "rank": 7,
+      "asin": "B00TFWOS8Y",
+      "title": "Crayola Inspiration Art Case Tie-Dye Coloring Set 140ct, Kids Holiday Gift",
+      "brand": "Crayola",
+      "price": 29.99,
+      "salesParent": 4183,
+      "revenue": 111644.27,
+      "rating": 4.8,
+      "reviews": 18553
+    },
+    {
+      "rank": 8,
+      "asin": "B00006IBPK",
+      "title": "Crayola Crayon Classpack, Teacher Classroom Must Haves, Bulk Back to School Supplies, Elementary &amp; Kindergarten Wishlist, 16 Colors (50 Each), 800 Ct",
+      "brand": "Crayola",
+      "price": 64.99,
+      "salesParent": 1402,
+      "revenue": 91115.98,
+      "rating": 4.8,
+      "reviews": 1811
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 4,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 4,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 3141519,
+    "priorHeadRevenue": 3033263,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 22,
+      "pct": 22,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 69,
+      "brandCount": 42,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.6,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B00Y4QBJAQ",
+        "title": "Crayola Crayons Bulk (24 Packs), Teacher Classroom Must Haves &amp; Essentials",
+        "rating": 4.8,
+        "reviews": 7872
+      },
+      {
+        "rank": 2,
+        "asin": "B07D4T2XKB",
+        "title": "Crayola Mini Twistables Crayons for Kids 50ct, Holiday Gift for Kids, 3+",
+        "rating": 4.7,
+        "reviews": 51095
+      },
+      {
+        "rank": 3,
+        "asin": "B0FCLBLN6Y",
+        "title": "Jar Melo Jumbo Crayons for Toddlers, 12 Colors TwistJoy Washable Crayon",
+        "rating": 4.6,
+        "reviews": 1081
+      },
+      {
+        "rank": 4,
+        "asin": "B097QVRBYV",
+        "title": "Madisi Crayons Bulk Pack, Regular Size, 4 Colors, 250 Packs, 1000 Count",
+        "rating": 4.8,
+        "reviews": 707
+      },
+      {
+        "rank": 5,
+        "asin": "B01GSY9MD2",
+        "title": "Honeysticks 100% Pure Beeswax Crayons (12 Pack) - for Baby 1+, Toddlers 1-3",
+        "rating": 4.5,
+        "reviews": 17986
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166057011:2488275011:166079011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

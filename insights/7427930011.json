@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "7427930011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Sports & Outdoor Play > Play Sets & Playground Equipment > Freestanding Slides",
+  "categoryPathCn": "玩具 > 体育 > 游戏套装 > 独立式滑轨",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 93,
+    "totalRevenue": 2491771,
+    "avgRevenue": 26793,
+    "medianPrice": 134.99,
+    "priceBand": "$87.47 - $181.5",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B008MH5H4M",
+      "title": "Little Tikes First Slide for Kids, Easy Set Up for Indoor Outdoor, Easy to Store, for Toddlers Ages 18 Months - 6 years",
+      "brand": "Little Tikes",
+      "price": 34.49,
+      "salesParent": 4147,
+      "revenue": 140666.23,
+      "rating": 4.7,
+      "reviews": 67825
+    },
+    {
+      "rank": 2,
+      "asin": "B01ELNLKPA",
+      "title": "Little Tikes First Slide (Blue/Green)",
+      "brand": "Little Tikes",
+      "price": 34.49,
+      "salesParent": 3523,
+      "revenue": 121155.97,
+      "rating": 4.8,
+      "reviews": 1678
+    },
+    {
+      "rank": 3,
+      "asin": "B0CBJYHDLG",
+      "title": "XJD 8 in 1 Toddler Slide Set, Kids Slide for Toddlers Age 1-3",
+      "brand": "XJD",
+      "price": 169.99,
+      "salesParent": 453,
+      "revenue": 78636.27,
+      "rating": 4.6,
+      "reviews": 475
+    },
+    {
+      "rank": 4,
+      "asin": "B0G7XXF376",
+      "title": "8 in 1 Toddler Slide Set, Kids Slide for Toddlers, Toddler Climber Slide PlaySet with Basketball Hoop,Outdoor Indoor Playground for Toddlers Upgraded",
+      "brand": "MOCUTEEN",
+      "price": 199.99,
+      "salesParent": 526,
+      "revenue": 73818.84,
+      "rating": 4.3,
+      "reviews": 494
+    },
+    {
+      "rank": 5,
+      "asin": "B0CT56TQN2",
+      "title": "XJD 5 in 1 Toddler Slide, Kids Slide for Toddlers Age 1-3",
+      "brand": "XJD",
+      "price": 129.99,
+      "salesParent": 511,
+      "revenue": 65786.14,
+      "rating": 4.5,
+      "reviews": 401
+    },
+    {
+      "rank": 6,
+      "asin": "B0DHGNJVGF",
+      "title": "6 in 1 Toddler Slide,Kids Climber Slider for Indoor Outdoor Playground with Basketball Hoop,Storage and Telescope,L Shaped Slide for Toddler Climber Playset",
+      "brand": "LulliSpace",
+      "price": 89.99,
+      "salesParent": 692,
+      "revenue": 55609.12,
+      "rating": 4.3,
+      "reviews": 718
+    },
+    {
+      "rank": 7,
+      "asin": "B0FLPY1FFL",
+      "title": "6 in 1 Toddler Slide for Toddlers Aged 1-3 Indoor Playset Blue",
+      "brand": "BIERUM",
+      "price": 89.99,
+      "salesParent": 646,
+      "revenue": 55536.62,
+      "rating": 4.6,
+      "reviews": 447
+    },
+    {
+      "rank": 8,
+      "asin": "B0DCJKKB8R",
+      "title": "NYEEKOY 9 in 1 Toddler Slide and Outdoor Playset, Toddler Playground",
+      "brand": "Nyeekoy",
+      "price": 179.99,
+      "salesParent": 310,
+      "revenue": 54088.8,
+      "rating": 4.6,
+      "reviews": 263
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -7,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -7,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 2491771,
+    "priorHeadRevenue": 2681369,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 93,
+      "newCount": 40,
+      "pct": 43,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 56,
+      "brandCount": 35,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.51,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B008MH5H4M",
+        "title": "Little Tikes First Slide for Kids, Easy Set Up for Indoor Outdoor, Easy to Store, for Toddlers Ages 18 Months - 6 years",
+        "rating": 4.7,
+        "reviews": 67825
+      },
+      {
+        "rank": 2,
+        "asin": "B01ELNLKPA",
+        "title": "Little Tikes First Slide (Blue/Green)",
+        "rating": 4.8,
+        "reviews": 1678
+      },
+      {
+        "rank": 3,
+        "asin": "B0CBJYHDLG",
+        "title": "XJD 8 in 1 Toddler Slide Set, Kids Slide for Toddlers Age 1-3",
+        "rating": 4.6,
+        "reviews": 475
+      },
+      {
+        "rank": 4,
+        "asin": "B0G7XXF376",
+        "title": "8 in 1 Toddler Slide Set, Kids Slide for Toddlers, Toddler Climber Slide PlaySet with Basketball Hoop,Outdoor Indoor Playground for Toddlers Upgraded",
+        "rating": 4.3,
+        "reviews": 494
+      },
+      {
+        "rank": 5,
+        "asin": "B0CT56TQN2",
+        "title": "XJD 5 in 1 Toddler Slide, Kids Slide for Toddlers Age 1-3",
+        "rating": 4.5,
+        "reviews": 401
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166420011:166424011:7427930011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "6925879011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Remote & App Controlled Vehicles & Parts > Remote & App Controlled Vehicle Parts > Flight Gyroscopes & Governors",
+  "categoryPathCn": "玩具 > 遥控 > 遥控 > 飞行陀螺仪",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 57,
+    "totalRevenue": 41632,
+    "avgRevenue": 730,
+    "medianPrice": 36.99,
+    "priceBand": "$21.59 - $61.66",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0CD76T9D5",
+      "title": "Pixhawk 2.4.8 PX4 Open Source Flight Controller (Combo w/GPS)",
+      "brand": "HAWK'S WORK",
+      "price": 188.99,
+      "salesParent": 51,
+      "revenue": 9638.49,
+      "rating": 4.8,
+      "reviews": 9
+    },
+    {
+      "rank": 2,
+      "asin": "B0D7NQMPZ3",
+      "title": "FMS Reflex V3 Flight Controller Gyro Stabilizer Remote Control for RC Plane Fixed Wing",
+      "brand": "HeelAooRC",
+      "price": 39.99,
+      "salesParent": 108,
+      "revenue": 4318.92,
+      "rating": 4.4,
+      "reviews": 112
+    },
+    {
+      "rank": 3,
+      "asin": "B0B6Q7DJQF",
+      "title": "Yokomo DPP-302V4PB Dp-302v4 Drift Steering Gyro (Purple)",
+      "brand": "Yokomo",
+      "price": 71.2,
+      "salesParent": 38,
+      "revenue": 2830.62,
+      "rating": 4.8,
+      "reviews": 44
+    },
+    {
+      "rank": 4,
+      "asin": "B0B6Q5KQ62",
+      "title": "Yokomo DPP-302V4B YOKDPP-302V4B Drift Steering Gyro",
+      "brand": "Yokomo",
+      "price": 70.61,
+      "salesParent": 38,
+      "revenue": 2719.28,
+      "rating": 4.8,
+      "reviews": 19
+    },
+    {
+      "rank": 5,
+      "asin": "B0DG55C929",
+      "title": "Universal RC Car Gyro Upgrade Module – Stability Control Unit for 3 Wire Servo RC Cars – Precision Steering Correction, Adjustable Gain, Upgrades for MJX, Traxxas, ARRMA, Losi, Redcat, &amp; More",
+      "brand": "Speedywheels",
+      "price": 28.79,
+      "salesParent": 88,
+      "revenue": 2389.2,
+      "rating": 4.4,
+      "reviews": 34
+    },
+    {
+      "rank": 6,
+      "asin": "B0F22KWTHH",
+      "title": "Futaba Denshi GYRO GYD560 GYRO GYD560 Gyro for Radio Controlled",
+      "brand": "Futaba",
+      "price": 154.99,
+      "salesParent": 14,
+      "revenue": 2332.4,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "rank": 7,
+      "asin": "B0DNDN9XPP",
+      "title": "Yokomo DPP-302V4BL Dp-302v4 Drift Steering Gyro (Blue)",
+      "brand": "Yokomo",
+      "price": 60.33,
+      "salesParent": 31,
+      "revenue": 2134.97,
+      "rating": 4.6,
+      "reviews": 19
+    },
+    {
+      "rank": 8,
+      "asin": "B0FHGT55RP",
+      "title": "HGLRC SPECTER F722 Lite FC ICM42688 Gyro Integrated ELRS 2.4G Rece iver Flight Controller for FPV Drone Quad",
+      "brand": "HGLRC",
+      "price": 46.99,
+      "salesParent": 37,
+      "revenue": 1738.63,
+      "rating": 3.4,
+      "reviews": 17
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 48,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 48,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 41632,
+    "priorHeadRevenue": 28168,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 57,
+      "newCount": 33,
+      "pct": 58,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 68,
+      "brandCount": 45,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.43,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0CD76T9D5",
+        "title": "Pixhawk 2.4.8 PX4 Open Source Flight Controller (Combo w/GPS)",
+        "rating": 4.8,
+        "reviews": 9
+      },
+      {
+        "rank": 2,
+        "asin": "B0D7NQMPZ3",
+        "title": "FMS Reflex V3 Flight Controller Gyro Stabilizer Remote Control for RC Plane Fixed Wing",
+        "rating": 4.4,
+        "reviews": 112
+      },
+      {
+        "rank": 3,
+        "asin": "B0B6Q7DJQF",
+        "title": "Yokomo DPP-302V4PB Dp-302v4 Drift Steering Gyro (Purple)",
+        "rating": 4.8,
+        "reviews": 44
+      },
+      {
+        "rank": 4,
+        "asin": "B0B6Q5KQ62",
+        "title": "Yokomo DPP-302V4B YOKDPP-302V4B Drift Steering Gyro",
+        "rating": 4.8,
+        "reviews": 19
+      },
+      {
+        "rank": 5,
+        "asin": "B0DG55C929",
+        "title": "Universal RC Car Gyro Upgrade Module – Stability Control Unit for 3 Wire Servo RC Cars – Precision Steering Correction, Adjustable Gain, Upgrades for MJX, Traxxas, ARRMA, Losi, Redcat, &amp; More",
+        "rating": 4.4,
+        "reviews": 34
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:6925830011:2234126011:6925879011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

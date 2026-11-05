@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "346333011",
+  "level": "L2",
+  "categoryPathEn": "Automotive > Motorcycle & Powersports",
+  "categoryPathCn": "汽车 > 摩托车和动力运动",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 92,
+    "totalRevenue": 21374797,
+    "avgRevenue": 232335,
+    "medianPrice": 188.99,
+    "priceBand": "$59.95 - $894.24",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0GMH8F944",
+      "title": "Yozma IN10 Electric Dirt Bike, 40MPH 2600W Off Road Electric Motorcycle",
+      "brand": "Yozma",
+      "price": 1049.0,
+      "salesParent": 850,
+      "revenue": 915415.94,
+      "rating": 4.2,
+      "reviews": 365
+    },
+    {
+      "rank": 2,
+      "asin": "B0GSBWJ91Q",
+      "title": "Yozma IN10 Electric Dirt Bike, 3000W Peak Mid- Drive Motor E Dirt Bike",
+      "brand": "Yozma",
+      "price": 1099.99,
+      "salesParent": 614,
+      "revenue": 671900.25,
+      "rating": 4.2,
+      "reviews": 390
+    },
+    {
+      "rank": 3,
+      "asin": "B01GU9YWY4",
+      "title": "Set of 4 SunF Power.I ATV UTV all-terrain Tires 25x8-12 Front &amp; 25x10-12 Rear, 6 PR, Tubeless A033",
+      "brand": "SUNF",
+      "price": 280.21,
+      "salesParent": 2126,
+      "revenue": 595726.44,
+      "rating": 4.8,
+      "reviews": 8712
+    },
+    {
+      "rank": 4,
+      "asin": "B09W6QMM65",
+      "title": "Cardo PACKTALK EDGE Motorcycle Helmet Bluetooth Headset, 1-Pack",
+      "brand": "Cardo",
+      "price": 394.99,
+      "salesParent": 1517,
+      "revenue": 590431.56,
+      "rating": 4.5,
+      "reviews": 3486
+    },
+    {
+      "rank": 5,
+      "asin": "B0CZS57XYN",
+      "title": "Cardo PACKTALK PRO Motorcycle Helmet Communication System, 1-Pack",
+      "brand": "Cardo",
+      "price": 449.95,
+      "salesParent": 1249,
+      "revenue": 555155.56,
+      "rating": 4.3,
+      "reviews": 956
+    },
+    {
+      "rank": 6,
+      "asin": "B0GSBKGCJP",
+      "title": "Yozma IN10 Electric Dirt Bike, 40MPH 2600W Off Road Electric Motorcycle",
+      "brand": "Yozma",
+      "price": 1099.0,
+      "salesParent": 503,
+      "revenue": 547258.94,
+      "rating": 3.8,
+      "reviews": 27
+    },
+    {
+      "rank": 7,
+      "asin": "B0H8S9541S",
+      "title": "NEXVEY STORM Electric Dirt Bike for Adults, 6500W 72V Fast E-Motorcycle",
+      "brand": "NEXVEY",
+      "price": 1998.0,
+      "salesParent": 272,
+      "revenue": 543456.0,
+      "rating": 3.4,
+      "reviews": 4
+    },
+    {
+      "rank": 8,
+      "asin": "B0GJZV9LTZ",
+      "title": "RS5 Electric Dirt Bike for Teens &amp; Adults (13+), Up to 37 MPH",
+      "brand": "Windone",
+      "price": 899.98,
+      "salesParent": 589,
+      "revenue": 535884.0,
+      "rating": 4.6,
+      "reviews": 372
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 21,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 21,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 21374797,
+    "priorHeadRevenue": 17658762,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 92,
+      "newCount": 40,
+      "pct": 43,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 34,
+      "brandCount": 68,
+      "level": "分散",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.38,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0GMH8F944",
+        "title": "Yozma IN10 Electric Dirt Bike, 40MPH 2600W Off Road Electric Motorcycle",
+        "rating": 4.2,
+        "reviews": 365
+      },
+      {
+        "rank": 2,
+        "asin": "B0GSBWJ91Q",
+        "title": "Yozma IN10 Electric Dirt Bike, 3000W Peak Mid- Drive Motor E Dirt Bike",
+        "rating": 4.2,
+        "reviews": 390
+      },
+      {
+        "rank": 3,
+        "asin": "B01GU9YWY4",
+        "title": "Set of 4 SunF Power.I ATV UTV all-terrain Tires 25x8-12 Front &amp; 25x10-12 Rear, 6 PR, Tubeless A033",
+        "rating": 4.8,
+        "reviews": 8712
+      },
+      {
+        "rank": 4,
+        "asin": "B09W6QMM65",
+        "title": "Cardo PACKTALK EDGE Motorcycle Helmet Bluetooth Headset, 1-Pack",
+        "rating": 4.5,
+        "reviews": 3486
+      },
+      {
+        "rank": 5,
+        "asin": "B0CZS57XYN",
+        "title": "Cardo PACKTALK PRO Motorcycle Helmet Communication System, 1-Pack",
+        "rating": 4.3,
+        "reviews": 956
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "15684181:346333011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

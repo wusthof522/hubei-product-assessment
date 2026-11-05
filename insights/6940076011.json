@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "6940076011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins, Minerals & Supplements > Chondroitin & Glucosamine > Combinations",
+  "categoryPathCn": "健康与家居 > 身、泳和附剂 > 金牌素和喇叭 > 组合",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 63,
+    "totalRevenue": 2873076,
+    "avgRevenue": 45604,
+    "medianPrice": 27.99,
+    "priceBand": "$20.9 - $43.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0000537O8",
+      "title": "Nutramax Cosamin DS Joint Supplement, Glucosamine Chondroitin, 210 Capsules",
+      "brand": "Nutramax Laboratories",
+      "price": 43.99,
+      "salesParent": 9983,
+      "revenue": 439152.19,
+      "rating": 4.6,
+      "reviews": 4890
+    },
+    {
+      "rank": 2,
+      "asin": "B09D5P7F7K",
+      "title": "Nutricost Glucosamine 1800mg with Chondroitin &amp; MSM, 240 Tablets, GMO-Free",
+      "brand": "Nutricost",
+      "price": 21.95,
+      "salesParent": 11750,
+      "revenue": 257912.52,
+      "rating": 4.7,
+      "reviews": 3504
+    },
+    {
+      "rank": 3,
+      "asin": "B001W2MBSE",
+      "title": "Move Free Advanced Joint Support, Glucosamine, Chondroitin + MSM - 120 ct",
+      "brand": "Move Free",
+      "price": 32.12,
+      "salesParent": 9340,
+      "revenue": 222011.8,
+      "rating": 4.5,
+      "reviews": 20521
+    },
+    {
+      "rank": 4,
+      "asin": "B0CGFC5RCQ",
+      "title": "Glucosamine Chondroitin MSM Joint Supplements for Women &amp; Men with Turmeric",
+      "brand": "Clean Nutraceuticals",
+      "price": 29.84,
+      "salesParent": 6890,
+      "revenue": 205597.59,
+      "rating": 4.5,
+      "reviews": 2970
+    },
+    {
+      "rank": 5,
+      "asin": "B003BHZ860",
+      "title": "Pure Encapsulations Glucosamine Chondroitin with MSM, 120 Capsules",
+      "brand": "Pure Encapsulations",
+      "price": 75.0,
+      "salesParent": 2640,
+      "revenue": 198000.0,
+      "rating": 4.8,
+      "reviews": 818
+    },
+    {
+      "rank": 6,
+      "asin": "B06WRP5FYD",
+      "title": "Osteo Bi-Flex Triple Strength Glucosamine Supplement with Turmeric Extract",
+      "brand": "Osteo Bi-Flex",
+      "price": 16.8,
+      "salesParent": 11701,
+      "revenue": 181950.55,
+      "rating": 4.6,
+      "reviews": 10846
+    },
+    {
+      "rank": 7,
+      "asin": "B076MMP9YN",
+      "title": "Jocko Fuel Joint Support Glucosamine Chondroitin Supplement | 60 Serving",
+      "brand": "Jocko Fuel",
+      "price": 67.85,
+      "salesParent": 2612,
+      "revenue": 173828.61,
+      "rating": 4.6,
+      "reviews": 2228
+    },
+    {
+      "rank": 8,
+      "asin": "B000FH12OG",
+      "title": "THORNE Glucosamine &amp; Chondroitin, Sulfate Formula, 90 Capsules",
+      "brand": "THORNE",
+      "price": 40.0,
+      "salesParent": 3807,
+      "revenue": 152280.0,
+      "rating": 4.6,
+      "reviews": 913
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 36,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 36,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 2873076,
+    "priorHeadRevenue": 2111513,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 63,
+      "newCount": 3,
+      "pct": 5,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 52,
+      "brandCount": 50,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.46,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0000537O8",
+        "title": "Nutramax Cosamin DS Joint Supplement, Glucosamine Chondroitin, 210 Capsules",
+        "rating": 4.6,
+        "reviews": 4890
+      },
+      {
+        "rank": 2,
+        "asin": "B09D5P7F7K",
+        "title": "Nutricost Glucosamine 1800mg with Chondroitin &amp; MSM, 240 Tablets, GMO-Free",
+        "rating": 4.7,
+        "reviews": 3504
+      },
+      {
+        "rank": 3,
+        "asin": "B001W2MBSE",
+        "title": "Move Free Advanced Joint Support, Glucosamine, Chondroitin + MSM - 120 ct",
+        "rating": 4.5,
+        "reviews": 20521
+      },
+      {
+        "rank": 4,
+        "asin": "B0CGFC5RCQ",
+        "title": "Glucosamine Chondroitin MSM Joint Supplements for Women &amp; Men with Turmeric",
+        "rating": 4.5,
+        "reviews": 2970
+      },
+      {
+        "rank": 5,
+        "asin": "B003BHZ860",
+        "title": "Pure Encapsulations Glucosamine Chondroitin with MSM, 120 Capsules",
+        "rating": 4.8,
+        "reviews": 818
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:23675621011:3773391:6940076011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

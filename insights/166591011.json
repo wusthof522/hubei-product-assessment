@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "166591011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Remote & App Controlled Vehicles & Parts > Remote & App Controlled Vehicles > Helicopters",
+  "categoryPathCn": "玩具 > 遥控 > 遥控 > 直升机",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 95,
+    "totalRevenue": 617714,
+    "avgRevenue": 6502,
+    "medianPrice": 129.73,
+    "priceBand": "$53.99 - $320.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0D25X7T7J",
+      "title": "BUSSGO RC Helicopter, Remote Control Helicopter for Kids",
+      "brand": "BUSSGO",
+      "price": 39.99,
+      "salesParent": 2373,
+      "revenue": 94896.27,
+      "rating": 4.4,
+      "reviews": 2358
+    },
+    {
+      "rank": 2,
+      "asin": "B0BYS2XBRQ",
+      "title": "SYMA Remote Control Helicopter, S107H-E RC Helicopter with One Key take Off/Landing, High &amp; Low Speed and Durable Alloy Design, Gift Toy for Kids and Beginners",
+      "brand": "SYMA",
+      "price": 45.99,
+      "salesParent": 700,
+      "revenue": 30345.0,
+      "rating": 4.3,
+      "reviews": 5985
+    },
+    {
+      "rank": 3,
+      "asin": "B0F6NLWMDL",
+      "title": "RC ERA C032 UH-1 Huey Helicopter - Remote Control Helicopters for Adult, 1/48 Sacle 2.4G 6CH Gyro Stabilized Aircraft with Altitude Hold &amp; Optical Flow,3D Stunt Drone (Yellow)",
+      "brand": "NBJIALIN",
+      "price": 123.99,
+      "salesParent": 161,
+      "revenue": 19962.39,
+      "rating": 4.2,
+      "reviews": 137
+    },
+    {
+      "rank": 4,
+      "asin": "B0178WRTLU",
+      "title": "Cheerwing S107/S107G Phantom 3CH 3.5 Channel Mini RC Helicopter with Gyro Blue",
+      "brand": "Cheerwing",
+      "price": 24.98,
+      "salesParent": 775,
+      "revenue": 19359.5,
+      "rating": 4.0,
+      "reviews": 5328
+    },
+    {
+      "rank": 5,
+      "asin": "B0GKP8MB5P",
+      "title": "Goosky E2 UH-1Y Air Rescue GPS Scale RC Helicopter - RTF with Carrying Case",
+      "brand": "Helidirect",
+      "price": 495.49,
+      "salesParent": 29,
+      "revenue": 14158.67,
+      "rating": 3.5,
+      "reviews": 9
+    },
+    {
+      "rank": 6,
+      "asin": "B0DDTHWFW6",
+      "title": "DEERC RC Helicopter, Remote Control Helicopter, 26 Mins Flight Time, LED Lights &amp; Altitude Hold, 2 Batteries",
+      "brand": "DEERC",
+      "price": 49.99,
+      "salesParent": 274,
+      "revenue": 13302.7,
+      "rating": 4.1,
+      "reviews": 634
+    },
+    {
+      "rank": 7,
+      "asin": "B0BMVDXYK4",
+      "title": "SYMA S51H RC Helicopter for Kids, Military Remote Control Helicopter",
+      "brand": "SYMA",
+      "price": 59.99,
+      "salesParent": 213,
+      "revenue": 12777.87,
+      "rating": 4.3,
+      "reviews": 521
+    },
+    {
+      "rank": 8,
+      "asin": "B0GVJD5JKV",
+      "title": "OMPHOBBY M1 V3 PRO 100 Class Mini 3D RC Helicopter Ready to Fly, 6CH Direct Drive with Built-in ELRS Receiver &amp; OFS3+ Flight Control, Micro Helicopters with RadioMaster T8L Transmitter RTF Yellow",
+      "brand": "OMPHOBBY",
+      "price": 359.9,
+      "salesParent": 35,
+      "revenue": 12596.5,
+      "rating": 3.9,
+      "reviews": 7
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -46,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -46,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 617714,
+    "priorHeadRevenue": 1151664,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 95,
+      "newCount": 57,
+      "pct": 60,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 50,
+      "brandCount": 49,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.12,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0D25X7T7J",
+        "title": "BUSSGO RC Helicopter, Remote Control Helicopter for Kids",
+        "rating": 4.4,
+        "reviews": 2358
+      },
+      {
+        "rank": 2,
+        "asin": "B0BYS2XBRQ",
+        "title": "SYMA Remote Control Helicopter, S107H-E RC Helicopter with One Key take Off/Landing, High &amp; Low Speed and Durable Alloy Design, Gift Toy for Kids and Beginners",
+        "rating": 4.3,
+        "reviews": 5985
+      },
+      {
+        "rank": 3,
+        "asin": "B0F6NLWMDL",
+        "title": "RC ERA C032 UH-1 Huey Helicopter - Remote Control Helicopters for Adult, 1/48 Sacle 2.4G 6CH Gyro Stabilized Aircraft with Altitude Hold &amp; Optical Flow,3D Stunt Drone (Yellow)",
+        "rating": 4.2,
+        "reviews": 137
+      },
+      {
+        "rank": 4,
+        "asin": "B0178WRTLU",
+        "title": "Cheerwing S107/S107G Phantom 3CH 3.5 Channel Mini RC Helicopter with Gyro Blue",
+        "rating": 4.0,
+        "reviews": 5328
+      },
+      {
+        "rank": 5,
+        "asin": "B0GKP8MB5P",
+        "title": "Goosky E2 UH-1Y Air Rescue GPS Scale RC Helicopter - RTF with Carrying Case",
+        "rating": 3.5,
+        "reviews": 9
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:6925830011:166583011:166591011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

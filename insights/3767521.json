@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3767521",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Wellness & Relaxation > Massage Tools & Equipment > Electric Massagers",
+  "categoryPathCn": "健康与家居 > 保健生活用品 > 按摩工具和设备 > 电动按摩器及配件",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 94,
+    "totalRevenue": 32340981,
+    "avgRevenue": 344053,
+    "medianPrice": 99.99,
+    "priceBand": "$59.99 - $219.98",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B083L8RNJR",
+      "title": "TOLOCO Massage Gun, Deep Tissue Back Massage for Athletes for Pain Relief, Percussion Massager with 10 Massages Heads &amp; Silent Brushless Motor, Relaxation Gifts for Men Women, Black",
+      "brand": "TOLOCO",
+      "price": 59.99,
+      "salesParent": 42660,
+      "revenue": 2181632.25,
+      "rating": 4.4,
+      "reviews": 62515
+    },
+    {
+      "rank": 2,
+      "asin": "B0CNS894RH",
+      "title": "TheraGun Therabody Relief Massage Gun | for Daily Comfort | 3-Speed | Navy",
+      "brand": "TheraGun",
+      "price": 159.99,
+      "salesParent": 12881,
+      "revenue": 2010208.88,
+      "rating": 4.5,
+      "reviews": 2706
+    },
+    {
+      "rank": 3,
+      "asin": "B0FKCJNHWB",
+      "title": "Therabody Theragun Prime 6th Gen Deep Tissue Massage Gun | Black",
+      "brand": "TheraGun",
+      "price": 329.99,
+      "salesParent": 4303,
+      "revenue": 1347011.12,
+      "rating": 4.6,
+      "reviews": 6816
+    },
+    {
+      "rank": 4,
+      "asin": "B0DV7JN7ZD",
+      "title": "TheraGun Therabody Mini 3rd Gen Massage Gun | Travel Essential, Black",
+      "brand": "TheraGun",
+      "price": 219.99,
+      "salesParent": 4585,
+      "revenue": 984307.75,
+      "rating": 4.6,
+      "reviews": 1990
+    },
+    {
+      "rank": 5,
+      "asin": "B0B72QBWHC",
+      "title": "Hyperice Normatec 3 Legs Compression Boots Full Leg Recovery Size Standard",
+      "brand": "Hyperice",
+      "price": 899.0,
+      "salesParent": 943,
+      "revenue": 843485.19,
+      "rating": 4.5,
+      "reviews": 601
+    },
+    {
+      "rank": 6,
+      "asin": "B0DB86TWRJ",
+      "title": "Massage Gun with Heat Massager Deep Tissue Muscle Massager Gifts for Men",
+      "brand": "AERLANG",
+      "price": 44.99,
+      "salesParent": 19228,
+      "revenue": 760659.69,
+      "rating": 4.4,
+      "reviews": 21633
+    },
+    {
+      "rank": 7,
+      "asin": "B07X925BY6",
+      "title": "RENPHO Thermacool 2-in-1 FSA Foot Massager with Heat &amp; Cold, HSA Eligible",
+      "brand": "RENPHO",
+      "price": 199.99,
+      "salesParent": 3525,
+      "revenue": 704964.75,
+      "rating": 4.2,
+      "reviews": 1925
+    },
+    {
+      "rank": 8,
+      "asin": "B0DQKGT4GJ",
+      "title": "RENPHO Eyeris 1 Eye Massager with Heat, Relaxing Birthday Gifts for Women Men, Smart Eye Mask for Dry Eyes Relax, Eye Strain",
+      "brand": "RENPHO",
+      "price": 59.99,
+      "salesParent": 11027,
+      "revenue": 661509.75,
+      "rating": 4.4,
+      "reviews": 27041
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -13,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -13,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 32340981,
+    "priorHeadRevenue": 37124828,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 94,
+      "newCount": 26,
+      "pct": 28,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 47,
+      "brandCount": 53,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.33,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B083L8RNJR",
+        "title": "TOLOCO Massage Gun, Deep Tissue Back Massage for Athletes for Pain Relief, Percussion Massager with 10 Massages Heads &amp; Silent Brushless Motor, Relaxation Gifts for Men Women, Black",
+        "rating": 4.4,
+        "reviews": 62515
+      },
+      {
+        "rank": 2,
+        "asin": "B0CNS894RH",
+        "title": "TheraGun Therabody Relief Massage Gun | for Daily Comfort | 3-Speed | Navy",
+        "rating": 4.5,
+        "reviews": 2706
+      },
+      {
+        "rank": 3,
+        "asin": "B0FKCJNHWB",
+        "title": "Therabody Theragun Prime 6th Gen Deep Tissue Massage Gun | Black",
+        "rating": 4.6,
+        "reviews": 6816
+      },
+      {
+        "rank": 4,
+        "asin": "B0DV7JN7ZD",
+        "title": "TheraGun Therabody Mini 3rd Gen Massage Gun | Travel Essential, Black",
+        "rating": 4.6,
+        "reviews": 1990
+      },
+      {
+        "rank": 5,
+        "asin": "B0B72QBWHC",
+        "title": "Hyperice Normatec 3 Legs Compression Boots Full Leg Recovery Size Standard",
+        "rating": 4.5,
+        "reviews": 601
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:10079996011:10080000011:3767521",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

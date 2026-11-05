@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "17242866011",
+  "level": "L2",
+  "categoryPathEn": "Beauty & Personal Care > Foot, Hand & Nail Care",
+  "categoryPathCn": "美容与护理 > 足部护理部、手部和皮肤",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 91,
+    "totalRevenue": 44724597,
+    "avgRevenue": 491479,
+    "medianPrice": 15.95,
+    "priceBand": "$9.99 - $28.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B09YT2H35S",
+      "title": "Touchland Juicy Trio Hydrating Hand Sanitizer Spray Gift Set Travel Size",
+      "brand": "Touchland",
+      "price": 30.0,
+      "salesParent": 49925,
+      "revenue": 1497750.0,
+      "rating": 4.8,
+      "reviews": 14687
+    },
+    {
+      "rank": 2,
+      "asin": "B00149RO2S",
+      "title": "OPI Nail Lacquer Classic Nail Polish Colors | Nude &amp; Brown Shades",
+      "brand": "OPI",
+      "price": 11.99,
+      "salesParent": 96642,
+      "revenue": 1147140.5,
+      "rating": 4.6,
+      "reviews": 138899
+    },
+    {
+      "rank": 3,
+      "asin": "B0B854YTCF",
+      "title": "UNA GELLA Gel Nail Glue, Solid Nails Gl ue Gel 40g Lamp Curing Needed Soak Off G LUE Strong Nail G LUE G el for Acrylic Fake Nails Tips Extension Press On Nails for Gelly Tips",
+      "brand": "UNA GELLA",
+      "price": 9.99,
+      "salesParent": 117496,
+      "revenue": 1127961.62,
+      "rating": 4.5,
+      "reviews": 26375
+    },
+    {
+      "rank": 4,
+      "asin": "B01MDS32TQ",
+      "title": "O'Keeffe's K0280004-12 Healthy Feet Foot Cream Tube (12 Pack), 3 oz",
+      "brand": "O'Keeffe's",
+      "price": 102.53,
+      "salesParent": 10262,
+      "revenue": 1043953.31,
+      "rating": 4.7,
+      "reviews": 4
+    },
+    {
+      "rank": 5,
+      "asin": "B0CL4RWBYR",
+      "title": "Beetles Gel Nail Polish Kit with U V Light - 80Pcs 55 Colors Gel Nail Kit",
+      "brand": "beetles Gel Polish",
+      "price": 28.99,
+      "salesParent": 39138,
+      "revenue": 1028546.69,
+      "rating": 4.3,
+      "reviews": 27180
+    },
+    {
+      "rank": 6,
+      "asin": "B09YRQKH6K",
+      "title": "modelones Nail Strengthener with Pink Nail Polish Kit Pink Glitter Gel Polish Kit Manicure Tools Nail Art Decoration DIY Salon at Home",
+      "brand": "modelones",
+      "price": 29.99,
+      "salesParent": 32846,
+      "revenue": 985051.56,
+      "rating": 4.3,
+      "reviews": 259
+    },
+    {
+      "rank": 7,
+      "asin": "B0DCDCY2L3",
+      "title": "OPI GelColor LED Cure Gel Nail Polish | Blue &amp; Green Shades",
+      "brand": "OPI",
+      "price": 24.0,
+      "salesParent": 39346,
+      "revenue": 944304.0,
+      "rating": 4.4,
+      "reviews": 2614
+    },
+    {
+      "rank": 8,
+      "asin": "B078NTG1V5",
+      "title": "SUNUV UV LED Nail Lamp, Gel Light for Nail Polish UV Dryer SUNONE White",
+      "brand": "SUNUV",
+      "price": 27.98,
+      "salesParent": 30098,
+      "revenue": 909260.56,
+      "rating": 4.6,
+      "reviews": 58808
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 17,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 17,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 44724597,
+    "priorHeadRevenue": 38094524,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 91,
+      "newCount": 24,
+      "pct": 26,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 35,
+      "brandCount": 46,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.41,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B09YT2H35S",
+        "title": "Touchland Juicy Trio Hydrating Hand Sanitizer Spray Gift Set Travel Size",
+        "rating": 4.8,
+        "reviews": 14687
+      },
+      {
+        "rank": 2,
+        "asin": "B00149RO2S",
+        "title": "OPI Nail Lacquer Classic Nail Polish Colors | Nude &amp; Brown Shades",
+        "rating": 4.6,
+        "reviews": 138899
+      },
+      {
+        "rank": 3,
+        "asin": "B0B854YTCF",
+        "title": "UNA GELLA Gel Nail Glue, Solid Nails Gl ue Gel 40g Lamp Curing Needed Soak Off G LUE Strong Nail G LUE G el for Acrylic Fake Nails Tips Extension Press On Nails for Gelly Tips",
+        "rating": 4.5,
+        "reviews": 26375
+      },
+      {
+        "rank": 4,
+        "asin": "B01MDS32TQ",
+        "title": "O'Keeffe's K0280004-12 Healthy Feet Foot Cream Tube (12 Pack), 3 oz",
+        "rating": 4.7,
+        "reviews": 4
+      },
+      {
+        "rank": 5,
+        "asin": "B0CL4RWBYR",
+        "title": "Beetles Gel Nail Polish Kit with U V Light - 80Pcs 55 Colors Gel Nail Kit",
+        "rating": 4.3,
+        "reviews": 27180
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760911:17242866011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

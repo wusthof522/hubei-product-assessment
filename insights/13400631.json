@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "13400631",
+  "level": "L2",
+  "categoryPathEn": "Tools & Home Improvement > Storage & Home Organization",
+  "categoryPathCn": "工具 > 储存",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 97,
+    "totalRevenue": 18580683,
+    "avgRevenue": 191553,
+    "medianPrice": 155.99,
+    "priceBand": "$61.74 - $374.98",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0HF81K9S3",
+      "title": "5-Pack 79&quot; W 5000LBS Storage Shelves Heavy Duty 4 Tier Garage Shelving Metal Shelving Unit Adjustable Shelves for Garage Storage",
+      "brand": "CCIOBTE",
+      "price": 925.0,
+      "salesParent": 1180,
+      "revenue": 1091500.0,
+      "rating": 4.1,
+      "reviews": 48
+    },
+    {
+      "rank": 2,
+      "asin": "B0194R5BSA",
+      "title": "FLEXIMOUNTS 4x8 Overhead Garage Ceiling Storage Rack Organization, Black",
+      "brand": "FLEXIMOUNTS",
+      "price": 145.99,
+      "salesParent": 5968,
+      "revenue": 892812.81,
+      "rating": 4.7,
+      "reviews": 19340
+    },
+    {
+      "rank": 3,
+      "asin": "B0D5CKB5CT",
+      "title": "Storage Shelves - 5 Tier Shelf Organizer, Heavy Duty Garage Shelving Unit with Leveling Feet, Stable Metal Shelves Organizer for Pantry, Kitchen and Closet, 33.0&quot; W x 12.6&quot; D x 72.0&quot; H, Black",
+      "brand": "Sakugi",
+      "price": 44.99,
+      "salesParent": 18057,
+      "revenue": 879014.75,
+      "rating": 4.5,
+      "reviews": 5219
+    },
+    {
+      "rank": 4,
+      "asin": "B0HF7S9SKC",
+      "title": "4-Pack 79&quot; W Metal Shelving 5000LBS Storage Shelves Heavy Duty 4 Tier Garage Shelving Unit Adjustable Shelves for Garage Storage",
+      "brand": "CCIOBTE",
+      "price": 740.0,
+      "salesParent": 1180,
+      "revenue": 873200.0,
+      "rating": 4.4,
+      "reviews": 48
+    },
+    {
+      "rank": 5,
+      "asin": "B0HF7RX6C2",
+      "title": "4-Pack 5000LBS Heavy Duty Storage Shelves 4 Tier Garage Shelving Adjustable Metal Shelving Unit Heavy Duty Shelf",
+      "brand": "CCIOBTE",
+      "price": 620.0,
+      "salesParent": 1180,
+      "revenue": 731600.0,
+      "rating": 4.0,
+      "reviews": 48
+    },
+    {
+      "rank": 6,
+      "asin": "B0H29Y716P",
+      "title": "Set of 8 All Metal Garage Shelving - 2050 lbs 5 Tier Storage Shelves, Adjustable Heavy Duty Metal Shelving Unit and Storage Large Rack, Utility Steel Shelf for Warehouse Industrial Pantry ,71&quot;x46&quot;x20&quot;",
+      "brand": "JOJUOU",
+      "price": 799.99,
+      "salesParent": 773,
+      "revenue": 618392.25,
+      "rating": 3.8,
+      "reviews": 111
+    },
+    {
+      "rank": 7,
+      "asin": "B0HF7ZGC7V",
+      "title": "4-Pack 59&quot; W Metal Shelving 4000LBS Heavy Duty Garage Shelving Unit 3 Tier Storage Shelves Adjustable Heavy Duty Storage Rack",
+      "brand": "CCIOBTE",
+      "price": 420.0,
+      "salesParent": 1180,
+      "revenue": 495600.0,
+      "rating": 4.8,
+      "reviews": 48
+    },
+    {
+      "rank": 8,
+      "asin": "B0HF81GL2F",
+      "title": "2-Pack 79&quot; W Garage Shelving 5000LBS Heavy Duty Storage Shelves 4 Tier Metal Shelving Unit Adjustable Shelves for Garage Storage",
+      "brand": "CCIOBTE",
+      "price": 370.0,
+      "salesParent": 1180,
+      "revenue": 436600.0,
+      "rating": 4.2,
+      "reviews": 3
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 32,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 32,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 18580683,
+    "priorHeadRevenue": 14129660,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 97,
+      "newCount": 59,
+      "pct": 61,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 67,
+      "brandCount": 46,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.38,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0HF81K9S3",
+        "title": "5-Pack 79&quot; W 5000LBS Storage Shelves Heavy Duty 4 Tier Garage Shelving Metal Shelving Unit Adjustable Shelves for Garage Storage",
+        "rating": 4.1,
+        "reviews": 48
+      },
+      {
+        "rank": 2,
+        "asin": "B0194R5BSA",
+        "title": "FLEXIMOUNTS 4x8 Overhead Garage Ceiling Storage Rack Organization, Black",
+        "rating": 4.7,
+        "reviews": 19340
+      },
+      {
+        "rank": 3,
+        "asin": "B0D5CKB5CT",
+        "title": "Storage Shelves - 5 Tier Shelf Organizer, Heavy Duty Garage Shelving Unit with Leveling Feet, Stable Metal Shelves Organizer for Pantry, Kitchen and Closet, 33.0&quot; W x 12.6&quot; D x 72.0&quot; H, Black",
+        "rating": 4.5,
+        "reviews": 5219
+      },
+      {
+        "rank": 4,
+        "asin": "B0HF7S9SKC",
+        "title": "4-Pack 79&quot; W Metal Shelving 5000LBS Storage Shelves Heavy Duty 4 Tier Garage Shelving Unit Adjustable Shelves for Garage Storage",
+        "rating": 4.4,
+        "reviews": 48
+      },
+      {
+        "rank": 5,
+        "asin": "B0HF7RX6C2",
+        "title": "4-Pack 5000LBS Heavy Duty Storage Shelves 4 Tier Garage Shelving Adjustable Metal Shelving Unit Heavy Duty Shelf",
+        "rating": 4.0,
+        "reviews": 48
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "228013:13400631",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

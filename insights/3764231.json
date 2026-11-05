@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3764231",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Health Care > Sleep & Snoring > Sleeping Masks",
+  "categoryPathCn": "健康与家居 > 卫生保健 > 睡眠和打鼾 > 眼罩",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 97,
+    "totalRevenue": 11253616,
+    "avgRevenue": 116017,
+    "medianPrice": 26.99,
+    "priceBand": "$9.99 - $39.97",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B094TF9NVQ",
+      "title": "nodpod Patented Gentle Pressure Sleep Mask, Weighted Eye Mask",
+      "brand": "nodpod",
+      "price": 38.0,
+      "salesParent": 45255,
+      "revenue": 1719690.0,
+      "rating": 4.5,
+      "reviews": 8711
+    },
+    {
+      "rank": 2,
+      "asin": "B07KC5DWCC",
+      "title": "MZOO Luxury Sleep Mask for Women Men Patented Light Blocking Design",
+      "brand": "MZOO",
+      "price": 15.99,
+      "salesParent": 73488,
+      "revenue": 1172868.5,
+      "rating": 4.6,
+      "reviews": 101691
+    },
+    {
+      "rank": 3,
+      "asin": "B09CZ68WV3",
+      "title": "MyHalos Sleep Mask for Men and Women, 3D Blackout Eye Masks for Sleep",
+      "brand": "myhalos",
+      "price": 9.99,
+      "salesParent": 51179,
+      "revenue": 495924.5,
+      "rating": 4.6,
+      "reviews": 26704
+    },
+    {
+      "rank": 4,
+      "asin": "B07T6FNLQV",
+      "title": "LC-dolida Sleep Headphones, 3D Sleep Mask Bluetooth Wireless Music Eye Mask, Sleeping Headphones for Side Sleepers Sleep Mask with Bluetooth Headphones Ultra-Thin Stereo Speakers Perfect for Sleeping",
+      "brand": "LC-dolida",
+      "price": 25.95,
+      "salesParent": 12393,
+      "revenue": 374392.53,
+      "rating": 4.2,
+      "reviews": 22284
+    },
+    {
+      "rank": 5,
+      "asin": "B08B8Y24CR",
+      "title": "DROWSY 22 Momme Mulberry Silk Blackout Sleep Mask, Padded Cocoon",
+      "brand": "Drowsy",
+      "price": 80.0,
+      "salesParent": 4541,
+      "revenue": 361736.06,
+      "rating": 4.3,
+      "reviews": 1759
+    },
+    {
+      "rank": 6,
+      "asin": "B0C36K8SJJ",
+      "title": "Manta Pro Sleep Mask - 100% Light Blocking Sleep Mask for Side Sleepers, Breathable and Comfortable, Spacious &amp; Zero Pressure for Long Lashes, Perfect for Sleep/Travel/Nap/Shift Work",
+      "brand": "Manta Sleep",
+      "price": 85.0,
+      "salesParent": 4084,
+      "revenue": 347140.0,
+      "rating": 4.2,
+      "reviews": 1831
+    },
+    {
+      "rank": 7,
+      "asin": "B09H7FZ5JM",
+      "title": "LitBear Sleep Mask for Side Sleeper Women Men, Eye Mask for Sleeping",
+      "brand": "LitBear",
+      "price": 15.99,
+      "salesParent": 22434,
+      "revenue": 336510.0,
+      "rating": 4.7,
+      "reviews": 17542
+    },
+    {
+      "rank": 8,
+      "asin": "B07PRG2CQY",
+      "title": "Manta Original Sleep Mask - Maximum Blackout Sleep Mask for Deep Sleep, Adjustable with Detachable Eye Cups, Zero Eye Pressure for Back &amp; Belly Sleepers, Ideal for Travel, Shift Work &amp; Daytime Sleep",
+      "brand": "Manta Sleep",
+      "price": 39.0,
+      "salesParent": 8439,
+      "revenue": 329121.0,
+      "rating": 4.4,
+      "reviews": 15717
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 27,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 27,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 11253616,
+    "priorHeadRevenue": 8866034,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 97,
+      "newCount": 25,
+      "pct": 26,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 47,
+      "brandCount": 69,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.35,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B094TF9NVQ",
+        "title": "nodpod Patented Gentle Pressure Sleep Mask, Weighted Eye Mask",
+        "rating": 4.5,
+        "reviews": 8711
+      },
+      {
+        "rank": 2,
+        "asin": "B07KC5DWCC",
+        "title": "MZOO Luxury Sleep Mask for Women Men Patented Light Blocking Design",
+        "rating": 4.6,
+        "reviews": 101691
+      },
+      {
+        "rank": 3,
+        "asin": "B09CZ68WV3",
+        "title": "MyHalos Sleep Mask for Men and Women, 3D Blackout Eye Masks for Sleep",
+        "rating": 4.6,
+        "reviews": 26704
+      },
+      {
+        "rank": 4,
+        "asin": "B07T6FNLQV",
+        "title": "LC-dolida Sleep Headphones, 3D Sleep Mask Bluetooth Wireless Music Eye Mask, Sleeping Headphones for Side Sleepers Sleep Mask with Bluetooth Headphones Ultra-Thin Stereo Speakers Perfect for Sleeping",
+        "rating": 4.2,
+        "reviews": 22284
+      },
+      {
+        "rank": 5,
+        "asin": "B08B8Y24CR",
+        "title": "DROWSY 22 Momme Mulberry Silk Blackout Sleep Mask, Padded Cocoon",
+        "rating": 4.3,
+        "reviews": 1759
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3760941:3764271:3764231",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

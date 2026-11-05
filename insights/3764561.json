@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3764561",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins, Minerals & Supplements > Herbal Supplements > Artichoke",
+  "categoryPathCn": "健康与家居 > 身、泳和附剂 > 草本补充 > 洋蓟",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 83,
+    "totalRevenue": 1799337,
+    "avgRevenue": 21679,
+    "medianPrice": 24.99,
+    "priceBand": "$17.49 - $32.94",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B01NCUJPBF",
+      "title": "Liver Cleanse Detox &amp; Repair | with Milk Thistle + Artichoke 70ct",
+      "brand": "Natures Craft",
+      "price": 24.99,
+      "salesParent": 38490,
+      "revenue": 961865.06,
+      "rating": 4.5,
+      "reviews": 46321
+    },
+    {
+      "rank": 2,
+      "asin": "B079V5DRPW",
+      "title": "Integrative Therapeutics Motility Activator, 60 Capsules",
+      "brand": "Integrative Therapeutics",
+      "price": 43.0,
+      "salesParent": 3605,
+      "revenue": 155015.0,
+      "rating": 4.0,
+      "reviews": 620
+    },
+    {
+      "rank": 3,
+      "asin": "B08FCKLBYK",
+      "title": "PUREHEALTH RESEARCH Liver Health – Liver Cleanse Detox &amp; Repair Supplement",
+      "brand": "PUREHEALTH RESEARCH",
+      "price": 39.99,
+      "salesParent": 2372,
+      "revenue": 92745.2,
+      "rating": 4.1,
+      "reviews": 8731
+    },
+    {
+      "rank": 4,
+      "asin": "B0012TME2U",
+      "title": "THORNE S.A.T., Milk Thistle, Curcumin Phytosome &amp; Artichoke, 60 Capsules",
+      "brand": "THORNE",
+      "price": 47.0,
+      "salesParent": 1461,
+      "revenue": 68667.0,
+      "rating": 4.7,
+      "reviews": 556
+    },
+    {
+      "rank": 5,
+      "asin": "B0DCWD1PWY",
+      "title": "Silver Fern Motility- Non-Laxative Constipation and Slow Motility Boost",
+      "brand": "Silver Fern",
+      "price": 66.48,
+      "salesParent": 881,
+      "revenue": 58568.88,
+      "rating": 3.8,
+      "reviews": 131
+    },
+    {
+      "rank": 6,
+      "asin": "B01MQ2DR4A",
+      "title": "Liver Support – Liver Cleanse Detox &amp; Repair Milk Thistle Supplement – 60ct",
+      "brand": "Vimerson Health",
+      "price": 18.25,
+      "salesParent": 2594,
+      "revenue": 55330.02,
+      "rating": 4.4,
+      "reviews": 9950
+    },
+    {
+      "rank": 7,
+      "asin": "B0FS1N4TXY",
+      "title": "iMATCHME NAC Supplement 900mg, Liver Cleanse Detox &amp; Repair,180 Count",
+      "brand": "iMATCHME",
+      "price": 33.34,
+      "salesParent": 1294,
+      "revenue": 45264.12,
+      "rating": 4.4,
+      "reviews": 214
+    },
+    {
+      "rank": 8,
+      "asin": "B0CBCW75H5",
+      "title": "Snap Supplements Cholesterol Health, Berberine, Milk Thistle, 60 Capsules",
+      "brand": "Snap Supplements",
+      "price": 31.69,
+      "salesParent": 1097,
+      "revenue": 33502.38,
+      "rating": 4.4,
+      "reviews": 526
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 141,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 141,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1799337,
+    "priorHeadRevenue": 747366,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 83,
+      "newCount": 28,
+      "pct": 34,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 76,
+      "brandCount": 72,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.35,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B01NCUJPBF",
+        "title": "Liver Cleanse Detox &amp; Repair | with Milk Thistle + Artichoke 70ct",
+        "rating": 4.5,
+        "reviews": 46321
+      },
+      {
+        "rank": 2,
+        "asin": "B079V5DRPW",
+        "title": "Integrative Therapeutics Motility Activator, 60 Capsules",
+        "rating": 4.0,
+        "reviews": 620
+      },
+      {
+        "rank": 3,
+        "asin": "B08FCKLBYK",
+        "title": "PUREHEALTH RESEARCH Liver Health – Liver Cleanse Detox &amp; Repair Supplement",
+        "rating": 4.1,
+        "reviews": 8731
+      },
+      {
+        "rank": 4,
+        "asin": "B0012TME2U",
+        "title": "THORNE S.A.T., Milk Thistle, Curcumin Phytosome &amp; Artichoke, 60 Capsules",
+        "rating": 4.7,
+        "reviews": 556
+      },
+      {
+        "rank": 5,
+        "asin": "B0DCWD1PWY",
+        "title": "Silver Fern Motility- Non-Laxative Constipation and Slow Motility Boost",
+        "rating": 3.8,
+        "reviews": 131
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:23675621011:3764461:3764561",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

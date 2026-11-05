@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "13400641",
+  "level": "L2",
+  "categoryPathEn": "Patio, Lawn & Garden > Outdoor Storage & Housing",
+  "categoryPathCn": "庭院、草坪和园艺 > 室外储物",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 94,
+    "totalRevenue": 29116092,
+    "avgRevenue": 309746,
+    "medianPrice": 358.49,
+    "priceBand": "$193.49 - $899.98",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0DJLSVPW1",
+      "title": "260 Gallon Outdoor Deck Box, Lockable Waterproof Outdoor Storage Boxes For Garden Tools,Indoor Cushions,Accessories Outside Storage Resin Weatherproof Container(Black)",
+      "brand": "MAIUSCOLI",
+      "price": 233.99,
+      "salesParent": 5049,
+      "revenue": 1250283.88,
+      "rating": 4.1,
+      "reviews": 18
+    },
+    {
+      "rank": 2,
+      "asin": "B01HDPY7RG",
+      "title": "Keter Westwood 150 Gal Outdoor Storage Box for Patio and Pool Accessories",
+      "brand": "Keter",
+      "price": 194.99,
+      "salesParent": 6339,
+      "revenue": 1192619.5,
+      "rating": 4.5,
+      "reviews": 14803
+    },
+    {
+      "rank": 3,
+      "asin": "B0DNZCQRZV",
+      "title": "32 Gallon Deck Box, Waterproof Outdoor Storage Boxes For Garden Tools,Indoor Cushions,Accessories Outside Storage Resin Lockable Weatherproof Container(Grey)",
+      "brand": "MAIUSCOLI",
+      "price": 129.44,
+      "salesParent": 6053,
+      "revenue": 783500.31,
+      "rating": 4.4,
+      "reviews": 2750
+    },
+    {
+      "rank": 4,
+      "asin": "B0DXTS1MCG",
+      "title": "150 Gallon Outdoor Deck Box, Lockable Waterproof Outdoor Storage Boxes For Garden Tools,Indoor Cushions,Accessories Outside Storage Resin Weatherproof Container(Black)",
+      "brand": "MAIUSCOLI",
+      "price": 125.99,
+      "salesParent": 5953,
+      "revenue": 750018.44,
+      "rating": 4.0,
+      "reviews": 22
+    },
+    {
+      "rank": 5,
+      "asin": "B0GRHR618T",
+      "title": "AMERLIFE 25x30x11.5 FT Outdoor Metal Garage Shed with Front Double Doors",
+      "brand": "AMERLIFE",
+      "price": 4999.99,
+      "salesParent": 131,
+      "revenue": 654998.75,
+      "rating": 5.0,
+      "reviews": 2
+    },
+    {
+      "rank": 6,
+      "asin": "B0DNZ8SWGW",
+      "title": "150 Gallon Outdoor Deck Box, Lockable Waterproof Outdoor Storage Boxes For Garden Tools,Indoor Cushions,Accessories Outside Storage Resin Weatherproof Container(Grey)",
+      "brand": "MAIUSCOLI",
+      "price": 129.44,
+      "salesParent": 5022,
+      "revenue": 650047.69,
+      "rating": 3.9,
+      "reviews": 65
+    },
+    {
+      "rank": 7,
+      "asin": "B0CMTHLMVP",
+      "title": "Patiowell 10x8 FT Outdoor Storage Shed with Floor Frame, Grey",
+      "brand": "Patiowell",
+      "price": 429.99,
+      "salesParent": 1454,
+      "revenue": 623024.44,
+      "rating": 3.3,
+      "reviews": 15
+    },
+    {
+      "rank": 8,
+      "asin": "B00DTLE3AA",
+      "title": "Suncast Outdoor Storage Shed, Water Resistant Resin Vertical Outdoor Storage Cabinet for Patio, Garden Tools, Cushions, &amp; Equipment, Weatherproof Multi-Wall Design, 54 cu. ft., Made in USA",
+      "brand": "Suncast",
+      "price": 399.0,
+      "salesParent": 1515,
+      "revenue": 610196.56,
+      "rating": 4.4,
+      "reviews": 1752
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 18,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 18,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 29116092,
+    "priorHeadRevenue": 24646434,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 94,
+      "newCount": 63,
+      "pct": 67,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 59,
+      "brandCount": 31,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.04,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0DJLSVPW1",
+        "title": "260 Gallon Outdoor Deck Box, Lockable Waterproof Outdoor Storage Boxes For Garden Tools,Indoor Cushions,Accessories Outside Storage Resin Weatherproof Container(Black)",
+        "rating": 4.1,
+        "reviews": 18
+      },
+      {
+        "rank": 2,
+        "asin": "B01HDPY7RG",
+        "title": "Keter Westwood 150 Gal Outdoor Storage Box for Patio and Pool Accessories",
+        "rating": 4.5,
+        "reviews": 14803
+      },
+      {
+        "rank": 3,
+        "asin": "B0DNZCQRZV",
+        "title": "32 Gallon Deck Box, Waterproof Outdoor Storage Boxes For Garden Tools,Indoor Cushions,Accessories Outside Storage Resin Lockable Weatherproof Container(Grey)",
+        "rating": 4.4,
+        "reviews": 2750
+      },
+      {
+        "rank": 4,
+        "asin": "B0DXTS1MCG",
+        "title": "150 Gallon Outdoor Deck Box, Lockable Waterproof Outdoor Storage Boxes For Garden Tools,Indoor Cushions,Accessories Outside Storage Resin Weatherproof Container(Black)",
+        "rating": 4.0,
+        "reviews": 22
+      },
+      {
+        "rank": 5,
+        "asin": "B0GRHR618T",
+        "title": "AMERLIFE 25x30x11.5 FT Outdoor Metal Garage Shed with Front Double Doors",
+        "rating": 5.0,
+        "reviews": 2
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "2972638011:13400641",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

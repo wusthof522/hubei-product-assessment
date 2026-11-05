@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23564877011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Novelty & Gag Toys > Fidget Toys > Pop Fidget Toys",
+  "categoryPathCn": "Toys & Games > Novelty & Gag Toys > Fidget Toys > Pop Fidget Toys",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 96,
+    "totalRevenue": 2142092,
+    "avgRevenue": 22313,
+    "medianPrice": 14.99,
+    "priceBand": "$9.99 - $25.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0F3JHPPYS",
+      "title": "48 Pack Light Up Party Favors for Birthday, Glow in The Dark Party Supplies, Pop Fidget Toys Bulk 3D Stress Ball Toy, Squeeze Toys, Easter Filler, Classroom Prizes Stocking Stuffers",
+      "brand": "Supovil",
+      "price": 33.29,
+      "salesParent": 2287,
+      "revenue": 80571.01,
+      "rating": 4.4,
+      "reviews": 604
+    },
+    {
+      "rank": 2,
+      "asin": "B0H61VZX6M",
+      "title": "Clickeez Series 3 - 2-Pack CDU | Contains 12 Series 3 - 2-Packs, Each Includes 2 Collectible Character Keyboard Keys | Click, Clack, Create Your Own Keychain | Ages 6+",
+      "brand": "Clickeez",
+      "price": 60.0,
+      "salesParent": 1227,
+      "revenue": 79546.41,
+      "rating": 4.8,
+      "reviews": 13
+    },
+    {
+      "rank": 3,
+      "asin": "B07MBW6JNL",
+      "title": "BUNMO Pop Tubes - Sensory Toys - Fidget Toys - Imaginative Play &amp; Stimulating Creative Learning - Hours of Fun for Kids - Tons of Ways to Play - Non-Mouthable Toy 3+ - 4 Pack Large",
+      "brand": "BUNMO",
+      "price": 6.99,
+      "salesParent": 9988,
+      "revenue": 79404.6,
+      "rating": 4.7,
+      "reviews": 44419
+    },
+    {
+      "rank": 4,
+      "asin": "B0BS3HQ4NX",
+      "title": "Baby Einstein Color Palette Popper Sensory Fidget Toy, for Infants Ages 6 Months and Up",
+      "brand": "Baby Einstein",
+      "price": 11.17,
+      "salesParent": 6972,
+      "revenue": 77877.24,
+      "rating": 4.6,
+      "reviews": 65
+    },
+    {
+      "rank": 5,
+      "asin": "B08GWPY8XP",
+      "title": "Nutty Toys Pop Tubes - Large 8-Pack Sensory Toys - Creative STEM Learning for Kids - Connect &amp; Pop! Top ADHD Autism Fidget 2026, Best Boy &amp; Girl Christmas Stocking Stuffers Gifts Idea",
+      "brand": "nutty toys",
+      "price": 8.97,
+      "salesParent": 8424,
+      "revenue": 75816.0,
+      "rating": 4.8,
+      "reviews": 22053
+    },
+    {
+      "rank": 6,
+      "asin": "B0BZPFL9ZY",
+      "title": "Handheld Speed Push Pop Game Fun Sensory Fidget Toy for Kids White",
+      "brand": "Intoypad",
+      "price": 9.99,
+      "salesParent": 6557,
+      "revenue": 61439.09,
+      "rating": 4.4,
+      "reviews": 2306
+    },
+    {
+      "rank": 7,
+      "asin": "B0H6ZKV43Y",
+      "title": "Halloween Light‑Up Fidget Toys,Glow in Dark Party Favors for Trick or Treat, 48 Pack Bulk Sensory Squeeze Toys,Pinata Fillers Goodie Bag Stuffers,Treasure Box Carnival Prizes for Kids Classroom Prizes",
+      "brand": "Supovil",
+      "price": 37.99,
+      "salesParent": 1713,
+      "revenue": 61034.19,
+      "rating": 4.1,
+      "reviews": 65
+    },
+    {
+      "rank": 8,
+      "asin": "B0C5M5RWSJ",
+      "title": "52 Pack Pop Tubes, Sensory Toys Party Favors for Kids 8-12 Fidget Toys for Anxiety Goodie Bag Stuffers Treasure Box Classroom Prizes Gifts for 3 4 5 6 7 8 9 Year Old Boys Girls Toddlers- 10 Colors",
+      "brand": "Siwarm",
+      "price": 12.99,
+      "salesParent": 4910,
+      "revenue": 53371.7,
+      "rating": 4.8,
+      "reviews": 2041
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 5,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 5,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 2142092,
+    "priorHeadRevenue": 2044999,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 96,
+      "newCount": 44,
+      "pct": 46,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 25,
+      "brandCount": 77,
+      "level": "分散",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.49,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0F3JHPPYS",
+        "title": "48 Pack Light Up Party Favors for Birthday, Glow in The Dark Party Supplies, Pop Fidget Toys Bulk 3D Stress Ball Toy, Squeeze Toys, Easter Filler, Classroom Prizes Stocking Stuffers",
+        "rating": 4.4,
+        "reviews": 604
+      },
+      {
+        "rank": 2,
+        "asin": "B0H61VZX6M",
+        "title": "Clickeez Series 3 - 2-Pack CDU | Contains 12 Series 3 - 2-Packs, Each Includes 2 Collectible Character Keyboard Keys | Click, Clack, Create Your Own Keychain | Ages 6+",
+        "rating": 4.8,
+        "reviews": 13
+      },
+      {
+        "rank": 3,
+        "asin": "B07MBW6JNL",
+        "title": "BUNMO Pop Tubes - Sensory Toys - Fidget Toys - Imaginative Play &amp; Stimulating Creative Learning - Hours of Fun for Kids - Tons of Ways to Play - Non-Mouthable Toy 3+ - 4 Pack Large",
+        "rating": 4.7,
+        "reviews": 44419
+      },
+      {
+        "rank": 4,
+        "asin": "B0BS3HQ4NX",
+        "title": "Baby Einstein Color Palette Popper Sensory Fidget Toy, for Infants Ages 6 Months and Up",
+        "rating": 4.6,
+        "reviews": 65
+      },
+      {
+        "rank": 5,
+        "asin": "B08GWPY8XP",
+        "title": "Nutty Toys Pop Tubes - Large 8-Pack Sensory Toys - Creative STEM Learning for Kids - Connect &amp; Pop! Top ADHD Autism Fidget 2026, Best Boy &amp; Girl Christmas Stocking Stuffers Gifts Idea",
+        "rating": 4.8,
+        "reviews": 22053
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166027011:17238448011:23564877011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

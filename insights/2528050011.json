@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "2528050011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Learning & Education > Electronic Learning Toys > Books",
+  "categoryPathCn": "Toys & Games > Learning & Education > Electronic Learning Toys > Books",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 3336908,
+    "avgRevenue": 33706,
+    "medianPrice": 26.99,
+    "priceBand": "$19.77 - $31.49",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B07B6ZN7P8",
+      "title": "LeapFrog Learning Friends 100 Words Book",
+      "brand": "LeapFrog",
+      "price": 14.99,
+      "salesParent": 50408,
+      "revenue": 778803.56,
+      "rating": 4.8,
+      "reviews": 96735
+    },
+    {
+      "rank": 2,
+      "asin": "B0GCM8498X",
+      "title": "500 Words Sound Book for Kids",
+      "brand": "Timetome",
+      "price": 34.99,
+      "salesParent": 6987,
+      "revenue": 235531.77,
+      "rating": 4.5,
+      "reviews": 282
+    },
+    {
+      "rank": 3,
+      "asin": "B0FTMSQGZ4",
+      "title": "Chuckle &amp; Roar Pop It Book, Colors, English &amp; Spanish, Quiet Mode, 1–4+",
+      "brand": "Chuckle &amp; Roar",
+      "price": 24.97,
+      "salesParent": 8880,
+      "revenue": 221733.59,
+      "rating": 4.7,
+      "reviews": 516
+    },
+    {
+      "rank": 4,
+      "asin": "B0749K8PST",
+      "title": "LeapFrog LeapReader System Learn-to-Read 10 Book Mega Pack, Pink",
+      "brand": "LeapFrog",
+      "price": 53.0,
+      "salesParent": 3155,
+      "revenue": 169896.75,
+      "rating": 4.7,
+      "reviews": 5108
+    },
+    {
+      "rank": 5,
+      "asin": "B0DFCKK62Q",
+      "title": "KOKODI Talking Pen Books Sets, Interactive Audio Sound Books Kids Learning Electronic Toys for Boys Girls, Autism Sensory Games, Early Educational Gifts Birthday Gifts for Toddlers Kids Age 2 3 4 5",
+      "brand": "KOKODI",
+      "price": 49.99,
+      "salesParent": 1829,
+      "revenue": 86017.87,
+      "rating": 4.6,
+      "reviews": 985
+    },
+    {
+      "rank": 6,
+      "asin": "B08CB6GZH6",
+      "title": "Cali's Books You are My Sunshine Music Book for Toddlers 1-3 Years Old",
+      "brand": "Cali's Books",
+      "price": 29.99,
+      "salesParent": 2594,
+      "revenue": 77794.06,
+      "rating": 4.6,
+      "reviews": 1518
+    },
+    {
+      "rank": 7,
+      "asin": "B0FBRS3173",
+      "title": "HumorPlay Busy Board Montessori Toys for Toddler Girl Gifts, Sensory Educational Busy Book for Toddlers, Christmas Birthday Gift for Toddler Girl Toys",
+      "brand": "HumorPlay",
+      "price": 29.99,
+      "salesParent": 2525,
+      "revenue": 75724.75,
+      "rating": 4.6,
+      "reviews": 164
+    },
+    {
+      "rank": 8,
+      "asin": "B07Z4GGDVH",
+      "title": "Cali's Books Wheels on the Bus Music Book for Toddlers 1-3 Years Old",
+      "brand": "Cali's Books",
+      "price": 29.99,
+      "salesParent": 2246,
+      "revenue": 67357.54,
+      "rating": 4.4,
+      "reviews": 683
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 28,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 28,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 3336908,
+    "priorHeadRevenue": 2612230,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 38,
+      "pct": 38,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 68,
+      "brandCount": 45,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.61,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B07B6ZN7P8",
+        "title": "LeapFrog Learning Friends 100 Words Book",
+        "rating": 4.8,
+        "reviews": 96735
+      },
+      {
+        "rank": 2,
+        "asin": "B0GCM8498X",
+        "title": "500 Words Sound Book for Kids",
+        "rating": 4.5,
+        "reviews": 282
+      },
+      {
+        "rank": 3,
+        "asin": "B0FTMSQGZ4",
+        "title": "Chuckle &amp; Roar Pop It Book, Colors, English &amp; Spanish, Quiet Mode, 1–4+",
+        "rating": 4.7,
+        "reviews": 516
+      },
+      {
+        "rank": 4,
+        "asin": "B0749K8PST",
+        "title": "LeapFrog LeapReader System Learn-to-Read 10 Book Mega Pack, Pink",
+        "rating": 4.7,
+        "reviews": 5108
+      },
+      {
+        "rank": 5,
+        "asin": "B0DFCKK62Q",
+        "title": "KOKODI Talking Pen Books Sets, Interactive Audio Sound Books Kids Learning Electronic Toys for Boys Girls, Autism Sensory Games, Early Educational Gifts Birthday Gifts for Toddlers Kids Age 2 3 4 5",
+        "rating": 4.6,
+        "reviews": 985
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166269011:166177011:2528050011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

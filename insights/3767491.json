@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3767491",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Health Care > Alternative Medicine > Aromatherapy",
+  "categoryPathCn": "健康与家居 > 卫生保健 > 替代药物 > 香薰疗法",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 98,
+    "totalRevenue": 21039652,
+    "avgRevenue": 214690,
+    "medianPrice": 24.97,
+    "priceBand": "$12.97 - $48.49",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0DXHGTMQL",
+      "title": "The AirScent Waterless Diffuser - Cold Air Scent Diffuser Oil Machine",
+      "brand": "Air-Scent",
+      "price": 80.0,
+      "salesParent": 16295,
+      "revenue": 1624285.62,
+      "rating": 4.4,
+      "reviews": 1634
+    },
+    {
+      "rank": 2,
+      "asin": "B00TSTZQEY",
+      "title": "Majestic Pure Lavender Essential Oil for Diffuser - 4 Fl Oz",
+      "brand": "Majestic Pure",
+      "price": 9.99,
+      "salesParent": 136313,
+      "revenue": 1356314.38,
+      "rating": 4.5,
+      "reviews": 40950
+    },
+    {
+      "rank": 3,
+      "asin": "B01MR4Y0CZ",
+      "title": "ASAKUKI Essential Oil Diffuser for Home, 500ML Aromatherapy Humidifier",
+      "brand": "ASAKUKI",
+      "price": 21.99,
+      "salesParent": 32270,
+      "revenue": 678638.12,
+      "rating": 4.3,
+      "reviews": 72922
+    },
+    {
+      "rank": 4,
+      "asin": "B0DHBZ2TX9",
+      "title": "3500 Sq.Ft Smart Scent Diffuser - HVAC System",
+      "brand": "Aromadd",
+      "price": 169.99,
+      "salesParent": 3935,
+      "revenue": 668910.69,
+      "rating": 4.5,
+      "reviews": 1623
+    },
+    {
+      "rank": 5,
+      "asin": "B078J4YVKX",
+      "title": "SVA Black Seed Carrier Oil, Glass Bottle, Large Size, 32 Fl Oz (946 ml)",
+      "brand": "SVA ORGANICS",
+      "price": 47.99,
+      "salesParent": 10495,
+      "revenue": 477417.56,
+      "rating": 4.3,
+      "reviews": 104
+    },
+    {
+      "rank": 6,
+      "asin": "B07MF74H7F",
+      "title": "SVA Organic Tamanu Seed Carrier Oil, Huge Bottle, 32 Fl Oz (946 ml)",
+      "brand": "SVA ORGANICS",
+      "price": 49.99,
+      "salesParent": 9526,
+      "revenue": 460772.62,
+      "rating": 4.2,
+      "reviews": 26
+    },
+    {
+      "rank": 7,
+      "asin": "B07Q86KDVJ",
+      "title": "Cliganic Organic Lavender Essential Oil For Diffuser, 100% Pure, 0.34 Fl Oz",
+      "brand": "Cliganic",
+      "price": 8.99,
+      "salesParent": 51021,
+      "revenue": 453576.72,
+      "rating": 4.5,
+      "reviews": 9285
+    },
+    {
+      "rank": 8,
+      "asin": "B09PR9R9SL",
+      "title": "100% Pure Rosemary Essential Oil for Hair, Undiluted - 4 Fl Oz",
+      "brand": "KUKKA essential oils",
+      "price": 9.99,
+      "salesParent": 42535,
+      "revenue": 443640.06,
+      "rating": 4.6,
+      "reviews": 5658
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -15,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -15,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 21039652,
+    "priorHeadRevenue": 24757123,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 98,
+      "newCount": 31,
+      "pct": 32,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 37,
+      "brandCount": 65,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.41,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0DXHGTMQL",
+        "title": "The AirScent Waterless Diffuser - Cold Air Scent Diffuser Oil Machine",
+        "rating": 4.4,
+        "reviews": 1634
+      },
+      {
+        "rank": 2,
+        "asin": "B00TSTZQEY",
+        "title": "Majestic Pure Lavender Essential Oil for Diffuser - 4 Fl Oz",
+        "rating": 4.5,
+        "reviews": 40950
+      },
+      {
+        "rank": 3,
+        "asin": "B01MR4Y0CZ",
+        "title": "ASAKUKI Essential Oil Diffuser for Home, 500ML Aromatherapy Humidifier",
+        "rating": 4.3,
+        "reviews": 72922
+      },
+      {
+        "rank": 4,
+        "asin": "B0DHBZ2TX9",
+        "title": "3500 Sq.Ft Smart Scent Diffuser - HVAC System",
+        "rating": 4.5,
+        "reviews": 1623
+      },
+      {
+        "rank": 5,
+        "asin": "B078J4YVKX",
+        "title": "SVA Black Seed Carrier Oil, Glass Bottle, Large Size, 32 Fl Oz (946 ml)",
+        "rating": 4.3,
+        "reviews": 104
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3760941:13052911:3767491",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

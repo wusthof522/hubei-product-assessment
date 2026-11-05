@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "318135011",
+  "level": "L2",
+  "categoryPathEn": "Industrial & Scientific > Occupational Health & Safety Products",
+  "categoryPathCn": "工业类 > 职业健康",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 7317015,
+    "avgRevenue": 73170,
+    "medianPrice": 85.35,
+    "priceBand": "$25.92 - $179.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0FNC32CYC",
+      "title": "1 Roll Premium Yellow Caution Tape, 3 Inch x 1000FT Halloween Decor",
+      "brand": "SWRT",
+      "price": 8.99,
+      "salesParent": 32334,
+      "revenue": 292946.06,
+      "rating": 4.3,
+      "reviews": 1237
+    },
+    {
+      "rank": 2,
+      "asin": "B00004Y75M",
+      "title": "Eagle 5 Gallon Type I Red Safety Gas Can for Gasoline",
+      "brand": "Eagle",
+      "price": 64.98,
+      "salesParent": 3516,
+      "revenue": 228469.69,
+      "rating": 4.7,
+      "reviews": 8268
+    },
+    {
+      "rank": 3,
+      "asin": "B0FBPJ5D5R",
+      "title": "Sandbaggy Cast-in-Place ADA Pads - USA Made Truncated Domes | ADA/DOT Compliant | 5 Year Warranty (1, Yellow, 24&quot; x 60&quot;)",
+      "brand": "Sandbaggy",
+      "price": 9946.2,
+      "salesParent": 22,
+      "revenue": 218816.41,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "rank": 4,
+      "asin": "B0CKM5FJQX",
+      "title": "Nuclear Radiation Detector GQ GMC-800 Geiger Counter USA Design Product US National Standard Large Color LCD Display 5 Alarm Types Dosimeter Data Save &amp; Global Share Beta Gamma X-ray Portable Device",
+      "brand": "GQ",
+      "price": 85.98,
+      "salesParent": 1805,
+      "revenue": 155193.91,
+      "rating": 4.6,
+      "reviews": 1142
+    },
+    {
+      "rank": 5,
+      "asin": "B0B7KTV8Q8",
+      "title": "RoadHero 18 Inch 4 Pack Collapsible Traffic Safety Cones with Bag, Orange",
+      "brand": "RoadHero",
+      "price": 25.8,
+      "salesParent": 5985,
+      "revenue": 154712.25,
+      "rating": 4.7,
+      "reviews": 3413
+    },
+    {
+      "rank": 6,
+      "asin": "B0DM91RCVK",
+      "title": "RoadHero 8 Pack 28 Inch 5.5 Lb Orange Traffic Cones with Heavy Black Base",
+      "brand": "RoadHero",
+      "price": 109.8,
+      "salesParent": 1262,
+      "revenue": 136939.62,
+      "rating": 4.8,
+      "reviews": 293
+    },
+    {
+      "rank": 7,
+      "asin": "B0DWDLJ9W6",
+      "title": "VEVOR Stanchions and Velvet Ropes 6Pcs, Hollow Base with Stainless Steel Post, 4 Red Velvet Ropes and Posts, Crowd Control Barriers Gold Stanchions, Red Carpet Runner Poles for Party Supplies",
+      "brand": "VEVOR",
+      "price": 93.9,
+      "salesParent": 1504,
+      "revenue": 136036.8,
+      "rating": 4.4,
+      "reviews": 468
+    },
+    {
+      "rank": 8,
+      "asin": "B08B86ZG1R",
+      "title": "Alcedo Large Sharps Container 2 Gallon (2-Pack) Home &amp; Professional Use",
+      "brand": "Alcedo",
+      "price": 24.95,
+      "salesParent": 5253,
+      "revenue": 131062.35,
+      "rating": 4.8,
+      "reviews": 3202
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 3,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 3,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 7317015,
+    "priorHeadRevenue": 7117555,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 19,
+      "pct": 19,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 35,
+      "brandCount": 64,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.51,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0FNC32CYC",
+        "title": "1 Roll Premium Yellow Caution Tape, 3 Inch x 1000FT Halloween Decor",
+        "rating": 4.3,
+        "reviews": 1237
+      },
+      {
+        "rank": 2,
+        "asin": "B00004Y75M",
+        "title": "Eagle 5 Gallon Type I Red Safety Gas Can for Gasoline",
+        "rating": 4.7,
+        "reviews": 8268
+      },
+      {
+        "rank": 3,
+        "asin": "B0FBPJ5D5R",
+        "title": "Sandbaggy Cast-in-Place ADA Pads - USA Made Truncated Domes | ADA/DOT Compliant | 5 Year Warranty (1, Yellow, 24&quot; x 60&quot;)",
+        "rating": null,
+        "reviews": null
+      },
+      {
+        "rank": 4,
+        "asin": "B0CKM5FJQX",
+        "title": "Nuclear Radiation Detector GQ GMC-800 Geiger Counter USA Design Product US National Standard Large Color LCD Display 5 Alarm Types Dosimeter Data Save &amp; Global Share Beta Gamma X-ray Portable Device",
+        "rating": 4.6,
+        "reviews": 1142
+      },
+      {
+        "rank": 5,
+        "asin": "B0B7KTV8Q8",
+        "title": "RoadHero 18 Inch 4 Pack Collapsible Traffic Safety Cones with Bag, Orange",
+        "rating": 4.7,
+        "reviews": 3413
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "16310091:318135011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

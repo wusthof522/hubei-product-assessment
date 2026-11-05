@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "13291541",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Games & Accessories > Casino Equipment > Game Table Accessories",
+  "categoryPathCn": "玩具与游戏 > 游戏和配件 > 赌场设备 > 游戏桌配件",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 96,
+    "totalRevenue": 1067267,
+    "avgRevenue": 11117,
+    "medianPrice": 30.49,
+    "priceBand": "$18.99 - $59.34",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0H6FHNDWY",
+      "title": "2026 Mah Jong Card, Large Print for American Rules - 4 Pack",
+      "brand": "Ecorura",
+      "price": 8.99,
+      "salesParent": 12988,
+      "revenue": 126373.0,
+      "rating": 4.8,
+      "reviews": 117
+    },
+    {
+      "rank": 2,
+      "asin": "B0GZT3TGMV",
+      "title": "4 Pcs 33.5&quot; Clear Mahjong Mat Bag, Black, Zipper",
+      "brand": "Locmeo",
+      "price": 29.99,
+      "salesParent": 1181,
+      "revenue": 39516.26,
+      "rating": 4.4,
+      "reviews": 31
+    },
+    {
+      "rank": 3,
+      "asin": "B0H6S11ZVQ",
+      "title": "Mahjong Rack Storage Bag with 4 Dividers for 16&quot;-20&quot; Mahjong Racks (Pink)",
+      "brand": "Rykovul",
+      "price": 15.92,
+      "salesParent": 2002,
+      "revenue": 32972.94,
+      "rating": 4.7,
+      "reviews": 50
+    },
+    {
+      "rank": 4,
+      "asin": "B0H9LNHPV9",
+      "title": "20 Inch Clear Mahjong Racks with Pushers,Non-Slip,with Velvet Storage Bag",
+      "brand": "SYMORIN",
+      "price": 39.99,
+      "salesParent": 779,
+      "revenue": 31152.21,
+      "rating": 4.6,
+      "reviews": 30
+    },
+    {
+      "rank": 5,
+      "asin": "B0C2BSQ469",
+      "title": "Bingo v2 Flashboard Controller - US Version 75 Balls - Use for Games with 1 Year Warranty | New Version | TV NOT Included",
+      "brand": "Innovatronix",
+      "price": 930.0,
+      "salesParent": 32,
+      "revenue": 29760.0,
+      "rating": 4.3,
+      "reviews": 62
+    },
+    {
+      "rank": 6,
+      "asin": "B0DS5WH18L",
+      "title": "Teenyyou Raffle Drum, Holds 600 Tickets, Small, Integrated Rotary, Silver",
+      "brand": "Teenyyou",
+      "price": 28.99,
+      "salesParent": 793,
+      "revenue": 23361.78,
+      "rating": 3.6,
+      "reviews": 183
+    },
+    {
+      "rank": 7,
+      "asin": "B0FJ8TQ69B",
+      "title": "Beige and White Floral Chinoiserie Mahjong Mat 31.5&quot; x 31.5&quot;",
+      "brand": "Sonwyoung",
+      "price": 24.99,
+      "salesParent": 892,
+      "revenue": 22291.08,
+      "rating": 4.4,
+      "reviews": 401
+    },
+    {
+      "rank": 8,
+      "asin": "B0CWPGJ5C8",
+      "title": "GUTSHOT Foldable Poker Table for 10 Players with Dealer Tray - Premium Soft-Padded Armrest, Individual Cup Holders - Crafted with Durable Materials, Long-Lasting Poker Table (Red)",
+      "brand": "GUTSHOT",
+      "price": 1499.0,
+      "salesParent": 14,
+      "revenue": 20986.0,
+      "rating": 4.7,
+      "reviews": 5
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 113,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 113,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1067267,
+    "priorHeadRevenue": 500061,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 96,
+      "newCount": 71,
+      "pct": 74,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 25,
+      "brandCount": 82,
+      "level": "分散",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.31,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0H6FHNDWY",
+        "title": "2026 Mah Jong Card, Large Print for American Rules - 4 Pack",
+        "rating": 4.8,
+        "reviews": 117
+      },
+      {
+        "rank": 2,
+        "asin": "B0GZT3TGMV",
+        "title": "4 Pcs 33.5&quot; Clear Mahjong Mat Bag, Black, Zipper",
+        "rating": 4.4,
+        "reviews": 31
+      },
+      {
+        "rank": 3,
+        "asin": "B0H6S11ZVQ",
+        "title": "Mahjong Rack Storage Bag with 4 Dividers for 16&quot;-20&quot; Mahjong Racks (Pink)",
+        "rating": 4.7,
+        "reviews": 50
+      },
+      {
+        "rank": 4,
+        "asin": "B0H9LNHPV9",
+        "title": "20 Inch Clear Mahjong Racks with Pushers,Non-Slip,with Velvet Storage Bag",
+        "rating": 4.6,
+        "reviews": 30
+      },
+      {
+        "rank": 5,
+        "asin": "B0C2BSQ469",
+        "title": "Bingo v2 Flashboard Controller - US Version 75 Balls - Use for Games with 1 Year Warranty | New Version | TV NOT Included",
+        "rating": 4.3,
+        "reviews": 62
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166220011:13291101:13291541",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

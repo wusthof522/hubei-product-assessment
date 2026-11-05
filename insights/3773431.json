@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3773431",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins, Minerals & Supplements > Amino Acids > Creatine",
+  "categoryPathCn": "健康与家居 > 身、泳和附剂 > 设计 > 肌酸",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 59926241,
+    "avgRevenue": 599262,
+    "medianPrice": 29.99,
+    "priceBand": "$23.99 - $39.71",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B07978VPPH",
+      "title": "THORNE Creatine, Micronized Creatine Monohydrate Powder, 90 Servings",
+      "brand": "THORNE",
+      "price": 44.0,
+      "salesParent": 182133,
+      "revenue": 8013852.0,
+      "rating": 4.7,
+      "reviews": 19059
+    },
+    {
+      "rank": 2,
+      "asin": "B00GL2HMES",
+      "title": "Nutricost Micronized Creatine Monohydrate Powder - 500g (100 Servings) - Pure Unflavored - 5g Per Serving - Non-GMO, Gluten Free",
+      "brand": "Nutricost",
+      "price": 21.5,
+      "salesParent": 272586,
+      "revenue": 5852421.0,
+      "rating": 4.7,
+      "reviews": 61704
+    },
+    {
+      "rank": 3,
+      "asin": "B002DYIZEO",
+      "title": "Optimum Nutrition Creatine Monohydrate Powder, Unflavored, 120 Servings",
+      "brand": "Optimum Nutrition",
+      "price": 27.99,
+      "salesParent": 177371,
+      "revenue": 4888344.5,
+      "rating": 4.6,
+      "reviews": 84214
+    },
+    {
+      "rank": 4,
+      "asin": "B0CSKQVCWF",
+      "title": "Create Creatine Monohydrate Gummies for Women and Men, Watermelon, 90ct",
+      "brand": "Create",
+      "price": 49.98,
+      "salesParent": 95840,
+      "revenue": 4790083.0,
+      "rating": 4.6,
+      "reviews": 1913
+    },
+    {
+      "rank": 5,
+      "asin": "B085Z9P87K",
+      "title": "Momentous Creatine Monohydrate Powder, 5g per Serving, Unflavored",
+      "brand": "Momentous",
+      "price": 42.99,
+      "salesParent": 63079,
+      "revenue": 2711766.25,
+      "rating": 4.5,
+      "reviews": 3593
+    },
+    {
+      "rank": 6,
+      "asin": "B00E9M4XEE",
+      "title": "BulkSupplements.com Creatine Monohydrate Powder - 1KG (Pack of 1)",
+      "brand": "BulkSupplements",
+      "price": 27.97,
+      "salesParent": 79345,
+      "revenue": 2219279.5,
+      "rating": 4.6,
+      "reviews": 57678
+    },
+    {
+      "rank": 7,
+      "asin": "B00DLWONF2",
+      "title": "Optimum Nutrition Micronized Creatine Monohydrate Capsules, 100 Ct",
+      "brand": "Optimum Nutrition",
+      "price": 19.99,
+      "salesParent": 104714,
+      "revenue": 2087997.25,
+      "rating": 4.7,
+      "reviews": 30325
+    },
+    {
+      "rank": 8,
+      "asin": "B0DJDQCJX2",
+      "title": "Creatine for Women, Creatine Monohydrate Powder, Collagen, Biotin, BCAA",
+      "brand": "Clean Nutraceuticals",
+      "price": 32.95,
+      "salesParent": 53218,
+      "revenue": 1753533.12,
+      "rating": 4.4,
+      "reviews": 4673
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 52,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 52,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 59926241,
+    "priorHeadRevenue": 39399608,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 34,
+      "pct": 34,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 52,
+      "brandCount": 83,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.5,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B07978VPPH",
+        "title": "THORNE Creatine, Micronized Creatine Monohydrate Powder, 90 Servings",
+        "rating": 4.7,
+        "reviews": 19059
+      },
+      {
+        "rank": 2,
+        "asin": "B00GL2HMES",
+        "title": "Nutricost Micronized Creatine Monohydrate Powder - 500g (100 Servings) - Pure Unflavored - 5g Per Serving - Non-GMO, Gluten Free",
+        "rating": 4.7,
+        "reviews": 61704
+      },
+      {
+        "rank": 3,
+        "asin": "B002DYIZEO",
+        "title": "Optimum Nutrition Creatine Monohydrate Powder, Unflavored, 120 Servings",
+        "rating": 4.6,
+        "reviews": 84214
+      },
+      {
+        "rank": 4,
+        "asin": "B0CSKQVCWF",
+        "title": "Create Creatine Monohydrate Gummies for Women and Men, Watermelon, 90ct",
+        "rating": 4.6,
+        "reviews": 1913
+      },
+      {
+        "rank": 5,
+        "asin": "B085Z9P87K",
+        "title": "Momentous Creatine Monohydrate Powder, 5g per Serving, Unflavored",
+        "rating": 4.5,
+        "reviews": 3593
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:23675621011:10781161:3773431",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

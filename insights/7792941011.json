@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "7792941011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Health Care > OTC Medications & Treatments > Cold Sore & Fever Blister Treatments",
+  "categoryPathCn": "健康与家居 > 卫生保健 > 非处方药和治疗 > 单纯性疱疹和热病性疱疹治疗",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 80,
+    "totalRevenue": 1863609,
+    "avgRevenue": 23295,
+    "medianPrice": 16.59,
+    "priceBand": "$12.01 - $26.87",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B071K8PFHG",
+      "title": "Abreva 10 Percent Docosanol Cold Sore Treatment, Treats Your Fever Blister in 2.5 Days - 0.07 oz Tube x 2",
+      "brand": "Abreva",
+      "price": 29.95,
+      "salesParent": 15372,
+      "revenue": 523570.34,
+      "rating": 4.8,
+      "reviews": 22449
+    },
+    {
+      "rank": 2,
+      "asin": "B08MVF9YW1",
+      "title": "Mederma Cold Sore Discreet Patch, Hydrocolloid Gel, 15 Patches",
+      "brand": "Mederma",
+      "price": 12.95,
+      "salesParent": 25555,
+      "revenue": 329915.03,
+      "rating": 4.3,
+      "reviews": 12427
+    },
+    {
+      "rank": 3,
+      "asin": "B000UALM1G",
+      "title": "Abreva Docosanol 10% Cold Sore Treatment, 0.07 oz Pump Bottle",
+      "brand": "Abreva",
+      "price": 15.47,
+      "salesParent": 8369,
+      "revenue": 142524.08,
+      "rating": 4.7,
+      "reviews": 11794
+    },
+    {
+      "rank": 4,
+      "asin": "B0C43HPYFK",
+      "title": "Abreva Cold Sore Treatment Rapid Pain Relief Cream with Lidocaine, 3 g Tube",
+      "brand": "Abreva",
+      "price": 11.96,
+      "salesParent": 10275,
+      "revenue": 118779.01,
+      "rating": 4.6,
+      "reviews": 3986
+    },
+    {
+      "rank": 5,
+      "asin": "B0CP2RLRJ8",
+      "title": "Ohm TARO Cold Sore Treatment, Docosanol 10% Cream, 0.07oz, 1 Tube",
+      "brand": "TARO",
+      "price": 9.99,
+      "salesParent": 10527,
+      "revenue": 103059.33,
+      "rating": 4.6,
+      "reviews": 3906
+    },
+    {
+      "rank": 6,
+      "asin": "B00014EGA0",
+      "title": "Quantum Health Lip Clear Lysine+ Cold Sore Treatment &amp; Pain Relief, 0.25 oz",
+      "brand": "Quantum",
+      "price": 7.48,
+      "salesParent": 11372,
+      "revenue": 83811.64,
+      "rating": 4.6,
+      "reviews": 6197
+    },
+    {
+      "rank": 7,
+      "asin": "B0D8P72LS1",
+      "title": "Abreva Docosanol 10% Cold Sore Treatment, 0.07 oz Pump Bottle x 3",
+      "brand": "Abreva",
+      "price": 56.97,
+      "salesParent": 1066,
+      "revenue": 59120.36,
+      "rating": 4.7,
+      "reviews": 498
+    },
+    {
+      "rank": 8,
+      "asin": "B071Z1LZCP",
+      "title": "Campho Phenique Cold Sore Treatment Gel, Maximum Strength, 0.23 Oz",
+      "brand": "Campho-Phenique",
+      "price": 4.24,
+      "salesParent": 10396,
+      "revenue": 43975.08,
+      "rating": 4.7,
+      "reviews": 17020
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 0,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 0,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1863609,
+    "priorHeadRevenue": 1863907,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 80,
+      "newCount": 16,
+      "pct": 20,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 77,
+      "brandCount": 47,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.48,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B071K8PFHG",
+        "title": "Abreva 10 Percent Docosanol Cold Sore Treatment, Treats Your Fever Blister in 2.5 Days - 0.07 oz Tube x 2",
+        "rating": 4.8,
+        "reviews": 22449
+      },
+      {
+        "rank": 2,
+        "asin": "B08MVF9YW1",
+        "title": "Mederma Cold Sore Discreet Patch, Hydrocolloid Gel, 15 Patches",
+        "rating": 4.3,
+        "reviews": 12427
+      },
+      {
+        "rank": 3,
+        "asin": "B000UALM1G",
+        "title": "Abreva Docosanol 10% Cold Sore Treatment, 0.07 oz Pump Bottle",
+        "rating": 4.7,
+        "reviews": 11794
+      },
+      {
+        "rank": 4,
+        "asin": "B0C43HPYFK",
+        "title": "Abreva Cold Sore Treatment Rapid Pain Relief Cream with Lidocaine, 3 g Tube",
+        "rating": 4.6,
+        "reviews": 3986
+      },
+      {
+        "rank": 5,
+        "asin": "B0CP2RLRJ8",
+        "title": "Ohm TARO Cold Sore Treatment, Docosanol 10% Cream, 0.07oz, 1 Tube",
+        "rating": 4.6,
+        "reviews": 3906
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3760941:10079990011:7792941011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23675628011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins, Minerals & Supplements > Herbal Supplements > Garcinia Cambogia",
+  "categoryPathCn": "健康与家居 > 身、泳和附剂 > 草本补充 > 藤黄果",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 21,
+    "totalRevenue": 77027,
+    "avgRevenue": 3668,
+    "medianPrice": 17.14,
+    "priceBand": "$10.49 - $22.7",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B09SVGSH88",
+      "title": "aSquared Nutrition Garcinia Cambogia - 1600mg/Serving - 180 Capsules",
+      "brand": "aSquared Nutrition",
+      "price": 34.95,
+      "salesParent": 528,
+      "revenue": 18453.6,
+      "rating": 4.4,
+      "reviews": 766
+    },
+    {
+      "rank": 2,
+      "asin": "B0BSMH3BXS",
+      "title": "Carlyle Garcinia Cambogia Extract | 180 Capsules",
+      "brand": "Carlyle",
+      "price": 9.99,
+      "salesParent": 1340,
+      "revenue": 13386.6,
+      "rating": 4.4,
+      "reviews": 1317
+    },
+    {
+      "rank": 3,
+      "asin": "B0DVWRLQ6K",
+      "title": "Fat Burner and Appetite Suppressant for Weight Loss for Women and Men",
+      "brand": "DR VITAMIN SOLUTIONS",
+      "price": 9.99,
+      "salesParent": 1026,
+      "revenue": 10249.74,
+      "rating": 4.0,
+      "reviews": 790
+    },
+    {
+      "rank": 4,
+      "asin": "B07NJDM8F4",
+      "title": "100% HCA Ultra Extreme Garcinia Cambogia Extract – 100% Pure All Natural – The Ultimate Fast Action Supplement",
+      "brand": "MagixLabs",
+      "price": 49.97,
+      "salesParent": 161,
+      "revenue": 8045.17,
+      "rating": 4.1,
+      "reviews": 2084
+    },
+    {
+      "rank": 5,
+      "asin": "B00HSHHPD8",
+      "title": "NOW Supplements, Garcinia Extract, Healthy Metabolism*, 120 Tabs",
+      "brand": "NOW",
+      "price": 17.14,
+      "salesParent": 267,
+      "revenue": 4285.35,
+      "rating": 4.4,
+      "reviews": 970
+    },
+    {
+      "rank": 6,
+      "asin": "B000Q467DE",
+      "title": "Himalaya USDA Organic Garcinia Cambogia Herbal Supplement,600 mg,60 Caplets",
+      "brand": "Himalaya",
+      "price": 20.99,
+      "salesParent": 195,
+      "revenue": 4093.05,
+      "rating": 4.2,
+      "reviews": 942
+    },
+    {
+      "rank": 7,
+      "asin": "B0GF7YQ87T",
+      "title": "OxyEnergy Calorie Blocker 6-in-1 Natural Weight Loss Supplement for Women",
+      "brand": "OxyEnergy",
+      "price": 15.99,
+      "salesParent": 206,
+      "revenue": 3979.92,
+      "rating": 3.6,
+      "reviews": 87
+    },
+    {
+      "rank": 8,
+      "asin": "B09Q5ZQ94F",
+      "title": "Sugar Free Garcinia Cambogia Gummies 1000mg 95% HCA Pure Extract with L-Carnitine, Raspberry Ketone, Chromium, Green Coffee Bean for Metabolism, 100% Organic Extract, Vegan, Strawberry Flavor 60 Cts",
+      "brand": "NEVISS",
+      "price": 23.29,
+      "salesParent": 142,
+      "revenue": 3307.18,
+      "rating": 3.9,
+      "reviews": 212
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -63,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -63,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 77027,
+    "priorHeadRevenue": 207896,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 21,
+      "newCount": 2,
+      "pct": 10,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 71,
+      "brandCount": 20,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.26,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B09SVGSH88",
+        "title": "aSquared Nutrition Garcinia Cambogia - 1600mg/Serving - 180 Capsules",
+        "rating": 4.4,
+        "reviews": 766
+      },
+      {
+        "rank": 2,
+        "asin": "B0BSMH3BXS",
+        "title": "Carlyle Garcinia Cambogia Extract | 180 Capsules",
+        "rating": 4.4,
+        "reviews": 1317
+      },
+      {
+        "rank": 3,
+        "asin": "B0DVWRLQ6K",
+        "title": "Fat Burner and Appetite Suppressant for Weight Loss for Women and Men",
+        "rating": 4.0,
+        "reviews": 790
+      },
+      {
+        "rank": 4,
+        "asin": "B07NJDM8F4",
+        "title": "100% HCA Ultra Extreme Garcinia Cambogia Extract – 100% Pure All Natural – The Ultimate Fast Action Supplement",
+        "rating": 4.1,
+        "reviews": 2084
+      },
+      {
+        "rank": 5,
+        "asin": "B00HSHHPD8",
+        "title": "NOW Supplements, Garcinia Extract, Healthy Metabolism*, 120 Tabs",
+        "rating": 4.4,
+        "reviews": 970
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:23675621011:3764461:23675628011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

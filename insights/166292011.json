@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "166292011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Learning & Education > Reading & Writing > Magnetic Letters & Words",
+  "categoryPathCn": "玩具 > 学习 > 阅读 > 磁性字母",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 2198940,
+    "avgRevenue": 22212,
+    "medianPrice": 24.89,
+    "priceBand": "$16.99 - $29.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0FZ9ZRM5T",
+      "title": "MAGNA-TILES microMAGS Learn Numbers 56-Piece Magnetic Construction Set, The Original Magnetic Building Brand",
+      "brand": "MAGNA-TILES",
+      "price": 38.54,
+      "salesParent": 3801,
+      "revenue": 149607.36,
+      "rating": 4.7,
+      "reviews": 109
+    },
+    {
+      "rank": 2,
+      "asin": "B00JLHVX36",
+      "title": "LeapFrog Fridge Phonics Magnetic Letter Set, Yellow",
+      "brand": "LeapFrog",
+      "price": 29.99,
+      "salesParent": 4913,
+      "revenue": 142968.3,
+      "rating": 4.8,
+      "reviews": 22075
+    },
+    {
+      "rank": 3,
+      "asin": "B081GTG1ZW",
+      "title": "GAMENOTE Magnetic Letter Board Double Sided, ABC Alphabet Tracing Board",
+      "brand": "GAMENOTE",
+      "price": 22.3,
+      "salesParent": 4546,
+      "revenue": 113468.16,
+      "rating": 4.6,
+      "reviews": 5952
+    },
+    {
+      "rank": 4,
+      "asin": "B08JLSR6RN",
+      "title": "Magnetic Wooden Fishing Game Toy for Preschoolers, Alphabet Fish Catching Counting Games Puzzle with Numbers and Letters, Preschool Learning ABC and Math Educational Toys for 3 4 5 Years Old Kids",
+      "brand": "NASHRIO",
+      "price": 11.76,
+      "salesParent": 10100,
+      "revenue": 111100.0,
+      "rating": 4.5,
+      "reviews": 5651
+    },
+    {
+      "rank": 5,
+      "asin": "B07NZMJGWB",
+      "title": "Gamenote Magnetic Alphabet Letters Kit, 238 Pcs with Magnet Board",
+      "brand": "GAMENOTE",
+      "price": 25.99,
+      "salesParent": 3877,
+      "revenue": 102275.26,
+      "rating": 4.8,
+      "reviews": 6502
+    },
+    {
+      "rank": 6,
+      "asin": "B0C3RFS4WV",
+      "title": "JoyCat Magnetic Letters Numbers Alphabet ABC 123 Fridge Magnets, 78 Pcs",
+      "brand": "JoyCat",
+      "price": 13.99,
+      "salesParent": 6736,
+      "revenue": 96931.04,
+      "rating": 4.6,
+      "reviews": 2840
+    },
+    {
+      "rank": 7,
+      "asin": "B0F99KNVPH",
+      "title": "JoyCat Magnetic Letter and Number Tracing Board Set, ABC and Numbers 1-20",
+      "brand": "JoyCat",
+      "price": 39.99,
+      "salesParent": 2314,
+      "revenue": 89898.9,
+      "rating": 4.5,
+      "reviews": 499
+    },
+    {
+      "rank": 8,
+      "asin": "B0CQ8V67MS",
+      "title": "hand2mind Advancing Phonics Word Work Small Group Set, Ages 5+",
+      "brand": "hand2mind",
+      "price": 62.99,
+      "salesParent": 1424,
+      "revenue": 85155.2,
+      "rating": 4.9,
+      "reviews": 285
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 13,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 13,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 2198940,
+    "priorHeadRevenue": 1953217,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 35,
+      "pct": 35,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 58,
+      "brandCount": 64,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.55,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0FZ9ZRM5T",
+        "title": "MAGNA-TILES microMAGS Learn Numbers 56-Piece Magnetic Construction Set, The Original Magnetic Building Brand",
+        "rating": 4.7,
+        "reviews": 109
+      },
+      {
+        "rank": 2,
+        "asin": "B00JLHVX36",
+        "title": "LeapFrog Fridge Phonics Magnetic Letter Set, Yellow",
+        "rating": 4.8,
+        "reviews": 22075
+      },
+      {
+        "rank": 3,
+        "asin": "B081GTG1ZW",
+        "title": "GAMENOTE Magnetic Letter Board Double Sided, ABC Alphabet Tracing Board",
+        "rating": 4.6,
+        "reviews": 5952
+      },
+      {
+        "rank": 4,
+        "asin": "B08JLSR6RN",
+        "title": "Magnetic Wooden Fishing Game Toy for Preschoolers, Alphabet Fish Catching Counting Games Puzzle with Numbers and Letters, Preschool Learning ABC and Math Educational Toys for 3 4 5 Years Old Kids",
+        "rating": 4.5,
+        "reviews": 5651
+      },
+      {
+        "rank": 5,
+        "asin": "B07NZMJGWB",
+        "title": "Gamenote Magnetic Alphabet Letters Kit, 238 Pcs with Magnet Board",
+        "rating": 4.8,
+        "reviews": 6502
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166269011:166289011:166292011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

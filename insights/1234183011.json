@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "1234183011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Sports & Outdoor Play > Kites & Wind Spinners > Kites",
+  "categoryPathCn": "玩具 > 体育 > 风筝 > 风筝",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 96,
+    "totalRevenue": 451997,
+    "avgRevenue": 4708,
+    "medianPrice": 19.99,
+    "priceBand": "$15.99 - $33.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0DY2TGLWQ",
+      "title": "Complete Kite with Handle, Line &amp; Accessories,Easy to Fly for Kids &amp; Adults, Perfect for Beach, Park, Family Outdoor Activities",
+      "brand": "SGftre",
+      "price": 17.99,
+      "salesParent": 2360,
+      "revenue": 42456.4,
+      "rating": 4.4,
+      "reviews": 647
+    },
+    {
+      "rank": 2,
+      "asin": "B0DFTCZQ2H",
+      "title": "3 Piece Set Butterfly Delta Octopus Kites for Kids and Adults，Easy to Fly for Outdoor Adults Children Line Kite for Kids Toy (Gradient Grassland Rainbow+Octopus Red+Blue Dreamy Butterfly, 3)",
+      "brand": "SGftre",
+      "price": 24.99,
+      "salesParent": 1027,
+      "revenue": 25664.73,
+      "rating": 4.6,
+      "reviews": 662
+    },
+    {
+      "rank": 3,
+      "asin": "B08KDKKFSX",
+      "title": "Delta Kite for Kids Ages 4-12, Extremely Easy to Fly Beach Kites for Adults",
+      "brand": "Mint's Colorful Life",
+      "price": 15.99,
+      "salesParent": 1330,
+      "revenue": 21266.7,
+      "rating": 4.5,
+      "reviews": 4863
+    },
+    {
+      "rank": 4,
+      "asin": "B0DCJZLC22",
+      "title": "Delta Kite Three Set for Kids and Adults,Easy to Fly Adult Kites,Perfect Family Kite for Parks and Beach, Delta Kites for Fun Outdoor Activities",
+      "brand": "SGftre",
+      "price": 24.99,
+      "salesParent": 632,
+      "revenue": 15793.68,
+      "rating": 4.6,
+      "reviews": 528
+    },
+    {
+      "rank": 5,
+      "asin": "B0F2615K4H",
+      "title": "Large Single Line Beach Kite for Adults,Easy to Fly Kites for Kids Age 4-12",
+      "brand": "Kaiciuss",
+      "price": 21.99,
+      "salesParent": 548,
+      "revenue": 11634.04,
+      "rating": 4.5,
+      "reviews": 80
+    },
+    {
+      "rank": 6,
+      "asin": "B0D6R7BCHQ",
+      "title": "Large Delta Kite for Kids &amp; Adults,Extremely Easy to Fly Kite for Beach Trip,String Line Included,with Colorful Tail,Perfect for Beginners",
+      "brand": "Honbo",
+      "price": 14.98,
+      "salesParent": 730,
+      "revenue": 10935.4,
+      "rating": 4.6,
+      "reviews": 3493
+    },
+    {
+      "rank": 7,
+      "asin": "B0D7ZW3T39",
+      "title": "Delta Kite for Kids &amp; Adults，Extremely Easy to Fly for Beginners，Kites for Beach Trip Park Family Outdoor Activities",
+      "brand": "SGftre",
+      "price": 39.99,
+      "salesParent": 261,
+      "revenue": 10437.39,
+      "rating": 4.6,
+      "reviews": 456
+    },
+    {
+      "rank": 8,
+      "asin": "B08WC1ZXGW",
+      "title": "JOYIN 3 Packs Large Delta Kite Gradient Rainbow, Easy to Fly Huge for Kids and Adults, Large Delta Beach Kite for Outdoor Games and Activities",
+      "brand": "JOYIN",
+      "price": 21.99,
+      "salesParent": 527,
+      "revenue": 10381.9,
+      "rating": 4.3,
+      "reviews": 1964
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -2,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -2,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 451997,
+    "priorHeadRevenue": 463541,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 96,
+      "newCount": 28,
+      "pct": 29,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 56,
+      "brandCount": 36,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.45,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0DY2TGLWQ",
+        "title": "Complete Kite with Handle, Line &amp; Accessories,Easy to Fly for Kids &amp; Adults, Perfect for Beach, Park, Family Outdoor Activities",
+        "rating": 4.4,
+        "reviews": 647
+      },
+      {
+        "rank": 2,
+        "asin": "B0DFTCZQ2H",
+        "title": "3 Piece Set Butterfly Delta Octopus Kites for Kids and Adults，Easy to Fly for Outdoor Adults Children Line Kite for Kids Toy (Gradient Grassland Rainbow+Octopus Red+Blue Dreamy Butterfly, 3)",
+        "rating": 4.6,
+        "reviews": 662
+      },
+      {
+        "rank": 3,
+        "asin": "B08KDKKFSX",
+        "title": "Delta Kite for Kids Ages 4-12, Extremely Easy to Fly Beach Kites for Adults",
+        "rating": 4.5,
+        "reviews": 4863
+      },
+      {
+        "rank": 4,
+        "asin": "B0DCJZLC22",
+        "title": "Delta Kite Three Set for Kids and Adults,Easy to Fly Adult Kites,Perfect Family Kite for Parks and Beach, Delta Kites for Fun Outdoor Activities",
+        "rating": 4.6,
+        "reviews": 528
+      },
+      {
+        "rank": 5,
+        "asin": "B0F2615K4H",
+        "title": "Large Single Line Beach Kite for Adults,Easy to Fly Kites for Kids Age 4-12",
+        "rating": 4.5,
+        "reviews": 80
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166420011:166431011:1234183011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

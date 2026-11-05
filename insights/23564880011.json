@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23564880011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Dolls & Accessories > Doll Accessories > Clothing",
+  "categoryPathCn": "Toys & Games > Dolls & Accessories > Doll Accessories > Clothing",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 97,
+    "totalRevenue": 940441,
+    "avgRevenue": 9695,
+    "medianPrice": 21.49,
+    "priceBand": "$13.99 - $29.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0H3Y4G1K6",
+      "title": "7 Inch Desk Goose Outfits, 8-Pack Holiday Clothes for Mini Goose",
+      "brand": "Funle",
+      "price": 39.99,
+      "salesParent": 3441,
+      "revenue": 139773.42,
+      "rating": 4.7,
+      "reviews": 147
+    },
+    {
+      "rank": 2,
+      "asin": "B0CKVVGCGV",
+      "title": "BABESIDE Baby Doll Diapers, 6 Reusable Diapers for 12-15 Inch Baby Dolls",
+      "brand": "BABESIDE",
+      "price": 9.99,
+      "salesParent": 4342,
+      "revenue": 38991.16,
+      "rating": 4.6,
+      "reviews": 1055
+    },
+    {
+      "rank": 3,
+      "asin": "B0H5WHBFST",
+      "title": "Dolls Kill Race Car Driver Costume Set by Trickz N' Treatz",
+      "brand": "Dolls Kill",
+      "price": 129.0,
+      "salesParent": 252,
+      "revenue": 33198.48,
+      "rating": 4.9,
+      "reviews": 24
+    },
+    {
+      "rank": 4,
+      "asin": "B0FF9XBM33",
+      "title": "American 18 Inch Doll Accessories and Clothes Cheerleader Outfit Set",
+      "brand": "ARTST",
+      "price": 22.99,
+      "salesParent": 1082,
+      "revenue": 24658.78,
+      "rating": 4.6,
+      "reviews": 234
+    },
+    {
+      "rank": 5,
+      "asin": "B0GLSXR1NR",
+      "title": "The Elf on the Shelf Marvel Spider-Man Web Hero Hoodie",
+      "brand": "The Elf on the Shelf",
+      "price": 12.95,
+      "salesParent": 1239,
+      "revenue": 24544.59,
+      "rating": 4.9,
+      "reviews": 17
+    },
+    {
+      "rank": 6,
+      "asin": "B0FNZXGD32",
+      "title": "BABESIDE 6 Sets of Baby Doll Clothes for 12-16 Inch Dolls",
+      "brand": "BABESIDE",
+      "price": 19.99,
+      "salesParent": 963,
+      "revenue": 18961.47,
+      "rating": 4.4,
+      "reviews": 291
+    },
+    {
+      "rank": 7,
+      "asin": "B0CTKFVN9S",
+      "title": "BABESIDE 5 Sets of Reborn Baby Doll Clothes, Headbands for 17–22 Inch Dolls",
+      "brand": "BABESIDE",
+      "price": 23.99,
+      "salesParent": 762,
+      "revenue": 18280.38,
+      "rating": 4.8,
+      "reviews": 586
+    },
+    {
+      "rank": 8,
+      "asin": "B0BX3TLQ2C",
+      "title": "BABESIDE 8PCS Baby Doll Accessories Set with Bassinet for 17-22 Inch Dolls",
+      "brand": "BABESIDE",
+      "price": 28.79,
+      "salesParent": 542,
+      "revenue": 16644.82,
+      "rating": 4.7,
+      "reviews": 1284
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -21,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -21,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 940441,
+    "priorHeadRevenue": 1183233,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 97,
+      "newCount": 50,
+      "pct": 52,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 54,
+      "brandCount": 44,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.62,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0H3Y4G1K6",
+        "title": "7 Inch Desk Goose Outfits, 8-Pack Holiday Clothes for Mini Goose",
+        "rating": 4.7,
+        "reviews": 147
+      },
+      {
+        "rank": 2,
+        "asin": "B0CKVVGCGV",
+        "title": "BABESIDE Baby Doll Diapers, 6 Reusable Diapers for 12-15 Inch Baby Dolls",
+        "rating": 4.6,
+        "reviews": 1055
+      },
+      {
+        "rank": 3,
+        "asin": "B0H5WHBFST",
+        "title": "Dolls Kill Race Car Driver Costume Set by Trickz N' Treatz",
+        "rating": 4.9,
+        "reviews": 24
+      },
+      {
+        "rank": 4,
+        "asin": "B0FF9XBM33",
+        "title": "American 18 Inch Doll Accessories and Clothes Cheerleader Outfit Set",
+        "rating": 4.6,
+        "reviews": 234
+      },
+      {
+        "rank": 5,
+        "asin": "B0GLSXR1NR",
+        "title": "The Elf on the Shelf Marvel Spider-Man Web Hero Hoodie",
+        "rating": 4.9,
+        "reviews": 17
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166118011:166119011:23564880011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3774411",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins, Minerals & Supplements > Minerals > Magnesium",
+  "categoryPathCn": "健康与家居 > 身、泳和附剂 > 出国 > 镁",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 73970214,
+    "avgRevenue": 747174,
+    "medianPrice": 24.76,
+    "priceBand": "$18.86 - $32.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B07P5K7DQP",
+      "title": "Pure Encapsulations Magnesium (Glycinate), 90 Capsules",
+      "brand": "Pure Encapsulations",
+      "price": 27.0,
+      "salesParent": 308758,
+      "revenue": 8330290.5,
+      "rating": 4.7,
+      "reviews": 53787
+    },
+    {
+      "rank": 2,
+      "asin": "B08WPLW4VN",
+      "title": "BIOptimizers Magnesium Breakthrough 500mg, 7 Forms of Magnesium 60 Capsules",
+      "brand": "BIOptimizers",
+      "price": 39.95,
+      "salesParent": 115461,
+      "revenue": 4440630.0,
+      "rating": 4.6,
+      "reviews": 19752
+    },
+    {
+      "rank": 3,
+      "asin": "B083NFCN1D",
+      "title": "Life Extension Neuro-Mag Magnesium L-Threonate, 150 Veg Caps (Pack of 2)",
+      "brand": "Life Extension",
+      "price": 97.99,
+      "salesParent": 29433,
+      "revenue": 2884139.5,
+      "rating": 4.8,
+      "reviews": 2121
+    },
+    {
+      "rank": 4,
+      "asin": "B0F5XYHRPV",
+      "title": "THORNE Magnesium Glycinate, Chelated Magnesium Supplement, 90 Capsules",
+      "brand": "THORNE",
+      "price": 26.0,
+      "salesParent": 102825,
+      "revenue": 2673450.0,
+      "rating": 4.8,
+      "reviews": 4211
+    },
+    {
+      "rank": 5,
+      "asin": "B0H9BBPP5L",
+      "title": "Neuro-Mag Magnesium L-Threonate, Memory Health, Quick Thinking, Cognitive Health Support, Vegetarian, 90 Vegetarian Capsules",
+      "brand": "Life Extension",
+      "price": 30.78,
+      "salesParent": 77314,
+      "revenue": 2379725.0,
+      "rating": 4.6,
+      "reviews": 25109
+    },
+    {
+      "rank": 6,
+      "asin": "B006P536E6",
+      "title": "Life Extension Neuro-Mag Magnesium L-Threonate, 90 Vegetarian Capsules",
+      "brand": "Life Extension",
+      "price": 30.78,
+      "salesParent": 76536,
+      "revenue": 2355778.25,
+      "rating": 4.6,
+      "reviews": 24839
+    },
+    {
+      "rank": 7,
+      "asin": "B0B6CTYD6S",
+      "title": "Magnesium Glycinate 400mg, Chelated Magnesium Supplement, 180 Capsules",
+      "brand": "Double Wood Supplements",
+      "price": 16.99,
+      "salesParent": 102547,
+      "revenue": 1688949.0,
+      "rating": 4.7,
+      "reviews": 26667
+    },
+    {
+      "rank": 8,
+      "asin": "B01M4GM9R1",
+      "title": "Magnesium L-Threonate, Magtein, Clinically Studied, 2000mg, 120 capsules",
+      "brand": "Double Wood Supplements",
+      "price": 29.95,
+      "salesParent": 56058,
+      "revenue": 1678937.12,
+      "rating": 4.6,
+      "reviews": 19878
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 26,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 26,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 73970214,
+    "priorHeadRevenue": 58626063,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 13,
+      "pct": 13,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 42,
+      "brandCount": 71,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.6,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B07P5K7DQP",
+        "title": "Pure Encapsulations Magnesium (Glycinate), 90 Capsules",
+        "rating": 4.7,
+        "reviews": 53787
+      },
+      {
+        "rank": 2,
+        "asin": "B08WPLW4VN",
+        "title": "BIOptimizers Magnesium Breakthrough 500mg, 7 Forms of Magnesium 60 Capsules",
+        "rating": 4.6,
+        "reviews": 19752
+      },
+      {
+        "rank": 3,
+        "asin": "B083NFCN1D",
+        "title": "Life Extension Neuro-Mag Magnesium L-Threonate, 150 Veg Caps (Pack of 2)",
+        "rating": 4.8,
+        "reviews": 2121
+      },
+      {
+        "rank": 4,
+        "asin": "B0F5XYHRPV",
+        "title": "THORNE Magnesium Glycinate, Chelated Magnesium Supplement, 90 Capsules",
+        "rating": 4.8,
+        "reviews": 4211
+      },
+      {
+        "rank": 5,
+        "asin": "B0H9BBPP5L",
+        "title": "Neuro-Mag Magnesium L-Threonate, Memory Health, Quick Thinking, Cognitive Health Support, Vegetarian, 90 Vegetarian Capsules",
+        "rating": 4.6,
+        "reviews": 25109
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:23675621011:3774271:3774411",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

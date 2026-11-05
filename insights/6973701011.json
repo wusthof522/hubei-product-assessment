@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "6973701011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Diet & Sports Nutrition > Sports Nutrition > Post-Workout & Recovery",
+  "categoryPathCn": "健康与家居 > 暮和喜欢 > 运动营养 > 锻炼后和恢复",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 4171657,
+    "avgRevenue": 42138,
+    "medianPrice": 35.99,
+    "priceBand": "$27.0 - $49.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0H12BPBKH",
+      "title": "Javvy Clear Protein Powder with Clear Whey Protein, Blackberry Lemonade",
+      "brand": "Javvy Coffee",
+      "price": 39.95,
+      "salesParent": 27996,
+      "revenue": 1118440.25,
+      "rating": 4.2,
+      "reviews": 1428
+    },
+    {
+      "rank": 2,
+      "asin": "B01N7DTD98",
+      "title": "Garden of Life Sport Organic Vegan Protein Powder, Vanilla, 19 Servings",
+      "brand": "Garden of Life",
+      "price": 41.99,
+      "salesParent": 8913,
+      "revenue": 361243.88,
+      "rating": 4.2,
+      "reviews": 8935
+    },
+    {
+      "rank": 3,
+      "asin": "B009K6WAAS",
+      "title": "EFX Sports Karbolyn Fuel | Fast-Absorbing Carbohydrate Powder | Carb Load, Sustained Energy, Quick Recovery | Stimulant Free | 39 Servings (Neutral)",
+      "brand": "EFX Sports",
+      "price": 49.99,
+      "salesParent": 4244,
+      "revenue": 212157.56,
+      "rating": 4.6,
+      "reviews": 1082
+    },
+    {
+      "rank": 4,
+      "asin": "B079821J35",
+      "title": "EVL BCAA Energy Amino Acids Powder with Natural Caffeine - Pink Lemonade",
+      "brand": "Evlution",
+      "price": 23.99,
+      "salesParent": 8829,
+      "revenue": 211807.7,
+      "rating": 4.5,
+      "reviews": 2319
+    },
+    {
+      "rank": 5,
+      "asin": "B07YNGFFDT",
+      "title": "MuscleTech HMB Supplements 1000mg, Clear Muscle (42 Liquid Softgels)",
+      "brand": "MuscleTech",
+      "price": 24.99,
+      "salesParent": 4057,
+      "revenue": 134935.81,
+      "rating": 4.4,
+      "reviews": 3519
+    },
+    {
+      "rank": 6,
+      "asin": "B001LXMUW6",
+      "title": "Now Sports, ZMA, Enhanced Absorption, Sports Recovery*, 180 Veg Caps",
+      "brand": "NOW",
+      "price": 29.85,
+      "salesParent": 3830,
+      "revenue": 112793.5,
+      "rating": 4.6,
+      "reviews": 4617
+    },
+    {
+      "rank": 7,
+      "asin": "B01HGQZXIY",
+      "title": "Post JYM BCAAs+ Recovery Matrix, Mandarin Orange - Creatine HCl - 21.2 Oz",
+      "brand": "JYM Supplement Science",
+      "price": 44.99,
+      "salesParent": 2095,
+      "revenue": 95113.0,
+      "rating": 4.6,
+      "reviews": 865
+    },
+    {
+      "rank": 8,
+      "asin": "B0H76FTGKX",
+      "title": "Sports Research® Creatine Electrolytes,16 Sugar-Free Flavored Variety Packs",
+      "brand": "Sports Research",
+      "price": 25.15,
+      "salesParent": 3116,
+      "revenue": 86562.48,
+      "rating": 5.0,
+      "reviews": 20
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 10,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 10,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 4171657,
+    "priorHeadRevenue": 3795229,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 26,
+      "pct": 26,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 50,
+      "brandCount": 80,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.4,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0H12BPBKH",
+        "title": "Javvy Clear Protein Powder with Clear Whey Protein, Blackberry Lemonade",
+        "rating": 4.2,
+        "reviews": 1428
+      },
+      {
+        "rank": 2,
+        "asin": "B01N7DTD98",
+        "title": "Garden of Life Sport Organic Vegan Protein Powder, Vanilla, 19 Servings",
+        "rating": 4.2,
+        "reviews": 8935
+      },
+      {
+        "rank": 3,
+        "asin": "B009K6WAAS",
+        "title": "EFX Sports Karbolyn Fuel | Fast-Absorbing Carbohydrate Powder | Carb Load, Sustained Energy, Quick Recovery | Stimulant Free | 39 Servings (Neutral)",
+        "rating": 4.6,
+        "reviews": 1082
+      },
+      {
+        "rank": 4,
+        "asin": "B079821J35",
+        "title": "EVL BCAA Energy Amino Acids Powder with Natural Caffeine - Pink Lemonade",
+        "rating": 4.5,
+        "reviews": 2319
+      },
+      {
+        "rank": 5,
+        "asin": "B07YNGFFDT",
+        "title": "MuscleTech HMB Supplements 1000mg, Clear Muscle (42 Liquid Softgels)",
+        "rating": 4.4,
+        "reviews": 3519
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3764441:6973663011:6973701011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

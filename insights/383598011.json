@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "383598011",
+  "level": "L2",
+  "categoryPathEn": "Industrial & Scientific > Cutting Tools",
+  "categoryPathCn": "工业类 > 切割工具",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 3005585,
+    "avgRevenue": 30359,
+    "medianPrice": 31.19,
+    "priceBand": "$19.97 - $65.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0H1VF4W91",
+      "title": "12 Pack Corner Clamps for Woodworking, 90 Degree Clamping Squares",
+      "brand": "watercock",
+      "price": 69.99,
+      "salesParent": 1403,
+      "revenue": 98280.16,
+      "rating": 4.6,
+      "reviews": 60
+    },
+    {
+      "rank": 2,
+      "asin": "B00IQJXF5O",
+      "title": "TEMO M35 Cobalt Spiral Step Drill Unibit Bit 3/16&quot; -7/8&quot; 12 Size 1/4&quot; Shank",
+      "brand": "TEMO",
+      "price": 29.99,
+      "salesParent": 2534,
+      "revenue": 75994.66,
+      "rating": 4.6,
+      "reviews": 384
+    },
+    {
+      "rank": 3,
+      "asin": "B09VGP5F44",
+      "title": "5PCS 1/2'' Carbide Square End Mill Bits Set, Milling Bits Cutter 1/2 Carbide End Mills for Alloy Steels/Hardened Steels, HRC 45 Deg Single End 4 Flute AlTiN Coating",
+      "brand": "Home of quality tools",
+      "price": 126.99,
+      "salesParent": 568,
+      "revenue": 72130.32,
+      "rating": 4.6,
+      "reviews": 415
+    },
+    {
+      "rank": 4,
+      "asin": "B09KNQBBXP",
+      "title": "Evolution S210CCS Metal Cutting Circular Saw | 8-1/4&quot; Blade | Cuts Steel Clean &amp; Cool | Adjustable 3&quot; Depth | Chip Collector | No Heat Burr or Sparks | High Torque Motor | TCT Blade Included",
+      "brand": "EVOLUTION",
+      "price": 295.0,
+      "salesParent": 242,
+      "revenue": 71390.0,
+      "rating": 4.5,
+      "reviews": 607
+    },
+    {
+      "rank": 5,
+      "asin": "B0DYNDHNPL",
+      "title": "ANGELSWORD M2 HSS Annular Cutter Set 14 Pcs,Cutting Depth 1&quot;,Mag Drill Bit",
+      "brand": "ANGELSWORD",
+      "price": 149.99,
+      "salesParent": 461,
+      "revenue": 69145.39,
+      "rating": 4.0,
+      "reviews": 18
+    },
+    {
+      "rank": 6,
+      "asin": "B09MSSXFWQ",
+      "title": "20 Pcs Carbide Burr Bits 1/8&quot; Shank Compatible with Dremel Milwaukee Metal Grinding Wood Stone Steel Carving Cutting Engraving Grinder Kit Attachment Rotary Tool Accessories Set Harder Than Diamond",
+      "brand": "Sworker",
+      "price": 19.99,
+      "salesParent": 3337,
+      "revenue": 66706.63,
+      "rating": 4.6,
+      "reviews": 3465
+    },
+    {
+      "rank": 7,
+      "asin": "B0BPC79C12",
+      "title": "(20PCS) 1/8&quot; Cobalt Drill Bit, HSS M35 Metal Drill Bits for Steel, Stainless Steel, Cast Iron, Hard Plastic and Wood",
+      "brand": "RCINDUS",
+      "price": 14.99,
+      "salesParent": 4333,
+      "revenue": 64951.67,
+      "rating": 4.5,
+      "reviews": 944
+    },
+    {
+      "rank": 8,
+      "asin": "B0FY59PV8W",
+      "title": "10pcs Micro Metric Taps Bits Set with 1Pc Tap Wrench for Metal M1-M3.5",
+      "brand": "SMJXTOP",
+      "price": 19.99,
+      "salesParent": 3110,
+      "revenue": 62168.9,
+      "rating": 4.6,
+      "reviews": 420
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 21,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 21,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 3005585,
+    "priorHeadRevenue": 2493491,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 25,
+      "pct": 25,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 20,
+      "brandCount": 71,
+      "level": "分散",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.47,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0H1VF4W91",
+        "title": "12 Pack Corner Clamps for Woodworking, 90 Degree Clamping Squares",
+        "rating": 4.6,
+        "reviews": 60
+      },
+      {
+        "rank": 2,
+        "asin": "B00IQJXF5O",
+        "title": "TEMO M35 Cobalt Spiral Step Drill Unibit Bit 3/16&quot; -7/8&quot; 12 Size 1/4&quot; Shank",
+        "rating": 4.6,
+        "reviews": 384
+      },
+      {
+        "rank": 3,
+        "asin": "B09VGP5F44",
+        "title": "5PCS 1/2'' Carbide Square End Mill Bits Set, Milling Bits Cutter 1/2 Carbide End Mills for Alloy Steels/Hardened Steels, HRC 45 Deg Single End 4 Flute AlTiN Coating",
+        "rating": 4.6,
+        "reviews": 415
+      },
+      {
+        "rank": 4,
+        "asin": "B09KNQBBXP",
+        "title": "Evolution S210CCS Metal Cutting Circular Saw | 8-1/4&quot; Blade | Cuts Steel Clean &amp; Cool | Adjustable 3&quot; Depth | Chip Collector | No Heat Burr or Sparks | High Torque Motor | TCT Blade Included",
+        "rating": 4.5,
+        "reviews": 607
+      },
+      {
+        "rank": 5,
+        "asin": "B0DYNDHNPL",
+        "title": "ANGELSWORD M2 HSS Annular Cutter Set 14 Pcs,Cutting Depth 1&quot;,Mag Drill Bit",
+        "rating": 4.0,
+        "reviews": 18
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "16310091:383598011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "274335011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Puzzles > Brain Teasers > Puzzle Boxes",
+  "categoryPathCn": "玩具 > 拼图 > 脑筋急转弯 > 益智盒",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 1337040,
+    "avgRevenue": 13505,
+    "medianPrice": 26.98,
+    "priceBand": "$19.99 - $45.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B092W8MTSV",
+      "title": "Rubik’s Cube, The Original 3x3 Color-Matching Puzzle Classic Problem-Solving Challenging Brain Teaser Fidget Toy, Packaging May Vary, for Adults &amp; Kids Ages 8 and up",
+      "brand": "Rubik's",
+      "price": 15.0,
+      "salesParent": 19324,
+      "revenue": 259907.8,
+      "rating": 4.7,
+      "reviews": 2372
+    },
+    {
+      "rank": 2,
+      "asin": "B09X4GXHPL",
+      "title": "iDventure Cluebox Camelot, Escape Room in a Wooden Puzzle Box for Adults",
+      "brand": "iDventure",
+      "price": 54.99,
+      "salesParent": 2187,
+      "revenue": 120263.13,
+      "rating": 4.6,
+      "reviews": 15311
+    },
+    {
+      "rank": 3,
+      "asin": "B00006JZCG",
+      "title": "Melissa &amp; Doug Pattern Blocks and Boards with 120 Multi-Colored Wooden Shape Tiles, 5 Double-Sided Puzzle Boards, Tangram Puzzles, Montessori Toys for Girls &amp; Boys",
+      "brand": "Melissa &amp; Doug",
+      "price": 16.14,
+      "salesParent": 4831,
+      "revenue": 77924.02,
+      "rating": 4.7,
+      "reviews": 9345
+    },
+    {
+      "rank": 4,
+      "asin": "B0DFWQ6N2K",
+      "title": "Puzzle Potato Tesla Box - Self-Powered Electronic Puzzle Box for Adults",
+      "brand": "PUZZLE POTATO",
+      "price": 69.99,
+      "salesParent": 1102,
+      "revenue": 77250.2,
+      "rating": 4.7,
+      "reviews": 813
+    },
+    {
+      "rank": 5,
+      "asin": "B00146G706",
+      "title": "Melissa &amp; Doug Bear Family Dress-Up 45-Piece Wooden Puzzle Set",
+      "brand": "Melissa &amp; Doug",
+      "price": 24.99,
+      "salesParent": 3046,
+      "revenue": 57599.86,
+      "rating": 4.8,
+      "reviews": 2900
+    },
+    {
+      "rank": 6,
+      "asin": "B07RSZ7W65",
+      "title": "GAN 356 RS, Speed Cube 3x3 Stickerless Puzzle for Kids",
+      "brand": "GAN",
+      "price": 19.99,
+      "salesParent": 2616,
+      "revenue": 52293.84,
+      "rating": 4.6,
+      "reviews": 14543
+    },
+    {
+      "rank": 7,
+      "asin": "B08RB868R8",
+      "title": "Cryptex Da Vinci Code Mini Cryptex Lock Puzzle Boxes with Hidden Compartments Anniversary Valentine's Day Romantic Birthday Gifts for Her Gifts for Girlfriend Box for Men",
+      "brand": "coejokno",
+      "price": 29.99,
+      "salesParent": 1453,
+      "revenue": 43575.47,
+      "rating": 4.7,
+      "reviews": 5535
+    },
+    {
+      "rank": 8,
+      "asin": "B0CJVFGNBK",
+      "title": "Shashibo SpongeBob SquarePants DODECA Magnetic Puzzle Cube, Fidget Toy",
+      "brand": "Shashibo",
+      "price": 24.99,
+      "salesParent": 1164,
+      "revenue": 26515.92,
+      "rating": 4.7,
+      "reviews": 3578
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 46,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 46,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1337040,
+    "priorHeadRevenue": 913176,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 24,
+      "pct": 24,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 55,
+      "brandCount": 53,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.53,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B092W8MTSV",
+        "title": "Rubik’s Cube, The Original 3x3 Color-Matching Puzzle Classic Problem-Solving Challenging Brain Teaser Fidget Toy, Packaging May Vary, for Adults &amp; Kids Ages 8 and up",
+        "rating": 4.7,
+        "reviews": 2372
+      },
+      {
+        "rank": 2,
+        "asin": "B09X4GXHPL",
+        "title": "iDventure Cluebox Camelot, Escape Room in a Wooden Puzzle Box for Adults",
+        "rating": 4.6,
+        "reviews": 15311
+      },
+      {
+        "rank": 3,
+        "asin": "B00006JZCG",
+        "title": "Melissa &amp; Doug Pattern Blocks and Boards with 120 Multi-Colored Wooden Shape Tiles, 5 Double-Sided Puzzle Boards, Tangram Puzzles, Montessori Toys for Girls &amp; Boys",
+        "rating": 4.7,
+        "reviews": 9345
+      },
+      {
+        "rank": 4,
+        "asin": "B0DFWQ6N2K",
+        "title": "Puzzle Potato Tesla Box - Self-Powered Electronic Puzzle Box for Adults",
+        "rating": 4.7,
+        "reviews": 813
+      },
+      {
+        "rank": 5,
+        "asin": "B00146G706",
+        "title": "Melissa &amp; Doug Bear Family Dress-Up 45-Piece Wooden Puzzle Set",
+        "rating": 4.8,
+        "reviews": 2900
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166359011:166360011:274335011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

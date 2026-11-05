@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "274331011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Party Supplies > Party Tableware > Cups",
+  "categoryPathCn": "玩具 > 派对用品 > 宴会餐具 > 杯子",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 98,
+    "totalRevenue": 634971,
+    "avgRevenue": 6479,
+    "medianPrice": 21.99,
+    "priceBand": "$16.72 - $27.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0FBVPZGFC",
+      "title": "50 Pack Halloween Plastic Cups - Colorful 16Oz Disposable Drinking Cups, Vampire Mummy Monster Ghost Pumpkin Party Cups for Halloween Party Favors Coffee Wine Hot Cold Drinks (5 Designs)",
+      "brand": "CUPLOOV",
+      "price": 15.99,
+      "salesParent": 1531,
+      "revenue": 27496.76,
+      "rating": 4.7,
+      "reviews": 76
+    },
+    {
+      "rank": 2,
+      "asin": "B0CGMWRVXJ",
+      "title": "Gatherfun 100 Pcs 16oz Football Plastic Cups - Football Parties and Tailgate Events, Disposable &amp; Convenient - Ideal Party Supplies &amp; Party Favors for Football Themed Birthdays",
+      "brand": "Gatherfun",
+      "price": 23.98,
+      "salesParent": 1128,
+      "revenue": 26474.16,
+      "rating": 4.9,
+      "reviews": 1197
+    },
+    {
+      "rank": 3,
+      "asin": "B0C6K2RF2D",
+      "title": "mishunyus 40 Pcs Glow in The Dark Halloween Party Cups",
+      "brand": "mishunyus",
+      "price": 27.99,
+      "salesParent": 903,
+      "revenue": 22719.48,
+      "rating": 4.7,
+      "reviews": 73
+    },
+    {
+      "rank": 4,
+      "asin": "B0D78F217T",
+      "title": "mishunyus 24 Pcs Halloween Glow Pumpkin Party Cups, Night Party Decoration &amp; for Adults, Trick or Treat Happy Halloween Cups, Orange Plastic Cups Supplies Tableware (16 oz)",
+      "brand": "mishunyus",
+      "price": 24.99,
+      "salesParent": 1069,
+      "revenue": 22192.44,
+      "rating": 4.7,
+      "reviews": 58
+    },
+    {
+      "rank": 5,
+      "asin": "B0D4DBJTG8",
+      "title": "mishunyus 24 Pack Party Cups, Purple Glow Colored Plastic Cups, 16-Ounce Plastic Party Cups, Strong and Sturdy for Party Supplies",
+      "brand": "mishunyus",
+      "price": 17.49,
+      "salesParent": 1141,
+      "revenue": 19956.09,
+      "rating": 4.4,
+      "reviews": 180
+    },
+    {
+      "rank": 6,
+      "asin": "B01IK543NG",
+      "title": "American Greetings Paw Patrol Party Supplies, 16 oz. Reusable Plastic Party Cups (12-Count)",
+      "brand": "American Greetings",
+      "price": 11.28,
+      "salesParent": 1640,
+      "revenue": 19138.8,
+      "rating": 4.8,
+      "reviews": 3874
+    },
+    {
+      "rank": 7,
+      "asin": "B0FCF5M2KX",
+      "title": "24Set Halloween Party Favors Goodie Cups with Lids and Straws Bulk for Kids",
+      "brand": "AFZMON",
+      "price": 23.99,
+      "salesParent": 679,
+      "revenue": 16784.88,
+      "rating": 4.8,
+      "reviews": 32
+    },
+    {
+      "rank": 8,
+      "asin": "B0CDQ9ZM2P",
+      "title": "Sliner 120 Pack Halloween Cups 16 oz Bloody Hand Print Plastic Cups",
+      "brand": "Sliner",
+      "price": 37.99,
+      "salesParent": 376,
+      "revenue": 13520.96,
+      "rating": 4.5,
+      "reviews": 26
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -16,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -16,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 634971,
+    "priorHeadRevenue": 756957,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 98,
+      "newCount": 28,
+      "pct": 29,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 28,
+      "brandCount": 73,
+      "level": "分散",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.66,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0FBVPZGFC",
+        "title": "50 Pack Halloween Plastic Cups - Colorful 16Oz Disposable Drinking Cups, Vampire Mummy Monster Ghost Pumpkin Party Cups for Halloween Party Favors Coffee Wine Hot Cold Drinks (5 Designs)",
+        "rating": 4.7,
+        "reviews": 76
+      },
+      {
+        "rank": 2,
+        "asin": "B0CGMWRVXJ",
+        "title": "Gatherfun 100 Pcs 16oz Football Plastic Cups - Football Parties and Tailgate Events, Disposable &amp; Convenient - Ideal Party Supplies &amp; Party Favors for Football Themed Birthdays",
+        "rating": 4.9,
+        "reviews": 1197
+      },
+      {
+        "rank": 3,
+        "asin": "B0C6K2RF2D",
+        "title": "mishunyus 40 Pcs Glow in The Dark Halloween Party Cups",
+        "rating": 4.7,
+        "reviews": 73
+      },
+      {
+        "rank": 4,
+        "asin": "B0D78F217T",
+        "title": "mishunyus 24 Pcs Halloween Glow Pumpkin Party Cups, Night Party Decoration &amp; for Adults, Trick or Treat Happy Halloween Cups, Orange Plastic Cups Supplies Tableware (16 oz)",
+        "rating": 4.7,
+        "reviews": 58
+      },
+      {
+        "rank": 5,
+        "asin": "B0D4DBJTG8",
+        "title": "mishunyus 24 Pack Party Cups, Purple Glow Colored Plastic Cups, 16-Ounce Plastic Party Cups, Strong and Sturdy for Party Supplies",
+        "rating": 4.4,
+        "reviews": 180
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:1266203011:274330011:274331011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

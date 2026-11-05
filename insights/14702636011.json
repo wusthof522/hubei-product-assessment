@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "14702636011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Dress Up & Pretend Play > Dress-Up Accessories > Masks",
+  "categoryPathCn": "玩具 > 扮靓 > 装扮配件 > 面具",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 5519085,
+    "avgRevenue": 55748,
+    "medianPrice": 25.99,
+    "priceBand": "$16.99 - $42.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0CMTYVSQL",
+      "title": "LED Light Up Mask with Gesture Sensing, Kids Toys Gifts for Boys",
+      "brand": "Mr.Pang",
+      "price": 31.99,
+      "salesParent": 23348,
+      "revenue": 716083.19,
+      "rating": 4.6,
+      "reviews": 1861
+    },
+    {
+      "rank": 2,
+      "asin": "B09Z6LJFX4",
+      "title": "LED Mask Face-Transforming Light up Mask Cool Gifts for Boys",
+      "brand": "Depointer Life",
+      "price": 31.99,
+      "salesParent": 18734,
+      "revenue": 568389.56,
+      "rating": 4.6,
+      "reviews": 3684
+    },
+    {
+      "rank": 3,
+      "asin": "B0D9LZXPZ1",
+      "title": "LED Light Up Mask with Gesture Sensing,Perfect Gifts for Teen Boys",
+      "brand": "JDBMAOYE",
+      "price": 28.79,
+      "salesParent": 16728,
+      "revenue": 525593.75,
+      "rating": 4.6,
+      "reviews": 661
+    },
+    {
+      "rank": 4,
+      "asin": "B09ZY7WY8P",
+      "title": "Led Mask Light up Mask Gesture Sensing, Kids Cool Toy Teen Boys Gift",
+      "brand": "MOYACA",
+      "price": 28.79,
+      "salesParent": 11682,
+      "revenue": 358170.12,
+      "rating": 4.7,
+      "reviews": 2112
+    },
+    {
+      "rank": 5,
+      "asin": "B07FFQQTXZ",
+      "title": "Poptrend Halloween Mask LED Light up Mask for Festival Cosplay Halloween Costume Masquerade Parties,Carnival,Gifts",
+      "brand": "Poptrend",
+      "price": 14.99,
+      "salesParent": 17164,
+      "revenue": 251967.53,
+      "rating": 4.4,
+      "reviews": 9973
+    },
+    {
+      "rank": 6,
+      "asin": "B09JBM1KLX",
+      "title": "Gootus LED Halloween Mask with Gesture Sensing &amp; Customizable",
+      "brand": "Gootus",
+      "price": 59.99,
+      "salesParent": 3377,
+      "revenue": 182830.78,
+      "rating": 4.4,
+      "reviews": 1912
+    },
+    {
+      "rank": 7,
+      "asin": "B08BW4GDJR",
+      "title": "JOYIN Halloween Led Mask, Light Up Mask and Gloves for Cosplay Costume (Red), 3 Modes Scary Glow in The Dark Masks for Boys Girls Halloween Party Dress Up Accessories, Gifts Giving",
+      "brand": "JOYIN",
+      "price": 29.99,
+      "salesParent": 8294,
+      "revenue": 173012.84,
+      "rating": 4.2,
+      "reviews": 3501
+    },
+    {
+      "rank": 8,
+      "asin": "B0DDNP55ZW",
+      "title": "Electronic MarK 5 Helmet Gold Voice Control/Sensing/Remote Control Open/Close with Sounds &amp; LED Eyes Light Up Super Hero Movie 1:1 model Prop.",
+      "brand": "Tarrshiney",
+      "price": 249.99,
+      "salesParent": 450,
+      "revenue": 114129.0,
+      "rating": 4.1,
+      "reviews": 49
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 18,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 18,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 5519085,
+    "priorHeadRevenue": 4672334,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 29,
+      "pct": 29,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 46,
+      "brandCount": 70,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.37,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0CMTYVSQL",
+        "title": "LED Light Up Mask with Gesture Sensing, Kids Toys Gifts for Boys",
+        "rating": 4.6,
+        "reviews": 1861
+      },
+      {
+        "rank": 2,
+        "asin": "B09Z6LJFX4",
+        "title": "LED Mask Face-Transforming Light up Mask Cool Gifts for Boys",
+        "rating": 4.6,
+        "reviews": 3684
+      },
+      {
+        "rank": 3,
+        "asin": "B0D9LZXPZ1",
+        "title": "LED Light Up Mask with Gesture Sensing,Perfect Gifts for Teen Boys",
+        "rating": 4.6,
+        "reviews": 661
+      },
+      {
+        "rank": 4,
+        "asin": "B09ZY7WY8P",
+        "title": "Led Mask Light up Mask Gesture Sensing, Kids Cool Toy Teen Boys Gift",
+        "rating": 4.7,
+        "reviews": 2112
+      },
+      {
+        "rank": 5,
+        "asin": "B07FFQQTXZ",
+        "title": "Poptrend Halloween Mask LED Light up Mask for Festival Cosplay Halloween Costume Masquerade Parties,Carnival,Gifts",
+        "rating": 4.4,
+        "reviews": 9973
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166316011:23744271011:14702636011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

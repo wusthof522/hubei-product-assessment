@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "18682064011",
+  "level": "L4",
+  "categoryPathEn": "Home & Kitchen > Furniture > Home Office Furniture > Home Office Chairs",
+  "categoryPathCn": "家居用品 > 家具 > 家庭办公家具 > 家庭办公椅",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 91,
+    "totalRevenue": 30618427,
+    "avgRevenue": 336466,
+    "medianPrice": 199.99,
+    "priceBand": "$129.99 - $299.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0DPHLWNBG",
+      "title": "ELABEST X100 Ergonomic Mesh Office Chair with Footrest, Big and Tall Hone Desk Chair with 5D Flip-Up Arms, Adjustable 3D Lumbar Support,Gaming &amp; Executive Computer Chairs",
+      "brand": "ELABEST",
+      "price": 297.49,
+      "salesParent": 5280,
+      "revenue": 1752432.0,
+      "rating": 4.6,
+      "reviews": 1593
+    },
+    {
+      "rank": 2,
+      "asin": "B0CG6V2XGS",
+      "title": "TRALT Office Chair Ergonomic Desk Chair with Lumbar Support Black, 1",
+      "brand": "TRALT",
+      "price": 139.99,
+      "salesParent": 8707,
+      "revenue": 1209141.0,
+      "rating": 4.2,
+      "reviews": 5186
+    },
+    {
+      "rank": 3,
+      "asin": "B0CQD3K8PJ",
+      "title": "TRALT Office Chair - Ergonomic Desk Chair with Adjustable Lumbar Support, Mesh Computer Chair, Executive Chairs for Home Office Comfortable Lumbar Support (Black)",
+      "brand": "TRALT",
+      "price": 122.99,
+      "salesParent": 8549,
+      "revenue": 1015022.81,
+      "rating": 4.3,
+      "reviews": 5077
+    },
+    {
+      "rank": 4,
+      "asin": "B0DWFSZ7NR",
+      "title": "COMHOMA Big and Tall Office Chair Heavy Duty Wide Ergonomic Gaming Chair with Deluxe Embossing Leather with Foot Rest 145°Reclining Adjustable Armrests Pocket Spring Back Support and Without Pillow",
+      "brand": "COMHOMA",
+      "price": 179.96,
+      "salesParent": 4743,
+      "revenue": 962117.56,
+      "rating": 4.0,
+      "reviews": 74
+    },
+    {
+      "rank": 5,
+      "asin": "B0FQDM23S4",
+      "title": "BestOffice Ergonomic Office Chair | Mid-Back Swivel Desk Chair | Dark Black",
+      "brand": "BestOffice",
+      "price": 41.88,
+      "salesParent": 23803,
+      "revenue": 950453.81,
+      "rating": 4.3,
+      "reviews": 65183
+    },
+    {
+      "rank": 6,
+      "asin": "B0FK5P1NZT",
+      "title": "TRALT Office Chair Ergonomic Desk Chair with Lumbar Support White Grey, 1",
+      "brand": "TRALT",
+      "price": 129.99,
+      "salesParent": 7179,
+      "revenue": 907425.62,
+      "rating": 4.2,
+      "reviews": 42
+    },
+    {
+      "rank": 7,
+      "asin": "B07Y8BXBX8",
+      "title": "Ergonomic Office Chair, High Back Home Desk Chair with Headrest, Flip-Up Arms, 90-120° Tilt Lock and Wide Cushion, Big and Tall Mesh Chairs for Man Woman, Black Task Chair",
+      "brand": "GABRYLLY",
+      "price": 215.55,
+      "salesParent": 3696,
+      "revenue": 884600.62,
+      "rating": 4.5,
+      "reviews": 14351
+    },
+    {
+      "rank": 8,
+      "asin": "B0HNJWPQFN",
+      "title": "COMHOMA Big and Tall Office Chair 650lbs Ergonomic Computer Chair 6 Gear Adjustable Headrest Swivel Rocking Home Office Desk Chairs Leather High Back Executive Office Chairs with Thickened Armrests",
+      "brand": "COMHOMA",
+      "price": 199.99,
+      "salesParent": 3961,
+      "revenue": 792160.44,
+      "rating": 4.2,
+      "reviews": 3110
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 4,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 4,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 30618427,
+    "priorHeadRevenue": 29453984,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 91,
+      "newCount": 47,
+      "pct": 52,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 39,
+      "brandCount": 49,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.25,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0DPHLWNBG",
+        "title": "ELABEST X100 Ergonomic Mesh Office Chair with Footrest, Big and Tall Hone Desk Chair with 5D Flip-Up Arms, Adjustable 3D Lumbar Support,Gaming &amp; Executive Computer Chairs",
+        "rating": 4.6,
+        "reviews": 1593
+      },
+      {
+        "rank": 2,
+        "asin": "B0CG6V2XGS",
+        "title": "TRALT Office Chair Ergonomic Desk Chair with Lumbar Support Black, 1",
+        "rating": 4.2,
+        "reviews": 5186
+      },
+      {
+        "rank": 3,
+        "asin": "B0CQD3K8PJ",
+        "title": "TRALT Office Chair - Ergonomic Desk Chair with Adjustable Lumbar Support, Mesh Computer Chair, Executive Chairs for Home Office Comfortable Lumbar Support (Black)",
+        "rating": 4.3,
+        "reviews": 5077
+      },
+      {
+        "rank": 4,
+        "asin": "B0DWFSZ7NR",
+        "title": "COMHOMA Big and Tall Office Chair Heavy Duty Wide Ergonomic Gaming Chair with Deluxe Embossing Leather with Foot Rest 145°Reclining Adjustable Armrests Pocket Spring Back Support and Without Pillow",
+        "rating": 4.0,
+        "reviews": 74
+      },
+      {
+        "rank": 5,
+        "asin": "B0FQDM23S4",
+        "title": "BestOffice Ergonomic Office Chair | Mid-Back Swivel Desk Chair | Dark Black",
+        "rating": 4.3,
+        "reviews": 65183
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "1055398:1063306:1063312:18682064011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

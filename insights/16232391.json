@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "16232391",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Medical Supplies & Equipment > Occupational & Physical Therapy Aids > Hand Exercisers",
+  "categoryPathCn": "健康与家居 > 医疗用品和设备 > 职业和物理疗法辅助用品 > 手部锻炼器具",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 997409,
+    "avgRevenue": 10075,
+    "medianPrice": 25.7,
+    "priceBand": "$15.68 - $69.89",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B01N1Q7X78",
+      "title": "Mind &amp; Body Stress Balls for Adults - Multi-Density Squeeze Balls for Hand Therapy &amp; Grip Strengthening - Stress &amp; Anxiety Relief - Choose 3-Ball (Soft, Medium &amp; Hard) or 2-Ball (Soft &amp; Hard) Sets",
+      "brand": "MindPanda",
+      "price": 21.45,
+      "salesParent": 3903,
+      "revenue": 84460.91,
+      "rating": 4.6,
+      "reviews": 8452
+    },
+    {
+      "rank": 2,
+      "asin": "B0CTK9LQFV",
+      "title": "FitBeast Grip Strength Trainer, Finger Exerciser, Forearm Strengthener 9-Piece Kit, Hand Grip Strengthener Targeted Strength, Relief &amp; Recovery",
+      "brand": "FitBeast",
+      "price": 9.99,
+      "salesParent": 8098,
+      "revenue": 77011.98,
+      "rating": 4.4,
+      "reviews": 4274
+    },
+    {
+      "rank": 3,
+      "asin": "B0D3BP7YP9",
+      "title": "Rehabilitation Robot Gloves Finger Exerciser Stroke Hand Function Left",
+      "brand": "JBMBHC",
+      "price": 69.99,
+      "salesParent": 890,
+      "revenue": 59897.0,
+      "rating": 4.2,
+      "reviews": 277
+    },
+    {
+      "rank": 4,
+      "asin": "B08393YG7B",
+      "title": "Grip Strength Trainer (8 Pack), Complete Hand Strengthening Devices",
+      "brand": "roygra",
+      "price": 9.99,
+      "salesParent": 5628,
+      "revenue": 56223.72,
+      "rating": 4.5,
+      "reviews": 5798
+    },
+    {
+      "rank": 5,
+      "asin": "B0FGH4KFV8",
+      "title": "Rehabilitation Robot Gloves for Hemiplegia Stroke Hand Recovery",
+      "brand": "XiangAi",
+      "price": 138.0,
+      "salesParent": 316,
+      "revenue": 43608.0,
+      "rating": 4.1,
+      "reviews": 26
+    },
+    {
+      "rank": 6,
+      "asin": "B078L1KZBZ",
+      "title": "Pnrskter Hand Grip Strengthener, Finger Exerciser, Grip Strength Trainer",
+      "brand": "Pnrskter",
+      "price": 11.99,
+      "salesParent": 3392,
+      "revenue": 40670.08,
+      "rating": 4.4,
+      "reviews": 29134
+    },
+    {
+      "rank": 7,
+      "asin": "B07KFMM36X",
+      "title": "Serenilite Hand Therapy Exercise Stress Ball Bundle, Tri-Density Stress Balls for Adults &amp; Grip Strengthening, Squeeze Balls for Hand Therapy, Hand Therapy Balls, Squeeze Ball, Hand Balls for Therapy",
+      "brand": "Serenilite",
+      "price": 22.95,
+      "salesParent": 1600,
+      "revenue": 36720.0,
+      "rating": 4.6,
+      "reviews": 6146
+    },
+    {
+      "rank": 8,
+      "asin": "B0F335QR7W",
+      "title": "Handheld Vibration Device for Hand Steadiness Support",
+      "brand": "VILIM ball",
+      "price": 299.0,
+      "salesParent": 112,
+      "revenue": 33488.0,
+      "rating": 3.3,
+      "reviews": 114
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -14,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -14,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 997409,
+    "priorHeadRevenue": 1165935,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 37,
+      "pct": 37,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 36,
+      "brandCount": 72,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.34,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B01N1Q7X78",
+        "title": "Mind &amp; Body Stress Balls for Adults - Multi-Density Squeeze Balls for Hand Therapy &amp; Grip Strengthening - Stress &amp; Anxiety Relief - Choose 3-Ball (Soft, Medium &amp; Hard) or 2-Ball (Soft &amp; Hard) Sets",
+        "rating": 4.6,
+        "reviews": 8452
+      },
+      {
+        "rank": 2,
+        "asin": "B0CTK9LQFV",
+        "title": "FitBeast Grip Strength Trainer, Finger Exerciser, Forearm Strengthener 9-Piece Kit, Hand Grip Strengthener Targeted Strength, Relief &amp; Recovery",
+        "rating": 4.4,
+        "reviews": 4274
+      },
+      {
+        "rank": 3,
+        "asin": "B0D3BP7YP9",
+        "title": "Rehabilitation Robot Gloves Finger Exerciser Stroke Hand Function Left",
+        "rating": 4.2,
+        "reviews": 277
+      },
+      {
+        "rank": 4,
+        "asin": "B08393YG7B",
+        "title": "Grip Strength Trainer (8 Pack), Complete Hand Strengthening Devices",
+        "rating": 4.5,
+        "reviews": 5798
+      },
+      {
+        "rank": 5,
+        "asin": "B0FGH4KFV8",
+        "title": "Rehabilitation Robot Gloves for Hemiplegia Stroke Hand Recovery",
+        "rating": 4.1,
+        "reviews": 26
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3775161:3776531:16232391",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

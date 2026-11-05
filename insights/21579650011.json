@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "21579650011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Household Supplies > Air Fresheners > Charcoal Bags",
+  "categoryPathCn": "健康与家居 > 家居用品 > 空气清新 > 木炭袋",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 1936159,
+    "avgRevenue": 19362,
+    "medianPrice": 17.24,
+    "priceBand": "$11.99 - $23.08",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B08DSYZGVB",
+      "title": "Activated Charcoal Odor Absorber for Strong Odors in Car, Closet, Shoe, Basement. 10 Activated Charcoal Bags Odor Absorbers for Home. Bamboo Charcoals Air Purifying Bag Charcoals Deodorizer Eliminator",
+      "brand": "Vergali",
+      "price": 21.99,
+      "salesParent": 35167,
+      "revenue": 773322.31,
+      "rating": 4.2,
+      "reviews": 18623
+    },
+    {
+      "rank": 2,
+      "asin": "B0FGHNL1FJ",
+      "title": "ARM &amp; HAMMER Fresh Effects Odor Neutralizing Baking Soda Pouches, 5 Count",
+      "brand": "ARM &amp; HAMMER",
+      "price": 9.88,
+      "salesParent": 20681,
+      "revenue": 201846.56,
+      "rating": 4.4,
+      "reviews": 1242
+    },
+    {
+      "rank": 3,
+      "asin": "B07QRX9CQT",
+      "title": "Charcoal Odor Absorber for Strong Odor (6 Pack, 100g each), Bamboo Charcoal Air Purifying Bag, Basement Musty Odor Eliminator Deodorizer, Activated Charcoal Odor Absorber for Closet, Shoe, Car",
+      "brand": "BASIC CONCEPTS",
+      "price": 16.95,
+      "salesParent": 8140,
+      "revenue": 137973.0,
+      "rating": 4.1,
+      "reviews": 21704
+    },
+    {
+      "rank": 4,
+      "asin": "B0CZ3Y8JT9",
+      "title": "Activated Charcoal Odor Absorber, 6P Shoe Odor Eliminator for Strong Odor",
+      "brand": "Innmily",
+      "price": 9.99,
+      "salesParent": 8269,
+      "revenue": 82607.31,
+      "rating": 4.3,
+      "reviews": 3827
+    },
+    {
+      "rank": 5,
+      "asin": "B0821SWJ5S",
+      "title": "Moso Natural Air Purifying Bag 600g, Premium Charcoal Odor Absorber",
+      "brand": "MOSO NATURAL",
+      "price": 24.95,
+      "salesParent": 3280,
+      "revenue": 81836.0,
+      "rating": 4.3,
+      "reviews": 2415
+    },
+    {
+      "rank": 6,
+      "asin": "B00FVXL7EO",
+      "title": "Moso Natural Air Purifying Bag 200g (4 Pack) Premium Charcoal Odor Absorber, Car Odor Eliminator &amp; Closet Deodorizer for Home &amp; Pet, Lasts 2 Years, Unscented Bamboo Charcoal Bags, HGTV Editors' Pick",
+      "brand": "MOSO NATURAL",
+      "price": 39.95,
+      "salesParent": 1783,
+      "revenue": 71230.85,
+      "rating": 4.3,
+      "reviews": 2666
+    },
+    {
+      "rank": 7,
+      "asin": "B082KC4JT2",
+      "title": "Bamboo Charcoal Air Purifying Bag, Activated Charcoal Odor Absorber",
+      "brand": "Vitscan",
+      "price": 23.98,
+      "salesParent": 2471,
+      "revenue": 59254.58,
+      "rating": 4.2,
+      "reviews": 21244
+    },
+    {
+      "rank": 8,
+      "asin": "B086FMGJ8S",
+      "title": "Moso Natural Air Purifying Bag 200g, Charcoal Odor Absorber, Car Odor Eliminator &amp; Closet Deodorizer for Home &amp; Pet, Lasts 2 Years, Unscented Bamboo Charcoal Bags, HGTV Editors' Pick",
+      "brand": "MOSO NATURAL",
+      "price": 12.95,
+      "salesParent": 4392,
+      "revenue": 56876.4,
+      "rating": 4.2,
+      "reviews": 1297
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 44,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 44,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1936159,
+    "priorHeadRevenue": 1342159,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 39,
+      "pct": 39,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 75,
+      "brandCount": 72,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.26,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B08DSYZGVB",
+        "title": "Activated Charcoal Odor Absorber for Strong Odors in Car, Closet, Shoe, Basement. 10 Activated Charcoal Bags Odor Absorbers for Home. Bamboo Charcoals Air Purifying Bag Charcoals Deodorizer Eliminator",
+        "rating": 4.2,
+        "reviews": 18623
+      },
+      {
+        "rank": 2,
+        "asin": "B0FGHNL1FJ",
+        "title": "ARM &amp; HAMMER Fresh Effects Odor Neutralizing Baking Soda Pouches, 5 Count",
+        "rating": 4.4,
+        "reviews": 1242
+      },
+      {
+        "rank": 3,
+        "asin": "B07QRX9CQT",
+        "title": "Charcoal Odor Absorber for Strong Odor (6 Pack, 100g each), Bamboo Charcoal Air Purifying Bag, Basement Musty Odor Eliminator Deodorizer, Activated Charcoal Odor Absorber for Closet, Shoe, Car",
+        "rating": 4.1,
+        "reviews": 21704
+      },
+      {
+        "rank": 4,
+        "asin": "B0CZ3Y8JT9",
+        "title": "Activated Charcoal Odor Absorber, 6P Shoe Odor Eliminator for Strong Odor",
+        "rating": 4.3,
+        "reviews": 3827
+      },
+      {
+        "rank": 5,
+        "asin": "B0821SWJ5S",
+        "title": "Moso Natural Air Purifying Bag 600g, Premium Charcoal Odor Absorber",
+        "rating": 4.3,
+        "reviews": 2415
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:15342811:15356121:21579650011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

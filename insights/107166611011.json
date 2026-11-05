@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "107166611011",
+  "level": "L4",
+  "categoryPathEn": "Home & Kitchen > Furniture > Living Room Furniture > Bean Bags, Covers & Refills",
+  "categoryPathCn": "家居用品 > Furniture > Living Room Furniture > 豆袋、套和填充物",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 91,
+    "totalRevenue": 8582786,
+    "avgRevenue": 94316,
+    "medianPrice": 119.99,
+    "priceBand": "$84.99 - $149.0",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0D23M12NG",
+      "title": "Big Joe Fuf 8Ft Giant Foam Bean Bag Chair, Oversized Couch with Removable Cover for Kids, Teens, Adults, Vanilla Latte Corded Plush, 8 Foot",
+      "brand": "Big Joe",
+      "price": 249.99,
+      "salesParent": 3208,
+      "revenue": 771491.94,
+      "rating": 4.3,
+      "reviews": 1276
+    },
+    {
+      "rank": 2,
+      "asin": "B0DB28XF27",
+      "title": "Hobestluk Big Bean Bag Chairs for Adults Fireside BeanBag Couch Togo Sofa",
+      "brand": "Hobestluk",
+      "price": 122.99,
+      "salesParent": 2101,
+      "revenue": 230437.69,
+      "rating": 4.3,
+      "reviews": 992
+    },
+    {
+      "rank": 3,
+      "asin": "B0DGFSGM2X",
+      "title": "Hobestluk Adult Bean Bag Chair 3 in 1 Convertible Large Bean Bag Sofa",
+      "brand": "Hobestluk",
+      "price": 99.99,
+      "salesParent": 2336,
+      "revenue": 221779.84,
+      "rating": 4.2,
+      "reviews": 1587
+    },
+    {
+      "rank": 4,
+      "asin": "B0FNV74MHT",
+      "title": "Giant Bean Bag Chair for Adults, Teens and Kids, Cozy Fluffy Corduroy Beanbag Chair with Filler, Large Floor Lounge Sofa for Living Room, Bedroom, Dorm, Gaming and Reading(L-Burnt Orange)",
+      "brand": "UODERS",
+      "price": 149.99,
+      "salesParent": 1477,
+      "revenue": 221535.23,
+      "rating": 4.9,
+      "reviews": 113
+    },
+    {
+      "rank": 5,
+      "asin": "B01MSRGUK0",
+      "title": "Big Joe Milano Large Bean Bag Chair for Kids, Teens, Adults, Espresso Blazer, Lightweight Seat for Reading Nook and Gaming Vegan Leather, 3.5 foot Refillable",
+      "brand": "Big Joe",
+      "price": 149.0,
+      "salesParent": 1455,
+      "revenue": 216795.0,
+      "rating": 4.5,
+      "reviews": 50
+    },
+    {
+      "rank": 6,
+      "asin": "B0CTK3PTVK",
+      "title": "MAXYOYO Giant Bean Bag Chair for Adults, Oversized Shell Shape Bean Bag",
+      "brand": "MAXYOYO",
+      "price": 161.99,
+      "salesParent": 1259,
+      "revenue": 204751.17,
+      "rating": 4.4,
+      "reviews": 657
+    },
+    {
+      "rank": 7,
+      "asin": "B0DHNY43MM",
+      "title": "Hobestluk Bean Bag Chair for Adults Big BeanBag Velvet Fabric Large Blue",
+      "brand": "Hobestluk",
+      "price": 73.99,
+      "salesParent": 3046,
+      "revenue": 203777.41,
+      "rating": 4.3,
+      "reviews": 958
+    },
+    {
+      "rank": 8,
+      "asin": "B0F4384P62",
+      "title": "Hobestluk Adult Bean Bag Chair 3 in 1 Convertible Large Bean Bag Sofa",
+      "brand": "Hobestluk",
+      "price": 112.99,
+      "salesParent": 1731,
+      "revenue": 195585.69,
+      "rating": 3.8,
+      "reviews": 16
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -5,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -5,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 8582786,
+    "priorHeadRevenue": 8996967,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 91,
+      "newCount": 44,
+      "pct": 48,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 68,
+      "brandCount": 38,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.17,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0D23M12NG",
+        "title": "Big Joe Fuf 8Ft Giant Foam Bean Bag Chair, Oversized Couch with Removable Cover for Kids, Teens, Adults, Vanilla Latte Corded Plush, 8 Foot",
+        "rating": 4.3,
+        "reviews": 1276
+      },
+      {
+        "rank": 2,
+        "asin": "B0DB28XF27",
+        "title": "Hobestluk Big Bean Bag Chairs for Adults Fireside BeanBag Couch Togo Sofa",
+        "rating": 4.3,
+        "reviews": 992
+      },
+      {
+        "rank": 3,
+        "asin": "B0DGFSGM2X",
+        "title": "Hobestluk Adult Bean Bag Chair 3 in 1 Convertible Large Bean Bag Sofa",
+        "rating": 4.2,
+        "reviews": 1587
+      },
+      {
+        "rank": 4,
+        "asin": "B0FNV74MHT",
+        "title": "Giant Bean Bag Chair for Adults, Teens and Kids, Cozy Fluffy Corduroy Beanbag Chair with Filler, Large Floor Lounge Sofa for Living Room, Bedroom, Dorm, Gaming and Reading(L-Burnt Orange)",
+        "rating": 4.9,
+        "reviews": 113
+      },
+      {
+        "rank": 5,
+        "asin": "B01MSRGUK0",
+        "title": "Big Joe Milano Large Bean Bag Chair for Kids, Teens, Adults, Espresso Blazer, Lightweight Seat for Reading Nook and Gaming Vegan Leather, 3.5 foot Refillable",
+        "rating": 4.5,
+        "reviews": 50
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "1055398:1063306:1063318:107166611011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

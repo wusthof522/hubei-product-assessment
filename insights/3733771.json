@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3733771",
+  "level": "L4",
+  "categoryPathEn": "Home & Kitchen > Furniture > Home Office Furniture > Drafting Tables",
+  "categoryPathCn": "家居用品 > 家具 > 家庭办公家具 > 绘图桌",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 1044389,
+    "avgRevenue": 10549,
+    "medianPrice": 157.01,
+    "priceBand": "$111.98 - $189.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0BVR3RKLZ",
+      "title": "QZMDSM Small Computer Desk for Bedroom,Adjustable Rolling Desk,Rustic",
+      "brand": "QZMDSM",
+      "price": 79.99,
+      "salesParent": 4407,
+      "revenue": 319375.28,
+      "rating": 4.3,
+      "reviews": 1944
+    },
+    {
+      "rank": 2,
+      "asin": "B07X1PKV6Y",
+      "title": "Yaheetech Adjustable Drafting Table Art Desk, Storage Drawers &amp; Stool, Wood",
+      "brand": "Yaheetech",
+      "price": 119.99,
+      "salesParent": 459,
+      "revenue": 53482.68,
+      "rating": 4.5,
+      "reviews": 3694
+    },
+    {
+      "rank": 3,
+      "asin": "B0G43MZ2JW",
+      "title": "Drafting Table with Storage Cabinet &amp; Drawers, Adjustable Drawing Desk with Open Shelves, Craft Table Painting Desk for Artists, Painters, Drawing, Crafting, Reading, Writing, Working",
+      "brand": "Lurinthal",
+      "price": 188.99,
+      "salesParent": 212,
+      "revenue": 44199.88,
+      "rating": 4.6,
+      "reviews": 44
+    },
+    {
+      "rank": 4,
+      "asin": "B0CYPK6BD6",
+      "title": "VECELO Drafting Table Art Desk Art Table Adjustable Drawing Table Tilted Tabletop with 2 Storage Drawers and Stool, Drawing Desk for Artist Painters Drawing, Crafting, Reading, Writing, Rustic Brown",
+      "brand": "VECELO",
+      "price": 91.88,
+      "salesParent": 314,
+      "revenue": 33419.02,
+      "rating": 4.4,
+      "reviews": 305
+    },
+    {
+      "rank": 5,
+      "asin": "B0H4Y7MK9B",
+      "title": "55.1&quot; Drafting Table, Craft Art Table, Computer Desk, White",
+      "brand": "Verano Garden",
+      "price": 229.98,
+      "salesParent": 133,
+      "revenue": 30000.81,
+      "rating": 4.6,
+      "reviews": 17
+    },
+    {
+      "rank": 6,
+      "asin": "B0CLQZWV5W",
+      "title": "MEEDEN Extra-Large Wood Drafting Table: 42&quot; x 30&quot; Artist Drawing Table Desk",
+      "brand": "MEEDEN",
+      "price": 239.95,
+      "salesParent": 125,
+      "revenue": 29993.75,
+      "rating": 4.1,
+      "reviews": 178
+    },
+    {
+      "rank": 7,
+      "asin": "B07PQKL7DR",
+      "title": "MEEDEN Wood Adjustable Drafting Table: 35.5&quot; x 23.5&quot; Art Drawing Desk",
+      "brand": "MEEDEN",
+      "price": 169.95,
+      "salesParent": 134,
+      "revenue": 22773.3,
+      "rating": 4.6,
+      "reviews": 902
+    },
+    {
+      "rank": 8,
+      "asin": "B0HHRFNFZD",
+      "title": "Foldable Drafting Table Desk, Space-Saving Folding Craft Table with Storage",
+      "brand": "Lurinthal",
+      "price": 197.99,
+      "salesParent": 104,
+      "revenue": 22631.44,
+      "rating": 4.0,
+      "reviews": 5
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 27,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 27,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1044389,
+    "priorHeadRevenue": 821687,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 41,
+      "pct": 41,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 61,
+      "brandCount": 56,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.51,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0BVR3RKLZ",
+        "title": "QZMDSM Small Computer Desk for Bedroom,Adjustable Rolling Desk,Rustic",
+        "rating": 4.3,
+        "reviews": 1944
+      },
+      {
+        "rank": 2,
+        "asin": "B07X1PKV6Y",
+        "title": "Yaheetech Adjustable Drafting Table Art Desk, Storage Drawers &amp; Stool, Wood",
+        "rating": 4.5,
+        "reviews": 3694
+      },
+      {
+        "rank": 3,
+        "asin": "B0G43MZ2JW",
+        "title": "Drafting Table with Storage Cabinet &amp; Drawers, Adjustable Drawing Desk with Open Shelves, Craft Table Painting Desk for Artists, Painters, Drawing, Crafting, Reading, Writing, Working",
+        "rating": 4.6,
+        "reviews": 44
+      },
+      {
+        "rank": 4,
+        "asin": "B0CYPK6BD6",
+        "title": "VECELO Drafting Table Art Desk Art Table Adjustable Drawing Table Tilted Tabletop with 2 Storage Drawers and Stool, Drawing Desk for Artist Painters Drawing, Crafting, Reading, Writing, Rustic Brown",
+        "rating": 4.4,
+        "reviews": 305
+      },
+      {
+        "rank": 5,
+        "asin": "B0H4Y7MK9B",
+        "title": "55.1&quot; Drafting Table, Craft Art Table, Computer Desk, White",
+        "rating": 4.6,
+        "reviews": 17
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "1055398:1063306:1063312:3733771",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

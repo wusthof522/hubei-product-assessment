@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "541966",
+  "level": "L2",
+  "categoryPathEn": "Electronics > Computers & Accessories",
+  "categoryPathCn": "电子产品 > 计算机",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 98,
+    "totalRevenue": 187678776,
+    "avgRevenue": 1915090,
+    "medianPrice": 522.94,
+    "priceBand": "$277.49 - $1206.5",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0DZ7871B8",
+      "title": "Apple iPad 11-inch: A16 chip, 11-inch Model, Liquid Retina Display, 128GB, Wi-Fi 6, 12MP Front/12MP Back Camera, Touch ID, All-Day Battery Life — Pink",
+      "brand": "Apple",
+      "price": 399.0,
+      "salesParent": 106454,
+      "revenue": 43516264.0,
+      "rating": 4.7,
+      "reviews": 30100
+    },
+    {
+      "rank": 2,
+      "asin": "B0F1GFD44G",
+      "title": "Dell 27 Monitor S2725QC, 4K UHD IPS, 120Hz, 99% sRGB, 4ms, FreeSync Premium",
+      "brand": "Dell",
+      "price": 299.99,
+      "salesParent": 17251,
+      "revenue": 5747688.0,
+      "rating": 4.4,
+      "reviews": 941
+    },
+    {
+      "rank": 3,
+      "asin": "B0DK3W6TV6",
+      "title": "Apple iPad mini (A17 Pro): Apple Intelligence, 8.3-inch Liquid Retina Display, 128GB, Wi-Fi 6E, 12MP Front/12MP Back Camera, Touch ID, All-Day Battery Life — Space Gray",
+      "brand": "Apple",
+      "price": 559.99,
+      "salesParent": 9625,
+      "revenue": 5344858.5,
+      "rating": 4.7,
+      "reviews": 3463
+    },
+    {
+      "rank": 4,
+      "asin": "B0CN8QLS4K",
+      "title": "Deco 7 Pro Tri-Band WiFi 7 BE10000 Whole Home Mesh System 6-Stream 10 Gbps",
+      "brand": "TP-Link",
+      "price": 396.5,
+      "salesParent": 11949,
+      "revenue": 4957521.0,
+      "rating": 4.2,
+      "reviews": 1324
+    },
+    {
+      "rank": 5,
+      "asin": "B0FVXMHHRP",
+      "title": "Samsung Galaxy Tab A11+ 6GB RAM, 128GB Storage, Expandable Storage, Gray",
+      "brand": "Samsung",
+      "price": 299.99,
+      "salesParent": 14812,
+      "revenue": 4287333.5,
+      "rating": 4.5,
+      "reviews": 2939
+    },
+    {
+      "rank": 6,
+      "asin": "B09PRB1MZM",
+      "title": "TP-Link Deco X55 AX3000 WiFi 6 Mesh System, Deco X55(3-Pack)",
+      "brand": "TP-Link",
+      "price": 195.29,
+      "salesParent": 21192,
+      "revenue": 3332230.25,
+      "rating": 4.4,
+      "reviews": 13398
+    },
+    {
+      "rank": 7,
+      "asin": "B0DD6FTBPX",
+      "title": "2022 Apple iPad Air 5th Gen. (10.9-inch, Wi-Fi + Cellular, 256GB) Space Gray (Renewed Premium)",
+      "brand": "Apple",
+      "price": 483.57,
+      "salesParent": 6848,
+      "revenue": 3310254.75,
+      "rating": 4.2,
+      "reviews": 44
+    },
+    {
+      "rank": 8,
+      "asin": "B0HDB173YV",
+      "title": "Wireless Earbuds, Bluetooth 5.3 Earbuds Headphones with LED Digital Display | 50H Long Playtime Earphones, HiFi Stereo, ENC Noise Canceling, IPX7 Waterproof for Gym/Running/Work",
+      "brand": "Fhumsh",
+      "price": 249.99,
+      "salesParent": 13034,
+      "revenue": 3020890.25,
+      "rating": 4.5,
+      "reviews": 1097
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -22,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -22,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 187678776,
+    "priorHeadRevenue": 239452105,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 98,
+      "newCount": 45,
+      "pct": 46,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 69,
+      "brandCount": 28,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.33,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0DZ7871B8",
+        "title": "Apple iPad 11-inch: A16 chip, 11-inch Model, Liquid Retina Display, 128GB, Wi-Fi 6, 12MP Front/12MP Back Camera, Touch ID, All-Day Battery Life — Pink",
+        "rating": 4.7,
+        "reviews": 30100
+      },
+      {
+        "rank": 2,
+        "asin": "B0F1GFD44G",
+        "title": "Dell 27 Monitor S2725QC, 4K UHD IPS, 120Hz, 99% sRGB, 4ms, FreeSync Premium",
+        "rating": 4.4,
+        "reviews": 941
+      },
+      {
+        "rank": 3,
+        "asin": "B0DK3W6TV6",
+        "title": "Apple iPad mini (A17 Pro): Apple Intelligence, 8.3-inch Liquid Retina Display, 128GB, Wi-Fi 6E, 12MP Front/12MP Back Camera, Touch ID, All-Day Battery Life — Space Gray",
+        "rating": 4.7,
+        "reviews": 3463
+      },
+      {
+        "rank": 4,
+        "asin": "B0CN8QLS4K",
+        "title": "Deco 7 Pro Tri-Band WiFi 7 BE10000 Whole Home Mesh System 6-Stream 10 Gbps",
+        "rating": 4.2,
+        "reviews": 1324
+      },
+      {
+        "rank": 5,
+        "asin": "B0FVXMHHRP",
+        "title": "Samsung Galaxy Tab A11+ 6GB RAM, 128GB Storage, Expandable Storage, Gray",
+        "rating": 4.5,
+        "reviews": 2939
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "172282:541966",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

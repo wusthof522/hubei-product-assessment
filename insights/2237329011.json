@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "2237329011",
+  "level": "L2",
+  "categoryPathEn": "Arts, Crafts & Sewing > Needlework",
+  "categoryPathCn": "艺术、手工艺 > 针线活",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 2260107,
+    "avgRevenue": 22601,
+    "medianPrice": 22.99,
+    "priceBand": "$15.97 - $31.49",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0B762JW55",
+      "title": "Bradove Classic Embroidery Learning Kit for Adults and Kids",
+      "brand": "Bradove",
+      "price": 27.98,
+      "salesParent": 2943,
+      "revenue": 82345.14,
+      "rating": 4.6,
+      "reviews": 2219
+    },
+    {
+      "rank": 2,
+      "asin": "B0CZHKSSL4",
+      "title": "CYANFOUR Embroidery Kit for Beginners with Step-By-Step Guidance &amp; Videos",
+      "brand": "CYANFOUR",
+      "price": 13.99,
+      "salesParent": 6521,
+      "revenue": 79295.36,
+      "rating": 4.4,
+      "reviews": 1614
+    },
+    {
+      "rank": 3,
+      "asin": "B0HFMFGYR7",
+      "title": "Kaitiaki 13 mesh Needlepoint Canvas Kit, 8 in Painted Canvas Set with Embroidery Floss, Needles, Guide Card, Instruction, Threader, Scissors &amp; Project Bag for Crafter Gift(Life’s a Stitch)",
+      "brand": "Kaitiaki",
+      "price": 29.99,
+      "salesParent": 2474,
+      "revenue": 74195.26,
+      "rating": 4.0,
+      "reviews": 34
+    },
+    {
+      "rank": 4,
+      "asin": "B0CNWVZMXV",
+      "title": "BESGEER Rug Tufting Gun with Carpet Trimmer Kit - Tuft Gun with Tufting-Shears, 2 in 1 Cut Loop Pile Carpet Gun&amp; Carving Clippers, Rug Maker Machine Starter Kit&amp; Trimmer&amp; Cloth&amp; Yarn（Olive Black）",
+      "brand": "BESGEER",
+      "price": 129.99,
+      "salesParent": 593,
+      "revenue": 72310.42,
+      "rating": 4.6,
+      "reviews": 870
+    },
+    {
+      "rank": 5,
+      "asin": "B0DRYJR742",
+      "title": "Nurge Square Embroidery Hoop - Plastic Cross Stitch Frame for Needlepoint &amp; Embroidery - Adjustable Craft Hoop - Pink - Set of 3",
+      "brand": "Nurge",
+      "price": 20.9,
+      "salesParent": 3162,
+      "revenue": 66085.8,
+      "rating": 4.6,
+      "reviews": 2536
+    },
+    {
+      "rank": 6,
+      "asin": "B0C47QDFPM",
+      "title": "Nurge Medium Seating Embroidery Stand",
+      "brand": "Nurge",
+      "price": 61.9,
+      "salesParent": 1042,
+      "revenue": 64499.8,
+      "rating": 4.2,
+      "reviews": 208
+    },
+    {
+      "rank": 7,
+      "asin": "B07Y2RHX65",
+      "title": "3.53oz Needle Felting Wool Roving for Needle Felting White Felting Wool",
+      "brand": "JUPEAN",
+      "price": 9.99,
+      "salesParent": 4840,
+      "revenue": 48351.6,
+      "rating": 4.5,
+      "reviews": 3035
+    },
+    {
+      "rank": 8,
+      "asin": "B0C3ZVKB46",
+      "title": "ETSPIL Embroidery Kit for Beginners, 4K Step-by-Step Video, Adults, Gift",
+      "brand": "ETSPIL",
+      "price": 17.97,
+      "salesParent": 2353,
+      "revenue": 42283.41,
+      "rating": 4.5,
+      "reviews": 2391
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 18,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 18,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 2260107,
+    "priorHeadRevenue": 1908125,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 35,
+      "pct": 35,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 29,
+      "brandCount": 62,
+      "level": "分散",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.34,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0B762JW55",
+        "title": "Bradove Classic Embroidery Learning Kit for Adults and Kids",
+        "rating": 4.6,
+        "reviews": 2219
+      },
+      {
+        "rank": 2,
+        "asin": "B0CZHKSSL4",
+        "title": "CYANFOUR Embroidery Kit for Beginners with Step-By-Step Guidance &amp; Videos",
+        "rating": 4.4,
+        "reviews": 1614
+      },
+      {
+        "rank": 3,
+        "asin": "B0HFMFGYR7",
+        "title": "Kaitiaki 13 mesh Needlepoint Canvas Kit, 8 in Painted Canvas Set with Embroidery Floss, Needles, Guide Card, Instruction, Threader, Scissors &amp; Project Bag for Crafter Gift(Life’s a Stitch)",
+        "rating": 4.0,
+        "reviews": 34
+      },
+      {
+        "rank": 4,
+        "asin": "B0CNWVZMXV",
+        "title": "BESGEER Rug Tufting Gun with Carpet Trimmer Kit - Tuft Gun with Tufting-Shears, 2 in 1 Cut Loop Pile Carpet Gun&amp; Carving Clippers, Rug Maker Machine Starter Kit&amp; Trimmer&amp; Cloth&amp; Yarn（Olive Black）",
+        "rating": 4.6,
+        "reviews": 870
+      },
+      {
+        "rank": 5,
+        "asin": "B0DRYJR742",
+        "title": "Nurge Square Embroidery Hoop - Plastic Cross Stitch Frame for Needlepoint &amp; Embroidery - Adjustable Craft Hoop - Pink - Set of 3",
+        "rating": 4.6,
+        "reviews": 2536
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "2617941011:2237329011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "6973681011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Diet & Sports Nutrition > Sports Nutrition > L-Carnitine",
+  "categoryPathCn": "健康与家居 > 暮和喜欢 > 运动营养 > 左旋肉碱",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 95,
+    "totalRevenue": 1721040,
+    "avgRevenue": 18116,
+    "medianPrice": 24.99,
+    "priceBand": "$18.99 - $30.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0D2LVDFJ3",
+      "title": "Cutler Nutrition Liquid L-Carnitine Fat Burner with Acetyl L-Carnitine",
+      "brand": "Cutler Nutrition",
+      "price": 26.99,
+      "salesParent": 13395,
+      "revenue": 361531.06,
+      "rating": 4.3,
+      "reviews": 1648
+    },
+    {
+      "rank": 2,
+      "asin": "B0CPNHF3D4",
+      "title": "Now Supplements, L-Carnitine 1,000 mg, Purest Form, Amino Acid, 150 Tablets",
+      "brand": "NOW Foods",
+      "price": 39.5,
+      "salesParent": 5279,
+      "revenue": 208520.5,
+      "rating": 4.6,
+      "reviews": 5973
+    },
+    {
+      "rank": 3,
+      "asin": "B06Y1BTLGK",
+      "title": "Nutricost L-Carnitine Tartrate 1,000mg, 240 Capsules, 120 Servings",
+      "brand": "Nutricost",
+      "price": 19.95,
+      "salesParent": 7221,
+      "revenue": 144058.95,
+      "rating": 4.7,
+      "reviews": 4456
+    },
+    {
+      "rank": 4,
+      "asin": "B01GVPUOCQ",
+      "title": "ProSupps L-Carnitine Liquid 3000, Stimulant-Free Liquid Shots, Berry",
+      "brand": "ProSupps",
+      "price": 29.99,
+      "salesParent": 3717,
+      "revenue": 111472.83,
+      "rating": 4.5,
+      "reviews": 10181
+    },
+    {
+      "rank": 5,
+      "asin": "B0GS7K2HWR",
+      "title": "Force Factor L-Carnitine 3000 Ultimate Liquid L-Carnitine Supplement",
+      "brand": "Force Factor",
+      "price": 31.49,
+      "salesParent": 2100,
+      "revenue": 63798.0,
+      "rating": 4.3,
+      "reviews": 52
+    },
+    {
+      "rank": 6,
+      "asin": "B0FQ6VG2FW",
+      "title": "Nutrex Research Carniburn Liquid L Carnitine 3000mg – Thermogenic Liquid Fat Burner for Men &amp; Women with MitoBurn, InnoSlim, GBBGO - Stimulant Free Metabolism Booster - Strawberry Watermelon 31 SV",
+      "brand": "Nutrex Research",
+      "price": 39.89,
+      "salesParent": 1142,
+      "revenue": 43304.64,
+      "rating": 4.1,
+      "reviews": 201
+    },
+    {
+      "rank": 7,
+      "asin": "B0CQTT5L76",
+      "title": "Force Factor L-Carnitine Liquid 3000mg, Maximum Strength Supplement",
+      "brand": "Force Factor",
+      "price": 22.99,
+      "salesParent": 2026,
+      "revenue": 42039.5,
+      "rating": 4.5,
+      "reviews": 775
+    },
+    {
+      "rank": 8,
+      "asin": "B07DLDPN3C",
+      "title": "iSatori L-Carnitine LS3 3000 - Boost Energy &amp; Metabolism, Triple-Blend L-Carnitine Liquid Supplement, Low-Calorie, Keto-Friendly, Stimulant, Sugar &amp; Gluten-Free, Bombsicle Flavor (32 Servings)",
+      "brand": "iSatori",
+      "price": 23.55,
+      "salesParent": 1718,
+      "revenue": 40458.9,
+      "rating": 4.2,
+      "reviews": 874
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -39,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -39,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1721040,
+    "priorHeadRevenue": 2807372,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 95,
+      "newCount": 23,
+      "pct": 24,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 55,
+      "brandCount": 70,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.41,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0D2LVDFJ3",
+        "title": "Cutler Nutrition Liquid L-Carnitine Fat Burner with Acetyl L-Carnitine",
+        "rating": 4.3,
+        "reviews": 1648
+      },
+      {
+        "rank": 2,
+        "asin": "B0CPNHF3D4",
+        "title": "Now Supplements, L-Carnitine 1,000 mg, Purest Form, Amino Acid, 150 Tablets",
+        "rating": 4.6,
+        "reviews": 5973
+      },
+      {
+        "rank": 3,
+        "asin": "B06Y1BTLGK",
+        "title": "Nutricost L-Carnitine Tartrate 1,000mg, 240 Capsules, 120 Servings",
+        "rating": 4.7,
+        "reviews": 4456
+      },
+      {
+        "rank": 4,
+        "asin": "B01GVPUOCQ",
+        "title": "ProSupps L-Carnitine Liquid 3000, Stimulant-Free Liquid Shots, Berry",
+        "rating": 4.5,
+        "reviews": 10181
+      },
+      {
+        "rank": 5,
+        "asin": "B0GS7K2HWR",
+        "title": "Force Factor L-Carnitine 3000 Ultimate Liquid L-Carnitine Supplement",
+        "rating": 4.3,
+        "reviews": 52
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3764441:6973663011:6973681011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

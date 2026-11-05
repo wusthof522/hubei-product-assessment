@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "6973704011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Diet & Sports Nutrition > Sports Nutrition > Protein",
+  "categoryPathCn": "健康与家居 > 暮和喜欢 > 运动营养 > 蛋白质",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 90,
+    "totalRevenue": 152482464,
+    "avgRevenue": 1694250,
+    "medianPrice": 49.01,
+    "priceBand": "$35.51 - $64.96",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0GHBK3RRC",
+      "title": "Premier Protein Shake, Limited Edition, Winter Mint Chocolate, 30g Protein, No Added Sugar, 24 Vitamins &amp; Minerals to Support Immune Health, 11.5 fl oz, (Pack of 24)",
+      "brand": "Premier Protein",
+      "price": 63.98,
+      "salesParent": 313282,
+      "revenue": 20043782.0,
+      "rating": 4.6,
+      "reviews": 2340
+    },
+    {
+      "rank": 2,
+      "asin": "B000GISTZ4",
+      "title": "Optimum Nutrition Gold Standard Whey Protein Powder, Vanilla Ice Cream, 2LB",
+      "brand": "Optimum Nutrition",
+      "price": 55.19,
+      "salesParent": 220009,
+      "revenue": 10795842.0,
+      "rating": 4.7,
+      "reviews": 49728
+    },
+    {
+      "rank": 3,
+      "asin": "B09LSGZDR4",
+      "title": "PREMIER PROTEIN SHAKE STRAWBERRY 11FL/OZ 18PK",
+      "brand": "Premier Protein",
+      "price": 54.95,
+      "salesParent": 114204,
+      "revenue": 6269800.0,
+      "rating": 4.5,
+      "reviews": 166
+    },
+    {
+      "rank": 4,
+      "asin": "B0CQ3JTR6F",
+      "title": "Transparent Labs Grass-Fed Whey Protein - 30 Servings, French Vanilla",
+      "brand": "Transparent Labs",
+      "price": 64.99,
+      "salesParent": 84647,
+      "revenue": 5501208.5,
+      "rating": 4.5,
+      "reviews": 2183
+    },
+    {
+      "rank": 5,
+      "asin": "B00J074W7Q",
+      "title": "Orgain Organic Vegan 21g Protein Powder, Vanilla Bean, 2.03 lb",
+      "brand": "Orgain",
+      "price": 29.59,
+      "salesParent": 182777,
+      "revenue": 5461376.5,
+      "rating": 4.5,
+      "reviews": 62687
+    },
+    {
+      "rank": 6,
+      "asin": "B094JXSVK3",
+      "title": "Premier Protein 30g High Protein Shake, Café Latte, 11 Fluid Ounce (Pack of 15)",
+      "brand": "Premier Protein",
+      "price": 43.2,
+      "salesParent": 114204,
+      "revenue": 4933613.0,
+      "rating": 4.7,
+      "reviews": 595
+    },
+    {
+      "rank": 7,
+      "asin": "B0G8R8TC9B",
+      "title": "FlavCity All in One Protein Shake Powder, Blueberry Muffin - On the Go Meal Alternative + Collagen Peptides, Reishi &amp; Cordyceps - Focus, Skin, Hair &amp; Joint Support - 100% Grass Fed Whey, 20 Servings",
+      "brand": "FlavCity",
+      "price": 105.99,
+      "salesParent": 46464,
+      "revenue": 4756055.0,
+      "rating": 4.1,
+      "reviews": 187
+    },
+    {
+      "rank": 8,
+      "asin": "B0791Y2LMB",
+      "title": "Ensure Max Protein Milk Chocolate Shake, 30g High Protein, 12 Pack",
+      "brand": "Ensure",
+      "price": 27.97,
+      "salesParent": 169463,
+      "revenue": 4716155.5,
+      "rating": 4.6,
+      "reviews": 21724
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 62,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 62,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 152482464,
+    "priorHeadRevenue": 94005625,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 90,
+      "newCount": 12,
+      "pct": 13,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 50,
+      "brandCount": 54,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.44,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0GHBK3RRC",
+        "title": "Premier Protein Shake, Limited Edition, Winter Mint Chocolate, 30g Protein, No Added Sugar, 24 Vitamins &amp; Minerals to Support Immune Health, 11.5 fl oz, (Pack of 24)",
+        "rating": 4.6,
+        "reviews": 2340
+      },
+      {
+        "rank": 2,
+        "asin": "B000GISTZ4",
+        "title": "Optimum Nutrition Gold Standard Whey Protein Powder, Vanilla Ice Cream, 2LB",
+        "rating": 4.7,
+        "reviews": 49728
+      },
+      {
+        "rank": 3,
+        "asin": "B09LSGZDR4",
+        "title": "PREMIER PROTEIN SHAKE STRAWBERRY 11FL/OZ 18PK",
+        "rating": 4.5,
+        "reviews": 166
+      },
+      {
+        "rank": 4,
+        "asin": "B0CQ3JTR6F",
+        "title": "Transparent Labs Grass-Fed Whey Protein - 30 Servings, French Vanilla",
+        "rating": 4.5,
+        "reviews": 2183
+      },
+      {
+        "rank": 5,
+        "asin": "B00J074W7Q",
+        "title": "Orgain Organic Vegan 21g Protein Powder, Vanilla Bean, 2.03 lb",
+        "rating": 4.5,
+        "reviews": 62687
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3764441:6973663011:6973704011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

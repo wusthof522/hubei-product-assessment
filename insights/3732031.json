@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3732031",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Medical Supplies & Equipment > Orthopedic Supplies > Specialty Medical Pillows",
+  "categoryPathCn": "健康与家居 > Medical Supplies & Equipment > Orthopedic Supplies > 专业医疗枕头",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 97,
+    "totalRevenue": 3607749,
+    "avgRevenue": 37193,
+    "medianPrice": 34.99,
+    "priceBand": "$23.99 - $62.64",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B09964WTF5",
+      "title": "Cervical Pillow for Neck Pain Relief, Hollow Design Odorless Memory Foam Pillows with Cooling Case, Adjustable Orthopedic Bed Pillow for Sleeping, Support for Side Back Sleepers",
+      "brand": "Osteo",
+      "price": 66.65,
+      "salesParent": 17207,
+      "revenue": 1070963.75,
+      "rating": 4.2,
+      "reviews": 21700
+    },
+    {
+      "rank": 2,
+      "asin": "B0B61478T9",
+      "title": "5 STARS UNITED Donut Pillow for Tailbone Pain &amp; Hemorrhoids – Large Memory Foam Seat Cushion for Bed Sore-Prone Areas &amp; Pressure Relief – Prostate, Postpartum &amp; Pregnancy Support, Black Mesh Cover",
+      "brand": "5 STARS UNITED",
+      "price": 34.95,
+      "salesParent": 9650,
+      "revenue": 320476.5,
+      "rating": 4.4,
+      "reviews": 6246
+    },
+    {
+      "rank": 3,
+      "asin": "B09W25HQRH",
+      "title": "Ear Piercing Pillow with Hole for Cartilage Piercings, CNH Support",
+      "brand": "Wuronsa",
+      "price": 14.99,
+      "salesParent": 9311,
+      "revenue": 129888.0,
+      "rating": 4.1,
+      "reviews": 4628
+    },
+    {
+      "rank": 4,
+      "asin": "B0F9LD2S5F",
+      "title": "2 Pcs Hysterectomy Pillow Set - Incl 1 Gel Pack for Soothing Relief - Hysterectomy Recovery Must Haves After C Section,Post Surgery Pillow,Abdominal Surgery Recovery Pillow,Hysterectomy Gifts",
+      "brand": "MOYOAMA",
+      "price": 41.99,
+      "salesParent": 2411,
+      "revenue": 97862.49,
+      "rating": 4.6,
+      "reviews": 1413
+    },
+    {
+      "rank": 5,
+      "asin": "B01N4TQOVJ",
+      "title": "MedCline Reflux Relief System, Wedge &amp; Body Pillow, Medium 5'5&quot;-5'11&quot; Tall",
+      "brand": "MedCline",
+      "price": 269.99,
+      "salesParent": 360,
+      "revenue": 97196.4,
+      "rating": 3.7,
+      "reviews": 1278
+    },
+    {
+      "rank": 6,
+      "asin": "B0BGVSSH5M",
+      "title": "Shoulder Pillow - Arm &amp; Rotator Cuff Pillow - Post Shoulder Surgery Support",
+      "brand": "Cheer Collection",
+      "price": 25.64,
+      "salesParent": 3166,
+      "revenue": 89819.42,
+      "rating": 4.1,
+      "reviews": 923
+    },
+    {
+      "rank": 7,
+      "asin": "B084R77J83",
+      "title": "Lunderg CPAP Pillow for Side &amp; Back Sleepers - Memory Foam",
+      "brand": "Lunderg",
+      "price": 79.0,
+      "salesParent": 1006,
+      "revenue": 79474.0,
+      "rating": 4.2,
+      "reviews": 3883
+    },
+    {
+      "rank": 8,
+      "asin": "B0F9ZZ8D3M",
+      "title": "Post Mastectomy Pillow – Hands-Free Protection with Secure Strap &amp; Easy-Clean Washable Cover Breast Surgery Must Haves,Breast Reduction Recovery Supplies,Breast Augmentation, Moonlight Grey",
+      "brand": "MOYOAMA",
+      "price": 41.99,
+      "salesParent": 1758,
+      "revenue": 73818.42,
+      "rating": 4.6,
+      "reviews": 2271
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -47,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -47,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 3607749,
+    "priorHeadRevenue": 6773795,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 97,
+      "newCount": 53,
+      "pct": 55,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 58,
+      "brandCount": 67,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.25,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B09964WTF5",
+        "title": "Cervical Pillow for Neck Pain Relief, Hollow Design Odorless Memory Foam Pillows with Cooling Case, Adjustable Orthopedic Bed Pillow for Sleeping, Support for Side Back Sleepers",
+        "rating": 4.2,
+        "reviews": 21700
+      },
+      {
+        "rank": 2,
+        "asin": "B0B61478T9",
+        "title": "5 STARS UNITED Donut Pillow for Tailbone Pain &amp; Hemorrhoids – Large Memory Foam Seat Cushion for Bed Sore-Prone Areas &amp; Pressure Relief – Prostate, Postpartum &amp; Pregnancy Support, Black Mesh Cover",
+        "rating": 4.4,
+        "reviews": 6246
+      },
+      {
+        "rank": 3,
+        "asin": "B09W25HQRH",
+        "title": "Ear Piercing Pillow with Hole for Cartilage Piercings, CNH Support",
+        "rating": 4.1,
+        "reviews": 4628
+      },
+      {
+        "rank": 4,
+        "asin": "B0F9LD2S5F",
+        "title": "2 Pcs Hysterectomy Pillow Set - Incl 1 Gel Pack for Soothing Relief - Hysterectomy Recovery Must Haves After C Section,Post Surgery Pillow,Abdominal Surgery Recovery Pillow,Hysterectomy Gifts",
+        "rating": 4.6,
+        "reviews": 1413
+      },
+      {
+        "rank": 5,
+        "asin": "B01N4TQOVJ",
+        "title": "MedCline Reflux Relief System, Wedge &amp; Body Pillow, Medium 5'5&quot;-5'11&quot; Tall",
+        "rating": 3.7,
+        "reviews": 1278
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3775161:206803283011:3732031",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23642795011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Remote & App Controlled Vehicles & Parts > Remote & App Controlled Vehicles > Boats",
+  "categoryPathCn": "玩具 > 遥控 > 遥控 > 船",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 94,
+    "totalRevenue": 914171,
+    "avgRevenue": 9725,
+    "medianPrice": 94.99,
+    "priceBand": "$42.87 - $201.37",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0DM25HBF8",
+      "title": "BEZGAR RC Boat TX126-12 Inch Remote Control Boat for Lakes and Pools",
+      "brand": "BEZGAR",
+      "price": 54.99,
+      "salesParent": 2201,
+      "revenue": 121032.99,
+      "rating": 4.3,
+      "reviews": 595
+    },
+    {
+      "rank": 2,
+      "asin": "B0C4PZ284D",
+      "title": "BEZGAR TX123 Remote Control Boats - Fast Speed RC Boat 32+ KPH with Suitcase for Lakes &amp; Pools &amp; Salt Water",
+      "brand": "BEZGAR",
+      "price": 89.99,
+      "salesParent": 611,
+      "revenue": 53419.73,
+      "rating": 4.5,
+      "reviews": 615
+    },
+    {
+      "rank": 3,
+      "asin": "B0DDTGLR3B",
+      "title": "BEZGAR TX2P1,2 Packs 30 KPH RC Boats with Suitcase for Kids",
+      "brand": "BEZGAR",
+      "price": 89.99,
+      "salesParent": 394,
+      "revenue": 37942.2,
+      "rating": 4.2,
+      "reviews": 485
+    },
+    {
+      "rank": 4,
+      "asin": "B083YWWK6T",
+      "title": "25&quot; Brushless RC Boat for Adults, 30+MPH Fast Remote Control Boat for Lakes",
+      "brand": "Cheerwing",
+      "price": 219.99,
+      "salesParent": 124,
+      "revenue": 27278.76,
+      "rating": 4.2,
+      "reviews": 817
+    },
+    {
+      "rank": 5,
+      "asin": "B0DD37CHRY",
+      "title": "BEZGAR HJ818PRO 16 Inch 55 KPH Brushless RC Boat for Adults",
+      "brand": "BEZGAR",
+      "price": 99.99,
+      "salesParent": 247,
+      "revenue": 24796.33,
+      "rating": 4.2,
+      "reviews": 177
+    },
+    {
+      "rank": 6,
+      "asin": "B0GF7VYP35",
+      "title": "Remote Control Boat for Kids, RC Boats for Pool, Lake, River and Pond",
+      "brand": "CAPTAER",
+      "price": 42.99,
+      "salesParent": 573,
+      "revenue": 22742.37,
+      "rating": 4.3,
+      "reviews": 225
+    },
+    {
+      "rank": 7,
+      "asin": "B0DX6CP1WW",
+      "title": "Remote Control Mosasaurus Dinosaur Toys for Boys Kids Swimming Pool High Simulation Toys, Electric RC Sea Monster with Light &amp; Spray Water Birthday Gift for Ages 3 4 5 6 7 8 9",
+      "brand": "MAMABOO",
+      "price": 39.99,
+      "salesParent": 539,
+      "revenue": 21064.12,
+      "rating": 4.2,
+      "reviews": 1033
+    },
+    {
+      "rank": 8,
+      "asin": "B0C4NZ869B",
+      "title": "Bennol 2.4Ghz Remote Control Shark Toys for Boys Kids, 1:18 Scale High Simulation Shark for Pool, Electric RC Sharks Fish Toys with Light &amp; Spray Water Function for 6 7 8 9 Year olds Kid Boys",
+      "brand": "Bennol",
+      "price": 32.99,
+      "salesParent": 562,
+      "revenue": 18540.38,
+      "rating": 4.1,
+      "reviews": 872
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -10,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -10,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 914171,
+    "priorHeadRevenue": 1012524,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 94,
+      "newCount": 45,
+      "pct": 48,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 54,
+      "brandCount": 55,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.13,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0DM25HBF8",
+        "title": "BEZGAR RC Boat TX126-12 Inch Remote Control Boat for Lakes and Pools",
+        "rating": 4.3,
+        "reviews": 595
+      },
+      {
+        "rank": 2,
+        "asin": "B0C4PZ284D",
+        "title": "BEZGAR TX123 Remote Control Boats - Fast Speed RC Boat 32+ KPH with Suitcase for Lakes &amp; Pools &amp; Salt Water",
+        "rating": 4.5,
+        "reviews": 615
+      },
+      {
+        "rank": 3,
+        "asin": "B0DDTGLR3B",
+        "title": "BEZGAR TX2P1,2 Packs 30 KPH RC Boats with Suitcase for Kids",
+        "rating": 4.2,
+        "reviews": 485
+      },
+      {
+        "rank": 4,
+        "asin": "B083YWWK6T",
+        "title": "25&quot; Brushless RC Boat for Adults, 30+MPH Fast Remote Control Boat for Lakes",
+        "rating": 4.2,
+        "reviews": 817
+      },
+      {
+        "rank": 5,
+        "asin": "B0DD37CHRY",
+        "title": "BEZGAR HJ818PRO 16 Inch 55 KPH Brushless RC Boat for Adults",
+        "rating": 4.2,
+        "reviews": 177
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:6925830011:166583011:23642795011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

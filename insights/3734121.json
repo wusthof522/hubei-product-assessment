@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3734121",
+  "level": "L4",
+  "categoryPathEn": "Home & Kitchen > Furniture > Entryway Furniture > Storage Benches",
+  "categoryPathCn": "家居用品 > 家具 > 入口处的家具 > 储物长椅",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 94,
+    "totalRevenue": 5926950,
+    "avgRevenue": 63053,
+    "medianPrice": 126.99,
+    "priceBand": "$79.74 - $171.49",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0DJ8YMKKF",
+      "title": "Shoe Storage Bench, 4 Doors &amp; Thickened Padded Seat Cushion",
+      "brand": "Homleke",
+      "price": 129.99,
+      "salesParent": 1692,
+      "revenue": 211313.88,
+      "rating": 4.4,
+      "reviews": 893
+    },
+    {
+      "rank": 2,
+      "asin": "B0DGLJH5XT",
+      "title": "47.2&quot; Storage Chest Extra Large,Wooden storage bench(Greige).",
+      "brand": "VANKILEY",
+      "price": 109.99,
+      "salesParent": 1552,
+      "revenue": 167228.0,
+      "rating": 4.5,
+      "reviews": 999
+    },
+    {
+      "rank": 3,
+      "asin": "B0FG7WVKM7",
+      "title": "Bailey Boucle-Style Curved Storage Accent Bench",
+      "brand": "INK+IVY",
+      "price": 249.99,
+      "salesParent": 500,
+      "revenue": 162220.0,
+      "rating": 4.5,
+      "reviews": 72
+    },
+    {
+      "rank": 4,
+      "asin": "B09B9W325J",
+      "title": "VASAGLE Storage Chest, 39.4 Inches Width Bench with 2 Safety Hinges",
+      "brand": "VASAGLE",
+      "price": 79.99,
+      "salesParent": 2186,
+      "revenue": 159097.08,
+      "rating": 4.6,
+      "reviews": 2870
+    },
+    {
+      "rank": 5,
+      "asin": "B01N125MU5",
+      "title": "SONGMICS Shoe Rack Bench, 3-Tier Bamboo Entryway Bench, 27.6 Inches Width",
+      "brand": "SONGMICS",
+      "price": 28.24,
+      "salesParent": 4847,
+      "revenue": 139787.48,
+      "rating": 4.6,
+      "reviews": 25246
+    },
+    {
+      "rank": 6,
+      "asin": "B0D9W39VLT",
+      "title": "Shoe Rack Bench for Entryway, 3 Tier Adjustable Shelves Wood 39.4''",
+      "brand": "Taitiy",
+      "price": 169.99,
+      "salesParent": 736,
+      "revenue": 139420.47,
+      "rating": 4.4,
+      "reviews": 556
+    },
+    {
+      "rank": 7,
+      "asin": "B0C4X75VYB",
+      "title": "HOMEFORT 41.3&quot; Shoe Bench with Lift Top Storage, Entryway Bench with Cushioned Seat, Wooden End of Bed Bench, Shoe Cabinet Bench with Hidden Storage Space, for Bedroom, Hallway,White",
+      "brand": "HOMEFORT",
+      "price": 149.99,
+      "salesParent": 928,
+      "revenue": 129214.73,
+      "rating": 4.3,
+      "reviews": 1015
+    },
+    {
+      "rank": 8,
+      "asin": "B0B67WMWS1",
+      "title": "SONGMICS Storage Ottoman Bench, Foot Rest with Legs, Load up to 661.4 lb",
+      "brand": "SONGMICS",
+      "price": 76.49,
+      "salesParent": 1652,
+      "revenue": 127633.52,
+      "rating": 4.2,
+      "reviews": 2584
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -4,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -4,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 5926950,
+    "priorHeadRevenue": 6198009,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 94,
+      "newCount": 47,
+      "pct": 50,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 32,
+      "brandCount": 62,
+      "level": "分散",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.51,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0DJ8YMKKF",
+        "title": "Shoe Storage Bench, 4 Doors &amp; Thickened Padded Seat Cushion",
+        "rating": 4.4,
+        "reviews": 893
+      },
+      {
+        "rank": 2,
+        "asin": "B0DGLJH5XT",
+        "title": "47.2&quot; Storage Chest Extra Large,Wooden storage bench(Greige).",
+        "rating": 4.5,
+        "reviews": 999
+      },
+      {
+        "rank": 3,
+        "asin": "B0FG7WVKM7",
+        "title": "Bailey Boucle-Style Curved Storage Accent Bench",
+        "rating": 4.5,
+        "reviews": 72
+      },
+      {
+        "rank": 4,
+        "asin": "B09B9W325J",
+        "title": "VASAGLE Storage Chest, 39.4 Inches Width Bench with 2 Safety Hinges",
+        "rating": 4.6,
+        "reviews": 2870
+      },
+      {
+        "rank": 5,
+        "asin": "B01N125MU5",
+        "title": "SONGMICS Shoe Rack Bench, 3-Tier Bamboo Entryway Bench, 27.6 Inches Width",
+        "rating": 4.6,
+        "reviews": 25246
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "1055398:1063306:3249856011:3734121",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

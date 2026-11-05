@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3776131",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Medical Supplies & Equipment > Mobility & Daily Living Aids > Low Strength Aids",
+  "categoryPathCn": "健康与家居 > 医疗用品和设备 > 行动和日常生活辅助工具 > 力量辅助用品",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 96,
+    "totalRevenue": 635958,
+    "avgRevenue": 6625,
+    "medianPrice": 17.18,
+    "priceBand": "$11.88 - $25.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0CSPTWZYH",
+      "title": "FitPlus 2025 Upgrade PowerGrip T9, Grabber Reacher Tool, Wide Jaw, Foldable, Steel Cable, with 96 Grip Points for Firm Grip, 32&quot; with Magnet (Pink, 32 Inch)",
+      "brand": "FitPlus",
+      "price": 8.96,
+      "salesParent": 22875,
+      "revenue": 217998.75,
+      "rating": 4.5,
+      "reviews": 54215
+    },
+    {
+      "rank": 2,
+      "asin": "B095S3PHZX",
+      "title": "Set of 4 Curved Playing Cards Holders for Seniors Adults - Soild Wood Cards Holders for Playing Cards 13 x 1.9 x 2.4 Inch for Bridge Canasta Strategy Foot and Hand",
+      "brand": "plusvivo",
+      "price": 28.99,
+      "salesParent": 820,
+      "revenue": 23771.8,
+      "rating": 4.8,
+      "reviews": 1715
+    },
+    {
+      "rank": 3,
+      "asin": "B0FDBB74Q5",
+      "title": "6 Pack 32 Inch Commercial Trash Grabber Tool for Elderly Assist, Foldable",
+      "brand": "Builimeer",
+      "price": 29.99,
+      "salesParent": 676,
+      "revenue": 20273.24,
+      "rating": 4.6,
+      "reviews": 85
+    },
+    {
+      "rank": 4,
+      "asin": "B000C23XJG",
+      "title": "Dycem - 50-1502B Non-Slip Material Roll, Blue, 8&quot; X 3.25 ft",
+      "brand": "Dycem",
+      "price": 31.99,
+      "salesParent": 625,
+      "revenue": 19993.75,
+      "rating": 4.6,
+      "reviews": 2395
+    },
+    {
+      "rank": 5,
+      "asin": "B09R288M3Z",
+      "title": "MAMMOTH GRIP Grocery Bag Carrier (2-pack) Handle Holder - Multi Purpose - Carry Shopping Bags Propane Tanks 5-gallon Buckets Paint Cans and More - Durable Heavy Duty 100 lbs per Grip - Made in the USA",
+      "brand": "MAMMOTH GRIP",
+      "price": 19.98,
+      "salesParent": 948,
+      "revenue": 18941.04,
+      "rating": 4.8,
+      "reviews": 1552
+    },
+    {
+      "rank": 6,
+      "asin": "B07BSXLR2R",
+      "title": "Dycem Bulk Roll Matting, 16&quot; x 10 yd. Roll, Blue, Non-Slip Material Helps Improve Stabilization &amp; Gripping, Holds Plates &amp; Bowls in Place, Grip Jars When Opening, Cabinet Liner, Exercise Mat, &amp; More",
+      "brand": "Dycem",
+      "price": 191.1,
+      "salesParent": 98,
+      "revenue": 18727.8,
+      "rating": 4.9,
+      "reviews": 28
+    },
+    {
+      "rank": 7,
+      "asin": "B0DHLB4VXW",
+      "title": "Playing Cards Holders Stands Decks w/Foldable Tabletop Stand Holidays Stocking Stuffers for Girl Boy, 3 Layers Design for Poker UNO Cards, Playing Card Accessories for Halloween Game Night , Set of 2 (Blue + Yellow)",
+      "brand": "RESOVO",
+      "price": 8.99,
+      "salesParent": 1977,
+      "revenue": 18287.25,
+      "rating": 4.6,
+      "reviews": 1056
+    },
+    {
+      "rank": 8,
+      "asin": "B0G63ZCSV7",
+      "title": "Card Scanner Pro Max–Card Scanner Stand for MTG/TCG,Scan Sleeved/Unsleeved",
+      "brand": "OSTENBIG",
+      "price": 33.88,
+      "salesParent": 391,
+      "revenue": 13247.08,
+      "rating": 4.0,
+      "reviews": 63
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -2,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -2,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 635958,
+    "priorHeadRevenue": 649153,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 96,
+      "newCount": 43,
+      "pct": 45,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 53,
+      "brandCount": 80,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.4,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0CSPTWZYH",
+        "title": "FitPlus 2025 Upgrade PowerGrip T9, Grabber Reacher Tool, Wide Jaw, Foldable, Steel Cable, with 96 Grip Points for Firm Grip, 32&quot; with Magnet (Pink, 32 Inch)",
+        "rating": 4.5,
+        "reviews": 54215
+      },
+      {
+        "rank": 2,
+        "asin": "B095S3PHZX",
+        "title": "Set of 4 Curved Playing Cards Holders for Seniors Adults - Soild Wood Cards Holders for Playing Cards 13 x 1.9 x 2.4 Inch for Bridge Canasta Strategy Foot and Hand",
+        "rating": 4.8,
+        "reviews": 1715
+      },
+      {
+        "rank": 3,
+        "asin": "B0FDBB74Q5",
+        "title": "6 Pack 32 Inch Commercial Trash Grabber Tool for Elderly Assist, Foldable",
+        "rating": 4.6,
+        "reviews": 85
+      },
+      {
+        "rank": 4,
+        "asin": "B000C23XJG",
+        "title": "Dycem - 50-1502B Non-Slip Material Roll, Blue, 8&quot; X 3.25 ft",
+        "rating": 4.6,
+        "reviews": 2395
+      },
+      {
+        "rank": 5,
+        "asin": "B09R288M3Z",
+        "title": "MAMMOTH GRIP Grocery Bag Carrier (2-pack) Handle Holder - Multi Purpose - Carry Shopping Bags Propane Tanks 5-gallon Buckets Paint Cans and More - Durable Heavy Duty 100 lbs per Grip - Made in the USA",
+        "rating": 4.8,
+        "reviews": 1552
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3775161:8624314011:3776131",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

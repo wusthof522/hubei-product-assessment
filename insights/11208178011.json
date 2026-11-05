@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "11208178011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Vehicles > Slot Cars, Race Tracks & Accessories > Race Sets",
+  "categoryPathCn": "玩具 > 车辆 > 滑板车、赛车场 > 比赛套装",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 98,
+    "totalRevenue": 941193,
+    "avgRevenue": 9604,
+    "medianPrice": 38.99,
+    "priceBand": "$23.74 - $59.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0D9NQXCS1",
+      "title": "Dinosaur Track Toys - Best Birthday Gifts for 3 4 5 6 7 Year Old Boys Girls, Dinosaur Race Car Track with Light &amp; Sound, Create A Dinosaur World Road Race",
+      "brand": "GIAT",
+      "price": 49.89,
+      "salesParent": 5044,
+      "revenue": 239690.88,
+      "rating": 4.7,
+      "reviews": 1305
+    },
+    {
+      "rank": 2,
+      "asin": "B0FC6VCNR9",
+      "title": "Flex Tracks 15 Ft for Kids Starter Set, Flexible Race Car Ramp Track with Suction Cups Compatible with Diecast 1/64th Cars for Ages 3 &amp; Up (Green &amp; Blue)",
+      "brand": "AQFR",
+      "price": 25.56,
+      "salesParent": 4401,
+      "revenue": 112490.0,
+      "rating": 4.5,
+      "reviews": 742
+    },
+    {
+      "rank": 3,
+      "asin": "B0D1QWBGTZ",
+      "title": "Slot Car Race Track Sets with 4 Slot Cars, Electric Race Car Track Include Slope Circular Overpass Track, Dual Racing Game Featuring Flash Bridge and Pendulum, Gifts Toys for Boys Kids Age 6 7 8-12",
+      "brand": "Kmuxilal",
+      "price": 49.98,
+      "salesParent": 961,
+      "revenue": 45464.91,
+      "rating": 4.3,
+      "reviews": 877
+    },
+    {
+      "rank": 4,
+      "asin": "B09MFZ4DBW",
+      "title": "Simplay3 Fast Track Downhill Raceway, Dual Racetrack for Kids Cars for Toddlers, 2 Toy Race Cars Included, Made in USA",
+      "brand": "Simplay3",
+      "price": 89.99,
+      "salesParent": 461,
+      "revenue": 41485.39,
+      "rating": 4.5,
+      "reviews": 749
+    },
+    {
+      "rank": 5,
+      "asin": "B0F5WFFQY4",
+      "title": "Flexible Race Track for Kids: 15 Ft Flex Race Car Ramp with Suction Cup",
+      "brand": "Lemostaar",
+      "price": 24.99,
+      "salesParent": 1958,
+      "revenue": 40824.3,
+      "rating": 4.2,
+      "reviews": 441
+    },
+    {
+      "rank": 6,
+      "asin": "B08ZWMPCH2",
+      "title": "Hot Wheels Roll Out Raceway, Track Set",
+      "brand": "Hot Wheels",
+      "price": 34.99,
+      "salesParent": 1040,
+      "revenue": 36826.4,
+      "rating": 4.8,
+      "reviews": 3239
+    },
+    {
+      "rank": 7,
+      "asin": "B0GZ39D6T7",
+      "title": "Race Car Track Set with 4 Loops &amp; 4 Cars, 62Pcs Tracks Toy for Kid Ages 3-8",
+      "brand": "toulepound",
+      "price": 29.99,
+      "salesParent": 1050,
+      "revenue": 31122.0,
+      "rating": 3.7,
+      "reviews": 55
+    },
+    {
+      "rank": 8,
+      "asin": "B0GJT3H9QS",
+      "title": "Flexible Tracks 15 Ft Flex Race Car Track for Kids Toy-DIY Car Track Set with 1/64th Rebound Cars Portable Rolls Up Race Tracks with Strong Suction Cups-Great Gifts Toys for Boys Girls Ages 3+",
+      "brand": "Mvishev",
+      "price": 24.99,
+      "salesParent": 1105,
+      "revenue": 27746.55,
+      "rating": 4.4,
+      "reviews": 135
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -27,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -27,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 941193,
+    "priorHeadRevenue": 1290197,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 98,
+      "newCount": 65,
+      "pct": 66,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 57,
+      "brandCount": 71,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.29,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0D9NQXCS1",
+        "title": "Dinosaur Track Toys - Best Birthday Gifts for 3 4 5 6 7 Year Old Boys Girls, Dinosaur Race Car Track with Light &amp; Sound, Create A Dinosaur World Road Race",
+        "rating": 4.7,
+        "reviews": 1305
+      },
+      {
+        "rank": 2,
+        "asin": "B0FC6VCNR9",
+        "title": "Flex Tracks 15 Ft for Kids Starter Set, Flexible Race Car Ramp Track with Suction Cups Compatible with Diecast 1/64th Cars for Ages 3 &amp; Up (Green &amp; Blue)",
+        "rating": 4.5,
+        "reviews": 742
+      },
+      {
+        "rank": 3,
+        "asin": "B0D1QWBGTZ",
+        "title": "Slot Car Race Track Sets with 4 Slot Cars, Electric Race Car Track Include Slope Circular Overpass Track, Dual Racing Game Featuring Flash Bridge and Pendulum, Gifts Toys for Boys Kids Age 6 7 8-12",
+        "rating": 4.3,
+        "reviews": 877
+      },
+      {
+        "rank": 4,
+        "asin": "B09MFZ4DBW",
+        "title": "Simplay3 Fast Track Downhill Raceway, Dual Racetrack for Kids Cars for Toddlers, 2 Toy Race Cars Included, Made in USA",
+        "rating": 4.5,
+        "reviews": 749
+      },
+      {
+        "rank": 5,
+        "asin": "B0F5WFFQY4",
+        "title": "Flexible Race Track for Kids: 15 Ft Flex Race Car Ramp with Suction Cup",
+        "rating": 4.2,
+        "reviews": 441
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:23539911011:2519971011:11208178011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "1063310",
+  "level": "L4",
+  "categoryPathEn": "Home & Kitchen > Furniture > Living Room Furniture > TV & Media Furniture",
+  "categoryPathCn": "家居用品 > 家具 > 客厅家具 > 电视",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 14624589,
+    "avgRevenue": 146246,
+    "medianPrice": 299.99,
+    "priceBand": "$159.99 - $499.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B077MJZ6ZG",
+      "title": "PERLESMITH Universal TV Stand Legs for 32-70 inch TVs to 99lbs with Mount",
+      "brand": "PERLESMITH",
+      "price": 37.99,
+      "salesParent": 10187,
+      "revenue": 389856.5,
+      "rating": 4.6,
+      "reviews": 66721
+    },
+    {
+      "rank": 2,
+      "asin": "B0FMFJ7SYX",
+      "title": "70&quot; TV Stand for Living Room, Entertainment Center with Storage Cabinet, Fits TVs up to 80&quot;, Modern Media Console with Shelves, 36&quot; Electric Fireplace (Grey+Black)",
+      "brand": "OneBlis",
+      "price": 279.99,
+      "salesParent": 1266,
+      "revenue": 354467.31,
+      "rating": 4.5,
+      "reviews": 680
+    },
+    {
+      "rank": 3,
+      "asin": "B0DQDGSNYG",
+      "title": "80&quot; Electric Fireplace with Mantel Fireplace TV Stand for Living Room",
+      "brand": "Naice",
+      "price": 439.98,
+      "salesParent": 737,
+      "revenue": 324265.28,
+      "rating": 4.6,
+      "reviews": 566
+    },
+    {
+      "rank": 4,
+      "asin": "B0FDWTS4H9",
+      "title": "Home Theater Seating, Top Grain Leather Movie Theater Chair",
+      "brand": "Weilianda",
+      "price": 3999.0,
+      "salesParent": 81,
+      "revenue": 323919.0,
+      "rating": 4.6,
+      "reviews": 258
+    },
+    {
+      "rank": 5,
+      "asin": "B0H331NTQ1",
+      "title": "PRAISUN 70'' Fireplace TV Stand with 48'' Electric Fireplace",
+      "brand": "PRAISUN",
+      "price": 499.99,
+      "salesParent": 655,
+      "revenue": 293525.16,
+      "rating": 4.8,
+      "reviews": 63
+    },
+    {
+      "rank": 6,
+      "asin": "B0HLCYY1J1",
+      "title": "URRED Power Loveseat Recliner Sofa with Massage and Heat，Blue Grey",
+      "brand": "URRED",
+      "price": 1099.99,
+      "salesParent": 238,
+      "revenue": 261797.62,
+      "rating": 4.4,
+      "reviews": 153
+    },
+    {
+      "rank": 7,
+      "asin": "B0FZJRG8Q2",
+      "title": "BELLEZE Jagger 130&quot; Wall Unit 6-Piece Modular TV Stand - Camel",
+      "brand": "BELLEZE",
+      "price": 1039.99,
+      "salesParent": 239,
+      "revenue": 248557.61,
+      "rating": 4.2,
+      "reviews": 30
+    },
+    {
+      "rank": 8,
+      "asin": "B0GYNCT96N",
+      "title": "BELLEZE Bijou 126&quot; Wall Unit 6-Piece Modular TV Stand - Camel",
+      "brand": "BELLEZE",
+      "price": 1054.49,
+      "salesParent": 232,
+      "revenue": 244641.67,
+      "rating": 4.3,
+      "reviews": 1
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -5,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -5,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 14624589,
+    "priorHeadRevenue": 15380899,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 75,
+      "pct": 76,
+      "unknownLaunch": 1,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 30,
+      "brandCount": 54,
+      "level": "分散",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.38,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B077MJZ6ZG",
+        "title": "PERLESMITH Universal TV Stand Legs for 32-70 inch TVs to 99lbs with Mount",
+        "rating": 4.6,
+        "reviews": 66721
+      },
+      {
+        "rank": 2,
+        "asin": "B0FMFJ7SYX",
+        "title": "70&quot; TV Stand for Living Room, Entertainment Center with Storage Cabinet, Fits TVs up to 80&quot;, Modern Media Console with Shelves, 36&quot; Electric Fireplace (Grey+Black)",
+        "rating": 4.5,
+        "reviews": 680
+      },
+      {
+        "rank": 3,
+        "asin": "B0DQDGSNYG",
+        "title": "80&quot; Electric Fireplace with Mantel Fireplace TV Stand for Living Room",
+        "rating": 4.6,
+        "reviews": 566
+      },
+      {
+        "rank": 4,
+        "asin": "B0FDWTS4H9",
+        "title": "Home Theater Seating, Top Grain Leather Movie Theater Chair",
+        "rating": 4.6,
+        "reviews": 258
+      },
+      {
+        "rank": 5,
+        "asin": "B0H331NTQ1",
+        "title": "PRAISUN 70'' Fireplace TV Stand with 48'' Electric Fireplace",
+        "rating": 4.8,
+        "reviews": 63
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "1055398:1063306:1063318:1063310",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

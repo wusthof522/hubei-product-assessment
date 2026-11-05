@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "69060092011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Dress Up & Pretend Play > Dress-Up Accessories > Headwear",
+  "categoryPathCn": "玩具 > 扮靓 > 装扮配件 > 头饰",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 98,
+    "totalRevenue": 2750994,
+    "avgRevenue": 28071,
+    "medianPrice": 17.99,
+    "priceBand": "$11.99 - $28.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0BP24H237",
+      "title": "UNSPAZ Mouse Ears Headbands, Sequin Mouse Ears for Women Girls Boys, Shiny Bow Headband for Cosplay Costume Party Decorations Hair Accessories (Polka Dots)",
+      "brand": "UNSPAZ",
+      "price": 9.99,
+      "salesParent": 19418,
+      "revenue": 194568.38,
+      "rating": 4.7,
+      "reviews": 2240
+    },
+    {
+      "rank": 2,
+      "asin": "B09DCW9TJ9",
+      "title": "Halloween Cabbage Costume Yarn Wig, Brown 1, Loop Pigtails",
+      "brand": "Jeere",
+      "price": 25.99,
+      "salesParent": 7110,
+      "revenue": 157131.0,
+      "rating": 4.6,
+      "reviews": 329
+    },
+    {
+      "rank": 3,
+      "asin": "B0DD6S3PL9",
+      "title": "Animal Hat with Moving Ears Funny Pop up Crazy Silly Hat, 22''",
+      "brand": "Bubblepompom",
+      "price": 12.98,
+      "salesParent": 10867,
+      "revenue": 141053.66,
+      "rating": 4.5,
+      "reviews": 1017
+    },
+    {
+      "rank": 4,
+      "asin": "B09JYVMLZ5",
+      "title": "Disney Store Official Buzz Lightyear Light-Up Costume Helmet for Kids",
+      "brand": "Disney Store",
+      "price": 24.99,
+      "salesParent": 4453,
+      "revenue": 111280.47,
+      "rating": 4.6,
+      "reviews": 460
+    },
+    {
+      "rank": 5,
+      "asin": "B0FHWZ2QWR",
+      "title": "Danny Go! Aviator Hat - Play Dress-Up Hat Inspired Show",
+      "brand": "Just Play",
+      "price": 10.99,
+      "salesParent": 8354,
+      "revenue": 96488.7,
+      "rating": 4.8,
+      "reviews": 195
+    },
+    {
+      "rank": 6,
+      "asin": "B0B74F4Z5C",
+      "title": "Butterfly Antenna Headband, Ladybug Antenna Headband, Costume Hair Band for Halloween Parties (Black B)",
+      "brand": "Yilistore",
+      "price": 9.99,
+      "salesParent": 9174,
+      "revenue": 77061.59,
+      "rating": 4.6,
+      "reviews": 357
+    },
+    {
+      "rank": 7,
+      "asin": "B0CFWHMTN1",
+      "title": "STAR WARS The Black Series Clone Captain Rex Premium Electronic Helmet, Ahsoka Adult Roleplay Item, Ages 14 and Up",
+      "brand": "STAR WARS",
+      "price": 131.99,
+      "salesParent": 514,
+      "revenue": 67842.86,
+      "rating": 4.8,
+      "reviews": 695
+    },
+    {
+      "rank": 8,
+      "asin": "B0D9GX8Z1Y",
+      "title": "SeptCity Toddler Cowboy Hat and Blue Bandana for Age 2-5",
+      "brand": "SeptCity",
+      "price": 16.99,
+      "salesParent": 3710,
+      "revenue": 63032.9,
+      "rating": 4.6,
+      "reviews": 809
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 41,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 41,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 2750994,
+    "priorHeadRevenue": 1945956,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 98,
+      "newCount": 36,
+      "pct": 37,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 32,
+      "brandCount": 80,
+      "level": "分散",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.54,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0BP24H237",
+        "title": "UNSPAZ Mouse Ears Headbands, Sequin Mouse Ears for Women Girls Boys, Shiny Bow Headband for Cosplay Costume Party Decorations Hair Accessories (Polka Dots)",
+        "rating": 4.7,
+        "reviews": 2240
+      },
+      {
+        "rank": 2,
+        "asin": "B09DCW9TJ9",
+        "title": "Halloween Cabbage Costume Yarn Wig, Brown 1, Loop Pigtails",
+        "rating": 4.6,
+        "reviews": 329
+      },
+      {
+        "rank": 3,
+        "asin": "B0DD6S3PL9",
+        "title": "Animal Hat with Moving Ears Funny Pop up Crazy Silly Hat, 22''",
+        "rating": 4.5,
+        "reviews": 1017
+      },
+      {
+        "rank": 4,
+        "asin": "B09JYVMLZ5",
+        "title": "Disney Store Official Buzz Lightyear Light-Up Costume Helmet for Kids",
+        "rating": 4.6,
+        "reviews": 460
+      },
+      {
+        "rank": 5,
+        "asin": "B0FHWZ2QWR",
+        "title": "Danny Go! Aviator Hat - Play Dress-Up Hat Inspired Show",
+        "rating": 4.8,
+        "reviews": 195
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166316011:23744271011:69060092011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

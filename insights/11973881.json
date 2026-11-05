@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "11973881",
+  "level": "L2",
+  "categoryPathEn": "Musical Instruments > Electronic Music, DJ & Karaoke",
+  "categoryPathCn": "乐器 > 电子音乐, DJ",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 12281762,
+    "avgRevenue": 122818,
+    "medianPrice": 249.99,
+    "priceBand": "$82.74 - $764.24",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0BK25SY9G",
+      "title": "Pioneer DJ DDJ-FLX4 2-Channel DJ Controller, 16 Pads, Graphite",
+      "brand": "Pioneer DJ",
+      "price": 329.0,
+      "salesParent": 3319,
+      "revenue": 1091951.0,
+      "rating": 4.7,
+      "reviews": 2866
+    },
+    {
+      "rank": 2,
+      "asin": "B0CR1R7FKP",
+      "title": "Ikarao Smart Karaoke Machine for Adults - with Lyrics Display, 32GB Karaoke Tablet, 2 Wireless Mics, Professional Karaoke System, 300W Peak Power, 4 DJ Lights, Karaoke Speaker for Any Occasion",
+      "brand": "Ikarao",
+      "price": 449.99,
+      "salesParent": 1145,
+      "revenue": 573118.31,
+      "rating": 4.4,
+      "reviews": 1145
+    },
+    {
+      "rank": 3,
+      "asin": "B0D1VJMSQG",
+      "title": "Karaoke Machine, Portable Bluetooth Speaker with 2 Wireless Microphones",
+      "brand": "CYY",
+      "price": 50.99,
+      "salesParent": 10544,
+      "revenue": 566423.69,
+      "rating": 4.4,
+      "reviews": 3616
+    },
+    {
+      "rank": 4,
+      "asin": "B0BTWB72RM",
+      "title": "Pioneer DJ DDJ-FLX10 4-Channel DJ Controller, Track Separation, Black",
+      "brand": "Pioneer DJ",
+      "price": 1729.0,
+      "salesParent": 231,
+      "revenue": 395975.59,
+      "rating": 4.6,
+      "reviews": 261
+    },
+    {
+      "rank": 5,
+      "asin": "B09LH917LD",
+      "title": "Pioneer DJ XDJ-RX3 All-In-One DJ System (Black)",
+      "brand": "Pioneer DJ",
+      "price": 2269.0,
+      "salesParent": 167,
+      "revenue": 378923.0,
+      "rating": 4.4,
+      "reviews": 190
+    },
+    {
+      "rank": 6,
+      "asin": "B0DHPN1DMJ",
+      "title": "Ikarao Portable Karaoke Machine for Adults, Built-in Lyrics Display and Screen, 2 Self-Charging Wireless Microphones, Karaoke App, 140W Speaker, Connects to TV for Home Party Birthday Outdoor Camping",
+      "brand": "Ikarao",
+      "price": 439.99,
+      "salesParent": 987,
+      "revenue": 377142.56,
+      "rating": 4.6,
+      "reviews": 923
+    },
+    {
+      "rank": 7,
+      "asin": "B0DJWM6Y7K",
+      "title": "Pioneer DJ XDJ-AZ Professional 4-Deck All-in-One DJ System, 10.1-Inch Touchscreen, Built-in Wi-Fi, SonicLink Wireless Tech, Performance Pads &amp; Beat FX – XDJAZ",
+      "brand": "AlphaTheta",
+      "price": 3449.0,
+      "salesParent": 104,
+      "revenue": 353229.75,
+      "rating": 4.6,
+      "reviews": 58
+    },
+    {
+      "rank": 8,
+      "asin": "B07H8VG9BB",
+      "title": "1 BY ONE Bluetooth Turntable HiFi System with 36 Watt Bookshelf Speakers",
+      "brand": "1byone",
+      "price": 249.99,
+      "salesParent": 1389,
+      "revenue": 320845.12,
+      "rating": 4.4,
+      "reviews": 3528
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -1,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -1,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 12281762,
+    "priorHeadRevenue": 12401355,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 39,
+      "pct": 39,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 49,
+      "brandCount": 57,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.47,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0BK25SY9G",
+        "title": "Pioneer DJ DDJ-FLX4 2-Channel DJ Controller, 16 Pads, Graphite",
+        "rating": 4.7,
+        "reviews": 2866
+      },
+      {
+        "rank": 2,
+        "asin": "B0CR1R7FKP",
+        "title": "Ikarao Smart Karaoke Machine for Adults - with Lyrics Display, 32GB Karaoke Tablet, 2 Wireless Mics, Professional Karaoke System, 300W Peak Power, 4 DJ Lights, Karaoke Speaker for Any Occasion",
+        "rating": 4.4,
+        "reviews": 1145
+      },
+      {
+        "rank": 3,
+        "asin": "B0D1VJMSQG",
+        "title": "Karaoke Machine, Portable Bluetooth Speaker with 2 Wireless Microphones",
+        "rating": 4.4,
+        "reviews": 3616
+      },
+      {
+        "rank": 4,
+        "asin": "B0BTWB72RM",
+        "title": "Pioneer DJ DDJ-FLX10 4-Channel DJ Controller, Track Separation, Black",
+        "rating": 4.6,
+        "reviews": 261
+      },
+      {
+        "rank": 5,
+        "asin": "B09LH917LD",
+        "title": "Pioneer DJ XDJ-RX3 All-In-One DJ System (Black)",
+        "rating": 4.4,
+        "reviews": 190
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "11091801:11973881",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

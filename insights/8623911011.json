@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "8623911011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Health Care > Incontinence & Ostomy > Ostomy Support Garments",
+  "categoryPathCn": "健康与家居 > 卫生保健 > 成人失禁用品 > 造口术支撑服装",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 65,
+    "totalRevenue": 170619,
+    "avgRevenue": 2625,
+    "medianPrice": 28.99,
+    "priceBand": "$16.72 - $48.49",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B09VJBHPVG",
+      "title": "SIIL Ostomy Belt Black for Men &amp; Women | Ostomy Bag Covers for Colostomy, Ileostomy, Urostomy | Stoma Support Belt",
+      "brand": "SIIL",
+      "price": 72.99,
+      "salesParent": 620,
+      "revenue": 49097.8,
+      "rating": 4.1,
+      "reviews": 653
+    },
+    {
+      "rank": 2,
+      "asin": "B0CT2G2TKX",
+      "title": "Ostomy Belt | Leak &amp; Odor Protection | Abdomen Ostomy Bag Covers for Men and Women | Sports and Daily Life",
+      "brand": "wearwan",
+      "price": 39.99,
+      "salesParent": 302,
+      "revenue": 12076.98,
+      "rating": 4.2,
+      "reviews": 361
+    },
+    {
+      "rank": 3,
+      "asin": "B0CJFT4MW6",
+      "title": "Ostomy Bag Covers for Men and Women | Ostomy Belt for Sports and Daily Life | Leak-Proof and Odor-Masking Solution, Red(XL)",
+      "brand": "WansMed",
+      "price": 39.99,
+      "salesParent": 239,
+      "revenue": 9557.61,
+      "rating": 4.2,
+      "reviews": 252
+    },
+    {
+      "rank": 4,
+      "asin": "B0FMDLYQ4T",
+      "title": "Deraymi 50 Pack Waterproof Ostomy Bag Shower Covers with Non-Stick Center Pad, 10&quot;x 10&quot; Ostomy Supplies Colostomy Ileostomy Urostomy Pouches Shower Shields – Hands-Free Showering Leakproof Seal",
+      "brand": "DERAYMI",
+      "price": 37.99,
+      "salesParent": 210,
+      "revenue": 7977.9,
+      "rating": 4.4,
+      "reviews": 85
+    },
+    {
+      "rank": 5,
+      "asin": "B09QQW2MCM",
+      "title": "SIIL Ostomy Wrap for Women Ostomy Belt Black, Ostomy Bag Covers for Illeostomy, Colostomy, illeostomy, Urostomy Bag Covers",
+      "brand": "SIIL",
+      "price": 53.19,
+      "salesParent": 148,
+      "revenue": 7872.12,
+      "rating": 3.9,
+      "reviews": 229
+    },
+    {
+      "rank": 6,
+      "asin": "B0D93MRQ88",
+      "title": "Stoma Guard Security Shield | Compatible With Ostomy Bags, Colostomy Bag Covers for women and men | 60 Single-Use Stickers Included",
+      "brand": "Halo Ostomy",
+      "price": 59.95,
+      "salesParent": 112,
+      "revenue": 6714.4,
+      "rating": 4.6,
+      "reviews": 168
+    },
+    {
+      "rank": 7,
+      "asin": "B0C27GJNWM",
+      "title": "Waterproof Ostomy Bag Cover Belt Adjustable Washable Colostomy Bag Covers Protector Reusable Stoma Urostomy Ileostomy Pouch Supplies Leak-proof Odour Masking Noise Reduction for Patients Women Men",
+      "brand": "SinaiSea",
+      "price": 13.99,
+      "salesParent": 456,
+      "revenue": 6379.44,
+      "rating": 4.0,
+      "reviews": 289
+    },
+    {
+      "rank": 8,
+      "asin": "B09QQL3C2K",
+      "title": "SIIL Ostomy Bag Covers for Women | Ostomy Wrap Cream with Lace | Colostomy Ileostomy Urostomy Pouch Holder",
+      "brand": "SIIL",
+      "price": 55.99,
+      "salesParent": 105,
+      "revenue": 5878.95,
+      "rating": 4.1,
+      "reviews": 140
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -1,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -1,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 170619,
+    "priorHeadRevenue": 172334,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 65,
+      "newCount": 21,
+      "pct": 32,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 70,
+      "brandCount": 38,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.06,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B09VJBHPVG",
+        "title": "SIIL Ostomy Belt Black for Men &amp; Women | Ostomy Bag Covers for Colostomy, Ileostomy, Urostomy | Stoma Support Belt",
+        "rating": 4.1,
+        "reviews": 653
+      },
+      {
+        "rank": 2,
+        "asin": "B0CT2G2TKX",
+        "title": "Ostomy Belt | Leak &amp; Odor Protection | Abdomen Ostomy Bag Covers for Men and Women | Sports and Daily Life",
+        "rating": 4.2,
+        "reviews": 361
+      },
+      {
+        "rank": 3,
+        "asin": "B0CJFT4MW6",
+        "title": "Ostomy Bag Covers for Men and Women | Ostomy Belt for Sports and Daily Life | Leak-Proof and Odor-Masking Solution, Red(XL)",
+        "rating": 4.2,
+        "reviews": 252
+      },
+      {
+        "rank": 4,
+        "asin": "B0FMDLYQ4T",
+        "title": "Deraymi 50 Pack Waterproof Ostomy Bag Shower Covers with Non-Stick Center Pad, 10&quot;x 10&quot; Ostomy Supplies Colostomy Ileostomy Urostomy Pouches Shower Shields – Hands-Free Showering Leakproof Seal",
+        "rating": 4.4,
+        "reviews": 85
+      },
+      {
+        "rank": 5,
+        "asin": "B09QQW2MCM",
+        "title": "SIIL Ostomy Wrap for Women Ostomy Belt Black, Ostomy Bag Covers for Illeostomy, Colostomy, illeostomy, Urostomy Bag Covers",
+        "rating": 3.9,
+        "reviews": 229
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3760941:3763261:8623911011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

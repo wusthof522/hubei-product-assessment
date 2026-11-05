@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "676722011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Arts & Crafts > Drawing & Writing Boards > Dry Erase Boards",
+  "categoryPathCn": "玩具 > 艺术 > 绘图 > 干擦板",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 96,
+    "totalRevenue": 2497954,
+    "avgRevenue": 26020,
+    "medianPrice": 24.98,
+    "priceBand": "$19.99 - $29.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0F8NMN1YK",
+      "title": "Geokay 16&quot; Rechargeable LED Drawing Board with 9-Color Light Effects",
+      "brand": "Geokay",
+      "price": 29.99,
+      "salesParent": 15663,
+      "revenue": 447022.03,
+      "rating": 4.6,
+      "reviews": 2184
+    },
+    {
+      "rank": 2,
+      "asin": "B0FRS84KT9",
+      "title": "Led Drawing Board with 13 Light Effects, 16&quot; Rechargeable Glow Doodle LED Note Board with Colors, Neon Light Up Drawing Tablet Gifts for Kids for Easter Birthday Christmas Gift Ideas",
+      "brand": "Lumiboard",
+      "price": 28.99,
+      "salesParent": 13218,
+      "revenue": 422976.0,
+      "rating": 4.4,
+      "reviews": 643
+    },
+    {
+      "rank": 3,
+      "asin": "B0F8NH1JFR",
+      "title": "Geokay 16&quot; Rechargeable LED Drawing Board, 9-Color Light Modes, Neon Art Dry Erase Light Up Doodle Glow Pad with Built-in Stand, Sketching Gift Toy for Kids/Girls/Teens, 7 Markers &amp; Tracing Book",
+      "brand": "Geokay",
+      "price": 25.98,
+      "salesParent": 13041,
+      "revenue": 379362.69,
+      "rating": 4.2,
+      "reviews": 68
+    },
+    {
+      "rank": 4,
+      "asin": "B0H82M4RWB",
+      "title": "2 Pack Rechargeable LED Light Drawing Board Toy for Kids, Holiday Gift Set",
+      "brand": "Skoiuc",
+      "price": 39.99,
+      "salesParent": 1704,
+      "revenue": 71925.84,
+      "rating": 5.0,
+      "reviews": 16
+    },
+    {
+      "rank": 5,
+      "asin": "B0GJS15WT8",
+      "title": "Led Note Board with Colors,16''Drawing Tablet,6 Modes &amp; 8 Colors Light Up Drawing Board,Kids Toy with 13 Light Effects,Birthday Holiday Day Gifts for Girls &amp; Boys Age 3+（White）",
+      "brand": "Signsxcel",
+      "price": 22.49,
+      "salesParent": 2150,
+      "revenue": 51019.5,
+      "rating": 4.5,
+      "reviews": 455
+    },
+    {
+      "rank": 6,
+      "asin": "B08P1HYYWZ",
+      "title": "Nicpro Dry Erase Lap Board 9 x 12 inches 2 Pack Ruled Kid Double Sided",
+      "brand": "Nicpro",
+      "price": 13.99,
+      "salesParent": 3445,
+      "revenue": 47093.15,
+      "rating": 4.6,
+      "reviews": 8472
+    },
+    {
+      "rank": 7,
+      "asin": "B0GDCX74KL",
+      "title": "LED Drawing Board for Girls, Arts Gifts Kit and Crafts Toys for 3+ Year Old",
+      "brand": "KiddyFunpals",
+      "price": 18.99,
+      "salesParent": 2659,
+      "revenue": 45309.36,
+      "rating": 4.6,
+      "reviews": 454
+    },
+    {
+      "rank": 8,
+      "asin": "B0CQ8STK83",
+      "title": "hand2mind Magnetic Dry-Erase Activity Trays, Set of 6 Whiteboards, Ages 3+",
+      "brand": "hand2mind",
+      "price": 24.63,
+      "salesParent": 1700,
+      "revenue": 43010.0,
+      "rating": 4.8,
+      "reviews": 487
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 55,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 55,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 2497954,
+    "priorHeadRevenue": 1615445,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 96,
+      "newCount": 87,
+      "pct": 91,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 58,
+      "brandCount": 85,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.59,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0F8NMN1YK",
+        "title": "Geokay 16&quot; Rechargeable LED Drawing Board with 9-Color Light Effects",
+        "rating": 4.6,
+        "reviews": 2184
+      },
+      {
+        "rank": 2,
+        "asin": "B0FRS84KT9",
+        "title": "Led Drawing Board with 13 Light Effects, 16&quot; Rechargeable Glow Doodle LED Note Board with Colors, Neon Light Up Drawing Tablet Gifts for Kids for Easter Birthday Christmas Gift Ideas",
+        "rating": 4.4,
+        "reviews": 643
+      },
+      {
+        "rank": 3,
+        "asin": "B0F8NH1JFR",
+        "title": "Geokay 16&quot; Rechargeable LED Drawing Board, 9-Color Light Modes, Neon Art Dry Erase Light Up Doodle Glow Pad with Built-in Stand, Sketching Gift Toy for Kids/Girls/Teens, 7 Markers &amp; Tracing Book",
+        "rating": 4.2,
+        "reviews": 68
+      },
+      {
+        "rank": 4,
+        "asin": "B0H82M4RWB",
+        "title": "2 Pack Rechargeable LED Light Drawing Board Toy for Kids, Holiday Gift Set",
+        "rating": 5.0,
+        "reviews": 16
+      },
+      {
+        "rank": 5,
+        "asin": "B0GJS15WT8",
+        "title": "Led Note Board with Colors,16''Drawing Tablet,6 Modes &amp; 8 Colors Light Up Drawing Board,Kids Toy with 13 Light Effects,Birthday Holiday Day Gifts for Girls &amp; Boys Age 3+（White）",
+        "rating": 4.5,
+        "reviews": 455
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166057011:19431267011:676722011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

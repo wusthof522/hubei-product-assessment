@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "166863011",
+  "level": "L2",
+  "categoryPathEn": "Baby Products > Safety",
+  "categoryPathCn": "婴儿产品 > 安全问题",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 44419533,
+    "avgRevenue": 444195,
+    "medianPrice": 77.07,
+    "priceBand": "$39.99 - $120.34",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0H29SVYTK",
+      "title": "HelloBaby HB6550-2 5&quot; Dual Camera Baby Monitor No WiFi, Pan Tilt Zoom",
+      "brand": "HelloBaby",
+      "price": 99.99,
+      "salesParent": 43590,
+      "revenue": 5180235.5,
+      "rating": 4.4,
+      "reviews": 887
+    },
+    {
+      "rank": 2,
+      "asin": "B09YVSYGDW",
+      "title": "Owlet Dream Sock Smart Baby Monitor, Better Sleep for Baby &amp; You",
+      "brand": "Owlet",
+      "price": 282.99,
+      "salesParent": 17340,
+      "revenue": 4743357.0,
+      "rating": 4.0,
+      "reviews": 5412
+    },
+    {
+      "rank": 3,
+      "asin": "B0FTSL4FXJ",
+      "title": "Nanit Smart Baby Video Monitor - Camera &amp; Floor Stand - 1080p Wi-Fi Camera",
+      "brand": "Nanit",
+      "price": 289.99,
+      "salesParent": 10026,
+      "revenue": 2692683.0,
+      "rating": 4.2,
+      "reviews": 285
+    },
+    {
+      "rank": 4,
+      "asin": "B001OC5UMQ",
+      "title": "Regalo Safety 29&quot;-38.5&quot; Easy Step Baby Gate, Bottom of Stairs &amp; Doorways",
+      "brand": "Regalo",
+      "price": 44.98,
+      "salesParent": 41580,
+      "revenue": 1870268.38,
+      "rating": 4.4,
+      "reviews": 175324
+    },
+    {
+      "rank": 5,
+      "asin": "B07MLFKP1G",
+      "title": "Cumbor 30-46&quot; Baby Gate for Stairs, Auto Close Dog Gate for Doorways White",
+      "brand": "Cumbor",
+      "price": 89.99,
+      "salesParent": 15792,
+      "revenue": 1421595.75,
+      "rating": 4.6,
+      "reviews": 21568
+    },
+    {
+      "rank": 6,
+      "asin": "B0GTMC9DS1",
+      "title": "GoodBaby 5&quot; Baby Monitor with Camera and Audio No WiFi",
+      "brand": "GoodBaby",
+      "price": 45.99,
+      "salesParent": 27498,
+      "revenue": 1269032.75,
+      "rating": 4.5,
+      "reviews": 14569
+    },
+    {
+      "rank": 7,
+      "asin": "B07C2QFVT9",
+      "title": "Vmaisi 20 Pack Magnetic Cabinet Locks Baby Proofing and 2 Keys",
+      "brand": "vmaisi",
+      "price": 44.99,
+      "salesParent": 24884,
+      "revenue": 1119531.25,
+      "rating": 4.6,
+      "reviews": 20728
+    },
+    {
+      "rank": 8,
+      "asin": "B0FDSHXWYY",
+      "title": "Owlet Dream Duo 3 Smart Baby Monitor System, Dream Sock + 2K HD Camera",
+      "brand": "Owlet",
+      "price": 339.99,
+      "salesParent": 3049,
+      "revenue": 1084254.88,
+      "rating": 4.4,
+      "reviews": 224
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 15,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 15,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 44419533,
+    "priorHeadRevenue": 38612975,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 36,
+      "pct": 36,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 46,
+      "brandCount": 55,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.38,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0H29SVYTK",
+        "title": "HelloBaby HB6550-2 5&quot; Dual Camera Baby Monitor No WiFi, Pan Tilt Zoom",
+        "rating": 4.4,
+        "reviews": 887
+      },
+      {
+        "rank": 2,
+        "asin": "B09YVSYGDW",
+        "title": "Owlet Dream Sock Smart Baby Monitor, Better Sleep for Baby &amp; You",
+        "rating": 4.0,
+        "reviews": 5412
+      },
+      {
+        "rank": 3,
+        "asin": "B0FTSL4FXJ",
+        "title": "Nanit Smart Baby Video Monitor - Camera &amp; Floor Stand - 1080p Wi-Fi Camera",
+        "rating": 4.2,
+        "reviews": 285
+      },
+      {
+        "rank": 4,
+        "asin": "B001OC5UMQ",
+        "title": "Regalo Safety 29&quot;-38.5&quot; Easy Step Baby Gate, Bottom of Stairs &amp; Doorways",
+        "rating": 4.4,
+        "reviews": 175324
+      },
+      {
+        "rank": 5,
+        "asin": "B07MLFKP1G",
+        "title": "Cumbor 30-46&quot; Baby Gate for Stairs, Auto Close Dog Gate for Doorways White",
+        "rating": 4.6,
+        "reviews": 21568
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165796011:166863011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

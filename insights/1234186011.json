@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "1234186011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Sports & Outdoor Play > Kites & Wind Spinners > Wind Spinners",
+  "categoryPathCn": "玩具 > 体育 > 风筝 > 风车、风铃",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 97,
+    "totalRevenue": 255560,
+    "avgRevenue": 2635,
+    "medianPrice": 22.99,
+    "priceBand": "$15.99 - $32.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0CB66FHR9",
+      "title": "HOOSUN 12 Pack Rainbow Pinwheels for Yard and Garden,Rainbow Party Decorations for Kids, Colorful Garden Wind Spinners Outdoor Decor,Party Favors for Kids,Lawn,Yard,Patio",
+      "brand": "HOOSUN",
+      "price": 9.99,
+      "salesParent": 1232,
+      "revenue": 12307.68,
+      "rating": 3.6,
+      "reviews": 1303
+    },
+    {
+      "rank": 2,
+      "asin": "B0FD3T1N5G",
+      "title": "Solar Wind Spinners Outdoor, Yard Decorations Outdoor, Peacock Decor",
+      "brand": "VUFOZ",
+      "price": 54.99,
+      "salesParent": 147,
+      "revenue": 7448.49,
+      "rating": 4.3,
+      "reviews": 349
+    },
+    {
+      "rank": 3,
+      "asin": "B0D57DB4QS",
+      "title": "Wind Spinners Outdoor with Stake, Metal Yard Art,38 Inch-Purple",
+      "brand": "NEFELIBATE",
+      "price": 26.98,
+      "salesParent": 253,
+      "revenue": 7020.75,
+      "rating": 4.0,
+      "reviews": 517
+    },
+    {
+      "rank": 4,
+      "asin": "B0DBXZNX4G",
+      "title": "Briarwood Lane Fall Hot Air Balloon Wind Twister 54x12 Fall Beauty for Fall Balloon",
+      "brand": "Briarwood Lane",
+      "price": 24.95,
+      "salesParent": 277,
+      "revenue": 6911.15,
+      "rating": 4.8,
+      "reviews": 89
+    },
+    {
+      "rank": 5,
+      "asin": "B0CC1D6DRH",
+      "title": "COOZZYHOUR 39&quot; Sea Turtle Wind Spinners Garden Stake,Outdoor Wind Sculpture Yard Art Decorations for Patio,Lawn",
+      "brand": "COOZZYHOUR",
+      "price": 22.99,
+      "salesParent": 285,
+      "revenue": 6552.15,
+      "rating": 4.6,
+      "reviews": 527
+    },
+    {
+      "rank": 6,
+      "asin": "B0DNYNXD5J",
+      "title": "8 Inch Sublimation Wind Spinner Blanks 10 Pack,Outdoor Decoration",
+      "brand": "Ngdiluxury",
+      "price": 23.99,
+      "salesParent": 257,
+      "revenue": 6304.21,
+      "rating": 4.8,
+      "reviews": 306
+    },
+    {
+      "rank": 7,
+      "asin": "B09Z67VW3R",
+      "title": "4PCS Flower Wind Spinner Sparkly Lawn Pinwheel 11.8 inch Colorful Rainbow Garden Windmill for Garden, Party, Outdoor, Yard Decor",
+      "brand": "timecity",
+      "price": 17.99,
+      "salesParent": 320,
+      "revenue": 5756.8,
+      "rating": 4.3,
+      "reviews": 688
+    },
+    {
+      "rank": 8,
+      "asin": "B0BW2QD5MP",
+      "title": "Viveta Sunflower Wind Spinner, 56&quot; Metal Wind Spinner with Stake, Wind Spinners for Yard and Garden Lawn Patio Decor",
+      "brand": "Viveta",
+      "price": 19.99,
+      "salesParent": 269,
+      "revenue": 5546.78,
+      "rating": 4.5,
+      "reviews": 2041
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -25,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -25,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 255560,
+    "priorHeadRevenue": 342252,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 97,
+      "newCount": 19,
+      "pct": 20,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 29,
+      "brandCount": 76,
+      "level": "分散",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.25,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0CB66FHR9",
+        "title": "HOOSUN 12 Pack Rainbow Pinwheels for Yard and Garden,Rainbow Party Decorations for Kids, Colorful Garden Wind Spinners Outdoor Decor,Party Favors for Kids,Lawn,Yard,Patio",
+        "rating": 3.6,
+        "reviews": 1303
+      },
+      {
+        "rank": 2,
+        "asin": "B0FD3T1N5G",
+        "title": "Solar Wind Spinners Outdoor, Yard Decorations Outdoor, Peacock Decor",
+        "rating": 4.3,
+        "reviews": 349
+      },
+      {
+        "rank": 3,
+        "asin": "B0D57DB4QS",
+        "title": "Wind Spinners Outdoor with Stake, Metal Yard Art,38 Inch-Purple",
+        "rating": 4.0,
+        "reviews": 517
+      },
+      {
+        "rank": 4,
+        "asin": "B0DBXZNX4G",
+        "title": "Briarwood Lane Fall Hot Air Balloon Wind Twister 54x12 Fall Beauty for Fall Balloon",
+        "rating": 4.8,
+        "reviews": 89
+      },
+      {
+        "rank": 5,
+        "asin": "B0CC1D6DRH",
+        "title": "COOZZYHOUR 39&quot; Sea Turtle Wind Spinners Garden Stake,Outdoor Wind Sculpture Yard Art Decorations for Patio,Lawn",
+        "rating": 4.6,
+        "reviews": 527
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166420011:166431011:1234186011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

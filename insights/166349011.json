@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "166349011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Dress Up & Pretend Play > Kitchen Toys > Cookware",
+  "categoryPathCn": "玩具 > 扮靓 > 玩具厨房 > 炊具",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 22,
+    "totalRevenue": 107536,
+    "avgRevenue": 4888,
+    "medianPrice": 21.47,
+    "priceBand": "$13.74 - $25.11",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0DL7ZJ8PF",
+      "title": "Melissa &amp; Doug Flip &amp; Fry Grill Play Set with Water Wow!® Kids Kitchen Playset with Color Changing Play Food, Preschool Toys for Girls &amp; Boys Ages 3+",
+      "brand": "Melissa &amp; Doug",
+      "price": 18.99,
+      "salesParent": 1884,
+      "revenue": 35758.32,
+      "rating": 4.6,
+      "reviews": 203
+    },
+    {
+      "rank": 2,
+      "asin": "B0FKT7D3SN",
+      "title": "13Pcs Kids Pretend Play Kitchen Accessories Pots and Pans Playset, Stainless Steel Pots and Pans Cooking Utensils in Draining Caddy Kitchen Toy Set Accessories for Kids Age 3 Years Old",
+      "brand": "TikOnsYol",
+      "price": 24.99,
+      "salesParent": 416,
+      "revenue": 10445.76,
+      "rating": 4.7,
+      "reviews": 91
+    },
+    {
+      "rank": 3,
+      "asin": "B00MYL7L9G",
+      "title": "Melissa &amp; Doug Stir &amp; Serve 7-Piece Cooking Utensils Set",
+      "brand": "Melissa &amp; Doug",
+      "price": 15.99,
+      "salesParent": 726,
+      "revenue": 10098.66,
+      "rating": 4.9,
+      "reviews": 7065
+    },
+    {
+      "rank": 4,
+      "asin": "B0DFY743G6",
+      "title": "Kids Play Kitchen Toy Accessories Set Toddler Cooking Playset Colorful Stainless Steel Pots and Pans Birthday Gifts for 3+ Girls Boys (New Green)",
+      "brand": "Veitch fairytales",
+      "price": 19.99,
+      "salesParent": 339,
+      "revenue": 7508.85,
+      "rating": 4.5,
+      "reviews": 1091
+    },
+    {
+      "rank": 5,
+      "asin": "B07Q1YRG9M",
+      "title": "Juboury Play Kitchen Accessories,Stainless Steel Toddler Cooking Set",
+      "brand": "Juboury",
+      "price": 22.98,
+      "salesParent": 301,
+      "revenue": 6959.12,
+      "rating": 4.7,
+      "reviews": 9437
+    },
+    {
+      "rank": 6,
+      "asin": "B01LVWP43M",
+      "title": "25 PCS Play Food Kids Toy Set with Frying Pan Skillet and Spatula - Kitchen Cooking Pretend Play Toy Grill Set for Toddlers Kids",
+      "brand": "Liberty Imports",
+      "price": 13.99,
+      "salesParent": 421,
+      "revenue": 5889.79,
+      "rating": 4.3,
+      "reviews": 1121
+    },
+    {
+      "rank": 7,
+      "asin": "B0GDZ4C5HW",
+      "title": "Little Tikes Sweet Spaces Pots &amp; Pans Set, Sea Foam, Play Kitchen Cookware, for Boys and Girls Ages 3+ Years",
+      "brand": "Little Tikes",
+      "price": 12.97,
+      "salesParent": 425,
+      "revenue": 5512.25,
+      "rating": 4.8,
+      "reviews": 20
+    },
+    {
+      "rank": 8,
+      "asin": "B07Z1H7R51",
+      "title": "D-FantiX Play Kitchen Accessories, Kids Play Pots and Pans Playset",
+      "brand": "D-FantiX",
+      "price": 25.48,
+      "salesParent": 209,
+      "revenue": 5287.7,
+      "rating": 4.7,
+      "reviews": 2650
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -14,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -14,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 107536,
+    "priorHeadRevenue": 125471,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 22,
+      "newCount": 8,
+      "pct": 36,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 74,
+      "brandCount": 17,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.45,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0DL7ZJ8PF",
+        "title": "Melissa &amp; Doug Flip &amp; Fry Grill Play Set with Water Wow!® Kids Kitchen Playset with Color Changing Play Food, Preschool Toys for Girls &amp; Boys Ages 3+",
+        "rating": 4.6,
+        "reviews": 203
+      },
+      {
+        "rank": 2,
+        "asin": "B0FKT7D3SN",
+        "title": "13Pcs Kids Pretend Play Kitchen Accessories Pots and Pans Playset, Stainless Steel Pots and Pans Cooking Utensils in Draining Caddy Kitchen Toy Set Accessories for Kids Age 3 Years Old",
+        "rating": 4.7,
+        "reviews": 91
+      },
+      {
+        "rank": 3,
+        "asin": "B00MYL7L9G",
+        "title": "Melissa &amp; Doug Stir &amp; Serve 7-Piece Cooking Utensils Set",
+        "rating": 4.9,
+        "reviews": 7065
+      },
+      {
+        "rank": 4,
+        "asin": "B0DFY743G6",
+        "title": "Kids Play Kitchen Toy Accessories Set Toddler Cooking Playset Colorful Stainless Steel Pots and Pans Birthday Gifts for 3+ Girls Boys (New Green)",
+        "rating": 4.5,
+        "reviews": 1091
+      },
+      {
+        "rank": 5,
+        "asin": "B07Q1YRG9M",
+        "title": "Juboury Play Kitchen Accessories,Stainless Steel Toddler Cooking Set",
+        "rating": 4.7,
+        "reviews": 9437
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166316011:166343011:166349011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

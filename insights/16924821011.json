@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "16924821011",
+  "level": "L4",
+  "categoryPathEn": "Home & Kitchen > Furniture > Entryway Furniture > Hall Trees",
+  "categoryPathCn": "家居用品 > 家具 > 入口处的家具 > 柱式衣帽架",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 92,
+    "totalRevenue": 2568775,
+    "avgRevenue": 27921,
+    "medianPrice": 206.49,
+    "priceBand": "$144.72 - $307.49",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0FNR3ZNJ8",
+      "title": "CSZZD Hall Tree with Bench &amp; Entryway Coat Rack with Shoe Storage",
+      "brand": "CSZZD",
+      "price": 179.99,
+      "salesParent": 873,
+      "revenue": 154232.91,
+      "rating": 4.5,
+      "reviews": 221
+    },
+    {
+      "rank": 2,
+      "asin": "B0GQHB4H36",
+      "title": "CSZZD Large Hall Tree with Bench, RGB LED Lights &amp; Entryway Storage",
+      "brand": "CSZZD",
+      "price": 249.98,
+      "salesParent": 426,
+      "revenue": 106150.68,
+      "rating": 4.0,
+      "reviews": 31
+    },
+    {
+      "rank": 3,
+      "asin": "B0DF7M6JBQ",
+      "title": "75''H 59''W Large LED Farmhouse Hall Tree with Bench and Shoe Storage,Entryway Bench with Coat Rack,16 Shoe Cubbies &amp; Umbrella Holder and Sock Storage Drawer,Mudroom/Hallway Storages Cabinet(white )",
+      "brand": "chartustriable",
+      "price": 239.95,
+      "salesParent": 370,
+      "revenue": 84208.3,
+      "rating": 4.3,
+      "reviews": 168
+    },
+    {
+      "rank": 4,
+      "asin": "B0FZBXLHBQ",
+      "title": "Itaar Hall Tree with Bench and Shoe Storage, Farmhouse Entryway Bench with Coat Rack, Shoe Cabinet with Flip Drawers, 7 Shelves, 10 Coat Hooks, Storage Bag, Led Lights, Black",
+      "brand": "Itaar",
+      "price": 159.98,
+      "salesParent": 538,
+      "revenue": 84148.58,
+      "rating": 4.4,
+      "reviews": 239
+    },
+    {
+      "rank": 5,
+      "asin": "B07C74SML5",
+      "title": "VASAGLE Coat Rack, Hall Tree with Shoe Storage Bench, 3-in-1, Steel Frame",
+      "brand": "VASAGLE",
+      "price": 43.99,
+      "salesParent": 1394,
+      "revenue": 66633.2,
+      "rating": 4.6,
+      "reviews": 6847
+    },
+    {
+      "rank": 6,
+      "asin": "B0786BN4WY",
+      "title": "VASAGLE Coat Rack, Hall Tree with Shoe Bench, 4-in-1, 9 Removable Hooks",
+      "brand": "VASAGLE",
+      "price": 49.99,
+      "salesParent": 1558,
+      "revenue": 66448.7,
+      "rating": 4.7,
+      "reviews": 15857
+    },
+    {
+      "rank": 7,
+      "asin": "B0H143MPJ2",
+      "title": "VASAGLE 5-in-1 Hall Tree with Bench and Shoe Storage, Adjustable LED Light",
+      "brand": "VASAGLE",
+      "price": 149.99,
+      "salesParent": 439,
+      "revenue": 65358.32,
+      "rating": 4.1,
+      "reviews": 934
+    },
+    {
+      "rank": 8,
+      "asin": "B0H2HM2QWZ",
+      "title": "Merax Merax Hall Tree",
+      "brand": "Merax",
+      "price": 409.99,
+      "salesParent": 147,
+      "revenue": 65046.03,
+      "rating": 4.1,
+      "reviews": 1
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 41,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 41,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 2568775,
+    "priorHeadRevenue": 1823472,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 92,
+      "newCount": 68,
+      "pct": 74,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 56,
+      "brandCount": 49,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.13,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0FNR3ZNJ8",
+        "title": "CSZZD Hall Tree with Bench &amp; Entryway Coat Rack with Shoe Storage",
+        "rating": 4.5,
+        "reviews": 221
+      },
+      {
+        "rank": 2,
+        "asin": "B0GQHB4H36",
+        "title": "CSZZD Large Hall Tree with Bench, RGB LED Lights &amp; Entryway Storage",
+        "rating": 4.0,
+        "reviews": 31
+      },
+      {
+        "rank": 3,
+        "asin": "B0DF7M6JBQ",
+        "title": "75''H 59''W Large LED Farmhouse Hall Tree with Bench and Shoe Storage,Entryway Bench with Coat Rack,16 Shoe Cubbies &amp; Umbrella Holder and Sock Storage Drawer,Mudroom/Hallway Storages Cabinet(white )",
+        "rating": 4.3,
+        "reviews": 168
+      },
+      {
+        "rank": 4,
+        "asin": "B0FZBXLHBQ",
+        "title": "Itaar Hall Tree with Bench and Shoe Storage, Farmhouse Entryway Bench with Coat Rack, Shoe Cabinet with Flip Drawers, 7 Shelves, 10 Coat Hooks, Storage Bag, Led Lights, Black",
+        "rating": 4.4,
+        "reviews": 239
+      },
+      {
+        "rank": 5,
+        "asin": "B07C74SML5",
+        "title": "VASAGLE Coat Rack, Hall Tree with Shoe Storage Bench, 3-in-1, Steel Frame",
+        "rating": 4.6,
+        "reviews": 6847
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "1055398:1063306:3249856011:16924821011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "7427918011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Sports & Outdoor Play > Play Sets & Playground Equipment > Play Set Attachments",
+  "categoryPathCn": "玩具 > 体育 > 游戏套装 > 游戏套装附件",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 93,
+    "totalRevenue": 2121849,
+    "avgRevenue": 22816,
+    "medianPrice": 55.99,
+    "priceBand": "$37.19 - $110.85",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B07ZZKCV56",
+      "title": "Backyard Discovery Buckley Hill Cedar Wood Swing Set with Wave Slide, Play Deck, Rock Wall Ladder, Belt Swings, Chalkboard, Canopy Roof, Outdoor Playset",
+      "brand": "Backyard Discovery",
+      "price": 499.0,
+      "salesParent": 238,
+      "revenue": 108242.4,
+      "rating": 4.3,
+      "reviews": 3098
+    },
+    {
+      "rank": 2,
+      "asin": "B0GHZMVKJC",
+      "title": "Backyard Discovery Rosewood Falls Cedar Wood Swing Set with Monkey Bars, Clubhouse, Crow's Nest, Play Kitchen, Wave Slide, Rock Wall, Belt Swings, Web Swing, Half Door, Chalkboard, Outdoor Playset",
+      "brand": "Backyard Discovery",
+      "price": 1999.0,
+      "salesParent": 56,
+      "revenue": 102983.44,
+      "rating": 4.4,
+      "reviews": 17
+    },
+    {
+      "rank": 3,
+      "asin": "B07PFYNRSC",
+      "title": "Little Tikes 2-in-1 Snug 'n Secure Swing Magenta",
+      "brand": "Little Tikes",
+      "price": 27.97,
+      "salesParent": 3095,
+      "revenue": 86195.75,
+      "rating": 4.8,
+      "reviews": 20202
+    },
+    {
+      "rank": 4,
+      "asin": "B08P3WM1NG",
+      "title": "Lifetime 90966 Double Adventure Tower with Monkey Bars",
+      "brand": "LIFETIME",
+      "price": 4499.0,
+      "salesParent": 17,
+      "revenue": 76483.0,
+      "rating": 4.3,
+      "reviews": 20
+    },
+    {
+      "rank": 5,
+      "asin": "B0018L7B9S",
+      "title": "Swing-N-Slide 7 ft.Turbo Tube Slide , Green",
+      "brand": "Swing-N-Slide",
+      "price": 655.99,
+      "salesParent": 112,
+      "revenue": 72250.09,
+      "rating": 4.2,
+      "reviews": 871
+    },
+    {
+      "rank": 6,
+      "asin": "B0FWD4WK2H",
+      "title": "TUSK Turbo Twister 9 ft Rotomolded Playset Tube Slide, Gray",
+      "brand": "TUSK Molding",
+      "price": 2695.0,
+      "salesParent": 22,
+      "revenue": 59290.0,
+      "rating": 5.0,
+      "reviews": 2
+    },
+    {
+      "rank": 7,
+      "asin": "B0CZL2F89W",
+      "title": "Trekassy 40&quot; Spider Web Saucer Tree Swing for Kids &amp; Adults - Blue",
+      "brand": "Trekassy",
+      "price": 69.99,
+      "salesParent": 844,
+      "revenue": 59071.56,
+      "rating": 4.7,
+      "reviews": 813
+    },
+    {
+      "rank": 8,
+      "asin": "B07CSL91V5",
+      "title": "40 Inch Saucer Tree Swing Flying 600lb Weight Capacity 2 Added Hanging Straps Adjustable Multi-Strand Ropes Colorful Safe and Durable Swing Seat for Children",
+      "brand": "PACEARTH",
+      "price": 49.99,
+      "salesParent": 1314,
+      "revenue": 58420.44,
+      "rating": 4.7,
+      "reviews": 5806
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 6,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 6,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 2121849,
+    "priorHeadRevenue": 2009253,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 93,
+      "newCount": 29,
+      "pct": 31,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 33,
+      "brandCount": 57,
+      "level": "分散",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.54,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B07ZZKCV56",
+        "title": "Backyard Discovery Buckley Hill Cedar Wood Swing Set with Wave Slide, Play Deck, Rock Wall Ladder, Belt Swings, Chalkboard, Canopy Roof, Outdoor Playset",
+        "rating": 4.3,
+        "reviews": 3098
+      },
+      {
+        "rank": 2,
+        "asin": "B0GHZMVKJC",
+        "title": "Backyard Discovery Rosewood Falls Cedar Wood Swing Set with Monkey Bars, Clubhouse, Crow's Nest, Play Kitchen, Wave Slide, Rock Wall, Belt Swings, Web Swing, Half Door, Chalkboard, Outdoor Playset",
+        "rating": 4.4,
+        "reviews": 17
+      },
+      {
+        "rank": 3,
+        "asin": "B07PFYNRSC",
+        "title": "Little Tikes 2-in-1 Snug 'n Secure Swing Magenta",
+        "rating": 4.8,
+        "reviews": 20202
+      },
+      {
+        "rank": 4,
+        "asin": "B08P3WM1NG",
+        "title": "Lifetime 90966 Double Adventure Tower with Monkey Bars",
+        "rating": 4.3,
+        "reviews": 20
+      },
+      {
+        "rank": 5,
+        "asin": "B0018L7B9S",
+        "title": "Swing-N-Slide 7 ft.Turbo Tube Slide , Green",
+        "rating": 4.2,
+        "reviews": 871
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166420011:166424011:7427918011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

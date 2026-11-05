@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "676716011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Arts & Crafts > Drawing & Painting Supplies > Chalk",
+  "categoryPathCn": "玩具 > 艺术 > 绘图 > 粉笔",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 98,
+    "totalRevenue": 1540914,
+    "avgRevenue": 15724,
+    "medianPrice": 19.99,
+    "priceBand": "$9.99 - $26.23",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0FT167GZJ",
+      "title": "NewFamily 48-Color Dustless Chalk Set with Holders, Non-Toxic Washable Chalk for Kids, Blackboard &amp; Sidewalk Art, Home Projects",
+      "brand": "NewFamily",
+      "price": 39.99,
+      "salesParent": 3828,
+      "revenue": 153081.72,
+      "rating": 4.8,
+      "reviews": 7
+    },
+    {
+      "rank": 2,
+      "asin": "B0F1T5BKD3",
+      "title": "NewFamily Kids Art Chalk Set - 24 Color Dustless Chalk with Cute Magnetic Drawing Board, Creative Gift for Boys and Girls",
+      "brand": "NewFamily",
+      "price": 27.99,
+      "salesParent": 4134,
+      "revenue": 115710.66,
+      "rating": 4.0,
+      "reviews": 45
+    },
+    {
+      "rank": 3,
+      "asin": "B0CS6TQHTV",
+      "title": "Kid Made Modern Non Toxic Sidewalk Chalk Bucket (24 Count) - Washable Colored Chalk Bulk Set for Kids and Toddlers Outdoor Games",
+      "brand": "Kid Made Modern",
+      "price": 8.99,
+      "salesParent": 11480,
+      "revenue": 91954.81,
+      "rating": 4.7,
+      "reviews": 1992
+    },
+    {
+      "rank": 4,
+      "asin": "B0FG7XZ5N5",
+      "title": "NewFamily Dustless Chalk 2-Pack, 24 Sticks (2×12 Colors) – Non-Toxic, Washable Sidewalk &amp; Blackboard Chalk for Kids &amp; Toddlers, Smooth Bold Colors",
+      "brand": "NewFamily",
+      "price": 19.99,
+      "salesParent": 4134,
+      "revenue": 82638.66,
+      "rating": 3.9,
+      "reviews": 5
+    },
+    {
+      "rank": 5,
+      "asin": "B01M5F2YPO",
+      "title": "Crayola Ultimate Washable Chalk Collection (64ct), Bulk Outdoor Sidewalk Chalk for Kids, Outdoor Activities &amp; Spring Crafts, Gifts for Kids",
+      "brand": "Crayola",
+      "price": 17.82,
+      "salesParent": 4353,
+      "revenue": 77570.46,
+      "rating": 4.7,
+      "reviews": 10085
+    },
+    {
+      "rank": 6,
+      "asin": "B08MV5F531",
+      "title": "JOYIN 160 PCS Sidewalk Chalks Set-16 Colors Non-Toxic Washable Jumbo Chalk for Outdoor Art Play, Painting on Chalkboard, Blackboard and Playground",
+      "brand": "JOYIN",
+      "price": 26.99,
+      "salesParent": 2551,
+      "revenue": 72091.26,
+      "rating": 4.8,
+      "reviews": 4474
+    },
+    {
+      "rank": 7,
+      "asin": "B07DFYP3DJ",
+      "title": "24 PCS Sidewalk Chalk for Kids - 13 Colors Chalk Bucket -Non-Toxic Washable",
+      "brand": "Fat Zebra Designs",
+      "price": 7.99,
+      "salesParent": 7518,
+      "revenue": 60068.82,
+      "rating": 4.7,
+      "reviews": 945
+    },
+    {
+      "rank": 8,
+      "asin": "B08BG7N16C",
+      "title": "READY 2 LEARN Jumbo Sidewalk Chalk, Set of 20, 9 Colors",
+      "brand": "READY 2 LEARN",
+      "price": 7.99,
+      "salesParent": 6688,
+      "revenue": 51898.88,
+      "rating": 4.6,
+      "reviews": 1492
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 44,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 44,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1540914,
+    "priorHeadRevenue": 1067167,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 98,
+      "newCount": 31,
+      "pct": 32,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 62,
+      "brandCount": 50,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.39,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0FT167GZJ",
+        "title": "NewFamily 48-Color Dustless Chalk Set with Holders, Non-Toxic Washable Chalk for Kids, Blackboard &amp; Sidewalk Art, Home Projects",
+        "rating": 4.8,
+        "reviews": 7
+      },
+      {
+        "rank": 2,
+        "asin": "B0F1T5BKD3",
+        "title": "NewFamily Kids Art Chalk Set - 24 Color Dustless Chalk with Cute Magnetic Drawing Board, Creative Gift for Boys and Girls",
+        "rating": 4.0,
+        "reviews": 45
+      },
+      {
+        "rank": 3,
+        "asin": "B0CS6TQHTV",
+        "title": "Kid Made Modern Non Toxic Sidewalk Chalk Bucket (24 Count) - Washable Colored Chalk Bulk Set for Kids and Toddlers Outdoor Games",
+        "rating": 4.7,
+        "reviews": 1992
+      },
+      {
+        "rank": 4,
+        "asin": "B0FG7XZ5N5",
+        "title": "NewFamily Dustless Chalk 2-Pack, 24 Sticks (2×12 Colors) – Non-Toxic, Washable Sidewalk &amp; Blackboard Chalk for Kids &amp; Toddlers, Smooth Bold Colors",
+        "rating": 3.9,
+        "reviews": 5
+      },
+      {
+        "rank": 5,
+        "asin": "B01M5F2YPO",
+        "title": "Crayola Ultimate Washable Chalk Collection (64ct), Bulk Outdoor Sidewalk Chalk for Kids, Outdoor Activities &amp; Spring Crafts, Gifts for Kids",
+        "rating": 4.7,
+        "reviews": 10085
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166057011:2488275011:676716011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23537014011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Health Care > Insect & Pest Repellents > Wearables",
+  "categoryPathCn": "健康与家居 > 卫生保健 > 驱虫剂 > 可穿戴设备",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 84,
+    "totalRevenue": 1196390,
+    "avgRevenue": 14243,
+    "medianPrice": 19.99,
+    "priceBand": "$12.24 - $25.87",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B017G1051Y",
+      "title": "Cliganic Mosquito Repellent Bracelets for Kids &amp; Adults, Natural, 10 Pack",
+      "brand": "Cliganic",
+      "price": 9.99,
+      "salesParent": 37467,
+      "revenue": 376543.34,
+      "rating": 4.2,
+      "reviews": 38437
+    },
+    {
+      "rank": 2,
+      "asin": "B0C3BCJSWD",
+      "title": "Cliganic Mosquito Repellent Stickers for Kids &amp; Adults, Bug Patches, 90 Pk",
+      "brand": "Cliganic",
+      "price": 9.99,
+      "salesParent": 21867,
+      "revenue": 211672.56,
+      "rating": 4.0,
+      "reviews": 8744
+    },
+    {
+      "rank": 3,
+      "asin": "B0D2YBY4J9",
+      "title": "BugMD Squito Stickers - Mosquito Repellent Patches for Adults",
+      "brand": "BugMD",
+      "price": 19.97,
+      "salesParent": 2388,
+      "revenue": 47688.36,
+      "rating": 3.9,
+      "reviews": 5884
+    },
+    {
+      "rank": 4,
+      "asin": "B091C2DHP6",
+      "title": "BuggyBands 48 Pack DEET-Free Mosquito Repellent Bracelets for Adults &amp; Kids",
+      "brand": "BuggyBands",
+      "price": 24.29,
+      "salesParent": 1392,
+      "revenue": 36553.92,
+      "rating": 4.3,
+      "reviews": 2804
+    },
+    {
+      "rank": 5,
+      "asin": "B07STX56HJ",
+      "title": "Cliganic Mosquito Repellent Bracelets for Kids &amp; Adults, Natural, 20 Pack",
+      "brand": "Cliganic",
+      "price": 17.99,
+      "salesParent": 2108,
+      "revenue": 36194.36,
+      "rating": 4.3,
+      "reviews": 2693
+    },
+    {
+      "rank": 6,
+      "asin": "B0D9WGGXJW",
+      "title": "Cliganic Mosquito Repellent Bracelets &amp; Stickers, 20 Bands &amp; 30 Patches",
+      "brand": "Cliganic",
+      "price": 19.99,
+      "salesParent": 1280,
+      "revenue": 25587.2,
+      "rating": 4.2,
+      "reviews": 793
+    },
+    {
+      "rank": 7,
+      "asin": "B0CQ8G97L2",
+      "title": "Mosquito Head Net for Insects 2 Pack, Fly &amp; Bug Protection",
+      "brand": "South to East",
+      "price": 12.99,
+      "salesParent": 2143,
+      "revenue": 24880.23,
+      "rating": 4.6,
+      "reviews": 3208
+    },
+    {
+      "rank": 8,
+      "asin": "B0D2NYKM34",
+      "title": "BuggyBands 24 Pack DEET-Free Mosquito Repellent Bracelets for Adults &amp; Kids",
+      "brand": "BuggyBands",
+      "price": 24.99,
+      "salesParent": 914,
+      "revenue": 23032.8,
+      "rating": 4.3,
+      "reviews": 594
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 19,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 19,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1196390,
+    "priorHeadRevenue": 1001633,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 84,
+      "newCount": 31,
+      "pct": 37,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 76,
+      "brandCount": 47,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.27,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B017G1051Y",
+        "title": "Cliganic Mosquito Repellent Bracelets for Kids &amp; Adults, Natural, 10 Pack",
+        "rating": 4.2,
+        "reviews": 38437
+      },
+      {
+        "rank": 2,
+        "asin": "B0C3BCJSWD",
+        "title": "Cliganic Mosquito Repellent Stickers for Kids &amp; Adults, Bug Patches, 90 Pk",
+        "rating": 4.0,
+        "reviews": 8744
+      },
+      {
+        "rank": 3,
+        "asin": "B0D2YBY4J9",
+        "title": "BugMD Squito Stickers - Mosquito Repellent Patches for Adults",
+        "rating": 3.9,
+        "reviews": 5884
+      },
+      {
+        "rank": 4,
+        "asin": "B091C2DHP6",
+        "title": "BuggyBands 48 Pack DEET-Free Mosquito Repellent Bracelets for Adults &amp; Kids",
+        "rating": 4.3,
+        "reviews": 2804
+      },
+      {
+        "rank": 5,
+        "asin": "B07STX56HJ",
+        "title": "Cliganic Mosquito Repellent Bracelets for Kids &amp; Adults, Natural, 20 Pack",
+        "rating": 4.3,
+        "reviews": 2693
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3760941:3762971:23537014011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

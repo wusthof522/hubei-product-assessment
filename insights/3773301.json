@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3773301",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins, Minerals & Supplements > Enzymes > Bromelain",
+  "categoryPathCn": "健康与家居 > 身、泳和附剂 > 酵素 > 菠萝蛋白酶",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 3732612,
+    "avgRevenue": 37326,
+    "medianPrice": 23.95,
+    "priceBand": "$17.96 - $32.48",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B00RH5K26I",
+      "title": "Zenwise Health Digestive Enzymes, Probiotics, for Gut Health Bloat - 180 CT",
+      "brand": "Zenwise Health",
+      "price": 30.07,
+      "salesParent": 43854,
+      "revenue": 1510770.38,
+      "rating": 4.4,
+      "reviews": 75235
+    },
+    {
+      "rank": 2,
+      "asin": "B002JNK8EY",
+      "title": "Now Supplements, Quercetin with Bromelain, 240 Veg Caps",
+      "brand": "NOW",
+      "price": 38.76,
+      "salesParent": 19765,
+      "revenue": 725770.81,
+      "rating": 4.7,
+      "reviews": 21922
+    },
+    {
+      "rank": 3,
+      "asin": "B01MU30S6Z",
+      "title": "Nutricost Quercetin 880mg, 240 Vegetarian Capsules, 120 Servings, GMO-Free",
+      "brand": "Nutricost",
+      "price": 33.95,
+      "salesParent": 3575,
+      "revenue": 121371.25,
+      "rating": 4.7,
+      "reviews": 3947
+    },
+    {
+      "rank": 4,
+      "asin": "B082P67KTX",
+      "title": "SOLARAY Quercetin Bromelain &amp; Vitamin C, Immune System, Sinus, Respiratory &amp; Antioxidant Activity Support, Vegan, 500mg of Quercetin &amp; 1,235mg of VIT C, 60 Day Guarantee, 75 Servings, 150 VegCaps",
+      "brand": "SOLARAY",
+      "price": 32.99,
+      "salesParent": 3077,
+      "revenue": 101510.0,
+      "rating": 4.7,
+      "reviews": 2480
+    },
+    {
+      "rank": 5,
+      "asin": "B07TK4ZTLP",
+      "title": "Nutricost Bromelain (500mg) 120 Vegetarian Capsules, Gluten Free",
+      "brand": "Nutricost",
+      "price": 16.95,
+      "salesParent": 5891,
+      "revenue": 99852.45,
+      "rating": 4.6,
+      "reviews": 2280
+    },
+    {
+      "rank": 6,
+      "asin": "B000I2028A",
+      "title": "Now Supplements, Bromelain 2,400 GDU/g - 500 mg, 120 Veg Caps",
+      "brand": "NOW",
+      "price": 24.75,
+      "salesParent": 4292,
+      "revenue": 99188.13,
+      "rating": 4.6,
+      "reviews": 6493
+    },
+    {
+      "rank": 7,
+      "asin": "B0064R8XC0",
+      "title": "Pure Encapsulations Bromelain 2400 500 mg, 60 Capsules",
+      "brand": "Pure Encapsulations",
+      "price": 40.0,
+      "salesParent": 1924,
+      "revenue": 76960.0,
+      "rating": 4.7,
+      "reviews": 638
+    },
+    {
+      "rank": 8,
+      "asin": "B08M5L372P",
+      "title": "VitaMedica Bromelain &amp; Quercetin Supplement - 500mg Bromelain 250mg Quercetin - 2400 GDU for Immunity, Joint Support, Inflammation and Muscle Recovery - 60 Vegan Capsules - 30 Servings",
+      "brand": "VitaMedica",
+      "price": 37.95,
+      "salesParent": 1634,
+      "revenue": 62010.3,
+      "rating": 4.5,
+      "reviews": 859
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 1,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 1,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 3732612,
+    "priorHeadRevenue": 3707681,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 16,
+      "pct": 16,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 76,
+      "brandCount": 77,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.49,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B00RH5K26I",
+        "title": "Zenwise Health Digestive Enzymes, Probiotics, for Gut Health Bloat - 180 CT",
+        "rating": 4.4,
+        "reviews": 75235
+      },
+      {
+        "rank": 2,
+        "asin": "B002JNK8EY",
+        "title": "Now Supplements, Quercetin with Bromelain, 240 Veg Caps",
+        "rating": 4.7,
+        "reviews": 21922
+      },
+      {
+        "rank": 3,
+        "asin": "B01MU30S6Z",
+        "title": "Nutricost Quercetin 880mg, 240 Vegetarian Capsules, 120 Servings, GMO-Free",
+        "rating": 4.7,
+        "reviews": 3947
+      },
+      {
+        "rank": 4,
+        "asin": "B082P67KTX",
+        "title": "SOLARAY Quercetin Bromelain &amp; Vitamin C, Immune System, Sinus, Respiratory &amp; Antioxidant Activity Support, Vegan, 500mg of Quercetin &amp; 1,235mg of VIT C, 60 Day Guarantee, 75 Servings, 150 VegCaps",
+        "rating": 4.7,
+        "reviews": 2480
+      },
+      {
+        "rank": 5,
+        "asin": "B07TK4ZTLP",
+        "title": "Nutricost Bromelain (500mg) 120 Vegetarian Capsules, Gluten Free",
+        "rating": 4.6,
+        "reviews": 2280
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:23675621011:3773511:3773301",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

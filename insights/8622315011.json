@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "8622315011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Medical Supplies & Equipment > Home Tests > Family Planning Tests",
+  "categoryPathCn": "健康与家居 > 医疗用品和设备 > 家用体检用品 > 验孕棒",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 95,
+    "totalRevenue": 10323758,
+    "avgRevenue": 108671,
+    "medianPrice": 15.99,
+    "priceBand": "$9.99 - $45.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0GGVNLSLC",
+      "title": "Clinical Guard 100 Pregnancy Tests Strips - Sensitive &amp; Accurate Measurement Within 5 mins - Early Detection Pregnancy Test Strip - Easy to Use for Home Tests - HCG Test Strip Kit (Pack of 5)",
+      "brand": "Clinical Guard",
+      "price": 119.9,
+      "salesParent": 9004,
+      "revenue": 1079579.62,
+      "rating": 4.5,
+      "reviews": 21715
+    },
+    {
+      "rank": 2,
+      "asin": "B00R1V66SG",
+      "title": "Clearblue Fertility Monitor, 1 Touch-Screen Monitor, 1 Ct",
+      "brand": "Clearblue",
+      "price": 149.97,
+      "salesParent": 5784,
+      "revenue": 867426.5,
+      "rating": 4.3,
+      "reviews": 4584
+    },
+    {
+      "rank": 3,
+      "asin": "B00XQEGLAK",
+      "title": "First Response Early Result Pregnancy Test, 5 Count Pack of 1",
+      "brand": "FIRST RESPONSE",
+      "price": 15.99,
+      "salesParent": 54026,
+      "revenue": 863335.44,
+      "rating": 4.6,
+      "reviews": 34211
+    },
+    {
+      "rank": 4,
+      "asin": "B0FB4BCFJP",
+      "title": "Inito Fertility Test Strips | Pack of 30 | Compatible with Inito Fertility Monitor | Compatible with Both iOS and Android",
+      "brand": "Inito",
+      "price": 109.0,
+      "salesParent": 6979,
+      "revenue": 760711.0,
+      "rating": 4.1,
+      "reviews": 304
+    },
+    {
+      "rank": 5,
+      "asin": "B0DCW4GY3X",
+      "title": "Clearblue Advanced Digital Ovulation Test Kit, 32 Count",
+      "brand": "Clearblue",
+      "price": 39.95,
+      "salesParent": 15093,
+      "revenue": 601908.88,
+      "rating": 4.3,
+      "reviews": 17959
+    },
+    {
+      "rank": 6,
+      "asin": "B0GM5P3D6F",
+      "title": "Inito Fertility Monitor &amp; Hormone Tracker for Women | Track and Confirm Ovulation | Measures Estrogen, LH, PdG, FSH |Includes 15 Strips + Free app (Compatible with All Phones)",
+      "brand": "Inito",
+      "price": 139.0,
+      "salesParent": 4314,
+      "revenue": 599646.0,
+      "rating": 4.3,
+      "reviews": 145
+    },
+    {
+      "rank": 7,
+      "asin": "B00DOJG6RA",
+      "title": "easy@Home Ovulation Test Strips, 50 LH + 20 hCG Tests, 70 Count Combo Kit",
+      "brand": "Easy@Home",
+      "price": 19.99,
+      "salesParent": 28588,
+      "revenue": 571474.12,
+      "rating": 4.6,
+      "reviews": 65389
+    },
+    {
+      "rank": 8,
+      "asin": "B001GXEHL8",
+      "title": "Clearblue Rapid Detection Pregnancy Test, Home Pregnancy Kit, 2 Count",
+      "brand": "Clearblue",
+      "price": 7.98,
+      "salesParent": 54001,
+      "revenue": 430927.97,
+      "rating": 4.7,
+      "reviews": 24865
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 44,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 44,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 10323758,
+    "priorHeadRevenue": 7149321,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 95,
+      "newCount": 26,
+      "pct": 27,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 77,
+      "brandCount": 41,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.24,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0GGVNLSLC",
+        "title": "Clinical Guard 100 Pregnancy Tests Strips - Sensitive &amp; Accurate Measurement Within 5 mins - Early Detection Pregnancy Test Strip - Easy to Use for Home Tests - HCG Test Strip Kit (Pack of 5)",
+        "rating": 4.5,
+        "reviews": 21715
+      },
+      {
+        "rank": 2,
+        "asin": "B00R1V66SG",
+        "title": "Clearblue Fertility Monitor, 1 Touch-Screen Monitor, 1 Ct",
+        "rating": 4.3,
+        "reviews": 4584
+      },
+      {
+        "rank": 3,
+        "asin": "B00XQEGLAK",
+        "title": "First Response Early Result Pregnancy Test, 5 Count Pack of 1",
+        "rating": 4.6,
+        "reviews": 34211
+      },
+      {
+        "rank": 4,
+        "asin": "B0FB4BCFJP",
+        "title": "Inito Fertility Test Strips | Pack of 30 | Compatible with Inito Fertility Monitor | Compatible with Both iOS and Android",
+        "rating": 4.1,
+        "reviews": 304
+      },
+      {
+        "rank": 5,
+        "asin": "B0DCW4GY3X",
+        "title": "Clearblue Advanced Digital Ovulation Test Kit, 32 Count",
+        "rating": 4.3,
+        "reviews": 17959
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3775161:3777241:8622315011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

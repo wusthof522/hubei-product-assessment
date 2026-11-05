@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "21233680011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Medical Supplies & Equipment > Cloth Face Masks & Accessories > Strap Extenders",
+  "categoryPathCn": "健康与家居 > 医疗用品和设备 > 布口罩和配件 > 耳带延长扣",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 97,
+    "totalRevenue": 165798,
+    "avgRevenue": 1709,
+    "medianPrice": 9.59,
+    "priceBand": "$6.39 - $12.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0HKMBZ47X",
+      "title": "Thumb Wrist Brace CMC Spica Splint for Arthritis Trigger Finger",
+      "brand": "FITSOON",
+      "price": 24.99,
+      "salesParent": 1684,
+      "revenue": 36492.28,
+      "rating": 4.7,
+      "reviews": 113
+    },
+    {
+      "rank": 2,
+      "asin": "B0H9XRSFVQ",
+      "title": "Collar Extenders for Men's Shirts,Soft Neck Extender for Dress Shirt",
+      "brand": "CNDNO",
+      "price": 9.99,
+      "salesParent": 1781,
+      "revenue": 17792.19,
+      "rating": 4.5,
+      "reviews": 32
+    },
+    {
+      "rank": 3,
+      "asin": "B01N5MIYE2",
+      "title": "Pediatric Dragon Mask by Cardinal",
+      "brand": "YESWE",
+      "price": 4.8,
+      "salesParent": 2059,
+      "revenue": 9883.2,
+      "rating": 4.7,
+      "reviews": 3264
+    },
+    {
+      "rank": 4,
+      "asin": "B0HH3YCYW1",
+      "title": "4 Pack Shoulder Belt Comfort Clip for Neck &amp; Shoulder Relief, Positioning Clip",
+      "brand": "Generic",
+      "price": 19.99,
+      "salesParent": 406,
+      "revenue": 8323.0,
+      "rating": 3.8,
+      "reviews": 9
+    },
+    {
+      "rank": 5,
+      "asin": "B0G4M5JM7B",
+      "title": "Mask Straps for Cosplay, 3 PCS Adjustable Elastic Mask Strap Kit with Strong Velcro, Fits 1-Inch Mask Holes, Back of Head Strap for Halloween Costume Masks, Sports, Face Mask Extension, Adults Teens",
+      "brand": "Rubierine",
+      "price": 14.99,
+      "salesParent": 521,
+      "revenue": 7809.79,
+      "rating": 4.6,
+      "reviews": 23
+    },
+    {
+      "rank": 6,
+      "asin": "B0BLWDGRG6",
+      "title": "Extender Strap - 2 x 9 Inches - Made in USA - Elastic Hook &amp; Loop Extension",
+      "brand": "Spand-Ice",
+      "price": 12.95,
+      "salesParent": 590,
+      "revenue": 7640.5,
+      "rating": 4.1,
+      "reviews": 1142
+    },
+    {
+      "rank": 7,
+      "asin": "B0FY1B34DQ",
+      "title": "1 Piece Reusable Extender Strap Ice Pack Strap,2 x 8 Inch",
+      "brand": "Geiserailie",
+      "price": 12.99,
+      "salesParent": 587,
+      "revenue": 6363.08,
+      "rating": 4.5,
+      "reviews": 74
+    },
+    {
+      "rank": 8,
+      "asin": "B0H3TX17KQ",
+      "title": "4 Pack Adjustable Mask Straps for Cosplay and Halloween, 1&quot; Wide Elastic Back of Head Strap Kit with Hook and Loop, Fits Most Costume Masks with 1&quot; Wide Strap Slots",
+      "brand": "Kepfri",
+      "price": 15.99,
+      "salesParent": 277,
+      "revenue": 4376.6,
+      "rating": 5.0,
+      "reviews": 2
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 91,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 91,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 165798,
+    "priorHeadRevenue": 86629,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 97,
+      "newCount": 55,
+      "pct": 57,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 49,
+      "brandCount": 84,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.26,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0HKMBZ47X",
+        "title": "Thumb Wrist Brace CMC Spica Splint for Arthritis Trigger Finger",
+        "rating": 4.7,
+        "reviews": 113
+      },
+      {
+        "rank": 2,
+        "asin": "B0H9XRSFVQ",
+        "title": "Collar Extenders for Men's Shirts,Soft Neck Extender for Dress Shirt",
+        "rating": 4.5,
+        "reviews": 32
+      },
+      {
+        "rank": 3,
+        "asin": "B01N5MIYE2",
+        "title": "Pediatric Dragon Mask by Cardinal",
+        "rating": 4.7,
+        "reviews": 3264
+      },
+      {
+        "rank": 4,
+        "asin": "B0HH3YCYW1",
+        "title": "4 Pack Shoulder Belt Comfort Clip for Neck &amp; Shoulder Relief, Positioning Clip",
+        "rating": 3.8,
+        "reviews": 9
+      },
+      {
+        "rank": 5,
+        "asin": "B0G4M5JM7B",
+        "title": "Mask Straps for Cosplay, 3 PCS Adjustable Elastic Mask Strap Kit with Strong Velcro, Fits 1-Inch Mask Holes, Back of Head Strap for Halloween Costume Masks, Sports, Face Mask Extension, Adults Teens",
+        "rating": 4.6,
+        "reviews": 23
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3775161:21233677011:21233680011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

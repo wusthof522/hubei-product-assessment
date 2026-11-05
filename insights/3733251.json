@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3733251",
+  "level": "L4",
+  "categoryPathEn": "Home & Kitchen > Furniture > Bedroom Furniture > Nightstands",
+  "categoryPathCn": "家居用品 > 家具 > 家具卧室 > 床头柜",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 97,
+    "totalRevenue": 11823563,
+    "avgRevenue": 121892,
+    "medianPrice": 119.99,
+    "priceBand": "$59.99 - $215.49",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0DB142C6Y",
+      "title": "Nightstand with Rear Charging Station, LED Light, 2 Drawers, Black",
+      "brand": "Lazzanto",
+      "price": 39.99,
+      "salesParent": 10289,
+      "revenue": 425450.12,
+      "rating": 4.4,
+      "reviews": 3100
+    },
+    {
+      "rank": 2,
+      "asin": "B0GHYJVQ51",
+      "title": "Decofy Fluted Nightstand Set of 2 with Charging Station, 2 Drawers, Walnut",
+      "brand": "Decofy",
+      "price": 189.99,
+      "salesParent": 1396,
+      "revenue": 240851.88,
+      "rating": 4.7,
+      "reviews": 257
+    },
+    {
+      "rank": 3,
+      "asin": "B0DYD8Y9GW",
+      "title": "SICOTAS Oversized Night Stand Set 2 for Bedroom 31.3&quot; Bedside Table",
+      "brand": "SICOTAS",
+      "price": 359.98,
+      "salesParent": 662,
+      "revenue": 238306.77,
+      "rating": 4.6,
+      "reviews": 262
+    },
+    {
+      "rank": 4,
+      "asin": "B0FL1TMR52",
+      "title": "SONGMICS LED Nightstand with Charging Station, 2 Fabric Drawers, White",
+      "brand": "SONGMICS",
+      "price": 29.9,
+      "salesParent": 7026,
+      "revenue": 228204.48,
+      "rating": 4.2,
+      "reviews": 3159
+    },
+    {
+      "rank": 5,
+      "asin": "B0DK75DY1R",
+      "title": "Night Stand, Nightstands Set of 2 with Charging Station",
+      "brand": "LOAKEKEL",
+      "price": 69.99,
+      "salesParent": 3253,
+      "revenue": 227677.47,
+      "rating": 4.4,
+      "reviews": 1507
+    },
+    {
+      "rank": 6,
+      "asin": "B0BX95ZG4Q",
+      "title": "Black Dresser for Bedroom, Fabric Dorm Tall Nightstand",
+      "brand": "Furnulem",
+      "price": 49.98,
+      "salesParent": 3991,
+      "revenue": 227247.53,
+      "rating": 4.4,
+      "reviews": 8362
+    },
+    {
+      "rank": 7,
+      "asin": "B0GT4T9RPV",
+      "title": "Decofy 23'' Wide Fluted Nightstand Set of 2 with Charging Station, Walnut",
+      "brand": "Decofy",
+      "price": 179.99,
+      "salesParent": 1210,
+      "revenue": 224140.41,
+      "rating": 4.4,
+      "reviews": 102
+    },
+    {
+      "rank": 8,
+      "asin": "B0GJC5JQGC",
+      "title": "VASAGLE 23.6‑Inch Wide Nightstands, Set of 2, LED Lights, 2 Drawers",
+      "brand": "VASAGLE",
+      "price": 143.98,
+      "salesParent": 1528,
+      "revenue": 218091.44,
+      "rating": 4.1,
+      "reviews": 244
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -5,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -5,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 11823563,
+    "priorHeadRevenue": 12488745,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 97,
+      "newCount": 62,
+      "pct": 64,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 35,
+      "brandCount": 49,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.35,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0DB142C6Y",
+        "title": "Nightstand with Rear Charging Station, LED Light, 2 Drawers, Black",
+        "rating": 4.4,
+        "reviews": 3100
+      },
+      {
+        "rank": 2,
+        "asin": "B0GHYJVQ51",
+        "title": "Decofy Fluted Nightstand Set of 2 with Charging Station, 2 Drawers, Walnut",
+        "rating": 4.7,
+        "reviews": 257
+      },
+      {
+        "rank": 3,
+        "asin": "B0DYD8Y9GW",
+        "title": "SICOTAS Oversized Night Stand Set 2 for Bedroom 31.3&quot; Bedside Table",
+        "rating": 4.6,
+        "reviews": 262
+      },
+      {
+        "rank": 4,
+        "asin": "B0FL1TMR52",
+        "title": "SONGMICS LED Nightstand with Charging Station, 2 Fabric Drawers, White",
+        "rating": 4.2,
+        "reviews": 3159
+      },
+      {
+        "rank": 5,
+        "asin": "B0DK75DY1R",
+        "title": "Night Stand, Nightstands Set of 2 with Charging Station",
+        "rating": 4.4,
+        "reviews": 1507
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "1055398:1063306:1063308:3733251",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "19431299011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Games & Accessories > Card Games > Dedicated Deck Card Games",
+  "categoryPathCn": "玩具 > 游戏 > 纸牌游戏 > 专门的卡牌游戏",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 12294258,
+    "avgRevenue": 122943,
+    "medianPrice": 19.99,
+    "priceBand": "$14.07 - $29.71",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0DYR8D7YC",
+      "title": "Pokemon TCG: Scarlet &amp; Violet—Prismatic Evolutions Super-Premium Collection - 15 Booster Packs, 65 Card Sleeves, Full Art Foil Promo Card, Deck Box, Playmat &amp; Code Card",
+      "brand": "Pokémon",
+      "price": 253.04,
+      "salesParent": 3057,
+      "revenue": 798977.5,
+      "rating": 4.2,
+      "reviews": 2109
+    },
+    {
+      "rank": 2,
+      "asin": "B0DT3P6M5Q",
+      "title": "TALES 150 Conversation Cards, Family Edition, Create Meaningful Connections",
+      "brand": "TALES",
+      "price": 39.0,
+      "salesParent": 17541,
+      "revenue": 684099.0,
+      "rating": 4.5,
+      "reviews": 1117
+    },
+    {
+      "rank": 3,
+      "asin": "B0GRCBQ3Y2",
+      "title": "National Mah Jongg League 2026 Mahjong Large Size Cards Four-Pack Bundle - Official Hands and Rules for American Mahjong (Four Large-Size Cards)",
+      "brand": "National Mah Jongg League INC.",
+      "price": 60.0,
+      "salesParent": 6734,
+      "revenue": 404040.0,
+      "rating": 4.8,
+      "reviews": 157
+    },
+    {
+      "rank": 4,
+      "asin": "B0GXCRBL5J",
+      "title": "Pokemon Card Game MEGA Expansion Pack 30th Celebration Box",
+      "brand": "Pokémon",
+      "price": 229.99,
+      "salesParent": 1545,
+      "revenue": 395473.66,
+      "rating": 4.6,
+      "reviews": 706
+    },
+    {
+      "rank": 5,
+      "asin": "B0B6B25BKW",
+      "title": "Mount Cleverest® Original Edition | True or False Trivia Game | Fun Adults &amp; Kids Family Card Game | Stocking Stuffer | Travel Games | Party Games for Birthday | Gift for Boys and Girls",
+      "brand": "Mount Cleverest",
+      "price": 16.99,
+      "salesParent": 21153,
+      "revenue": 359389.47,
+      "rating": 4.7,
+      "reviews": 1979
+    },
+    {
+      "rank": 6,
+      "asin": "B0829FT44S",
+      "title": "50+ Official Pokemon Cards Collection with 5 Foils in Any Combination and at Least 1 Rarity, GX, EX, FA, Tag Team, Or Secret Rare",
+      "brand": "Pokémon",
+      "price": 7.48,
+      "salesParent": 47973,
+      "revenue": 353081.28,
+      "rating": 4.2,
+      "reviews": 13876
+    },
+    {
+      "rank": 7,
+      "asin": "B07P6MZPK3",
+      "title": "Mattel Games UNO Card Game, Ages 7+, 2-10 Players",
+      "brand": "Mattel Games",
+      "price": 11.46,
+      "salesParent": 27130,
+      "revenue": 312808.91,
+      "rating": 4.8,
+      "reviews": 61112
+    },
+    {
+      "rank": 8,
+      "asin": "B0GP36T4RX",
+      "title": "Flip 7: National Parks, Art Inspired by America’s Iconic Natural Wonders",
+      "brand": "USAOPOLY",
+      "price": 9.97,
+      "salesParent": 30545,
+      "revenue": 304533.66,
+      "rating": 4.9,
+      "reviews": 44
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 5,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 5,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 12294258,
+    "priorHeadRevenue": 11676304,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 22,
+      "pct": 22,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 45,
+      "brandCount": 56,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.67,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0DYR8D7YC",
+        "title": "Pokemon TCG: Scarlet &amp; Violet—Prismatic Evolutions Super-Premium Collection - 15 Booster Packs, 65 Card Sleeves, Full Art Foil Promo Card, Deck Box, Playmat &amp; Code Card",
+        "rating": 4.2,
+        "reviews": 2109
+      },
+      {
+        "rank": 2,
+        "asin": "B0DT3P6M5Q",
+        "title": "TALES 150 Conversation Cards, Family Edition, Create Meaningful Connections",
+        "rating": 4.5,
+        "reviews": 1117
+      },
+      {
+        "rank": 3,
+        "asin": "B0GRCBQ3Y2",
+        "title": "National Mah Jongg League 2026 Mahjong Large Size Cards Four-Pack Bundle - Official Hands and Rules for American Mahjong (Four Large-Size Cards)",
+        "rating": 4.8,
+        "reviews": 157
+      },
+      {
+        "rank": 4,
+        "asin": "B0GXCRBL5J",
+        "title": "Pokemon Card Game MEGA Expansion Pack 30th Celebration Box",
+        "rating": 4.6,
+        "reviews": 706
+      },
+      {
+        "rank": 5,
+        "asin": "B0B6B25BKW",
+        "title": "Mount Cleverest® Original Edition | True or False Trivia Game | Fun Adults &amp; Kids Family Card Game | Stocking Stuffer | Travel Games | Party Games for Birthday | Gift for Boys and Girls",
+        "rating": 4.7,
+        "reviews": 1979
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166220011:166239011:19431299011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

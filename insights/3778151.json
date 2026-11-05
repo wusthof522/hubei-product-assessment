@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3778151",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Oral Care > Denture Care > Baths",
+  "categoryPathCn": "Health & Household > Oral Care > Denture Care > Baths",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 96,
+    "totalRevenue": 4496659,
+    "avgRevenue": 46840,
+    "medianPrice": 9.99,
+    "priceBand": "$8.62 - $32.74",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0H6Q5M6P3",
+      "title": "Zima Dental Pod: Ultrasonic Cleaner for Retainers &amp; Aligners",
+      "brand": "Zima Dental",
+      "price": 99.99,
+      "salesParent": 22460,
+      "revenue": 2245775.25,
+      "rating": 4.6,
+      "reviews": 168
+    },
+    {
+      "rank": 2,
+      "asin": "B0HGXC2J1Y",
+      "title": "Ultrasonic Retainer Cleaner Machine 48kHz, Dental Ultrasonic Care Cleaner",
+      "brand": "UMPOPO",
+      "price": 35.98,
+      "salesParent": 11841,
+      "revenue": 481573.44,
+      "rating": 4.5,
+      "reviews": 302
+    },
+    {
+      "rank": 3,
+      "asin": "B0G11FJYL1",
+      "title": "Dental Ultrasonic Retainer Cleaner Machine: 45kHz Dental Cleaning Pod with Digital Timer &amp; 200ML, Cleaning for Dentures, Mouth Guards, Aligners, Night Guards, Braces, Toothbrush Heads &amp; Jewelry, Blue",
+      "brand": "UEOFEN",
+      "price": 56.99,
+      "salesParent": 5281,
+      "revenue": 300964.19,
+      "rating": 4.2,
+      "reviews": 225
+    },
+    {
+      "rank": 4,
+      "asin": "B0DSF8B9FG",
+      "title": "Dental Ultrasonic Retainer Cleaner Machine: 45kHz Dental Cleaning Pod with Digital Timer &amp; 200ML, Cleaning for Dentures, Mouth Guards, Aligners, Night Guards, Braces, Toothbrush Heads &amp; Jewelry, Blue",
+      "brand": "UEOFEN",
+      "price": 39.97,
+      "salesParent": 7442,
+      "revenue": 297456.75,
+      "rating": 4.2,
+      "reviews": 170
+    },
+    {
+      "rank": 5,
+      "asin": "B0GSTMHK6F",
+      "title": "Ultrasonic Retainer Cleaner Machine 48kHz, Dental Ultrasonic Care Cleaner",
+      "brand": "UMPOPO",
+      "price": 49.99,
+      "salesParent": 4653,
+      "revenue": 229579.02,
+      "rating": 3.5,
+      "reviews": 302
+    },
+    {
+      "rank": 6,
+      "asin": "B0DSF75WVR",
+      "title": "Dental Ultrasonic Retainer Cleaner Machine: 45kHz Dental Cleaning Pod with Digital Timer &amp; 200ML, Deep Cleaning for Dentures, Mouth Guards, Aligners, Night Guards, Braces, Toothbrush Heads &amp; Jewelry",
+      "brand": "UEOFEN",
+      "price": 59.99,
+      "salesParent": 4896,
+      "revenue": 206170.56,
+      "rating": 3.9,
+      "reviews": 3747
+    },
+    {
+      "rank": 7,
+      "asin": "B0H415LM6T",
+      "title": "Dental Ultrasonic Retainer Cleaner Machine: 45kHz Dental Cleaning Pod with Digital Timer &amp; 200ML, Cleaning for Dentures, Mouth Guards, Aligners, Night Guards, Braces, Toothbrush Heads &amp; Jewelry, Black",
+      "brand": "UEOFEN",
+      "price": 33.96,
+      "salesParent": 4483,
+      "revenue": 169905.7,
+      "rating": 5.0,
+      "reviews": 45
+    },
+    {
+      "rank": 8,
+      "asin": "B08VNC9FZ4",
+      "title": "Ultrasonic Retainer Cleaner Machine48kHz, Ultrasonic Cleaner",
+      "brand": "UMPOPO",
+      "price": 15.98,
+      "salesParent": 6433,
+      "revenue": 102799.34,
+      "rating": 4.8,
+      "reviews": 67
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": null,
+    "direction": "flat",
+    "comparable": false,
+    "rawYoyPct": 450,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 4496659,
+    "priorHeadRevenue": 818185,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 96,
+      "newCount": 36,
+      "pct": 38,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 92,
+      "brandCount": 65,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.41,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0H6Q5M6P3",
+        "title": "Zima Dental Pod: Ultrasonic Cleaner for Retainers &amp; Aligners",
+        "rating": 4.6,
+        "reviews": 168
+      },
+      {
+        "rank": 2,
+        "asin": "B0HGXC2J1Y",
+        "title": "Ultrasonic Retainer Cleaner Machine 48kHz, Dental Ultrasonic Care Cleaner",
+        "rating": 4.5,
+        "reviews": 302
+      },
+      {
+        "rank": 3,
+        "asin": "B0G11FJYL1",
+        "title": "Dental Ultrasonic Retainer Cleaner Machine: 45kHz Dental Cleaning Pod with Digital Timer &amp; 200ML, Cleaning for Dentures, Mouth Guards, Aligners, Night Guards, Braces, Toothbrush Heads &amp; Jewelry, Blue",
+        "rating": 4.2,
+        "reviews": 225
+      },
+      {
+        "rank": 4,
+        "asin": "B0DSF8B9FG",
+        "title": "Dental Ultrasonic Retainer Cleaner Machine: 45kHz Dental Cleaning Pod with Digital Timer &amp; 200ML, Cleaning for Dentures, Mouth Guards, Aligners, Night Guards, Braces, Toothbrush Heads &amp; Jewelry, Blue",
+        "rating": 4.2,
+        "reviews": 170
+      },
+      {
+        "rank": 5,
+        "asin": "B0GSTMHK6F",
+        "title": "Ultrasonic Retainer Cleaner Machine 48kHz, Dental Ultrasonic Care Cleaner",
+        "rating": 3.5,
+        "reviews": 302
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:10079992011:3778111:3778151",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

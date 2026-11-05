@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "552808",
+  "level": "L2",
+  "categoryPathEn": "Patio, Lawn & Garden > Generators & Portable Power",
+  "categoryPathCn": "庭院、草坪和园艺 > 发电机和便携式电源",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 95,
+    "totalRevenue": 88041921,
+    "avgRevenue": 926757,
+    "medianPrice": 999.0,
+    "priceBand": "$499.0 - $1899.0",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0D7PPG25F",
+      "title": "Jackery Explorer 1000 v2 Portable Power Station,1070Wh,1500W",
+      "brand": "Jackery",
+      "price": 559.0,
+      "salesParent": 11590,
+      "revenue": 5953899.0,
+      "rating": 4.7,
+      "reviews": 3728
+    },
+    {
+      "rank": 2,
+      "asin": "B0FM8653F1",
+      "title": "Jackery HomePower 3600 Plus Power Station, 3584Wh, 3600W AC Output",
+      "brand": "Jackery",
+      "price": 1899.0,
+      "salesParent": 3253,
+      "revenue": 5723035.5,
+      "rating": 4.6,
+      "reviews": 224
+    },
+    {
+      "rank": 3,
+      "asin": "B082TMBYR6",
+      "title": "Jackery Explorer 300 Portable Power Station,292Wh",
+      "brand": "Jackery",
+      "price": 289.0,
+      "salesParent": 15322,
+      "revenue": 4094651.25,
+      "rating": 4.6,
+      "reviews": 11365
+    },
+    {
+      "rank": 4,
+      "asin": "B0GY4TQ2P8",
+      "title": "Anker SOLIX S2000 Portable Power Station, 2,010Wh, 1,500W",
+      "brand": "Anker",
+      "price": 1199.0,
+      "salesParent": 4671,
+      "revenue": 3360504.25,
+      "rating": 4.7,
+      "reviews": 489
+    },
+    {
+      "rank": 5,
+      "asin": "B0FQVC4RF5",
+      "title": "EF ECOFLOW Portable Power Station Delta 3 Classic, 1024Wh 1800W AC",
+      "brand": "EF ECOFLOW",
+      "price": 499.0,
+      "salesParent": 5671,
+      "revenue": 2841114.25,
+      "rating": 4.7,
+      "reviews": 1394
+    },
+    {
+      "rank": 6,
+      "asin": "B0DFG2WDQH",
+      "title": "Jackery Explorer 2000 v2 Portable Power Station, 2042Wh, 2200W AC Output",
+      "brand": "Jackery",
+      "price": 999.0,
+      "salesParent": 2480,
+      "revenue": 2268332.0,
+      "rating": 4.4,
+      "reviews": 899
+    },
+    {
+      "rank": 7,
+      "asin": "B0FQV6LMVX",
+      "title": "EF ECOFLOW DELTA 3 Max Portable Power Station, 2048Wh LFP Battery, 2400W",
+      "brand": "EF ECOFLOW",
+      "price": 899.0,
+      "salesParent": 2528,
+      "revenue": 2250122.25,
+      "rating": 4.7,
+      "reviews": 656
+    },
+    {
+      "rank": 8,
+      "asin": "B0GKRTX336",
+      "title": "BLUETTI Elite 300 Portable Power Station for RV &amp; Home Backup 3014.4Wh",
+      "brand": "BLUETTI",
+      "price": 1699.0,
+      "salesParent": 1673,
+      "revenue": 2196615.5,
+      "rating": 4.6,
+      "reviews": 271
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -12,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -12,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 88041921,
+    "priorHeadRevenue": 100104251,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 95,
+      "newCount": 42,
+      "pct": 44,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 72,
+      "brandCount": 33,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.49,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0D7PPG25F",
+        "title": "Jackery Explorer 1000 v2 Portable Power Station,1070Wh,1500W",
+        "rating": 4.7,
+        "reviews": 3728
+      },
+      {
+        "rank": 2,
+        "asin": "B0FM8653F1",
+        "title": "Jackery HomePower 3600 Plus Power Station, 3584Wh, 3600W AC Output",
+        "rating": 4.6,
+        "reviews": 224
+      },
+      {
+        "rank": 3,
+        "asin": "B082TMBYR6",
+        "title": "Jackery Explorer 300 Portable Power Station,292Wh",
+        "rating": 4.6,
+        "reviews": 11365
+      },
+      {
+        "rank": 4,
+        "asin": "B0GY4TQ2P8",
+        "title": "Anker SOLIX S2000 Portable Power Station, 2,010Wh, 1,500W",
+        "rating": 4.7,
+        "reviews": 489
+      },
+      {
+        "rank": 5,
+        "asin": "B0FQVC4RF5",
+        "title": "EF ECOFLOW Portable Power Station Delta 3 Classic, 1024Wh 1800W AC",
+        "rating": 4.7,
+        "reviews": 1394
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "2972638011:552808",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

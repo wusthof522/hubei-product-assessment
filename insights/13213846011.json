@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "13213846011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Oral Care > Denture Care > Repair Kits",
+  "categoryPathCn": "Health & Household > Oral Care > Denture Care > Repair Kits",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 98,
+    "totalRevenue": 231589,
+    "avgRevenue": 2363,
+    "medianPrice": 20.49,
+    "priceBand": "$14.73 - $39.84",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0HBK94WCZ",
+      "title": "Tooth Repair Kit with Fake Teeth Beads, Natural Color, Moldable &amp; Reusable",
+      "brand": "Sawyd",
+      "price": 9.59,
+      "salesParent": 4275,
+      "revenue": 42493.5,
+      "rating": 4.3,
+      "reviews": 158
+    },
+    {
+      "rank": 2,
+      "asin": "B0DLHDCBH3",
+      "title": "Dentemp Repair-It Advanced Formula Repair Kit for Broken Dentures 1pk (4ct)",
+      "brand": "Dentemp",
+      "price": 8.49,
+      "salesParent": 3056,
+      "revenue": 25945.44,
+      "rating": 3.9,
+      "reviews": 8949
+    },
+    {
+      "rank": 3,
+      "asin": "B0D5CBYYBX",
+      "title": "E&amp;E Multi-Use Soft Silicone Denture Reline Kit, Dispensing Gun",
+      "brand": "EXECELLENT &amp; ECONOMICAL",
+      "price": 99.0,
+      "salesParent": 139,
+      "revenue": 13761.0,
+      "rating": 4.3,
+      "reviews": 160
+    },
+    {
+      "rank": 4,
+      "asin": "B0HJ54GLGF",
+      "title": "At-Home DIY Denture Kit",
+      "brand": "unizoom",
+      "price": 49.99,
+      "salesParent": 239,
+      "revenue": 11947.61,
+      "rating": 3.7,
+      "reviews": 9
+    },
+    {
+      "rank": 5,
+      "asin": "B0H7JCQ4R3",
+      "title": "Denture Repair Kit, Dental Glue for Broken Dentures, Instant Fix-Quick Bond",
+      "brand": "Airivio",
+      "price": 35.99,
+      "salesParent": 318,
+      "revenue": 11063.22,
+      "rating": 4.8,
+      "reviews": 30
+    },
+    {
+      "rank": 6,
+      "asin": "B0GJL9PPJ6",
+      "title": "Smylon Custom Partial Dentures for Missing Teeth Removable Personalized Replacement Solution for Adults, Includes Home Impression Kit (1 Tooth)",
+      "brand": "Smylon",
+      "price": 98.98,
+      "salesParent": 90,
+      "revenue": 8908.2,
+      "rating": 4.4,
+      "reviews": 36
+    },
+    {
+      "rank": 7,
+      "asin": "B0HHFMQVJR",
+      "title": "Aoyaanew Denture Kit, Top &amp; Bottom Temporary Teeth Set, Universal Fit",
+      "brand": "tialexa toothbrush",
+      "price": 20.99,
+      "salesParent": 337,
+      "revenue": 8013.86,
+      "rating": 1.3,
+      "reviews": 22
+    },
+    {
+      "rank": 8,
+      "asin": "B0HDYSKCYL",
+      "title": "DIY Denture Kit for Upper &amp; Lower Teeth, Temporary Self-Fit Dentures for Missing Teeth-Pink-08255",
+      "brand": "AYROX",
+      "price": 139.99,
+      "salesParent": 51,
+      "revenue": 7139.49,
+      "rating": 2.8,
+      "reviews": 10
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": null,
+    "direction": "flat",
+    "comparable": false,
+    "rawYoyPct": -85,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 231589,
+    "priorHeadRevenue": 1590983,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 98,
+      "newCount": 65,
+      "pct": 66,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 52,
+      "brandCount": 55,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 3.36,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0HBK94WCZ",
+        "title": "Tooth Repair Kit with Fake Teeth Beads, Natural Color, Moldable &amp; Reusable",
+        "rating": 4.3,
+        "reviews": 158
+      },
+      {
+        "rank": 2,
+        "asin": "B0DLHDCBH3",
+        "title": "Dentemp Repair-It Advanced Formula Repair Kit for Broken Dentures 1pk (4ct)",
+        "rating": 3.9,
+        "reviews": 8949
+      },
+      {
+        "rank": 3,
+        "asin": "B0D5CBYYBX",
+        "title": "E&amp;E Multi-Use Soft Silicone Denture Reline Kit, Dispensing Gun",
+        "rating": 4.3,
+        "reviews": 160
+      },
+      {
+        "rank": 4,
+        "asin": "B0HJ54GLGF",
+        "title": "At-Home DIY Denture Kit",
+        "rating": 3.7,
+        "reviews": 9
+      },
+      {
+        "rank": 5,
+        "asin": "B0H7JCQ4R3",
+        "title": "Denture Repair Kit, Dental Glue for Broken Dentures, Instant Fix-Quick Bond",
+        "rating": 4.8,
+        "reviews": 30
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:10079992011:3778111:13213846011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

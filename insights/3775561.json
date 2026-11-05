@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3775561",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Medical Supplies & Equipment > Braces, Splints & Supports > Athletic Tapes & Wraps",
+  "categoryPathCn": "健康与家居 > 医疗用品和设备 > 绷带、夹板和背带 > 运动胶带、绷带",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 98,
+    "totalRevenue": 3150450,
+    "avgRevenue": 32147,
+    "medianPrice": 19.95,
+    "priceBand": "$11.63 - $29.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0BL3R1GQG",
+      "title": "ADMITRY Athletic Tape,5 Pack White Sports Tape",
+      "brand": "ADMITRY",
+      "price": 8.49,
+      "salesParent": 35230,
+      "revenue": 299102.69,
+      "rating": 4.4,
+      "reviews": 3366
+    },
+    {
+      "rank": 2,
+      "asin": "B072MCYFMG",
+      "title": "Hampton Adams Athletic Sports Tape, Very Strong, Easy Tear, No Residue",
+      "brand": "Hampton Adams",
+      "price": 9.99,
+      "salesParent": 16827,
+      "revenue": 168101.72,
+      "rating": 4.5,
+      "reviews": 19695
+    },
+    {
+      "rank": 3,
+      "asin": "B000E59HXC",
+      "title": "Leukotape P Adhesive Strapping Tape – for Sports Injuries, Strains and Sprains - 1.5 in x 15 yds, Tan, (1 Roll)",
+      "brand": "Leukotape",
+      "price": 13.19,
+      "salesParent": 10479,
+      "revenue": 131616.25,
+      "rating": 4.7,
+      "reviews": 8815
+    },
+    {
+      "rank": 4,
+      "asin": "B00KSL6PWI",
+      "title": "RockTape Extra Sticky Kinesiology Tape - Athletic Tape for Muscle Pain Relief, Injury Recovery - Microscopic Skin Lifting &amp; Decompression - Sweat &amp; Water Resistant",
+      "brand": "RockTape",
+      "price": 23.64,
+      "salesParent": 5246,
+      "revenue": 121707.2,
+      "rating": 4.4,
+      "reviews": 5546
+    },
+    {
+      "rank": 5,
+      "asin": "B082VLDCJW",
+      "title": "Kinesiology Tape - Waterproof Athletic Tape, Uncut Roll 2&quot;x16.4ft",
+      "brand": "WINIOM",
+      "price": 9.99,
+      "salesParent": 11773,
+      "revenue": 117612.0,
+      "rating": 4.4,
+      "reviews": 2566
+    },
+    {
+      "rank": 6,
+      "asin": "B0BVYV8PKW",
+      "title": "OK TAPE 12 Rolls Self Adhesive Bandage Wrap, Cohesive Elastic Athletic Tape",
+      "brand": "OK TAPE",
+      "price": 9.99,
+      "salesParent": 10125,
+      "revenue": 101148.75,
+      "rating": 4.7,
+      "reviews": 2186
+    },
+    {
+      "rank": 7,
+      "asin": "B0DG8SNDPB",
+      "title": "Dimora Kinesiology Tape, 80 Count Precut Strips 4 Rolls, Original Cotton, 10” Elastic Athletic Tape for Muscle Pain Relief and Joint Support, Black",
+      "brand": "Dimora",
+      "price": 23.99,
+      "salesParent": 3677,
+      "revenue": 87953.84,
+      "rating": 4.5,
+      "reviews": 855
+    },
+    {
+      "rank": 8,
+      "asin": "B07X4J2Y33",
+      "title": "Battle Sports Football Turf Tape - Extra Wide - 30 feet, Waterproof Athletic Tape - Flexible, Breathable, Easy to Cut",
+      "brand": "Battle",
+      "price": 24.99,
+      "salesParent": 3113,
+      "revenue": 77793.87,
+      "rating": 4.7,
+      "reviews": 1466
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 6,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 6,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 3150450,
+    "priorHeadRevenue": 2959058,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 98,
+      "newCount": 23,
+      "pct": 23,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 41,
+      "brandCount": 53,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.46,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0BL3R1GQG",
+        "title": "ADMITRY Athletic Tape,5 Pack White Sports Tape",
+        "rating": 4.4,
+        "reviews": 3366
+      },
+      {
+        "rank": 2,
+        "asin": "B072MCYFMG",
+        "title": "Hampton Adams Athletic Sports Tape, Very Strong, Easy Tear, No Residue",
+        "rating": 4.5,
+        "reviews": 19695
+      },
+      {
+        "rank": 3,
+        "asin": "B000E59HXC",
+        "title": "Leukotape P Adhesive Strapping Tape – for Sports Injuries, Strains and Sprains - 1.5 in x 15 yds, Tan, (1 Roll)",
+        "rating": 4.7,
+        "reviews": 8815
+      },
+      {
+        "rank": 4,
+        "asin": "B00KSL6PWI",
+        "title": "RockTape Extra Sticky Kinesiology Tape - Athletic Tape for Muscle Pain Relief, Injury Recovery - Microscopic Skin Lifting &amp; Decompression - Sweat &amp; Water Resistant",
+        "rating": 4.4,
+        "reviews": 5546
+      },
+      {
+        "rank": 5,
+        "asin": "B082VLDCJW",
+        "title": "Kinesiology Tape - Waterproof Athletic Tape, Uncut Roll 2&quot;x16.4ft",
+        "rating": 4.4,
+        "reviews": 2566
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3775161:3775541:3775561",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "706813011",
+  "level": "L3",
+  "categoryPathEn": "Sports & Outdoors > Sports & Fitness > Hunting & Fishing",
+  "categoryPathCn": "运动与户外 > 运动与健身 > 狩猎和钓鱼",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 94,
+    "totalRevenue": 4074240,
+    "avgRevenue": 43343,
+    "medianPrice": 141.49,
+    "priceBand": "$59.99 - $228.67",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0B6HYSFBF",
+      "title": "BILLCONCH Gun Safe,Biometric Fingerprint Gun Safe for Handgun Pistol Safes",
+      "brand": "BILLCONCH",
+      "price": 69.98,
+      "salesParent": 5200,
+      "revenue": 363896.03,
+      "rating": 4.7,
+      "reviews": 6402
+    },
+    {
+      "rank": 2,
+      "asin": "B0B3QPHZJ7",
+      "title": "BILLCONCH Gun Safe for Handgun with Fingerprint, App, 0–9 Numeric Keypad",
+      "brand": "BILLCONCH",
+      "price": 69.99,
+      "salesParent": 3472,
+      "revenue": 243005.27,
+      "rating": 4.7,
+      "reviews": 6617
+    },
+    {
+      "rank": 3,
+      "asin": "B0C432M8LC",
+      "title": "Billconch Smart Gun Safe for Multiple Pistols - Automatic Lock Safe Box",
+      "brand": "BILLCONCH",
+      "price": 137.99,
+      "salesParent": 1357,
+      "revenue": 169584.3,
+      "rating": 4.6,
+      "reviews": 1205
+    },
+    {
+      "rank": 4,
+      "asin": "B078PHM6G7",
+      "title": "Sheffield 12626 Ammo Box Made in USA Stackable Lockable Ammo Storage Box",
+      "brand": "Sheffield",
+      "price": 12.74,
+      "salesParent": 10790,
+      "revenue": 137464.59,
+      "rating": 4.6,
+      "reviews": 27855
+    },
+    {
+      "rank": 5,
+      "asin": "B08VHR4RQS",
+      "title": "Biometric Slider Handgun Gun Safe for Nightstand, Desk, Bed Side, Truck",
+      "brand": "LANGGER V",
+      "price": 129.0,
+      "salesParent": 893,
+      "revenue": 115197.0,
+      "rating": 4.4,
+      "reviews": 2382
+    },
+    {
+      "rank": 6,
+      "asin": "B09MQ2MXZD",
+      "title": "VAULTEK LifePod 20 Full-Size Biometric Lockable Weatherproof Case with Built-in Lock, Steel Security Cable, &amp; TSA Handgun Case or Car Safe, Portable Travel Pistol Safe/Covert Black/Biometric",
+      "brand": "VAULTEK",
+      "price": 209.99,
+      "salesParent": 542,
+      "revenue": 113815.0,
+      "rating": 4.6,
+      "reviews": 421
+    },
+    {
+      "rank": 7,
+      "asin": "B0CT2X1R2W",
+      "title": "KAER Biometric Gun Safe for Rifles and Pistols, 12-15 Rifle Safe Quick Access (Fits Scoped Rifles) with 24/7 Burglar Alarm, Adjustable Shelves &amp; Pistol Pockets, Gun Cabinet for Home, Office",
+      "brand": "KAER",
+      "price": 239.99,
+      "salesParent": 441,
+      "revenue": 105835.59,
+      "rating": 4.4,
+      "reviews": 257
+    },
+    {
+      "rank": 8,
+      "asin": "B08XQKRG6H",
+      "title": "12-15 Gun Safe, Large Gun Safe for Rifles and Pistols, Quick Access Rifle Safe with 3 Removable Gun Racks and 4 Pistol Pockets, Digital Gun Cabinet with Dual Alarm and Sleep Mode",
+      "brand": "INTERGREAT",
+      "price": 154.99,
+      "salesParent": 588,
+      "revenue": 91134.12,
+      "rating": 4.2,
+      "reviews": 1113
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -9,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -9,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 4074240,
+    "priorHeadRevenue": 4468982,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 94,
+      "newCount": 43,
+      "pct": 46,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 49,
+      "brandCount": 56,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.42,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0B6HYSFBF",
+        "title": "BILLCONCH Gun Safe,Biometric Fingerprint Gun Safe for Handgun Pistol Safes",
+        "rating": 4.7,
+        "reviews": 6402
+      },
+      {
+        "rank": 2,
+        "asin": "B0B3QPHZJ7",
+        "title": "BILLCONCH Gun Safe for Handgun with Fingerprint, App, 0–9 Numeric Keypad",
+        "rating": 4.7,
+        "reviews": 6617
+      },
+      {
+        "rank": 3,
+        "asin": "B0C432M8LC",
+        "title": "Billconch Smart Gun Safe for Multiple Pistols - Automatic Lock Safe Box",
+        "rating": 4.6,
+        "reviews": 1205
+      },
+      {
+        "rank": 4,
+        "asin": "B078PHM6G7",
+        "title": "Sheffield 12626 Ammo Box Made in USA Stackable Lockable Ammo Storage Box",
+        "rating": 4.6,
+        "reviews": 27855
+      },
+      {
+        "rank": 5,
+        "asin": "B08VHR4RQS",
+        "title": "Biometric Slider Handgun Gun Safe for Nightstand, Desk, Bed Side, Truck",
+        "rating": 4.4,
+        "reviews": 2382
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "706813011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

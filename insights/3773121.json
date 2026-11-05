@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3773121",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins, Minerals & Supplements > Digestive Supplements > Charcoal",
+  "categoryPathCn": "健康与家居 > 身、泳和附剂 > 补充补充剂 > 木炭",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 80,
+    "totalRevenue": 751399,
+    "avgRevenue": 9392,
+    "medianPrice": 15.47,
+    "priceBand": "$10.08 - $24.71",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B087SJ5H8Q",
+      "title": "MARYRUTH'S Activated Charcoal Capsules, 950 mg, Non-GMO, Vegan, 40 Count",
+      "brand": "MARYRUTH'S",
+      "price": 15.95,
+      "salesParent": 4640,
+      "revenue": 74008.0,
+      "rating": 4.7,
+      "reviews": 2360
+    },
+    {
+      "rank": 2,
+      "asin": "B0DZXBVH2V",
+      "title": "VEV Activated Charcoal Capsules 1200mg, 50B Probiotics, 120 Vegan Capsules",
+      "brand": "VEV",
+      "price": 9.99,
+      "salesParent": 6416,
+      "revenue": 67560.48,
+      "rating": 4.6,
+      "reviews": 816
+    },
+    {
+      "rank": 3,
+      "asin": "B005NFETPY",
+      "title": "Integrative Therapeutics Activated Charcoal, 100 Capsules",
+      "brand": "Integrative Therapeutics",
+      "price": 13.75,
+      "salesParent": 3286,
+      "revenue": 45182.5,
+      "rating": 4.7,
+      "reviews": 1568
+    },
+    {
+      "rank": 4,
+      "asin": "B0CV1WNPCX",
+      "title": "Global Healing Center - Ozonated Activated Charcoal Powder - Advanced Digestive Detox that Adsorbs Internal Unwanted Compounds - Helps Relieve Occasional Gas Discomfort - 60 Activated Charcoal Pills",
+      "brand": "Global Healing Center",
+      "price": 29.95,
+      "salesParent": 1115,
+      "revenue": 33394.25,
+      "rating": 4.7,
+      "reviews": 475
+    },
+    {
+      "rank": 5,
+      "asin": "B07BHTVTJZ",
+      "title": "Nature's Bounty Activated Charcoal 260 mg, 100 Capsules",
+      "brand": "Nature's Bounty",
+      "price": 20.49,
+      "salesParent": 2092,
+      "revenue": 33074.52,
+      "rating": 4.7,
+      "reviews": 8477
+    },
+    {
+      "rank": 6,
+      "asin": "B074FXRDLG",
+      "title": "Supreme Nutrition Takesumi Supreme, 90 Pure Activated Bamboo Charcoal Vegetarian Capsules",
+      "brand": "Supreme Nutrition Products",
+      "price": 28.97,
+      "salesParent": 1074,
+      "revenue": 31103.04,
+      "rating": 4.7,
+      "reviews": 626
+    },
+    {
+      "rank": 7,
+      "asin": "B06XYLNB4S",
+      "title": "Bulletproof Coconut Charcoal Detox and Gas Relief Capsules, 90 Count",
+      "brand": "Bulletproof",
+      "price": 14.99,
+      "salesParent": 1197,
+      "revenue": 28416.78,
+      "rating": 4.6,
+      "reviews": 3088
+    },
+    {
+      "rank": 8,
+      "asin": "B01N7UEWKC",
+      "title": "Schizandu Organic Activated Charcoal Capsules, Coconut Shell, 210 Vegan Capsules",
+      "brand": "Schizandu",
+      "price": 28.97,
+      "salesParent": 958,
+      "revenue": 27513.76,
+      "rating": 4.7,
+      "reviews": 5151
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -36,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -36,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 751399,
+    "priorHeadRevenue": 1171130,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 80,
+      "newCount": 15,
+      "pct": 19,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 36,
+      "brandCount": 70,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.52,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B087SJ5H8Q",
+        "title": "MARYRUTH'S Activated Charcoal Capsules, 950 mg, Non-GMO, Vegan, 40 Count",
+        "rating": 4.7,
+        "reviews": 2360
+      },
+      {
+        "rank": 2,
+        "asin": "B0DZXBVH2V",
+        "title": "VEV Activated Charcoal Capsules 1200mg, 50B Probiotics, 120 Vegan Capsules",
+        "rating": 4.6,
+        "reviews": 816
+      },
+      {
+        "rank": 3,
+        "asin": "B005NFETPY",
+        "title": "Integrative Therapeutics Activated Charcoal, 100 Capsules",
+        "rating": 4.7,
+        "reviews": 1568
+      },
+      {
+        "rank": 4,
+        "asin": "B0CV1WNPCX",
+        "title": "Global Healing Center - Ozonated Activated Charcoal Powder - Advanced Digestive Detox that Adsorbs Internal Unwanted Compounds - Helps Relieve Occasional Gas Discomfort - 60 Activated Charcoal Pills",
+        "rating": 4.7,
+        "reviews": 475
+      },
+      {
+        "rank": 5,
+        "asin": "B07BHTVTJZ",
+        "title": "Nature's Bounty Activated Charcoal 260 mg, 100 Capsules",
+        "rating": 4.7,
+        "reviews": 8477
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:23675621011:6942464011:3773121",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

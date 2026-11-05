@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "2247610011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Household Supplies > Household Cleaning > Upholstery Cleaners",
+  "categoryPathCn": "健康与家居 > 家居用品 > 家庭清洁剂 > 皮革清洁剂",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 4314959,
+    "avgRevenue": 43150,
+    "medianPrice": 19.99,
+    "priceBand": "$14.95 - $33.45",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0949QPBJT",
+      "title": "Scotchgard Fabric Water Shield Spray, 10 oz, 12 Pack",
+      "brand": "Scotchgard",
+      "price": 106.32,
+      "salesParent": 7391,
+      "revenue": 789876.19,
+      "rating": 4.4,
+      "reviews": 42
+    },
+    {
+      "rank": 2,
+      "asin": "B001CS2Q4M",
+      "title": "Bick 4 Leather Conditioner &amp; Cleaner, Won't Darken Boots, Couch, Bags 8 oz",
+      "brand": "Bickmore",
+      "price": 12.99,
+      "salesParent": 30555,
+      "revenue": 396909.44,
+      "rating": 4.7,
+      "reviews": 23633
+    },
+    {
+      "rank": 3,
+      "asin": "B085JZ2SNS",
+      "title": "Scotchgard Fabric Water Shield Spray, 13.5 oz, 1 Pack",
+      "brand": "Scotchgard",
+      "price": 13.78,
+      "salesParent": 20694,
+      "revenue": 277920.44,
+      "rating": 4.6,
+      "reviews": 28050
+    },
+    {
+      "rank": 4,
+      "asin": "B085JXS2TC",
+      "title": "Scotchgard Fabric Water Shield Spray, 10 oz, 6 Pack",
+      "brand": "Scotchgard",
+      "price": 53.16,
+      "salesParent": 5102,
+      "revenue": 270048.88,
+      "rating": 4.6,
+      "reviews": 1153
+    },
+    {
+      "rank": 5,
+      "asin": "B085JSKLY1",
+      "title": "Scotchgard Fabric Water Shield, Water Repellent Spray for Fall and Winter Clothing and Holiday Household Upholstery Items, Long-Lasting Protection, Water Repellent for Winter Fabric, Four 10 oz Cans",
+      "brand": "Scotchgard",
+      "price": 34.6,
+      "salesParent": 6113,
+      "revenue": 213771.62,
+      "rating": 4.7,
+      "reviews": 3077
+    },
+    {
+      "rank": 6,
+      "asin": "B07BFJKJKW",
+      "title": "Non Toxic Fabric Protector Spray for Upholstery &amp; Furniture, 24 oz",
+      "brand": "RepelWell",
+      "price": 29.99,
+      "salesParent": 6725,
+      "revenue": 201682.75,
+      "rating": 4.4,
+      "reviews": 1149
+    },
+    {
+      "rank": 7,
+      "asin": "B00GRT125A",
+      "title": "Leather CPR Cleaner and Conditioner 18oz. Bring Leather Back To Life on Furniture, Car Seats, Handbags, Jackets, Boots, Saddles, Purses &amp; Shoes. Restores Shine, Softness &amp; Color to Real Leather",
+      "brand": "Leather CPR",
+      "price": 26.95,
+      "salesParent": 7454,
+      "revenue": 199170.88,
+      "rating": 4.6,
+      "reviews": 8476
+    },
+    {
+      "rank": 8,
+      "asin": "B0HK2J6BT5",
+      "title": "Green Mitt 3-Piece Fabric Cleaning Starter Kit",
+      "brand": "Clean Safe Products",
+      "price": 79.99,
+      "salesParent": 2100,
+      "revenue": 167979.0,
+      "rating": 4.8,
+      "reviews": 28
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 79,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 79,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 4314959,
+    "priorHeadRevenue": 2414545,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 29,
+      "pct": 29,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 68,
+      "brandCount": 68,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.32,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0949QPBJT",
+        "title": "Scotchgard Fabric Water Shield Spray, 10 oz, 12 Pack",
+        "rating": 4.4,
+        "reviews": 42
+      },
+      {
+        "rank": 2,
+        "asin": "B001CS2Q4M",
+        "title": "Bick 4 Leather Conditioner &amp; Cleaner, Won't Darken Boots, Couch, Bags 8 oz",
+        "rating": 4.7,
+        "reviews": 23633
+      },
+      {
+        "rank": 3,
+        "asin": "B085JZ2SNS",
+        "title": "Scotchgard Fabric Water Shield Spray, 13.5 oz, 1 Pack",
+        "rating": 4.6,
+        "reviews": 28050
+      },
+      {
+        "rank": 4,
+        "asin": "B085JXS2TC",
+        "title": "Scotchgard Fabric Water Shield Spray, 10 oz, 6 Pack",
+        "rating": 4.6,
+        "reviews": 1153
+      },
+      {
+        "rank": 5,
+        "asin": "B085JSKLY1",
+        "title": "Scotchgard Fabric Water Shield, Water Repellent Spray for Fall and Winter Clothing and Holiday Household Upholstery Items, Long-Lasting Protection, Water Repellent for Winter Fabric, Four 10 oz Cans",
+        "rating": 4.7,
+        "reviews": 3077
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:15342811:15342821:2247610011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

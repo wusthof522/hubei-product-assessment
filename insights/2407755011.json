@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "2407755011",
+  "level": "L2",
+  "categoryPathEn": "Cell Phones & Accessories > Accessories",
+  "categoryPathCn": "手机 > 辅料",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 98,
+    "totalRevenue": 90817396,
+    "avgRevenue": 926708,
+    "medianPrice": 27.7,
+    "priceBand": "$16.97 - $52.74",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0D3J71RM7",
+      "title": "Apple Pencil Pro: Latest Model - Device Compatibility Check Required",
+      "brand": "Apple",
+      "price": 99.0,
+      "salesParent": 35032,
+      "revenue": 3468168.0,
+      "rating": 4.6,
+      "reviews": 10923
+    },
+    {
+      "rank": 2,
+      "asin": "B0DCBB2YTR",
+      "title": "Anker Laptop Power Bank, 25,000mAh Travel Essential with 165W Total Output",
+      "brand": "Anker",
+      "price": 104.99,
+      "salesParent": 23511,
+      "revenue": 2755489.25,
+      "rating": 4.4,
+      "reviews": 13112
+    },
+    {
+      "rank": 3,
+      "asin": "B0CL7J12YK",
+      "title": "Apple Pencil (USB-C): Device Compatibility Check Required",
+      "brand": "Apple",
+      "price": 69.0,
+      "salesParent": 33543,
+      "revenue": 2319834.0,
+      "rating": 4.5,
+      "reviews": 12870
+    },
+    {
+      "rank": 4,
+      "asin": "B0GV576W9R",
+      "title": "INIU 10000mAh 45W Fast Charging Portable Charger, Smaller Travel Power Bank",
+      "brand": "INIU",
+      "price": 24.99,
+      "salesParent": 90956,
+      "revenue": 2272990.5,
+      "rating": 4.4,
+      "reviews": 88350
+    },
+    {
+      "rank": 5,
+      "asin": "B0H75RQRZD",
+      "title": "Ailun Screen Protector + Camera Lens Protector for iPhone 18 Pro Max",
+      "brand": "Ailun",
+      "price": 9.89,
+      "salesParent": 202903,
+      "revenue": 2006710.75,
+      "rating": 4.5,
+      "reviews": 449444
+    },
+    {
+      "rank": 6,
+      "asin": "B0F1TNK61D",
+      "title": "Miracase for iPhone 17e Case &amp; iPhone 16e Case, Full-Body Phone with Built-in Glass Screen Protector, [Magnetic with MagSafe] Military Drop Proof 17 E/ 16 E Cover Bumper 6.1 inch, Black",
+      "brand": "Miracase",
+      "price": 21.99,
+      "salesParent": 96189,
+      "revenue": 1993036.0,
+      "rating": 4.3,
+      "reviews": 122024
+    },
+    {
+      "rank": 7,
+      "asin": "B0FDQK69GQ",
+      "title": "Ailun 3 Pack Screen Protector for iPhone 18 Pro Max / iPhone 17 Pro Max",
+      "brand": "Ailun",
+      "price": 6.98,
+      "salesParent": 282688,
+      "revenue": 1973162.25,
+      "rating": 4.6,
+      "reviews": 1153
+    },
+    {
+      "rank": 8,
+      "asin": "B0CDFCWYNT",
+      "title": "PopSockets Phone Grip for MagSafe, Magnetic Holder- Clear",
+      "brand": "PopSockets",
+      "price": 28.12,
+      "salesParent": 60125,
+      "revenue": 1735808.75,
+      "rating": 4.5,
+      "reviews": 13622
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -13,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -13,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 90817396,
+    "priorHeadRevenue": 103891633,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 98,
+      "newCount": 51,
+      "pct": 52,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 47,
+      "brandCount": 54,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.43,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0D3J71RM7",
+        "title": "Apple Pencil Pro: Latest Model - Device Compatibility Check Required",
+        "rating": 4.6,
+        "reviews": 10923
+      },
+      {
+        "rank": 2,
+        "asin": "B0DCBB2YTR",
+        "title": "Anker Laptop Power Bank, 25,000mAh Travel Essential with 165W Total Output",
+        "rating": 4.4,
+        "reviews": 13112
+      },
+      {
+        "rank": 3,
+        "asin": "B0CL7J12YK",
+        "title": "Apple Pencil (USB-C): Device Compatibility Check Required",
+        "rating": 4.5,
+        "reviews": 12870
+      },
+      {
+        "rank": 4,
+        "asin": "B0GV576W9R",
+        "title": "INIU 10000mAh 45W Fast Charging Portable Charger, Smaller Travel Power Bank",
+        "rating": 4.4,
+        "reviews": 88350
+      },
+      {
+        "rank": 5,
+        "asin": "B0H75RQRZD",
+        "title": "Ailun Screen Protector + Camera Lens Protector for iPhone 18 Pro Max",
+        "rating": 4.5,
+        "reviews": 449444
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "2335752011:2407755011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

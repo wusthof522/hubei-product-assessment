@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3733811",
+  "level": "L4",
+  "categoryPathEn": "Home & Kitchen > Furniture > Kitchen & Dining Room Furniture > Tables",
+  "categoryPathCn": "家居用品 > 家具 > 厨房 > 餐桌",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 87,
+    "totalRevenue": 6620921,
+    "avgRevenue": 76103,
+    "medianPrice": 277.99,
+    "priceBand": "$199.99 - $599.06",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0D6GVQBH4",
+      "title": "Signature Design by Ashley Wildenauer Extendable Dining Table, Farmhouse",
+      "brand": "Signature Design by Ashley",
+      "price": 499.99,
+      "salesParent": 726,
+      "revenue": 364749.66,
+      "rating": 4.3,
+      "reviews": 124
+    },
+    {
+      "rank": 2,
+      "asin": "B0F9P855FK",
+      "title": "41 in-78 in Extendable Dining Room Table for 4-8, Round Expandable Kitchen Table with Fluted Base, Modern Farmhouse Oval Dinner Tables for Dining Room Kitchen Living Room (Walnut)",
+      "brand": "weselon",
+      "price": 309.99,
+      "salesParent": 1023,
+      "revenue": 308485.62,
+      "rating": 4.0,
+      "reviews": 347
+    },
+    {
+      "rank": 3,
+      "asin": "B0D8NQHBBH",
+      "title": "LITTLE TREE Round Dining Table for 4-6 People, 47 Inches Dining Room Table with Wooden Pedestal Base, Brown Dinner Tables, Circle Kitchen Tables for Kitchen, Living Room(Table Only)",
+      "brand": "LITTLE TREE",
+      "price": 204.99,
+      "salesParent": 1253,
+      "revenue": 234774.61,
+      "rating": 4.4,
+      "reviews": 930
+    },
+    {
+      "rank": 4,
+      "asin": "B0D27Q488P",
+      "title": "Plank+Beam Classic 72 Inch Dining Table, Rectangular, Pecan Wirebrush",
+      "brand": "Plank+Beam",
+      "price": 419.0,
+      "salesParent": 595,
+      "revenue": 230276.89,
+      "rating": 4.1,
+      "reviews": 594
+    },
+    {
+      "rank": 5,
+      "asin": "B0D5BWRDSP",
+      "title": "Transformer Table Solid Wood Extendable Dining Table, Natural",
+      "brand": "Transformer Table",
+      "price": 1599.0,
+      "salesParent": 144,
+      "revenue": 228444.48,
+      "rating": 4.9,
+      "reviews": 28
+    },
+    {
+      "rank": 6,
+      "asin": "B0HC28V79M",
+      "title": "Jocoevol Round Dining Table for 4,Kitchen Dining Room Circle Dinner Pedestal Table,Space Saving Wood Kitchen &amp; Dining Room Furniture (Vintage, 46In)",
+      "brand": "Jocoevol",
+      "price": 98.1,
+      "salesParent": 1273,
+      "revenue": 124881.3,
+      "rating": 4.4,
+      "reviews": 1800
+    },
+    {
+      "rank": 7,
+      "asin": "B0DYDQF5YW",
+      "title": "Round Dining Table, 31.5&quot; Tulip Table (White)",
+      "brand": "Hansweld",
+      "price": 98.99,
+      "salesParent": 1132,
+      "revenue": 122641.0,
+      "rating": 4.7,
+      "reviews": 423
+    },
+    {
+      "rank": 8,
+      "asin": "B0DWMNGBKD",
+      "title": "43.3&quot;-59&quot; Extendable Round Oval Dining Table for 4-8 with Storage Shelf",
+      "brand": "Mxtxmy",
+      "price": 199.99,
+      "salesParent": 612,
+      "revenue": 122369.4,
+      "rating": 4.4,
+      "reviews": 585
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -7,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -7,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 6620921,
+    "priorHeadRevenue": 7097439,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 87,
+      "newCount": 51,
+      "pct": 59,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 37,
+      "brandCount": 49,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.34,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0D6GVQBH4",
+        "title": "Signature Design by Ashley Wildenauer Extendable Dining Table, Farmhouse",
+        "rating": 4.3,
+        "reviews": 124
+      },
+      {
+        "rank": 2,
+        "asin": "B0F9P855FK",
+        "title": "41 in-78 in Extendable Dining Room Table for 4-8, Round Expandable Kitchen Table with Fluted Base, Modern Farmhouse Oval Dinner Tables for Dining Room Kitchen Living Room (Walnut)",
+        "rating": 4.0,
+        "reviews": 347
+      },
+      {
+        "rank": 3,
+        "asin": "B0D8NQHBBH",
+        "title": "LITTLE TREE Round Dining Table for 4-6 People, 47 Inches Dining Room Table with Wooden Pedestal Base, Brown Dinner Tables, Circle Kitchen Tables for Kitchen, Living Room(Table Only)",
+        "rating": 4.4,
+        "reviews": 930
+      },
+      {
+        "rank": 4,
+        "asin": "B0D27Q488P",
+        "title": "Plank+Beam Classic 72 Inch Dining Table, Rectangular, Pecan Wirebrush",
+        "rating": 4.1,
+        "reviews": 594
+      },
+      {
+        "rank": 5,
+        "asin": "B0D5BWRDSP",
+        "title": "Transformer Table Solid Wood Extendable Dining Table, Natural",
+        "rating": 4.9,
+        "reviews": 28
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "1055398:1063306:3733781:3733811",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

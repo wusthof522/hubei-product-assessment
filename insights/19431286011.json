@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "19431286011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Collectible Toys > Trading Cards & Accessories > Trading Cards",
+  "categoryPathCn": "玩具 > 收藏品玩具 > 交易卡 > 交易卡",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 85,
+    "totalRevenue": 425337,
+    "avgRevenue": 5004,
+    "medianPrice": 25.97,
+    "priceBand": "$12.68 - $62.83",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0FPM3LQJ4",
+      "title": "Pokémon TCG: Mega Evolution—Phantasmal Flames Elite Trainer Box, 6-8 Years",
+      "brand": "Pokémon",
+      "price": 189.99,
+      "salesParent": 598,
+      "revenue": 110594.0,
+      "rating": 4.4,
+      "reviews": 1772
+    },
+    {
+      "rank": 2,
+      "asin": "B0FPDLTVVV",
+      "title": "Pokémon TCG: Mega Charizard X ex Ultra-Premium Collection",
+      "brand": "Pokémon",
+      "price": 236.87,
+      "salesParent": 313,
+      "revenue": 88873.22,
+      "rating": 4.2,
+      "reviews": 1118
+    },
+    {
+      "rank": 3,
+      "asin": "B0BT15FD3J",
+      "title": "Pokemon Card Game Scarlet &amp; Violet Enhanced Expansion Pack Pokemon Card 151 Booster Box (Japanese) - 20 Packs",
+      "brand": "Pokémon",
+      "price": 431.89,
+      "salesParent": 63,
+      "revenue": 27931.05,
+      "rating": 4.2,
+      "reviews": 2071
+    },
+    {
+      "rank": 4,
+      "asin": "B0HDJK4Y7G",
+      "title": "Mlikero Commander Deck Box, Card Deck Box, Commander Display",
+      "brand": "Mlikero",
+      "price": 12.99,
+      "salesParent": 1878,
+      "revenue": 24395.22,
+      "rating": 4.7,
+      "reviews": 227
+    },
+    {
+      "rank": 5,
+      "asin": "B0HF3HF8XL",
+      "title": "2026 Topps Pristine Baseball Hobby Box",
+      "brand": "Topps",
+      "price": 1025.0,
+      "salesParent": 21,
+      "revenue": 21065.52,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "rank": 6,
+      "asin": "B0GBWQGC4D",
+      "title": "55pcs Cards Collection with Foils in Any Combination and at Least 1 Rarity, GX, EX, FA, Tag Team or Secret Rare",
+      "brand": "KliSa",
+      "price": 24.99,
+      "salesParent": 710,
+      "revenue": 18041.1,
+      "rating": 4.1,
+      "reviews": 40
+    },
+    {
+      "rank": 7,
+      "asin": "B0FN8Z7HYH",
+      "title": "Pokemon TCG: Team Rocket’s Moltres ex Ultra-Premium Collection",
+      "brand": "Pokémon",
+      "price": 412.9,
+      "salesParent": 38,
+      "revenue": 15831.56,
+      "rating": 4.5,
+      "reviews": 110
+    },
+    {
+      "rank": 8,
+      "asin": "B0G72SPRP6",
+      "title": "Pokemon TCG: Mega Evolution - Ascended Heroes Mega Meganium ex Box",
+      "brand": "Pokémon",
+      "price": 61.75,
+      "salesParent": 171,
+      "revenue": 10843.11,
+      "rating": 4.4,
+      "reviews": 115
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 74,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 74,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 425337,
+    "priorHeadRevenue": 244995,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 85,
+      "newCount": 43,
+      "pct": 52,
+      "unknownLaunch": 2,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 85,
+      "brandCount": 42,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.38,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0FPM3LQJ4",
+        "title": "Pokémon TCG: Mega Evolution—Phantasmal Flames Elite Trainer Box, 6-8 Years",
+        "rating": 4.4,
+        "reviews": 1772
+      },
+      {
+        "rank": 2,
+        "asin": "B0FPDLTVVV",
+        "title": "Pokémon TCG: Mega Charizard X ex Ultra-Premium Collection",
+        "rating": 4.2,
+        "reviews": 1118
+      },
+      {
+        "rank": 3,
+        "asin": "B0BT15FD3J",
+        "title": "Pokemon Card Game Scarlet &amp; Violet Enhanced Expansion Pack Pokemon Card 151 Booster Box (Japanese) - 20 Packs",
+        "rating": 4.2,
+        "reviews": 2071
+      },
+      {
+        "rank": 4,
+        "asin": "B0HDJK4Y7G",
+        "title": "Mlikero Commander Deck Box, Card Deck Box, Commander Display",
+        "rating": 4.7,
+        "reviews": 227
+      },
+      {
+        "rank": 5,
+        "asin": "B0HF3HF8XL",
+        "title": "2026 Topps Pristine Baseball Hobby Box",
+        "rating": null,
+        "reviews": null
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:19431275011:19431284011:19431286011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

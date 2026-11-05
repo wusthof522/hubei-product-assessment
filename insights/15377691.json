@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "15377691",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Household Supplies > Paper & Plastic > Disposable Food Storage",
+  "categoryPathCn": "健康与家居 > 家居用品 > 纸张和塑料 > 一次性食品储存",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 16223559,
+    "avgRevenue": 163874,
+    "medianPrice": 20.95,
+    "priceBand": "$10.79 - $34.01",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0D14XW3Y4",
+      "title": "Amazon Basics Reclosable Quart Food Storage Bags with Double Zipper Seal, BPA Free, 150 Count (Pack of 2)",
+      "brand": "Amazon Basics",
+      "price": 14.58,
+      "salesParent": 202244,
+      "revenue": 2948717.5,
+      "rating": 4.7,
+      "reviews": 30790
+    },
+    {
+      "rank": 2,
+      "asin": "B0G5GWV3PK",
+      "title": "Ziploc Sandwich and Snack Bags, Easy Open and Close, Plastic Food Storage Bags, 105 Bags Total (Packaging May Vary), Pack of 12",
+      "brand": "SC Johnson Professional",
+      "price": 61.88,
+      "salesParent": 25677,
+      "revenue": 1433290.12,
+      "rating": 4.9,
+      "reviews": 28
+    },
+    {
+      "rank": 3,
+      "asin": "B0DGN9C8QF",
+      "title": "Ziploc Gallon Freezer Bags, Food Storage, Stand-Up Bottom, 66 Count",
+      "brand": "Ziploc",
+      "price": 10.76,
+      "salesParent": 75939,
+      "revenue": 842922.94,
+      "rating": 4.8,
+      "reviews": 30371
+    },
+    {
+      "rank": 4,
+      "asin": "B0D356859K",
+      "title": "Amazon Basics Reclosable Double Zipper Sandwich Storage Bags for Food Storage, BPA Free, 100 Count",
+      "brand": "Amazon Basics",
+      "price": 3.18,
+      "salesParent": 189338,
+      "revenue": 602094.88,
+      "rating": 4.8,
+      "reviews": 48107
+    },
+    {
+      "rank": 5,
+      "asin": "B0DX23TZ5P",
+      "title": "60 Sets (120-Piece) Deli Containers with Lids, 32/16/8 oz X 20 Set Each",
+      "brand": "Dipoo",
+      "price": 26.98,
+      "salesParent": 15953,
+      "revenue": 451629.41,
+      "rating": 4.7,
+      "reviews": 3233
+    },
+    {
+      "rank": 6,
+      "asin": "B00M8ZEAW4",
+      "title": "Reynolds Wrap Heavy Duty Aluminum Foil Roll, 12 Inch Wide, 130sq ft",
+      "brand": "Reynolds",
+      "price": 15.49,
+      "salesParent": 24597,
+      "revenue": 381499.47,
+      "rating": 4.8,
+      "reviews": 22955
+    },
+    {
+      "rank": 7,
+      "asin": "B0DGN4XJB9",
+      "title": "Ziploc Food Storage &amp; Sandwich Bags Variety Pack, 190 Total Bags",
+      "brand": "Ziploc",
+      "price": 24.18,
+      "salesParent": 15595,
+      "revenue": 374435.97,
+      "rating": 4.8,
+      "reviews": 1925
+    },
+    {
+      "rank": 8,
+      "asin": "B00279LYL6",
+      "title": "Reynolds Wrap Heavy Duty Aluminum Foil Roll, 12 Inch Wide, 50sq ft",
+      "brand": "Reynolds",
+      "price": 5.97,
+      "salesParent": 59751,
+      "revenue": 356713.47,
+      "rating": 4.8,
+      "reviews": 19050
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 10,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 10,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 16223559,
+    "priorHeadRevenue": 14718455,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 15,
+      "pct": 15,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 69,
+      "brandCount": 51,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.68,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0D14XW3Y4",
+        "title": "Amazon Basics Reclosable Quart Food Storage Bags with Double Zipper Seal, BPA Free, 150 Count (Pack of 2)",
+        "rating": 4.7,
+        "reviews": 30790
+      },
+      {
+        "rank": 2,
+        "asin": "B0G5GWV3PK",
+        "title": "Ziploc Sandwich and Snack Bags, Easy Open and Close, Plastic Food Storage Bags, 105 Bags Total (Packaging May Vary), Pack of 12",
+        "rating": 4.9,
+        "reviews": 28
+      },
+      {
+        "rank": 3,
+        "asin": "B0DGN9C8QF",
+        "title": "Ziploc Gallon Freezer Bags, Food Storage, Stand-Up Bottom, 66 Count",
+        "rating": 4.8,
+        "reviews": 30371
+      },
+      {
+        "rank": 4,
+        "asin": "B0D356859K",
+        "title": "Amazon Basics Reclosable Double Zipper Sandwich Storage Bags for Food Storage, BPA Free, 100 Count",
+        "rating": 4.8,
+        "reviews": 48107
+      },
+      {
+        "rank": 5,
+        "asin": "B0DX23TZ5P",
+        "title": "60 Sets (120-Piece) Deli Containers with Lids, 32/16/8 oz X 20 Set Each",
+        "rating": 4.7,
+        "reviews": 3233
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:15342811:15342841:15377691",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

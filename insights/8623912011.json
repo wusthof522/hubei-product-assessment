@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "8623912011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Health Care > Incontinence & Ostomy > Stoma Pastes & Powders",
+  "categoryPathCn": "健康与家居 > 卫生保健 > 成人失禁用品 > 造口膏和造口粉",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 56,
+    "totalRevenue": 147207,
+    "avgRevenue": 2629,
+    "medianPrice": 15.2,
+    "priceBand": "$12.37 - $25.74",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B000GG7TE8",
+      "title": "Hollister 7906 Adapt Stoma Powder, 1 oz – Stoma Skin Barrier Powder, Latex-Free Ostomy Supplies, Stoma Adhesive Powder",
+      "brand": "Hollister",
+      "price": 13.19,
+      "salesParent": 944,
+      "revenue": 13017.76,
+      "rating": 4.7,
+      "reviews": 1566
+    },
+    {
+      "rank": 2,
+      "asin": "B0017TNRIK",
+      "title": "Hollister Adapt Lubricating Deodorant Packet, 50 Count",
+      "brand": "Hollister",
+      "price": 27.99,
+      "salesParent": 447,
+      "revenue": 12583.05,
+      "rating": 4.6,
+      "reviews": 541
+    },
+    {
+      "rank": 3,
+      "asin": "B004R60U4E",
+      "title": "TEN20-8J Conductive Paste (3/PACK)",
+      "brand": "Weaver",
+      "price": 38.99,
+      "salesParent": 317,
+      "revenue": 12451.76,
+      "rating": 4.4,
+      "reviews": 123
+    },
+    {
+      "rank": 4,
+      "asin": "B07BMZCYHC",
+      "title": "Safe n' Simple Skin Barrier Stoma Powder - 1oz Bottle - Ostomy Supplies",
+      "brand": "Safe n' Simple",
+      "price": 9.99,
+      "salesParent": 1180,
+      "revenue": 11788.2,
+      "rating": 4.6,
+      "reviews": 403
+    },
+    {
+      "rank": 5,
+      "asin": "B008LHOPX2",
+      "title": "Convatec 183910 Stomahesive Paste: 2 Ounce (Pack of 3)",
+      "brand": "ConvaTec",
+      "price": 31.06,
+      "salesParent": 361,
+      "revenue": 11107.97,
+      "rating": 4.6,
+      "reviews": 902
+    },
+    {
+      "rank": 6,
+      "asin": "B001K1PMEM",
+      "title": "Hollister 79300 Adapt Skin Barrer Paste, 2.1 oz Tube – Ostomy Paste, Ostomy Supplies.",
+      "brand": "Hollister",
+      "price": 14.98,
+      "salesParent": 768,
+      "revenue": 11082.24,
+      "rating": 4.6,
+      "reviews": 600
+    },
+    {
+      "rank": 7,
+      "asin": "B00KEEQ8SK",
+      "title": "Adapt Paste 2 Oz. Tube",
+      "brand": "Hollister",
+      "price": 14.52,
+      "salesParent": 672,
+      "revenue": 9784.32,
+      "rating": 4.7,
+      "reviews": 955
+    },
+    {
+      "rank": 8,
+      "asin": "B00358S0Z6",
+      "title": "CONVATEC 183910 SQU183910 Stomahesive Paste",
+      "brand": "ConvaTec",
+      "price": 12.33,
+      "salesParent": 502,
+      "revenue": 6410.54,
+      "rating": 4.6,
+      "reviews": 615
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 23,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 23,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 147207,
+    "priorHeadRevenue": 119933,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 56,
+      "newCount": 11,
+      "pct": 20,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 75,
+      "brandCount": 25,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.49,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B000GG7TE8",
+        "title": "Hollister 7906 Adapt Stoma Powder, 1 oz – Stoma Skin Barrier Powder, Latex-Free Ostomy Supplies, Stoma Adhesive Powder",
+        "rating": 4.7,
+        "reviews": 1566
+      },
+      {
+        "rank": 2,
+        "asin": "B0017TNRIK",
+        "title": "Hollister Adapt Lubricating Deodorant Packet, 50 Count",
+        "rating": 4.6,
+        "reviews": 541
+      },
+      {
+        "rank": 3,
+        "asin": "B004R60U4E",
+        "title": "TEN20-8J Conductive Paste (3/PACK)",
+        "rating": 4.4,
+        "reviews": 123
+      },
+      {
+        "rank": 4,
+        "asin": "B07BMZCYHC",
+        "title": "Safe n' Simple Skin Barrier Stoma Powder - 1oz Bottle - Ostomy Supplies",
+        "rating": 4.6,
+        "reviews": 403
+      },
+      {
+        "rank": 5,
+        "asin": "B008LHOPX2",
+        "title": "Convatec 183910 Stomahesive Paste: 2 Ounce (Pack of 3)",
+        "rating": 4.6,
+        "reviews": 902
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3760941:3763261:8623912011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

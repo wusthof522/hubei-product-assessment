@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "17382009011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins, Minerals & Supplements > Essential Fatty Acids > Black Seed Oil",
+  "categoryPathCn": "健康与家居 > 身、泳和附剂 > 需要别人 > 黑籽油",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 5793109,
+    "avgRevenue": 58516,
+    "medianPrice": 24.99,
+    "priceBand": "$19.99 - $29.95",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0D4MPKGN6",
+      "title": "Serene Herbs Soursop Bitters Liquid &amp; Black Seed Bundle – Organic Herbal Guanabana for Digestive Support – Vegan, Non-GMO – 32 oz (16 oz Each), (2 Pack)",
+      "brand": "Serene Herbs",
+      "price": 69.99,
+      "salesParent": 11925,
+      "revenue": 832484.25,
+      "rating": 4.4,
+      "reviews": 5772
+    },
+    {
+      "rank": 2,
+      "asin": "B0009EYIQ4",
+      "title": "Amazing Herbs Premium Black Seed Oil Liquid - 8 Fl Oz Glass Bottle",
+      "brand": "Amazing Herbs",
+      "price": 28.23,
+      "salesParent": 15913,
+      "revenue": 469433.5,
+      "rating": 4.6,
+      "reviews": 46886
+    },
+    {
+      "rank": 3,
+      "asin": "B0714PK8VV",
+      "title": "Cold-Pressed Black Seed Oil Capsules for Beauty Wellness &amp; Immune Support",
+      "brand": "Healths Harmony",
+      "price": 21.85,
+      "salesParent": 19959,
+      "revenue": 436104.16,
+      "rating": 4.5,
+      "reviews": 53789
+    },
+    {
+      "rank": 4,
+      "asin": "B0DQ3774GD",
+      "title": "Organics Ocean Better Black Seed Oil, Cold Pressed, 30 Softgels",
+      "brand": "Organics Ocean",
+      "price": 39.99,
+      "salesParent": 6820,
+      "revenue": 254999.8,
+      "rating": 4.4,
+      "reviews": 1053
+    },
+    {
+      "rank": 5,
+      "asin": "B017KQZC6I",
+      "title": "Amazing Herbs Premium Black Seed Oil - 60 Count Softgels, 1250mg",
+      "brand": "Amazing Herbs",
+      "price": 29.99,
+      "salesParent": 7548,
+      "revenue": 226364.52,
+      "rating": 4.6,
+      "reviews": 26193
+    },
+    {
+      "rank": 6,
+      "asin": "B076CQXRND",
+      "title": "Zhou Organic Black Seed Oil - Nigella Sativa - 8 Fl Oz (Pack of 1)",
+      "brand": "ZHOU",
+      "price": 20.9,
+      "salesParent": 9962,
+      "revenue": 208106.17,
+      "rating": 4.5,
+      "reviews": 33465
+    },
+    {
+      "rank": 7,
+      "asin": "B0797GC3N1",
+      "title": "MAJU Black Seed Oil - High Thymoquinone, Wild Turkish Harvest, Cold-Pressed, 100% Black Cumin Seed Oil, Liquid Pure Blackseed, Glass Bottle, 8 oz",
+      "brand": "Maju Superfoods",
+      "price": 37.99,
+      "salesParent": 5263,
+      "revenue": 196520.42,
+      "rating": 4.6,
+      "reviews": 26622
+    },
+    {
+      "rank": 8,
+      "asin": "B0938R37X3",
+      "title": "TQ-Advanced® Black Seed Oil Softgels, 5% Thymoquinone, 500mg, Vegan",
+      "brand": "Triquetra Health",
+      "price": 28.99,
+      "salesParent": 6600,
+      "revenue": 191334.0,
+      "rating": 4.5,
+      "reviews": 1398
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 24,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 24,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 5793109,
+    "priorHeadRevenue": 4666153,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 41,
+      "pct": 41,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 51,
+      "brandCount": 75,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.41,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0D4MPKGN6",
+        "title": "Serene Herbs Soursop Bitters Liquid &amp; Black Seed Bundle – Organic Herbal Guanabana for Digestive Support – Vegan, Non-GMO – 32 oz (16 oz Each), (2 Pack)",
+        "rating": 4.4,
+        "reviews": 5772
+      },
+      {
+        "rank": 2,
+        "asin": "B0009EYIQ4",
+        "title": "Amazing Herbs Premium Black Seed Oil Liquid - 8 Fl Oz Glass Bottle",
+        "rating": 4.6,
+        "reviews": 46886
+      },
+      {
+        "rank": 3,
+        "asin": "B0714PK8VV",
+        "title": "Cold-Pressed Black Seed Oil Capsules for Beauty Wellness &amp; Immune Support",
+        "rating": 4.5,
+        "reviews": 53789
+      },
+      {
+        "rank": 4,
+        "asin": "B0DQ3774GD",
+        "title": "Organics Ocean Better Black Seed Oil, Cold Pressed, 30 Softgels",
+        "rating": 4.4,
+        "reviews": 1053
+      },
+      {
+        "rank": 5,
+        "asin": "B017KQZC6I",
+        "title": "Amazing Herbs Premium Black Seed Oil - 60 Count Softgels, 1250mg",
+        "rating": 4.6,
+        "reviews": 26193
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:23675621011:6943343011:17382009011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

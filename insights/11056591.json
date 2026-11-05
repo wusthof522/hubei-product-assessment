@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "11056591",
+  "level": "L2",
+  "categoryPathEn": "Beauty & Personal Care > Fragrance",
+  "categoryPathCn": "美容与护理 > 香水",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 50144284,
+    "avgRevenue": 506508,
+    "medianPrice": 51.99,
+    "priceBand": "$30.24 - $98.6",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0FJG5WLT2",
+      "title": "Sol de Janeiro Cheirosa Hair &amp; Body Perfume Mist",
+      "brand": "Sol de Janeiro",
+      "price": 20.8,
+      "salesParent": 162819,
+      "revenue": 3888117.5,
+      "rating": 4.6,
+      "reviews": 1435
+    },
+    {
+      "rank": 2,
+      "asin": "B09VN62HF3",
+      "title": "Azzaro The Most Wanted Parfum - Spicy Woody Cologne for Men",
+      "brand": "Azzaro",
+      "price": 145.0,
+      "salesParent": 21438,
+      "revenue": 3108510.0,
+      "rating": 4.6,
+      "reviews": 11488
+    },
+    {
+      "rank": 3,
+      "asin": "B09X5BQ969",
+      "title": "Bellavita Luxury Honey Oud Eau de Parfum Unisex, 3.4 fl oz (100 ml)",
+      "brand": "Bella Vita Luxury",
+      "price": 20.99,
+      "salesParent": 67649,
+      "revenue": 1383422.12,
+      "rating": 3.9,
+      "reviews": 19382
+    },
+    {
+      "rank": 4,
+      "asin": "B0FM2CCBS1",
+      "title": "eos Cashmere Body Mist- Vanilla, Body Spray for Women, Vegan, 6 fl oz",
+      "brand": "eos",
+      "price": 12.98,
+      "salesParent": 105972,
+      "revenue": 1375516.5,
+      "rating": 4.6,
+      "reviews": 4041
+    },
+    {
+      "rank": 5,
+      "asin": "B01LDT51ZU",
+      "title": "Rasasi Hawas For Men Eau De Parfum Spray 100ML (3.4 Oz) - Long Lasting Arabian Perfume, Premium Perfume Men, Ideal for Special Occasions &amp; Daily Elegance, A Bold and Captivating Fragrance",
+      "brand": "RASASI",
+      "price": 30.0,
+      "salesParent": 41907,
+      "revenue": 1256790.88,
+      "rating": 4.6,
+      "reviews": 20439
+    },
+    {
+      "rank": 6,
+      "asin": "B00M3IFUMK",
+      "title": "ARMAF club de nuit intense Man EDT Men New in Box, Black , 3.6 Fl Oz",
+      "brand": "ARMAF",
+      "price": 23.99,
+      "salesParent": 43457,
+      "revenue": 1126840.0,
+      "rating": 4.5,
+      "reviews": 118144
+    },
+    {
+      "rank": 7,
+      "asin": "B0BLTC97QG",
+      "title": "Billie Eilish Eau de Parfum Perfume for Women",
+      "brand": "Billie Eilish",
+      "price": 62.0,
+      "salesParent": 18232,
+      "revenue": 1027190.88,
+      "rating": 4.6,
+      "reviews": 13136
+    },
+    {
+      "rank": 8,
+      "asin": "B01IYNHHBY",
+      "title": "CHRISTIAN DIOR Sauvage For Men Eau De Toilette Spray, 6.8 Ounce",
+      "brand": "CHRISTIAN DIOR",
+      "price": 162.0,
+      "salesParent": 6017,
+      "revenue": 997979.62,
+      "rating": 4.5,
+      "reviews": 29061
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 13,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 13,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 50144284,
+    "priorHeadRevenue": 44535967,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 22,
+      "pct": 22,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 30,
+      "brandCount": 57,
+      "level": "分散",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.47,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0FJG5WLT2",
+        "title": "Sol de Janeiro Cheirosa Hair &amp; Body Perfume Mist",
+        "rating": 4.6,
+        "reviews": 1435
+      },
+      {
+        "rank": 2,
+        "asin": "B09VN62HF3",
+        "title": "Azzaro The Most Wanted Parfum - Spicy Woody Cologne for Men",
+        "rating": 4.6,
+        "reviews": 11488
+      },
+      {
+        "rank": 3,
+        "asin": "B09X5BQ969",
+        "title": "Bellavita Luxury Honey Oud Eau de Parfum Unisex, 3.4 fl oz (100 ml)",
+        "rating": 3.9,
+        "reviews": 19382
+      },
+      {
+        "rank": 4,
+        "asin": "B0FM2CCBS1",
+        "title": "eos Cashmere Body Mist- Vanilla, Body Spray for Women, Vegan, 6 fl oz",
+        "rating": 4.6,
+        "reviews": 4041
+      },
+      {
+        "rank": 5,
+        "asin": "B01LDT51ZU",
+        "title": "Rasasi Hawas For Men Eau De Parfum Spray 100ML (3.4 Oz) - Long Lasting Arabian Perfume, Premium Perfume Men, Ideal for Special Occasions &amp; Daily Elegance, A Bold and Captivating Fragrance",
+        "rating": 4.6,
+        "reviews": 20439
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760911:11056591",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

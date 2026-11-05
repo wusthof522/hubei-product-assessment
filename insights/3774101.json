@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3774101",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins, Minerals & Supplements > Herbal Supplements > Psyllium",
+  "categoryPathCn": "健康与家居 > 身、泳和附剂 > 草本补充 > 洋车前子",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 13355002,
+    "avgRevenue": 134899,
+    "medianPrice": 25.99,
+    "priceBand": "$18.99 - $34.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0CQ7WCJ42",
+      "title": "Metamucil 4-in-1 Psyllium Husk Fiber Supplement, Sugar-Free, 180 teaspoons, Orange Flavored, Daily Fiber Powder for Digestive Health, made with Plant-Based Psyllium Husk Fiber",
+      "brand": "Metamucil",
+      "price": 34.97,
+      "salesParent": 64922,
+      "revenue": 2270322.5,
+      "rating": 4.7,
+      "reviews": 35666
+    },
+    {
+      "rank": 2,
+      "asin": "B001TH7K0G",
+      "title": "Metamucil, Psyllium Husk Fiber Capsules, 300 ct, 3-in-1 Fiber Supplement, Daily Psyllium Husk Fiber Capsules Help Support Digestive Health by Promoting Regularity*, Supplement Daily Fiber Intake",
+      "brand": "Metamucil",
+      "price": 35.99,
+      "salesParent": 29613,
+      "revenue": 1051557.62,
+      "rating": 4.6,
+      "reviews": 27481
+    },
+    {
+      "rank": 3,
+      "asin": "B005P0XUAM",
+      "title": "Now Supplements, Psyllium Husk Caps 500mg, Intestinal Health*, 200 Veg Caps",
+      "brand": "NOW",
+      "price": 11.0,
+      "salesParent": 75667,
+      "revenue": 832337.0,
+      "rating": 4.6,
+      "reviews": 33811
+    },
+    {
+      "rank": 4,
+      "asin": "B07GBSZL4B",
+      "title": "Metamucil, Fiber Thins, Daily Psyllium Husk Fiber Supplement, Supports Digestive Health and Satisfies Hunger, Chocolate Flavor, 48 Total Servings (4 Packs of 12)",
+      "brand": "Metamucil",
+      "price": 35.93,
+      "salesParent": 19047,
+      "revenue": 686263.38,
+      "rating": 4.6,
+      "reviews": 6499
+    },
+    {
+      "rank": 5,
+      "asin": "B0GYV2ZXJ9",
+      "title": "NOW Foods Digestive Health Bundle - Probiotic + Psyllium Husk Supplements",
+      "brand": "NOW Foods",
+      "price": 36.99,
+      "salesParent": 17636,
+      "revenue": 652355.69,
+      "rating": 4.6,
+      "reviews": 27
+    },
+    {
+      "rank": 6,
+      "asin": "B000N7DP6G",
+      "title": "Now Supplements, Whole Psyllium Husks, Soluble Fiber, 16 oz",
+      "brand": "NOW Foods",
+      "price": 9.73,
+      "salesParent": 51636,
+      "revenue": 500869.19,
+      "rating": 4.6,
+      "reviews": 14033
+    },
+    {
+      "rank": 7,
+      "asin": "B001G7QVAO",
+      "title": "Metamucil On-the-Go, Daily Psyllium Husk Powder Supplement with Real Sugar, 4-in-1 Fiber for Digestive Health, Orange Smooth Flavored Drink, 2 pack x 30 count = 60 Packs Total",
+      "brand": "Metamucil",
+      "price": 52.82,
+      "salesParent": 9392,
+      "revenue": 477113.59,
+      "rating": 4.6,
+      "reviews": 2875
+    },
+    {
+      "rank": 8,
+      "asin": "B011QGTRG4",
+      "title": "Viva Naturals Organic Psyllium Husk Powder, 24 oz – Finely Ground, Unflavored, Vegan, Keto, Paleo, Non-GMO Plant-Based Superfood, Good Source of Fiber for Gluten-Free Baking, Juices &amp; Smoothies",
+      "brand": "Viva Naturals",
+      "price": 18.71,
+      "salesParent": 18754,
+      "revenue": 436593.12,
+      "rating": 4.3,
+      "reviews": 15156
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 35,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 35,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 13355002,
+    "priorHeadRevenue": 9908410,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 20,
+      "pct": 20,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 64,
+      "brandCount": 57,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.47,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0CQ7WCJ42",
+        "title": "Metamucil 4-in-1 Psyllium Husk Fiber Supplement, Sugar-Free, 180 teaspoons, Orange Flavored, Daily Fiber Powder for Digestive Health, made with Plant-Based Psyllium Husk Fiber",
+        "rating": 4.7,
+        "reviews": 35666
+      },
+      {
+        "rank": 2,
+        "asin": "B001TH7K0G",
+        "title": "Metamucil, Psyllium Husk Fiber Capsules, 300 ct, 3-in-1 Fiber Supplement, Daily Psyllium Husk Fiber Capsules Help Support Digestive Health by Promoting Regularity*, Supplement Daily Fiber Intake",
+        "rating": 4.6,
+        "reviews": 27481
+      },
+      {
+        "rank": 3,
+        "asin": "B005P0XUAM",
+        "title": "Now Supplements, Psyllium Husk Caps 500mg, Intestinal Health*, 200 Veg Caps",
+        "rating": 4.6,
+        "reviews": 33811
+      },
+      {
+        "rank": 4,
+        "asin": "B07GBSZL4B",
+        "title": "Metamucil, Fiber Thins, Daily Psyllium Husk Fiber Supplement, Supports Digestive Health and Satisfies Hunger, Chocolate Flavor, 48 Total Servings (4 Packs of 12)",
+        "rating": 4.6,
+        "reviews": 6499
+      },
+      {
+        "rank": 5,
+        "asin": "B0GYV2ZXJ9",
+        "title": "NOW Foods Digestive Health Bundle - Probiotic + Psyllium Husk Supplements",
+        "rating": 4.6,
+        "reviews": 27
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:23675621011:3764461:3774101",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

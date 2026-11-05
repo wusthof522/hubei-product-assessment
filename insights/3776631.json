@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3776631",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Medical Supplies & Equipment > Mobility & Daily Living Aids > Mobility Aids & Equipment",
+  "categoryPathCn": "健康与家居 > 医疗用品和设备 > 行动和日常生活辅助工具 > 助行器和装备",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 94,
+    "totalRevenue": 10831184,
+    "avgRevenue": 115225,
+    "medianPrice": 195.69,
+    "priceBand": "$36.23 - $497.59",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0H8B4FG7N",
+      "title": "BlissTrends Donut Pillow Seat Cushion,Donut Chair Cushions for Postpartum Pregnancy &amp; Hemorrhoids,Tailbone Pain Relief Cushion,Memory Foam Lifting Cushions for Office&amp;Home Chairs (Black) (Pack of 3)",
+      "brand": "BlissTrends",
+      "price": 74.97,
+      "salesParent": 11413,
+      "revenue": 855632.62,
+      "rating": 4.4,
+      "reviews": 4260
+    },
+    {
+      "rank": 2,
+      "asin": "B0GVQ3DB6K",
+      "title": "ComfiLife Extra Large Gel &amp; Memory Foam Seat Cushion - Doctor Recommended Office Chair, Car Seat, Lifting Cushion - Back &amp; Sciatica Pain Relief - Wide Seat Cushion for Big &amp; Tall (Navy)",
+      "brand": "ComfiLife",
+      "price": 69.99,
+      "salesParent": 11039,
+      "revenue": 783769.0,
+      "rating": 4.8,
+      "reviews": 8
+    },
+    {
+      "rank": 3,
+      "asin": "B09B54LFXC",
+      "title": "ComfiLife Doctor Recommended Seat Cushion - Premium Gel &amp; Memory Foam Office Chair, Car Seat, Lifting Cushion - Chair Cushions for Back &amp; Sciatica Relief - Seat Cushions for Office &amp; Desk (Navy)",
+      "brand": "ComfiLife",
+      "price": 49.95,
+      "salesParent": 11927,
+      "revenue": 551146.69,
+      "rating": 4.4,
+      "reviews": 107037
+    },
+    {
+      "rank": 4,
+      "asin": "B08WJRWR57",
+      "title": "iWALK3.0 Original Hands Free Knee Crutch-Replaces Knee Scooter &amp; Crutches",
+      "brand": "iWALKFree",
+      "price": 179.0,
+      "salesParent": 2728,
+      "revenue": 488312.0,
+      "rating": 3.9,
+      "reviews": 17620
+    },
+    {
+      "rank": 5,
+      "asin": "B0BG8DPFN1",
+      "title": "REHAND Walking Cane - Foldable, Adjustable, Collapsible Walking Canes for Men &amp; Women, Heavy Duty All Terrain Tip, with Travel Bag | Walking Sticks for Seniors &amp; Adults",
+      "brand": "rehand",
+      "price": 30.99,
+      "salesParent": 12055,
+      "revenue": 371776.19,
+      "rating": 4.6,
+      "reviews": 13157
+    },
+    {
+      "rank": 6,
+      "asin": "B07WPWBWFG",
+      "title": "HONEYBULL Walking Cane for Men &amp; Women, Foldable Free Standing Cane",
+      "brand": "HONEYBULL",
+      "price": 29.99,
+      "salesParent": 12749,
+      "revenue": 366788.75,
+      "rating": 4.5,
+      "reviews": 31405
+    },
+    {
+      "rank": 7,
+      "asin": "B0FHPFMW2S",
+      "title": "VOCIC Electric Chair Lift Get Up from Floor, AX35",
+      "brand": "VOCIC",
+      "price": 399.99,
+      "salesParent": 837,
+      "revenue": 331644.53,
+      "rating": 4.5,
+      "reviews": 303
+    },
+    {
+      "rank": 8,
+      "asin": "B0GTQGSKQ8",
+      "title": "X Pro S Walking Exoskeleton for Daily Use, Up to 30% Less Effort",
+      "brand": "Hypershell",
+      "price": 999.0,
+      "salesParent": 185,
+      "revenue": 184815.0,
+      "rating": 3.6,
+      "reviews": 49
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 32,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 32,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 10831184,
+    "priorHeadRevenue": 8183296,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 94,
+      "newCount": 38,
+      "pct": 40,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 43,
+      "brandCount": 63,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.37,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0H8B4FG7N",
+        "title": "BlissTrends Donut Pillow Seat Cushion,Donut Chair Cushions for Postpartum Pregnancy &amp; Hemorrhoids,Tailbone Pain Relief Cushion,Memory Foam Lifting Cushions for Office&amp;Home Chairs (Black) (Pack of 3)",
+        "rating": 4.4,
+        "reviews": 4260
+      },
+      {
+        "rank": 2,
+        "asin": "B0GVQ3DB6K",
+        "title": "ComfiLife Extra Large Gel &amp; Memory Foam Seat Cushion - Doctor Recommended Office Chair, Car Seat, Lifting Cushion - Back &amp; Sciatica Pain Relief - Wide Seat Cushion for Big &amp; Tall (Navy)",
+        "rating": 4.8,
+        "reviews": 8
+      },
+      {
+        "rank": 3,
+        "asin": "B09B54LFXC",
+        "title": "ComfiLife Doctor Recommended Seat Cushion - Premium Gel &amp; Memory Foam Office Chair, Car Seat, Lifting Cushion - Chair Cushions for Back &amp; Sciatica Relief - Seat Cushions for Office &amp; Desk (Navy)",
+        "rating": 4.4,
+        "reviews": 107037
+      },
+      {
+        "rank": 4,
+        "asin": "B08WJRWR57",
+        "title": "iWALK3.0 Original Hands Free Knee Crutch-Replaces Knee Scooter &amp; Crutches",
+        "rating": 3.9,
+        "reviews": 17620
+      },
+      {
+        "rank": 5,
+        "asin": "B0BG8DPFN1",
+        "title": "REHAND Walking Cane - Foldable, Adjustable, Collapsible Walking Canes for Men &amp; Women, Heavy Duty All Terrain Tip, with Travel Bag | Walking Sticks for Seniors &amp; Adults",
+        "rating": 4.6,
+        "reviews": 13157
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3775161:8624314011:3776631",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3765771",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins, Minerals & Supplements > Herbal Supplements > Goldenseal",
+  "categoryPathCn": "健康与家居 > 身、泳和附剂 > 草本补充 > 毛茛",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 49,
+    "totalRevenue": 1171291,
+    "avgRevenue": 23904,
+    "medianPrice": 23.49,
+    "priceBand": "$17.24 - $34.98",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0D75VX5ML",
+      "title": "Berberine with Ceylon Cinnamon Supplement Liquid Drops, Bitter Melon",
+      "brand": "Clean Nutraceuticals",
+      "price": 29.95,
+      "salesParent": 21257,
+      "revenue": 636647.19,
+      "rating": 4.3,
+      "reviews": 6270
+    },
+    {
+      "rank": 2,
+      "asin": "B07F9565LN",
+      "title": "Natural Factors WellBetX Berberine Supplement, 120 Vegetarian Capsules",
+      "brand": "Natural Factors",
+      "price": 34.97,
+      "salesParent": 3740,
+      "revenue": 129105.0,
+      "rating": 4.6,
+      "reviews": 3484
+    },
+    {
+      "rank": 3,
+      "asin": "B0FKZCPLR5",
+      "title": "Sugar-Free Berberine Gummies GLP-1 Supplement for Metabolism Support, 60ct",
+      "brand": "Purify Life",
+      "price": 24.99,
+      "salesParent": 4156,
+      "revenue": 104398.73,
+      "rating": 4.2,
+      "reviews": 5323
+    },
+    {
+      "rank": 4,
+      "asin": "B0GZH84129",
+      "title": "14-in-1 Berberine with Ceylon Cinnamon Supplement Liquid Drops, 1900mg",
+      "brand": "Bobabemo",
+      "price": 18.99,
+      "salesParent": 5323,
+      "revenue": 99646.56,
+      "rating": 4.5,
+      "reviews": 248
+    },
+    {
+      "rank": 5,
+      "asin": "B08RRWMY1N",
+      "title": "Goldenseal Extract, Alcohol-Free, Neutralizes Free Radicals*, 2 Mo Supply",
+      "brand": "Vimergy",
+      "price": 43.0,
+      "salesParent": 867,
+      "revenue": 37281.0,
+      "rating": 4.7,
+      "reviews": 997
+    },
+    {
+      "rank": 6,
+      "asin": "B078YGT78W",
+      "title": "Nutricost Goldenseal Root 600mg, 120 Capsules, Gluten-Free, GMO-Free",
+      "brand": "Nutricost",
+      "price": 15.95,
+      "salesParent": 936,
+      "revenue": 14929.2,
+      "rating": 4.6,
+      "reviews": 2502
+    },
+    {
+      "rank": 7,
+      "asin": "B00014G2V6",
+      "title": "Nature's Answer Goldenseal Root | Herbal Supplement | Supports A Healthy Immune System | Gluten-Free &amp; Alcohol-Free 1oz",
+      "brand": "Nature's Answer",
+      "price": 18.74,
+      "salesParent": 663,
+      "revenue": 12424.62,
+      "rating": 4.6,
+      "reviews": 1266
+    },
+    {
+      "rank": 8,
+      "asin": "B0FHQQLK4K",
+      "title": "Enzymedica Berberine HCl Supplement 510 mg - 120 Targeted Release Caps",
+      "brand": "Enzymedica",
+      "price": 37.12,
+      "salesParent": 334,
+      "revenue": 12398.08,
+      "rating": 4.4,
+      "reviews": 70
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": null,
+    "direction": "flat",
+    "comparable": false,
+    "rawYoyPct": 293,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1171291,
+    "priorHeadRevenue": 297838,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 49,
+      "newCount": 8,
+      "pct": 16,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 86,
+      "brandCount": 40,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.59,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0D75VX5ML",
+        "title": "Berberine with Ceylon Cinnamon Supplement Liquid Drops, Bitter Melon",
+        "rating": 4.3,
+        "reviews": 6270
+      },
+      {
+        "rank": 2,
+        "asin": "B07F9565LN",
+        "title": "Natural Factors WellBetX Berberine Supplement, 120 Vegetarian Capsules",
+        "rating": 4.6,
+        "reviews": 3484
+      },
+      {
+        "rank": 3,
+        "asin": "B0FKZCPLR5",
+        "title": "Sugar-Free Berberine Gummies GLP-1 Supplement for Metabolism Support, 60ct",
+        "rating": 4.2,
+        "reviews": 5323
+      },
+      {
+        "rank": 4,
+        "asin": "B0GZH84129",
+        "title": "14-in-1 Berberine with Ceylon Cinnamon Supplement Liquid Drops, 1900mg",
+        "rating": 4.5,
+        "reviews": 248
+      },
+      {
+        "rank": 5,
+        "asin": "B08RRWMY1N",
+        "title": "Goldenseal Extract, Alcohol-Free, Neutralizes Free Radicals*, 2 Mo Supply",
+        "rating": 4.7,
+        "reviews": 997
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:23675621011:3764461:3765771",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

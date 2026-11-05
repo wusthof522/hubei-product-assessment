@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3779591",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Health Care > Feminine Care > Sanitary Napkins",
+  "categoryPathCn": "健康与家居 > 卫生保健 > 女士卫生护理 > 卫生巾",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 17288698,
+    "avgRevenue": 174633,
+    "medianPrice": 17.99,
+    "priceBand": "$10.67 - $25.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B071VBZLPX",
+      "title": "Rael Organic Cotton Cover Sanitary Pads for Women Moderate (Regular, 56 Ct)",
+      "brand": "Rael",
+      "price": 23.99,
+      "salesParent": 122450,
+      "revenue": 2937575.5,
+      "rating": 4.7,
+      "reviews": 16397
+    },
+    {
+      "rank": 2,
+      "asin": "B0BG3G11V2",
+      "title": "Always Ultra Thin Feminine Pads with Wings for Women, Size 4, Overnight Absorbency, Unscented, Up to 100% Leak-Free Comfort, 96 Count",
+      "brand": "Always",
+      "price": 21.46,
+      "salesParent": 34905,
+      "revenue": 749061.25,
+      "rating": 4.7,
+      "reviews": 12340
+    },
+    {
+      "rank": 3,
+      "asin": "B07THDP4KZ",
+      "title": "Frida 2-in-1 Postpartum Pads, Perineal Ice Maxi Pads &amp; Maternity Pad",
+      "brand": "Frida Mom",
+      "price": 18.97,
+      "salesParent": 34384,
+      "revenue": 652264.44,
+      "rating": 4.6,
+      "reviews": 16456
+    },
+    {
+      "rank": 4,
+      "asin": "B095HXWD9Z",
+      "title": "The Honey Pot Company - Cooling Herbal - Regular - Pads for Women - 20ct",
+      "brand": "The Honey Pot Company",
+      "price": 8.88,
+      "salesParent": 69667,
+      "revenue": 619339.62,
+      "rating": 4.7,
+      "reviews": 17699
+    },
+    {
+      "rank": 5,
+      "asin": "B01M1BLRC1",
+      "title": "Always Maxi Overnight Pads with Wings for Women, Size 5, Extra Heavy Overnight Absorbency, Unscented, 36 Count",
+      "brand": "Always",
+      "price": 10.97,
+      "salesParent": 55414,
+      "revenue": 607891.62,
+      "rating": 4.7,
+      "reviews": 25571
+    },
+    {
+      "rank": 6,
+      "asin": "B07J4W6T1W",
+      "title": "Always Ultra Thin Overnight Pads, Size 5, Extra Heavy Overnight, Unscented, 92 Count (2 Packs of 46)",
+      "brand": "Always",
+      "price": 22.19,
+      "salesParent": 24675,
+      "revenue": 556668.0,
+      "rating": 4.7,
+      "reviews": 4902
+    },
+    {
+      "rank": 7,
+      "asin": "B0H7ZCCSXG",
+      "title": "The Honey Pot Company - 120 ct - Herbal Everyday Panty Liners for Women - Infused w/Essential Oils for Cooling Effect &amp; Organic Cotton Cover - Feminine Care (Pack of 2)",
+      "brand": "The Honey Pot Company",
+      "price": 63.76,
+      "salesParent": 8238,
+      "revenue": 525254.88,
+      "rating": 4.6,
+      "reviews": 7444
+    },
+    {
+      "rank": 8,
+      "asin": "B00G8DDBOU",
+      "title": "Always Ultra Thin Feminine Pads with Wings for Women, Size 1, Regular Absorbency, Unscented, Up to 100% Leak-Free Protection, 46 Count",
+      "brand": "Always",
+      "price": 8.97,
+      "salesParent": 56428,
+      "revenue": 506159.19,
+      "rating": 4.7,
+      "reviews": 25796
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -3,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -3,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 17288698,
+    "priorHeadRevenue": 17840798,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 20,
+      "pct": 20,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 77,
+      "brandCount": 29,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.64,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B071VBZLPX",
+        "title": "Rael Organic Cotton Cover Sanitary Pads for Women Moderate (Regular, 56 Ct)",
+        "rating": 4.7,
+        "reviews": 16397
+      },
+      {
+        "rank": 2,
+        "asin": "B0BG3G11V2",
+        "title": "Always Ultra Thin Feminine Pads with Wings for Women, Size 4, Overnight Absorbency, Unscented, Up to 100% Leak-Free Comfort, 96 Count",
+        "rating": 4.7,
+        "reviews": 12340
+      },
+      {
+        "rank": 3,
+        "asin": "B07THDP4KZ",
+        "title": "Frida 2-in-1 Postpartum Pads, Perineal Ice Maxi Pads &amp; Maternity Pad",
+        "rating": 4.6,
+        "reviews": 16456
+      },
+      {
+        "rank": 4,
+        "asin": "B095HXWD9Z",
+        "title": "The Honey Pot Company - Cooling Herbal - Regular - Pads for Women - 20ct",
+        "rating": 4.7,
+        "reviews": 17699
+      },
+      {
+        "rank": 5,
+        "asin": "B01M1BLRC1",
+        "title": "Always Maxi Overnight Pads with Wings for Women, Size 5, Extra Heavy Overnight Absorbency, Unscented, 36 Count",
+        "rating": 4.7,
+        "reviews": 25571
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3760941:3779501:3779591",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

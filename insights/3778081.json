@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3778081",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Oral Care > Dental Floss & Picks > Gum Stimulators",
+  "categoryPathCn": "Health & Household > Oral Care > Dental Floss & Picks > Gum Stimulators",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 46,
+    "totalRevenue": 275978,
+    "avgRevenue": 6000,
+    "medianPrice": 18.69,
+    "priceBand": "$9.99 - $47.36",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0G2BYTM5R",
+      "title": "Red Light Therapy for Gums, KTS Oral Care Light with V1 Smart Controller, Red &amp; Blue LED for Gum Health, Toothache Relief, Repair Bleeding Sensitive Gums, Detachable Mouthpiece for Easy Cleaning",
+      "brand": "KTS",
+      "price": 89.99,
+      "salesParent": 1153,
+      "revenue": 99111.88,
+      "rating": 4.3,
+      "reviews": 85
+    },
+    {
+      "rank": 2,
+      "asin": "B0C86CGH5P",
+      "title": "GUM Stimulator Permanent Handle with Rubber Tip, 1 Handle + 2 Refill Packs",
+      "brand": "GUM",
+      "price": 9.99,
+      "salesParent": 4069,
+      "revenue": 40120.34,
+      "rating": 4.5,
+      "reviews": 1839
+    },
+    {
+      "rank": 3,
+      "asin": "B0GYDSV76Z",
+      "title": "Red Light Therapy for Gums, Red &amp; Blue LED Light Experience with 18 LEDs, Comfortable Silicone Mouthpiece, Portable Personal Oral Care for Gum Health Toothache Relief, Bleeding Gums",
+      "brand": "Jitesy",
+      "price": 89.99,
+      "salesParent": 427,
+      "revenue": 38784.41,
+      "rating": 4.3,
+      "reviews": 34
+    },
+    {
+      "rank": 4,
+      "asin": "B07KPZRKY6",
+      "title": "GUM Stimulator Permanent Handle with Rubber Tip, 1 Count (6 Pack)",
+      "brand": "GUM",
+      "price": 19.99,
+      "salesParent": 1693,
+      "revenue": 33843.07,
+      "rating": 4.7,
+      "reviews": 4557
+    },
+    {
+      "rank": 5,
+      "asin": "B0G2YVSS7L",
+      "title": "The Natural Dentist Stim-U-Dent Mint Dental Picks, Thin Wooden Toothpicks for Food &amp; Plaque Removal, Travel-Friendly, 8 Packs of 40 (320 Picks)",
+      "brand": "The Natural Dentist",
+      "price": 7.6,
+      "salesParent": 1521,
+      "revenue": 11559.6,
+      "rating": 4.6,
+      "reviews": 2
+    },
+    {
+      "rank": 6,
+      "asin": "B0HG56G667",
+      "title": "Red Light Therapy for Gums, Red &amp; Blue LED for Gum Health, Gum Support",
+      "brand": "MASIKETEC",
+      "price": 89.99,
+      "salesParent": 128,
+      "revenue": 11518.72,
+      "rating": 4.3,
+      "reviews": 6
+    },
+    {
+      "rank": 7,
+      "asin": "B0HG9Q4VDD",
+      "title": "Gum Revive Red Light Therapy for Gum Restore &amp; Common Oral Issues",
+      "brand": "Catalpa U",
+      "price": 89.99,
+      "salesParent": 95,
+      "revenue": 8549.05,
+      "rating": 3.8,
+      "reviews": 8
+    },
+    {
+      "rank": 8,
+      "asin": "B07DNG9YFH",
+      "title": "Berkebile Oil 2 + 2 B101 Instant Gum Cutter - 13 oz. (12 Pack)",
+      "brand": "BERKEBILE 2+2",
+      "price": 59.47,
+      "salesParent": 138,
+      "revenue": 8206.86,
+      "rating": 4.8,
+      "reviews": 7
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 182,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 182,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 275978,
+    "priorHeadRevenue": 97704,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 46,
+      "newCount": 26,
+      "pct": 57,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 89,
+      "brandCount": 30,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.07,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0G2BYTM5R",
+        "title": "Red Light Therapy for Gums, KTS Oral Care Light with V1 Smart Controller, Red &amp; Blue LED for Gum Health, Toothache Relief, Repair Bleeding Sensitive Gums, Detachable Mouthpiece for Easy Cleaning",
+        "rating": 4.3,
+        "reviews": 85
+      },
+      {
+        "rank": 2,
+        "asin": "B0C86CGH5P",
+        "title": "GUM Stimulator Permanent Handle with Rubber Tip, 1 Handle + 2 Refill Packs",
+        "rating": 4.5,
+        "reviews": 1839
+      },
+      {
+        "rank": 3,
+        "asin": "B0GYDSV76Z",
+        "title": "Red Light Therapy for Gums, Red &amp; Blue LED Light Experience with 18 LEDs, Comfortable Silicone Mouthpiece, Portable Personal Oral Care for Gum Health Toothache Relief, Bleeding Gums",
+        "rating": 4.3,
+        "reviews": 34
+      },
+      {
+        "rank": 4,
+        "asin": "B07KPZRKY6",
+        "title": "GUM Stimulator Permanent Handle with Rubber Tip, 1 Count (6 Pack)",
+        "rating": 4.7,
+        "reviews": 4557
+      },
+      {
+        "rank": 5,
+        "asin": "B0G2YVSS7L",
+        "title": "The Natural Dentist Stim-U-Dent Mint Dental Picks, Thin Wooden Toothpicks for Food &amp; Plaque Removal, Travel-Friendly, 8 Packs of 40 (320 Picks)",
+        "rating": 4.6,
+        "reviews": 2
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:10079992011:13213824011:3778081",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

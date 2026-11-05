@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "24219908011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Games & Accessories > Game Accessories > Dice & Accessories",
+  "categoryPathCn": "玩具与游戏 > 游戏和配件 > 游戏配件 > 骰子和配件",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 1432632,
+    "avgRevenue": 14326,
+    "medianPrice": 18.92,
+    "priceBand": "$11.99 - $35.24",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0DQJRSZL1",
+      "title": "Stocking Stuffers for Men Women, Gifts for Men Dad",
+      "brand": "FUAOIS",
+      "price": 5.94,
+      "salesParent": 11887,
+      "revenue": 80712.73,
+      "rating": 4.6,
+      "reviews": 2349
+    },
+    {
+      "rank": 2,
+      "asin": "B0794Z8XRP",
+      "title": "CiaraQ Polyhedral Dice Set – Two-Tone Colors – DND Role Playing Dice",
+      "brand": "CiaraQ",
+      "price": 9.99,
+      "salesParent": 4597,
+      "revenue": 43579.56,
+      "rating": 4.8,
+      "reviews": 20721
+    },
+    {
+      "rank": 3,
+      "asin": "B00J57138C",
+      "title": "Qwixx Fast Family Dice Game – Quick 15-Minute Gameplay, Easy to Learn, Strategy &amp; Luck, Travel-Friendly Party Game for Kids &amp; Adults Ages 8+, 2–5 Players",
+      "brand": "Gamewright",
+      "price": 11.99,
+      "salesParent": 3897,
+      "revenue": 43061.85,
+      "rating": 4.8,
+      "reviews": 16780
+    },
+    {
+      "rank": 4,
+      "asin": "B0FZ9QSPLS",
+      "title": "7 Piece Metal Polyhedral Bullet Dice Set with Shooting &amp; Fidget Modes, Pistol Shaped Case &amp; Bullet Dice for Cyberpunk Style Tabletop RPG Dice, Fidget Toy for Stress Relief (Golden)",
+      "brand": "Docfuys",
+      "price": 49.99,
+      "salesParent": 849,
+      "revenue": 42441.51,
+      "rating": 4.5,
+      "reviews": 169
+    },
+    {
+      "rank": 5,
+      "asin": "B09HH87PKF",
+      "title": "CiaraQ 182pcs Polyhedral Dice Set for Dungeon and Dragons MTG Table Games",
+      "brand": "CiaraQ",
+      "price": 23.39,
+      "salesParent": 1645,
+      "revenue": 41338.85,
+      "rating": 4.9,
+      "reviews": 2701
+    },
+    {
+      "rank": 6,
+      "asin": "B09VZ6N9GL",
+      "title": "50 Pieces Dice Set, 14mm Bulk 6 Sided Colored Dices for Board Games, Math Learning,Classroom",
+      "brand": "jrceliy",
+      "price": 6.98,
+      "salesParent": 5874,
+      "revenue": 40001.94,
+      "rating": 4.6,
+      "reviews": 3643
+    },
+    {
+      "rank": 7,
+      "asin": "B0H6SSGLZS",
+      "title": "24Pcs Mystery Dice - Dice Advent Calendar for Dungeons &amp; Dragons, RPG",
+      "brand": "QMay",
+      "price": 21.99,
+      "salesParent": 1669,
+      "revenue": 34264.57,
+      "rating": 4.8,
+      "reviews": 22
+    },
+    {
+      "rank": 8,
+      "asin": "B000BUUTKU",
+      "title": "Bicycle 5 Dice Set Six Sided D6 Standard Game White Black 16 mm",
+      "brand": "Bicycle",
+      "price": 3.99,
+      "salesParent": 7735,
+      "revenue": 30862.65,
+      "rating": 4.8,
+      "reviews": 12267
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 12,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 12,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1432632,
+    "priorHeadRevenue": 1284053,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 36,
+      "pct": 36,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 25,
+      "brandCount": 69,
+      "level": "分散",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.64,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0DQJRSZL1",
+        "title": "Stocking Stuffers for Men Women, Gifts for Men Dad",
+        "rating": 4.6,
+        "reviews": 2349
+      },
+      {
+        "rank": 2,
+        "asin": "B0794Z8XRP",
+        "title": "CiaraQ Polyhedral Dice Set – Two-Tone Colors – DND Role Playing Dice",
+        "rating": 4.8,
+        "reviews": 20721
+      },
+      {
+        "rank": 3,
+        "asin": "B00J57138C",
+        "title": "Qwixx Fast Family Dice Game – Quick 15-Minute Gameplay, Easy to Learn, Strategy &amp; Luck, Travel-Friendly Party Game for Kids &amp; Adults Ages 8+, 2–5 Players",
+        "rating": 4.8,
+        "reviews": 16780
+      },
+      {
+        "rank": 4,
+        "asin": "B0FZ9QSPLS",
+        "title": "7 Piece Metal Polyhedral Bullet Dice Set with Shooting &amp; Fidget Modes, Pistol Shaped Case &amp; Bullet Dice for Cyberpunk Style Tabletop RPG Dice, Fidget Toy for Stress Relief (Golden)",
+        "rating": 4.5,
+        "reviews": 169
+      },
+      {
+        "rank": 5,
+        "asin": "B09HH87PKF",
+        "title": "CiaraQ 182pcs Polyhedral Dice Set for Dungeon and Dragons MTG Table Games",
+        "rating": 4.9,
+        "reviews": 2701
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166220011:166221011:24219908011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

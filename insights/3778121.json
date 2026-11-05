@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3778121",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Oral Care > Denture Care > Adhesives",
+  "categoryPathCn": "Health & Household > Oral Care > Denture Care > Adhesives",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 98,
+    "totalRevenue": 4342771,
+    "avgRevenue": 44314,
+    "medianPrice": 22.29,
+    "priceBand": "$14.97 - $29.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B09M5S7VLR",
+      "title": "Fixodent Plus Scope Denture Adhesive Cream, Mint, 2.0 oz (4-Pack) – Strong False Teeth Glue",
+      "brand": "Fixodent",
+      "price": 20.3,
+      "salesParent": 18609,
+      "revenue": 378879.25,
+      "rating": 4.8,
+      "reviews": 15082
+    },
+    {
+      "rank": 2,
+      "asin": "B09M678FGB",
+      "title": "Fixodent Ultra Max Hold Denture Adhesive Cream, 2.2 oz (4-Pack) – Strong False Teeth Glue and Secure Dental Adhesive for Full or Partial Plates, Prevent Food Slipping",
+      "brand": "Fixodent",
+      "price": 21.56,
+      "salesParent": 12246,
+      "revenue": 282760.16,
+      "rating": 4.7,
+      "reviews": 5218
+    },
+    {
+      "rank": 3,
+      "asin": "B07GFW9M51",
+      "title": "Poligrip Free Denture Adhesive Cream, Strong All-Day Hold, 2.4 oz (4 Pack)",
+      "brand": "Super Poligrip",
+      "price": 18.48,
+      "salesParent": 13455,
+      "revenue": 248648.39,
+      "rating": 4.6,
+      "reviews": 18409
+    },
+    {
+      "rank": 4,
+      "asin": "B09RFHRSD8",
+      "title": "Poligrip Power Hold plus Seal Denture Adhesive Cream, 2.2 oz (4 Pack)",
+      "brand": "Super Poligrip",
+      "price": 21.38,
+      "salesParent": 10325,
+      "revenue": 220438.75,
+      "rating": 4.5,
+      "reviews": 7489
+    },
+    {
+      "rank": 5,
+      "asin": "B07FL52N66",
+      "title": "Fixodent Complete Denture Adhesive Cream, Original, 2.4 oz (3-Pack) – Strong False Teeth Glue, Secure Dental Adhesive for Full and Partial Plates, Packaging May Vary",
+      "brand": "Fixodent",
+      "price": 14.47,
+      "salesParent": 14696,
+      "revenue": 207213.61,
+      "rating": 4.7,
+      "reviews": 26532
+    },
+    {
+      "rank": 6,
+      "asin": "B07M8LMMV6",
+      "title": "Cushion Grip Thermoplastic Denture Adhesive – Refits &amp; Tightens Dentures, Works Like a Denture Reliner for a Secure, Comfortable Fit, Holds Up to 4 Days, Glue-Free, Waterproof &amp; Zinc-Free - 1 oz",
+      "brand": "Cushion Grip",
+      "price": 13.99,
+      "salesParent": 14156,
+      "revenue": 197759.33,
+      "rating": 3.9,
+      "reviews": 47493
+    },
+    {
+      "rank": 7,
+      "asin": "B0DMT759L4",
+      "title": "Poligrip Ultimate All-in-1 Denture Adhesive Cream, 2.2 oz (4 Pack)",
+      "brand": "Super Poli-Grip",
+      "price": 23.48,
+      "salesParent": 8029,
+      "revenue": 188520.92,
+      "rating": 4.6,
+      "reviews": 2088
+    },
+    {
+      "rank": 8,
+      "asin": "B07S97JQRV",
+      "title": "Fixodent Ultra Max Hold Denture Adhesive, White, 2.2 Oz (Pack of 2)",
+      "brand": "Fixodent",
+      "price": 11.99,
+      "salesParent": 15508,
+      "revenue": 187491.72,
+      "rating": 4.6,
+      "reviews": 19965
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 20,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 20,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 4342771,
+    "priorHeadRevenue": 3608633,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 98,
+      "newCount": 39,
+      "pct": 40,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 72,
+      "brandCount": 47,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 3.78,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B09M5S7VLR",
+        "title": "Fixodent Plus Scope Denture Adhesive Cream, Mint, 2.0 oz (4-Pack) – Strong False Teeth Glue",
+        "rating": 4.8,
+        "reviews": 15082
+      },
+      {
+        "rank": 2,
+        "asin": "B09M678FGB",
+        "title": "Fixodent Ultra Max Hold Denture Adhesive Cream, 2.2 oz (4-Pack) – Strong False Teeth Glue and Secure Dental Adhesive for Full or Partial Plates, Prevent Food Slipping",
+        "rating": 4.7,
+        "reviews": 5218
+      },
+      {
+        "rank": 3,
+        "asin": "B07GFW9M51",
+        "title": "Poligrip Free Denture Adhesive Cream, Strong All-Day Hold, 2.4 oz (4 Pack)",
+        "rating": 4.6,
+        "reviews": 18409
+      },
+      {
+        "rank": 4,
+        "asin": "B09RFHRSD8",
+        "title": "Poligrip Power Hold plus Seal Denture Adhesive Cream, 2.2 oz (4 Pack)",
+        "rating": 4.5,
+        "reviews": 7489
+      },
+      {
+        "rank": 5,
+        "asin": "B07FL52N66",
+        "title": "Fixodent Complete Denture Adhesive Cream, Original, 2.4 oz (3-Pack) – Strong False Teeth Glue, Secure Dental Adhesive for Full and Partial Plates, Packaging May Vary",
+        "rating": 4.7,
+        "reviews": 26532
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:10079992011:3778111:3778121",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "2642125011",
+  "level": "L2",
+  "categoryPathEn": "Electronics > eBook Readers & Accessories",
+  "categoryPathCn": "电子产品 > 电子书阅读器",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 96,
+    "totalRevenue": 3475564,
+    "avgRevenue": 36204,
+    "medianPrice": 189.5,
+    "priceBand": "$143.25 - $319.73",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0H6FPNTFM",
+      "title": "XTEINK X4 Pro 4.3&quot; ebook Reader with Front Light &amp; Touchscreen, Space Black",
+      "brand": "XTEINK",
+      "price": 99.0,
+      "salesParent": 5775,
+      "revenue": 551108.25,
+      "rating": 4.1,
+      "reviews": 327
+    },
+    {
+      "rank": 2,
+      "asin": "B0GSZX5MWR",
+      "title": "XTEINK X3 3.7&quot; Pocket E-Ink eBook Reader,58g,Magnetic, Mini Ereader Devices",
+      "brand": "XTEINK",
+      "price": 69.0,
+      "salesParent": 4972,
+      "revenue": 354255.0,
+      "rating": 4.1,
+      "reviews": 861
+    },
+    {
+      "rank": 3,
+      "asin": "B0D1KV8J76",
+      "title": "Kobo Clara BW | eReader | 6” Glare-Free Touchscreen with ComfortLight PRO | Dark Mode Option | Audiobooks | Waterproof | 16GB of Storage | Black",
+      "brand": "Kobo",
+      "price": 159.99,
+      "salesParent": 2066,
+      "revenue": 330539.34,
+      "rating": 4.5,
+      "reviews": 686
+    },
+    {
+      "rank": 4,
+      "asin": "B0D1KV86N4",
+      "title": "Kobo Libra Colour eReader, 7” Color E Ink, Waterproof, White",
+      "brand": "Kobo",
+      "price": 259.99,
+      "salesParent": 1188,
+      "revenue": 308868.09,
+      "rating": 4.4,
+      "reviews": 952
+    },
+    {
+      "rank": 5,
+      "asin": "B0FKD3QDMM",
+      "title": "Kobo Clara Colour | Colour eReader | 6” Glare-Free Colour E Ink Kaleido™ 3 Display | Dark Mode Option | Waterproof | Audiobooks | 16GB of Storage | White",
+      "brand": "Kobo",
+      "price": 179.99,
+      "salesParent": 1120,
+      "revenue": 201588.81,
+      "rating": 4.6,
+      "reviews": 303
+    },
+    {
+      "rank": 6,
+      "asin": "B0H8SZ945Y",
+      "title": "XTEINK X4 Classic Pocket eReader, Ultra-Light 68g &amp; 4.9mm Thin,Reader Gifts",
+      "brand": "XTEINK",
+      "price": 79.0,
+      "salesParent": 1916,
+      "revenue": 155445.08,
+      "rating": 4.0,
+      "reviews": 83
+    },
+    {
+      "rank": 7,
+      "asin": "B0H2GQLWBL",
+      "title": "iFLYTEK AINOTE 2, 10.65&quot; E Ink Tablet Bundle with Keyboard Case, grey",
+      "brand": "iflytek",
+      "price": 769.0,
+      "salesParent": 182,
+      "revenue": 135804.77,
+      "rating": 3.8,
+      "reviews": 17
+    },
+    {
+      "rank": 8,
+      "asin": "B0D1KWK8WY",
+      "title": "Kobo Clara Colour | Colour eReader | 6” Glare-Free Colour E Ink Kaleido™ 3 Display | Dark Mode Option | Waterproof | Audiobooks | 16GB of Storage | Black",
+      "brand": "Kobo",
+      "price": 179.99,
+      "salesParent": 614,
+      "revenue": 109967.41,
+      "rating": 4.3,
+      "reviews": 518
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": null,
+    "direction": "flat",
+    "comparable": false,
+    "rawYoyPct": -73,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 3475564,
+    "priorHeadRevenue": 12718454,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 96,
+      "newCount": 75,
+      "pct": 78,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 89,
+      "brandCount": 25,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.08,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0H6FPNTFM",
+        "title": "XTEINK X4 Pro 4.3&quot; ebook Reader with Front Light &amp; Touchscreen, Space Black",
+        "rating": 4.1,
+        "reviews": 327
+      },
+      {
+        "rank": 2,
+        "asin": "B0GSZX5MWR",
+        "title": "XTEINK X3 3.7&quot; Pocket E-Ink eBook Reader,58g,Magnetic, Mini Ereader Devices",
+        "rating": 4.1,
+        "reviews": 861
+      },
+      {
+        "rank": 3,
+        "asin": "B0D1KV8J76",
+        "title": "Kobo Clara BW | eReader | 6” Glare-Free Touchscreen with ComfortLight PRO | Dark Mode Option | Audiobooks | Waterproof | 16GB of Storage | Black",
+        "rating": 4.5,
+        "reviews": 686
+      },
+      {
+        "rank": 4,
+        "asin": "B0D1KV86N4",
+        "title": "Kobo Libra Colour eReader, 7” Color E Ink, Waterproof, White",
+        "rating": 4.4,
+        "reviews": 952
+      },
+      {
+        "rank": 5,
+        "asin": "B0FKD3QDMM",
+        "title": "Kobo Clara Colour | Colour eReader | 6” Glare-Free Colour E Ink Kaleido™ 3 Display | Dark Mode Option | Waterproof | Audiobooks | 16GB of Storage | White",
+        "rating": 4.6,
+        "reviews": 303
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "172282:2642125011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

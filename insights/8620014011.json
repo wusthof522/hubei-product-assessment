@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "8620014011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Medical Supplies & Equipment > Braces, Splints & Supports > Hip & Waist Supports",
+  "categoryPathCn": "健康与家居 > 医疗用品和设备 > 绷带、夹板和背带 > 护腰",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 3060788,
+    "avgRevenue": 30917,
+    "medianPrice": 26.99,
+    "priceBand": "$22.99 - $32.49",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B005DLL0CS",
+      "title": "NYOrtho Abdominal Binder Lower Waist Support Belt - Compression Wrap for Men and Women MADE IN USA",
+      "brand": "NYOrtho",
+      "price": 20.99,
+      "salesParent": 13573,
+      "revenue": 284897.28,
+      "rating": 4.2,
+      "reviews": 20761
+    },
+    {
+      "rank": 2,
+      "asin": "B000NIFVLW",
+      "title": "Serola Sacroiliac Belt for SI Joint Dysfunction – (Medium fits 34” to 40”) Lower Back, Pelvic &amp; Hip brace for Women &amp; Men | Non-Slip, Adjustable &amp; Breathable Brace",
+      "brand": "Serola",
+      "price": 59.95,
+      "salesParent": 4721,
+      "revenue": 283023.97,
+      "rating": 4.4,
+      "reviews": 6981
+    },
+    {
+      "rank": 3,
+      "asin": "B078K759HK",
+      "title": "Sacroiliac Hip Belt for Women and Men That Alleviates Sciatic, Pelvic, Lower Back, Leg and Sacral Nerve Pain Caused by Si Joint Dysfunction| Trochanter Brace (Regular, Black)",
+      "brand": "Vriksasana Posture",
+      "price": 26.99,
+      "salesParent": 8256,
+      "revenue": 223407.36,
+      "rating": 4.3,
+      "reviews": 20598
+    },
+    {
+      "rank": 4,
+      "asin": "B0868P36BJ",
+      "title": "3 in 1 Postpartum Belly Wrap Recovery Band Belt Abdominal Binder",
+      "brand": "ChongErfei",
+      "price": 25.99,
+      "salesParent": 7840,
+      "revenue": 203761.59,
+      "rating": 4.2,
+      "reviews": 73286
+    },
+    {
+      "rank": 5,
+      "asin": "B0BDJG7HTH",
+      "title": "BLITZU Umbilical Hernia Belt for Men Women. Abdominal Binder Support Truss",
+      "brand": "BLITZU",
+      "price": 28.95,
+      "salesParent": 4100,
+      "revenue": 118695.0,
+      "rating": 4.2,
+      "reviews": 3381
+    },
+    {
+      "rank": 6,
+      "asin": "B07FDJ7S4Q",
+      "title": "Sacroiliac SI Joint Hip Belt - Lower Back Support Brace for Men and Women - Pelvic Support Belt - Trochanter Belt - Sciatica Pelvis Lumbar Hip Pain Relief (Regular)",
+      "brand": "PlayActive",
+      "price": 29.97,
+      "salesParent": 2924,
+      "revenue": 87632.28,
+      "rating": 4.3,
+      "reviews": 10203
+    },
+    {
+      "rank": 7,
+      "asin": "B0C4FVZCYS",
+      "title": "Everyday Medical Inguinal Hernia Belt for Men &amp; Women - Post Surgery Groin Hernia Truss for Left/Right Side, Adjustable Inguinal Hernia Support Belt w/Compression Pad - Black, S/M",
+      "brand": "Everyday Medical",
+      "price": 34.95,
+      "salesParent": 2339,
+      "revenue": 81748.06,
+      "rating": 4.3,
+      "reviews": 7761
+    },
+    {
+      "rank": 8,
+      "asin": "B093PJB34J",
+      "title": "5 Pack Lipo Foam Pads for Post Surgery Ab Board Liposuction Surgery",
+      "brand": "KUSMOO",
+      "price": 24.99,
+      "salesParent": 2344,
+      "revenue": 56326.32,
+      "rating": 4.5,
+      "reviews": 3336
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 9,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 9,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 3060788,
+    "priorHeadRevenue": 2813268,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 28,
+      "pct": 28,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 39,
+      "brandCount": 61,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.26,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B005DLL0CS",
+        "title": "NYOrtho Abdominal Binder Lower Waist Support Belt - Compression Wrap for Men and Women MADE IN USA",
+        "rating": 4.2,
+        "reviews": 20761
+      },
+      {
+        "rank": 2,
+        "asin": "B000NIFVLW",
+        "title": "Serola Sacroiliac Belt for SI Joint Dysfunction – (Medium fits 34” to 40”) Lower Back, Pelvic &amp; Hip brace for Women &amp; Men | Non-Slip, Adjustable &amp; Breathable Brace",
+        "rating": 4.4,
+        "reviews": 6981
+      },
+      {
+        "rank": 3,
+        "asin": "B078K759HK",
+        "title": "Sacroiliac Hip Belt for Women and Men That Alleviates Sciatic, Pelvic, Lower Back, Leg and Sacral Nerve Pain Caused by Si Joint Dysfunction| Trochanter Brace (Regular, Black)",
+        "rating": 4.3,
+        "reviews": 20598
+      },
+      {
+        "rank": 4,
+        "asin": "B0868P36BJ",
+        "title": "3 in 1 Postpartum Belly Wrap Recovery Band Belt Abdominal Binder",
+        "rating": 4.2,
+        "reviews": 73286
+      },
+      {
+        "rank": 5,
+        "asin": "B0BDJG7HTH",
+        "title": "BLITZU Umbilical Hernia Belt for Men Women. Abdominal Binder Support Truss",
+        "rating": 4.2,
+        "reviews": 3381
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3775161:3775541:8620014011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "405369011",
+  "level": "L2",
+  "categoryPathEn": "Baby Products > Baby Stationery",
+  "categoryPathCn": "婴儿产品 > 婴儿文具",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "insufficient",
+  "marketSize": {
+    "sampleCount": 16,
+    "totalRevenue": 3494,
+    "avgRevenue": 218,
+    "medianPrice": 10.99,
+    "priceBand": "$6.17 - $16.11",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0B7KS8YPZ",
+      "title": "HAPPYLAND Gender Reveal Decorations Sash and Tinplate Badge Mommy to Be and Daddy to Be Baby Shower",
+      "brand": "PATICARRY",
+      "price": 6.7,
+      "salesParent": 257,
+      "revenue": 1724.47,
+      "rating": 4.8,
+      "reviews": 950
+    },
+    {
+      "rank": 2,
+      "asin": "B0B48TSPNC",
+      "title": "16 Pcs Cotton Baby Belly Button Band, Newborn Infant, Belly Binder Wraps",
+      "brand": "Seematn",
+      "price": 20.99,
+      "salesParent": 26,
+      "revenue": 545.74,
+      "rating": 4.3,
+      "reviews": 69
+    },
+    {
+      "rank": 3,
+      "asin": "B0H6XNSKTG",
+      "title": "Pregnancy Announcement for Aunt, Christmas Birthday Gifts for New Aunt",
+      "brand": "Generic",
+      "price": 12.99,
+      "salesParent": 32,
+      "revenue": 415.68,
+      "rating": 4.5,
+      "reviews": 4
+    },
+    {
+      "rank": 4,
+      "asin": "B09HBVGP5W",
+      "title": "Thank You for Celebrating with Us Stickers, Greenery Thank You Party Favor Stickers, Baby Shower Favors, Wedding Favors, 2-inch Round Gift Label Stickers, 50-Pack",
+      "brand": "EKSPLODI",
+      "price": 5.58,
+      "salesParent": 64,
+      "revenue": 357.12,
+      "rating": 4.8,
+      "reviews": 539
+    },
+    {
+      "rank": 5,
+      "asin": "B0F3P9MT3K",
+      "title": "Baby Announcement Sign Hello World Wooden Birth Name Sign Welcome Baby Newborn Board Butterflies and White Flowers Nursery Decor for Baby Girls Boys (White Flowers)",
+      "brand": "iEvolve",
+      "price": 11.99,
+      "salesParent": 18,
+      "revenue": 215.82,
+      "rating": 4.2,
+      "reviews": 17
+    },
+    {
+      "rank": 6,
+      "asin": "B0GZTXLXRC",
+      "title": "Ouligay Wood Baby Announcement Sign, Hello World Newborn Sign, Baby Name Sign, Babies Nursery Decor Name Plaques for Hospital Newborns Show Photo Prop Newborns Souvenirs(Wavy Edge)",
+      "brand": "Ouligay",
+      "price": 5.99,
+      "salesParent": 26,
+      "revenue": 155.74,
+      "rating": 5.0,
+      "reviews": 3
+    },
+    {
+      "rank": 7,
+      "asin": "B0D2CK8N88",
+      "title": "Funny Grandpa Baby Announcement Wine Bag",
+      "brand": "FBCCZEY",
+      "price": 9.99,
+      "salesParent": 8,
+      "revenue": 79.92,
+      "rating": 4.7,
+      "reviews": 32
+    },
+    {
+      "rank": 8,
+      "asin": "B0BZSWW7ML",
+      "title": "Hello World Newborn Sign - Baby Name Birth Announcement Plaque for Hospital - Photo Prop - Nursery Decor - Shower Gift",
+      "brand": "Yippee Daisy",
+      "price": 16.49,
+      "salesParent": 0,
+      "revenue": 0.0,
+      "rating": 4.7,
+      "reviews": 205
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": null,
+    "direction": "flat",
+    "comparable": null,
+    "rawYoyPct": -39,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 3494,
+    "priorHeadRevenue": 5718,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 16,
+      "newCount": 8,
+      "pct": 57,
+      "unknownLaunch": 2,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 93,
+      "brandCount": 14,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.66,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0B7KS8YPZ",
+        "title": "HAPPYLAND Gender Reveal Decorations Sash and Tinplate Badge Mommy to Be and Daddy to Be Baby Shower",
+        "rating": 4.8,
+        "reviews": 950
+      },
+      {
+        "rank": 2,
+        "asin": "B0B48TSPNC",
+        "title": "16 Pcs Cotton Baby Belly Button Band, Newborn Infant, Belly Binder Wraps",
+        "rating": 4.3,
+        "reviews": 69
+      },
+      {
+        "rank": 3,
+        "asin": "B0H6XNSKTG",
+        "title": "Pregnancy Announcement for Aunt, Christmas Birthday Gifts for New Aunt",
+        "rating": 4.5,
+        "reviews": 4
+      },
+      {
+        "rank": 4,
+        "asin": "B09HBVGP5W",
+        "title": "Thank You for Celebrating with Us Stickers, Greenery Thank You Party Favor Stickers, Baby Shower Favors, Wedding Favors, 2-inch Round Gift Label Stickers, 50-Pack",
+        "rating": 4.8,
+        "reviews": 539
+      },
+      {
+        "rank": 5,
+        "asin": "B0F3P9MT3K",
+        "title": "Baby Announcement Sign Hello World Wooden Birth Name Sign Welcome Baby Newborn Board Butterflies and White Flowers Nursery Decor for Baby Girls Boys (White Flowers)",
+        "rating": 4.2,
+        "reviews": 17
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165796011:405369011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

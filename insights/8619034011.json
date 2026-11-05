@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "8619034011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Medical Supplies & Equipment > Health Monitors > Breathing Trainers & Monitors",
+  "categoryPathCn": "健康与家居 > 医疗用品和设备 > 健康音响 > 呼吸训练仪和监测仪",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 793516,
+    "avgRevenue": 7935,
+    "medianPrice": 28.97,
+    "priceBand": "$18.13 - $49.97",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B00FE8N7Y4",
+      "title": "THE BREATHER │ Natural Breathing Exerciser Trainer For Drug-Free Respiratory Therapy │ Breathe Easier with Stronger Lungs │ Guided Mobile Training App Included",
+      "brand": "The Breather",
+      "price": 49.95,
+      "salesParent": 2512,
+      "revenue": 125474.4,
+      "rating": 4.4,
+      "reviews": 9226
+    },
+    {
+      "rank": 2,
+      "asin": "B0CDBVBJF7",
+      "title": "Breathing Exercise Device for Lungs, Lung Exerciser Device – 5000ml Volumetric Deep Breathing Trainer with Flow Rate Indicator for Respiratory Health &amp; Recovery",
+      "brand": "TyeinGo",
+      "price": 26.99,
+      "salesParent": 3851,
+      "revenue": 103938.49,
+      "rating": 4.5,
+      "reviews": 1303
+    },
+    {
+      "rank": 3,
+      "asin": "B091L441KW",
+      "title": "Inhale Lung Trainer | Breathing Exercise Device for Lungs | Made in USA | Lung Exerciser Device | Breathing Trainer | Adjustable Resistance | Medical Grade Silicone Mouthpiece | Carrying Case included",
+      "brand": "Inhale",
+      "price": 19.99,
+      "salesParent": 1983,
+      "revenue": 37339.89,
+      "rating": 4.3,
+      "reviews": 2166
+    },
+    {
+      "rank": 4,
+      "asin": "B0BNZS9D8S",
+      "title": "AirPhysio | Drug-Free Portable Breathing Trainer Device for Lungs | Breathe Better, Improve Lung Health &amp; Mucus Clearance | Average Lung Capacity Device | Made in Australia",
+      "brand": "AirPhysio",
+      "price": 59.99,
+      "salesParent": 539,
+      "revenue": 32334.61,
+      "rating": 4.0,
+      "reviews": 1631
+    },
+    {
+      "rank": 5,
+      "asin": "B0022NI1NG",
+      "title": "Ultra Blood Pressure Lowering Device - Doctor Recommended Non-Drug Medical Device - Clinically Proven to Lower Blood Pressure Naturally - Just 15 Minutes a Day",
+      "brand": "RESPeRATE",
+      "price": 379.95,
+      "salesParent": 75,
+      "revenue": 28496.25,
+      "rating": 3.9,
+      "reviews": 646
+    },
+    {
+      "rank": 6,
+      "asin": "B0BZJLJJ6Z",
+      "title": "Flutter Valve Device for Lungs, Breathing Exercise Devicefor Lungs, Adjustable Resistance for Natural Mucus Removal, Portable Lung Exerciser Device | Breathing Trainer",
+      "brand": "TyeinGo",
+      "price": 19.99,
+      "salesParent": 1266,
+      "revenue": 24712.32,
+      "rating": 4.4,
+      "reviews": 1273
+    },
+    {
+      "rank": 7,
+      "asin": "B09SH6X7J6",
+      "title": "EXPAND-A-LUNG | Breathing Exercise Fitness Trainer | Inspiratory Muscle Strength Tool | Breathe Easier with Stronger Lungs | Dual-Way Inhale-Exhale Adjustable Resistance Settings",
+      "brand": "Expand-A-Lung",
+      "price": 9.99,
+      "salesParent": 2146,
+      "revenue": 21438.54,
+      "rating": 4.2,
+      "reviews": 2596
+    },
+    {
+      "rank": 8,
+      "asin": "B0GYX64PJK",
+      "title": "Breathing Exercise Device for Lungs, Deep Breathing Trainer with Flow, Design for Gentle Breathing Training &amp; Recovery Support, Easy to Clean",
+      "brand": "NebuAksol",
+      "price": 28.99,
+      "salesParent": 767,
+      "revenue": 21253.57,
+      "rating": 4.2,
+      "reviews": 52
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -10,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -10,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 793516,
+    "priorHeadRevenue": 882438,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 51,
+      "pct": 51,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 51,
+      "brandCount": 68,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.14,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B00FE8N7Y4",
+        "title": "THE BREATHER │ Natural Breathing Exerciser Trainer For Drug-Free Respiratory Therapy │ Breathe Easier with Stronger Lungs │ Guided Mobile Training App Included",
+        "rating": 4.4,
+        "reviews": 9226
+      },
+      {
+        "rank": 2,
+        "asin": "B0CDBVBJF7",
+        "title": "Breathing Exercise Device for Lungs, Lung Exerciser Device – 5000ml Volumetric Deep Breathing Trainer with Flow Rate Indicator for Respiratory Health &amp; Recovery",
+        "rating": 4.5,
+        "reviews": 1303
+      },
+      {
+        "rank": 3,
+        "asin": "B091L441KW",
+        "title": "Inhale Lung Trainer | Breathing Exercise Device for Lungs | Made in USA | Lung Exerciser Device | Breathing Trainer | Adjustable Resistance | Medical Grade Silicone Mouthpiece | Carrying Case included",
+        "rating": 4.3,
+        "reviews": 2166
+      },
+      {
+        "rank": 4,
+        "asin": "B0BNZS9D8S",
+        "title": "AirPhysio | Drug-Free Portable Breathing Trainer Device for Lungs | Breathe Better, Improve Lung Health &amp; Mucus Clearance | Average Lung Capacity Device | Made in Australia",
+        "rating": 4.0,
+        "reviews": 1631
+      },
+      {
+        "rank": 5,
+        "asin": "B0022NI1NG",
+        "title": "Ultra Blood Pressure Lowering Device - Doctor Recommended Non-Drug Medical Device - Clinically Proven to Lower Blood Pressure Naturally - Just 15 Minutes a Day",
+        "rating": 3.9,
+        "reviews": 646
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3775161:3777131:8619034011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

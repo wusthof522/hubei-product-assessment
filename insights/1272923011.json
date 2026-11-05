@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "1272923011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Sports & Outdoor Play > Pools & Water Toys > Baby Floats",
+  "categoryPathCn": "玩具 > 体育 > 游泳池 > 婴儿漂浮物",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 92,
+    "totalRevenue": 677476,
+    "avgRevenue": 7364,
+    "medianPrice": 28.99,
+    "priceBand": "$22.38 - $73.73",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0BRV88TXF",
+      "title": "EZIGO Baby Pool Float Canopy UPF50+, Kids Floats for 6-36 Months Boys Girls",
+      "brand": "EZIGO",
+      "price": 28.99,
+      "salesParent": 2260,
+      "revenue": 68862.2,
+      "rating": 4.6,
+      "reviews": 2016
+    },
+    {
+      "rank": 2,
+      "asin": "B082SN57Q6",
+      "title": "Mambobaby Float with Canopy, UPF 50+ Baby Swim Float",
+      "brand": "HECCEI",
+      "price": 59.99,
+      "salesParent": 759,
+      "revenue": 45532.41,
+      "rating": 4.6,
+      "reviews": 4008
+    },
+    {
+      "rank": 3,
+      "asin": "B09QLR9HKM",
+      "title": "Baby Pool Float with Canopy UPF50+, 120°Adjustable Sun Protection and Anti-Tip Safety Seat, Inflatable Toddler Floaties Infant Pool Float with Animal Pool Toys, Baby Beach Essentials for 6-36M",
+      "brand": "LAYCOL",
+      "price": 32.99,
+      "salesParent": 928,
+      "revenue": 30011.52,
+      "rating": 4.5,
+      "reviews": 2525
+    },
+    {
+      "rank": 4,
+      "asin": "B083W788TN",
+      "title": "Baby Pool Float with Canopy UPF50+, 5 Point Safety Buckle for 3-36M",
+      "brand": "LAYCOL",
+      "price": 24.99,
+      "salesParent": 1130,
+      "revenue": 28238.7,
+      "rating": 4.4,
+      "reviews": 19904
+    },
+    {
+      "rank": 5,
+      "asin": "B0BQHX5G98",
+      "title": "Mambobaby Baby Swim Float with Canopy Non-Inflatable Infant Pool Float with Tail Solid Skin-Friendly Material for 3-24 Months Toddler Boys Girls",
+      "brand": "GENTEACO",
+      "price": 84.99,
+      "salesParent": 300,
+      "revenue": 24852.0,
+      "rating": 4.7,
+      "reviews": 576
+    },
+    {
+      "rank": 6,
+      "asin": "B0CCW5TP1Z",
+      "title": "SwimWays Infant Spring Float with Canopy for Kids 3-9 Months",
+      "brand": "SwimWays",
+      "price": 29.99,
+      "salesParent": 645,
+      "revenue": 19343.55,
+      "rating": 4.4,
+      "reviews": 333
+    },
+    {
+      "rank": 7,
+      "asin": "B0CRHHLWXD",
+      "title": "Mambobaby Baby Float with Canopy &amp; Tail Non-Inflatable Baby Swim Float Upgrade Soft Infant Pool Float Sun Protection Newborn Pool Float 3-24 Months Skin-Friendly Material for Toddler Boys Girls",
+      "brand": "28°C",
+      "price": 99.99,
+      "salesParent": 143,
+      "revenue": 15938.78,
+      "rating": 4.5,
+      "reviews": 301
+    },
+    {
+      "rank": 8,
+      "asin": "B0BPHNR6DC",
+      "title": "Baby Pool Float with Canopy Upf50+ Sun Protection, Baby Swimming Float",
+      "brand": "GLOPUS",
+      "price": 25.99,
+      "salesParent": 554,
+      "revenue": 14398.46,
+      "rating": 4.7,
+      "reviews": 869
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -8,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -8,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 677476,
+    "priorHeadRevenue": 733496,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 92,
+      "newCount": 22,
+      "pct": 24,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 45,
+      "brandCount": 53,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.46,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0BRV88TXF",
+        "title": "EZIGO Baby Pool Float Canopy UPF50+, Kids Floats for 6-36 Months Boys Girls",
+        "rating": 4.6,
+        "reviews": 2016
+      },
+      {
+        "rank": 2,
+        "asin": "B082SN57Q6",
+        "title": "Mambobaby Float with Canopy, UPF 50+ Baby Swim Float",
+        "rating": 4.6,
+        "reviews": 4008
+      },
+      {
+        "rank": 3,
+        "asin": "B09QLR9HKM",
+        "title": "Baby Pool Float with Canopy UPF50+, 120°Adjustable Sun Protection and Anti-Tip Safety Seat, Inflatable Toddler Floaties Infant Pool Float with Animal Pool Toys, Baby Beach Essentials for 6-36M",
+        "rating": 4.5,
+        "reviews": 2525
+      },
+      {
+        "rank": 4,
+        "asin": "B083W788TN",
+        "title": "Baby Pool Float with Canopy UPF50+, 5 Point Safety Buckle for 3-36M",
+        "rating": 4.4,
+        "reviews": 19904
+      },
+      {
+        "rank": 5,
+        "asin": "B0BQHX5G98",
+        "title": "Mambobaby Baby Swim Float with Canopy Non-Inflatable Infant Pool Float with Tail Solid Skin-Friendly Material for 3-24 Months Toddler Boys Girls",
+        "rating": 4.7,
+        "reviews": 576
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166420011:166437011:1272923011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

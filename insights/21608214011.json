@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "21608214011",
+  "level": "L2",
+  "categoryPathEn": "Electronics > Household Batteries, Chargers & Accessories",
+  "categoryPathCn": "电子产品 > 家用电池、充电器",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 455031,
+    "avgRevenue": 4550,
+    "medianPrice": 29.49,
+    "priceBand": "$14.24 - $49.95",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0DD7M5SGR",
+      "title": "3300mAh Universal Battery Pack for Reclining Furniture",
+      "brand": "MineCtrl",
+      "price": 89.99,
+      "salesParent": 626,
+      "revenue": 53028.46,
+      "rating": 4.0,
+      "reviews": 495
+    },
+    {
+      "rank": 2,
+      "asin": "B07DPLD6KB",
+      "title": "Battery Tester for AA AAA C D 9V, Button Cell &amp; Household Batteries",
+      "brand": "DLYFULL",
+      "price": 18.99,
+      "salesParent": 2583,
+      "revenue": 49051.17,
+      "rating": 4.5,
+      "reviews": 12436
+    },
+    {
+      "rank": 3,
+      "asin": "B0BVKW546T",
+      "title": "PowerA Play &amp; Charge Kit for Xbox Series X|S and Xbox One - Green",
+      "brand": "PowerA",
+      "price": 14.99,
+      "salesParent": 1647,
+      "revenue": 24688.53,
+      "rating": 4.6,
+      "reviews": 2869
+    },
+    {
+      "rank": 4,
+      "asin": "B08H7585P4",
+      "title": "Battery Tester for AA AAA C D 9V 1.5V/3V Button, Batteries Checker",
+      "brand": "DLYFULL",
+      "price": 20.99,
+      "salesParent": 957,
+      "revenue": 20087.43,
+      "rating": 4.6,
+      "reviews": 2970
+    },
+    {
+      "rank": 5,
+      "asin": "B01MYPSDUX",
+      "title": "CHROME IBT 12V SLA Intelligent Battery Tester by ACT Meters by ACT Meters",
+      "brand": "ACT Meters",
+      "price": 385.0,
+      "salesParent": 37,
+      "revenue": 14245.0,
+      "rating": 4.5,
+      "reviews": 49
+    },
+    {
+      "rank": 6,
+      "asin": "B09RY58YJ5",
+      "title": "La Crosse 911-65557-INT Portable Digital Battery Tester,Black",
+      "brand": "La Crosse Technology",
+      "price": 15.99,
+      "salesParent": 852,
+      "revenue": 13623.0,
+      "rating": 4.6,
+      "reviews": 1395
+    },
+    {
+      "rank": 7,
+      "asin": "B0HDCPK9Q6",
+      "title": "Upgraded 12.0Ah 2Pack Battery &amp; Charger for 20V/60V Max NIMH Battery",
+      "brand": "kaejil",
+      "price": 159.98,
+      "salesParent": 98,
+      "revenue": 13028.12,
+      "rating": 3.5,
+      "reviews": 3
+    },
+    {
+      "rank": 8,
+      "asin": "B0DJ369JZW",
+      "title": "54.6V 3A / 5A Super Fast Charger for 48V Lithium Battery,No Adapter,7 Types of Plugs to Choose from, More Secure.Compatible with Most Plugs. with Cooling System (Cannon/XLR plug-3A)",
+      "brand": "XIUWK",
+      "price": 28.99,
+      "salesParent": 443,
+      "revenue": 12842.57,
+      "rating": 4.4,
+      "reviews": 33
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -35,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -35,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 455031,
+    "priorHeadRevenue": 697004,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 41,
+      "pct": 41,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 45,
+      "brandCount": 80,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.39,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0DD7M5SGR",
+        "title": "3300mAh Universal Battery Pack for Reclining Furniture",
+        "rating": 4.0,
+        "reviews": 495
+      },
+      {
+        "rank": 2,
+        "asin": "B07DPLD6KB",
+        "title": "Battery Tester for AA AAA C D 9V, Button Cell &amp; Household Batteries",
+        "rating": 4.5,
+        "reviews": 12436
+      },
+      {
+        "rank": 3,
+        "asin": "B0BVKW546T",
+        "title": "PowerA Play &amp; Charge Kit for Xbox Series X|S and Xbox One - Green",
+        "rating": 4.6,
+        "reviews": 2869
+      },
+      {
+        "rank": 4,
+        "asin": "B08H7585P4",
+        "title": "Battery Tester for AA AAA C D 9V 1.5V/3V Button, Batteries Checker",
+        "rating": 4.6,
+        "reviews": 2970
+      },
+      {
+        "rank": 5,
+        "asin": "B01MYPSDUX",
+        "title": "CHROME IBT 12V SLA Intelligent Battery Tester by ACT Meters by ACT Meters",
+        "rating": 4.5,
+        "reviews": 49
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "172282:21608214011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

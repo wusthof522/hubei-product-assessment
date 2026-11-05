@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "2528104011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Sports & Outdoor Play > Pogo Sticks & Hoppers > Pogo Sticks",
+  "categoryPathCn": "玩具 > 体育 > 滑翔机杆 > 滑翔机杆",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 78,
+    "totalRevenue": 704463,
+    "avgRevenue": 9032,
+    "medianPrice": 39.99,
+    "priceBand": "$22.99 - $63.17",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B00WTDXSDM",
+      "title": "Flybar My First Foam Pogo Jumper for Kids Fun and Safe Pogo Stick, Durable Foam and Bungee Jumper for Ages 3 and up Toddler Toys, Supports up to 250lbs (Blue)",
+      "brand": "Flybar",
+      "price": 13.99,
+      "salesParent": 13249,
+      "revenue": 189858.17,
+      "rating": 4.3,
+      "reviews": 51186
+    },
+    {
+      "rank": 2,
+      "asin": "B0017W5ZMS",
+      "title": "Flybar Master Pogo Stick for Kids Ages 9+, 80–160 lbs – Easy Grip Handles – Active Exercise Toy for Tweens &amp; Teens – Outdoor Toy with Non-Slip Foot Pegs for Boys and Girls – No Assembly Needed",
+      "brand": "Flybar",
+      "price": 49.99,
+      "salesParent": 2369,
+      "revenue": 118426.31,
+      "rating": 4.6,
+      "reviews": 9151
+    },
+    {
+      "rank": 3,
+      "asin": "B071KD1W2C",
+      "title": "Flybar Pogo Trick Ball for Kids, Indoor &amp; Outdoor Balance Bounce Board Toy",
+      "brand": "Flybar",
+      "price": 23.99,
+      "salesParent": 4776,
+      "revenue": 114576.24,
+      "rating": 4.3,
+      "reviews": 6528
+    },
+    {
+      "rank": 4,
+      "asin": "B00004YRPF",
+      "title": "Flybar Maverick Foam Pogo Stick for Kids Age 5 and Up, 40 to 80 Pounds, Pogo Stick for Boys and Girls (Red/Blue)",
+      "brand": "Flybar",
+      "price": 39.99,
+      "salesParent": 1812,
+      "revenue": 72461.88,
+      "rating": 4.5,
+      "reviews": 6272
+    },
+    {
+      "rank": 5,
+      "asin": "B0C87P7KB7",
+      "title": "Flybar Jolt Pogo Stick for Kids, Perfect for Beginners w/Foam-Covered Metal Frame, Handles &amp; Padding, Non-Slip Foot Pads, Wide Tip, Outdoor Active Play Toy for Boys &amp; Girls, Ages 6+, Geo",
+      "brand": "Flybar",
+      "price": 39.99,
+      "salesParent": 1096,
+      "revenue": 43829.04,
+      "rating": 4.6,
+      "reviews": 1736
+    },
+    {
+      "rank": 6,
+      "asin": "B073VS3BY6",
+      "title": "New Bounce Pogo Stick for Kids - Pogo Sticks for Ages 9 and Up, 80 to 160 Lbs - Pro Sport Edition, Quality, Easy Grip, PogoStick for Hours of Wholesome Fun",
+      "brand": "New Bounce",
+      "price": 62.99,
+      "salesParent": 318,
+      "revenue": 20030.82,
+      "rating": 4.6,
+      "reviews": 3107
+    },
+    {
+      "rank": 7,
+      "asin": "B00005B60A",
+      "title": "Flybar Super Pogo Stick for Kids &amp; Adults 14+ – Strong Spring for Tricks &amp; High Jumping – Steel Frame with Reinforced Foot Pegs – Classic Trick Pogo Stick for Beginners &amp; Pros – Supports 120-210 lbs",
+      "brand": "Flybar",
+      "price": 129.99,
+      "salesParent": 153,
+      "revenue": 19888.47,
+      "rating": 4.4,
+      "reviews": 631
+    },
+    {
+      "rank": 8,
+      "asin": "B077J5K21M",
+      "title": "New Bounce Pogo Stick for Kids, 40-80 Lbs",
+      "brand": "New Bounce",
+      "price": 49.99,
+      "salesParent": 342,
+      "revenue": 17096.58,
+      "rating": 4.6,
+      "reviews": 3252
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 2,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 2,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 704463,
+    "priorHeadRevenue": 689541,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 78,
+      "newCount": 30,
+      "pct": 38,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 92,
+      "brandCount": 39,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.2,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B00WTDXSDM",
+        "title": "Flybar My First Foam Pogo Jumper for Kids Fun and Safe Pogo Stick, Durable Foam and Bungee Jumper for Ages 3 and up Toddler Toys, Supports up to 250lbs (Blue)",
+        "rating": 4.3,
+        "reviews": 51186
+      },
+      {
+        "rank": 2,
+        "asin": "B0017W5ZMS",
+        "title": "Flybar Master Pogo Stick for Kids Ages 9+, 80–160 lbs – Easy Grip Handles – Active Exercise Toy for Tweens &amp; Teens – Outdoor Toy with Non-Slip Foot Pegs for Boys and Girls – No Assembly Needed",
+        "rating": 4.6,
+        "reviews": 9151
+      },
+      {
+        "rank": 3,
+        "asin": "B071KD1W2C",
+        "title": "Flybar Pogo Trick Ball for Kids, Indoor &amp; Outdoor Balance Bounce Board Toy",
+        "rating": 4.3,
+        "reviews": 6528
+      },
+      {
+        "rank": 4,
+        "asin": "B00004YRPF",
+        "title": "Flybar Maverick Foam Pogo Stick for Kids Age 5 and Up, 40 to 80 Pounds, Pogo Stick for Boys and Girls (Red/Blue)",
+        "rating": 4.5,
+        "reviews": 6272
+      },
+      {
+        "rank": 5,
+        "asin": "B0C87P7KB7",
+        "title": "Flybar Jolt Pogo Stick for Kids, Perfect for Beginners w/Foam-Covered Metal Frame, Handles &amp; Padding, Non-Slip Foot Pads, Wide Tip, Outdoor Active Play Toy for Boys &amp; Girls, Ages 6+, Geo",
+        "rating": 4.6,
+        "reviews": 1736
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166420011:166436011:2528104011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

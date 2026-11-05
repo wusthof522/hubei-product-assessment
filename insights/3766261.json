@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3766261",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins, Minerals & Supplements > Herbal Supplements > Muira Puama",
+  "categoryPathCn": "健康与家居 > 身、泳和附剂 > 草本补充 > 巴西榥榥木",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "insufficient",
+  "marketSize": {
+    "sampleCount": 12,
+    "totalRevenue": 110878,
+    "avgRevenue": 9240,
+    "medianPrice": 21.49,
+    "priceBand": "$9.99 - $28.98",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0F43TCK2T",
+      "title": "Shilajit Capsules with Organic Irish Sea Moss &amp; Tongkat Ali for Men &amp; Women",
+      "brand": "Etta Vita",
+      "price": 29.99,
+      "salesParent": 1401,
+      "revenue": 43038.72,
+      "rating": 4.5,
+      "reviews": 303
+    },
+    {
+      "rank": 2,
+      "asin": "B0CNXZFT6Y",
+      "title": "Sea Moss Capsules with Burdock Root, Bladderwrack &amp; Muira Puama, for Women and Men, Vegan, Sugar Free, Non-GMO, 120 Capsules",
+      "brand": "Secret Element",
+      "price": 25.97,
+      "salesParent": 1401,
+      "revenue": 36383.97,
+      "rating": 4.5,
+      "reviews": 1957
+    },
+    {
+      "rank": 3,
+      "asin": "B0H3CRY6L6",
+      "title": "Beef Organ Supplement for Women, 11-in-1 Grass-Fed with Liver &amp; Muira Puama",
+      "brand": "Plus+Ultra",
+      "price": 20.99,
+      "salesParent": 689,
+      "revenue": 14448.33,
+      "rating": 4.5,
+      "reviews": 40
+    },
+    {
+      "rank": 4,
+      "asin": "B083JL7B6N",
+      "title": "Horbäach Muira Puama Root Extract | 90 Capsules",
+      "brand": "Horbäach",
+      "price": 9.89,
+      "salesParent": 598,
+      "revenue": 5920.2,
+      "rating": 4.3,
+      "reviews": 827
+    },
+    {
+      "rank": 5,
+      "asin": "B09F3YDNRX",
+      "title": "G-Curve with Muira Puama - Weight Gainer for Women Pills - 60 Count",
+      "brand": "Natures Craft",
+      "price": 9.99,
+      "salesParent": 470,
+      "revenue": 5231.1,
+      "rating": 4.0,
+      "reviews": 2152
+    },
+    {
+      "rank": 6,
+      "asin": "B0FKNSBBXJ",
+      "title": "Nutricost Muira Puama Extract 120 Capsules for 60 Servings Per Bottle",
+      "brand": "Nutricost",
+      "price": 9.97,
+      "salesParent": 272,
+      "revenue": 2711.84,
+      "rating": 4.4,
+      "reviews": 87
+    },
+    {
+      "rank": 7,
+      "asin": "B084JR5729",
+      "title": "T-Enhance Testosterone Booster for Men with Horny Goat Weed - 60 Count",
+      "brand": "Natures Craft",
+      "price": 9.99,
+      "salesParent": 145,
+      "revenue": 1448.55,
+      "rating": 4.1,
+      "reviews": 2164
+    },
+    {
+      "rank": 8,
+      "asin": "B0FXM8R14Z",
+      "title": "Irwin Naturals Potency Wood Primal-Male Vitality with Longjack +",
+      "brand": "Irwin Naturals",
+      "price": 21.99,
+      "salesParent": 44,
+      "revenue": 967.56,
+      "rating": 5.0,
+      "reviews": 1
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": null,
+    "direction": "flat",
+    "comparable": null,
+    "rawYoyPct": 10,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 110878,
+    "priorHeadRevenue": 101018,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 12,
+      "newCount": 5,
+      "pct": 42,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 97,
+      "brandCount": 9,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.33,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0F43TCK2T",
+        "title": "Shilajit Capsules with Organic Irish Sea Moss &amp; Tongkat Ali for Men &amp; Women",
+        "rating": 4.5,
+        "reviews": 303
+      },
+      {
+        "rank": 2,
+        "asin": "B0CNXZFT6Y",
+        "title": "Sea Moss Capsules with Burdock Root, Bladderwrack &amp; Muira Puama, for Women and Men, Vegan, Sugar Free, Non-GMO, 120 Capsules",
+        "rating": 4.5,
+        "reviews": 1957
+      },
+      {
+        "rank": 3,
+        "asin": "B0H3CRY6L6",
+        "title": "Beef Organ Supplement for Women, 11-in-1 Grass-Fed with Liver &amp; Muira Puama",
+        "rating": 4.5,
+        "reviews": 40
+      },
+      {
+        "rank": 4,
+        "asin": "B083JL7B6N",
+        "title": "Horbäach Muira Puama Root Extract | 90 Capsules",
+        "rating": 4.3,
+        "reviews": 827
+      },
+      {
+        "rank": 5,
+        "asin": "B09F3YDNRX",
+        "title": "G-Curve with Muira Puama - Weight Gainer for Women Pills - 60 Count",
+        "rating": 4.0,
+        "reviews": 2152
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:23675621011:3764461:3766261",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

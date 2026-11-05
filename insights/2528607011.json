@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "2528607011",
+  "level": "L4",
+  "categoryPathEn": "Home & Kitchen > Furniture > Kids' Furniture > Chests & Trunks",
+  "categoryPathCn": "家居用品 > 家具 > 儿童家具 > 儿童玩具收纳箱",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 97,
+    "totalRevenue": 973946,
+    "avgRevenue": 10041,
+    "medianPrice": 29.99,
+    "priceBand": "$17.96 - $57.86",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0DNDQY4V5",
+      "title": "Woodure Stuffed Animal Storage &amp; Organizer, Wooden Toy Holder Zoo for Kids",
+      "brand": "Woodure",
+      "price": 39.99,
+      "salesParent": 9445,
+      "revenue": 357493.25,
+      "rating": 4.7,
+      "reviews": 1543
+    },
+    {
+      "rank": 2,
+      "asin": "B071YMTCF8",
+      "title": "Melissa &amp; Doug Wooden Toy Chest White Furniture Organizer",
+      "brand": "Melissa &amp; Doug",
+      "price": 131.13,
+      "salesParent": 673,
+      "revenue": 82227.14,
+      "rating": 4.6,
+      "reviews": 6579
+    },
+    {
+      "rank": 3,
+      "asin": "B0GH629J2B",
+      "title": "Stuffed Animal Storage, 54&quot; Toy Organizer Tower, Anti-Tip Design",
+      "brand": "MIRCNY",
+      "price": 39.99,
+      "salesParent": 2125,
+      "revenue": 75480.0,
+      "rating": 4.7,
+      "reviews": 240
+    },
+    {
+      "rank": 4,
+      "asin": "B0CQTSKXTB",
+      "title": "Teacher Created Resources Treasure Chest with Lock and Key (TCR6054)",
+      "brand": "Teacher Created Resources",
+      "price": 29.99,
+      "salesParent": 2020,
+      "revenue": 65326.8,
+      "rating": 4.1,
+      "reviews": 158
+    },
+    {
+      "rank": 5,
+      "asin": "B0F3X6HBTW",
+      "title": "Stuffed Animal Storage Hammock Net for Plushie - Large Corner Toy Hammock Net for Plush Stuffed Animals - Cute Stuff Animal Organizer Holder for Room Decor - Kids Baby Nursery Wall Bedroom Home Decor",
+      "brand": "TCGPRO",
+      "price": 6.98,
+      "salesParent": 7552,
+      "revenue": 52788.48,
+      "rating": 4.4,
+      "reviews": 1425
+    },
+    {
+      "rank": 6,
+      "asin": "B0FFGPNDF9",
+      "title": "COSYLAND Stuffed Animal Storage Plushies Organizer for Kids Room",
+      "brand": "COSYLAND",
+      "price": 39.99,
+      "salesParent": 925,
+      "revenue": 29942.25,
+      "rating": 4.6,
+      "reviews": 131
+    },
+    {
+      "rank": 7,
+      "asin": "B0FQPC4PS9",
+      "title": "Harry Potter Hogwarts School Trunk, 17.5&quot; Decorative Storage Chest",
+      "brand": "Harry Potter",
+      "price": 100.0,
+      "salesParent": 270,
+      "revenue": 25893.0,
+      "rating": 4.7,
+      "reviews": 124
+    },
+    {
+      "rank": 8,
+      "asin": "B0DSGYMH67",
+      "title": "Mloong Stuffed Animal Zoo Storage, Pink Wood Stuffed Animal, Gift for Nursery Playroom Kidroom Bedroom (54inch)",
+      "brand": "mloong",
+      "price": 49.99,
+      "salesParent": 450,
+      "revenue": 22495.5,
+      "rating": 4.6,
+      "reviews": 517
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": null,
+    "direction": "flat",
+    "comparable": false,
+    "rawYoyPct": 285,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 973946,
+    "priorHeadRevenue": 252871,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 97,
+      "newCount": 45,
+      "pct": 46,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 66,
+      "brandCount": 74,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.46,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0DNDQY4V5",
+        "title": "Woodure Stuffed Animal Storage &amp; Organizer, Wooden Toy Holder Zoo for Kids",
+        "rating": 4.7,
+        "reviews": 1543
+      },
+      {
+        "rank": 2,
+        "asin": "B071YMTCF8",
+        "title": "Melissa &amp; Doug Wooden Toy Chest White Furniture Organizer",
+        "rating": 4.6,
+        "reviews": 6579
+      },
+      {
+        "rank": 3,
+        "asin": "B0GH629J2B",
+        "title": "Stuffed Animal Storage, 54&quot; Toy Organizer Tower, Anti-Tip Design",
+        "rating": 4.7,
+        "reviews": 240
+      },
+      {
+        "rank": 4,
+        "asin": "B0CQTSKXTB",
+        "title": "Teacher Created Resources Treasure Chest with Lock and Key (TCR6054)",
+        "rating": 4.1,
+        "reviews": 158
+      },
+      {
+        "rank": 5,
+        "asin": "B0F3X6HBTW",
+        "title": "Stuffed Animal Storage Hammock Net for Plushie - Large Corner Toy Hammock Net for Plush Stuffed Animals - Cute Stuff Animal Organizer Holder for Room Decor - Kids Baby Nursery Wall Bedroom Home Decor",
+        "rating": 4.4,
+        "reviews": 1425
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "1055398:1063306:1063314:2528607011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

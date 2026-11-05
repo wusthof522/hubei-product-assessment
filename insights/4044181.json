@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "4044181",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vision > Contact Lens Care > Rewetting Drops",
+  "categoryPathCn": "健康与家居 > 眼睛护理 > 隐形眼镜配件 > 润眼液",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 54,
+    "totalRevenue": 422084,
+    "avgRevenue": 7816,
+    "medianPrice": 23.01,
+    "priceBand": "$15.36 - $35.04",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B004L0PYXI",
+      "title": "Blink Contacts Lubricating Eye Drops Hyaluronate for Contacts, 0.34 Fl Oz",
+      "brand": "BLINK",
+      "price": 7.48,
+      "salesParent": 23721,
+      "revenue": 236735.56,
+      "rating": 4.8,
+      "reviews": 4977
+    },
+    {
+      "rank": 2,
+      "asin": "B0000537AJ",
+      "title": "REFRESH CONTACTS Contact Lens Comfort Drops Artificial Tears Contact Lens Rewetter, 0.4 fl oz (12 mL)",
+      "brand": "Refresh",
+      "price": 11.22,
+      "salesParent": 10566,
+      "revenue": 97207.2,
+      "rating": 4.8,
+      "reviews": 10597
+    },
+    {
+      "rank": 3,
+      "asin": "B0FGZH7F57",
+      "title": "BLINK Contacts Lubricating Eye Drops Moisturizing &amp; Soothing for Soft &amp; RGP Contact Lenses,0.34 Fl Oz N-Clean Contact Lens Drop, Rewetting Drops for Soft &amp; RGP Contact Lenses, 0.5 Fl Oz",
+      "brand": "Blink",
+      "price": 15.75,
+      "salesParent": 2021,
+      "revenue": 31830.75,
+      "rating": 4.8,
+      "reviews": 45
+    },
+    {
+      "rank": 4,
+      "asin": "B00078XIPE",
+      "title": "Renu Lubricant Rewetting Eye Drops for Contact Lenses, 0.27 Fl Oz",
+      "brand": "Renu",
+      "price": 8.57,
+      "salesParent": 1634,
+      "revenue": 14853.06,
+      "rating": 4.7,
+      "reviews": 6304
+    },
+    {
+      "rank": 5,
+      "asin": "B00KOD4JOG",
+      "title": "Bausch + Lomb Blink N Clean Dry Contacts, Lens Drops, 0.5 Fl Oz",
+      "brand": "Bausch + Lomb",
+      "price": 14.68,
+      "salesParent": 522,
+      "revenue": 7772.58,
+      "rating": 4.8,
+      "reviews": 121
+    },
+    {
+      "rank": 6,
+      "asin": "B005HAP92W",
+      "title": "REFRESH Contacts Contact Lens Comfort Moisture Drops 0.40 oz (Pack of 2)",
+      "brand": "Allergan",
+      "price": 19.99,
+      "salesParent": 338,
+      "revenue": 6317.22,
+      "rating": 4.8,
+      "reviews": 398
+    },
+    {
+      "rank": 7,
+      "asin": "B003LZOHNW",
+      "title": "Refresh Contacts, Lubricant Eye Drops, Contact Lens Comfort, 0.4 Fl Oz Sterile - 5 Pack",
+      "brand": "HGFLMR",
+      "price": 38.3,
+      "salesParent": 128,
+      "revenue": 4506.88,
+      "rating": 4.6,
+      "reviews": 187
+    },
+    {
+      "rank": 8,
+      "asin": "B001ET770C",
+      "title": "Eye Drops by Renu, for Redness Relief and Dry Eyes, Lubricating and Rewetting Drops, 8 mL, (Pack of 4)",
+      "brand": "Renu",
+      "price": 21.46,
+      "salesParent": 175,
+      "revenue": 3732.75,
+      "rating": 4.4,
+      "reviews": 201
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 29,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 29,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 422084,
+    "priorHeadRevenue": 328424,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 54,
+      "newCount": 2,
+      "pct": 4,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 95,
+      "brandCount": 21,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.62,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B004L0PYXI",
+        "title": "Blink Contacts Lubricating Eye Drops Hyaluronate for Contacts, 0.34 Fl Oz",
+        "rating": 4.8,
+        "reviews": 4977
+      },
+      {
+        "rank": 2,
+        "asin": "B0000537AJ",
+        "title": "REFRESH CONTACTS Contact Lens Comfort Drops Artificial Tears Contact Lens Rewetter, 0.4 fl oz (12 mL)",
+        "rating": 4.8,
+        "reviews": 10597
+      },
+      {
+        "rank": 3,
+        "asin": "B0FGZH7F57",
+        "title": "BLINK Contacts Lubricating Eye Drops Moisturizing &amp; Soothing for Soft &amp; RGP Contact Lenses,0.34 Fl Oz N-Clean Contact Lens Drop, Rewetting Drops for Soft &amp; RGP Contact Lenses, 0.5 Fl Oz",
+        "rating": 4.8,
+        "reviews": 45
+      },
+      {
+        "rank": 4,
+        "asin": "B00078XIPE",
+        "title": "Renu Lubricant Rewetting Eye Drops for Contact Lenses, 0.27 Fl Oz",
+        "rating": 4.7,
+        "reviews": 6304
+      },
+      {
+        "rank": 5,
+        "asin": "B00KOD4JOG",
+        "title": "Bausch + Lomb Blink N Clean Dry Contacts, Lens Drops, 0.5 Fl Oz",
+        "rating": 4.8,
+        "reviews": 121
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:10079994011:3779701:4044181",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

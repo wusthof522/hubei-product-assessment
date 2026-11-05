@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "10342348011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Household Supplies > Lighters & Matches > Butane Fuel",
+  "categoryPathCn": "健康与家居 > 家居用品 > 打火机和火柴 > 打火机气体",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 97,
+    "totalRevenue": 1373188,
+    "avgRevenue": 14157,
+    "medianPrice": 21.99,
+    "priceBand": "$13.12 - $37.49",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B07J2NFW3M",
+      "title": "Zippo Butane Fuel Refill – Premium High-Purity for Lighters, Torches &amp; Inserts – Clean Burning, Consistent Flame, Reliable Performance, Made in USA, 75ml 2-Pack",
+      "brand": "Zippo",
+      "price": 9.99,
+      "salesParent": 22260,
+      "revenue": 254209.2,
+      "rating": 4.6,
+      "reviews": 118233
+    },
+    {
+      "rank": 2,
+      "asin": "B007OWQCOA",
+      "title": "Ronson Butane Fuel Refill 75ml – Pack of 2 – Universal Lighter Fluid Refill for Torch, Kitchen, and Utility Lighters – Clean Burning Butane Gas for Refillable Lighters",
+      "brand": "Ronson",
+      "price": 8.99,
+      "salesParent": 19168,
+      "revenue": 165419.84,
+      "rating": 4.6,
+      "reviews": 22025
+    },
+    {
+      "rank": 3,
+      "asin": "B0DJTHMCY8",
+      "title": "ZeroR® Butane Fuel Refill for Torch Lighters 315ml - Food-Safe &amp; Triple-Filtered for Clean Burn - 100% Pure, Iso-Butane Refill for Torches, Kitchen &amp; Refillable Lighters - 10.67 fl oz, 1 Can",
+      "brand": "ZeroR",
+      "price": 15.99,
+      "salesParent": 7047,
+      "revenue": 112681.53,
+      "rating": 4.6,
+      "reviews": 1427
+    },
+    {
+      "rank": 4,
+      "asin": "B0DL6GZ8H2",
+      "title": "Xikar PUROFINE Butane Fuel Refill 100ml (3.38 fl oz) Canisters - 2 Pack",
+      "brand": "Xikar",
+      "price": 16.99,
+      "salesParent": 6349,
+      "revenue": 107869.51,
+      "rating": 4.6,
+      "reviews": 2185
+    },
+    {
+      "rank": 5,
+      "asin": "B07V5PDVC3",
+      "title": "Colibri Premium Butane Fuel - Torch Replacement Canisters, 99.999% Pure Refill Fluid, 90ml (3.04fl oz) Cans, Pack of 2",
+      "brand": "Colibri",
+      "price": 15.99,
+      "salesParent": 5124,
+      "revenue": 81932.76,
+      "rating": 4.6,
+      "reviews": 1712
+    },
+    {
+      "rank": 6,
+      "asin": "B0DX22V9NS",
+      "title": "Jo Chef Butane Refill, Universal Butane Fuel for Kitchen Torch Lighters",
+      "brand": "Jo Chef",
+      "price": 19.98,
+      "salesParent": 3540,
+      "revenue": 69915.0,
+      "rating": 4.6,
+      "reviews": 5199
+    },
+    {
+      "rank": 7,
+      "asin": "B0FHV6ZP18",
+      "title": "NEON 11X Ultra Refined Butane Refill Lighter Fluid | 300ml, 2 Cans",
+      "brand": "NEON",
+      "price": 21.99,
+      "salesParent": 2440,
+      "revenue": 53216.4,
+      "rating": 4.5,
+      "reviews": 1741
+    },
+    {
+      "rank": 8,
+      "asin": "B0DYDV3TBS",
+      "title": "TBTeek Butane Fuel Refill, 5 Nozzle Adapters for Torch Lighter,100ml(1Can)",
+      "brand": "TBTeek",
+      "price": 14.99,
+      "salesParent": 2157,
+      "revenue": 32333.43,
+      "rating": 4.6,
+      "reviews": 711
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 20,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 20,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1373188,
+    "priorHeadRevenue": 1141788,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 97,
+      "newCount": 21,
+      "pct": 22,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 62,
+      "brandCount": 46,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.52,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B07J2NFW3M",
+        "title": "Zippo Butane Fuel Refill – Premium High-Purity for Lighters, Torches &amp; Inserts – Clean Burning, Consistent Flame, Reliable Performance, Made in USA, 75ml 2-Pack",
+        "rating": 4.6,
+        "reviews": 118233
+      },
+      {
+        "rank": 2,
+        "asin": "B007OWQCOA",
+        "title": "Ronson Butane Fuel Refill 75ml – Pack of 2 – Universal Lighter Fluid Refill for Torch, Kitchen, and Utility Lighters – Clean Burning Butane Gas for Refillable Lighters",
+        "rating": 4.6,
+        "reviews": 22025
+      },
+      {
+        "rank": 3,
+        "asin": "B0DJTHMCY8",
+        "title": "ZeroR® Butane Fuel Refill for Torch Lighters 315ml - Food-Safe &amp; Triple-Filtered for Clean Burn - 100% Pure, Iso-Butane Refill for Torches, Kitchen &amp; Refillable Lighters - 10.67 fl oz, 1 Can",
+        "rating": 4.6,
+        "reviews": 1427
+      },
+      {
+        "rank": 4,
+        "asin": "B0DL6GZ8H2",
+        "title": "Xikar PUROFINE Butane Fuel Refill 100ml (3.38 fl oz) Canisters - 2 Pack",
+        "rating": 4.6,
+        "reviews": 2185
+      },
+      {
+        "rank": 5,
+        "asin": "B07V5PDVC3",
+        "title": "Colibri Premium Butane Fuel - Torch Replacement Canisters, 99.999% Pure Refill Fluid, 90ml (3.04fl oz) Cans, Pack of 2",
+        "rating": 4.6,
+        "reviews": 1712
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:15342811:10342347011:10342348011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

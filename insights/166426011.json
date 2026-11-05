@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "166426011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Sports & Outdoor Play > Play Sets & Playground Equipment > Freestanding Climbers",
+  "categoryPathCn": "玩具 > 体育 > 游戏套装 > 独立式攀登器",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 96,
+    "totalRevenue": 1724798,
+    "avgRevenue": 17967,
+    "medianPrice": 169.99,
+    "priceBand": "$100.99 - $249.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0BVGHH1XP",
+      "title": "Simplay3 Two Sided Rock Around Wobble Disk and Climbing Dome for Toddlers and Kids - Rocking and Climbing - Indoor/Outdoor - Yellow/Green, Made in USA (1 Pack)",
+      "brand": "Simplay3",
+      "price": 59.99,
+      "salesParent": 2870,
+      "revenue": 172171.31,
+      "rating": 4.7,
+      "reviews": 2218
+    },
+    {
+      "rank": 2,
+      "asin": "B07PKXR9PW",
+      "title": "Step2 Woodland Climber II Kids Playset, Toddler Slide and Climbing Wall",
+      "brand": "Step2",
+      "price": 329.99,
+      "salesParent": 495,
+      "revenue": 163567.8,
+      "rating": 4.7,
+      "reviews": 1462
+    },
+    {
+      "rank": 3,
+      "asin": "B0FFMJ33QS",
+      "title": "8-in-1 Toddler Climber and Slide Playset with Basketball Hoop - Indoor/Outdoor Playground Gym Activity Center for Kids",
+      "brand": "MOCUTEEN",
+      "price": 159.99,
+      "salesParent": 780,
+      "revenue": 88389.6,
+      "rating": 4.0,
+      "reviews": 68
+    },
+    {
+      "rank": 4,
+      "asin": "B003F76PVS",
+      "title": "Step2 Clubhouse Climber Playset for Kids, Outdoor Jungle Gym with 2 Slides",
+      "brand": "Step2",
+      "price": 1129.99,
+      "salesParent": 70,
+      "revenue": 84527.1,
+      "rating": 4.6,
+      "reviews": 787
+    },
+    {
+      "rank": 5,
+      "asin": "B0CQYFT9XQ",
+      "title": "10 ft Climbing Dome Swing Set with Saucer Swing for Kids 3-12",
+      "brand": "Hapfan",
+      "price": 299.99,
+      "salesParent": 232,
+      "revenue": 69597.68,
+      "rating": 4.5,
+      "reviews": 236
+    },
+    {
+      "rank": 6,
+      "asin": "B0D2RB4SVR",
+      "title": "VEVOR Climbing Dome for Kids 3 to 10 Years Old 10FT Geometric Dome Climber",
+      "brand": "VEVOR",
+      "price": 152.0,
+      "salesParent": 327,
+      "revenue": 55867.95,
+      "rating": 4.6,
+      "reviews": 582
+    },
+    {
+      "rank": 7,
+      "asin": "B0015GMFLK",
+      "title": "Step2 Skyward Summit for Kids, Climbing Wall Playset for Toddlers, Ages 4 –8 Years Old, Easy to Assemble Kids Outdoor Playground for Backyard",
+      "brand": "Step2",
+      "price": 649.99,
+      "salesParent": 81,
+      "revenue": 53084.97,
+      "rating": 4.5,
+      "reviews": 436
+    },
+    {
+      "rank": 8,
+      "asin": "B0FYPJWQQJ",
+      "title": "6.5 FT Tall Climbing Dome with Hammock for Kids 3-12 Outdoor",
+      "brand": "Hapfan",
+      "price": 399.99,
+      "salesParent": 128,
+      "revenue": 51217.92,
+      "rating": 4.7,
+      "reviews": 98
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 6,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 6,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1724798,
+    "priorHeadRevenue": 1626519,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 96,
+      "newCount": 54,
+      "pct": 56,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 54,
+      "brandCount": 62,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.51,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0BVGHH1XP",
+        "title": "Simplay3 Two Sided Rock Around Wobble Disk and Climbing Dome for Toddlers and Kids - Rocking and Climbing - Indoor/Outdoor - Yellow/Green, Made in USA (1 Pack)",
+        "rating": 4.7,
+        "reviews": 2218
+      },
+      {
+        "rank": 2,
+        "asin": "B07PKXR9PW",
+        "title": "Step2 Woodland Climber II Kids Playset, Toddler Slide and Climbing Wall",
+        "rating": 4.7,
+        "reviews": 1462
+      },
+      {
+        "rank": 3,
+        "asin": "B0FFMJ33QS",
+        "title": "8-in-1 Toddler Climber and Slide Playset with Basketball Hoop - Indoor/Outdoor Playground Gym Activity Center for Kids",
+        "rating": 4.0,
+        "reviews": 68
+      },
+      {
+        "rank": 4,
+        "asin": "B003F76PVS",
+        "title": "Step2 Clubhouse Climber Playset for Kids, Outdoor Jungle Gym with 2 Slides",
+        "rating": 4.6,
+        "reviews": 787
+      },
+      {
+        "rank": 5,
+        "asin": "B0CQYFT9XQ",
+        "title": "10 ft Climbing Dome Swing Set with Saucer Swing for Kids 3-12",
+        "rating": 4.5,
+        "reviews": 236
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166420011:166424011:166426011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

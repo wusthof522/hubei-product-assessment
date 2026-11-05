@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3733661",
+  "level": "L4",
+  "categoryPathEn": "Home & Kitchen > Furniture > Home Office Furniture > Home Office Furniture Sets",
+  "categoryPathCn": "家居用品 > 家具 > 家庭办公家具 > 办公家具套装",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 97,
+    "totalRevenue": 741679,
+    "avgRevenue": 7646,
+    "medianPrice": 645.98,
+    "priceBand": "$269.99 - $1234.71",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0FBRQKXJX",
+      "title": "55&quot; L Shaped Electric Standing Desk with Cabinet Sets, Walnut/Black",
+      "brand": "OffiGo",
+      "price": 249.98,
+      "salesParent": 1267,
+      "revenue": 371965.84,
+      "rating": 4.4,
+      "reviews": 151
+    },
+    {
+      "rank": 2,
+      "asin": "B0HJ1W9PKS",
+      "title": "SANODESK Executive Standing Desk w/Drawers &amp; Dual Motor, Black &amp; 55&quot;",
+      "brand": "SANODESK",
+      "price": 629.99,
+      "salesParent": 93,
+      "revenue": 58589.07,
+      "rating": 5.0,
+      "reviews": 11
+    },
+    {
+      "rank": 3,
+      "asin": "B07WLMYGZV",
+      "title": "Bestar U or L Shaped with Hutch and File Cabinet, Bark Grey, Logan, 66W",
+      "brand": "Bestar",
+      "price": 1650.75,
+      "salesParent": 20,
+      "revenue": 32108.2,
+      "rating": 3.0,
+      "reviews": 10
+    },
+    {
+      "rank": 4,
+      "asin": "B01N1EMASK",
+      "title": "Bestar, Ridgeley Collection, 3-Piece Set Including a U-Shaped Desk with Hutch, a Lateral File Cabinet, and a Bookcase",
+      "brand": "Bestar",
+      "price": 1800.04,
+      "salesParent": 17,
+      "revenue": 27550.37,
+      "rating": 4.2,
+      "reviews": 46
+    },
+    {
+      "rank": 5,
+      "asin": "B0DJCXP6JS",
+      "title": "PayLessHere | 32&quot; Office Desk with Ergonomic Office Chair | Black &amp; Black",
+      "brand": "PayLessHere",
+      "price": 79.98,
+      "salesParent": 234,
+      "revenue": 20811.96,
+      "rating": 4.5,
+      "reviews": 327
+    },
+    {
+      "rank": 6,
+      "asin": "B08TT92646",
+      "title": "Martin Furniture IMSA684R-KIT Executve L-Desk &amp; Return with Solid Wood Plank Tops, Fully Assembled, Brown",
+      "brand": "Martin Furniture",
+      "price": 2338.79,
+      "salesParent": 8,
+      "revenue": 18020.4,
+      "rating": 4.1,
+      "reviews": 10
+    },
+    {
+      "rank": 7,
+      "asin": "B0CMJ1R8MS",
+      "title": "Tribesigns 63 inches Executive Desk and 47&quot; lateral File Cabinet, L-Shaped Computer Desk Home Office Business Furniture with Drawers and Storage Shelves, Office Table,Brown and Black",
+      "brand": "Tribesigns",
+      "price": 339.99,
+      "salesParent": 52,
+      "revenue": 17679.48,
+      "rating": 4.0,
+      "reviews": 254
+    },
+    {
+      "rank": 8,
+      "asin": "B0GK1GNQ8G",
+      "title": "HUANUO LED Electric L Shaped Standing Desk with File Cabinet, Walnut",
+      "brand": "HUANUO",
+      "price": 345.99,
+      "salesParent": 39,
+      "revenue": 13493.61,
+      "rating": 3.4,
+      "reviews": 8
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -25,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -25,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 741679,
+    "priorHeadRevenue": 992535,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 97,
+      "newCount": 40,
+      "pct": 41,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 76,
+      "brandCount": 41,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.16,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0FBRQKXJX",
+        "title": "55&quot; L Shaped Electric Standing Desk with Cabinet Sets, Walnut/Black",
+        "rating": 4.4,
+        "reviews": 151
+      },
+      {
+        "rank": 2,
+        "asin": "B0HJ1W9PKS",
+        "title": "SANODESK Executive Standing Desk w/Drawers &amp; Dual Motor, Black &amp; 55&quot;",
+        "rating": 5.0,
+        "reviews": 11
+      },
+      {
+        "rank": 3,
+        "asin": "B07WLMYGZV",
+        "title": "Bestar U or L Shaped with Hutch and File Cabinet, Bark Grey, Logan, 66W",
+        "rating": 3.0,
+        "reviews": 10
+      },
+      {
+        "rank": 4,
+        "asin": "B01N1EMASK",
+        "title": "Bestar, Ridgeley Collection, 3-Piece Set Including a U-Shaped Desk with Hutch, a Lateral File Cabinet, and a Bookcase",
+        "rating": 4.2,
+        "reviews": 46
+      },
+      {
+        "rank": 5,
+        "asin": "B0DJCXP6JS",
+        "title": "PayLessHere | 32&quot; Office Desk with Ergonomic Office Chair | Black &amp; Black",
+        "rating": 4.5,
+        "reviews": 327
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "1055398:1063306:1063312:3733661",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

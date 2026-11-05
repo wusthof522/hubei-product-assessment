@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "8106310011",
+  "level": "L2",
+  "categoryPathEn": "Tools & Home Improvement > Welding & Soldering",
+  "categoryPathCn": "工具 > 焊接",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 13352066,
+    "avgRevenue": 134869,
+    "medianPrice": 84.77,
+    "priceBand": "$39.99 - $229.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0DHWXH4FL",
+      "title": "ARCCAPTAIN MIG205MP MIG Welder with Plasma Cutter, 9 IN 1 Welding Machine",
+      "brand": "ARCCAPTAIN",
+      "price": 999.99,
+      "salesParent": 625,
+      "revenue": 590812.5,
+      "rating": 4.5,
+      "reviews": 259
+    },
+    {
+      "rank": 2,
+      "asin": "B0B5N7K2DJ",
+      "title": "ARCCAPTAIN 50A Plasma Cutter Machine, 110V/220V Dual Voltage, 2/3&quot; Max Cut",
+      "brand": "ARCCAPTAIN",
+      "price": 249.99,
+      "salesParent": 2193,
+      "revenue": 479784.53,
+      "rating": 4.5,
+      "reviews": 1384
+    },
+    {
+      "rank": 3,
+      "asin": "B08CBBHFX5",
+      "title": "YESWELDER 135A MIG Welder, 110V Flux Core Gasless MIG/Lift TIG/Stick 3-in-1",
+      "brand": "YESWELDER",
+      "price": 149.99,
+      "salesParent": 3536,
+      "revenue": 449602.41,
+      "rating": 4.4,
+      "reviews": 3076
+    },
+    {
+      "rank": 4,
+      "asin": "B078S5QMFG",
+      "title": "SEEKONE 1800W Heat Gun Variable Temp 122℉-1202℉ for Crafts, Shrink Wrap",
+      "brand": "SEEKONE",
+      "price": 28.99,
+      "salesParent": 14140,
+      "revenue": 409918.59,
+      "rating": 4.6,
+      "reviews": 38486
+    },
+    {
+      "rank": 5,
+      "asin": "B0FLK7Z9RP",
+      "title": "xTool MetalFab 800W 3-in-1 Laser Welding Machine, Welding Cutting Cleaning",
+      "brand": "xTool",
+      "price": 3999.0,
+      "salesParent": 75,
+      "revenue": 331365.0,
+      "rating": 4.6,
+      "reviews": 3
+    },
+    {
+      "rank": 6,
+      "asin": "B0F9W6DZ1J",
+      "title": "YESWELDER 6-in-1 Welder &amp; Plasma Cutter Combo, 110V/220V MCT-520",
+      "brand": "YESWELDER",
+      "price": 699.99,
+      "salesParent": 461,
+      "revenue": 298096.44,
+      "rating": 4.2,
+      "reviews": 101
+    },
+    {
+      "rank": 7,
+      "asin": "B0D49LVHWV",
+      "title": "ARCCAPTAIN iControl CUT55 Pro Plasma Cutter Machine, 55Amp, 120V/240V",
+      "brand": "ARCCAPTAIN",
+      "price": 369.99,
+      "salesParent": 909,
+      "revenue": 295315.94,
+      "rating": 4.4,
+      "reviews": 565
+    },
+    {
+      "rank": 8,
+      "asin": "B0H4LWM3B2",
+      "title": "1/0 Gauge Battery Cable, 5FT Red + 5FT Black 1/0 AWG Pure Copper Wire Welding Cable, for Automotive, Battery, Solar and Generator, Standard USA OFC Wire",
+      "brand": "Shirbly",
+      "price": 55.99,
+      "salesParent": 4812,
+      "revenue": 269423.88,
+      "rating": 4.8,
+      "reviews": 43
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -9,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -9,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 13352066,
+    "priorHeadRevenue": 14668579,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 29,
+      "pct": 29,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 42,
+      "brandCount": 60,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.55,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0DHWXH4FL",
+        "title": "ARCCAPTAIN MIG205MP MIG Welder with Plasma Cutter, 9 IN 1 Welding Machine",
+        "rating": 4.5,
+        "reviews": 259
+      },
+      {
+        "rank": 2,
+        "asin": "B0B5N7K2DJ",
+        "title": "ARCCAPTAIN 50A Plasma Cutter Machine, 110V/220V Dual Voltage, 2/3&quot; Max Cut",
+        "rating": 4.5,
+        "reviews": 1384
+      },
+      {
+        "rank": 3,
+        "asin": "B08CBBHFX5",
+        "title": "YESWELDER 135A MIG Welder, 110V Flux Core Gasless MIG/Lift TIG/Stick 3-in-1",
+        "rating": 4.4,
+        "reviews": 3076
+      },
+      {
+        "rank": 4,
+        "asin": "B078S5QMFG",
+        "title": "SEEKONE 1800W Heat Gun Variable Temp 122℉-1202℉ for Crafts, Shrink Wrap",
+        "rating": 4.6,
+        "reviews": 38486
+      },
+      {
+        "rank": 5,
+        "asin": "B0FLK7Z9RP",
+        "title": "xTool MetalFab 800W 3-in-1 Laser Welding Machine, Welding Cutting Cleaning",
+        "rating": 4.6,
+        "reviews": 3
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "228013:8106310011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

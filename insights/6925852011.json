@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "6925852011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Remote & App Controlled Vehicles & Parts > Remote & App Controlled Vehicle Parts > Radios & Parts",
+  "categoryPathCn": "玩具 > 遥控 > 遥控 > 无线电广播",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 98,
+    "totalRevenue": 1157350,
+    "avgRevenue": 11810,
+    "medianPrice": 82.49,
+    "priceBand": "$49.99 - $199.49",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0DXPLH726",
+      "title": "Radiomaster Pocket Hall Gimbal Transmitter Remote Control (ELRS-Charcoal)",
+      "brand": "RADIOMASTER",
+      "price": 79.99,
+      "salesParent": 577,
+      "revenue": 46154.23,
+      "rating": 4.6,
+      "reviews": 142
+    },
+    {
+      "rank": 2,
+      "asin": "B0FCFHS7BL",
+      "title": "MEUS RACING ME-8B RC Transmitter 8 Channels 2.4GHz and Receiver for 1/8 1/10 1/18 1/24 RC Crawler Car Boat TRX4 TRX4M SCX10 SCX24 Upgrades Parts (Orange)",
+      "brand": "MEUS RACING",
+      "price": 34.99,
+      "salesParent": 1206,
+      "revenue": 42197.94,
+      "rating": 4.6,
+      "reviews": 225
+    },
+    {
+      "rank": 3,
+      "asin": "B0F3D5Z531",
+      "title": "Radiomaster Pocket ELRS Remote Controller Portable Hall Gimbal EdgeTX Transmitter with LED Light for FPV Drone/RC Helicopter&amp;Car Boats&amp;Multirotor (Battery Not Included)",
+      "brand": "STARDRONE",
+      "price": 84.99,
+      "salesParent": 513,
+      "revenue": 42173.73,
+      "rating": 4.5,
+      "reviews": 261
+    },
+    {
+      "rank": 4,
+      "asin": "B0F5RTNX8X",
+      "title": "Spektrum NX7e+ Black Edition 14 Channel Transmitter Only, SPMR7120",
+      "brand": "Spektrum",
+      "price": 319.95,
+      "salesParent": 128,
+      "revenue": 40953.6,
+      "rating": 4.1,
+      "reviews": 32
+    },
+    {
+      "rank": 5,
+      "asin": "B0CTFPPKDL",
+      "title": "Bad Elf Flex® Mini Standard GNSS Receiver (GPS/GLONASS/Galileo/BEIDOU), Small, Orange",
+      "brand": "Bad Elf",
+      "price": 499.99,
+      "salesParent": 66,
+      "revenue": 32999.34,
+      "rating": 4.0,
+      "reviews": 33
+    },
+    {
+      "rank": 6,
+      "asin": "B0DF45P8B6",
+      "title": "RadioMaster Pocket Portable Remote Controller Hall Gimbal EdgeTX Built in LED Light Mode 2 Batteries Not Included (Orange, ELRS)",
+      "brand": "RotorLogic",
+      "price": 79.97,
+      "salesParent": 386,
+      "revenue": 30868.42,
+      "rating": 4.7,
+      "reviews": 164
+    },
+    {
+      "rank": 7,
+      "asin": "B07VWSZ2VL",
+      "title": "Spektrum DX6e 6-Channel DSMX 2.4GHz RC Radio Transmitter Only (No Receiver) with 250 Model Memory | Telemetry | Wireless Trainer Link, SPMR6655 , Black",
+      "brand": "Spektrum",
+      "price": 245.95,
+      "salesParent": 107,
+      "revenue": 26315.58,
+      "rating": 4.4,
+      "reviews": 567
+    },
+    {
+      "rank": 8,
+      "asin": "B0D9P4N3TL",
+      "title": "Spektrum AR8360T+ 8 Channel AS3X+ &amp; Safe Telemetry Receiver, SPM-1033",
+      "brand": "Spektrum",
+      "price": 99.99,
+      "salesParent": 256,
+      "revenue": 25507.84,
+      "rating": 4.7,
+      "reviews": 126
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -22,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -22,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1157350,
+    "priorHeadRevenue": 1474596,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 98,
+      "newCount": 25,
+      "pct": 26,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 53,
+      "brandCount": 36,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.52,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0DXPLH726",
+        "title": "Radiomaster Pocket Hall Gimbal Transmitter Remote Control (ELRS-Charcoal)",
+        "rating": 4.6,
+        "reviews": 142
+      },
+      {
+        "rank": 2,
+        "asin": "B0FCFHS7BL",
+        "title": "MEUS RACING ME-8B RC Transmitter 8 Channels 2.4GHz and Receiver for 1/8 1/10 1/18 1/24 RC Crawler Car Boat TRX4 TRX4M SCX10 SCX24 Upgrades Parts (Orange)",
+        "rating": 4.6,
+        "reviews": 225
+      },
+      {
+        "rank": 3,
+        "asin": "B0F3D5Z531",
+        "title": "Radiomaster Pocket ELRS Remote Controller Portable Hall Gimbal EdgeTX Transmitter with LED Light for FPV Drone/RC Helicopter&amp;Car Boats&amp;Multirotor (Battery Not Included)",
+        "rating": 4.5,
+        "reviews": 261
+      },
+      {
+        "rank": 4,
+        "asin": "B0F5RTNX8X",
+        "title": "Spektrum NX7e+ Black Edition 14 Channel Transmitter Only, SPMR7120",
+        "rating": 4.1,
+        "reviews": 32
+      },
+      {
+        "rank": 5,
+        "asin": "B0CTFPPKDL",
+        "title": "Bad Elf Flex® Mini Standard GNSS Receiver (GPS/GLONASS/Galileo/BEIDOU), Small, Orange",
+        "rating": 4.0,
+        "reviews": 33
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:6925830011:2234126011:6925852011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

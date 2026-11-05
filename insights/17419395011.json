@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "17419395011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Household Supplies > Dishwashing > Rinse Aids",
+  "categoryPathCn": "健康与家居 > 家居用品 > 洗碗机专用 > 洗碗机专用洗碗粉",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 2157215,
+    "avgRevenue": 21572,
+    "medianPrice": 20.91,
+    "priceBand": "$12.84 - $33.62",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B07RN6TG1J",
+      "title": "Finish Jet-Dry Dishwasher Rinse Aid, Dish Detergent Drying Agent, 32oz",
+      "brand": "Finish",
+      "price": 11.68,
+      "salesParent": 122809,
+      "revenue": 1527743.88,
+      "rating": 4.8,
+      "reviews": 102383
+    },
+    {
+      "rank": 2,
+      "asin": "B09LRDTGV4",
+      "title": "Lemi Shine Shine and Dry Natural Dishwasher Rinse Aid - 25.35 fl oz",
+      "brand": "Lemi Shine",
+      "price": 15.99,
+      "salesParent": 9725,
+      "revenue": 155113.75,
+      "rating": 4.7,
+      "reviews": 1446
+    },
+    {
+      "rank": 3,
+      "asin": "B00TCI02WM",
+      "title": "Nature Clean Dishwasher Rinse Aid, Non-Toxic Liquid Drying Agent, 8 Fl Oz",
+      "brand": "Nature Clean",
+      "price": 14.99,
+      "salesParent": 5155,
+      "revenue": 77273.45,
+      "rating": 4.4,
+      "reviews": 896
+    },
+    {
+      "rank": 4,
+      "asin": "B001PBELQW",
+      "title": "Seventh Generation Dishwasher Rinse Aid, Fragrance Free, 8 oz, 9-Pack",
+      "brand": "Seventh Generation",
+      "price": 44.37,
+      "salesParent": 1727,
+      "revenue": 74675.48,
+      "rating": 4.7,
+      "reviews": 904
+    },
+    {
+      "rank": 5,
+      "asin": "B004CRLIHG",
+      "title": "Miele Original Dishwasher Rinse Aid, for Optimal Drying and Sparkling Finish with Glass Protection Formula, 17 oz",
+      "brand": "Miele",
+      "price": 21.99,
+      "salesParent": 2585,
+      "revenue": 50200.7,
+      "rating": 4.8,
+      "reviews": 1648
+    },
+    {
+      "rank": 6,
+      "asin": "B07CVQHSL3",
+      "title": "Cascade Platinum Rinse Aid 16 oz (155 loads)",
+      "brand": "Cascade",
+      "price": 26.49,
+      "salesParent": 1714,
+      "revenue": 49208.94,
+      "rating": 4.8,
+      "reviews": 30771
+    },
+    {
+      "rank": 7,
+      "asin": "B095T3FH36",
+      "title": "Truly Free Dishwasher Booster &amp; Rinse Aid Kit - 12oz Bottle + 1 Fill, 3oz",
+      "brand": "Truly Free",
+      "price": 19.99,
+      "salesParent": 2137,
+      "revenue": 42718.63,
+      "rating": 4.3,
+      "reviews": 310
+    },
+    {
+      "rank": 8,
+      "asin": "B0BHF5BSTS",
+      "title": "Ginger Lily Farms Botanicals Dishwasher Rinse, 128oz, Fragrance Free",
+      "brand": "Ginger Lily Farms",
+      "price": 29.99,
+      "salesParent": 713,
+      "revenue": 21382.87,
+      "rating": 4.2,
+      "reviews": 377
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -3,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -3,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 2157215,
+    "priorHeadRevenue": 2225219,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 38,
+      "pct": 38,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 89,
+      "brandCount": 71,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.49,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B07RN6TG1J",
+        "title": "Finish Jet-Dry Dishwasher Rinse Aid, Dish Detergent Drying Agent, 32oz",
+        "rating": 4.8,
+        "reviews": 102383
+      },
+      {
+        "rank": 2,
+        "asin": "B09LRDTGV4",
+        "title": "Lemi Shine Shine and Dry Natural Dishwasher Rinse Aid - 25.35 fl oz",
+        "rating": 4.7,
+        "reviews": 1446
+      },
+      {
+        "rank": 3,
+        "asin": "B00TCI02WM",
+        "title": "Nature Clean Dishwasher Rinse Aid, Non-Toxic Liquid Drying Agent, 8 Fl Oz",
+        "rating": 4.4,
+        "reviews": 896
+      },
+      {
+        "rank": 4,
+        "asin": "B001PBELQW",
+        "title": "Seventh Generation Dishwasher Rinse Aid, Fragrance Free, 8 oz, 9-Pack",
+        "rating": 4.7,
+        "reviews": 904
+      },
+      {
+        "rank": 5,
+        "asin": "B004CRLIHG",
+        "title": "Miele Original Dishwasher Rinse Aid, for Optimal Drying and Sparkling Finish with Glass Protection Formula, 17 oz",
+        "rating": 4.8,
+        "reviews": 1648
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:15342811:15693761:17419395011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

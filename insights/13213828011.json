@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "13213828011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Oral Care > Baby & Child Dental Care > Infant Dental Care",
+  "categoryPathCn": "健康与家居 > 口腔护理 > 婴儿和儿童牙科护理 > 婴儿牙科护理",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 97,
+    "totalRevenue": 2240657,
+    "avgRevenue": 23100,
+    "medianPrice": 9.9,
+    "priceBand": "$7.99 - $12.45",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0GXX8N5G2",
+      "title": "Dr. Noah Microplastic-Free Bamboo Baby Toothbrush, Dentist Designed, 4 Pack",
+      "brand": "DR.NOAH",
+      "price": 19.97,
+      "salesParent": 17453,
+      "revenue": 348536.41,
+      "rating": 4.5,
+      "reviews": 324
+    },
+    {
+      "rank": 2,
+      "asin": "B07WCBD6YC",
+      "title": "Dr. Brown's Infant-to-Toddler Toothbrush, Giraffe",
+      "brand": "Dr. Brown's",
+      "price": 4.47,
+      "salesParent": 67723,
+      "revenue": 302721.78,
+      "rating": 4.8,
+      "reviews": 53043
+    },
+    {
+      "rank": 3,
+      "asin": "B09M4BKYK2",
+      "title": "Dr. Brown's Toddler Toothbrush, Green and Orange Dinos, Ages 1-4, 2-Pack",
+      "brand": "Dr. Brown's",
+      "price": 6.99,
+      "salesParent": 21473,
+      "revenue": 150096.27,
+      "rating": 4.8,
+      "reviews": 16765
+    },
+    {
+      "rank": 4,
+      "asin": "B0CJRG92BF",
+      "title": "Momcozy Baby Tongue Cleaner Baby Toothbrush Disposable Oral Cleaner 40Count",
+      "brand": "Momcozy",
+      "price": 8.99,
+      "salesParent": 12275,
+      "revenue": 118576.5,
+      "rating": 4.7,
+      "reviews": 5317
+    },
+    {
+      "rank": 5,
+      "asin": "B07FKQ59TR",
+      "title": "Papablic Baby Sonic Electric Toothbrush for Aged 0-3 Toddler, Blue",
+      "brand": "Papablic",
+      "price": 15.99,
+      "salesParent": 6057,
+      "revenue": 95458.32,
+      "rating": 4.7,
+      "reviews": 6745
+    },
+    {
+      "rank": 6,
+      "asin": "B0DLH6Q19H",
+      "title": "Soft Toddler Toothbrushes, Efficient 3 Sided Toothbrush, Patent",
+      "brand": "EASICUTI",
+      "price": 9.99,
+      "salesParent": 9545,
+      "revenue": 95354.55,
+      "rating": 4.6,
+      "reviews": 9427
+    },
+    {
+      "rank": 7,
+      "asin": "B08K4RDVH1",
+      "title": "dearlomum 48 Count Baby Tongue Cleaner, Newborn Infant Toothbrush, 1 Jar",
+      "brand": "dearlomum",
+      "price": 9.99,
+      "salesParent": 8245,
+      "revenue": 82367.55,
+      "rating": 4.7,
+      "reviews": 5183
+    },
+    {
+      "rank": 8,
+      "asin": "B0BP3YSL4S",
+      "title": "Dr. Brown's Fluoride-Free Baby Toothpaste, Strawberry, 3-Pack",
+      "brand": "Dr. Brown's",
+      "price": 12.97,
+      "salesParent": 4874,
+      "revenue": 63215.78,
+      "rating": 4.8,
+      "reviews": 10784
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 34,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 34,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 2240657,
+    "priorHeadRevenue": 1669757,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 97,
+      "newCount": 15,
+      "pct": 15,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 59,
+      "brandCount": 67,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.59,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0GXX8N5G2",
+        "title": "Dr. Noah Microplastic-Free Bamboo Baby Toothbrush, Dentist Designed, 4 Pack",
+        "rating": 4.5,
+        "reviews": 324
+      },
+      {
+        "rank": 2,
+        "asin": "B07WCBD6YC",
+        "title": "Dr. Brown's Infant-to-Toddler Toothbrush, Giraffe",
+        "rating": 4.8,
+        "reviews": 53043
+      },
+      {
+        "rank": 3,
+        "asin": "B09M4BKYK2",
+        "title": "Dr. Brown's Toddler Toothbrush, Green and Orange Dinos, Ages 1-4, 2-Pack",
+        "rating": 4.8,
+        "reviews": 16765
+      },
+      {
+        "rank": 4,
+        "asin": "B0CJRG92BF",
+        "title": "Momcozy Baby Tongue Cleaner Baby Toothbrush Disposable Oral Cleaner 40Count",
+        "rating": 4.7,
+        "reviews": 5317
+      },
+      {
+        "rank": 5,
+        "asin": "B07FKQ59TR",
+        "title": "Papablic Baby Sonic Electric Toothbrush for Aged 0-3 Toddler, Blue",
+        "rating": 4.7,
+        "reviews": 6745
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:10079992011:23912497011:13213828011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

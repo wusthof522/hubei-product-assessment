@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "256225011",
+  "level": "L2",
+  "categoryPathEn": "Industrial & Scientific > Adhesives, Sealants & Lubricants",
+  "categoryPathCn": "工业类 > 粘合剂、密封剂",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 20490873,
+    "avgRevenue": 206979,
+    "medianPrice": 14.78,
+    "priceBand": "$9.76 - $57.87",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0F6CNXHHL",
+      "title": "Gorilla Heavy Duty Duct Tape, Black, 1.88&quot;, 50yd (Pack of 6)",
+      "brand": "GORILLA",
+      "price": 83.88,
+      "salesParent": 14605,
+      "revenue": 1225067.38,
+      "rating": 4.9,
+      "reviews": 3404
+    },
+    {
+      "rank": 2,
+      "asin": "B0DJFR3K3N",
+      "title": "BEEST FullStop Spray Foam Insulation Kit - 240 Board ft/sq.ft. Fire Rated Spray Insulation Foam for Walls &amp; Attics with Thermal &amp; Soundproofing - Includes 12x Cans, 1 Cleaner, Pro X Gun, Safety Gear",
+      "brand": "BEEST",
+      "price": 219.95,
+      "salesParent": 4308,
+      "revenue": 947544.56,
+      "rating": 4.3,
+      "reviews": 751
+    },
+    {
+      "rank": 3,
+      "asin": "B073XR4X72",
+      "title": "Command Large (15 lb) Picture Hanging Strips, 14 Pairs (28 Strips",
+      "brand": "Command",
+      "price": 12.99,
+      "salesParent": 58651,
+      "revenue": 730204.94,
+      "rating": 4.6,
+      "reviews": 111636
+    },
+    {
+      "rank": 4,
+      "asin": "B0FM5RBGQM",
+      "title": "BEEST FullStop Spray Foam Insulation Kit - 120 Board ft/sq.ft. Fire Rated Spray Insulation Foam for Walls &amp; Attics with Thermal &amp; Soundproofing - Includes 6X Cans, 1 Cleaner, Pro X Gun, Safety Gear",
+      "brand": "BEEST",
+      "price": 129.95,
+      "salesParent": 4086,
+      "revenue": 530403.62,
+      "rating": 4.1,
+      "reviews": 67
+    },
+    {
+      "rank": 5,
+      "asin": "B0DD4C3WW3",
+      "title": "Vapor Barrier Tape - 4 inch x 180' Roll, Made in USA, White Polyethylene Tape for Crawl Spaces &amp; Moisture Barriers, Waterproof Seal &amp; Seam Tape for Underlayment, Insulation, and Plastic Liners (12)",
+      "brand": "TapeManBlue",
+      "price": 199.95,
+      "salesParent": 2585,
+      "revenue": 516870.75,
+      "rating": 4.6,
+      "reviews": 652
+    },
+    {
+      "rank": 6,
+      "asin": "B0FDGDDWN2",
+      "title": "Kraken Bond Fastcoat Fire Rated Spray Foam Insulation Kit (24x27.1 oz.) (R-Value 11.32 / 2in) Closed Cell Expanding Foam - Heat and Acoustic Insulation, Gun &amp; Cleaner Included, 480 Board Ft, 24 Pack",
+      "brand": "KRAKEN BOND",
+      "price": 359.99,
+      "salesParent": 1281,
+      "revenue": 450258.69,
+      "rating": 4.0,
+      "reviews": 574
+    },
+    {
+      "rank": 7,
+      "asin": "B00FX9PJK4",
+      "title": "DAP Concrete and Mortar Filler and Sealant, Gray, 10.1 Oz (7079818096) (Pack of 12)",
+      "brand": "DAP",
+      "price": 57.87,
+      "salesParent": 7206,
+      "revenue": 420542.16,
+      "rating": 4.5,
+      "reviews": 14
+    },
+    {
+      "rank": 8,
+      "asin": "B077YVHVL2",
+      "title": "Rust-Oleum RockSolid Garage Floor Coating Kit, Dark Gray, 2.5 Car Kit",
+      "brand": "Rust-Oleum",
+      "price": 274.99,
+      "salesParent": 1545,
+      "revenue": 410151.16,
+      "rating": 4.1,
+      "reviews": 3916
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 34,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 34,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 20490873,
+    "priorHeadRevenue": 15256514,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 17,
+      "pct": 17,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 41,
+      "brandCount": 61,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.46,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0F6CNXHHL",
+        "title": "Gorilla Heavy Duty Duct Tape, Black, 1.88&quot;, 50yd (Pack of 6)",
+        "rating": 4.9,
+        "reviews": 3404
+      },
+      {
+        "rank": 2,
+        "asin": "B0DJFR3K3N",
+        "title": "BEEST FullStop Spray Foam Insulation Kit - 240 Board ft/sq.ft. Fire Rated Spray Insulation Foam for Walls &amp; Attics with Thermal &amp; Soundproofing - Includes 12x Cans, 1 Cleaner, Pro X Gun, Safety Gear",
+        "rating": 4.3,
+        "reviews": 751
+      },
+      {
+        "rank": 3,
+        "asin": "B073XR4X72",
+        "title": "Command Large (15 lb) Picture Hanging Strips, 14 Pairs (28 Strips",
+        "rating": 4.6,
+        "reviews": 111636
+      },
+      {
+        "rank": 4,
+        "asin": "B0FM5RBGQM",
+        "title": "BEEST FullStop Spray Foam Insulation Kit - 120 Board ft/sq.ft. Fire Rated Spray Insulation Foam for Walls &amp; Attics with Thermal &amp; Soundproofing - Includes 6X Cans, 1 Cleaner, Pro X Gun, Safety Gear",
+        "rating": 4.1,
+        "reviews": 67
+      },
+      {
+        "rank": 5,
+        "asin": "B0DD4C3WW3",
+        "title": "Vapor Barrier Tape - 4 inch x 180' Roll, Made in USA, White Polyethylene Tape for Crawl Spaces &amp; Moisture Barriers, Waterproof Seal &amp; Seam Tape for Underlayment, Insulation, and Plastic Liners (12)",
+        "rating": 4.6,
+        "reviews": 652
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "16310091:256225011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

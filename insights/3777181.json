@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3777181",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Medical Supplies & Equipment > Health Monitors > Body Fat Monitors",
+  "categoryPathCn": "健康与家居 > 医疗用品和设备 > 健康音响 > 体脂监测仪",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 98,
+    "totalRevenue": 2355801,
+    "avgRevenue": 24039,
+    "medianPrice": 24.47,
+    "priceBand": "$9.99 - $46.81",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B095YJW56C",
+      "title": "Etekcity Smart Scale for Body Weight, Body Fat and BMI, FSA Eligible",
+      "brand": "Etekcity",
+      "price": 19.94,
+      "salesParent": 77563,
+      "revenue": 1594695.25,
+      "rating": 4.7,
+      "reviews": 149515
+    },
+    {
+      "rank": 2,
+      "asin": "B0CQ4LSR72",
+      "title": "Smart Scale for Body Weight Digital Bathroom Scale with BMI Body Fat",
+      "brand": "Ovutek",
+      "price": 22.99,
+      "salesParent": 7959,
+      "revenue": 179714.22,
+      "rating": 4.6,
+      "reviews": 4238
+    },
+    {
+      "rank": 3,
+      "asin": "B082W886W9",
+      "title": "RENPHO Smart Body Measuring Tape, Bluetooth App, 60in, for Weight Loss",
+      "brand": "RENPHO",
+      "price": 26.99,
+      "salesParent": 5600,
+      "revenue": 152264.0,
+      "rating": 4.4,
+      "reviews": 28376
+    },
+    {
+      "rank": 4,
+      "asin": "B0FG7HH42G",
+      "title": "GE Smart Scale for Body Weight: BMI Body Fat, Digital Bluetooth Scale 400lb",
+      "brand": "GE",
+      "price": 29.99,
+      "salesParent": 2729,
+      "revenue": 76848.64,
+      "rating": 4.4,
+      "reviews": 1695
+    },
+    {
+      "rank": 5,
+      "asin": "B0FDKLMLTW",
+      "title": "RENPHO Smart Body Measuring Tape for Weight Loss, Rechargeable, LED Display",
+      "brand": "RENPHO",
+      "price": 26.99,
+      "salesParent": 2477,
+      "revenue": 75176.95,
+      "rating": 4.6,
+      "reviews": 327
+    },
+    {
+      "rank": 6,
+      "asin": "B0D9W6K4Y1",
+      "title": "RENPHO Smart Tape Measure with Large Display, Bluetooth Body Measuring Tape with App for Weight Loss, Fitness Shape, Measure Circumference Length",
+      "brand": "RENPHO",
+      "price": 45.99,
+      "salesParent": 1501,
+      "revenue": 69030.99,
+      "rating": 4.4,
+      "reviews": 3345
+    },
+    {
+      "rank": 7,
+      "asin": "B0H33LWYVN",
+      "title": "Body Composition Scale with Handle, 8-Electrode Smart Scale",
+      "brand": "Labuscula",
+      "price": 69.99,
+      "salesParent": 402,
+      "revenue": 28135.98,
+      "rating": 4.4,
+      "reviews": 60
+    },
+    {
+      "rank": 8,
+      "asin": "B000FYZMYK",
+      "title": "Omron HBF-306C Handheld Body Fat Loss Monitor",
+      "brand": "Omron",
+      "price": 254.84,
+      "salesParent": 78,
+      "revenue": 19675.5,
+      "rating": 4.3,
+      "reviews": 4383
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": null,
+    "direction": "flat",
+    "comparable": false,
+    "rawYoyPct": 240,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 2355801,
+    "priorHeadRevenue": 693419,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 98,
+      "newCount": 37,
+      "pct": 38,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 93,
+      "brandCount": 56,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.16,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B095YJW56C",
+        "title": "Etekcity Smart Scale for Body Weight, Body Fat and BMI, FSA Eligible",
+        "rating": 4.7,
+        "reviews": 149515
+      },
+      {
+        "rank": 2,
+        "asin": "B0CQ4LSR72",
+        "title": "Smart Scale for Body Weight Digital Bathroom Scale with BMI Body Fat",
+        "rating": 4.6,
+        "reviews": 4238
+      },
+      {
+        "rank": 3,
+        "asin": "B082W886W9",
+        "title": "RENPHO Smart Body Measuring Tape, Bluetooth App, 60in, for Weight Loss",
+        "rating": 4.4,
+        "reviews": 28376
+      },
+      {
+        "rank": 4,
+        "asin": "B0FG7HH42G",
+        "title": "GE Smart Scale for Body Weight: BMI Body Fat, Digital Bluetooth Scale 400lb",
+        "rating": 4.4,
+        "reviews": 1695
+      },
+      {
+        "rank": 5,
+        "asin": "B0FDKLMLTW",
+        "title": "RENPHO Smart Body Measuring Tape for Weight Loss, Rechargeable, LED Display",
+        "rating": 4.6,
+        "reviews": 327
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3775161:3777131:3777181",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

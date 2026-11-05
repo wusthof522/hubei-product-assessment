@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3761141",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Health Care > OTC Medications & Treatments > Cough & Cold",
+  "categoryPathCn": "健康与家居 > 卫生保健 > 非处方药和治疗 > 咳嗽和感冒",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 28552850,
+    "avgRevenue": 285528,
+    "medianPrice": 15.28,
+    "priceBand": "$10.72 - $21.94",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0GX5K88ZX",
+      "title": "Vicks VapoStick, Solid Balm, No Mess, Soothing Non-Medicated Vicks Vapors, Easy-To-Use No-Touch Applicator, Quick Dry, Lightweight Skin Feel, 1.25 Ounce (Pack of 24)",
+      "brand": "Vicks",
+      "price": 221.64,
+      "salesParent": 12381,
+      "revenue": 2744124.75,
+      "rating": 4.6,
+      "reviews": 8895
+    },
+    {
+      "rank": 2,
+      "asin": "B019ND0DU6",
+      "title": "Beekeeper's Naturals Propolis Throat Spray for Daily Immune Support, 1 oz",
+      "brand": "Beekeeper's Naturals",
+      "price": 13.99,
+      "salesParent": 168337,
+      "revenue": 2343251.0,
+      "rating": 4.6,
+      "reviews": 27700
+    },
+    {
+      "rank": 3,
+      "asin": "B0078W0QOI",
+      "title": "Boiron Oscillococcinum for Relief from Flu-Like Symptoms of Body Aches, Headache, Fever, Chills, and Fatigue - 30 Doses",
+      "brand": "Boiron",
+      "price": 22.5,
+      "salesParent": 67967,
+      "revenue": 1610818.0,
+      "rating": 4.8,
+      "reviews": 44190
+    },
+    {
+      "rank": 4,
+      "asin": "B089TQDCJ6",
+      "title": "Zicam Cold Remedy RapidMelts Plus Elderberry, Elderberry Citrus, 25 Count",
+      "brand": "Zicam",
+      "price": 10.98,
+      "salesParent": 78239,
+      "revenue": 830115.75,
+      "rating": 4.8,
+      "reviews": 3510
+    },
+    {
+      "rank": 5,
+      "asin": "B0HCR5Q8VK",
+      "title": "Nasomin® Iodine Nasal Spray – Cleanses &amp; Refreshes Your Nasal Passages",
+      "brand": "Triquetra Health",
+      "price": 28.49,
+      "salesParent": 30912,
+      "revenue": 822259.19,
+      "rating": 4.8,
+      "reviews": 263
+    },
+    {
+      "rank": 6,
+      "asin": "B0GV55YFMR",
+      "title": "Vicks VapoPads Original Menthol Scent Refill Pads Humidifiers and Sinus Inhaler, 20-Pack VapoSteam Medicated Liquid Camphor Cough Suppressant, Compatible Humidifiers, 8 Oz",
+      "brand": "Vicks",
+      "price": 26.45,
+      "salesParent": 25957,
+      "revenue": 686562.69,
+      "rating": 4.8,
+      "reviews": 2
+    },
+    {
+      "rank": 7,
+      "asin": "B0F2JMYNZQ",
+      "title": "Mucinex 12Hr Max Strength Expectorant, Chest Congestion Relief, 48 Tablets",
+      "brand": "Mucinex",
+      "price": 31.97,
+      "salesParent": 22203,
+      "revenue": 671196.69,
+      "rating": 4.8,
+      "reviews": 2232
+    },
+    {
+      "rank": 8,
+      "asin": "B0F2JM2ZQS",
+      "title": "Mucinex DM 12Hr Max Strength Chest Congestion &amp; Cough Medicine, 48 Tablets",
+      "brand": "Mucinex",
+      "price": 32.87,
+      "salesParent": 19333,
+      "revenue": 638762.31,
+      "rating": 4.8,
+      "reviews": 3002
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 46,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 46,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 28552850,
+    "priorHeadRevenue": 19615085,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 9,
+      "pct": 9,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 62,
+      "brandCount": 40,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.71,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0GX5K88ZX",
+        "title": "Vicks VapoStick, Solid Balm, No Mess, Soothing Non-Medicated Vicks Vapors, Easy-To-Use No-Touch Applicator, Quick Dry, Lightweight Skin Feel, 1.25 Ounce (Pack of 24)",
+        "rating": 4.6,
+        "reviews": 8895
+      },
+      {
+        "rank": 2,
+        "asin": "B019ND0DU6",
+        "title": "Beekeeper's Naturals Propolis Throat Spray for Daily Immune Support, 1 oz",
+        "rating": 4.6,
+        "reviews": 27700
+      },
+      {
+        "rank": 3,
+        "asin": "B0078W0QOI",
+        "title": "Boiron Oscillococcinum for Relief from Flu-Like Symptoms of Body Aches, Headache, Fever, Chills, and Fatigue - 30 Doses",
+        "rating": 4.8,
+        "reviews": 44190
+      },
+      {
+        "rank": 4,
+        "asin": "B089TQDCJ6",
+        "title": "Zicam Cold Remedy RapidMelts Plus Elderberry, Elderberry Citrus, 25 Count",
+        "rating": 4.8,
+        "reviews": 3510
+      },
+      {
+        "rank": 5,
+        "asin": "B0HCR5Q8VK",
+        "title": "Nasomin® Iodine Nasal Spray – Cleanses &amp; Refreshes Your Nasal Passages",
+        "rating": 4.8,
+        "reviews": 263
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3760941:10079990011:3761141",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "1045024",
+  "level": "L4",
+  "categoryPathEn": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses",
+  "categoryPathCn": "服装、鞋履和珠宝 > 女士 > 服装 > 连衣裙",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 43844590,
+    "avgRevenue": 442875,
+    "medianPrice": 47.99,
+    "priceBand": "$36.99 - $57.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0H5Q5GKR1",
+      "title": "BORIFLORS Women's Elegant Ruched Floral Maxi Wedding Guest Dress",
+      "brand": "BORIFLORS",
+      "price": 44.99,
+      "salesParent": 24521,
+      "revenue": 1194663.12,
+      "rating": 4.1,
+      "reviews": 769
+    },
+    {
+      "rank": 2,
+      "asin": "B0BRSG94NB",
+      "title": "PRETTYGARDEN Women's Summer Satin Maxi Cocktail Dress",
+      "brand": "PRETTYGARDEN",
+      "price": 57.99,
+      "salesParent": 18345,
+      "revenue": 1063826.62,
+      "rating": 3.9,
+      "reviews": 6327
+    },
+    {
+      "rank": 3,
+      "asin": "B0CB7M27WW",
+      "title": "Memoriesea Women's High Split Wedding Guest Party Maxi Dress",
+      "brand": "Memoriesea",
+      "price": 49.99,
+      "salesParent": 17072,
+      "revenue": 853429.31,
+      "rating": 4.3,
+      "reviews": 6506
+    },
+    {
+      "rank": 4,
+      "asin": "B0FS1N2FYQ",
+      "title": "Isolde Women's One Shoulder Mesh Ribbon Ruched Formal Maxi Dress",
+      "brand": "CurvySweet",
+      "price": 74.99,
+      "salesParent": 10670,
+      "revenue": 793954.75,
+      "rating": 4.3,
+      "reviews": 381
+    },
+    {
+      "rank": 5,
+      "asin": "B0CRKRXPB6",
+      "title": "BTFBM Women Ruched Bodycon Maxi Dresses Summer Casual",
+      "brand": "BTFBM",
+      "price": 38.36,
+      "salesParent": 19673,
+      "revenue": 754656.31,
+      "rating": 4.2,
+      "reviews": 3428
+    },
+    {
+      "rank": 6,
+      "asin": "B0F4N2ZXKD",
+      "title": "PRETTYGARDEN Women's A Line Short Summer Elegant Cocktail Party Dresses",
+      "brand": "PRETTYGARDEN",
+      "price": 39.99,
+      "salesParent": 19593,
+      "revenue": 749824.12,
+      "rating": 4.1,
+      "reviews": 2925
+    },
+    {
+      "rank": 7,
+      "asin": "B0DHWZCZ37",
+      "title": "BTFBM Womens Summer 2026 Casual Maxi Dresses Lightweight Short Sleeve Dress",
+      "brand": "BTFBM",
+      "price": 53.89,
+      "salesParent": 13624,
+      "revenue": 735287.31,
+      "rating": 4.3,
+      "reviews": 4924
+    },
+    {
+      "rank": 8,
+      "asin": "B0C53FB542",
+      "title": "Formal Dresses for Women Gowns Evening V Neck Wedding Guest Dresses",
+      "brand": "ZZV",
+      "price": 64.78,
+      "salesParent": 10767,
+      "revenue": 697486.25,
+      "rating": 4.4,
+      "reviews": 3593
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -1,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -1,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 43844590,
+    "priorHeadRevenue": 44322002,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 52,
+      "pct": 53,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 45,
+      "brandCount": 50,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.18,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0H5Q5GKR1",
+        "title": "BORIFLORS Women's Elegant Ruched Floral Maxi Wedding Guest Dress",
+        "rating": 4.1,
+        "reviews": 769
+      },
+      {
+        "rank": 2,
+        "asin": "B0BRSG94NB",
+        "title": "PRETTYGARDEN Women's Summer Satin Maxi Cocktail Dress",
+        "rating": 3.9,
+        "reviews": 6327
+      },
+      {
+        "rank": 3,
+        "asin": "B0CB7M27WW",
+        "title": "Memoriesea Women's High Split Wedding Guest Party Maxi Dress",
+        "rating": 4.3,
+        "reviews": 6506
+      },
+      {
+        "rank": 4,
+        "asin": "B0FS1N2FYQ",
+        "title": "Isolde Women's One Shoulder Mesh Ribbon Ruched Formal Maxi Dress",
+        "rating": 4.3,
+        "reviews": 381
+      },
+      {
+        "rank": 5,
+        "asin": "B0CRKRXPB6",
+        "title": "BTFBM Women Ruched Bodycon Maxi Dresses Summer Casual",
+        "rating": 4.2,
+        "reviews": 3428
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "7141123011:7147440011:1040660:1045024",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

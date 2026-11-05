@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "502394",
+  "level": "L2",
+  "categoryPathEn": "Electronics > Camera & Photo",
+  "categoryPathCn": "电子产品 > 摄像机",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 97,
+    "totalRevenue": 78016820,
+    "avgRevenue": 804297,
+    "medianPrice": 499.0,
+    "priceBand": "$97.99 - $1524.0",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0HPCNXD7C",
+      "title": "everydrop by Whirlpool Ice &amp; Water Refrigerator Filter 1, Purple, EDR1RXD1",
+      "brand": "QWWOIEJ0",
+      "price": 79.99,
+      "salesParent": 83814,
+      "revenue": 6704281.5,
+      "rating": 4.7,
+      "reviews": 109327
+    },
+    {
+      "rank": 2,
+      "asin": "B0CG19FGQ5",
+      "title": "DJI Osmo Pocket 3 Creator Combo, Vlogging Camera with 1'' CMOS &amp; 4K/120fps",
+      "brand": "DJI",
+      "price": 549.0,
+      "salesParent": 10645,
+      "revenue": 5439382.0,
+      "rating": 4.4,
+      "reviews": 3951
+    },
+    {
+      "rank": 3,
+      "asin": "B09ZRN1N3Z",
+      "title": "KODAK PIXPRO FZ55 16MP Compact Digital Camera, 5X Optical Zoom, Black",
+      "brand": "KODAK",
+      "price": 139.99,
+      "salesParent": 25049,
+      "revenue": 3506609.75,
+      "rating": 4.4,
+      "reviews": 9297
+    },
+    {
+      "rank": 4,
+      "asin": "B0H2MRDB2C",
+      "title": "DJI Osmo Pocket 4P Standard Combo, Dual-Lens 4K Vlog Camera, 1-Inch CMOS",
+      "brand": "DJI",
+      "price": 643.89,
+      "salesParent": 3906,
+      "revenue": 2557063.0,
+      "rating": 4.5,
+      "reviews": 241
+    },
+    {
+      "rank": 5,
+      "asin": "B0DDL8WGH5",
+      "title": "DJI Mic Mini (2 TX + 1 RX + Charging Case), Ultralight, Detail-Rich Audio",
+      "brand": "DJI",
+      "price": 99.0,
+      "salesParent": 23830,
+      "revenue": 2017209.5,
+      "rating": 4.6,
+      "reviews": 26551
+    },
+    {
+      "rank": 6,
+      "asin": "B0B8PDHRWY",
+      "title": "KODAK PIXPRO FZ45 16MP Compact Digital Camera, 4X Optical Zoom, AA, Black",
+      "brand": "KODAK",
+      "price": 109.99,
+      "salesParent": 14893,
+      "revenue": 1545297.75,
+      "rating": 4.0,
+      "reviews": 6924
+    },
+    {
+      "rank": 7,
+      "asin": "B0GXJRJ2MK",
+      "title": "Insta360 Luna Ultra - 8K Vlogging Camera with Dual Leica Lenses",
+      "brand": "Insta360",
+      "price": 769.99,
+      "salesParent": 1920,
+      "revenue": 1478380.75,
+      "rating": 4.4,
+      "reviews": 776
+    },
+    {
+      "rank": 8,
+      "asin": "B0H5CR9LZF",
+      "title": "Insta360 X6, 8K 360 Camera with 1/1.1'' Sensors",
+      "brand": "Insta360",
+      "price": 699.99,
+      "salesParent": 2028,
+      "revenue": 1419579.75,
+      "rating": 4.4,
+      "reviews": 566
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 6,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 6,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 78016820,
+    "priorHeadRevenue": 73679070,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 97,
+      "newCount": 36,
+      "pct": 37,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 64,
+      "brandCount": 28,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.48,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0HPCNXD7C",
+        "title": "everydrop by Whirlpool Ice &amp; Water Refrigerator Filter 1, Purple, EDR1RXD1",
+        "rating": 4.7,
+        "reviews": 109327
+      },
+      {
+        "rank": 2,
+        "asin": "B0CG19FGQ5",
+        "title": "DJI Osmo Pocket 3 Creator Combo, Vlogging Camera with 1'' CMOS &amp; 4K/120fps",
+        "rating": 4.4,
+        "reviews": 3951
+      },
+      {
+        "rank": 3,
+        "asin": "B09ZRN1N3Z",
+        "title": "KODAK PIXPRO FZ55 16MP Compact Digital Camera, 5X Optical Zoom, Black",
+        "rating": 4.4,
+        "reviews": 9297
+      },
+      {
+        "rank": 4,
+        "asin": "B0H2MRDB2C",
+        "title": "DJI Osmo Pocket 4P Standard Combo, Dual-Lens 4K Vlog Camera, 1-Inch CMOS",
+        "rating": 4.5,
+        "reviews": 241
+      },
+      {
+        "rank": 5,
+        "asin": "B0DDL8WGH5",
+        "title": "DJI Mic Mini (2 TX + 1 RX + Charging Case), Ultralight, Detail-Rich Audio",
+        "rating": 4.6,
+        "reviews": 26551
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "172282:502394",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

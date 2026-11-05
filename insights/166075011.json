@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "166075011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Arts & Crafts > Craft Kits > Sewing",
+  "categoryPathCn": "玩具 > 艺术 > 工艺品套装 > 缝制",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 97,
+    "totalRevenue": 1006606,
+    "avgRevenue": 10377,
+    "medianPrice": 19.98,
+    "priceBand": "$16.47 - $27.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B091GXM2Y6",
+      "title": "KRAFUN My First Sewing Kit for Kids Ages 6-12 | 7 Animal Dolls",
+      "brand": "KRAFUN",
+      "price": 19.99,
+      "salesParent": 8480,
+      "revenue": 167819.2,
+      "rating": 4.7,
+      "reviews": 4214
+    },
+    {
+      "rank": 2,
+      "asin": "B0GTK14J2Z",
+      "title": "Barbie Sew Chic Designer Sewing Machine - Portable Starter Craft Kit",
+      "brand": "Barbie",
+      "price": 39.99,
+      "salesParent": 2535,
+      "revenue": 101476.05,
+      "rating": 4.2,
+      "reviews": 26
+    },
+    {
+      "rank": 3,
+      "asin": "B0C2XYP6L3",
+      "title": "KRAFUN Puppy &amp; Kitten Sewing Kit for Kids Ages 6+ | 8 Dolls",
+      "brand": "KRAFUN",
+      "price": 19.99,
+      "salesParent": 3959,
+      "revenue": 78348.62,
+      "rating": 4.6,
+      "reviews": 2334
+    },
+    {
+      "rank": 4,
+      "asin": "B0CN6YKH9R",
+      "title": "Klever Kits 400+PCS Fashion Design Crafts for Kids, Art and Crafts, DIY Sewing Kits with 3 Mannequins for Girls Aged 8-12, Toys for Kids, Birthday Presents, Doll Clothes",
+      "brand": "Klever Kits",
+      "price": 24.99,
+      "salesParent": 2897,
+      "revenue": 72396.03,
+      "rating": 4.6,
+      "reviews": 1270
+    },
+    {
+      "rank": 5,
+      "asin": "B09NBF3ZPJ",
+      "title": "Fashion Designer Kits for Girls with 6 Mannequins, 1000+ Kids Sewing Kits",
+      "brand": "ONE TO FOUR",
+      "price": 33.89,
+      "salesParent": 2022,
+      "revenue": 68525.58,
+      "rating": 4.6,
+      "reviews": 1921
+    },
+    {
+      "rank": 6,
+      "asin": "B0CXY8JMTK",
+      "title": "EZCRA Unicorn Sewing Kit for Kids Ages 4-8 - 8 Beginner Projects",
+      "brand": "EZCRA",
+      "price": 19.99,
+      "salesParent": 3249,
+      "revenue": 64882.53,
+      "rating": 4.8,
+      "reviews": 534
+    },
+    {
+      "rank": 7,
+      "asin": "B0CYNNT2ZT",
+      "title": "EZCRA Unicorn Sewing Kit for Kids Ages 4-8 - 4 Beginner Projects",
+      "brand": "EZCRA",
+      "price": 15.99,
+      "salesParent": 2230,
+      "revenue": 35657.7,
+      "rating": 4.7,
+      "reviews": 671
+    },
+    {
+      "rank": 8,
+      "asin": "B0CV1F5CFS",
+      "title": "KRAFUN Sewing Bag Kit for Beginner Kids - 6 Animal Themed Projects Age 6+",
+      "brand": "KRAFUN",
+      "price": 19.99,
+      "salesParent": 1320,
+      "revenue": 26096.4,
+      "rating": 4.7,
+      "reviews": 886
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 14,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 14,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1006606,
+    "priorHeadRevenue": 882823,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 97,
+      "newCount": 30,
+      "pct": 31,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 68,
+      "brandCount": 65,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.54,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B091GXM2Y6",
+        "title": "KRAFUN My First Sewing Kit for Kids Ages 6-12 | 7 Animal Dolls",
+        "rating": 4.7,
+        "reviews": 4214
+      },
+      {
+        "rank": 2,
+        "asin": "B0GTK14J2Z",
+        "title": "Barbie Sew Chic Designer Sewing Machine - Portable Starter Craft Kit",
+        "rating": 4.2,
+        "reviews": 26
+      },
+      {
+        "rank": 3,
+        "asin": "B0C2XYP6L3",
+        "title": "KRAFUN Puppy &amp; Kitten Sewing Kit for Kids Ages 6+ | 8 Dolls",
+        "rating": 4.6,
+        "reviews": 2334
+      },
+      {
+        "rank": 4,
+        "asin": "B0CN6YKH9R",
+        "title": "Klever Kits 400+PCS Fashion Design Crafts for Kids, Art and Crafts, DIY Sewing Kits with 3 Mannequins for Girls Aged 8-12, Toys for Kids, Birthday Presents, Doll Clothes",
+        "rating": 4.6,
+        "reviews": 1270
+      },
+      {
+        "rank": 5,
+        "asin": "B09NBF3ZPJ",
+        "title": "Fashion Designer Kits for Girls with 6 Mannequins, 1000+ Kids Sewing Kits",
+        "rating": 4.6,
+        "reviews": 1921
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166057011:166064011:166075011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

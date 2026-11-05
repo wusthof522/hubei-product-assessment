@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "15693671",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Household Supplies > Dishwashing > Dishwasher Detergent",
+  "categoryPathCn": "健康与家居 > 家居用品 > 洗碗机专用 > 洗碗机专用洗涤剂",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 94,
+    "totalRevenue": 33014373,
+    "avgRevenue": 351217,
+    "medianPrice": 20.3,
+    "priceBand": "$12.88 - $27.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0FDBJW9ND",
+      "title": "Cascade Platinum Plus Dishwasher Pods, Dish Detergent Soap, Clean Scent, 62 Count",
+      "brand": "Cascade",
+      "price": 24.94,
+      "salesParent": 181515,
+      "revenue": 4454378.5,
+      "rating": 4.9,
+      "reviews": 1687
+    },
+    {
+      "rank": 2,
+      "asin": "B0HJ2J713Y",
+      "title": "Finish Jet-Dry Dishwasher Rinse Aid, Dish Detergent Drying Agent, 8.4 Fl Oz (Pack of 8)",
+      "brand": "Finish",
+      "price": 39.52,
+      "salesParent": 85326,
+      "revenue": 3372083.5,
+      "rating": 4.8,
+      "reviews": 100853
+    },
+    {
+      "rank": 3,
+      "asin": "B01NCJSM2T",
+      "title": "Cascade Complete Dishwasher Pods - Fresh Scent ActionPacs, Dishwasher Detergent, Dishwasher Soap, Detergent Pods, 78 Count",
+      "brand": "Cascade",
+      "price": 19.94,
+      "salesParent": 118241,
+      "revenue": 2357725.5,
+      "rating": 4.8,
+      "reviews": 102339
+    },
+    {
+      "rank": 4,
+      "asin": "B0BDJ9M1TN",
+      "title": "BLUELAND 100% Plastic-Free Dishwasher Detergent Tablets, 60ct, Free &amp; Clear",
+      "brand": "BLUELAND",
+      "price": 19.35,
+      "salesParent": 114235,
+      "revenue": 2210447.25,
+      "rating": 4.3,
+      "reviews": 11373
+    },
+    {
+      "rank": 5,
+      "asin": "B0DPLMTPFN",
+      "title": "Cascade Platinum Plus Dishwasher Detergent Pods Dish Soap Lemon 57 Count",
+      "brand": "Cascade",
+      "price": 22.94,
+      "salesParent": 91705,
+      "revenue": 2057860.25,
+      "rating": 4.8,
+      "reviews": 23441
+    },
+    {
+      "rank": 6,
+      "asin": "B0GR6M1Q5C",
+      "title": "Finish Quantum Dishwasher Pods, Dish Detergent, Fresh Scent, 100ct",
+      "brand": "Finish",
+      "price": 21.86,
+      "salesParent": 85062,
+      "revenue": 1897733.12,
+      "rating": 4.8,
+      "reviews": 46162
+    },
+    {
+      "rank": 7,
+      "asin": "B0DR3HBKSB",
+      "title": "Cascade Platinum Dishwasher Pods, Dishwasher Detergent, Dish Detergent Soap, Fresh, 59 Count",
+      "brand": "Cascade",
+      "price": 19.94,
+      "salesParent": 80281,
+      "revenue": 1575916.0,
+      "rating": 4.8,
+      "reviews": 19184
+    },
+    {
+      "rank": 8,
+      "asin": "B01FHUJ1FC",
+      "title": "Seventh Generation Dishwasher Detergent Packs, Free &amp; Clear, 45 Ct, 2 Pack",
+      "brand": "Seventh Generation",
+      "price": 29.25,
+      "salesParent": 51225,
+      "revenue": 1385636.25,
+      "rating": 4.6,
+      "reviews": 17128
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 21,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 21,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 33014373,
+    "priorHeadRevenue": 27366297,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 94,
+      "newCount": 20,
+      "pct": 21,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 85,
+      "brandCount": 35,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.59,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0FDBJW9ND",
+        "title": "Cascade Platinum Plus Dishwasher Pods, Dish Detergent Soap, Clean Scent, 62 Count",
+        "rating": 4.9,
+        "reviews": 1687
+      },
+      {
+        "rank": 2,
+        "asin": "B0HJ2J713Y",
+        "title": "Finish Jet-Dry Dishwasher Rinse Aid, Dish Detergent Drying Agent, 8.4 Fl Oz (Pack of 8)",
+        "rating": 4.8,
+        "reviews": 100853
+      },
+      {
+        "rank": 3,
+        "asin": "B01NCJSM2T",
+        "title": "Cascade Complete Dishwasher Pods - Fresh Scent ActionPacs, Dishwasher Detergent, Dishwasher Soap, Detergent Pods, 78 Count",
+        "rating": 4.8,
+        "reviews": 102339
+      },
+      {
+        "rank": 4,
+        "asin": "B0BDJ9M1TN",
+        "title": "BLUELAND 100% Plastic-Free Dishwasher Detergent Tablets, 60ct, Free &amp; Clear",
+        "rating": 4.3,
+        "reviews": 11373
+      },
+      {
+        "rank": 5,
+        "asin": "B0DPLMTPFN",
+        "title": "Cascade Platinum Plus Dishwasher Detergent Pods Dish Soap Lemon 57 Count",
+        "rating": 4.8,
+        "reviews": 23441
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:15342811:15693761:15693671",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

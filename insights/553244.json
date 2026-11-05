@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "553244",
+  "level": "L2",
+  "categoryPathEn": "Tools & Home Improvement > Measuring & Layout Tools",
+  "categoryPathCn": "工具 > 测量",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 95,
+    "totalRevenue": 14799394,
+    "avgRevenue": 155783,
+    "medianPrice": 99.39,
+    "priceBand": "$37.99 - $499.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0917VXLDK",
+      "title": "Franklin Sensors ProSensor M210 13-Sensor Stud Finder, Live Wire Detection",
+      "brand": "Franklin Sensors",
+      "price": 59.97,
+      "salesParent": 15330,
+      "revenue": 919340.12,
+      "rating": 4.6,
+      "reviews": 6657
+    },
+    {
+      "rank": 2,
+      "asin": "B017LTFSSG",
+      "title": "DEWALT Laser Level 360 Self Leveling, 3 Way Green Laser Leveler Tool 12V MAX with 2.0Ah Battery, Charger and Durable Carrying Case, 100 Ft, Tripod Compatible (DW089LG)",
+      "brand": "DEWALT",
+      "price": 499.0,
+      "salesParent": 897,
+      "revenue": 496247.28,
+      "rating": 4.6,
+      "reviews": 3666
+    },
+    {
+      "rank": 3,
+      "asin": "B00275F5O2",
+      "title": "General Tools MMD4E Moisture Meter for Wood, Walls &amp; Water Leak Detection",
+      "brand": "General Tools",
+      "price": 39.98,
+      "salesParent": 11095,
+      "revenue": 443578.09,
+      "rating": 4.5,
+      "reviews": 15272
+    },
+    {
+      "rank": 4,
+      "asin": "B01CG97GR2",
+      "title": "BOSCH GLM100-23 100 Ft Blaze Laser Distance Measure, With 2 AA Batteries",
+      "brand": "Bosch",
+      "price": 62.99,
+      "salesParent": 6380,
+      "revenue": 401876.22,
+      "rating": 4.7,
+      "reviews": 2747
+    },
+    {
+      "rank": 5,
+      "asin": "B0GYP8QX4F",
+      "title": "Stud Finder, Upgranded Wood and Metal Stud Detector, Live Wire Detection",
+      "brand": "JAXWQ",
+      "price": 19.99,
+      "salesParent": 18029,
+      "revenue": 375003.19,
+      "rating": 4.2,
+      "reviews": 10961
+    },
+    {
+      "rank": 6,
+      "asin": "B0DBQBWCFT",
+      "title": "PREXISO 2-in-1 Stud Finder with Laser Level, Rechargeable Cross Line Laser",
+      "brand": "Prexiso",
+      "price": 49.99,
+      "salesParent": 6875,
+      "revenue": 352137.5,
+      "rating": 4.1,
+      "reviews": 1335
+    },
+    {
+      "rank": 7,
+      "asin": "B09N3JTK8Y",
+      "title": "PREXISO Multi Surface Laser Level LED Light Vial, Cross Line Laser",
+      "brand": "Prexiso",
+      "price": 33.0,
+      "salesParent": 8522,
+      "revenue": 324006.44,
+      "rating": 4.5,
+      "reviews": 2576
+    },
+    {
+      "rank": 8,
+      "asin": "B0DX1T6D1M",
+      "title": "Self Leveling Laser Level 100ft, Green Cross Line with Tripod, 4 Brightness Modes &amp; Pulse Function, Manual &amp; Self-Leveling Modes, IP54 Waterproof for Picture Hanging, Tile, DIY Construction",
+      "brand": "Motovera",
+      "price": 37.99,
+      "salesParent": 7937,
+      "revenue": 307876.25,
+      "rating": 4.2,
+      "reviews": 4276
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 5,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 5,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 14799394,
+    "priorHeadRevenue": 14067470,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 95,
+      "newCount": 17,
+      "pct": 18,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 39,
+      "brandCount": 48,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.45,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0917VXLDK",
+        "title": "Franklin Sensors ProSensor M210 13-Sensor Stud Finder, Live Wire Detection",
+        "rating": 4.6,
+        "reviews": 6657
+      },
+      {
+        "rank": 2,
+        "asin": "B017LTFSSG",
+        "title": "DEWALT Laser Level 360 Self Leveling, 3 Way Green Laser Leveler Tool 12V MAX with 2.0Ah Battery, Charger and Durable Carrying Case, 100 Ft, Tripod Compatible (DW089LG)",
+        "rating": 4.6,
+        "reviews": 3666
+      },
+      {
+        "rank": 3,
+        "asin": "B00275F5O2",
+        "title": "General Tools MMD4E Moisture Meter for Wood, Walls &amp; Water Leak Detection",
+        "rating": 4.5,
+        "reviews": 15272
+      },
+      {
+        "rank": 4,
+        "asin": "B01CG97GR2",
+        "title": "BOSCH GLM100-23 100 Ft Blaze Laser Distance Measure, With 2 AA Batteries",
+        "rating": 4.7,
+        "reviews": 2747
+      },
+      {
+        "rank": 5,
+        "asin": "B0GYP8QX4F",
+        "title": "Stud Finder, Upgranded Wood and Metal Stud Detector, Live Wire Detection",
+        "rating": 4.2,
+        "reviews": 10961
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "228013:553244",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

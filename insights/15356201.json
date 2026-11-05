@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "15356201",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Household Supplies > Laundry > Fabric Deodorizer",
+  "categoryPathCn": "健康与家居 > 家居用品 > 衣物清洁 > 衣物除臭剂",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 14193385,
+    "avgRevenue": 143368,
+    "medianPrice": 15.97,
+    "priceBand": "$11.02 - $22.95",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B01N6BP63M",
+      "title": "Lysol Laundry Sanitizer Liquid, Detergent Additive, Crisp Linen, 90oz",
+      "brand": "Lysol",
+      "price": 12.97,
+      "salesParent": 152480,
+      "revenue": 1977665.62,
+      "rating": 4.8,
+      "reviews": 114381
+    },
+    {
+      "rank": 2,
+      "asin": "B07S9YWTSZ",
+      "title": "Downy Fresh Protect Laundry Scent Booster Beads for Washer with Febreze Odor Defense, April Fresh, 10 oz, 4 Count",
+      "brand": "Downy",
+      "price": 57.77,
+      "salesParent": 26423,
+      "revenue": 1442960.0,
+      "rating": 4.8,
+      "reviews": 1891
+    },
+    {
+      "rank": 3,
+      "asin": "B0FG98TCQS",
+      "title": "Downy Rinse Laundry Odor Remover, Ocean Mist Scent, 62 FL OZ, Fabric Softener and Laundry Odor Removal Rinse",
+      "brand": "Downy",
+      "price": 15.97,
+      "salesParent": 50991,
+      "revenue": 813816.38,
+      "rating": 4.7,
+      "reviews": 15508
+    },
+    {
+      "rank": 4,
+      "asin": "B07XR3C87P",
+      "title": "Lysol Laundry Sanitizer Liquid, Detergent Additive, Free &amp; Clear, 90oz",
+      "brand": "Lysol",
+      "price": 12.97,
+      "salesParent": 49801,
+      "revenue": 641436.88,
+      "rating": 4.8,
+      "reviews": 9539
+    },
+    {
+      "rank": 5,
+      "asin": "B0D5P9ZNPW",
+      "title": "Downy April Fresh In-Wash Laundry Scent Booster Beads, 30.1 oz, Laundry Scent Beads, Long-Lasting Freshness",
+      "brand": "Downy",
+      "price": 18.97,
+      "salesParent": 26969,
+      "revenue": 511601.91,
+      "rating": 4.9,
+      "reviews": 1226
+    },
+    {
+      "rank": 6,
+      "asin": "B0CCGK1F86",
+      "title": "Gain In-Wash Laundry Scent Booster Beads Long-Lasting Fresh Scent Beads All Day Freshness and Odor Protection, Original Scent, 24 oz",
+      "brand": "Gain",
+      "price": 15.97,
+      "salesParent": 30212,
+      "revenue": 482485.66,
+      "rating": 4.8,
+      "reviews": 7638
+    },
+    {
+      "rank": 7,
+      "asin": "B0CCGG6JZX",
+      "title": "Dreft Blissfuls In-Wash Laundry Scent Booster Beads, Baby Fresh Scent, 24 oz",
+      "brand": "Dreft",
+      "price": 15.99,
+      "salesParent": 30754,
+      "revenue": 478839.78,
+      "rating": 4.9,
+      "reviews": 5868
+    },
+    {
+      "rank": 8,
+      "asin": "B0CS7MV9PT",
+      "title": "Febreze Fabric Spray Air Freshener, Odor-Fighting Fabric Refresher, Sneaker Balls Alternative, Couch Cleaner, Linen Spray, Multi-Use, Extra Strength Scent, 23.6 fl oz",
+      "brand": "Febreze",
+      "price": 5.94,
+      "salesParent": 75982,
+      "revenue": 446014.34,
+      "rating": 4.8,
+      "reviews": 22368
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -9,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -9,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 14193385,
+    "priorHeadRevenue": 15574771,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 22,
+      "pct": 22,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 77,
+      "brandCount": 36,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.62,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B01N6BP63M",
+        "title": "Lysol Laundry Sanitizer Liquid, Detergent Additive, Crisp Linen, 90oz",
+        "rating": 4.8,
+        "reviews": 114381
+      },
+      {
+        "rank": 2,
+        "asin": "B07S9YWTSZ",
+        "title": "Downy Fresh Protect Laundry Scent Booster Beads for Washer with Febreze Odor Defense, April Fresh, 10 oz, 4 Count",
+        "rating": 4.8,
+        "reviews": 1891
+      },
+      {
+        "rank": 3,
+        "asin": "B0FG98TCQS",
+        "title": "Downy Rinse Laundry Odor Remover, Ocean Mist Scent, 62 FL OZ, Fabric Softener and Laundry Odor Removal Rinse",
+        "rating": 4.7,
+        "reviews": 15508
+      },
+      {
+        "rank": 4,
+        "asin": "B07XR3C87P",
+        "title": "Lysol Laundry Sanitizer Liquid, Detergent Additive, Free &amp; Clear, 90oz",
+        "rating": 4.8,
+        "reviews": 9539
+      },
+      {
+        "rank": 5,
+        "asin": "B0D5P9ZNPW",
+        "title": "Downy April Fresh In-Wash Laundry Scent Booster Beads, 30.1 oz, Laundry Scent Beads, Long-Lasting Freshness",
+        "rating": 4.9,
+        "reviews": 1226
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:15342811:15356111:15356201",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3779951",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Health Care > Foot Health > Bunion Pads",
+  "categoryPathCn": "健康与家居 > 卫生保健 > 足部护理 > 姆囊炎垫",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 98,
+    "totalRevenue": 1688339,
+    "avgRevenue": 17228,
+    "medianPrice": 9.99,
+    "priceBand": "$9.99 - $14.12",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B00UM4XY7K",
+      "title": "ZenToes Gel Toe Spacers for Bunions &amp; Overlapping Toes, 4 Count",
+      "brand": "ZenToes",
+      "price": 13.98,
+      "salesParent": 17981,
+      "revenue": 251374.38,
+      "rating": 4.2,
+      "reviews": 31787
+    },
+    {
+      "rank": 2,
+      "asin": "B074JGZFG3",
+      "title": "ZenToes Gel Toe Caps, Silicone Toe Protectors, 6-Pack (Large, Beige)",
+      "brand": "ZenToes",
+      "price": 12.99,
+      "salesParent": 8937,
+      "revenue": 116092.0,
+      "rating": 4.2,
+      "reviews": 18022
+    },
+    {
+      "rank": 3,
+      "asin": "B0B2SJBXYB",
+      "title": "Dr. Scholl's Duragel Bunion Cushion (Pack of 3, 15 Count Total)",
+      "brand": "Dr. Scholl's",
+      "price": 17.91,
+      "salesParent": 4900,
+      "revenue": 85358.0,
+      "rating": 4.3,
+      "reviews": 6741
+    },
+    {
+      "rank": 4,
+      "asin": "B0BZH8CTVD",
+      "title": "Welnove 12-Pack Gel Toe Separators – Bunion Pads – Toe Spacers for Straightening Overlapping Toes for Men and Women - Transparent",
+      "brand": "Welnove",
+      "price": 13.99,
+      "salesParent": 5250,
+      "revenue": 73447.5,
+      "rating": 4.3,
+      "reviews": 3986
+    },
+    {
+      "rank": 5,
+      "asin": "B07Q27MFCV",
+      "title": "Blulu 24 Pcs Toe Protector Sleeve for Corns, Skin Color, Assorted Sizes",
+      "brand": "Blulu",
+      "price": 6.99,
+      "salesParent": 9727,
+      "revenue": 67991.73,
+      "rating": 4.1,
+      "reviews": 9990
+    },
+    {
+      "rank": 6,
+      "asin": "B08Q849L7X",
+      "title": "Welnove Gel Toe Separator, Pinky Toe Spacers, Little Toe Cushions, Small Toe Sleeves for Preventing Rubbing &amp; Reducing Pressure (Pack of 12, Transparent)",
+      "brand": "Welnove",
+      "price": 9.99,
+      "salesParent": 6258,
+      "revenue": 62517.42,
+      "rating": 4.1,
+      "reviews": 13386
+    },
+    {
+      "rank": 7,
+      "asin": "B082MG6NNK",
+      "title": "Welnove Pack of 12 Bunion Corrector, Toe Separators with 2 Loops, Big Toe Spacer Suitable for Bunion and Overlap Toe (White)",
+      "brand": "Welnove",
+      "price": 9.99,
+      "salesParent": 5981,
+      "revenue": 59750.19,
+      "rating": 4.0,
+      "reviews": 12211
+    },
+    {
+      "rank": 8,
+      "asin": "B01BMY4X5U",
+      "title": "Dr. Frederick's Soft Gel Toe Protector Caps, Trim-to-fit, Washable, 6 ct",
+      "brand": "Dr. Frederick's Original",
+      "price": 12.99,
+      "salesParent": 4156,
+      "revenue": 53986.44,
+      "rating": 4.3,
+      "reviews": 4391
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 5,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 5,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1688339,
+    "priorHeadRevenue": 1602032,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 98,
+      "newCount": 20,
+      "pct": 20,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 61,
+      "brandCount": 57,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.08,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B00UM4XY7K",
+        "title": "ZenToes Gel Toe Spacers for Bunions &amp; Overlapping Toes, 4 Count",
+        "rating": 4.2,
+        "reviews": 31787
+      },
+      {
+        "rank": 2,
+        "asin": "B074JGZFG3",
+        "title": "ZenToes Gel Toe Caps, Silicone Toe Protectors, 6-Pack (Large, Beige)",
+        "rating": 4.2,
+        "reviews": 18022
+      },
+      {
+        "rank": 3,
+        "asin": "B0B2SJBXYB",
+        "title": "Dr. Scholl's Duragel Bunion Cushion (Pack of 3, 15 Count Total)",
+        "rating": 4.3,
+        "reviews": 6741
+      },
+      {
+        "rank": 4,
+        "asin": "B0BZH8CTVD",
+        "title": "Welnove 12-Pack Gel Toe Separators – Bunion Pads – Toe Spacers for Straightening Overlapping Toes for Men and Women - Transparent",
+        "rating": 4.3,
+        "reviews": 3986
+      },
+      {
+        "rank": 5,
+        "asin": "B07Q27MFCV",
+        "title": "Blulu 24 Pcs Toe Protector Sleeve for Corns, Skin Color, Assorted Sizes",
+        "rating": 4.1,
+        "reviews": 9990
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3760941:3779911:3779951",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

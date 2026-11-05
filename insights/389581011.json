@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "389581011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Household Supplies > Household Batteries > Coin & Button Cell",
+  "categoryPathCn": "健康与家居 > 家居用品 > 家用电池 > 纽扣电池",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 8121762,
+    "avgRevenue": 81218,
+    "medianPrice": 7.94,
+    "priceBand": "$4.99 - $9.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B009108SGS",
+      "title": "Duracell 2032 Lithium Battery, 4 Count, AirTag &amp; Key Fob, CR2032 3V Cell",
+      "brand": "DURACELL",
+      "price": 7.19,
+      "salesParent": 172637,
+      "revenue": 738886.38,
+      "rating": 4.8,
+      "reviews": 102530
+    },
+    {
+      "rank": 2,
+      "asin": "B0CH1N7X5W",
+      "title": "Energizer CR2032 Batteries (10 Pack), 3V Lithium Coin Batteries",
+      "brand": "Energizer",
+      "price": 10.12,
+      "salesParent": 53520,
+      "revenue": 731083.19,
+      "rating": 4.7,
+      "reviews": 29639
+    },
+    {
+      "rank": 3,
+      "asin": "B0C15WJXL2",
+      "title": "Duracell 2032 Lithium Battery, 9 Count, AirTag &amp; Key Fob, CR2032 3V Cell",
+      "brand": "DURACELL",
+      "price": 12.39,
+      "salesParent": 80023,
+      "revenue": 727409.06,
+      "rating": 4.8,
+      "reviews": 11036
+    },
+    {
+      "rank": 4,
+      "asin": "B0C15XS1PQ",
+      "title": "Duracell CR2450 Lithium Battery, 6 Count, Key Fob &amp; Car Remote, 3V Cell",
+      "brand": "DURACELL",
+      "price": 19.99,
+      "salesParent": 20525,
+      "revenue": 400032.25,
+      "rating": 4.7,
+      "reviews": 31875
+    },
+    {
+      "rank": 5,
+      "asin": "B08ML4X69J",
+      "title": "POWEROWL High Capacity CR2032 Battery (20-Pack) 3v Lithium Batteries, Leak-Free, Long Lasting Cr 2032",
+      "brand": "POWEROWL",
+      "price": 7.99,
+      "salesParent": 34346,
+      "revenue": 300870.97,
+      "rating": 4.4,
+      "reviews": 25546
+    },
+    {
+      "rank": 6,
+      "asin": "B088BBV7DS",
+      "title": "POWEROWL High Capacity LR44 Batteries 40 Pack, L1154F AG13 357 303 SR44 A76 Premium Alkaline Battery 1.5V Button Coin Cell Batteries",
+      "brand": "POWEROWL",
+      "price": 8.99,
+      "salesParent": 32863,
+      "revenue": 279335.5,
+      "rating": 4.6,
+      "reviews": 32580
+    },
+    {
+      "rank": 7,
+      "asin": "B0CPWYVX6H",
+      "title": "Energizer 2450 Lithium Coin Battery, 2 Pack",
+      "brand": "Energizer",
+      "price": 5.84,
+      "salesParent": 46038,
+      "revenue": 251827.84,
+      "rating": 4.8,
+      "reviews": 8030
+    },
+    {
+      "rank": 8,
+      "asin": "B0DQ6D1D72",
+      "title": "PHILIPS CR2450 Battery, [5-Pack] cr2450 3v Lithium Coin Cell Batteries, Long-Lasting 2450 batteries, 10-Year Shelf Life, CR 2450 Battery for Car Key Fob, Medical Devices, MyQ battery, Remote Controls.",
+      "brand": "PHILIPS",
+      "price": 9.99,
+      "salesParent": 23206,
+      "revenue": 231595.88,
+      "rating": 4.7,
+      "reviews": 1525
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -3,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -3,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 8121762,
+    "priorHeadRevenue": 8405647,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 29,
+      "pct": 29,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 75,
+      "brandCount": 31,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.61,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B009108SGS",
+        "title": "Duracell 2032 Lithium Battery, 4 Count, AirTag &amp; Key Fob, CR2032 3V Cell",
+        "rating": 4.8,
+        "reviews": 102530
+      },
+      {
+        "rank": 2,
+        "asin": "B0CH1N7X5W",
+        "title": "Energizer CR2032 Batteries (10 Pack), 3V Lithium Coin Batteries",
+        "rating": 4.7,
+        "reviews": 29639
+      },
+      {
+        "rank": 3,
+        "asin": "B0C15WJXL2",
+        "title": "Duracell 2032 Lithium Battery, 9 Count, AirTag &amp; Key Fob, CR2032 3V Cell",
+        "rating": 4.8,
+        "reviews": 11036
+      },
+      {
+        "rank": 4,
+        "asin": "B0C15XS1PQ",
+        "title": "Duracell CR2450 Lithium Battery, 6 Count, Key Fob &amp; Car Remote, 3V Cell",
+        "rating": 4.7,
+        "reviews": 31875
+      },
+      {
+        "rank": 5,
+        "asin": "B08ML4X69J",
+        "title": "POWEROWL High Capacity CR2032 Battery (20-Pack) 3v Lithium Batteries, Leak-Free, Long Lasting Cr 2032",
+        "rating": 4.4,
+        "reviews": 25546
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:15342811:15745581:389581011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

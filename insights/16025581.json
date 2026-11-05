@@ -1,0 +1,140 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "16025581",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Baby & Child Care > Health Care > Allergy Medicine",
+  "categoryPathCn": "健康与家居 > 婴儿和儿童护理 > 健康护理 > 过敏医学",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "insufficient",
+  "marketSize": {
+    "sampleCount": 4,
+    "totalRevenue": 683628,
+    "avgRevenue": 170907,
+    "medianPrice": 11.71,
+    "priceBand": "$9.95 - $16.47",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B001P5H8U4",
+      "title": "Children's Zyrtec Allergy Relief Syrup Cetirizine HCl, Bubble Gum, 4 fl. oz",
+      "brand": "Zyrtec",
+      "price": 13.44,
+      "salesParent": 33464,
+      "revenue": 449756.16,
+      "rating": 4.8,
+      "reviews": 1846
+    },
+    {
+      "rank": 2,
+      "asin": "B07282FCHP",
+      "title": "Flonase Children's Sensimist Allergy Relief Spray, 60 Sprays",
+      "brand": "Flonase",
+      "price": 17.48,
+      "salesParent": 6693,
+      "revenue": 116592.06,
+      "rating": 4.8,
+      "reviews": 3565
+    },
+    {
+      "rank": 3,
+      "asin": "B01LQBIWKG",
+      "title": "Xyzal Children's 24-Hour Allergy Relief Liquid, Bubble Gum Flavor, 5 oz.",
+      "brand": "Xyzal",
+      "price": 9.94,
+      "salesParent": 11437,
+      "revenue": 113683.77,
+      "rating": 4.8,
+      "reviews": 5494
+    },
+    {
+      "rank": 4,
+      "asin": "B0GRJFFRYX",
+      "title": "HealthA2Z® Children's Fluticasone Propionate Nasal Spray, 50 mcg, 72 Sprays",
+      "brand": "HealthA2Z",
+      "price": 9.99,
+      "salesParent": 360,
+      "revenue": 3596.4,
+      "rating": 4.6,
+      "reviews": 32
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": null,
+    "direction": "flat",
+    "comparable": null,
+    "rawYoyPct": 600,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 683628,
+    "priorHeadRevenue": 97712,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 4,
+      "newCount": 1,
+      "pct": 25,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 100,
+      "brandCount": 4,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.75,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B001P5H8U4",
+        "title": "Children's Zyrtec Allergy Relief Syrup Cetirizine HCl, Bubble Gum, 4 fl. oz",
+        "rating": 4.8,
+        "reviews": 1846
+      },
+      {
+        "rank": 2,
+        "asin": "B07282FCHP",
+        "title": "Flonase Children's Sensimist Allergy Relief Spray, 60 Sprays",
+        "rating": 4.8,
+        "reviews": 3565
+      },
+      {
+        "rank": 3,
+        "asin": "B01LQBIWKG",
+        "title": "Xyzal Children's 24-Hour Allergy Relief Liquid, Bubble Gum Flavor, 5 oz.",
+        "rating": 4.8,
+        "reviews": 5494
+      },
+      {
+        "rank": 4,
+        "asin": "B0GRJFFRYX",
+        "title": "HealthA2Z® Children's Fluticasone Propionate Nasal Spray, 50 mcg, 72 Sprays",
+        "rating": 4.6,
+        "reviews": 32
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:10787321:16025501:16025581",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

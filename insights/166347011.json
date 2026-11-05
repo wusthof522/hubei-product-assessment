@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "166347011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Dress Up & Pretend Play > Kitchen Toys > Kitchen Playsets",
+  "categoryPathCn": "玩具 > 扮靓 > 玩具厨房 > 厨房玩具",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 97,
+    "totalRevenue": 6536309,
+    "avgRevenue": 67385,
+    "medianPrice": 99.99,
+    "priceBand": "$36.95 - $157.49",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0FXJ5T2QS",
+      "title": "Melissa &amp; Doug Pretend Play Set: Wooden Ice Cream Counter (28 Pieces) &amp; Coffee Maker Set (11 Pieces) - Play Kitchen Accessories for Kids 3+",
+      "brand": "Melissa &amp; Doug",
+      "price": 60.98,
+      "salesParent": 17941,
+      "revenue": 1094042.12,
+      "rating": 4.9,
+      "reviews": 18371
+    },
+    {
+      "rank": 2,
+      "asin": "B08H8DT32C",
+      "title": "Tiny Land Play Kitchen for Kids – Real Lights, Sounds &amp; Adjustable Height",
+      "brand": "Tiny Land",
+      "price": 149.99,
+      "salesParent": 2300,
+      "revenue": 337088.0,
+      "rating": 4.6,
+      "reviews": 2267
+    },
+    {
+      "rank": 3,
+      "asin": "B0BQK4SGFB",
+      "title": "Step2 Fun with Friends Kids Kitchen Playset, Lights &amp; Sounds, Gray",
+      "brand": "Step2",
+      "price": 114.99,
+      "salesParent": 2603,
+      "revenue": 299318.97,
+      "rating": 4.7,
+      "reviews": 19729
+    },
+    {
+      "rank": 4,
+      "asin": "B0BBVPNSKH",
+      "title": "Tiny Land Play Kitchen for Kids – Modern Home Design with Fabric Curtains",
+      "brand": "Tiny Land",
+      "price": 229.99,
+      "salesParent": 1195,
+      "revenue": 263234.59,
+      "rating": 4.4,
+      "reviews": 2893
+    },
+    {
+      "rank": 5,
+      "asin": "B0C6MD24Z7",
+      "title": "Tiny Land Wooden Play Kitchen for Kids with Toy Storage for Pretend Play",
+      "brand": "Tiny Land",
+      "price": 189.99,
+      "salesParent": 1056,
+      "revenue": 197028.48,
+      "rating": 4.5,
+      "reviews": 712
+    },
+    {
+      "rank": 6,
+      "asin": "B0BYC7G5MP",
+      "title": "130Pcs Kitchen Playset, Toddler Pretend Cooking Play Pots, Pans, Utensils Cookware, Daily Food Fruit Veges, Shopping Storage Basket, Dessert, Prop Money, Learning Gift for Child (Blue)",
+      "brand": "Funpynani",
+      "price": 28.79,
+      "salesParent": 5744,
+      "revenue": 191907.05,
+      "rating": 4.6,
+      "reviews": 2203
+    },
+    {
+      "rank": 7,
+      "asin": "B0DRXNZVS9",
+      "title": "Tiny Land Wooden Play Kitchen for Toddlers, Kids Play Toy Kitchen Set",
+      "brand": "Tiny Land",
+      "price": 159.99,
+      "salesParent": 1000,
+      "revenue": 160290.0,
+      "rating": 4.7,
+      "reviews": 253
+    },
+    {
+      "rank": 8,
+      "asin": "B0DPCT2XTV",
+      "title": "Best Choice Products Kids Wooden Cottage Play Kitchen for Toddlers, Pink",
+      "brand": "Best Choice Products",
+      "price": 109.99,
+      "salesParent": 1576,
+      "revenue": 159412.41,
+      "rating": 4.6,
+      "reviews": 531
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 0,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 0,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 6536309,
+    "priorHeadRevenue": 6519426,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 97,
+      "newCount": 36,
+      "pct": 37,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 60,
+      "brandCount": 54,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.49,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0FXJ5T2QS",
+        "title": "Melissa &amp; Doug Pretend Play Set: Wooden Ice Cream Counter (28 Pieces) &amp; Coffee Maker Set (11 Pieces) - Play Kitchen Accessories for Kids 3+",
+        "rating": 4.9,
+        "reviews": 18371
+      },
+      {
+        "rank": 2,
+        "asin": "B08H8DT32C",
+        "title": "Tiny Land Play Kitchen for Kids – Real Lights, Sounds &amp; Adjustable Height",
+        "rating": 4.6,
+        "reviews": 2267
+      },
+      {
+        "rank": 3,
+        "asin": "B0BQK4SGFB",
+        "title": "Step2 Fun with Friends Kids Kitchen Playset, Lights &amp; Sounds, Gray",
+        "rating": 4.7,
+        "reviews": 19729
+      },
+      {
+        "rank": 4,
+        "asin": "B0BBVPNSKH",
+        "title": "Tiny Land Play Kitchen for Kids – Modern Home Design with Fabric Curtains",
+        "rating": 4.4,
+        "reviews": 2893
+      },
+      {
+        "rank": 5,
+        "asin": "B0C6MD24Z7",
+        "title": "Tiny Land Wooden Play Kitchen for Kids with Toy Storage for Pretend Play",
+        "rating": 4.5,
+        "reviews": 712
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166316011:166343011:166347011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

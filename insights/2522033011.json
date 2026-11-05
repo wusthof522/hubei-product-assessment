@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "2522033011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Baby & Toddler Toys > Early Development & Activity Toys > Hammering & Pounding Toys",
+  "categoryPathCn": "玩具 > 婴幼儿 > 早期发展 > 锤击",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 972474,
+    "avgRevenue": 9725,
+    "medianPrice": 24.99,
+    "priceBand": "$17.99 - $32.74",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0B7WXKKWJ",
+      "title": "HopeRock Toys for 2 3 4 5 Year Old Boy,Toddler Toys Age 2-4 Birthday Gift",
+      "brand": "HopeRock",
+      "price": 29.99,
+      "salesParent": 5179,
+      "revenue": 153868.08,
+      "rating": 4.5,
+      "reviews": 4944
+    },
+    {
+      "rank": 2,
+      "asin": "B0D25LZ1TJ",
+      "title": "Joyreal Wooden Montessori Toys for 1 Year Old Hammering Pounding Toys",
+      "brand": "Joyreal",
+      "price": 24.99,
+      "salesParent": 3734,
+      "revenue": 93312.66,
+      "rating": 4.8,
+      "reviews": 638
+    },
+    {
+      "rank": 3,
+      "asin": "B0CHLYBJMK",
+      "title": "Whack Game Mole,Toys for 3-12 Year Old Boy Girl,Gifts for Kids Ages 3+",
+      "brand": "ANNKIE",
+      "price": 42.99,
+      "salesParent": 1232,
+      "revenue": 52963.68,
+      "rating": 4.5,
+      "reviews": 2214
+    },
+    {
+      "rank": 4,
+      "asin": "B0FN82LMDN",
+      "title": "Vanplay Montessori Toys for 1 2 Year Old Boy Gifts - Hammering Pounding Toy",
+      "brand": "Vanplay",
+      "price": 31.99,
+      "salesParent": 1358,
+      "revenue": 43442.42,
+      "rating": 4.6,
+      "reviews": 113
+    },
+    {
+      "rank": 5,
+      "asin": "B0FZK1R4NP",
+      "title": "Vanplay Montessori Ball Drop Toys for 1 2 Year Old Boy Girls Birthday Gifts",
+      "brand": "Vanplay",
+      "price": 32.99,
+      "salesParent": 1197,
+      "revenue": 38292.03,
+      "rating": 4.3,
+      "reviews": 1125
+    },
+    {
+      "rank": 6,
+      "asin": "B0GDFQB8RG",
+      "title": "Lehoo Castle Montessori Toys for 1 Year Old, 1st Birthday Gift for Boy 1-2",
+      "brand": "Lehoo Castle",
+      "price": 22.99,
+      "salesParent": 1605,
+      "revenue": 36545.85,
+      "rating": 4.5,
+      "reviews": 357
+    },
+    {
+      "rank": 7,
+      "asin": "B01N1FCSBQ",
+      "title": "Durable Pound A Ball Toys for Toddler, Stacking, Learning, Active, Early Developmental Hammer Montessori Toys, Fun Gifts for Boy &amp; Girl - STEM Educational Toy - Great Birthday Gift Ages 1 2 3",
+      "brand": "Playkidz",
+      "price": 29.99,
+      "salesParent": 1206,
+      "revenue": 35842.32,
+      "rating": 4.6,
+      "reviews": 8182
+    },
+    {
+      "rank": 8,
+      "asin": "B082LRQPR2",
+      "title": "ArtCreativity 14&quot; Giant Squeaky Hammer for Kids – Jumbo Squeaking Toy",
+      "brand": "ArtCreativity",
+      "price": 19.99,
+      "salesParent": 1702,
+      "revenue": 31997.6,
+      "rating": 4.4,
+      "reviews": 1152
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -6,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -6,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 972474,
+    "priorHeadRevenue": 1031690,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 44,
+      "pct": 44,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 45,
+      "brandCount": 75,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.46,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0B7WXKKWJ",
+        "title": "HopeRock Toys for 2 3 4 5 Year Old Boy,Toddler Toys Age 2-4 Birthday Gift",
+        "rating": 4.5,
+        "reviews": 4944
+      },
+      {
+        "rank": 2,
+        "asin": "B0D25LZ1TJ",
+        "title": "Joyreal Wooden Montessori Toys for 1 Year Old Hammering Pounding Toys",
+        "rating": 4.8,
+        "reviews": 638
+      },
+      {
+        "rank": 3,
+        "asin": "B0CHLYBJMK",
+        "title": "Whack Game Mole,Toys for 3-12 Year Old Boy Girl,Gifts for Kids Ages 3+",
+        "rating": 4.5,
+        "reviews": 2214
+      },
+      {
+        "rank": 4,
+        "asin": "B0FN82LMDN",
+        "title": "Vanplay Montessori Toys for 1 2 Year Old Boy Gifts - Hammering Pounding Toy",
+        "rating": 4.6,
+        "reviews": 113
+      },
+      {
+        "rank": 5,
+        "asin": "B0FZK1R4NP",
+        "title": "Vanplay Montessori Ball Drop Toys for 1 2 Year Old Boy Girls Birthday Gifts",
+        "rating": 4.3,
+        "reviews": 1125
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:196601011:21490695011:2522033011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

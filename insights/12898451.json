@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "12898451",
+  "level": "L2",
+  "categoryPathEn": "Arts, Crafts & Sewing > Printmaking",
+  "categoryPathCn": "艺术、手工艺 > 版画",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 96,
+    "totalRevenue": 8933018,
+    "avgRevenue": 93052,
+    "medianPrice": 177.03,
+    "priceBand": "$111.02 - $462.48",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0DHZ969FT",
+      "title": "HTVRONT Auto Heat Press 2 - Adjustable Pressure Heat Press Machine 15X15&quot;",
+      "brand": "HTVRONT",
+      "price": 349.99,
+      "salesParent": 2432,
+      "revenue": 815400.94,
+      "rating": 4.6,
+      "reviews": 1425
+    },
+    {
+      "rank": 2,
+      "asin": "B0B6GTVZFH",
+      "title": "HTVRONT Auto Heat Press Machine for T Shirts - 15x15 Smart T Shirt Press Machine with Auto Release - Professional Heat Press for Sublimation, Vinyl, Heat Transfer Projects",
+      "brand": "HTVRONT",
+      "price": 236.0,
+      "salesParent": 3123,
+      "revenue": 737028.0,
+      "rating": 4.6,
+      "reviews": 6700
+    },
+    {
+      "rank": 3,
+      "asin": "B07G51DZ45",
+      "title": "Cricut EasyPress 2 Heat Press Machine (12 in x 10 in), Ideal for T-Shirts, Tote Bags, Pillows, Aprons &amp; More, Precise Temperature Control, Features Insulated Safety Base &amp; Auto-Off, Raspberry",
+      "brand": "Cricut",
+      "price": 188.4,
+      "salesParent": 1697,
+      "revenue": 319714.78,
+      "rating": 4.7,
+      "reviews": 8961
+    },
+    {
+      "rank": 4,
+      "asin": "B0FR431CSF",
+      "title": "Delclynee 16&quot; x 24&quot; Slide Out (12.25&quot;) Heat Press Machine for T Shirts, Clamshell Pull Out Lower Platen, Industrial-Quality Digital Sublimation Printer for Heat Transfer Vinyl",
+      "brand": "Delclynee",
+      "price": 284.99,
+      "salesParent": 1077,
+      "revenue": 306934.22,
+      "rating": 4.4,
+      "reviews": 137
+    },
+    {
+      "rank": 5,
+      "asin": "B0H4H8YNY2",
+      "title": "Cricut AutoPress™ 2 15x15 Heat Press Machine for T Shirts &amp; More",
+      "brand": "Cricut",
+      "price": 349.99,
+      "salesParent": 780,
+      "revenue": 263413.78,
+      "rating": 4.7,
+      "reviews": 104
+    },
+    {
+      "rank": 6,
+      "asin": "B0FX9V4L7Q",
+      "title": "Cricut EasyPress Mini™ LT - Blue - Mini Heat Press",
+      "brand": "Cricut",
+      "price": 29.0,
+      "salesParent": 5420,
+      "revenue": 197016.98,
+      "rating": 4.7,
+      "reviews": 845
+    },
+    {
+      "rank": 7,
+      "asin": "B0GH8JFN5G",
+      "title": "Cricut EasyPress® SE – 12 in x 10 in Heat Press - Blue",
+      "brand": "Cricut",
+      "price": 119.0,
+      "salesParent": 1684,
+      "revenue": 191555.0,
+      "rating": 4.7,
+      "reviews": 8962
+    },
+    {
+      "rank": 8,
+      "asin": "B0G3WWHJGJ",
+      "title": "InkSonic F1080 A3+ DTF Printer: Shaker &amp; Dryer, Fume Extractor",
+      "brand": "RocRow",
+      "price": 3699.0,
+      "salesParent": 53,
+      "revenue": 191379.28,
+      "rating": 2.5,
+      "reviews": 7
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -14,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -14,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 8933018,
+    "priorHeadRevenue": 10438513,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 96,
+      "newCount": 49,
+      "pct": 51,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 63,
+      "brandCount": 45,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.44,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0DHZ969FT",
+        "title": "HTVRONT Auto Heat Press 2 - Adjustable Pressure Heat Press Machine 15X15&quot;",
+        "rating": 4.6,
+        "reviews": 1425
+      },
+      {
+        "rank": 2,
+        "asin": "B0B6GTVZFH",
+        "title": "HTVRONT Auto Heat Press Machine for T Shirts - 15x15 Smart T Shirt Press Machine with Auto Release - Professional Heat Press for Sublimation, Vinyl, Heat Transfer Projects",
+        "rating": 4.6,
+        "reviews": 6700
+      },
+      {
+        "rank": 3,
+        "asin": "B07G51DZ45",
+        "title": "Cricut EasyPress 2 Heat Press Machine (12 in x 10 in), Ideal for T-Shirts, Tote Bags, Pillows, Aprons &amp; More, Precise Temperature Control, Features Insulated Safety Base &amp; Auto-Off, Raspberry",
+        "rating": 4.7,
+        "reviews": 8961
+      },
+      {
+        "rank": 4,
+        "asin": "B0FR431CSF",
+        "title": "Delclynee 16&quot; x 24&quot; Slide Out (12.25&quot;) Heat Press Machine for T Shirts, Clamshell Pull Out Lower Platen, Industrial-Quality Digital Sublimation Printer for Heat Transfer Vinyl",
+        "rating": 4.4,
+        "reviews": 137
+      },
+      {
+        "rank": 5,
+        "asin": "B0H4H8YNY2",
+        "title": "Cricut AutoPress™ 2 15x15 Heat Press Machine for T Shirts &amp; More",
+        "rating": 4.7,
+        "reviews": 104
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "2617941011:12898451",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

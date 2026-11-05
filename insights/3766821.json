@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3766821",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins, Minerals & Supplements > Herbal Supplements > Red Yeast Rice",
+  "categoryPathCn": "健康与家居 > 身、泳和附剂 > 草本补充 > 红曲米",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 3237232,
+    "avgRevenue": 32699,
+    "medianPrice": 25.49,
+    "priceBand": "$18.99 - $35.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B09J9C9F3G",
+      "title": "Red Yeast Rice with CoQ10 Supplement - Healthy Heart Support - 120 Ct",
+      "brand": "Natures Craft",
+      "price": 22.99,
+      "salesParent": 33890,
+      "revenue": 779131.06,
+      "rating": 4.6,
+      "reviews": 8806
+    },
+    {
+      "rank": 2,
+      "asin": "B00192G10Q",
+      "title": "THORNE Red Yeast Rice + CoQ10, Provides Antioxidant Support*, 120 Capsules",
+      "brand": "THORNE",
+      "price": 46.0,
+      "salesParent": 8803,
+      "revenue": 404938.0,
+      "rating": 4.6,
+      "reviews": 2157
+    },
+    {
+      "rank": 3,
+      "asin": "B005P0MJF4",
+      "title": "THORNE Red Yeast Rice, 900 mg per Capsule, 120 Capsules",
+      "brand": "THORNE",
+      "price": 56.0,
+      "salesParent": 3078,
+      "revenue": 172368.0,
+      "rating": 4.7,
+      "reviews": 931
+    },
+    {
+      "rank": 4,
+      "asin": "B003TZ476Q",
+      "title": "Jarrow Red Yeast Rice 1200 mg with CoQ10 100mg (Q10), 120 Capsules",
+      "brand": "Jarrow Formulas",
+      "price": 26.99,
+      "salesParent": 6228,
+      "revenue": 147915.0,
+      "rating": 4.7,
+      "reviews": 2129
+    },
+    {
+      "rank": 5,
+      "asin": "B07YDGP3NY",
+      "title": "Red Yeast Rice with CoQ10 Supplement, Cholesterol &amp; Heart Health Support",
+      "brand": "Purely Holistic",
+      "price": 21.97,
+      "salesParent": 6282,
+      "revenue": 137952.72,
+      "rating": 4.6,
+      "reviews": 5426
+    },
+    {
+      "rank": 6,
+      "asin": "B07613LFKD",
+      "title": "Red Yeast Rice 1215 mg. Capsules - Extra Strength Red Rice Yeast with CoQ10 Supplement, Plus Alpha Lipoic Acid &amp; Organic Flaxseed, Citrinin Free, Supports Cardiovascular Health, Non-GMO 90 Veggie Caps",
+      "brand": "ForestLeaf",
+      "price": 21.95,
+      "salesParent": 5407,
+      "revenue": 118683.66,
+      "rating": 4.6,
+      "reviews": 4803
+    },
+    {
+      "rank": 7,
+      "asin": "B0039N1VQW",
+      "title": "Designs for Health Red Yeast Rice, Cardiovascular Support, 180 Capsules",
+      "brand": "Designs for Health",
+      "price": 55.49,
+      "salesParent": 2085,
+      "revenue": 115696.66,
+      "rating": 4.6,
+      "reviews": 869
+    },
+    {
+      "rank": 8,
+      "asin": "B09MZTZ26R",
+      "title": "Nutricost Red Yeast Rice 1200mg, 120 Capsules, 60 Servings, Gluten Free",
+      "brand": "Nutricost",
+      "price": 11.95,
+      "salesParent": 5784,
+      "revenue": 69118.8,
+      "rating": 4.6,
+      "reviews": 1484
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 0,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 0,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 3237232,
+    "priorHeadRevenue": 3243327,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 23,
+      "pct": 23,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 56,
+      "brandCount": 76,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.52,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B09J9C9F3G",
+        "title": "Red Yeast Rice with CoQ10 Supplement - Healthy Heart Support - 120 Ct",
+        "rating": 4.6,
+        "reviews": 8806
+      },
+      {
+        "rank": 2,
+        "asin": "B00192G10Q",
+        "title": "THORNE Red Yeast Rice + CoQ10, Provides Antioxidant Support*, 120 Capsules",
+        "rating": 4.6,
+        "reviews": 2157
+      },
+      {
+        "rank": 3,
+        "asin": "B005P0MJF4",
+        "title": "THORNE Red Yeast Rice, 900 mg per Capsule, 120 Capsules",
+        "rating": 4.7,
+        "reviews": 931
+      },
+      {
+        "rank": 4,
+        "asin": "B003TZ476Q",
+        "title": "Jarrow Red Yeast Rice 1200 mg with CoQ10 100mg (Q10), 120 Capsules",
+        "rating": 4.7,
+        "reviews": 2129
+      },
+      {
+        "rank": 5,
+        "asin": "B07YDGP3NY",
+        "title": "Red Yeast Rice with CoQ10 Supplement, Cholesterol &amp; Heart Health Support",
+        "rating": 4.6,
+        "reviews": 5426
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:23675621011:3764461:3766821",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

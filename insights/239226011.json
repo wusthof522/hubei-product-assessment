@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "239226011",
+  "level": "L2",
+  "categoryPathEn": "Baby Products > Gifts",
+  "categoryPathCn": "婴儿产品 > 礼物",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 6206447,
+    "avgRevenue": 62064,
+    "medianPrice": 19.99,
+    "priceBand": "$13.23 - $35.74",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B00N1NBOV2",
+      "title": "Amazon Baby Registry Welcome Box",
+      "brand": "Amazon",
+      "price": 35.0,
+      "salesParent": 50171,
+      "revenue": 1755985.0,
+      "rating": 3.6,
+      "reviews": 5758
+    },
+    {
+      "rank": 2,
+      "asin": "B0B3SCY69X",
+      "title": "Aveeno Baby Welcome Little One Gift Set, Baby Essentials Set, 5 Items",
+      "brand": "Aveeno Baby",
+      "price": 19.99,
+      "salesParent": 18511,
+      "revenue": 369664.66,
+      "rating": 4.8,
+      "reviews": 3395
+    },
+    {
+      "rank": 3,
+      "asin": "B08N6KWS7T",
+      "title": "4pk Inkless Baby Hand and Footprint Kit, Mess Free Ink Pads (Jet Black, R)",
+      "brand": "KeaBabies",
+      "price": 14.96,
+      "salesParent": 23905,
+      "revenue": 318892.72,
+      "rating": 4.5,
+      "reviews": 11525
+    },
+    {
+      "rank": 4,
+      "asin": "B01NA7ZMIA",
+      "title": "Mustela Newborn Arrival Gift Set - Baby Skincare &amp; Bath Time Essentials - Natural &amp; Plant Based - 5 Items Set",
+      "brand": "Mustela",
+      "price": 44.0,
+      "salesParent": 6574,
+      "revenue": 289256.0,
+      "rating": 4.8,
+      "reviews": 7964
+    },
+    {
+      "rank": 5,
+      "asin": "B07DGPGR56",
+      "title": "Johnson's Baby Sleepy Time Gift Set, 3 Items",
+      "brand": "Johnson's Baby",
+      "price": 12.97,
+      "salesParent": 19433,
+      "revenue": 267203.75,
+      "rating": 4.8,
+      "reviews": 14459
+    },
+    {
+      "rank": 6,
+      "asin": "B08GLLDSNQ",
+      "title": "KeaBabies Baby Hand and Footprint Kit, Clay Keepsake Frame (Alpine White)",
+      "brand": "KeaBabies",
+      "price": 19.96,
+      "salesParent": 7477,
+      "revenue": 149240.91,
+      "rating": 4.7,
+      "reviews": 6493
+    },
+    {
+      "rank": 7,
+      "asin": "B09LRK8WLJ",
+      "title": "Keepsake Baby Memory Book – Timeless Gender Neutral First 5 Year Baby Book",
+      "brand": "ZIRI &amp; ZANE",
+      "price": 29.95,
+      "salesParent": 4249,
+      "revenue": 127258.0,
+      "rating": 4.9,
+      "reviews": 7088
+    },
+    {
+      "rank": 8,
+      "asin": "B0B7RR7HLC",
+      "title": "Pregnancy Journal for First Time Moms Gifts - 90 Pages Hardcover (Alpine)",
+      "brand": "KeaBabies",
+      "price": 19.96,
+      "salesParent": 4717,
+      "revenue": 93726.8,
+      "rating": 4.8,
+      "reviews": 2739
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -11,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -11,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 6206447,
+    "priorHeadRevenue": 6936109,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 32,
+      "pct": 32,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 57,
+      "brandCount": 72,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.65,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B00N1NBOV2",
+        "title": "Amazon Baby Registry Welcome Box",
+        "rating": 3.6,
+        "reviews": 5758
+      },
+      {
+        "rank": 2,
+        "asin": "B0B3SCY69X",
+        "title": "Aveeno Baby Welcome Little One Gift Set, Baby Essentials Set, 5 Items",
+        "rating": 4.8,
+        "reviews": 3395
+      },
+      {
+        "rank": 3,
+        "asin": "B08N6KWS7T",
+        "title": "4pk Inkless Baby Hand and Footprint Kit, Mess Free Ink Pads (Jet Black, R)",
+        "rating": 4.5,
+        "reviews": 11525
+      },
+      {
+        "rank": 4,
+        "asin": "B01NA7ZMIA",
+        "title": "Mustela Newborn Arrival Gift Set - Baby Skincare &amp; Bath Time Essentials - Natural &amp; Plant Based - 5 Items Set",
+        "rating": 4.8,
+        "reviews": 7964
+      },
+      {
+        "rank": 5,
+        "asin": "B07DGPGR56",
+        "title": "Johnson's Baby Sleepy Time Gift Set, 3 Items",
+        "rating": 4.8,
+        "reviews": 14459
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165796011:239226011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

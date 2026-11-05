@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "21193192011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Oral Care > Teeth Whitening > LED Accelerator Lights",
+  "categoryPathCn": "Health & Household > Oral Care > Teeth Whitening > LED Accelerator Lights",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 98,
+    "totalRevenue": 866226,
+    "avgRevenue": 8839,
+    "medianPrice": 60.93,
+    "priceBand": "$24.99 - $139.24",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B00YI5VJW6",
+      "title": "Auraglow Teeth Whitening Kit, LED Accelerator Light, 35% Carbamide Peroxide Teeth Whitening Gel, 20+ Whitening Treatments, Whitens up to 10 Shades in 7 Days",
+      "brand": "AURAGLOW",
+      "price": 48.0,
+      "salesParent": 11343,
+      "revenue": 544464.0,
+      "rating": 4.2,
+      "reviews": 48489
+    },
+    {
+      "rank": 2,
+      "asin": "B0DZXK1L14",
+      "title": "GuruNanda Teeth Whitening Kit, Up to 10 Shades Whitening, 40 Treatments",
+      "brand": "GuruNanda",
+      "price": 24.86,
+      "salesParent": 4800,
+      "revenue": 119328.0,
+      "rating": 4.4,
+      "reviews": 1004
+    },
+    {
+      "rank": 3,
+      "asin": "B07PHB5JKF",
+      "title": "iSmile Teeth Whitening Kit - LED Light, 35% Carbamide Peroxide, (3) 3ml Gel Syringes, (1) Remineralization Gel, and Tray.",
+      "brand": "iSmile Whitening",
+      "price": 24.99,
+      "salesParent": 3631,
+      "revenue": 102285.27,
+      "rating": 4.3,
+      "reviews": 28551
+    },
+    {
+      "rank": 4,
+      "asin": "B0C3NLVB2Y",
+      "title": "Auraglow Teeth Whitening Kit with LED Light &amp; Extra Strength 44% Carbamide Peroxide Teeth Whitening Gel Refill, 30+ Treatments, Whiten Up to 10 Shades",
+      "brand": "AURAGLOW",
+      "price": 72.0,
+      "salesParent": 173,
+      "revenue": 12456.0,
+      "rating": 4.5,
+      "reviews": 78
+    },
+    {
+      "rank": 5,
+      "asin": "B0B45CW8WV",
+      "title": "MOON Teeth Whitening Kit, LED Light Teeth Whitener Device, 56 White Strips",
+      "brand": "MOON",
+      "price": 99.99,
+      "salesParent": 101,
+      "revenue": 9525.31,
+      "rating": 4.2,
+      "reviews": 500
+    },
+    {
+      "rank": 6,
+      "asin": "B08C7B79LR",
+      "title": "MySmile Teeth Whitening LED Light w/Mouth Tray Home Oral Whitening Device",
+      "brand": "MySmile",
+      "price": 16.23,
+      "salesParent": 476,
+      "revenue": 8125.32,
+      "rating": 4.1,
+      "reviews": 25186
+    },
+    {
+      "rank": 7,
+      "asin": "B0BMLMF67P",
+      "title": "Teeth Whitening Lamp - Professional Teeth Whitening Machine with Adjustable Stand, Mobile Tooth Bleaching Accelerator System with Cold Blue Light for Dental Clinic/Beauty Salon",
+      "brand": "Healthible",
+      "price": 199.99,
+      "salesParent": 36,
+      "revenue": 7199.64,
+      "rating": 3.6,
+      "reviews": 16
+    },
+    {
+      "rank": 8,
+      "asin": "B0DD2Z9PB7",
+      "title": "MOON Teeth Whitening Kit, Platinum Teeth Whitener LED Device &amp; 28 Strips",
+      "brand": "MOON",
+      "price": 139.99,
+      "salesParent": 46,
+      "revenue": 6027.38,
+      "rating": 4.0,
+      "reviews": 53
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -51,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -51,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 866226,
+    "priorHeadRevenue": 1759476,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 98,
+      "newCount": 17,
+      "pct": 17,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 93,
+      "brandCount": 66,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.18,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B00YI5VJW6",
+        "title": "Auraglow Teeth Whitening Kit, LED Accelerator Light, 35% Carbamide Peroxide Teeth Whitening Gel, 20+ Whitening Treatments, Whitens up to 10 Shades in 7 Days",
+        "rating": 4.2,
+        "reviews": 48489
+      },
+      {
+        "rank": 2,
+        "asin": "B0DZXK1L14",
+        "title": "GuruNanda Teeth Whitening Kit, Up to 10 Shades Whitening, 40 Treatments",
+        "rating": 4.4,
+        "reviews": 1004
+      },
+      {
+        "rank": 3,
+        "asin": "B07PHB5JKF",
+        "title": "iSmile Teeth Whitening Kit - LED Light, 35% Carbamide Peroxide, (3) 3ml Gel Syringes, (1) Remineralization Gel, and Tray.",
+        "rating": 4.3,
+        "reviews": 28551
+      },
+      {
+        "rank": 4,
+        "asin": "B0C3NLVB2Y",
+        "title": "Auraglow Teeth Whitening Kit with LED Light &amp; Extra Strength 44% Carbamide Peroxide Teeth Whitening Gel Refill, 30+ Treatments, Whiten Up to 10 Shades",
+        "rating": 4.5,
+        "reviews": 78
+      },
+      {
+        "rank": 5,
+        "asin": "B0B45CW8WV",
+        "title": "MOON Teeth Whitening Kit, LED Light Teeth Whitener Device, 56 White Strips",
+        "rating": 4.2,
+        "reviews": 500
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:10079992011:3778441:21193192011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

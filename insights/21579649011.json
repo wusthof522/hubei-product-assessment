@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "21579649011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Household Supplies > Household Cleaning > Disinfectant Sprays & Liquids",
+  "categoryPathCn": "健康与家居 > 家居用品 > 家庭清洁剂 > 消毒喷雾剂和液体",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 5499126,
+    "avgRevenue": 54991,
+    "medianPrice": 24.49,
+    "priceBand": "$16.47 - $35.48",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B094YWT673",
+      "title": "BRIOTECH Sanitizer Disinfectant, Hypochlorous Acid, 32 oz",
+      "brand": "BRIOTECH",
+      "price": 17.99,
+      "salesParent": 59593,
+      "revenue": 1072078.0,
+      "rating": 4.6,
+      "reviews": 4749
+    },
+    {
+      "rank": 2,
+      "asin": "B01DCG0GPC",
+      "title": "Lysol Disinfectant Spray, Sanitizer, Crisp Linen, 19 oz, 2 Pack",
+      "brand": "Lysol",
+      "price": 13.47,
+      "salesParent": 56755,
+      "revenue": 717383.25,
+      "rating": 4.8,
+      "reviews": 71148
+    },
+    {
+      "rank": 3,
+      "asin": "B011AJRJZI",
+      "title": "CleanSmart Daily Surface Cleaner and Pet-Safe Disinfectant, 23 oz (2 pack)",
+      "brand": "CleanSmart",
+      "price": 21.99,
+      "salesParent": 22713,
+      "revenue": 499004.59,
+      "rating": 4.6,
+      "reviews": 15666
+    },
+    {
+      "rank": 4,
+      "asin": "B09BDJ8W73",
+      "title": "Lysol Disinfectant Spray, Sanitizer, Morning Breeze, 19 oz, 2 Pack",
+      "brand": "Lysol",
+      "price": 13.47,
+      "salesParent": 22320,
+      "revenue": 295070.41,
+      "rating": 4.8,
+      "reviews": 14660
+    },
+    {
+      "rank": 5,
+      "asin": "B07K7VM65Q",
+      "title": "Lysol Multi-Surface Cleaner, Sanitizing and Disinfecting Pour, to Clean and Deodorize, Sparkling Lemon and Sunflower Essence, 144 Fl Oz (Pack of 4)",
+      "brand": "Lysol",
+      "price": 46.08,
+      "salesParent": 5619,
+      "revenue": 284658.53,
+      "rating": 4.8,
+      "reviews": 41226
+    },
+    {
+      "rank": 6,
+      "asin": "B002YD8FK8",
+      "title": "Lysol Disinfectant Spray, Household Essential Cleaning Supplies, Multi-Purpose Room Spray, Antibacterial Sanitizer Spray, Upholstery Deodorizer, Home and Bathroom, Crisp Linen,19 Fl Oz (Pack of 12)",
+      "brand": "Lysol",
+      "price": 71.49,
+      "salesParent": 3339,
+      "revenue": 237035.61,
+      "rating": 4.8,
+      "reviews": 1591
+    },
+    {
+      "rank": 7,
+      "asin": "B0GVTDDHRC",
+      "title": "Lysol Disinfectant Spray, Sanitizer, Crisp Linen &amp; Mango, 19 oz, 3 Pack",
+      "brand": "Lysol",
+      "price": 21.99,
+      "salesParent": 10163,
+      "revenue": 223484.38,
+      "rating": 4.8,
+      "reviews": 487
+    },
+    {
+      "rank": 8,
+      "asin": "B0DQQSZMXX",
+      "title": "Lysol Disinfectant Spray, Sanitizer, Mango, 19 oz, 2 Pack",
+      "brand": "Lysol",
+      "price": 14.14,
+      "salesParent": 16258,
+      "revenue": 222084.28,
+      "rating": 4.8,
+      "reviews": 11475
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 17,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 17,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 5499126,
+    "priorHeadRevenue": 4703660,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 15,
+      "pct": 15,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 81,
+      "brandCount": 58,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.61,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B094YWT673",
+        "title": "BRIOTECH Sanitizer Disinfectant, Hypochlorous Acid, 32 oz",
+        "rating": 4.6,
+        "reviews": 4749
+      },
+      {
+        "rank": 2,
+        "asin": "B01DCG0GPC",
+        "title": "Lysol Disinfectant Spray, Sanitizer, Crisp Linen, 19 oz, 2 Pack",
+        "rating": 4.8,
+        "reviews": 71148
+      },
+      {
+        "rank": 3,
+        "asin": "B011AJRJZI",
+        "title": "CleanSmart Daily Surface Cleaner and Pet-Safe Disinfectant, 23 oz (2 pack)",
+        "rating": 4.6,
+        "reviews": 15666
+      },
+      {
+        "rank": 4,
+        "asin": "B09BDJ8W73",
+        "title": "Lysol Disinfectant Spray, Sanitizer, Morning Breeze, 19 oz, 2 Pack",
+        "rating": 4.8,
+        "reviews": 14660
+      },
+      {
+        "rank": 5,
+        "asin": "B07K7VM65Q",
+        "title": "Lysol Multi-Surface Cleaner, Sanitizing and Disinfecting Pour, to Clean and Deodorize, Sparkling Lemon and Sunflower Essence, 144 Fl Oz (Pack of 4)",
+        "rating": 4.8,
+        "reviews": 41226
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:15342811:15342821:21579649011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

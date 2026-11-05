@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "13052921",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Health Care > Alternative Medicine > Acupuncture",
+  "categoryPathCn": "健康与家居 > 卫生保健 > 替代药物 > 针灸",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 1300138,
+    "avgRevenue": 13133,
+    "medianPrice": 32.99,
+    "priceBand": "$18.98 - $79.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0BG6N7W91",
+      "title": "ProsourceFit Acupressure Mat and Pillow Set for Back/Neck Pain Relief and Muscle Relaxation, Large - Black/Black",
+      "brand": "ProsourceFit",
+      "price": 29.99,
+      "salesParent": 12886,
+      "revenue": 384647.09,
+      "rating": 4.2,
+      "reviews": 52551
+    },
+    {
+      "rank": 2,
+      "asin": "B09NHS319M",
+      "title": "Acupressure Mat and Pillow Set,Natural Linen &amp; Coconut Fiber Filling",
+      "brand": "UNMERA",
+      "price": 99.99,
+      "salesParent": 1242,
+      "revenue": 123293.0,
+      "rating": 4.7,
+      "reviews": 745
+    },
+    {
+      "rank": 3,
+      "asin": "B071FNYSJY",
+      "title": "ShaktiMat Acupressure Mat for Tension Release, Classic Level 2 Black",
+      "brand": "ShaktiMat",
+      "price": 99.0,
+      "salesParent": 753,
+      "revenue": 72935.58,
+      "rating": 4.6,
+      "reviews": 1783
+    },
+    {
+      "rank": 4,
+      "asin": "B0FQHL6KPN",
+      "title": "BALLOP Mamuring 1,700 Nodes Acupressure Massage Slippers",
+      "brand": "BALLOP",
+      "price": 34.0,
+      "salesParent": 2105,
+      "revenue": 67486.31,
+      "rating": 4.0,
+      "reviews": 19
+    },
+    {
+      "rank": 5,
+      "asin": "B0HGCBR9YY",
+      "title": "Shaktimat Acupressure Mat and Pillow Set, Classic Level 1 Black",
+      "brand": "ShaktiMat",
+      "price": 134.0,
+      "salesParent": 433,
+      "revenue": 57117.03,
+      "rating": 4.0,
+      "reviews": 25
+    },
+    {
+      "rank": 6,
+      "asin": "B0B4ZJ57W1",
+      "title": "1200Pcs Ear Seeds Acupuncture Kit, Auricular Sticker Kit with Ears Seed, Acupuncture Pen, Acupressure Ear Chart, Tweezers",
+      "brand": "tophld",
+      "price": 9.99,
+      "salesParent": 3964,
+      "revenue": 39758.92,
+      "rating": 4.2,
+      "reviews": 1064
+    },
+    {
+      "rank": 7,
+      "asin": "B07H3317K8",
+      "title": "Acupressure Mat &amp; Pillow Set, 4-in-1, 29&quot;, Hot/Cold Pack, Purple",
+      "brand": "DoSensePro",
+      "price": 41.99,
+      "salesParent": 694,
+      "revenue": 29703.2,
+      "rating": 4.3,
+      "reviews": 2941
+    },
+    {
+      "rank": 8,
+      "asin": "B094NGJFYV",
+      "title": "Acupressure Mat and Pillow Set with Mini Pad – Full Body Pain Relief",
+      "brand": "Dakini",
+      "price": 52.95,
+      "salesParent": 466,
+      "revenue": 24008.32,
+      "rating": 4.5,
+      "reviews": 353
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 56,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 56,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1300138,
+    "priorHeadRevenue": 833195,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 28,
+      "pct": 28,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 63,
+      "brandCount": 72,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.29,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0BG6N7W91",
+        "title": "ProsourceFit Acupressure Mat and Pillow Set for Back/Neck Pain Relief and Muscle Relaxation, Large - Black/Black",
+        "rating": 4.2,
+        "reviews": 52551
+      },
+      {
+        "rank": 2,
+        "asin": "B09NHS319M",
+        "title": "Acupressure Mat and Pillow Set,Natural Linen &amp; Coconut Fiber Filling",
+        "rating": 4.7,
+        "reviews": 745
+      },
+      {
+        "rank": 3,
+        "asin": "B071FNYSJY",
+        "title": "ShaktiMat Acupressure Mat for Tension Release, Classic Level 2 Black",
+        "rating": 4.6,
+        "reviews": 1783
+      },
+      {
+        "rank": 4,
+        "asin": "B0FQHL6KPN",
+        "title": "BALLOP Mamuring 1,700 Nodes Acupressure Massage Slippers",
+        "rating": 4.0,
+        "reviews": 19
+      },
+      {
+        "rank": 5,
+        "asin": "B0HGCBR9YY",
+        "title": "Shaktimat Acupressure Mat and Pillow Set, Classic Level 1 Black",
+        "rating": 4.0,
+        "reviews": 25
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3760941:13052911:13052921",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

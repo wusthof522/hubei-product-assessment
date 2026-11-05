@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "15342901",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Household Supplies > Cleaning Tools > Gloves",
+  "categoryPathCn": "健康与家居 > 家居用品 > 清洁工具 > 手套",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 8133032,
+    "avgRevenue": 81330,
+    "medianPrice": 9.99,
+    "priceBand": "$8.99 - $16.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B09JGPVMBB",
+      "title": "ForPro Disposable Nitrile Gloves, Chemical Resistant, Powder-Free, Latex-Free, Non-Sterile, Food Safe, 4 Mil",
+      "brand": "ForPro Professional Collection",
+      "price": 10.99,
+      "salesParent": 50805,
+      "revenue": 572572.38,
+      "rating": 4.6,
+      "reviews": 25083
+    },
+    {
+      "rank": 2,
+      "asin": "B09KTQMMCM",
+      "title": "Schneider Medical Nitrile/Vinyl Blend Exam Gloves, Black Disposable, 4 Mil",
+      "brand": "Schneider",
+      "price": 8.96,
+      "salesParent": 56897,
+      "revenue": 505814.34,
+      "rating": 4.5,
+      "reviews": 38753
+    },
+    {
+      "rank": 3,
+      "asin": "B0BFLJWCX4",
+      "title": "SwiftGrip Pink Nitrile Gloves, 3-mil, Industrial Gloves Disposable Latex Free, for Cleaning &amp; Esthetician, Rubber Powder-Free, 100-ct Box (Medium)",
+      "brand": "SwiftGrip",
+      "price": 8.99,
+      "salesParent": 43122,
+      "revenue": 407934.12,
+      "rating": 4.7,
+      "reviews": 10415
+    },
+    {
+      "rank": 4,
+      "asin": "B0BYJDCWP9",
+      "title": "Rubber Kitchen Dishwashing Gloves - 4 Pairs Colorful Reusable Household Cleaning Gloves for Washing Dishes and Cleaning Tasks, Flexible Long-lasting and Non-Slip (Medium, Blue+Pink+Yellow+Red)",
+      "brand": "Bamllum",
+      "price": 7.99,
+      "salesParent": 50177,
+      "revenue": 400914.22,
+      "rating": 4.4,
+      "reviews": 12950
+    },
+    {
+      "rank": 5,
+      "asin": "B0DHCSLKK8",
+      "title": "Rubber Cleaning Gloves for Dishwashing, 4 Pairs Reusable Kitchen Gloves for Washing Dishes and Household Cleaning, Colorful Dish Gloves with Flocked Lining and Non-Slip Grip, Pefect for Woman Men - M",
+      "brand": "SIFANGKE",
+      "price": 7.99,
+      "salesParent": 39863,
+      "revenue": 318505.38,
+      "rating": 4.4,
+      "reviews": 7105
+    },
+    {
+      "rank": 6,
+      "asin": "B086HBMC64",
+      "title": "Nitrile Disposable Gloves，Powder Free, Cleaning Service Gloves, Latex Free",
+      "brand": "PEIPU",
+      "price": 9.97,
+      "salesParent": 28985,
+      "revenue": 288980.47,
+      "rating": 4.6,
+      "reviews": 23080
+    },
+    {
+      "rank": 7,
+      "asin": "B091J7B6B9",
+      "title": "SAFESKIN Disposable Nitrile Gloves in POP-N-GO Pack (50 or 200 Count) Medium Duty, Powder-Free -Cleaning, Gardening, Crafts",
+      "brand": "SAFESKIN",
+      "price": 46.99,
+      "salesParent": 5551,
+      "revenue": 260841.5,
+      "rating": 4.8,
+      "reviews": 5807
+    },
+    {
+      "rank": 8,
+      "asin": "B098GYS476",
+      "title": "COOLJOB 3 Pairs Colorful Household Rubber Gloves with Non-Slip Grip, Medium",
+      "brand": "COOLJOB",
+      "price": 13.99,
+      "salesParent": 16312,
+      "revenue": 228204.88,
+      "rating": 4.4,
+      "reviews": 6639
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -3,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -3,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 8133032,
+    "priorHeadRevenue": 8421975,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 15,
+      "pct": 15,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 44,
+      "brandCount": 57,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.55,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B09JGPVMBB",
+        "title": "ForPro Disposable Nitrile Gloves, Chemical Resistant, Powder-Free, Latex-Free, Non-Sterile, Food Safe, 4 Mil",
+        "rating": 4.6,
+        "reviews": 25083
+      },
+      {
+        "rank": 2,
+        "asin": "B09KTQMMCM",
+        "title": "Schneider Medical Nitrile/Vinyl Blend Exam Gloves, Black Disposable, 4 Mil",
+        "rating": 4.5,
+        "reviews": 38753
+      },
+      {
+        "rank": 3,
+        "asin": "B0BFLJWCX4",
+        "title": "SwiftGrip Pink Nitrile Gloves, 3-mil, Industrial Gloves Disposable Latex Free, for Cleaning &amp; Esthetician, Rubber Powder-Free, 100-ct Box (Medium)",
+        "rating": 4.7,
+        "reviews": 10415
+      },
+      {
+        "rank": 4,
+        "asin": "B0BYJDCWP9",
+        "title": "Rubber Kitchen Dishwashing Gloves - 4 Pairs Colorful Reusable Household Cleaning Gloves for Washing Dishes and Cleaning Tasks, Flexible Long-lasting and Non-Slip (Medium, Blue+Pink+Yellow+Red)",
+        "rating": 4.4,
+        "reviews": 12950
+      },
+      {
+        "rank": 5,
+        "asin": "B0DHCSLKK8",
+        "title": "Rubber Cleaning Gloves for Dishwashing, 4 Pairs Reusable Kitchen Gloves for Washing Dishes and Household Cleaning, Colorful Dish Gloves with Flocked Lining and Non-Slip Grip, Pefect for Woman Men - M",
+        "rating": 4.4,
+        "reviews": 7105
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:15342811:15342831:15342901",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

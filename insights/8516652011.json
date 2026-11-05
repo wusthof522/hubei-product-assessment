@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "8516652011",
+  "level": "L4",
+  "categoryPathEn": "Home & Kitchen > Furniture > Game & Recreation Room Furniture > TV Trays",
+  "categoryPathCn": "家居用品 > 家具 > 游戏 > 置物架",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 2909426,
+    "avgRevenue": 29388,
+    "medianPrice": 41.99,
+    "priceBand": "$34.99 - $65.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0DGPJZNQ3",
+      "title": "Kitstorack TV Tray Table, Adjustable Height &amp; Flip-Top &amp; Rounded Metal Corners, Snack Table for Couch, Sofa, Bed, Chair, Living Room, C Shaped End Side Table for Eating, Dinner or Laptop, Small Spaces",
+      "brand": "Kitstorack",
+      "price": 39.99,
+      "salesParent": 6412,
+      "revenue": 256415.89,
+      "rating": 4.4,
+      "reviews": 2002
+    },
+    {
+      "rank": 2,
+      "asin": "B07DRGZMHQ",
+      "title": "HUANUO Adjustable TV Tray Table - Foldable TV Tray with 6 Height &amp; 3 Tilt Angle Adjustments, TV Dinner Tray with Cup Holder for Couch, Bed, Sofa and Chair (Black)",
+      "brand": "HUANUO",
+      "price": 45.99,
+      "salesParent": 5085,
+      "revenue": 227197.8,
+      "rating": 4.3,
+      "reviews": 24608
+    },
+    {
+      "rank": 3,
+      "asin": "B07ZFFZV7Y",
+      "title": "PJ Wood Folding TV Trays Set of 2, Solid Wood Foldable Snack Tables, Black",
+      "brand": "PJ Wood",
+      "price": 39.99,
+      "salesParent": 3905,
+      "revenue": 156160.95,
+      "rating": 4.5,
+      "reviews": 5474
+    },
+    {
+      "rank": 4,
+      "asin": "B078HRPP6P",
+      "title": "PJ Wood - 5-Piece Wooden Folding TV Tray Table Set - Honey Oak Snack Tables",
+      "brand": "PJ Wood",
+      "price": 64.99,
+      "salesParent": 1586,
+      "revenue": 103185.16,
+      "rating": 4.5,
+      "reviews": 4849
+    },
+    {
+      "rank": 5,
+      "asin": "B0B94W4G9T",
+      "title": "Upgraded Folding TV Tray Table, Sturdy Couch &amp; Dinner Laptop Table",
+      "brand": "FoldWise",
+      "price": 69.99,
+      "salesParent": 1346,
+      "revenue": 94206.54,
+      "rating": 4.5,
+      "reviews": 1990
+    },
+    {
+      "rank": 6,
+      "asin": "B0GL7SJCFF",
+      "title": "Couch Armrest Table, Acacia Wood Sofa Arm Tray with 360° Rotating Phone &amp; Cup Holder, Clip-On Arm Rest Table for Couch, Anti-Slip Armrest Tray for Snacks &amp; Drinks, 15.4&quot; x 9.8&quot;",
+      "brand": "Vellabliss",
+      "price": 39.99,
+      "salesParent": 2234,
+      "revenue": 89181.27,
+      "rating": 4.3,
+      "reviews": 183
+    },
+    {
+      "rank": 7,
+      "asin": "B0863G399Y",
+      "title": "Winsome Corbett Set of 2 Oversized Foldable Snack Tables",
+      "brand": "Winsome",
+      "price": 47.25,
+      "salesParent": 1854,
+      "revenue": 89140.32,
+      "rating": 4.4,
+      "reviews": 1507
+    },
+    {
+      "rank": 8,
+      "asin": "B0CNRMQKNS",
+      "title": "Nnewvante Couch Cup Holder Tray, 3 in 1 Large 15.36&quot;x9.85&quot; Acacia Wood Sofa Arm Clip on Tray Table with 360°Rotated Phone Holder on Armrest",
+      "brand": "Nnewvante",
+      "price": 36.99,
+      "salesParent": 1834,
+      "revenue": 69141.81,
+      "rating": 4.7,
+      "reviews": 1479
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 24,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 24,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 2909426,
+    "priorHeadRevenue": 2351540,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 57,
+      "pct": 58,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 41,
+      "brandCount": 68,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.37,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0DGPJZNQ3",
+        "title": "Kitstorack TV Tray Table, Adjustable Height &amp; Flip-Top &amp; Rounded Metal Corners, Snack Table for Couch, Sofa, Bed, Chair, Living Room, C Shaped End Side Table for Eating, Dinner or Laptop, Small Spaces",
+        "rating": 4.4,
+        "reviews": 2002
+      },
+      {
+        "rank": 2,
+        "asin": "B07DRGZMHQ",
+        "title": "HUANUO Adjustable TV Tray Table - Foldable TV Tray with 6 Height &amp; 3 Tilt Angle Adjustments, TV Dinner Tray with Cup Holder for Couch, Bed, Sofa and Chair (Black)",
+        "rating": 4.3,
+        "reviews": 24608
+      },
+      {
+        "rank": 3,
+        "asin": "B07ZFFZV7Y",
+        "title": "PJ Wood Folding TV Trays Set of 2, Solid Wood Foldable Snack Tables, Black",
+        "rating": 4.5,
+        "reviews": 5474
+      },
+      {
+        "rank": 4,
+        "asin": "B078HRPP6P",
+        "title": "PJ Wood - 5-Piece Wooden Folding TV Tray Table Set - Honey Oak Snack Tables",
+        "rating": 4.5,
+        "reviews": 4849
+      },
+      {
+        "rank": 5,
+        "asin": "B0B94W4G9T",
+        "title": "Upgraded Folding TV Tray Table, Sturdy Couch &amp; Dinner Laptop Table",
+        "rating": 4.5,
+        "reviews": 1990
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "1055398:1063306:5422303011:8516652011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

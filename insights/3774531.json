@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3774531",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins, Minerals & Supplements > Antioxidants > Alpha Lipoic Acid",
+  "categoryPathCn": "健康与家居 > 身、泳和附剂 > 抗拒 > 硫辛酸",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 6277525,
+    "avgRevenue": 62775,
+    "medianPrice": 30.59,
+    "priceBand": "$22.21 - $39.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B01CKLMWYS",
+      "title": "Nutricost Alpha Lipoic Acid 600mg Per Serving, 240 Capsules",
+      "brand": "Nutricost",
+      "price": 24.89,
+      "salesParent": 41686,
+      "revenue": 1037564.5,
+      "rating": 4.6,
+      "reviews": 45122
+    },
+    {
+      "rank": 2,
+      "asin": "B09VS7NY95",
+      "title": "Nervive Nerve Health, Alpha Lipoic Acid, Fortify Nerve Health, Healthy Nerve Function, Healthy Blood Circulation, Supplement, Tablet, 60 Tablets",
+      "brand": "Nervive",
+      "price": 38.94,
+      "salesParent": 13483,
+      "revenue": 525028.0,
+      "rating": 4.1,
+      "reviews": 11260
+    },
+    {
+      "rank": 3,
+      "asin": "B09VSGHJ3T",
+      "title": "Nervive Nerve Relief, Occasional Nerve Discomfort II, Nerve Relief, Starts Working in 7 Days, Stabbing, Burning, Alpha Lipoic Acid, B Vitamins, Turmeric, Ginger, Supplement, 60 Tablets",
+      "brand": "Nervive",
+      "price": 35.98,
+      "salesParent": 8135,
+      "revenue": 292697.28,
+      "rating": 4.1,
+      "reviews": 3390
+    },
+    {
+      "rank": 4,
+      "asin": "B0015SV7VC",
+      "title": "Pure Encapsulations Alpha Lipoic Acid 600 mg, 60 Capsules",
+      "brand": "Pure Encapsulations",
+      "price": 67.5,
+      "salesParent": 3913,
+      "revenue": 264127.5,
+      "rating": 4.7,
+      "reviews": 1184
+    },
+    {
+      "rank": 5,
+      "asin": "B0B5723XX5",
+      "title": "SciatiEase Sciatic Nerve Health Support Supplement, 120 Capsules",
+      "brand": "SciatiEase",
+      "price": 69.0,
+      "salesParent": 3670,
+      "revenue": 251615.19,
+      "rating": 3.8,
+      "reviews": 8692
+    },
+    {
+      "rank": 6,
+      "asin": "B07DP8DHBH",
+      "title": "IMMUNOVITES Stabilized R-Alpha Lipoic Acid ((True)) 600mg per Serving [[High Potency &amp; up to 40x Increased Absorption]] (Na R-ALA) (Na R-LA) (Na R-Lipoate) (1 Bottle)",
+      "brand": "IMMUNOVITES",
+      "price": 35.99,
+      "salesParent": 6046,
+      "revenue": 217595.55,
+      "rating": 4.4,
+      "reviews": 3373
+    },
+    {
+      "rank": 7,
+      "asin": "B00OVNEY1I",
+      "title": "THORNE Alpha-Lipoic Acid, 300 mg Antioxidant Supplement, 60 Capsules",
+      "brand": "THORNE",
+      "price": 41.0,
+      "salesParent": 4714,
+      "revenue": 193274.0,
+      "rating": 4.7,
+      "reviews": 1014
+    },
+    {
+      "rank": 8,
+      "asin": "B0027YKO1C",
+      "title": "Life Extension Super R-Lipoic Acid, R-Form, 240 mg, 60 Capsules",
+      "brand": "Life Extension",
+      "price": 33.94,
+      "salesParent": 5568,
+      "revenue": 188977.91,
+      "rating": 4.6,
+      "reviews": 2399
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 2,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 2,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 6277525,
+    "priorHeadRevenue": 6136236,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 30,
+      "pct": 30,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 46,
+      "brandCount": 74,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.36,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B01CKLMWYS",
+        "title": "Nutricost Alpha Lipoic Acid 600mg Per Serving, 240 Capsules",
+        "rating": 4.6,
+        "reviews": 45122
+      },
+      {
+        "rank": 2,
+        "asin": "B09VS7NY95",
+        "title": "Nervive Nerve Health, Alpha Lipoic Acid, Fortify Nerve Health, Healthy Nerve Function, Healthy Blood Circulation, Supplement, Tablet, 60 Tablets",
+        "rating": 4.1,
+        "reviews": 11260
+      },
+      {
+        "rank": 3,
+        "asin": "B09VSGHJ3T",
+        "title": "Nervive Nerve Relief, Occasional Nerve Discomfort II, Nerve Relief, Starts Working in 7 Days, Stabbing, Burning, Alpha Lipoic Acid, B Vitamins, Turmeric, Ginger, Supplement, 60 Tablets",
+        "rating": 4.1,
+        "reviews": 3390
+      },
+      {
+        "rank": 4,
+        "asin": "B0015SV7VC",
+        "title": "Pure Encapsulations Alpha Lipoic Acid 600 mg, 60 Capsules",
+        "rating": 4.7,
+        "reviews": 1184
+      },
+      {
+        "rank": 5,
+        "asin": "B0B5723XX5",
+        "title": "SciatiEase Sciatic Nerve Health Support Supplement, 120 Capsules",
+        "rating": 3.8,
+        "reviews": 8692
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:23675621011:3774521:3774531",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

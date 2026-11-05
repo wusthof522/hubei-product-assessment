@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3743581",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Household Supplies > Household Cleaning > Carpet Deodorizers",
+  "categoryPathCn": "健康与家居 > 家居用品 > 家庭清洁剂 > 地毯除臭剂",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 98,
+    "totalRevenue": 2621641,
+    "avgRevenue": 26751,
+    "medianPrice": 17.95,
+    "priceBand": "$12.56 - $25.25",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B01G7L72LU",
+      "title": "Good Natured Brand Carpet Deodorizer &amp; Pet Odor Eliminator Powder, 31oz",
+      "brand": "Good Natured Brand",
+      "price": 27.99,
+      "salesParent": 34073,
+      "revenue": 923719.06,
+      "rating": 4.3,
+      "reviews": 11193
+    },
+    {
+      "rank": 2,
+      "asin": "B06XGX4V3Z",
+      "title": "Arm &amp; Hammer OdorBusterz® Odor Eliminator Balls, Clean Burst, 3 Count – Baking Soda Odor Control for Closets, Drawers, Hampers &amp; Small Spaces",
+      "brand": "ARM &amp; HAMMER",
+      "price": 5.98,
+      "salesParent": 41627,
+      "revenue": 243517.95,
+      "rating": 4.2,
+      "reviews": 22596
+    },
+    {
+      "rank": 3,
+      "asin": "B0F3V899L2",
+      "title": "Cocoa Butter Cashmere Carpet Deodorizer Powder - Pet Safe Freshener for Vacuuming | Scented Odor Eliminator for Home | 16 oz",
+      "brand": "Lapew",
+      "price": 15.99,
+      "salesParent": 11878,
+      "revenue": 189929.22,
+      "rating": 4.2,
+      "reviews": 2069
+    },
+    {
+      "rank": 4,
+      "asin": "B00XPSS33A",
+      "title": "Arm &amp; Hammer Pet Fresh Carpet Odor Eliminator Plus Oxi Clean Dirt Fighters (Pack of 3), 48.9 Ounce",
+      "brand": "ARM &amp; HAMMER",
+      "price": 16.29,
+      "salesParent": 10772,
+      "revenue": 166750.56,
+      "rating": 4.6,
+      "reviews": 23775
+    },
+    {
+      "rank": 5,
+      "asin": "B0CTD6LRH5",
+      "title": "Hoover Carpet and Room Refresher, 32 oz, Carpet Powder, Odor Remover",
+      "brand": "Hoover",
+      "price": 7.94,
+      "salesParent": 16731,
+      "revenue": 132844.14,
+      "rating": 4.5,
+      "reviews": 1253
+    },
+    {
+      "rank": 6,
+      "asin": "B01N9OZD9A",
+      "title": "Capture Carpet &amp; Rug Dry Cleaner Carpet Deodorizer &amp; Freshener Powder 2.5lb",
+      "brand": "Capture",
+      "price": 23.99,
+      "salesParent": 4209,
+      "revenue": 100973.91,
+      "rating": 4.4,
+      "reviews": 12298
+    },
+    {
+      "rank": 7,
+      "asin": "B07NZHVLY6",
+      "title": "Arm &amp; Hammer 4SGM New 361970Extra Strengh 16.3Z Carpet Odor Eliminator (6-Pack) Laundry Detergent Cheap Wholesale Discount Bulk Cleaning Firesale",
+      "brand": "ARM &amp; HAMMER",
+      "price": 25.0,
+      "salesParent": 4072,
+      "revenue": 99682.56,
+      "rating": 4.6,
+      "reviews": 5171
+    },
+    {
+      "rank": 8,
+      "asin": "B00V4VF63K",
+      "title": "Pet Life Unlimited Carpet Deodorizer Powder, 16 oz, Strong Pet Odor Eliminator &amp; Carpet Freshener, Plant-Based Juniper Leaf Scent, Pet Safe (Pack of 1)",
+      "brand": "Pet Life Unlimited",
+      "price": 8.99,
+      "salesParent": 9275,
+      "revenue": 82176.5,
+      "rating": 4.3,
+      "reviews": 4126
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 34,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 34,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 2621641,
+    "priorHeadRevenue": 1950734,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 98,
+      "newCount": 29,
+      "pct": 30,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 78,
+      "brandCount": 47,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.28,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B01G7L72LU",
+        "title": "Good Natured Brand Carpet Deodorizer &amp; Pet Odor Eliminator Powder, 31oz",
+        "rating": 4.3,
+        "reviews": 11193
+      },
+      {
+        "rank": 2,
+        "asin": "B06XGX4V3Z",
+        "title": "Arm &amp; Hammer OdorBusterz® Odor Eliminator Balls, Clean Burst, 3 Count – Baking Soda Odor Control for Closets, Drawers, Hampers &amp; Small Spaces",
+        "rating": 4.2,
+        "reviews": 22596
+      },
+      {
+        "rank": 3,
+        "asin": "B0F3V899L2",
+        "title": "Cocoa Butter Cashmere Carpet Deodorizer Powder - Pet Safe Freshener for Vacuuming | Scented Odor Eliminator for Home | 16 oz",
+        "rating": 4.2,
+        "reviews": 2069
+      },
+      {
+        "rank": 4,
+        "asin": "B00XPSS33A",
+        "title": "Arm &amp; Hammer Pet Fresh Carpet Odor Eliminator Plus Oxi Clean Dirt Fighters (Pack of 3), 48.9 Ounce",
+        "rating": 4.6,
+        "reviews": 23775
+      },
+      {
+        "rank": 5,
+        "asin": "B0CTD6LRH5",
+        "title": "Hoover Carpet and Room Refresher, 32 oz, Carpet Powder, Odor Remover",
+        "rating": 4.5,
+        "reviews": 1253
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:15342811:15342821:3743581",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

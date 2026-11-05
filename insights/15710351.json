@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "15710351",
+  "level": "L2",
+  "categoryPathEn": "Automotive > Performance Parts & Accessories",
+  "categoryPathCn": "汽车 > 性能部件",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 2774420,
+    "avgRevenue": 27744,
+    "medianPrice": 168.46,
+    "priceBand": "$86.83 - $299.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B00GNBGNBA",
+      "title": "PowerStop Z36 Brake Kit Front &amp; Rear for Toyota Sequoia 2008-22 K2813-36",
+      "brand": "PowerStop",
+      "price": 535.99,
+      "salesParent": 293,
+      "revenue": 157045.06,
+      "rating": 4.6,
+      "reviews": 1140
+    },
+    {
+      "rank": 2,
+      "asin": "B01CFL5OTI",
+      "title": "PowerStop Truck &amp; Tow Brake Pad Rotor Caliper Kit Front KC137-36",
+      "brand": "PowerStop",
+      "price": 488.99,
+      "salesParent": 305,
+      "revenue": 149141.95,
+      "rating": 4.3,
+      "reviews": 111
+    },
+    {
+      "rank": 3,
+      "asin": "B01AGBQZHE",
+      "title": "PowerStop Z36 Brake Kit Front &amp; Rear for Chevy Silverado 1500 K6560-36",
+      "brand": "PowerStop",
+      "price": 439.77,
+      "salesParent": 252,
+      "revenue": 128177.28,
+      "rating": 4.8,
+      "reviews": 1241
+    },
+    {
+      "rank": 4,
+      "asin": "B000MSBUA4",
+      "title": "OPTIMA® Batteries High Performance D34/78 YELLOWTOP® Sealed AGM Battery",
+      "brand": "OPTIMA",
+      "price": 309.99,
+      "salesParent": 366,
+      "revenue": 114177.36,
+      "rating": 4.3,
+      "reviews": 1596
+    },
+    {
+      "rank": 5,
+      "asin": "B07CMBWDN6",
+      "title": "PEDAL COMMANDER for Ram 1500 DT 2019-2026 Truck Throttle Controller",
+      "brand": "PEDAL COMMANDER",
+      "price": 299.99,
+      "salesParent": 309,
+      "revenue": 92696.91,
+      "rating": 4.5,
+      "reviews": 3657
+    },
+    {
+      "rank": 6,
+      "asin": "B00Z6LGNKO",
+      "title": "PowerStop Z36 Brake Kit Front for Ford F-250 Super Duty 2012-22 K6403-36",
+      "brand": "PowerStop",
+      "price": 486.71,
+      "salesParent": 173,
+      "revenue": 84856.5,
+      "rating": 4.6,
+      "reviews": 540
+    },
+    {
+      "rank": 7,
+      "asin": "B00JSDGD9C",
+      "title": "PowerStop Z36 Brake Kit Front for Ford F-150 2010-20 K3167-36",
+      "brand": "PowerStop",
+      "price": 258.78,
+      "salesParent": 326,
+      "revenue": 84362.28,
+      "rating": 4.6,
+      "reviews": 1114
+    },
+    {
+      "rank": 8,
+      "asin": "B00AN5S09A",
+      "title": "PowerStop Z17 Replacement Brake Pad &amp; Rotor Kit Front KOE1043",
+      "brand": "PowerStop",
+      "price": 95.99,
+      "salesParent": 786,
+      "revenue": 75448.14,
+      "rating": 4.4,
+      "reviews": 988
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 55,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 55,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 2774420,
+    "priorHeadRevenue": 1795383,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 1,
+      "pct": 1,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 80,
+      "brandCount": 25,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.52,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B00GNBGNBA",
+        "title": "PowerStop Z36 Brake Kit Front &amp; Rear for Toyota Sequoia 2008-22 K2813-36",
+        "rating": 4.6,
+        "reviews": 1140
+      },
+      {
+        "rank": 2,
+        "asin": "B01CFL5OTI",
+        "title": "PowerStop Truck &amp; Tow Brake Pad Rotor Caliper Kit Front KC137-36",
+        "rating": 4.3,
+        "reviews": 111
+      },
+      {
+        "rank": 3,
+        "asin": "B01AGBQZHE",
+        "title": "PowerStop Z36 Brake Kit Front &amp; Rear for Chevy Silverado 1500 K6560-36",
+        "rating": 4.8,
+        "reviews": 1241
+      },
+      {
+        "rank": 4,
+        "asin": "B000MSBUA4",
+        "title": "OPTIMA® Batteries High Performance D34/78 YELLOWTOP® Sealed AGM Battery",
+        "rating": 4.3,
+        "reviews": 1596
+      },
+      {
+        "rank": 5,
+        "asin": "B07CMBWDN6",
+        "title": "PEDAL COMMANDER for Ram 1500 DT 2019-2026 Truck Throttle Controller",
+        "rating": 4.5,
+        "reviews": 3657
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "15684181:15710351",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

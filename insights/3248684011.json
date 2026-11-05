@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3248684011",
+  "level": "L2",
+  "categoryPathEn": "Electronics > Car & Vehicle Electronics",
+  "categoryPathCn": "电子产品 > 汽车",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 96,
+    "totalRevenue": 34175698,
+    "avgRevenue": 355997,
+    "medianPrice": 177.11,
+    "priceBand": "$119.96 - $379.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0D6J5B98H",
+      "title": "ROVE R2-4K Dual Dash Cam Front and Rear, STARVIS 2 Sensor, Free 128GB Card",
+      "brand": "ROVE",
+      "price": 149.99,
+      "salesParent": 19185,
+      "revenue": 2881011.5,
+      "rating": 4.4,
+      "reviews": 14968
+    },
+    {
+      "rank": 2,
+      "asin": "B0BVBVPSX6",
+      "title": "Bose A30 Bluetooth Aviation Headset - Lightweight Comfortable Design, Adjustable ANR and Noise Cancelling Microphone, [Dual Plug] – Black",
+      "brand": "Bose",
+      "price": 1299.0,
+      "salesParent": 1078,
+      "revenue": 1400322.0,
+      "rating": 4.6,
+      "reviews": 712
+    },
+    {
+      "rank": 3,
+      "asin": "B0CKX14L34",
+      "title": "VIOFO A229 Plus Dash Cam Front and Rear, 2K Dual STARVIS 2 Sensors &amp; HDR",
+      "brand": "VIOFO",
+      "price": 189.99,
+      "salesParent": 6821,
+      "revenue": 1323615.12,
+      "rating": 4.3,
+      "reviews": 2297
+    },
+    {
+      "rank": 4,
+      "asin": "B0C6YBHKJ5",
+      "title": "REDTIGER 4K STARVIS 2 Dashcam Front Rear, 5GHz WiFi 20MB/s, Free 128GB Card",
+      "brand": "REDTIGER",
+      "price": 229.99,
+      "salesParent": 7650,
+      "revenue": 1228284.0,
+      "rating": 4.3,
+      "reviews": 7246
+    },
+    {
+      "rank": 5,
+      "asin": "B0CKYFSKNN",
+      "title": "VIOFO A229 Pro 4K HDR Dash Cam Front and Rear, Dual STARVIS 2 Sensors",
+      "brand": "VIOFO",
+      "price": 279.99,
+      "salesParent": 4285,
+      "revenue": 1211969.38,
+      "rating": 4.2,
+      "reviews": 1561
+    },
+    {
+      "rank": 6,
+      "asin": "B0BPJL4KPY",
+      "title": "Garmin Dash Cam™ Live, 24/7 Live View, Always-Connected Dash Cam",
+      "brand": "Garmin",
+      "price": 379.99,
+      "salesParent": 2983,
+      "revenue": 1135240.38,
+      "rating": 3.6,
+      "reviews": 121
+    },
+    {
+      "rank": 7,
+      "asin": "B098WVKF19",
+      "title": "REDTIGER F7NP 4K Dash Cam Front Rear, STARVIS 2 Sensor, Free Card Included",
+      "brand": "REDTIGER",
+      "price": 149.99,
+      "salesParent": 7015,
+      "revenue": 1017034.69,
+      "rating": 4.1,
+      "reviews": 26291
+    },
+    {
+      "rank": 8,
+      "asin": "B0811Q28N6",
+      "title": "WOLFBOX G840S 12&quot; 4K Mirror Dash Cam Backup Camera with 32GB Card and GPS",
+      "brand": "WOLFBOX",
+      "price": 129.98,
+      "salesParent": 4417,
+      "revenue": 617850.0,
+      "rating": 4.3,
+      "reviews": 15009
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -8,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -8,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 34175698,
+    "priorHeadRevenue": 36949816,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 96,
+      "newCount": 31,
+      "pct": 32,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 47,
+      "brandCount": 48,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.32,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0D6J5B98H",
+        "title": "ROVE R2-4K Dual Dash Cam Front and Rear, STARVIS 2 Sensor, Free 128GB Card",
+        "rating": 4.4,
+        "reviews": 14968
+      },
+      {
+        "rank": 2,
+        "asin": "B0BVBVPSX6",
+        "title": "Bose A30 Bluetooth Aviation Headset - Lightweight Comfortable Design, Adjustable ANR and Noise Cancelling Microphone, [Dual Plug] – Black",
+        "rating": 4.6,
+        "reviews": 712
+      },
+      {
+        "rank": 3,
+        "asin": "B0CKX14L34",
+        "title": "VIOFO A229 Plus Dash Cam Front and Rear, 2K Dual STARVIS 2 Sensors &amp; HDR",
+        "rating": 4.3,
+        "reviews": 2297
+      },
+      {
+        "rank": 4,
+        "asin": "B0C6YBHKJ5",
+        "title": "REDTIGER 4K STARVIS 2 Dashcam Front Rear, 5GHz WiFi 20MB/s, Free 128GB Card",
+        "rating": 4.3,
+        "reviews": 7246
+      },
+      {
+        "rank": 5,
+        "asin": "B0CKYFSKNN",
+        "title": "VIOFO A229 Pro 4K HDR Dash Cam Front and Rear, Dual STARVIS 2 Sensors",
+        "rating": 4.2,
+        "reviews": 1561
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "172282:3248684011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

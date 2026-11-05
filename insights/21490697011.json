@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "21490697011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Baby & Toddler Toys > Early Development & Activity Toys > Abacuses",
+  "categoryPathCn": "玩具 > 婴幼儿 > 早期发展 > 算盘",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 69,
+    "totalRevenue": 201947,
+    "avgRevenue": 2927,
+    "medianPrice": 16.99,
+    "priceBand": "$10.37 - $23.73",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B00005BVRQ",
+      "title": "Melissa &amp; Doug Abacus Classic Wooden Toy with 100 Colorful Beads",
+      "brand": "Melissa &amp; Doug",
+      "price": 13.49,
+      "salesParent": 4172,
+      "revenue": 53067.84,
+      "rating": 4.8,
+      "reviews": 18782
+    },
+    {
+      "rank": 2,
+      "asin": "B08YP1CH9M",
+      "title": "Manhattan Toy Playground Adventure Wooden Toddler Activity Center with Gliders, Abacus Track, Spinners, Spring Toys and Bead Runs",
+      "brand": "Manhattan Toy",
+      "price": 128.93,
+      "salesParent": 114,
+      "revenue": 13946.76,
+      "rating": 4.6,
+      "reviews": 259
+    },
+    {
+      "rank": 3,
+      "asin": "B0DZCPCD9B",
+      "title": "Abacus for Children Math Wooden Abacus Counting Toy Math Manipulatives",
+      "brand": "Ranqibo",
+      "price": 16.99,
+      "salesParent": 767,
+      "revenue": 13023.66,
+      "rating": 4.7,
+      "reviews": 324
+    },
+    {
+      "rank": 4,
+      "asin": "B08SBWKJZJ",
+      "title": "Wooden Abacus for Kids Math with 100 Beads, Counting Sticks &amp; Number Cards",
+      "brand": "Cltoyvers",
+      "price": 16.99,
+      "salesParent": 645,
+      "revenue": 10958.55,
+      "rating": 4.8,
+      "reviews": 1511
+    },
+    {
+      "rank": 5,
+      "asin": "B0D812N5MS",
+      "title": "Wooden Abacus for Children Counting Toy Double-Sided Blackboard Whiteboard",
+      "brand": "Ranqibo",
+      "price": 22.99,
+      "salesParent": 422,
+      "revenue": 9018.14,
+      "rating": 4.6,
+      "reviews": 233
+    },
+    {
+      "rank": 6,
+      "asin": "B0GHQN337V",
+      "title": "Wooden Abacus Math Game for 5-7 Abacus Counters Counting Toys",
+      "brand": "RECEKA",
+      "price": 16.99,
+      "salesParent": 446,
+      "revenue": 7577.54,
+      "rating": 4.7,
+      "reviews": 87
+    },
+    {
+      "rank": 7,
+      "asin": "B0792J1YX7",
+      "title": "hand2mind Mini 20-Bead Wooden Rekenrek, Set of 4",
+      "brand": "hand2mind",
+      "price": 15.99,
+      "salesParent": 470,
+      "revenue": 7515.3,
+      "rating": 4.7,
+      "reviews": 1281
+    },
+    {
+      "rank": 8,
+      "asin": "B0GHXGCFZZ",
+      "title": "Wooden Abacus for Kids Math - Double-Sided Black/Whiteboard for Toddlers",
+      "brand": "Heyfriday",
+      "price": 25.99,
+      "salesParent": 282,
+      "revenue": 7329.18,
+      "rating": 4.9,
+      "reviews": 27
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -17,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -17,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 201947,
+    "priorHeadRevenue": 242283,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 69,
+      "newCount": 35,
+      "pct": 51,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 61,
+      "brandCount": 50,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.55,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B00005BVRQ",
+        "title": "Melissa &amp; Doug Abacus Classic Wooden Toy with 100 Colorful Beads",
+        "rating": 4.8,
+        "reviews": 18782
+      },
+      {
+        "rank": 2,
+        "asin": "B08YP1CH9M",
+        "title": "Manhattan Toy Playground Adventure Wooden Toddler Activity Center with Gliders, Abacus Track, Spinners, Spring Toys and Bead Runs",
+        "rating": 4.6,
+        "reviews": 259
+      },
+      {
+        "rank": 3,
+        "asin": "B0DZCPCD9B",
+        "title": "Abacus for Children Math Wooden Abacus Counting Toy Math Manipulatives",
+        "rating": 4.7,
+        "reviews": 324
+      },
+      {
+        "rank": 4,
+        "asin": "B08SBWKJZJ",
+        "title": "Wooden Abacus for Kids Math with 100 Beads, Counting Sticks &amp; Number Cards",
+        "rating": 4.8,
+        "reviews": 1511
+      },
+      {
+        "rank": 5,
+        "asin": "B0D812N5MS",
+        "title": "Wooden Abacus for Children Counting Toy Double-Sided Blackboard Whiteboard",
+        "rating": 4.6,
+        "reviews": 233
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:196601011:21490695011:21490697011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

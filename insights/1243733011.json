@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "1243733011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Learning & Education > Reading & Writing > Handwriting Aids",
+  "categoryPathCn": "玩具 > 学习 > 阅读 > 手写辅助工具",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 2496173,
+    "avgRevenue": 25214,
+    "medianPrice": 19.99,
+    "priceBand": "$18.89 - $24.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0DJSPG5G1",
+      "title": "Skillmatics I Can Write Disney's Lilo &amp; Stitch – Educational Toy and Game",
+      "brand": "Skillmatics",
+      "price": 45.35,
+      "salesParent": 19597,
+      "revenue": 885000.5,
+      "rating": 4.4,
+      "reviews": 98
+    },
+    {
+      "rank": 2,
+      "asin": "B0D2LCR5ZM",
+      "title": "Skillmatics Search and Find – Disney Princess, Christmas Gift for Kids",
+      "brand": "Skillmatics",
+      "price": 34.97,
+      "salesParent": 19670,
+      "revenue": 700252.0,
+      "rating": 4.7,
+      "reviews": 13560
+    },
+    {
+      "rank": 3,
+      "asin": "B0DKZTSB3K",
+      "title": "My First Busy Book Screen Free Activities for Toddlers 3-5 Activity Books",
+      "brand": "Hadley Designs",
+      "price": 23.79,
+      "salesParent": 4133,
+      "revenue": 111797.65,
+      "rating": 4.6,
+      "reviews": 339
+    },
+    {
+      "rank": 4,
+      "asin": "B0D542D1GR",
+      "title": "Preschool Learning Toys Workbook &amp; Letter Tracing Books for Kids Ages 3-5",
+      "brand": "Momo &amp; Nashi",
+      "price": 23.87,
+      "salesParent": 2751,
+      "revenue": 68472.39,
+      "rating": 4.8,
+      "reviews": 1863
+    },
+    {
+      "rank": 5,
+      "asin": "B0CQ8TF5SK",
+      "title": "hand2mind Letter Tracing Sensory Pad, Fine Motor Activities, Ages 3+",
+      "brand": "hand2mind",
+      "price": 11.99,
+      "salesParent": 5391,
+      "revenue": 66794.49,
+      "rating": 4.4,
+      "reviews": 1362
+    },
+    {
+      "rank": 6,
+      "asin": "B0GCDH9W8M",
+      "title": "Pushpeel Advanced ABC Tracing Puzzle Board (Best for Ages 4+) – Silicone Learning Toy for Pre-Writing &amp; Fine Motor Skills – Quiet Sensory Travel Activity Toy for Kids – Uppercase Alphabet, Spruce",
+      "brand": "Pushpeel",
+      "price": 32.98,
+      "salesParent": 1486,
+      "revenue": 52322.06,
+      "rating": 4.7,
+      "reviews": 146
+    },
+    {
+      "rank": 7,
+      "asin": "B09MW38Z5F",
+      "title": "LeapFrog Prep for Preschool Activity Book",
+      "brand": "LeapFrog",
+      "price": 22.67,
+      "salesParent": 2051,
+      "revenue": 46742.29,
+      "rating": 4.7,
+      "reviews": 2736
+    },
+    {
+      "rank": 8,
+      "asin": "B0CJ99PGJT",
+      "title": "URMYWO Busy Book, 36 Preschool Learning Activities, Screen Free Workbook",
+      "brand": "URMYWO",
+      "price": 18.99,
+      "salesParent": 1987,
+      "revenue": 39620.78,
+      "rating": 4.7,
+      "reviews": 1869
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 56,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 56,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 2496173,
+    "priorHeadRevenue": 1600487,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 28,
+      "pct": 28,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 77,
+      "brandCount": 75,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.53,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0DJSPG5G1",
+        "title": "Skillmatics I Can Write Disney's Lilo &amp; Stitch – Educational Toy and Game",
+        "rating": 4.4,
+        "reviews": 98
+      },
+      {
+        "rank": 2,
+        "asin": "B0D2LCR5ZM",
+        "title": "Skillmatics Search and Find – Disney Princess, Christmas Gift for Kids",
+        "rating": 4.7,
+        "reviews": 13560
+      },
+      {
+        "rank": 3,
+        "asin": "B0DKZTSB3K",
+        "title": "My First Busy Book Screen Free Activities for Toddlers 3-5 Activity Books",
+        "rating": 4.6,
+        "reviews": 339
+      },
+      {
+        "rank": 4,
+        "asin": "B0D542D1GR",
+        "title": "Preschool Learning Toys Workbook &amp; Letter Tracing Books for Kids Ages 3-5",
+        "rating": 4.8,
+        "reviews": 1863
+      },
+      {
+        "rank": 5,
+        "asin": "B0CQ8TF5SK",
+        "title": "hand2mind Letter Tracing Sensory Pad, Fine Motor Activities, Ages 3+",
+        "rating": 4.4,
+        "reviews": 1362
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166269011:166289011:1243733011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

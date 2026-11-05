@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3762051",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Health Care > OTC Medications & Treatments > Digestion & Nausea",
+  "categoryPathCn": "健康与家居 > 卫生保健 > 非处方药和治疗 > 消化和恶心",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 41042559,
+    "avgRevenue": 410426,
+    "medianPrice": 17.19,
+    "priceBand": "$10.83 - $23.47",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B01MTPCPLS",
+      "title": "MiraLAX, Laxative Powder, Gentle Constipation Relief for Adults, Stool Softener with PEG 3350, Nonstimulant Laxative, No Harsh Side Effects, Osmotic Laxative, 45 Count",
+      "brand": "MiraLAX",
+      "price": 30.94,
+      "salesParent": 164852,
+      "revenue": 5039525.5,
+      "rating": 4.8,
+      "reviews": 43816
+    },
+    {
+      "rank": 2,
+      "asin": "B0CT62SVG5",
+      "title": "Emma Relief Gut Health Support, Digestive Comfort, Gas &amp; Bloating, 60 Caps",
+      "brand": "Emma",
+      "price": 59.99,
+      "salesParent": 29802,
+      "revenue": 1787822.0,
+      "rating": 4.0,
+      "reviews": 11801
+    },
+    {
+      "rank": 3,
+      "asin": "B0FFTPKMZB",
+      "title": "Pepcid Complete Acid Reducer + Antacid Chews, 10mg Famotidine Berry, 72 Ct",
+      "brand": "Pepcid",
+      "price": 20.99,
+      "salesParent": 66105,
+      "revenue": 1439767.0,
+      "rating": 4.8,
+      "reviews": 15967
+    },
+    {
+      "rank": 4,
+      "asin": "B086ZYPWQK",
+      "title": "REFLUX GOURMET Vanilla Caramel Rescue – Alginate Complex – Digestive Support Formula, Made with Natural Ingredients – 8 Fl. Oz",
+      "brand": "REFLUX GOURMET",
+      "price": 29.0,
+      "salesParent": 46286,
+      "revenue": 1337665.38,
+      "rating": 4.2,
+      "reviews": 6604
+    },
+    {
+      "rank": 5,
+      "asin": "B0000AN9L7",
+      "title": "Prilosec OTC, Omeprazole 20mg, Medicine, Acid Reflux Medicine, 24 Hour Relief, 42 Tablets",
+      "brand": "Prilosec",
+      "price": 18.26,
+      "salesParent": 53543,
+      "revenue": 972876.31,
+      "rating": 4.8,
+      "reviews": 19320
+    },
+    {
+      "rank": 6,
+      "asin": "B0DJCC3YLH",
+      "title": "MiraFAST Soft Chews, from the Makers of MiraLAX, Gentle Constipation Relief, Fast Acting, Stimulant Free Saline Laxatives, Magnesium Hydroxide, Blueberry &amp; Raspberry Flavor, 60ct",
+      "brand": "MiraLAX",
+      "price": 20.41,
+      "salesParent": 46635,
+      "revenue": 970007.94,
+      "rating": 4.5,
+      "reviews": 8002
+    },
+    {
+      "rank": 7,
+      "asin": "B0DX76JNN1",
+      "title": "Nexium 24HR Acid Reducer Heartburn Relief Capsules, 42 Count",
+      "brand": "Nexium",
+      "price": 25.28,
+      "salesParent": 37855,
+      "revenue": 957353.0,
+      "rating": 4.8,
+      "reviews": 4148
+    },
+    {
+      "rank": 8,
+      "asin": "B09RS1WN8Y",
+      "title": "Colace Stool Softener Constipation Relief 100 mg, 100 Capsules",
+      "brand": "Colace",
+      "price": 22.8,
+      "salesParent": 41743,
+      "revenue": 932538.62,
+      "rating": 4.6,
+      "reviews": 17754
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 9,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 9,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 41042559,
+    "priorHeadRevenue": 37556877,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 11,
+      "pct": 11,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 37,
+      "brandCount": 52,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.62,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B01MTPCPLS",
+        "title": "MiraLAX, Laxative Powder, Gentle Constipation Relief for Adults, Stool Softener with PEG 3350, Nonstimulant Laxative, No Harsh Side Effects, Osmotic Laxative, 45 Count",
+        "rating": 4.8,
+        "reviews": 43816
+      },
+      {
+        "rank": 2,
+        "asin": "B0CT62SVG5",
+        "title": "Emma Relief Gut Health Support, Digestive Comfort, Gas &amp; Bloating, 60 Caps",
+        "rating": 4.0,
+        "reviews": 11801
+      },
+      {
+        "rank": 3,
+        "asin": "B0FFTPKMZB",
+        "title": "Pepcid Complete Acid Reducer + Antacid Chews, 10mg Famotidine Berry, 72 Ct",
+        "rating": 4.8,
+        "reviews": 15967
+      },
+      {
+        "rank": 4,
+        "asin": "B086ZYPWQK",
+        "title": "REFLUX GOURMET Vanilla Caramel Rescue – Alginate Complex – Digestive Support Formula, Made with Natural Ingredients – 8 Fl. Oz",
+        "rating": 4.2,
+        "reviews": 6604
+      },
+      {
+        "rank": 5,
+        "asin": "B0000AN9L7",
+        "title": "Prilosec OTC, Omeprazole 20mg, Medicine, Acid Reflux Medicine, 24 Hour Relief, 42 Tablets",
+        "rating": 4.8,
+        "reviews": 19320
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3760941:10079990011:3762051",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

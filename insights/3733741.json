@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3733741",
+  "level": "L4",
+  "categoryPathEn": "Home & Kitchen > Furniture > Living Room Furniture > Ladder Shelves",
+  "categoryPathCn": "家居用品 > 家具 > 客厅家具 > 梯架",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 97,
+    "totalRevenue": 803741,
+    "avgRevenue": 8286,
+    "medianPrice": 54.99,
+    "priceBand": "$40.12 - $77.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B074X7WT6D",
+      "title": "VASAGLE Ladder Shelf, Bookcase Book Shelf, Storage Shelves, 4-Tier, 22In",
+      "brand": "VASAGLE",
+      "price": 33.98,
+      "salesParent": 2480,
+      "revenue": 92925.6,
+      "rating": 4.8,
+      "reviews": 11556
+    },
+    {
+      "rank": 2,
+      "asin": "B08P2QPP2F",
+      "title": "Blanket Ladder for the Living Room and Bedroom, Quilt Rack, 6-Tier, Black",
+      "brand": "RELODECOR",
+      "price": 49.99,
+      "salesParent": 1393,
+      "revenue": 69636.07,
+      "rating": 4.3,
+      "reviews": 4789
+    },
+    {
+      "rank": 3,
+      "asin": "B0DV31L31V",
+      "title": "AQIMUELE Walnut Wooden Ladder Shelf with Edges, 5-Tier Modern Leaning Bookshelf Ladder – Stylish Space-Saving Bookcase for Living Room, Bedroom &amp; Home Office",
+      "brand": "AQIMUELE",
+      "price": 219.99,
+      "salesParent": 220,
+      "revenue": 48723.4,
+      "rating": 4.4,
+      "reviews": 124
+    },
+    {
+      "rank": 4,
+      "asin": "B0D5GLWTNY",
+      "title": "Solid Oak Small Bookshelf, 3 Tier Ladder Shelf Walnut Bookcase",
+      "brand": "Vadisun",
+      "price": 129.99,
+      "salesParent": 308,
+      "revenue": 40036.92,
+      "rating": 4.8,
+      "reviews": 107
+    },
+    {
+      "rank": 5,
+      "asin": "B0D87KF4Y1",
+      "title": "TEAKMAMA 6-Tier 5.4ft Blanket Ladder with Hanging Knobs Rustic Brown",
+      "brand": "TEAKMAMA",
+      "price": 37.99,
+      "salesParent": 763,
+      "revenue": 28986.37,
+      "rating": 4.7,
+      "reviews": 298
+    },
+    {
+      "rank": 6,
+      "asin": "B0CSD72VBM",
+      "title": "3-Tier Bathroom Ladder Shelf with Storage Drawer, Rustic Brown",
+      "brand": "Gewudraw",
+      "price": 42.99,
+      "salesParent": 652,
+      "revenue": 28127.28,
+      "rating": 4.6,
+      "reviews": 499
+    },
+    {
+      "rank": 7,
+      "asin": "B088GJ7ZM7",
+      "title": "Blanket Ladders for the Living Room, Blanket Holder 5-Tier White",
+      "brand": "HONEST OUTFITTERS",
+      "price": 32.56,
+      "salesParent": 636,
+      "revenue": 22412.64,
+      "rating": 4.5,
+      "reviews": 1303
+    },
+    {
+      "rank": 8,
+      "asin": "B0BSKY28M7",
+      "title": "Hzuaneri Blanket Ladder Decorative Quilt Rack with 4 Removable Hooks",
+      "brand": "Hzuaneri",
+      "price": 35.99,
+      "salesParent": 573,
+      "revenue": 21275.49,
+      "rating": 4.6,
+      "reviews": 1053
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -39,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -39,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 803741,
+    "priorHeadRevenue": 1323718,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 97,
+      "newCount": 40,
+      "pct": 41,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 41,
+      "brandCount": 71,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.36,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B074X7WT6D",
+        "title": "VASAGLE Ladder Shelf, Bookcase Book Shelf, Storage Shelves, 4-Tier, 22In",
+        "rating": 4.8,
+        "reviews": 11556
+      },
+      {
+        "rank": 2,
+        "asin": "B08P2QPP2F",
+        "title": "Blanket Ladder for the Living Room and Bedroom, Quilt Rack, 6-Tier, Black",
+        "rating": 4.3,
+        "reviews": 4789
+      },
+      {
+        "rank": 3,
+        "asin": "B0DV31L31V",
+        "title": "AQIMUELE Walnut Wooden Ladder Shelf with Edges, 5-Tier Modern Leaning Bookshelf Ladder – Stylish Space-Saving Bookcase for Living Room, Bedroom &amp; Home Office",
+        "rating": 4.4,
+        "reviews": 124
+      },
+      {
+        "rank": 4,
+        "asin": "B0D5GLWTNY",
+        "title": "Solid Oak Small Bookshelf, 3 Tier Ladder Shelf Walnut Bookcase",
+        "rating": 4.8,
+        "reviews": 107
+      },
+      {
+        "rank": 5,
+        "asin": "B0D87KF4Y1",
+        "title": "TEAKMAMA 6-Tier 5.4ft Blanket Ladder with Hanging Knobs Rustic Brown",
+        "rating": 4.7,
+        "reviews": 298
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "1055398:1063306:1063318:3733741",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

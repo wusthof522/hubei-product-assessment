@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "13052981",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Health Care > Alternative Medicine > Sound Therapy",
+  "categoryPathCn": "健康与家居 > 卫生保健 > 替代药物 > 声音疗法",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 98,
+    "totalRevenue": 798576,
+    "avgRevenue": 8149,
+    "medianPrice": 35.49,
+    "priceBand": "$25.99 - $58.91",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0DJH6KRKK",
+      "title": "Pulsetto Lite (V1) Wellness Wearable – Relaxation &amp; Daily Wellness Support Device",
+      "brand": "Pulsetto",
+      "price": 224.0,
+      "salesParent": 401,
+      "revenue": 98850.51,
+      "rating": 3.8,
+      "reviews": 488
+    },
+    {
+      "rank": 2,
+      "asin": "B0F4F15WDD",
+      "title": "Muse S Athena 3rd Gen Brain Sensing Sleep Tracking Headband - Dark Grey",
+      "brand": "MUSE",
+      "price": 474.99,
+      "salesParent": 191,
+      "revenue": 89437.66,
+      "rating": 3.6,
+      "reviews": 84
+    },
+    {
+      "rank": 3,
+      "asin": "B0DS2X453F",
+      "title": "MUSE 2: The Brain Sensing Headband - EEG MUSE Headband Meditation Tracker and Monitor - Multi Sensor Biofeedback Devices for Home Use with Responsive Sound Feedback Guidance - Neurofeedback Devices",
+      "brand": "MUSE",
+      "price": 249.99,
+      "salesParent": 224,
+      "revenue": 55997.76,
+      "rating": 4.0,
+      "reviews": 101
+    },
+    {
+      "rank": 4,
+      "asin": "B0DB692DHR",
+      "title": "Relaxation Device – Vagus Nerve Toning for Calm, Sleep &amp; Stress",
+      "brand": "Sensate",
+      "price": 349.0,
+      "salesParent": 125,
+      "revenue": 43278.75,
+      "rating": 3.7,
+      "reviews": 518
+    },
+    {
+      "rank": 5,
+      "asin": "B0CYGYMP7P",
+      "title": "ENSO Resonance 128Hz Tuning Forks for Healing Set, Sound Healing",
+      "brand": "ENSO SENSORY",
+      "price": 54.75,
+      "salesParent": 670,
+      "revenue": 36682.5,
+      "rating": 4.6,
+      "reviews": 668
+    },
+    {
+      "rank": 6,
+      "asin": "B08ZWDPGRP",
+      "title": "Tuning Forks for Healing Set (128 Hz, 256 Hz, 512 Hz)",
+      "brand": "LOTS OF ZEN",
+      "price": 36.97,
+      "salesParent": 729,
+      "revenue": 26426.25,
+      "rating": 4.6,
+      "reviews": 2713
+    },
+    {
+      "rank": 7,
+      "asin": "B0HKZGW4BB",
+      "title": "Under Pillow Speaker for Sleeping, Dual Bone Conduction Side Sleepers, Blue",
+      "brand": "Mhaohuofu",
+      "price": 25.99,
+      "salesParent": 871,
+      "revenue": 22637.29,
+      "rating": 4.2,
+      "reviews": 23
+    },
+    {
+      "rank": 8,
+      "asin": "B0FP4M1BB1",
+      "title": "Ontel My MoodBible Digital Audio Bible Player: 300+ Verses in English &amp; Spanish, Mood Based Scripture Selection, Portable &amp; Easy to Use, Inspirational Christian Gift for Men, Women &amp; Families",
+      "brand": "MoodBible",
+      "price": 34.88,
+      "salesParent": 573,
+      "revenue": 20564.97,
+      "rating": 4.4,
+      "reviews": 130
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -1,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -1,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 798576,
+    "priorHeadRevenue": 807879,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 98,
+      "newCount": 70,
+      "pct": 71,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 45,
+      "brandCount": 80,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.22,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0DJH6KRKK",
+        "title": "Pulsetto Lite (V1) Wellness Wearable – Relaxation &amp; Daily Wellness Support Device",
+        "rating": 3.8,
+        "reviews": 488
+      },
+      {
+        "rank": 2,
+        "asin": "B0F4F15WDD",
+        "title": "Muse S Athena 3rd Gen Brain Sensing Sleep Tracking Headband - Dark Grey",
+        "rating": 3.6,
+        "reviews": 84
+      },
+      {
+        "rank": 3,
+        "asin": "B0DS2X453F",
+        "title": "MUSE 2: The Brain Sensing Headband - EEG MUSE Headband Meditation Tracker and Monitor - Multi Sensor Biofeedback Devices for Home Use with Responsive Sound Feedback Guidance - Neurofeedback Devices",
+        "rating": 4.0,
+        "reviews": 101
+      },
+      {
+        "rank": 4,
+        "asin": "B0DB692DHR",
+        "title": "Relaxation Device – Vagus Nerve Toning for Calm, Sleep &amp; Stress",
+        "rating": 3.7,
+        "reviews": 518
+      },
+      {
+        "rank": 5,
+        "asin": "B0CYGYMP7P",
+        "title": "ENSO Resonance 128Hz Tuning Forks for Healing Set, Sound Healing",
+        "rating": 4.6,
+        "reviews": 668
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3760941:13052911:13052981",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

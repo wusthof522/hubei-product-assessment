@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "15342861",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Household Supplies > Household Cleaning > Floor Cleaners",
+  "categoryPathCn": "健康与家居 > 家居用品 > 家庭清洁剂 > 地板清洁剂",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 13155384,
+    "avgRevenue": 131554,
+    "medianPrice": 20.47,
+    "priceBand": "$14.91 - $29.14",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0035G078Q",
+      "title": "Swiffer WetJet Multi-Purpose Floor Cleaner Solution with Febreze Refill, Hardwood Floor Cleaner, Lavender Scent, 1.25 Liter -42.2 Fl Oz (Pack of 2)",
+      "brand": "Swiffer",
+      "price": 12.94,
+      "salesParent": 97559,
+      "revenue": 1238999.25,
+      "rating": 4.8,
+      "reviews": 142335
+    },
+    {
+      "rank": 2,
+      "asin": "B000ARPVIY",
+      "title": "Bona Hardwood Floor Cleaner Refill - 128 fl oz - Unscented",
+      "brand": "Bona",
+      "price": 19.97,
+      "salesParent": 61746,
+      "revenue": 1219483.5,
+      "rating": 4.8,
+      "reviews": 32575
+    },
+    {
+      "rank": 3,
+      "asin": "B0C1R4C4J1",
+      "title": "Swiffer PowerMop Liquid Floor Cleaner Refills, Solution for Power Mop, Fresh Scent, 2 Count Mopping Fluid Replacement Bottle, Spray Mops Cleaning Juice, No Bucket Needed, Multi-Surface and Wood",
+      "brand": "Swiffer",
+      "price": 9.94,
+      "salesParent": 103225,
+      "revenue": 1015734.0,
+      "rating": 4.8,
+      "reviews": 30680
+    },
+    {
+      "rank": 4,
+      "asin": "B0D1CCGJ5W",
+      "title": "Tineco Floor Cleaning Solution for Wet Dry Vacuum (33.8 OZ * 2)",
+      "brand": "Tineco",
+      "price": 29.99,
+      "salesParent": 28321,
+      "revenue": 849346.81,
+      "rating": 4.8,
+      "reviews": 16030
+    },
+    {
+      "rank": 5,
+      "asin": "B08J4739TQ",
+      "title": "BISSELL SpinWave Hard Floor Expert Corded Spin Mop Cleaner, 20393",
+      "brand": "Bissell",
+      "price": 119.99,
+      "salesParent": 5654,
+      "revenue": 678423.44,
+      "rating": 4.4,
+      "reviews": 9167
+    },
+    {
+      "rank": 6,
+      "asin": "B0CH2ZPYYP",
+      "title": "Bona Multi-Surface Floor Cleaner Refill - 128 fl oz - Lemon Mint",
+      "brand": "Bona",
+      "price": 19.97,
+      "salesParent": 28522,
+      "revenue": 568443.44,
+      "rating": 4.7,
+      "reviews": 22070
+    },
+    {
+      "rank": 7,
+      "asin": "B0DDT77R9K",
+      "title": "roborock Official Floor Cleaning Solution, Floor Cleaner for Hardwood Tile Hardfloor, Compatible Robot Vacuums with Mopping and Wet Dry Vacuum, 16.2 FL OZ, Dilution Ratio 1:200",
+      "brand": "roborock",
+      "price": 18.99,
+      "salesParent": 27385,
+      "revenue": 520041.16,
+      "rating": 4.7,
+      "reviews": 3381
+    },
+    {
+      "rank": 8,
+      "asin": "B0FVWR8YDP",
+      "title": "Mop Soap Brazilian Waves, Floor Cleaner for Mopping, Luxury Scented Mop Soap, LVP Vinyl Laminate and Hardwood Floor Cleaner Solution, Plant Powered Floor Cleaner",
+      "brand": "Blyss",
+      "price": 39.99,
+      "salesParent": 14549,
+      "revenue": 489428.34,
+      "rating": 3.8,
+      "reviews": 1960
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -5,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -5,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 13155384,
+    "priorHeadRevenue": 13805852,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 23,
+      "pct": 23,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 59,
+      "brandCount": 50,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.51,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0035G078Q",
+        "title": "Swiffer WetJet Multi-Purpose Floor Cleaner Solution with Febreze Refill, Hardwood Floor Cleaner, Lavender Scent, 1.25 Liter -42.2 Fl Oz (Pack of 2)",
+        "rating": 4.8,
+        "reviews": 142335
+      },
+      {
+        "rank": 2,
+        "asin": "B000ARPVIY",
+        "title": "Bona Hardwood Floor Cleaner Refill - 128 fl oz - Unscented",
+        "rating": 4.8,
+        "reviews": 32575
+      },
+      {
+        "rank": 3,
+        "asin": "B0C1R4C4J1",
+        "title": "Swiffer PowerMop Liquid Floor Cleaner Refills, Solution for Power Mop, Fresh Scent, 2 Count Mopping Fluid Replacement Bottle, Spray Mops Cleaning Juice, No Bucket Needed, Multi-Surface and Wood",
+        "rating": 4.8,
+        "reviews": 30680
+      },
+      {
+        "rank": 4,
+        "asin": "B0D1CCGJ5W",
+        "title": "Tineco Floor Cleaning Solution for Wet Dry Vacuum (33.8 OZ * 2)",
+        "rating": 4.8,
+        "reviews": 16030
+      },
+      {
+        "rank": 5,
+        "asin": "B08J4739TQ",
+        "title": "BISSELL SpinWave Hard Floor Expert Corded Spin Mop Cleaner, 20393",
+        "rating": 4.4,
+        "reviews": 9167
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:15342811:15342821:15342861",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

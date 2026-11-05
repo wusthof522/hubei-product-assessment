@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "706814011",
+  "level": "L2",
+  "categoryPathEn": "Sports & Outdoors > Outdoor Recreation",
+  "categoryPathCn": "运动与户外 > 外出休闲",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 96,
+    "totalRevenue": 45650077,
+    "avgRevenue": 475522,
+    "medianPrice": 61.5,
+    "priceBand": "$29.99 - $158.94",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0869HGSVL",
+      "title": "INTEX 22in Queen Dura-Beam Comfort Plush Air Mattress with Built in Pump",
+      "brand": "Intex",
+      "price": 59.99,
+      "salesParent": 50232,
+      "revenue": 3218364.25,
+      "rating": 4.3,
+      "reviews": 67686
+    },
+    {
+      "rank": 2,
+      "asin": "B09FFQN924",
+      "title": "Aquatabs Water Purification Tablets, 397mg 100 Pack, Camping &amp; Emergency",
+      "brand": "Aquatabs",
+      "price": 36.99,
+      "salesParent": 38294,
+      "revenue": 1416495.12,
+      "rating": 4.7,
+      "reviews": 3603
+    },
+    {
+      "rank": 3,
+      "asin": "B06XWG7H3S",
+      "title": "King Koil Air Mattress Queen with Built-in Pump, 20” Raised Airbed",
+      "brand": "King Koil",
+      "price": 98.77,
+      "salesParent": 10890,
+      "revenue": 1373011.25,
+      "rating": 4.3,
+      "reviews": 56622
+    },
+    {
+      "rank": 4,
+      "asin": "B09LDFR8HX",
+      "title": "Practical Survival Reusable Emergency Water Filter Straws, 5-Pack",
+      "brand": "Practical Survival",
+      "price": 79.98,
+      "salesParent": 16643,
+      "revenue": 1331107.25,
+      "rating": 4.7,
+      "reviews": 3838
+    },
+    {
+      "rank": 5,
+      "asin": "B0007ZF4OA",
+      "title": "HotHands Hand Warmers Bulk Pack, 40 Pairs - America's Favorite Warmer",
+      "brand": "HotHands",
+      "price": 26.99,
+      "salesParent": 53578,
+      "revenue": 1307839.0,
+      "rating": 4.8,
+      "reviews": 52764
+    },
+    {
+      "rank": 6,
+      "asin": "B08D66HCXW",
+      "title": "LHKNL Headlamp Flashlight, Lumen Bright Head Lamps LED Rechargeable Camping",
+      "brand": "LHKNL",
+      "price": 19.99,
+      "salesParent": 65258,
+      "revenue": 1222282.25,
+      "rating": 4.5,
+      "reviews": 37777
+    },
+    {
+      "rank": 7,
+      "asin": "B0H1YQZZDN",
+      "title": "STANLEY IceFlow Flip Straw 2.0 Jug, 64 oz, Daffodil Emerald",
+      "brand": "STANLEY",
+      "price": 60.0,
+      "salesParent": 23781,
+      "revenue": 1220203.12,
+      "rating": 4.3,
+      "reviews": 25
+    },
+    {
+      "rank": 8,
+      "asin": "B004JT7F8I",
+      "title": "READYWISE Emergency Survival Food Supply Favorite Sample Bucket 120 Serving",
+      "brand": "ReadyWise",
+      "price": 295.99,
+      "salesParent": 10337,
+      "revenue": 1054787.5,
+      "rating": 4.5,
+      "reviews": 10560
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 17,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 17,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 45650077,
+    "priorHeadRevenue": 38953650,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 96,
+      "newCount": 15,
+      "pct": 16,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 32,
+      "brandCount": 58,
+      "level": "分散",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.56,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0869HGSVL",
+        "title": "INTEX 22in Queen Dura-Beam Comfort Plush Air Mattress with Built in Pump",
+        "rating": 4.3,
+        "reviews": 67686
+      },
+      {
+        "rank": 2,
+        "asin": "B09FFQN924",
+        "title": "Aquatabs Water Purification Tablets, 397mg 100 Pack, Camping &amp; Emergency",
+        "rating": 4.7,
+        "reviews": 3603
+      },
+      {
+        "rank": 3,
+        "asin": "B06XWG7H3S",
+        "title": "King Koil Air Mattress Queen with Built-in Pump, 20” Raised Airbed",
+        "rating": 4.3,
+        "reviews": 56622
+      },
+      {
+        "rank": 4,
+        "asin": "B09LDFR8HX",
+        "title": "Practical Survival Reusable Emergency Water Filter Straws, 5-Pack",
+        "rating": 4.7,
+        "reviews": 3838
+      },
+      {
+        "rank": 5,
+        "asin": "B0007ZF4OA",
+        "title": "HotHands Hand Warmers Bulk Pack, 40 Pairs - America's Favorite Warmer",
+        "rating": 4.8,
+        "reviews": 52764
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3375251:706814011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

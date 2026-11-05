@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23466438011",
+  "level": "L4",
+  "categoryPathEn": "Clothing, Shoes & Jewelry > Sport Specific Clothing > Gymnastics > Boys",
+  "categoryPathCn": "服装、鞋履和珠宝 > Sport Specific Clothing > Gymnastics > 男孩们",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 50,
+    "totalRevenue": 2601,
+    "avgRevenue": 52,
+    "medianPrice": 19.48,
+    "priceBand": "$14.98 - $28.3",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B07C2T3XFH",
+      "title": "Boy's Gymnastics Leotard Toddler Ballet Dance Practice Atheletic Competition Training Tank",
+      "brand": "NEW DANCE",
+      "price": 30.99,
+      "salesParent": 62,
+      "revenue": 1921.38,
+      "rating": 4.2,
+      "reviews": 282
+    },
+    {
+      "rank": 2,
+      "asin": "B0FR4PB2KW",
+      "title": "Kids Boys Girls Short Sleeves Stretchy Gymnastics Unitard Athletic Sports Biketard Active Dance Wear",
+      "brand": "QinCiao",
+      "price": 16.28,
+      "salesParent": 24,
+      "revenue": 390.72,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "rank": 3,
+      "asin": "B0H8T6J489",
+      "title": "JEYPINMI Boys Latin Dance Performance Costume Jazz Dance Costume",
+      "brand": "JEYPINMI",
+      "price": 28.98,
+      "salesParent": 4,
+      "revenue": 115.92,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "rank": 4,
+      "asin": "B011IP3WPK",
+      "title": "Capezio Big Boys' Tactel Short Sleeve Leotard",
+      "brand": "Capezio",
+      "price": 35.6,
+      "salesParent": 3,
+      "revenue": 107.0,
+      "rating": 4.2,
+      "reviews": 9
+    },
+    {
+      "rank": 5,
+      "asin": "B0GXZSXXN9",
+      "title": "Linjinx Kids Boys Leotard Outfit Sleeveless Contrast Color Leotards With Stretchy Shorts For Gymnastics Dance Workout",
+      "brand": "Linjinx",
+      "price": 22.78,
+      "salesParent": 2,
+      "revenue": 45.56,
+      "rating": 1.0,
+      "reviews": 1
+    },
+    {
+      "rank": 6,
+      "asin": "B0G39CQ3Y1",
+      "title": "Loyan Youth Boys Solid Color Gymnastics Leotards Tops Romper Shirts Activewear Short Sleeve Latin Dance Bodysuit",
+      "brand": "Loyan",
+      "price": 19.98,
+      "salesParent": 1,
+      "revenue": 19.98,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "rank": 7,
+      "asin": "B00AMPZ0NK",
+      "title": "&quot;Ivan&quot; Boy's V-Neck Leotard with Built-In Dance Belt,WM125CWHTM,White,Medium",
+      "brand": "Wearmoi",
+      "price": 47.9,
+      "salesParent": 0,
+      "revenue": 0.0,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "rank": 8,
+      "asin": "B09R1VXLCK",
+      "title": "LIUHUO Competitive Gymnastics Jumpsuits Boys Mens Performance Gymnastics Dance Shorts Sets",
+      "brand": "LIUHUO",
+      "price": 89.98,
+      "salesParent": 0,
+      "revenue": 0.0,
+      "rating": null,
+      "reviews": null
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -1,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -1,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 2601,
+    "priorHeadRevenue": 2637,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 50,
+      "newCount": 42,
+      "pct": 84,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 99,
+      "brandCount": 35,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 3.69,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B07C2T3XFH",
+        "title": "Boy's Gymnastics Leotard Toddler Ballet Dance Practice Atheletic Competition Training Tank",
+        "rating": 4.2,
+        "reviews": 282
+      },
+      {
+        "rank": 2,
+        "asin": "B0FR4PB2KW",
+        "title": "Kids Boys Girls Short Sleeves Stretchy Gymnastics Unitard Athletic Sports Biketard Active Dance Wear",
+        "rating": null,
+        "reviews": null
+      },
+      {
+        "rank": 3,
+        "asin": "B0H8T6J489",
+        "title": "JEYPINMI Boys Latin Dance Performance Costume Jazz Dance Costume",
+        "rating": null,
+        "reviews": null
+      },
+      {
+        "rank": 4,
+        "asin": "B011IP3WPK",
+        "title": "Capezio Big Boys' Tactel Short Sleeve Leotard",
+        "rating": 4.2,
+        "reviews": 9
+      },
+      {
+        "rank": 5,
+        "asin": "B0GXZSXXN9",
+        "title": "Linjinx Kids Boys Leotard Outfit Sleeveless Contrast Color Leotards With Stretchy Shorts For Gymnastics Dance Workout",
+        "rating": 1.0,
+        "reviews": 1
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "7141123011:23575629011:23466415011:23466438011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

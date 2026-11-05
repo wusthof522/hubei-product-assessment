@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3778131",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Oral Care > Denture Care > Cleansers",
+  "categoryPathCn": "Health & Household > Oral Care > Denture Care > Cleansers",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 92,
+    "totalRevenue": 9211032,
+    "avgRevenue": 100120,
+    "medianPrice": 28.75,
+    "priceBand": "$17.99 - $41.06",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B075WWYBJ7",
+      "title": "Retainer Cleaner Tablets, Denture Cleaner, Mint, 4 Month Supply by M3",
+      "brand": "M3 Naturals",
+      "price": 23.99,
+      "salesParent": 105052,
+      "revenue": 2442459.0,
+      "rating": 4.7,
+      "reviews": 26225
+    },
+    {
+      "rank": 2,
+      "asin": "B00X4L6T20",
+      "title": "Efferdent Denture Cleaner Tablets, Minty Fresh &amp; Clean, 126 Count",
+      "brand": "efferdent",
+      "price": 5.97,
+      "salesParent": 93051,
+      "revenue": 555514.44,
+      "rating": 4.8,
+      "reviews": 15622
+    },
+    {
+      "rank": 3,
+      "asin": "B005GRGARE",
+      "title": "Retainer Brite Tablets for Cleaner Retainers and Dental Appliances - 96 Count",
+      "brand": "Retainer Brite",
+      "price": 21.99,
+      "salesParent": 17356,
+      "revenue": 363955.31,
+      "rating": 4.7,
+      "reviews": 38367
+    },
+    {
+      "rank": 4,
+      "asin": "B07HCQ8LKV",
+      "title": "INVISALIGN Cleaning Crystals | Aligner and Retainer Cleaner | 50 Packets",
+      "brand": "INVISALIGN",
+      "price": 33.27,
+      "salesParent": 8471,
+      "revenue": 331893.78,
+      "rating": 4.6,
+      "reviews": 3578
+    },
+    {
+      "rank": 5,
+      "asin": "B0DVC7S3WW",
+      "title": "Polident 3 Minute Antibacterial Retainer Cleaner Tablets, 90 Count (2 Pack)",
+      "brand": "Polident",
+      "price": 11.47,
+      "salesParent": 27310,
+      "revenue": 311880.19,
+      "rating": 4.8,
+      "reviews": 5294
+    },
+    {
+      "rank": 6,
+      "asin": "B0H259GRMR",
+      "title": "7MAGIC Ultrasonic Retainer Cleaner Machine, 48kHz, 200 ml, White",
+      "brand": "7MAGIC",
+      "price": 49.98,
+      "salesParent": 4572,
+      "revenue": 294848.28,
+      "rating": 4.5,
+      "reviews": 84
+    },
+    {
+      "rank": 7,
+      "asin": "B0HKVTDVS2",
+      "title": "2026 Ultrasonic Retainer Cleaner Machine, Removable Base and Top Cover White",
+      "brand": "Haneuul",
+      "price": 66.65,
+      "salesParent": 2641,
+      "revenue": 256916.48,
+      "rating": 4.8,
+      "reviews": 1618
+    },
+    {
+      "rank": 8,
+      "asin": "B01498R95W",
+      "title": "Efferdent Denture Cleaner Tablets, Complete Clean, 126 Count",
+      "brand": "efferdent",
+      "price": 5.97,
+      "salesParent": 39315,
+      "revenue": 235496.84,
+      "rating": 4.8,
+      "reviews": 40962
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -21,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -21,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 9211032,
+    "priorHeadRevenue": 11679915,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 92,
+      "newCount": 37,
+      "pct": 40,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 57,
+      "brandCount": 61,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.53,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B075WWYBJ7",
+        "title": "Retainer Cleaner Tablets, Denture Cleaner, Mint, 4 Month Supply by M3",
+        "rating": 4.7,
+        "reviews": 26225
+      },
+      {
+        "rank": 2,
+        "asin": "B00X4L6T20",
+        "title": "Efferdent Denture Cleaner Tablets, Minty Fresh &amp; Clean, 126 Count",
+        "rating": 4.8,
+        "reviews": 15622
+      },
+      {
+        "rank": 3,
+        "asin": "B005GRGARE",
+        "title": "Retainer Brite Tablets for Cleaner Retainers and Dental Appliances - 96 Count",
+        "rating": 4.7,
+        "reviews": 38367
+      },
+      {
+        "rank": 4,
+        "asin": "B07HCQ8LKV",
+        "title": "INVISALIGN Cleaning Crystals | Aligner and Retainer Cleaner | 50 Packets",
+        "rating": 4.6,
+        "reviews": 3578
+      },
+      {
+        "rank": 5,
+        "asin": "B0DVC7S3WW",
+        "title": "Polident 3 Minute Antibacterial Retainer Cleaner Tablets, 90 Count (2 Pack)",
+        "rating": 4.8,
+        "reviews": 5294
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:10079992011:3778111:3778131",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

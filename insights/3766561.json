@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3766561",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins, Minerals & Supplements > Herbal Supplements > Oregano",
+  "categoryPathCn": "健康与家居 > 身、泳和附剂 > 草本补充 > 牛至",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 98,
+    "totalRevenue": 11773107,
+    "avgRevenue": 120134,
+    "medianPrice": 24.95,
+    "priceBand": "$17.86 - $32.96",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0G6B59FT5",
+      "title": "Resilia Oil Of Oregano Softgels with Black Seed Oil - 120 Softgels",
+      "brand": "Resilia Oil Of Oregano",
+      "price": 49.99,
+      "salesParent": 122597,
+      "revenue": 6025642.5,
+      "rating": 4.2,
+      "reviews": 16918
+    },
+    {
+      "rank": 2,
+      "asin": "B0DK7XKTM6",
+      "title": "Micro Ingredients Oil of Oregano with Black Seed Oil, 150 Softgels",
+      "brand": "Micro Ingredients",
+      "price": 24.95,
+      "salesParent": 71339,
+      "revenue": 1642937.25,
+      "rating": 4.5,
+      "reviews": 28220
+    },
+    {
+      "rank": 3,
+      "asin": "B07G7MRZT6",
+      "title": "Garden of Life Organics Oil of Oregano Seasonal Drops, 1 Fl oz",
+      "brand": "Garden of Life",
+      "price": 11.89,
+      "salesParent": 18487,
+      "revenue": 217407.12,
+      "rating": 4.6,
+      "reviews": 24436
+    },
+    {
+      "rank": 4,
+      "asin": "B0036THMYE",
+      "title": "Gaia Herbs Oil of Oregano 230 mg, 60 Vegan Capsules, 60 Servings",
+      "brand": "Gaia Herbs",
+      "price": 24.1,
+      "salesParent": 7070,
+      "revenue": 194919.89,
+      "rating": 4.7,
+      "reviews": 7002
+    },
+    {
+      "rank": 5,
+      "asin": "B07G1JRPV9",
+      "title": "Carlyle Oil of Oregano Softgels | 150 Capsules | Contains Carvacrol",
+      "brand": "Carlyle",
+      "price": 9.99,
+      "salesParent": 18612,
+      "revenue": 185933.88,
+      "rating": 4.7,
+      "reviews": 32542
+    },
+    {
+      "rank": 6,
+      "asin": "B0GJD77NV9",
+      "title": "Oil of Oregano with Black Seed Oil, 180 Count Oregano Oil Capsules with 4X Strength of Carvacrol and Thymoquinone, Non-GMO, Natural Herbal Health Supplement",
+      "brand": "Green pigeons",
+      "price": 9.99,
+      "salesParent": 17314,
+      "revenue": 174871.41,
+      "rating": 4.4,
+      "reviews": 1455
+    },
+    {
+      "rank": 7,
+      "asin": "B0FV8Q1XNR",
+      "title": "Oil of Oregano with Black Seed Oil, Oregano Oil Supplement for Immune Wellness, Gut &amp; Digestive Health, Daily Energy, Non-GMO, Gluten Free, 180 Softgels (1)",
+      "brand": "ixarco",
+      "price": 29.99,
+      "salesParent": 4914,
+      "revenue": 146486.34,
+      "rating": 4.1,
+      "reviews": 277
+    },
+    {
+      "rank": 8,
+      "asin": "B0DGL6ZDXD",
+      "title": "Oil of Oregano with Black Seed Oil",
+      "brand": "Nature's live",
+      "price": 16.99,
+      "salesParent": 8858,
+      "revenue": 141550.84,
+      "rating": 4.4,
+      "reviews": 3123
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 41,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 41,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 11773107,
+    "priorHeadRevenue": 8327857,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 98,
+      "newCount": 43,
+      "pct": 44,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 75,
+      "brandCount": 80,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.5,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0G6B59FT5",
+        "title": "Resilia Oil Of Oregano Softgels with Black Seed Oil - 120 Softgels",
+        "rating": 4.2,
+        "reviews": 16918
+      },
+      {
+        "rank": 2,
+        "asin": "B0DK7XKTM6",
+        "title": "Micro Ingredients Oil of Oregano with Black Seed Oil, 150 Softgels",
+        "rating": 4.5,
+        "reviews": 28220
+      },
+      {
+        "rank": 3,
+        "asin": "B07G7MRZT6",
+        "title": "Garden of Life Organics Oil of Oregano Seasonal Drops, 1 Fl oz",
+        "rating": 4.6,
+        "reviews": 24436
+      },
+      {
+        "rank": 4,
+        "asin": "B0036THMYE",
+        "title": "Gaia Herbs Oil of Oregano 230 mg, 60 Vegan Capsules, 60 Servings",
+        "rating": 4.7,
+        "reviews": 7002
+      },
+      {
+        "rank": 5,
+        "asin": "B07G1JRPV9",
+        "title": "Carlyle Oil of Oregano Softgels | 150 Capsules | Contains Carvacrol",
+        "rating": 4.7,
+        "reviews": 32542
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:23675621011:3764461:3766561",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

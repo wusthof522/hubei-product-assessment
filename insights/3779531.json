@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3779531",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Health Care > Feminine Care > Vaginal Moisturizers",
+  "categoryPathCn": "健康与家居 > 卫生保健 > 女士卫生护理 > 阴道保湿霜",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 7809637,
+    "avgRevenue": 78096,
+    "medianPrice": 26.99,
+    "priceBand": "$19.72 - $37.74",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0FF5DT337",
+      "title": "URO Vaginal Moisture &amp; Mood with KSM-66® Ashwagandha – 30-Day Supply",
+      "brand": "O Positiv",
+      "price": 28.97,
+      "salesParent": 42284,
+      "revenue": 1224967.5,
+      "rating": 4.4,
+      "reviews": 5336
+    },
+    {
+      "rank": 2,
+      "asin": "B0D6HZ1N99",
+      "title": "Bonafide Revaree Plus, 10 mg Hyaluronic Acid, 1 Month Supply",
+      "brand": "Bonafide",
+      "price": 70.0,
+      "salesParent": 13487,
+      "revenue": 944090.0,
+      "rating": 4.4,
+      "reviews": 5676
+    },
+    {
+      "rank": 3,
+      "asin": "B0C57WPBSJ",
+      "title": "LACTOMEDI Intimate Care Gel | 10-Day Feminine Moisturizing Gel | pH Balance Support | Daily Intimate Freshness Care | Individually Sealed Applicators | 1 Box x 10 pcs",
+      "brand": "LACTOMEDI",
+      "price": 35.95,
+      "salesParent": 16927,
+      "revenue": 571286.25,
+      "rating": 4.4,
+      "reviews": 2202
+    },
+    {
+      "rank": 4,
+      "asin": "B0071Q5PL0",
+      "title": "VMAGIC by Medicine Mama Organic Vulva Balm Vaginal Moisturizer – 2 oz",
+      "brand": "Medicine Mama",
+      "price": 28.98,
+      "salesParent": 18504,
+      "revenue": 535690.81,
+      "rating": 4.4,
+      "reviews": 16147
+    },
+    {
+      "rank": 5,
+      "asin": "B089GZQCD9",
+      "title": "BB Company Radiancy | Vaginal Probiotics for Vaginal Dryness, pH Balance | Fights Itch, Odor | Anti-Aging | Hyaluronic Acid, Probiotics, Vitamin C, Multi Collagen | 120 Ct",
+      "brand": "BB Company",
+      "price": 49.0,
+      "salesParent": 7958,
+      "revenue": 389942.0,
+      "rating": 4.2,
+      "reviews": 1780
+    },
+    {
+      "rank": 6,
+      "asin": "B0DB6M5D68",
+      "title": "MENO Vaginal Moisture – Hormone-Free Capsules with Maca Root– 30-Day Supply",
+      "brand": "O Positiv",
+      "price": 28.97,
+      "salesParent": 13250,
+      "revenue": 383852.5,
+      "rating": 4.4,
+      "reviews": 4027
+    },
+    {
+      "rank": 7,
+      "asin": "B0FWKDZ7X6",
+      "title": "KITTYQUEEN Slippery Kitty Vaginal Probiotic and Moisture Gummies, 60 Count",
+      "brand": "KITTYQUEEN",
+      "price": 29.99,
+      "salesParent": 7657,
+      "revenue": 229633.42,
+      "rating": 4.4,
+      "reviews": 1101
+    },
+    {
+      "rank": 8,
+      "asin": "B001G7QR8A",
+      "title": "Replens Long Lasting Vaginal Moisturizer for Vaginal Dryness, Doctor Recommended &amp; Estrogen-Free, 8 Pre-Filled Applicators",
+      "brand": "Replens",
+      "price": 12.98,
+      "salesParent": 16245,
+      "revenue": 212322.14,
+      "rating": 4.4,
+      "reviews": 7027
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 10,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 10,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 7809637,
+    "priorHeadRevenue": 7124489,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 30,
+      "pct": 30,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 56,
+      "brandCount": 66,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.38,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0FF5DT337",
+        "title": "URO Vaginal Moisture &amp; Mood with KSM-66® Ashwagandha – 30-Day Supply",
+        "rating": 4.4,
+        "reviews": 5336
+      },
+      {
+        "rank": 2,
+        "asin": "B0D6HZ1N99",
+        "title": "Bonafide Revaree Plus, 10 mg Hyaluronic Acid, 1 Month Supply",
+        "rating": 4.4,
+        "reviews": 5676
+      },
+      {
+        "rank": 3,
+        "asin": "B0C57WPBSJ",
+        "title": "LACTOMEDI Intimate Care Gel | 10-Day Feminine Moisturizing Gel | pH Balance Support | Daily Intimate Freshness Care | Individually Sealed Applicators | 1 Box x 10 pcs",
+        "rating": 4.4,
+        "reviews": 2202
+      },
+      {
+        "rank": 4,
+        "asin": "B0071Q5PL0",
+        "title": "VMAGIC by Medicine Mama Organic Vulva Balm Vaginal Moisturizer – 2 oz",
+        "rating": 4.4,
+        "reviews": 16147
+      },
+      {
+        "rank": 5,
+        "asin": "B089GZQCD9",
+        "title": "BB Company Radiancy | Vaginal Probiotics for Vaginal Dryness, pH Balance | Fights Itch, Odor | Anti-Aging | Hyaluronic Acid, Probiotics, Vitamin C, Multi Collagen | 120 Ct",
+        "rating": 4.2,
+        "reviews": 1780
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3760941:3779501:3779531",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

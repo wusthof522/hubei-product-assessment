@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "8882497011",
+  "level": "L2",
+  "categoryPathEn": "Musical Instruments > Wind & Woodwind Instruments",
+  "categoryPathCn": "乐器 > 风",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 28,
+    "totalRevenue": 12300,
+    "avgRevenue": 439,
+    "medianPrice": 20.74,
+    "priceBand": "$12.24 - $37.48",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B09BJ3FWN8",
+      "title": "Set of 12 Ceramic Bird Whistles, Bird Water Whistles, Bird Call Whistle for Water and Bath Play Fun, Birthday Gift, Easter Gift",
+      "brand": "Hedume",
+      "price": 18.99,
+      "salesParent": 141,
+      "revenue": 2808.72,
+      "rating": 4.5,
+      "reviews": 188
+    },
+    {
+      "rank": 2,
+      "asin": "B0HBKDFG2W",
+      "title": "11-Piece Bird Whistle Set, Handcrafted Wooden Calls in Display Box, Bird Watching Gift for Nature Lovers and Outdoor Learning",
+      "brand": "JALYNXOR",
+      "price": 35.99,
+      "salesParent": 51,
+      "revenue": 1867.11,
+      "rating": 4.8,
+      "reviews": 19
+    },
+    {
+      "rank": 3,
+      "asin": "B0DVBRT36K",
+      "title": "Conch Shell Decor - Seashell Decor - Imperfect (8-10in) Large Sea Shell - Shells for Decoration - Large Seashells for Craft - Magic Conch Shell Room Decor",
+      "brand": "Nautical Crush Trading",
+      "price": 37.98,
+      "salesParent": 44,
+      "revenue": 1671.12,
+      "rating": 4.2,
+      "reviews": 53
+    },
+    {
+      "rank": 4,
+      "asin": "B0H1R5JV7W",
+      "title": "Pinkunn Large Wooden Pooja Mandir for Home White Pooja Temple Cabinet with Focus Light and Storage Shelf 22.8 x 15.3 x 12.3 Inch Hindu Festival Decor for Living Room Home Office",
+      "brand": "Pinkunn",
+      "price": 78.99,
+      "salesParent": 18,
+      "revenue": 1427.76,
+      "rating": 2.2,
+      "reviews": 5
+    },
+    {
+      "rank": 5,
+      "asin": "B0CB9Y1WP6",
+      "title": "Hohner Harmonica Holder (KM4307), Adjustable Hands-Free Neck Rack, Stainless Steel, Fits Harmonicas up to 7.3 Inches, for Blues, Folk, Country and Juliet Music Note Stickers",
+      "brand": "Hohner",
+      "price": 26.99,
+      "salesParent": 32,
+      "revenue": 896.32,
+      "rating": 4.5,
+      "reviews": 71
+    },
+    {
+      "rank": 6,
+      "asin": "B0FXLCRLCN",
+      "title": "Hanycon 50pcs Round Shell Slice Round Capiz Shells with 2 Holes for DIY Use",
+      "brand": "Hanycon",
+      "price": 12.99,
+      "salesParent": 40,
+      "revenue": 519.6,
+      "rating": 5.0,
+      "reviews": 2
+    },
+    {
+      "rank": 7,
+      "asin": "B0H7TCBW37",
+      "title": "PEPPERLONELY 50PC Round Capiz Shells with 2 Hole Capiz Shell Disc (Blue Mix, 2&quot;)",
+      "brand": "PEPPERLONELY",
+      "price": 27.99,
+      "salesParent": 14,
+      "revenue": 391.86,
+      "rating": 5.0,
+      "reviews": 15
+    },
+    {
+      "rank": 8,
+      "asin": "B0GZVC1P9V",
+      "title": "MySHUCE 180 Pcs Capiz Shells 2 Inch Round White Natural Sea Shells",
+      "brand": "MySHUCE",
+      "price": 23.99,
+      "salesParent": 14,
+      "revenue": 366.8,
+      "rating": 5.0,
+      "reviews": 1
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -41,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -41,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 12300,
+    "priorHeadRevenue": 20720,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 28,
+      "newCount": 19,
+      "pct": 68,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 70,
+      "brandCount": 25,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.41,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B09BJ3FWN8",
+        "title": "Set of 12 Ceramic Bird Whistles, Bird Water Whistles, Bird Call Whistle for Water and Bath Play Fun, Birthday Gift, Easter Gift",
+        "rating": 4.5,
+        "reviews": 188
+      },
+      {
+        "rank": 2,
+        "asin": "B0HBKDFG2W",
+        "title": "11-Piece Bird Whistle Set, Handcrafted Wooden Calls in Display Box, Bird Watching Gift for Nature Lovers and Outdoor Learning",
+        "rating": 4.8,
+        "reviews": 19
+      },
+      {
+        "rank": 3,
+        "asin": "B0DVBRT36K",
+        "title": "Conch Shell Decor - Seashell Decor - Imperfect (8-10in) Large Sea Shell - Shells for Decoration - Large Seashells for Craft - Magic Conch Shell Room Decor",
+        "rating": 4.2,
+        "reviews": 53
+      },
+      {
+        "rank": 4,
+        "asin": "B0H1R5JV7W",
+        "title": "Pinkunn Large Wooden Pooja Mandir for Home White Pooja Temple Cabinet with Focus Light and Storage Shelf 22.8 x 15.3 x 12.3 Inch Hindu Festival Decor for Living Room Home Office",
+        "rating": 2.2,
+        "reviews": 5
+      },
+      {
+        "rank": 5,
+        "asin": "B0CB9Y1WP6",
+        "title": "Hohner Harmonica Holder (KM4307), Adjustable Hands-Free Neck Rack, Stainless Steel, Fits Harmonicas up to 7.3 Inches, for Blues, Folk, Country and Juliet Music Note Stickers",
+        "rating": 4.5,
+        "reviews": 71
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "11091801:8882497011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

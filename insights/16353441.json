@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "16353441",
+  "level": "L4",
+  "categoryPathEn": "Home & Kitchen > Furniture > Bedroom Furniture > Quilt Stands",
+  "categoryPathCn": "家居用品 > 家具 > 家具卧室 > 被子支架",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 66,
+    "totalRevenue": 67392,
+    "avgRevenue": 1021,
+    "medianPrice": 96.95,
+    "priceBand": "$55.9 - $204.74",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0CR5R3HTT",
+      "title": "FUIN Blanket Ladder, 57in Rustic Solid Wood Decorative Ladder, Brown",
+      "brand": "FUIN",
+      "price": 55.25,
+      "salesParent": 429,
+      "revenue": 26988.39,
+      "rating": 4.3,
+      "reviews": 204
+    },
+    {
+      "rank": 2,
+      "asin": "B000NPOQAW",
+      "title": "Winsome Wood Quilt Rack with 3 Rungs, Antique Walnut (94036)",
+      "brand": "Winsome",
+      "price": 71.78,
+      "salesParent": 76,
+      "revenue": 5468.96,
+      "rating": 4.4,
+      "reviews": 1956
+    },
+    {
+      "rank": 3,
+      "asin": "B0D37W748B",
+      "title": "Casafoyer Charming Betsy Blanket Rack: Stylish Display and Storage Solution",
+      "brand": "Casafoyer",
+      "price": 102.82,
+      "salesParent": 41,
+      "revenue": 4177.9,
+      "rating": 4.8,
+      "reviews": 7
+    },
+    {
+      "rank": 4,
+      "asin": "B0CYMBW97Z",
+      "title": "BLACK FOREST DECOR Black Bear Metal Quilt Rack 29&quot;W x 18 1/2&quot;D x 36 1/4&quot;H",
+      "brand": "BLACK FOREST DECOR",
+      "price": 122.9,
+      "salesParent": 29,
+      "revenue": 3564.1,
+      "rating": 4.9,
+      "reviews": 11
+    },
+    {
+      "rank": 5,
+      "asin": "B0DHRQC2KW",
+      "title": "Modern Marvel Quilt Rack - Free Standing Organizer with Six Rungs, Dimensions: 36&quot; H x 24&quot; W x 18&quot; D, Ideal for Blankets and Quilts",
+      "brand": "Maykoosh",
+      "price": 66.9,
+      "salesParent": 52,
+      "revenue": 3451.76,
+      "rating": 4.8,
+      "reviews": 5
+    },
+    {
+      "rank": 6,
+      "asin": "B0DYVQNZQZ",
+      "title": "Freestanding Quilt Rack Blanket Stand, 6 Rungs, 26&quot;D x 32&quot;W x 30&quot;H",
+      "brand": "HomeStock",
+      "price": 66.9,
+      "salesParent": 51,
+      "revenue": 3385.38,
+      "rating": 3.8,
+      "reviews": 13
+    },
+    {
+      "rank": 7,
+      "asin": "B0F9X9LCN8",
+      "title": "Eleanor Quilt Rack with 6 Rungs Antique Walnut Stylish Functional Rack for Storing and Displaying Quilts Blankets or Throws Elegant Design Ideal for Home Decor and Practical Storage",
+      "brand": "Oakestry",
+      "price": 62.95,
+      "salesParent": 40,
+      "revenue": 2516.8,
+      "rating": 4.5,
+      "reviews": 2
+    },
+    {
+      "rank": 8,
+      "asin": "B01N8UMMZG",
+      "title": "The Quilt Keeper by Things Made Easy, 28.5&quot;",
+      "brand": "Things Made Easy",
+      "price": 68.0,
+      "salesParent": 35,
+      "revenue": 2380.0,
+      "rating": 4.8,
+      "reviews": 493
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 0,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 0,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 67392,
+    "priorHeadRevenue": 67246,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 66,
+      "newCount": 8,
+      "pct": 12,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 66,
+      "brandCount": 44,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.27,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0CR5R3HTT",
+        "title": "FUIN Blanket Ladder, 57in Rustic Solid Wood Decorative Ladder, Brown",
+        "rating": 4.3,
+        "reviews": 204
+      },
+      {
+        "rank": 2,
+        "asin": "B000NPOQAW",
+        "title": "Winsome Wood Quilt Rack with 3 Rungs, Antique Walnut (94036)",
+        "rating": 4.4,
+        "reviews": 1956
+      },
+      {
+        "rank": 3,
+        "asin": "B0D37W748B",
+        "title": "Casafoyer Charming Betsy Blanket Rack: Stylish Display and Storage Solution",
+        "rating": 4.8,
+        "reviews": 7
+      },
+      {
+        "rank": 4,
+        "asin": "B0CYMBW97Z",
+        "title": "BLACK FOREST DECOR Black Bear Metal Quilt Rack 29&quot;W x 18 1/2&quot;D x 36 1/4&quot;H",
+        "rating": 4.9,
+        "reviews": 11
+      },
+      {
+        "rank": 5,
+        "asin": "B0DHRQC2KW",
+        "title": "Modern Marvel Quilt Rack - Free Standing Organizer with Six Rungs, Dimensions: 36&quot; H x 24&quot; W x 18&quot; D, Ideal for Blankets and Quilts",
+        "rating": 4.8,
+        "reviews": 5
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "1055398:1063306:1063308:16353441",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3773831",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins, Minerals & Supplements > Lipid > Lecithin",
+  "categoryPathCn": "健康与家居 > 身、泳和附剂 > 脂质 > 卵磷脂",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 92,
+    "totalRevenue": 1536781,
+    "avgRevenue": 16704,
+    "medianPrice": 19.99,
+    "priceBand": "$15.11 - $28.39",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B07BKR77N6",
+      "title": "Legendairy Milk Sunflower Lecithin 1200mg, Lactation Support, Sunflower Lecithin Supplement for Clogged Milk Ducts, Made in USA, 200 Softgels",
+      "brand": "Legendairy Milk",
+      "price": 29.99,
+      "salesParent": 13218,
+      "revenue": 396407.81,
+      "rating": 4.6,
+      "reviews": 23453
+    },
+    {
+      "rank": 2,
+      "asin": "B003BHSXPS",
+      "title": "NOW Supplements, Sunflower Lecithin, Phosphatidyl Choline, 100 Softgels",
+      "brand": "NOW",
+      "price": 10.77,
+      "salesParent": 12808,
+      "revenue": 130129.28,
+      "rating": 4.6,
+      "reviews": 19412
+    },
+    {
+      "rank": 3,
+      "asin": "B0058BM5AE",
+      "title": "Integrative Therapeutics Phosphatidylserine, 60 Softgels",
+      "brand": "Integrative Therapeutics",
+      "price": 49.25,
+      "salesParent": 1476,
+      "revenue": 72693.0,
+      "rating": 4.6,
+      "reviews": 464
+    },
+    {
+      "rank": 4,
+      "asin": "B09ZJ9N4MV",
+      "title": "Codeage Liposomal Glutathione 1000mg, Reduced L-Glutathione, 60 Capsules",
+      "brand": "Codeage",
+      "price": 49.4,
+      "salesParent": 1434,
+      "revenue": 69549.0,
+      "rating": 4.6,
+      "reviews": 230
+    },
+    {
+      "rank": 5,
+      "asin": "B0DD7PJF3T",
+      "title": "Pink Stork Sunflower Lecithin Supplement for Breastfeeding, 60 Softgels",
+      "brand": "Pink Stork",
+      "price": 27.99,
+      "salesParent": 2303,
+      "revenue": 58242.87,
+      "rating": 4.6,
+      "reviews": 321
+    },
+    {
+      "rank": 6,
+      "asin": "B0013OSNEC",
+      "title": "Now Supplements, Lecithin 1200 mg, Phosphatidyl Choline, 200 Softgels",
+      "brand": "NOW",
+      "price": 14.97,
+      "salesParent": 4424,
+      "revenue": 56007.84,
+      "rating": 4.6,
+      "reviews": 6020
+    },
+    {
+      "rank": 7,
+      "asin": "B00MU73UKS",
+      "title": "Now Supplements, Sunflower Lecithin Phosphatidyl Choline, Powder, 1-lb",
+      "brand": "NOW Foods",
+      "price": 19.84,
+      "salesParent": 2701,
+      "revenue": 51373.02,
+      "rating": 4.6,
+      "reviews": 7854
+    },
+    {
+      "rank": 8,
+      "asin": "B0971RLCR2",
+      "title": "Phosphatidylserine Supplement, 400mg Serving, 240 Capsules – Soy Free Sunflower Lecithin Source",
+      "brand": "DEAL SUPPLEMENT",
+      "price": 24.95,
+      "salesParent": 1769,
+      "revenue": 44136.55,
+      "rating": 4.6,
+      "reviews": 1389
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 6,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 6,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1536781,
+    "priorHeadRevenue": 1443306,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 92,
+      "newCount": 12,
+      "pct": 13,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 58,
+      "brandCount": 62,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.53,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B07BKR77N6",
+        "title": "Legendairy Milk Sunflower Lecithin 1200mg, Lactation Support, Sunflower Lecithin Supplement for Clogged Milk Ducts, Made in USA, 200 Softgels",
+        "rating": 4.6,
+        "reviews": 23453
+      },
+      {
+        "rank": 2,
+        "asin": "B003BHSXPS",
+        "title": "NOW Supplements, Sunflower Lecithin, Phosphatidyl Choline, 100 Softgels",
+        "rating": 4.6,
+        "reviews": 19412
+      },
+      {
+        "rank": 3,
+        "asin": "B0058BM5AE",
+        "title": "Integrative Therapeutics Phosphatidylserine, 60 Softgels",
+        "rating": 4.6,
+        "reviews": 464
+      },
+      {
+        "rank": 4,
+        "asin": "B09ZJ9N4MV",
+        "title": "Codeage Liposomal Glutathione 1000mg, Reduced L-Glutathione, 60 Capsules",
+        "rating": 4.6,
+        "reviews": 230
+      },
+      {
+        "rank": 5,
+        "asin": "B0DD7PJF3T",
+        "title": "Pink Stork Sunflower Lecithin Supplement for Breastfeeding, 60 Softgels",
+        "rating": 4.6,
+        "reviews": 321
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:23675621011:23675623011:3773831",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

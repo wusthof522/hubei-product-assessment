@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "10048700011",
+  "level": "L2",
+  "categoryPathEn": "Electronics > Wearable Technology",
+  "categoryPathCn": "电子产品 > 可穿戴技术",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 97,
+    "totalRevenue": 68989797,
+    "avgRevenue": 711235,
+    "medianPrice": 219.99,
+    "priceBand": "$61.99 - $404.49",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0FLYL568F",
+      "title": "Ray-Ban Meta (Gen 2) Wayfarer Large, Matte Black, Transitions® Grey lenses",
+      "brand": "Meta",
+      "price": 459.0,
+      "salesParent": 6570,
+      "revenue": 3015630.0,
+      "rating": 4.1,
+      "reviews": 2393
+    },
+    {
+      "rank": 2,
+      "asin": "B0FLYC222N",
+      "title": "Meta Ray-Ban (Gen 2) Wayfarer Large, Shiny Black, Transitions® Graphite Green lenses",
+      "brand": "Meta",
+      "price": 459.0,
+      "salesParent": 6757,
+      "revenue": 3009094.75,
+      "rating": 3.8,
+      "reviews": 239
+    },
+    {
+      "rank": 3,
+      "asin": "B0FLYDWQDZ",
+      "title": "Meta Ray-Ban (Gen 2) Wayfarer, Matte Black, Polarized Gradient Graphite lenses",
+      "brand": "Meta",
+      "price": 409.0,
+      "salesParent": 7091,
+      "revenue": 2900219.0,
+      "rating": 4.3,
+      "reviews": 2399
+    },
+    {
+      "rank": 4,
+      "asin": "B0HGG3XSRQ",
+      "title": "Garmin fēnix® 9 Pro, inReach®, Titanium, 51mm, Graphite/Black",
+      "brand": "Garmin",
+      "price": 1299.99,
+      "salesParent": 2223,
+      "revenue": 2871671.5,
+      "rating": 4.2,
+      "reviews": 56
+    },
+    {
+      "rank": 5,
+      "asin": "B0FLYDJHB4",
+      "title": "Ray-Ban Meta (Gen 2) Wayfarer, Matte Black, Clear lenses",
+      "brand": "Meta",
+      "price": 379.0,
+      "salesParent": 7453,
+      "revenue": 2824687.0,
+      "rating": 4.1,
+      "reviews": 2399
+    },
+    {
+      "rank": 6,
+      "asin": "B0FLYD7G7D",
+      "title": "Ray-Ban Meta (Gen 2) Wayfarer Large, Matte Black, Clear lenses",
+      "brand": "Meta",
+      "price": 379.0,
+      "salesParent": 7125,
+      "revenue": 2700375.0,
+      "rating": 4.2,
+      "reviews": 2399
+    },
+    {
+      "rank": 7,
+      "asin": "B0CG6NBJ61",
+      "title": "Garmin vívoactive® 5, Health &amp; Fitness GPS Smartwatch, 42mm, Ivory",
+      "brand": "Garmin",
+      "price": 189.99,
+      "salesParent": 14238,
+      "revenue": 2683578.25,
+      "rating": 4.3,
+      "reviews": 12601
+    },
+    {
+      "rank": 8,
+      "asin": "B0FLYGRDKW",
+      "title": "Ray-Ban Meta (Gen 2) Wayfarer, Shiny Black, Green lenses",
+      "brand": "Meta",
+      "price": 359.99,
+      "salesParent": 7009,
+      "revenue": 2612675.0,
+      "rating": 4.0,
+      "reviews": 434
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 4,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 4,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 68989797,
+    "priorHeadRevenue": 66317060,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 97,
+      "newCount": 67,
+      "pct": 69,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 75,
+      "brandCount": 25,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.21,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0FLYL568F",
+        "title": "Ray-Ban Meta (Gen 2) Wayfarer Large, Matte Black, Transitions® Grey lenses",
+        "rating": 4.1,
+        "reviews": 2393
+      },
+      {
+        "rank": 2,
+        "asin": "B0FLYC222N",
+        "title": "Meta Ray-Ban (Gen 2) Wayfarer Large, Shiny Black, Transitions® Graphite Green lenses",
+        "rating": 3.8,
+        "reviews": 239
+      },
+      {
+        "rank": 3,
+        "asin": "B0FLYDWQDZ",
+        "title": "Meta Ray-Ban (Gen 2) Wayfarer, Matte Black, Polarized Gradient Graphite lenses",
+        "rating": 4.3,
+        "reviews": 2399
+      },
+      {
+        "rank": 4,
+        "asin": "B0HGG3XSRQ",
+        "title": "Garmin fēnix® 9 Pro, inReach®, Titanium, 51mm, Graphite/Black",
+        "rating": 4.2,
+        "reviews": 56
+      },
+      {
+        "rank": 5,
+        "asin": "B0FLYDJHB4",
+        "title": "Ray-Ban Meta (Gen 2) Wayfarer, Matte Black, Clear lenses",
+        "rating": 4.1,
+        "reviews": 2399
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "172282:10048700011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

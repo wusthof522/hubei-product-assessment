@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23566054011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Baby & Toddler Toys > Early Development & Activity Toys > Electronic Early Development Toys",
+  "categoryPathCn": "Toys & Games > Baby & Toddler Toys > Early Development & Activity Toys > Electronic Early Development Toys",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 4358871,
+    "avgRevenue": 44029,
+    "medianPrice": 34.99,
+    "priceBand": "$23.49 - $54.14",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0DWG1TXJJ",
+      "title": "Fisher-Price Laugh &amp; Learn Mix &amp; Learn DJ Table",
+      "brand": "Fisher-Price",
+      "price": 40.49,
+      "salesParent": 7181,
+      "revenue": 290543.25,
+      "rating": 4.8,
+      "reviews": 589
+    },
+    {
+      "rank": 2,
+      "asin": "B0D2ZD6J2W",
+      "title": "Busy Board for Toddlers - Montessori Educational Toy for 1-3 Year Old Boys &amp; Girls | Travel-Friendly Sensory Learning Activity | Ideal for Kids with Autism(Busy Board v2)",
+      "brand": "Grarain",
+      "price": 22.99,
+      "salesParent": 12964,
+      "revenue": 281448.44,
+      "rating": 4.4,
+      "reviews": 1745
+    },
+    {
+      "rank": 3,
+      "asin": "B0GN1ZM9SH",
+      "title": "LeapFrog Scoop and Learn Ice Cream Parlor Kids Role-Play Toy",
+      "brand": "LeapFrog",
+      "price": 39.99,
+      "salesParent": 6805,
+      "revenue": 274445.66,
+      "rating": 4.7,
+      "reviews": 104
+    },
+    {
+      "rank": 4,
+      "asin": "B08DK9PG4Z",
+      "title": "Melissa &amp; Doug Vroom &amp; Zoom, Interactive Wooden Dashboard, Racing Car Steering Wheel Toy, Lights &amp; Sounds, Preschool Learning Toys for Girls &amp; Boys 3+ - FSC Certified",
+      "brand": "Melissa &amp; Doug",
+      "price": 67.19,
+      "salesParent": 4618,
+      "revenue": 236441.61,
+      "rating": 4.7,
+      "reviews": 4661
+    },
+    {
+      "rank": 5,
+      "asin": "B0HHN9DT2W",
+      "title": "Yoto Mini 4th Gen Portable Kids Audio Player, Screen-Free Listening, Age 3+",
+      "brand": "YOTO",
+      "price": 109.99,
+      "salesParent": 1643,
+      "revenue": 180713.56,
+      "rating": 4.5,
+      "reviews": 24
+    },
+    {
+      "rank": 6,
+      "asin": "B0G8J62MT6",
+      "title": "Primal Hatch Jurassic World Interactive T-Rex Toy Dinosaur Egg",
+      "brand": "Primal Hatch",
+      "price": 64.0,
+      "salesParent": 2694,
+      "revenue": 167216.58,
+      "rating": 4.3,
+      "reviews": 35
+    },
+    {
+      "rank": 7,
+      "asin": "B0DWG25H47",
+      "title": "Fisher-Price Laugh &amp; Learn Mix &amp; Learn DJ Table Baby Toy",
+      "brand": "Fisher-Price",
+      "price": 49.99,
+      "salesParent": 3425,
+      "revenue": 152138.5,
+      "rating": 4.8,
+      "reviews": 267
+    },
+    {
+      "rank": 8,
+      "asin": "B0DPC68W8D",
+      "title": "Drawing Robot for Kids with 150 Cards, Voice Interactive Educational Drawing Machine, Montessori Painting Learning Toys for 3 4 5 6 7 8 Year Old Boys Girls Birthday Party",
+      "brand": "RIVGOT",
+      "price": 53.99,
+      "salesParent": 2588,
+      "revenue": 149974.61,
+      "rating": 4.6,
+      "reviews": 608
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 2,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 2,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 4358871,
+    "priorHeadRevenue": 4279452,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 48,
+      "pct": 48,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 47,
+      "brandCount": 68,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.57,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0DWG1TXJJ",
+        "title": "Fisher-Price Laugh &amp; Learn Mix &amp; Learn DJ Table",
+        "rating": 4.8,
+        "reviews": 589
+      },
+      {
+        "rank": 2,
+        "asin": "B0D2ZD6J2W",
+        "title": "Busy Board for Toddlers - Montessori Educational Toy for 1-3 Year Old Boys &amp; Girls | Travel-Friendly Sensory Learning Activity | Ideal for Kids with Autism(Busy Board v2)",
+        "rating": 4.4,
+        "reviews": 1745
+      },
+      {
+        "rank": 3,
+        "asin": "B0GN1ZM9SH",
+        "title": "LeapFrog Scoop and Learn Ice Cream Parlor Kids Role-Play Toy",
+        "rating": 4.7,
+        "reviews": 104
+      },
+      {
+        "rank": 4,
+        "asin": "B08DK9PG4Z",
+        "title": "Melissa &amp; Doug Vroom &amp; Zoom, Interactive Wooden Dashboard, Racing Car Steering Wheel Toy, Lights &amp; Sounds, Preschool Learning Toys for Girls &amp; Boys 3+ - FSC Certified",
+        "rating": 4.7,
+        "reviews": 4661
+      },
+      {
+        "rank": 5,
+        "asin": "B0HHN9DT2W",
+        "title": "Yoto Mini 4th Gen Portable Kids Audio Player, Screen-Free Listening, Age 3+",
+        "rating": 4.5,
+        "reviews": 24
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:196601011:21490695011:23566054011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

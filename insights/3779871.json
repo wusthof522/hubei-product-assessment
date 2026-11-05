@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3779871",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Health Care > Ear Care > Earplugs",
+  "categoryPathCn": "健康与家居 > 卫生保健 > 耳朵护理 > 隔音耳塞",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 96,
+    "totalRevenue": 13619002,
+    "avgRevenue": 141865,
+    "medianPrice": 27.61,
+    "priceBand": "$16.99 - $44.7",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0D4DFQTMJ",
+      "title": "Loop Experience 2 Ear Plugs - Stylish Certified Hearing Protection",
+      "brand": "Loop",
+      "price": 34.95,
+      "salesParent": 51089,
+      "revenue": 1785560.62,
+      "rating": 4.4,
+      "reviews": 16630
+    },
+    {
+      "rank": 2,
+      "asin": "B0D3V61JC8",
+      "title": "Loop Quiet 2 Ear Plugs - Ultra-Comfy Reusable Hearing Protection for Sleep",
+      "brand": "Loop",
+      "price": 24.95,
+      "salesParent": 69304,
+      "revenue": 1729134.88,
+      "rating": 4.1,
+      "reviews": 34837
+    },
+    {
+      "rank": 3,
+      "asin": "B0DJR39GQL",
+      "title": "Loop Switch 2 Adjustable Ear Plugs - 3 Modes for Ultimate Control",
+      "brand": "Loop",
+      "price": 59.95,
+      "salesParent": 24002,
+      "revenue": 1438679.88,
+      "rating": 4.2,
+      "reviews": 9017
+    },
+    {
+      "rank": 4,
+      "asin": "B019M576XW",
+      "title": "Eargasm High Fidelity Blue Earplugs for Concerts, Festivals, Musicians, DJs, Night-Life, Motorcycle Hearing Protection - Reusable Ear Plugs for High Fidelity Noise Reduction up to 21 dB",
+      "brand": "Eargasm",
+      "price": 43.95,
+      "salesParent": 15395,
+      "revenue": 674916.81,
+      "rating": 4.4,
+      "reviews": 19078
+    },
+    {
+      "rank": 5,
+      "asin": "B0051U7W32",
+      "title": "Mack's Ultra Soft Foam Earplugs, 50 Pair - 33dB Highest NRR | Made in USA",
+      "brand": "Mack's",
+      "price": 9.89,
+      "salesParent": 45268,
+      "revenue": 465807.72,
+      "rating": 4.5,
+      "reviews": 51924
+    },
+    {
+      "rank": 6,
+      "asin": "B0D3V5QN4P",
+      "title": "Loop Engage 2 Ear Plugs - Everyday Noise Relief with Clear Speech",
+      "brand": "Loop",
+      "price": 35.95,
+      "salesParent": 12723,
+      "revenue": 457391.88,
+      "rating": 4.4,
+      "reviews": 8584
+    },
+    {
+      "rank": 7,
+      "asin": "B08PBQFQH6",
+      "title": "Hearprotek Concert Ear Plugs, 2Pairs Reusable high Fidelity Musician Ear Plugs for Concerts Loud Music-Noise Reduction Ear Protection earplugs for Rave,Festival,Music,Tinnitus Relief",
+      "brand": "Hearprotek",
+      "price": 16.99,
+      "salesParent": 18455,
+      "revenue": 313550.44,
+      "rating": 4.4,
+      "reviews": 13446
+    },
+    {
+      "rank": 8,
+      "asin": "B0H6HMJG59",
+      "title": "45dB Ear Plugs for Sleeping Noise Cancelling Ear Plugs for Noise Reduction &amp; Snoring, Concerts, Earplugs for Sleep,Sider Sleepers Airplane, Silicone Earplugs Reusable Concert Ear Plug",
+      "brand": "TOAPEX",
+      "price": 69.99,
+      "salesParent": 7524,
+      "revenue": 291254.03,
+      "rating": 3.3,
+      "reviews": 88
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -8,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -8,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 13619002,
+    "priorHeadRevenue": 14833437,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 96,
+      "newCount": 33,
+      "pct": 34,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 71,
+      "brandCount": 46,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.28,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0D4DFQTMJ",
+        "title": "Loop Experience 2 Ear Plugs - Stylish Certified Hearing Protection",
+        "rating": 4.4,
+        "reviews": 16630
+      },
+      {
+        "rank": 2,
+        "asin": "B0D3V61JC8",
+        "title": "Loop Quiet 2 Ear Plugs - Ultra-Comfy Reusable Hearing Protection for Sleep",
+        "rating": 4.1,
+        "reviews": 34837
+      },
+      {
+        "rank": 3,
+        "asin": "B0DJR39GQL",
+        "title": "Loop Switch 2 Adjustable Ear Plugs - 3 Modes for Ultimate Control",
+        "rating": 4.2,
+        "reviews": 9017
+      },
+      {
+        "rank": 4,
+        "asin": "B019M576XW",
+        "title": "Eargasm High Fidelity Blue Earplugs for Concerts, Festivals, Musicians, DJs, Night-Life, Motorcycle Hearing Protection - Reusable Ear Plugs for High Fidelity Noise Reduction up to 21 dB",
+        "rating": 4.4,
+        "reviews": 19078
+      },
+      {
+        "rank": 5,
+        "asin": "B0051U7W32",
+        "title": "Mack's Ultra Soft Foam Earplugs, 50 Pair - 33dB Highest NRR | Made in USA",
+        "rating": 4.5,
+        "reviews": 51924
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3760941:3779681:3779871",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

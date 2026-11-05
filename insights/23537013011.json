@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23537013011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Household Supplies > Indoor Insect & Pest Control > Ultrasonic Repellers",
+  "categoryPathCn": "Health & Household > Household Supplies > Indoor Insect & Pest Control > Ultrasonic Repellers",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 3964186,
+    "avgRevenue": 40042,
+    "medianPrice": 29.99,
+    "priceBand": "$25.99 - $49.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0H5QNNMFG",
+      "title": "2026 Upgraded Ultrasonic Indoor Pest Repeller, 3-Mode Mouse Traps, 6 Pack",
+      "brand": "Jqely",
+      "price": 33.99,
+      "salesParent": 49139,
+      "revenue": 1615198.88,
+      "rating": 4.1,
+      "reviews": 2990
+    },
+    {
+      "rank": 2,
+      "asin": "B0GSPSTT1F",
+      "title": "2026 Upgraded Ultrasonic Repeller Pest &amp; Insect Indoor Repeller, 4 Pack",
+      "brand": "Neatmaster",
+      "price": 21.99,
+      "salesParent": 15618,
+      "revenue": 315327.44,
+      "rating": 4.1,
+      "reviews": 2729
+    },
+    {
+      "rank": 3,
+      "asin": "B0HF4Z6F8P",
+      "title": "Ant Roach Repellent 04",
+      "brand": "ROTIAH",
+      "price": 39.99,
+      "salesParent": 4032,
+      "revenue": 158135.05,
+      "rating": 3.6,
+      "reviews": 204
+    },
+    {
+      "rank": 4,
+      "asin": "B0HMGDL3VV",
+      "title": "2026 Upgraded Ultrasonic Pest Repeller Indoor, Plug-in Mouse Traps, BLK 6P",
+      "brand": "Jqely",
+      "price": 28.49,
+      "salesParent": 3993,
+      "revenue": 119710.14,
+      "rating": 4.2,
+      "reviews": 124
+    },
+    {
+      "rank": 5,
+      "asin": "B0GZJ39JW1",
+      "title": "PestLab Ultrasonic Pest Repeller – Indoor Plug In Bug Repellent for Mice, Rodents, Rats, Roaches, Ants, Fleas, Spiders, Mosquitos &amp; Bedbugs – Electronic Pest Control Device 300 Sq Ft Coverage – 1 Pack",
+      "brand": "Pestlab",
+      "price": 29.99,
+      "salesParent": 3494,
+      "revenue": 102688.66,
+      "rating": 3.5,
+      "reviews": 451
+    },
+    {
+      "rank": 6,
+      "asin": "B09JRMV15N",
+      "title": "MouseBlocker 1000x Plug-in Rodent Deterrent for Garages &amp; Buildings",
+      "brand": "MouseBlocker",
+      "price": 189.95,
+      "salesParent": 462,
+      "revenue": 87756.9,
+      "rating": 4.1,
+      "reviews": 639
+    },
+    {
+      "rank": 7,
+      "asin": "B0HJ4CHMK2",
+      "title": "2026 Upgraded Ultrasonic Pest Repeller, 7 Pack Plug in Indoor Device",
+      "brand": "Fooxem",
+      "price": 31.99,
+      "salesParent": 2484,
+      "revenue": 83984.05,
+      "rating": 3.0,
+      "reviews": 28
+    },
+    {
+      "rank": 8,
+      "asin": "B0HGPV31WL",
+      "title": "2026 Upgraded Ultrasonic Pest Repeller, 6 Pack Plug in Indoor Device",
+      "brand": "Fooxem",
+      "price": 52.99,
+      "salesParent": 2399,
+      "revenue": 81158.17,
+      "rating": 1.5,
+      "reviews": 5
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -41,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -41,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 3964186,
+    "priorHeadRevenue": 6765230,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 80,
+      "pct": 81,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 64,
+      "brandCount": 59,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.0,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0H5QNNMFG",
+        "title": "2026 Upgraded Ultrasonic Indoor Pest Repeller, 3-Mode Mouse Traps, 6 Pack",
+        "rating": 4.1,
+        "reviews": 2990
+      },
+      {
+        "rank": 2,
+        "asin": "B0GSPSTT1F",
+        "title": "2026 Upgraded Ultrasonic Repeller Pest &amp; Insect Indoor Repeller, 4 Pack",
+        "rating": 4.1,
+        "reviews": 2729
+      },
+      {
+        "rank": 3,
+        "asin": "B0HF4Z6F8P",
+        "title": "Ant Roach Repellent 04",
+        "rating": 3.6,
+        "reviews": 204
+      },
+      {
+        "rank": 4,
+        "asin": "B0HMGDL3VV",
+        "title": "2026 Upgraded Ultrasonic Pest Repeller Indoor, Plug-in Mouse Traps, BLK 6P",
+        "rating": 4.2,
+        "reviews": 124
+      },
+      {
+        "rank": 5,
+        "asin": "B0GZJ39JW1",
+        "title": "PestLab Ultrasonic Pest Repeller – Indoor Plug In Bug Repellent for Mice, Rodents, Rats, Roaches, Ants, Fleas, Spiders, Mosquitos &amp; Bedbugs – Electronic Pest Control Device 300 Sq Ft Coverage – 1 Pack",
+        "rating": 3.5,
+        "reviews": 451
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:15342811:23537011011:23537013011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

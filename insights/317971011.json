@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "317971011",
+  "level": "L2",
+  "categoryPathEn": "Industrial & Scientific > Janitorial & Sanitation Supplies",
+  "categoryPathCn": "工业类 > 门卫",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 31,
+    "totalRevenue": 40933721,
+    "avgRevenue": 1320443,
+    "medianPrice": 70.21,
+    "priceBand": "$37.99 - $249.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0D87QKYK8",
+      "title": "Ottomanso 7x55 Large Waterproof Floor Mat, Non-Slip Indoor Outdoor Door Mat",
+      "brand": "Ottomanson",
+      "price": 576.79,
+      "salesParent": 8900,
+      "revenue": 5133431.0,
+      "rating": 4.5,
+      "reviews": 3493
+    },
+    {
+      "rank": 2,
+      "asin": "B0FK2JCM6K",
+      "title": "eufy E28 Robot Vacuum and Mop, 20,000 Pa, Portable Carpet Cleaning",
+      "brand": "eufy",
+      "price": 629.98,
+      "salesParent": 4955,
+      "revenue": 3705002.0,
+      "rating": 4.4,
+      "reviews": 10735
+    },
+    {
+      "rank": 3,
+      "asin": "B0FK2HPNCB",
+      "title": "eufy E25 Robot Vacuum and Mop for Pet Hair, 20,000 Pa, HydroJet Roller Mop",
+      "brand": "eufy",
+      "price": 599.98,
+      "salesParent": 4817,
+      "revenue": 3397719.0,
+      "rating": 3.8,
+      "reviews": 963
+    },
+    {
+      "rank": 4,
+      "asin": "B0C7VN9NWK",
+      "title": "roborock Q5 Pro+ Robot Vacuum and Mop, Self-Emptying, 5500 Pa Max Suction, DuoRoller Brush, Hands-Free Cleaning for up to 7 Weeks, Precise Navigation, Perfect for Hard Floors, Carpets, and Pet Hair",
+      "brand": "roborock",
+      "price": 379.99,
+      "salesParent": 8209,
+      "revenue": 3119337.75,
+      "rating": 4.0,
+      "reviews": 25616
+    },
+    {
+      "rank": 5,
+      "asin": "B0DWXBCQVP",
+      "title": "roborock Q10 S5+ Robot Vacuum and Mop, 10,000Pa Suction",
+      "brand": "roborock",
+      "price": 329.99,
+      "salesParent": 9181,
+      "revenue": 2886231.0,
+      "rating": 3.4,
+      "reviews": 1746
+    },
+    {
+      "rank": 6,
+      "asin": "B094B72TDJ",
+      "title": "REScue One-Step Disinfectant Cleaner &amp; Deodorizer – For Veterinary Use, Animal Shelters, Pet Foster Homes, Kennels, Litter Box, Pet Grooming Surfaces – Sanitizing Concentrate, 1 Gallon (4 Pack)",
+      "brand": "REScue",
+      "price": 217.99,
+      "salesParent": 9555,
+      "revenue": 2082894.5,
+      "rating": 4.8,
+      "reviews": 2985
+    },
+    {
+      "rank": 7,
+      "asin": "B0F334DN9J",
+      "title": "roborock Q7 L5 Robot Vacuum and Mop Combo, 8,000Pa Suction",
+      "brand": "roborock",
+      "price": 159.99,
+      "salesParent": 11248,
+      "revenue": 1966937.75,
+      "rating": 4.0,
+      "reviews": 18011
+    },
+    {
+      "rank": 8,
+      "asin": "B013SX3T08",
+      "title": "Tork Multifold Hand Towel, Natural, 16 packs x 250 sheets, MK520A",
+      "brand": "Tork",
+      "price": 37.99,
+      "salesParent": 49599,
+      "revenue": 1877818.12,
+      "rating": 4.4,
+      "reviews": 6651
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -37,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -37,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 40933721,
+    "priorHeadRevenue": 64569204,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 31,
+      "newCount": 7,
+      "pct": 23,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 65,
+      "brandCount": 23,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.35,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0D87QKYK8",
+        "title": "Ottomanso 7x55 Large Waterproof Floor Mat, Non-Slip Indoor Outdoor Door Mat",
+        "rating": 4.5,
+        "reviews": 3493
+      },
+      {
+        "rank": 2,
+        "asin": "B0FK2JCM6K",
+        "title": "eufy E28 Robot Vacuum and Mop, 20,000 Pa, Portable Carpet Cleaning",
+        "rating": 4.4,
+        "reviews": 10735
+      },
+      {
+        "rank": 3,
+        "asin": "B0FK2HPNCB",
+        "title": "eufy E25 Robot Vacuum and Mop for Pet Hair, 20,000 Pa, HydroJet Roller Mop",
+        "rating": 3.8,
+        "reviews": 963
+      },
+      {
+        "rank": 4,
+        "asin": "B0C7VN9NWK",
+        "title": "roborock Q5 Pro+ Robot Vacuum and Mop, Self-Emptying, 5500 Pa Max Suction, DuoRoller Brush, Hands-Free Cleaning for up to 7 Weeks, Precise Navigation, Perfect for Hard Floors, Carpets, and Pet Hair",
+        "rating": 4.0,
+        "reviews": 25616
+      },
+      {
+        "rank": 5,
+        "asin": "B0DWXBCQVP",
+        "title": "roborock Q10 S5+ Robot Vacuum and Mop, 10,000Pa Suction",
+        "rating": 3.4,
+        "reviews": 1746
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "16310091:317971011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

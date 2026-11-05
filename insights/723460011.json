@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "723460011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Stationery & Gift Wrapping Supplies > Gift Wrapping Supplies > Wrapping Tissue",
+  "categoryPathCn": "健康与家居 > 文具和礼品包装用品 > 办公礼品包装 > 包装纸",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 96,
+    "totalRevenue": 2462320,
+    "avgRevenue": 25649,
+    "medianPrice": 8.99,
+    "priceBand": "$6.99 - $12.35",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0B5G7RGT9",
+      "title": "100 Sheets White Tissue Paper Artdly 14 x 20 Inches Recyclable White Wrapping Paper Bulk for Weddings Birthday DIY Project Festival Wrapping Crafts Decor",
+      "brand": "Artdly",
+      "price": 6.99,
+      "salesParent": 45893,
+      "revenue": 320792.06,
+      "rating": 4.7,
+      "reviews": 6648
+    },
+    {
+      "rank": 2,
+      "asin": "B0CZNYNJL3",
+      "title": "160 Sheets Tissue Paper for Gift Bags 20 X 14 Inches Multicolor",
+      "brand": "woric",
+      "price": 8.49,
+      "salesParent": 13127,
+      "revenue": 111448.23,
+      "rating": 4.7,
+      "reviews": 1830
+    },
+    {
+      "rank": 3,
+      "asin": "B0F36LX3C9",
+      "title": "1000 Sheets White Tissue Paper for Gift Bags, 20&quot;x 30&quot; Tissue Paper Bulk",
+      "brand": "Simetufy",
+      "price": 39.99,
+      "salesParent": 2511,
+      "revenue": 100113.57,
+      "rating": 4.6,
+      "reviews": 828
+    },
+    {
+      "rank": 4,
+      "asin": "B088R2KHZZ",
+      "title": "3 Otters Tissue Paper 150 Sheets, 14 X 20 inch 30 Colors for Gift Bags",
+      "brand": "3 otters",
+      "price": 7.99,
+      "salesParent": 11976,
+      "revenue": 95688.23,
+      "rating": 4.8,
+      "reviews": 2830
+    },
+    {
+      "rank": 5,
+      "asin": "B0998DZ36R",
+      "title": "Koogel Tissue Paper 320 Sheets, 14 X 10 inch 40 Colors for Gift Bags",
+      "brand": "Koogel",
+      "price": 8.99,
+      "salesParent": 9058,
+      "revenue": 75996.63,
+      "rating": 4.6,
+      "reviews": 3073
+    },
+    {
+      "rank": 6,
+      "asin": "B0D11JCXBG",
+      "title": "BEISHIDA 100 Sheets White Tissue Paper Bulk for Gift Wrapping and Gift Bags",
+      "brand": "BEISHIDA",
+      "price": 5.99,
+      "salesParent": 10895,
+      "revenue": 68420.6,
+      "rating": 4.8,
+      "reviews": 1577
+    },
+    {
+      "rank": 7,
+      "asin": "B0C1GFBYZH",
+      "title": "SHINDEL 330 Sheets Tissue Paper Bulk, 14X10 inch Colored Gift Tissue Paper",
+      "brand": "Shindel",
+      "price": 8.99,
+      "salesParent": 7209,
+      "revenue": 64808.91,
+      "rating": 4.4,
+      "reviews": 1646
+    },
+    {
+      "rank": 8,
+      "asin": "B0DJQPKSSR",
+      "title": "500 Sheets Navy Blue Tissue Paper Bulk 15 x 20 Inch for Winter Decor",
+      "brand": "Qilery",
+      "price": 34.99,
+      "salesParent": 1802,
+      "revenue": 61033.74,
+      "rating": 4.6,
+      "reviews": 302
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 16,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 16,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 2462320,
+    "priorHeadRevenue": 2123358,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 96,
+      "newCount": 35,
+      "pct": 36,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 44,
+      "brandCount": 52,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.7,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0B5G7RGT9",
+        "title": "100 Sheets White Tissue Paper Artdly 14 x 20 Inches Recyclable White Wrapping Paper Bulk for Weddings Birthday DIY Project Festival Wrapping Crafts Decor",
+        "rating": 4.7,
+        "reviews": 6648
+      },
+      {
+        "rank": 2,
+        "asin": "B0CZNYNJL3",
+        "title": "160 Sheets Tissue Paper for Gift Bags 20 X 14 Inches Multicolor",
+        "rating": 4.7,
+        "reviews": 1830
+      },
+      {
+        "rank": 3,
+        "asin": "B0F36LX3C9",
+        "title": "1000 Sheets White Tissue Paper for Gift Bags, 20&quot;x 30&quot; Tissue Paper Bulk",
+        "rating": 4.6,
+        "reviews": 828
+      },
+      {
+        "rank": 4,
+        "asin": "B088R2KHZZ",
+        "title": "3 Otters Tissue Paper 150 Sheets, 14 X 20 inch 30 Colors for Gift Bags",
+        "rating": 4.8,
+        "reviews": 2830
+      },
+      {
+        "rank": 5,
+        "asin": "B0998DZ36R",
+        "title": "Koogel Tissue Paper 320 Sheets, 14 X 10 inch 40 Colors for Gift Bags",
+        "rating": 4.6,
+        "reviews": 3073
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:723418011:723452011:723460011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "2206473011",
+  "level": "L4",
+  "categoryPathEn": "Home & Kitchen > Furniture > Kids' Furniture > Ottomans & Storage Ottomans",
+  "categoryPathCn": "家居用品 > 家具 > 儿童家具 > 儿童脚垫",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 41,
+    "totalRevenue": 51226,
+    "avgRevenue": 1249,
+    "medianPrice": 58.89,
+    "priceBand": "$35.99 - $132.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0F6VH54V2",
+      "title": "Children's Factory Small Contour Sofa, Mix-and-Match Kids Chairs, Sofas, Corner Ottomans and Cubes, Foam-Filled and Water-Resistant, Flexible Seating for Classroom Elementary, Navy Kids Couch",
+      "brand": "Children's Factory",
+      "price": 119.99,
+      "salesParent": 91,
+      "revenue": 12793.69,
+      "rating": 4.0,
+      "reviews": 36
+    },
+    {
+      "rank": 2,
+      "asin": "B071V4SYVM",
+      "title": "30 Inch Distressed Vegan Leather, Tufted Coffee Table Ottoman",
+      "brand": "DESIGN 59",
+      "price": 324.5,
+      "salesParent": 36,
+      "revenue": 11001.24,
+      "rating": 4.8,
+      "reviews": 724
+    },
+    {
+      "rank": 3,
+      "asin": "B0G92VKMVW",
+      "title": "Kids Desk Chairs, Cute Mushroom Storage Ottoman, Mushroom Armchair, Children Round Storage Ottomans, Small Multi-Purpose Footstool for Playroom &amp; Bedroom, Pink Mushroom",
+      "brand": "DAYAOUTDOOR",
+      "price": 66.49,
+      "salesParent": 72,
+      "revenue": 4787.28,
+      "rating": 4.5,
+      "reviews": 13
+    },
+    {
+      "rank": 4,
+      "asin": "B0HD13R2T5",
+      "title": "Christopher Knight Home Bessie Animal Ottoman for Kids Bedroom, Cow-Shaped Ottoman for Living Room Playroom, Cute Velvet Upholstered Foot Stool with Wooden Legs for Home Decor, Brown + White",
+      "brand": "Christopher Knight Home",
+      "price": 86.99,
+      "salesParent": 35,
+      "revenue": 3185.35,
+      "rating": 4.1,
+      "reviews": 10
+    },
+    {
+      "rank": 5,
+      "asin": "B0F6VLTJ1P",
+      "title": "Children's Factory 3-in-1 FlexCube Kids Chair, Foot Stool, Sky Blue",
+      "brand": "Children's Factory",
+      "price": 175.0,
+      "salesParent": 18,
+      "revenue": 3150.0,
+      "rating": 5.0,
+      "reviews": 1
+    },
+    {
+      "rank": 6,
+      "asin": "B0BW318YQ4",
+      "title": "3 Pack Tree Stump Stool Toy Storage Ottoman 12 Inch,Classic",
+      "brand": "Amylove",
+      "price": 37.99,
+      "salesParent": 74,
+      "revenue": 2912.64,
+      "rating": 4.4,
+      "reviews": 129
+    },
+    {
+      "rank": 7,
+      "asin": "B0CNPS1RYV",
+      "title": "Mushroom Ottoman Stool with Storage, Multipurpose Mushroom Decor Chair",
+      "brand": "Wiosi",
+      "price": 34.99,
+      "salesParent": 76,
+      "revenue": 2659.24,
+      "rating": 4.6,
+      "reviews": 157
+    },
+    {
+      "rank": 8,
+      "asin": "B072SNH7XH",
+      "title": "Decorative Buffalo Storage Ottoman Footstool, Cute Animal Upholstered Stool for Kids Room, Wooden Accent Footrest, Brown Suede",
+      "brand": "OLizee",
+      "price": 119.79,
+      "salesParent": 20,
+      "revenue": 2395.6,
+      "rating": 5.0,
+      "reviews": 9
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 42,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 42,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 51226,
+    "priorHeadRevenue": 36008,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 41,
+      "newCount": 21,
+      "pct": 51,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 76,
+      "brandCount": 32,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.53,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0F6VH54V2",
+        "title": "Children's Factory Small Contour Sofa, Mix-and-Match Kids Chairs, Sofas, Corner Ottomans and Cubes, Foam-Filled and Water-Resistant, Flexible Seating for Classroom Elementary, Navy Kids Couch",
+        "rating": 4.0,
+        "reviews": 36
+      },
+      {
+        "rank": 2,
+        "asin": "B071V4SYVM",
+        "title": "30 Inch Distressed Vegan Leather, Tufted Coffee Table Ottoman",
+        "rating": 4.8,
+        "reviews": 724
+      },
+      {
+        "rank": 3,
+        "asin": "B0G92VKMVW",
+        "title": "Kids Desk Chairs, Cute Mushroom Storage Ottoman, Mushroom Armchair, Children Round Storage Ottomans, Small Multi-Purpose Footstool for Playroom &amp; Bedroom, Pink Mushroom",
+        "rating": 4.5,
+        "reviews": 13
+      },
+      {
+        "rank": 4,
+        "asin": "B0HD13R2T5",
+        "title": "Christopher Knight Home Bessie Animal Ottoman for Kids Bedroom, Cow-Shaped Ottoman for Living Room Playroom, Cute Velvet Upholstered Foot Stool with Wooden Legs for Home Decor, Brown + White",
+        "rating": 4.1,
+        "reviews": 10
+      },
+      {
+        "rank": 5,
+        "asin": "B0F6VLTJ1P",
+        "title": "Children's Factory 3-in-1 FlexCube Kids Chair, Foot Stool, Sky Blue",
+        "rating": 5.0,
+        "reviews": 1
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "1055398:1063306:1063314:2206473011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3764411",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Health Care > Smoking Cessation > Nicotine Gums & Lozenges",
+  "categoryPathCn": "健康与家居 > 卫生保健 > 戒烟 > 尼古丁胶糖和糖锭",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 9315359,
+    "avgRevenue": 93154,
+    "medianPrice": 38.99,
+    "priceBand": "$26.85 - $59.94",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B00DHINGOY",
+      "title": "Nicorette Nicotine Gum 2mg, White Ice Mint, 200 Count",
+      "brand": "Nicorette",
+      "price": 66.99,
+      "salesParent": 15925,
+      "revenue": 1066975.0,
+      "rating": 4.6,
+      "reviews": 1753
+    },
+    {
+      "rank": 2,
+      "asin": "B0BS48ZM7V",
+      "title": "Fully Loaded Alpha Nootropic Pouches (Mint) - 5 Cans - 15 Pouches per can - Effective Nootropic Delivery, Nic Pouch Replacement - Faster Absorption, Alpha GPC, L-Tyrosine, GABA",
+      "brand": "Fully Loaded Bullseye",
+      "price": 29.99,
+      "salesParent": 29209,
+      "revenue": 867799.38,
+      "rating": 4.0,
+      "reviews": 708
+    },
+    {
+      "rank": 3,
+      "asin": "B00W8BUKV8",
+      "title": "Nicorette Nicotine Gum 4mg, Quit Smoking Aid, White Ice Mint, 100 Ct, 2 Pk",
+      "brand": "Nicorette",
+      "price": 67.99,
+      "salesParent": 12667,
+      "revenue": 861229.31,
+      "rating": 4.5,
+      "reviews": 1956
+    },
+    {
+      "rank": 4,
+      "asin": "B0DGXRFN27",
+      "title": "Nicorette Nicotine Gum 2mg, Quit Smoking Aid, Fruit Chill Flavor, 200 Count",
+      "brand": "Nicorette",
+      "price": 66.99,
+      "salesParent": 11860,
+      "revenue": 793078.25,
+      "rating": 4.6,
+      "reviews": 1460
+    },
+    {
+      "rank": 5,
+      "asin": "B0DGXQXD9W",
+      "title": "Nicorette Nicotine Gum 4mg, Quit Smoking Aid, Fruit Chill, 100 Ct, 2 Pack",
+      "brand": "Nicorette",
+      "price": 66.99,
+      "salesParent": 9387,
+      "revenue": 661877.38,
+      "rating": 4.6,
+      "reviews": 683
+    },
+    {
+      "rank": 6,
+      "asin": "B0DN3SJH96",
+      "title": "Nicotine Lozenges 2 mg, Mint Flavor – 120 Count | Quit Smoking Aid",
+      "brand": "Quitine",
+      "price": 40.79,
+      "salesParent": 8810,
+      "revenue": 359359.91,
+      "rating": 4.3,
+      "reviews": 317
+    },
+    {
+      "rank": 7,
+      "asin": "B0DGXRLZ3M",
+      "title": "Nicorette Nicotine Gum 2mg, Quit Smoking Aid, Cinnamon Surge, 100 Ct, 2 Pk",
+      "brand": "Nicorette",
+      "price": 64.58,
+      "salesParent": 4834,
+      "revenue": 313098.16,
+      "rating": 4.6,
+      "reviews": 325
+    },
+    {
+      "rank": 8,
+      "asin": "B0DGXQDCLF",
+      "title": "Nicorette Nicotine Gum 4mg, Quit Smoking Aid, Cinnamon Surge, 100 Ct, 2 Pk",
+      "brand": "Nicorette",
+      "price": 67.99,
+      "salesParent": 4168,
+      "revenue": 272128.72,
+      "rating": 4.6,
+      "reviews": 414
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -38,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -38,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 9315359,
+    "priorHeadRevenue": 14979721,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 19,
+      "pct": 19,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 85,
+      "brandCount": 25,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.23,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B00DHINGOY",
+        "title": "Nicorette Nicotine Gum 2mg, White Ice Mint, 200 Count",
+        "rating": 4.6,
+        "reviews": 1753
+      },
+      {
+        "rank": 2,
+        "asin": "B0BS48ZM7V",
+        "title": "Fully Loaded Alpha Nootropic Pouches (Mint) - 5 Cans - 15 Pouches per can - Effective Nootropic Delivery, Nic Pouch Replacement - Faster Absorption, Alpha GPC, L-Tyrosine, GABA",
+        "rating": 4.0,
+        "reviews": 708
+      },
+      {
+        "rank": 3,
+        "asin": "B00W8BUKV8",
+        "title": "Nicorette Nicotine Gum 4mg, Quit Smoking Aid, White Ice Mint, 100 Ct, 2 Pk",
+        "rating": 4.5,
+        "reviews": 1956
+      },
+      {
+        "rank": 4,
+        "asin": "B0DGXRFN27",
+        "title": "Nicorette Nicotine Gum 2mg, Quit Smoking Aid, Fruit Chill Flavor, 200 Count",
+        "rating": 4.6,
+        "reviews": 1460
+      },
+      {
+        "rank": 5,
+        "asin": "B0DGXQXD9W",
+        "title": "Nicorette Nicotine Gum 4mg, Quit Smoking Aid, Fruit Chill, 100 Ct, 2 Pack",
+        "rating": 4.6,
+        "reviews": 683
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3760941:3764401:3764411",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

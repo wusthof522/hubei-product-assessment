@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "274321011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Party Supplies > Decorations > Balloons",
+  "categoryPathCn": "玩具 > 派对用品 > 装饰品 > 气球",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 98,
+    "totalRevenue": 9535292,
+    "avgRevenue": 97299,
+    "medianPrice": 9.24,
+    "priceBand": "$7.79 - $12.24",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0BDQLJMFV",
+      "title": "PartyWoo Black Balloons 140pcs Different Sizes of 18 12 10 5 Inch",
+      "brand": "PartyWoo",
+      "price": 8.98,
+      "salesParent": 70805,
+      "revenue": 635828.88,
+      "rating": 4.5,
+      "reviews": 10188
+    },
+    {
+      "rank": 2,
+      "asin": "B0BZCHMVTK",
+      "title": "Assorted Latex Rainbow Balloons 100 Pack 12 inch",
+      "brand": "Bezente",
+      "price": 6.99,
+      "salesParent": 70092,
+      "revenue": 489943.06,
+      "rating": 4.6,
+      "reviews": 14762
+    },
+    {
+      "rank": 3,
+      "asin": "B0D82WS2G7",
+      "title": "PartyWoo Pastel Balloons 100pcs Pastel Rainbow Balloons 12 Inch",
+      "brand": "PartyWoo",
+      "price": 7.99,
+      "salesParent": 32210,
+      "revenue": 245762.3,
+      "rating": 4.5,
+      "reviews": 10717
+    },
+    {
+      "rank": 4,
+      "asin": "B0G33KN1G2",
+      "title": "RUBFAC Blue Balloons Different Sizes Royal Blue Balloon Arch Kit 154pcs",
+      "brand": "rubfac",
+      "price": 9.99,
+      "salesParent": 21605,
+      "revenue": 217346.31,
+      "rating": 4.5,
+      "reviews": 10905
+    },
+    {
+      "rank": 5,
+      "asin": "B0G33LN4VM",
+      "title": "RUBFAC Yellow Balloons Different Sizes Light Yellow Balloon Arch Kit 154pcs",
+      "brand": "rubfac",
+      "price": 9.99,
+      "salesParent": 21605,
+      "revenue": 216914.2,
+      "rating": 4.5,
+      "reviews": 10905
+    },
+    {
+      "rank": 6,
+      "asin": "B0G33LGV2P",
+      "title": "RUBFAC Orange Balloons Different Sizes Burnt Orange Balloon Arch 154pcs",
+      "brand": "rubfac",
+      "price": 9.99,
+      "salesParent": 21605,
+      "revenue": 215617.89,
+      "rating": 4.5,
+      "reviews": 10905
+    },
+    {
+      "rank": 7,
+      "asin": "B0BZHHVYY9",
+      "title": "110pcs Black Balloon 12 inch, Black Latex Balloons for Birthday Party Baby Shower Wedding(with 2 Ribbons).",
+      "brand": "KUULBELA",
+      "price": 6.99,
+      "salesParent": 31962,
+      "revenue": 214784.64,
+      "rating": 4.6,
+      "reviews": 4624
+    },
+    {
+      "rank": 8,
+      "asin": "B0D7VD58VG",
+      "title": "PartyWoo Black Balloons 155pcs Different Sizes of 18 12 10 5 Inch",
+      "brand": "PartyWoo",
+      "price": 9.26,
+      "salesParent": 25477,
+      "revenue": 214771.12,
+      "rating": 4.4,
+      "reviews": 7051
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 10,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 10,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 9535292,
+    "priorHeadRevenue": 8634993,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 98,
+      "newCount": 45,
+      "pct": 46,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 59,
+      "brandCount": 50,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.44,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0BDQLJMFV",
+        "title": "PartyWoo Black Balloons 140pcs Different Sizes of 18 12 10 5 Inch",
+        "rating": 4.5,
+        "reviews": 10188
+      },
+      {
+        "rank": 2,
+        "asin": "B0BZCHMVTK",
+        "title": "Assorted Latex Rainbow Balloons 100 Pack 12 inch",
+        "rating": 4.6,
+        "reviews": 14762
+      },
+      {
+        "rank": 3,
+        "asin": "B0D82WS2G7",
+        "title": "PartyWoo Pastel Balloons 100pcs Pastel Rainbow Balloons 12 Inch",
+        "rating": 4.5,
+        "reviews": 10717
+      },
+      {
+        "rank": 4,
+        "asin": "B0G33KN1G2",
+        "title": "RUBFAC Blue Balloons Different Sizes Royal Blue Balloon Arch Kit 154pcs",
+        "rating": 4.5,
+        "reviews": 10905
+      },
+      {
+        "rank": 5,
+        "asin": "B0G33LN4VM",
+        "title": "RUBFAC Yellow Balloons Different Sizes Light Yellow Balloon Arch Kit 154pcs",
+        "rating": 4.5,
+        "reviews": 10905
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:1266203011:274320011:274321011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

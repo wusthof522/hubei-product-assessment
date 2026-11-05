@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3206325011",
+  "level": "L2",
+  "categoryPathEn": "Home & Kitchen > Kids' Home Store",
+  "categoryPathCn": "家居用品 > 儿童家居用品店",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 89,
+    "totalRevenue": 1617713,
+    "avgRevenue": 18177,
+    "medianPrice": 22.95,
+    "priceBand": "$17.99 - $26.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0FH5HQJSR",
+      "title": "Bath Toy Storage 2 Packs, Large Bath Toy Holder - 3 Compartments, Quick-Dry",
+      "brand": "Lysam",
+      "price": 21.99,
+      "salesParent": 5094,
+      "revenue": 112017.06,
+      "rating": 4.6,
+      "reviews": 571
+    },
+    {
+      "rank": 2,
+      "asin": "B07QHXLVD9",
+      "title": "Paw Patrol Blue Bath/Pool/Beach Soft Cotton Terry Hooded Towel Wrap, 24&quot; x 50&quot;, By Franco Kids",
+      "brand": "Franco",
+      "price": 19.99,
+      "salesParent": 5525,
+      "revenue": 107185.0,
+      "rating": 4.7,
+      "reviews": 17734
+    },
+    {
+      "rank": 3,
+      "asin": "B0DLRV3P6T",
+      "title": "Anti-Slip Shower Stickers, Non-Slip Bathtub Floor Grip, 24 Pack",
+      "brand": "Clear Bloom",
+      "price": 5.97,
+      "salesParent": 6739,
+      "revenue": 73387.71,
+      "rating": 4.4,
+      "reviews": 2478
+    },
+    {
+      "rank": 4,
+      "asin": "B00LPUW21E",
+      "title": "Jay Franco Kids Hooded Towel – 22&quot; x 51&quot; Super Soft Bath Wrap with 3D Hood, Classic Characters, Beach, Pool &amp; Travel, Official Licensed, Red - Cars",
+      "brand": "Jay Franco",
+      "price": 24.29,
+      "salesParent": 2699,
+      "revenue": 71226.61,
+      "rating": 4.6,
+      "reviews": 4819
+    },
+    {
+      "rank": 5,
+      "asin": "B0BHNC1NXH",
+      "title": "Austion Original 3 Compartment Horizontal Large Openings Bath Toy Organizer for Tub, Capacity Upgrade Bath Toy Storage and Holder, Bathtub Toy Holder for Easy Access and Sorting of Toys.",
+      "brand": "Austion",
+      "price": 14.99,
+      "salesParent": 3512,
+      "revenue": 52644.88,
+      "rating": 4.4,
+      "reviews": 3207
+    },
+    {
+      "rank": 6,
+      "asin": "B07QWGLS66",
+      "title": "Secopad 24PCS Snowflake Non Slip Bathtub Stickers with Scraper, Clear",
+      "brand": "Secopad",
+      "price": 6.99,
+      "salesParent": 6993,
+      "revenue": 48881.07,
+      "rating": 4.5,
+      "reviews": 10406
+    },
+    {
+      "rank": 7,
+      "asin": "B0DJXDX7F6",
+      "title": "Jay Franco Marvel Spiderman Kids Bath Rug - Soft, Non-Slip, Machine Washable, Red Bathroom Mat 20 x 30",
+      "brand": "Jay Franco",
+      "price": 26.99,
+      "salesParent": 1620,
+      "revenue": 43723.8,
+      "rating": 4.7,
+      "reviews": 2112
+    },
+    {
+      "rank": 8,
+      "asin": "B0GH86QZ82",
+      "title": "KPop Demon Hunters Bath Towels With Hood For Girls, 29.5 x 49.2 inch, Soft Absorbent Cotton Beach Towels, Swimming Pool Hooded Poncho, Shower Bath Travel Cozy Cute Gifts For Girls",
+      "brand": "Get Trend",
+      "price": 28.79,
+      "salesParent": 1324,
+      "revenue": 43678.76,
+      "rating": 4.7,
+      "reviews": 236
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 49,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 49,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1617713,
+    "priorHeadRevenue": 1082504,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 89,
+      "newCount": 37,
+      "pct": 42,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 49,
+      "brandCount": 47,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.57,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0FH5HQJSR",
+        "title": "Bath Toy Storage 2 Packs, Large Bath Toy Holder - 3 Compartments, Quick-Dry",
+        "rating": 4.6,
+        "reviews": 571
+      },
+      {
+        "rank": 2,
+        "asin": "B07QHXLVD9",
+        "title": "Paw Patrol Blue Bath/Pool/Beach Soft Cotton Terry Hooded Towel Wrap, 24&quot; x 50&quot;, By Franco Kids",
+        "rating": 4.7,
+        "reviews": 17734
+      },
+      {
+        "rank": 3,
+        "asin": "B0DLRV3P6T",
+        "title": "Anti-Slip Shower Stickers, Non-Slip Bathtub Floor Grip, 24 Pack",
+        "rating": 4.4,
+        "reviews": 2478
+      },
+      {
+        "rank": 4,
+        "asin": "B00LPUW21E",
+        "title": "Jay Franco Kids Hooded Towel – 22&quot; x 51&quot; Super Soft Bath Wrap with 3D Hood, Classic Characters, Beach, Pool &amp; Travel, Official Licensed, Red - Cars",
+        "rating": 4.6,
+        "reviews": 4819
+      },
+      {
+        "rank": 5,
+        "asin": "B0BHNC1NXH",
+        "title": "Austion Original 3 Compartment Horizontal Large Openings Bath Toy Organizer for Tub, Capacity Upgrade Bath Toy Storage and Holder, Bathtub Toy Holder for Easy Access and Sorting of Toys.",
+        "rating": 4.4,
+        "reviews": 3207
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "1055398:3206325011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

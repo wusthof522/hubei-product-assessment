@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23642769011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Toy Figures & Playsets > Play Figure Vehicles > Tractors",
+  "categoryPathCn": "玩具 > 玩具图 > 游戏人物车辆 > 拖拉机",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 50,
+    "totalRevenue": 201792,
+    "avgRevenue": 4036,
+    "medianPrice": 38.99,
+    "priceBand": "$24.66 - $59.23",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0FQ58LFH9",
+      "title": "RC Farm Tractor Toy Playset with Loader, Trailer &amp; Animals",
+      "brand": "Funwee",
+      "price": 38.99,
+      "salesParent": 2354,
+      "revenue": 85520.83,
+      "rating": 4.5,
+      "reviews": 315
+    },
+    {
+      "rank": 2,
+      "asin": "B0FQ5CG2HL",
+      "title": "RC Farm Tractor Toy Set with Light &amp; Sound",
+      "brand": "Funwee",
+      "price": 38.99,
+      "salesParent": 799,
+      "revenue": 29187.47,
+      "rating": 4.5,
+      "reviews": 184
+    },
+    {
+      "rank": 3,
+      "asin": "B08ZMRH1J8",
+      "title": "Battat Farming Fun Tractor, Lights and Sounds Farm Toy, 7 Pieces, Toddler",
+      "brand": "Battat",
+      "price": 18.99,
+      "salesParent": 598,
+      "revenue": 11356.02,
+      "rating": 4.7,
+      "reviews": 1999
+    },
+    {
+      "rank": 4,
+      "asin": "B07T7SL2N8",
+      "title": "TOMY Big Farm John Deere S690 Combine Harvester Toy - 1:16 Scale",
+      "brand": "TOMY",
+      "price": 123.94,
+      "salesParent": 72,
+      "revenue": 8945.28,
+      "rating": 4.6,
+      "reviews": 186
+    },
+    {
+      "rank": 5,
+      "asin": "B098V1LBFG",
+      "title": "Green Toys Tractor - CB , Orange",
+      "brand": "Green Toys",
+      "price": 24.79,
+      "salesParent": 407,
+      "revenue": 8278.38,
+      "rating": 4.7,
+      "reviews": 300
+    },
+    {
+      "rank": 6,
+      "asin": "B084BKTJVD",
+      "title": "Bruder 09824 bworld John Deere Lawn Tractor w Trailer and Gardener",
+      "brand": "Bruder",
+      "price": 42.7,
+      "salesParent": 114,
+      "revenue": 4829.04,
+      "rating": 4.8,
+      "reviews": 370
+    },
+    {
+      "rank": 7,
+      "asin": "B015ZQEQJE",
+      "title": "John Deere Tractor - Monster Treads Lightning Wheels - Motion Activated Light Up Monster Truck Toy - John Deere Tractor Toys - Monster Trucks for Boys and Girls - Ages 3 Years and Up",
+      "brand": "TOMY",
+      "price": 27.99,
+      "salesParent": 161,
+      "revenue": 4604.6,
+      "rating": 4.8,
+      "reviews": 14299
+    },
+    {
+      "rank": 8,
+      "asin": "B005F29MP2",
+      "title": "TOMY Big Farm John Deere Tractor and Wagon - 1:16 Scale",
+      "brand": "TOMY",
+      "price": 59.94,
+      "salesParent": 43,
+      "revenue": 2767.05,
+      "rating": 4.6,
+      "reviews": 783
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 33,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 33,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 201792,
+    "priorHeadRevenue": 151436,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 50,
+      "newCount": 9,
+      "pct": 18,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 83,
+      "brandCount": 27,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.59,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0FQ58LFH9",
+        "title": "RC Farm Tractor Toy Playset with Loader, Trailer &amp; Animals",
+        "rating": 4.5,
+        "reviews": 315
+      },
+      {
+        "rank": 2,
+        "asin": "B0FQ5CG2HL",
+        "title": "RC Farm Tractor Toy Set with Light &amp; Sound",
+        "rating": 4.5,
+        "reviews": 184
+      },
+      {
+        "rank": 3,
+        "asin": "B08ZMRH1J8",
+        "title": "Battat Farming Fun Tractor, Lights and Sounds Farm Toy, 7 Pieces, Toddler",
+        "rating": 4.7,
+        "reviews": 1999
+      },
+      {
+        "rank": 4,
+        "asin": "B07T7SL2N8",
+        "title": "TOMY Big Farm John Deere S690 Combine Harvester Toy - 1:16 Scale",
+        "rating": 4.6,
+        "reviews": 186
+      },
+      {
+        "rank": 5,
+        "asin": "B098V1LBFG",
+        "title": "Green Toys Tractor - CB , Orange",
+        "rating": 4.7,
+        "reviews": 300
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:165993011:274293011:23642769011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "166146011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Dolls & Accessories > Dollhouse Accessories > Furniture",
+  "categoryPathCn": "玩具 > 娃娃 > 娃娃屋配件 > 家具",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 647393,
+    "avgRevenue": 6539,
+    "medianPrice": 28.99,
+    "priceBand": "$16.49 - $38.94",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0FLX3PQX6",
+      "title": "Suitcase Dollhouse Furniture Set for Kids, Mini Dollhouse Box with 2 Flexible Dolls and Bedroom&amp;Bathroom Furnitures, Pretend Play Accessories Christmas Birthday Gift for Toddlers Ages 3+",
+      "brand": "TUZT",
+      "price": 35.99,
+      "salesParent": 739,
+      "revenue": 26892.21,
+      "rating": 4.4,
+      "reviews": 110
+    },
+    {
+      "rank": 2,
+      "asin": "B0GDNPJ6Y5",
+      "title": "MGA's Miniverse Real Music Record Shop Deluxe Display Set, Licensed Fender Guitar &amp; Accessories, Mini Record Store Furniture, Customizable Music Shop Scene, Mini Collectibles, Ages 8+",
+      "brand": "MGA's Miniverse",
+      "price": 25.49,
+      "salesParent": 790,
+      "revenue": 21353.7,
+      "rating": 4.6,
+      "reviews": 110
+    },
+    {
+      "rank": 3,
+      "asin": "B0GD6MLD37",
+      "title": "Tiny Land Wooden Dollhouse Animal Set for Toddlers, Dollhouse Accessories",
+      "brand": "Tiny Land",
+      "price": 29.99,
+      "salesParent": 630,
+      "revenue": 18893.7,
+      "rating": 4.9,
+      "reviews": 80
+    },
+    {
+      "rank": 4,
+      "asin": "B0D9MFPR9G",
+      "title": "Style Shine 1-Story Dollhouse, Foldable Doll House Playset for Kid Age 3+",
+      "brand": "Style Shine",
+      "price": 42.99,
+      "salesParent": 396,
+      "revenue": 17499.24,
+      "rating": 4.6,
+      "reviews": 590
+    },
+    {
+      "rank": 5,
+      "asin": "B0FMDBZJMT",
+      "title": "36Pcs Dollhouse Furniture Set,Miniature 1:12 Scale Dolls House Accessories with Cat,Dog,Kitchen, Dining Room, Living Room,Bedroom for Playhouse Toy(Beige)",
+      "brand": "SwankyStyle",
+      "price": 14.99,
+      "salesParent": 1189,
+      "revenue": 17240.5,
+      "rating": 4.2,
+      "reviews": 414
+    },
+    {
+      "rank": 6,
+      "asin": "B093SRNJTL",
+      "title": "Giant bean 36pcs Wooden Dollhouse Furniture Set 5 Rooms 4 Family Dolls",
+      "brand": "Giant bean",
+      "price": 39.99,
+      "salesParent": 337,
+      "revenue": 14356.2,
+      "rating": 4.6,
+      "reviews": 1990
+    },
+    {
+      "rank": 7,
+      "asin": "B0FX9LDD7F",
+      "title": "Dollhouse Furniture Set, 38 Pcs Miniature Doll House Accessories with Dogs and Cat ，Kitchen Bedroom Living Room Bathroom Furniture, Toy for Kids Ages 3+ Boys Girls, Great Gift Idea",
+      "brand": "BRAITEN",
+      "price": 14.99,
+      "salesParent": 907,
+      "revenue": 13015.45,
+      "rating": 4.2,
+      "reviews": 254
+    },
+    {
+      "rank": 8,
+      "asin": "B0G6CBCFZ6",
+      "title": "Kids Dollhouse Bookshelf and Toy Storage - Wooden Stand Dollhouse Bookcase with 3-Tier Storage Display, Bookshelf for Playing Room, Nursery, Gift for Boys Girls (8 Room - Pink with White)",
+      "brand": "ocinone",
+      "price": 149.99,
+      "salesParent": 86,
+      "revenue": 12899.14,
+      "rating": 4.6,
+      "reviews": 15
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -12,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -12,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 647393,
+    "priorHeadRevenue": 733998,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 37,
+      "pct": 37,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 29,
+      "brandCount": 70,
+      "level": "分散",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.52,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0FLX3PQX6",
+        "title": "Suitcase Dollhouse Furniture Set for Kids, Mini Dollhouse Box with 2 Flexible Dolls and Bedroom&amp;Bathroom Furnitures, Pretend Play Accessories Christmas Birthday Gift for Toddlers Ages 3+",
+        "rating": 4.4,
+        "reviews": 110
+      },
+      {
+        "rank": 2,
+        "asin": "B0GDNPJ6Y5",
+        "title": "MGA's Miniverse Real Music Record Shop Deluxe Display Set, Licensed Fender Guitar &amp; Accessories, Mini Record Store Furniture, Customizable Music Shop Scene, Mini Collectibles, Ages 8+",
+        "rating": 4.6,
+        "reviews": 110
+      },
+      {
+        "rank": 3,
+        "asin": "B0GD6MLD37",
+        "title": "Tiny Land Wooden Dollhouse Animal Set for Toddlers, Dollhouse Accessories",
+        "rating": 4.9,
+        "reviews": 80
+      },
+      {
+        "rank": 4,
+        "asin": "B0D9MFPR9G",
+        "title": "Style Shine 1-Story Dollhouse, Foldable Doll House Playset for Kid Age 3+",
+        "rating": 4.6,
+        "reviews": 590
+      },
+      {
+        "rank": 5,
+        "asin": "B0FMDBZJMT",
+        "title": "36Pcs Dollhouse Furniture Set,Miniature 1:12 Scale Dolls House Accessories with Cat,Dog,Kitchen, Dining Room, Living Room,Bedroom for Playhouse Toy(Beige)",
+        "rating": 4.2,
+        "reviews": 414
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166118011:3245220011:166146011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

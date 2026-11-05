@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "306506011",
+  "level": "L2",
+  "categoryPathEn": "Industrial & Scientific > Industrial Electrical",
+  "categoryPathCn": "工业类 > 工业电气",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 93,
+    "totalRevenue": 5212573,
+    "avgRevenue": 56049,
+    "medianPrice": 27.99,
+    "priceBand": "$11.93 - $72.09",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B08YYCL561",
+      "title": "TICONN 800 Pcs Nylon Spade Connector Kit, Insulated Crimp Wire Connectors",
+      "brand": "TICONN",
+      "price": 38.99,
+      "salesParent": 5350,
+      "revenue": 200839.0,
+      "rating": 4.7,
+      "reviews": 198
+    },
+    {
+      "rank": 2,
+      "asin": "B0CYM4Q816",
+      "title": "600Pcs Heat Shrink Wire Connectors Electrical Kit - Oiojuct Marine Automotive Crimp Terminals Assortment, Waterproof Ring Fork Spade Electrical Butt Connector",
+      "brand": "Oiojuct",
+      "price": 36.98,
+      "salesParent": 4343,
+      "revenue": 159605.25,
+      "rating": 4.6,
+      "reviews": 2007
+    },
+    {
+      "rank": 3,
+      "asin": "B0D2X1S349",
+      "title": "100FT/ 30M Starlink Cable for Starlink Standard 4/ 4X/ Gen 3/ V4/ V5",
+      "brand": "LUCMO",
+      "price": 36.99,
+      "salesParent": 4040,
+      "revenue": 154004.8,
+      "rating": 4.7,
+      "reviews": 688
+    },
+    {
+      "rank": 4,
+      "asin": "B0DC5YN5CD",
+      "title": "XHF UL Listed 225 Pcs Length 3.45&quot; 3:1 Waterproof Heat Shrink Tubing Kit 8 Size Marine Grade Adhesive Lined Heat Shrink Tube, Insulation Sealing Oil-Proof Wear-Resistant Black",
+      "brand": "XHF",
+      "price": 9.99,
+      "salesParent": 11541,
+      "revenue": 128105.1,
+      "rating": 4.7,
+      "reviews": 12512
+    },
+    {
+      "rank": 5,
+      "asin": "B0BJDQ9V9G",
+      "title": "45/5 uF 45+5 MFD 370V or 440V Dual Run Start Round A/C Capacitor 45 5 uF 370 440 Volt VAC CBB65B Air Conditioner Capacitors for AC Unit Fan Motor Start or Heat Pump or Condenser Straight Cool",
+      "brand": "VEXUNGA",
+      "price": 21.9,
+      "salesParent": 4780,
+      "revenue": 104682.0,
+      "rating": 4.6,
+      "reviews": 8155
+    },
+    {
+      "rank": 6,
+      "asin": "B0GHNPBZZT",
+      "title": "ZQZ 610Pcs Heat Shrink Marine Wire Connectors Assortment Kit, Waterproof",
+      "brand": "ZQZ",
+      "price": 36.99,
+      "salesParent": 2786,
+      "revenue": 103527.76,
+      "rating": 4.1,
+      "reviews": 206
+    },
+    {
+      "rank": 7,
+      "asin": "B08JGFGQXL",
+      "title": "haisstronica 520PCS Heat Shrink Wire Connectors, 22-10 AWG, 3Colors/24Sizes",
+      "brand": "haisstronica",
+      "price": 54.99,
+      "salesParent": 1915,
+      "revenue": 101858.84,
+      "rating": 4.7,
+      "reviews": 4480
+    },
+    {
+      "rank": 8,
+      "asin": "B0BVVMCY86",
+      "title": "400Pcs Heat Shrink Tubing Kit, 3:1 Adhesive Lined Wire Shrink Wrap tubing",
+      "brand": "Eventronic",
+      "price": 11.87,
+      "salesParent": 7280,
+      "revenue": 96605.6,
+      "rating": 4.7,
+      "reviews": 33998
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 23,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 23,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 5212573,
+    "priorHeadRevenue": 4254048,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 93,
+      "newCount": 22,
+      "pct": 24,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 28,
+      "brandCount": 64,
+      "level": "分散",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.52,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B08YYCL561",
+        "title": "TICONN 800 Pcs Nylon Spade Connector Kit, Insulated Crimp Wire Connectors",
+        "rating": 4.7,
+        "reviews": 198
+      },
+      {
+        "rank": 2,
+        "asin": "B0CYM4Q816",
+        "title": "600Pcs Heat Shrink Wire Connectors Electrical Kit - Oiojuct Marine Automotive Crimp Terminals Assortment, Waterproof Ring Fork Spade Electrical Butt Connector",
+        "rating": 4.6,
+        "reviews": 2007
+      },
+      {
+        "rank": 3,
+        "asin": "B0D2X1S349",
+        "title": "100FT/ 30M Starlink Cable for Starlink Standard 4/ 4X/ Gen 3/ V4/ V5",
+        "rating": 4.7,
+        "reviews": 688
+      },
+      {
+        "rank": 4,
+        "asin": "B0DC5YN5CD",
+        "title": "XHF UL Listed 225 Pcs Length 3.45&quot; 3:1 Waterproof Heat Shrink Tubing Kit 8 Size Marine Grade Adhesive Lined Heat Shrink Tube, Insulation Sealing Oil-Proof Wear-Resistant Black",
+        "rating": 4.7,
+        "reviews": 12512
+      },
+      {
+        "rank": 5,
+        "asin": "B0BJDQ9V9G",
+        "title": "45/5 uF 45+5 MFD 370V or 440V Dual Run Start Round A/C Capacitor 45 5 uF 370 440 Volt VAC CBB65B Air Conditioner Capacitors for AC Unit Fan Motor Start or Heat Pump or Condenser Straight Cool",
+        "rating": 4.6,
+        "reviews": 8155
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "16310091:306506011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

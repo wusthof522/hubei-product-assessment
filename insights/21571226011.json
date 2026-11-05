@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "21571226011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Sports & Outdoor Play > Bubbles > Bubble Solution",
+  "categoryPathCn": "玩具 > 体育 > 气泡 > 泡沫解决方案",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 98,
+    "totalRevenue": 1194981,
+    "avgRevenue": 12194,
+    "medianPrice": 17.97,
+    "priceBand": "$13.33 - $25.23",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0H37PNN7B",
+      "title": "Made in USA Bubble Solution Refill with Wand 64oz Non Toxic Dye Free (1/2 Gallon), Kids Easy Grip Bottle Refill for Bubble Machine, Bubble Wands, Bubble Toys, Blue Bottle",
+      "brand": "Sunny Days Entertainment",
+      "price": 8.99,
+      "salesParent": 17753,
+      "revenue": 159599.47,
+      "rating": 4.6,
+      "reviews": 6335
+    },
+    {
+      "rank": 2,
+      "asin": "B09TK9JGRH",
+      "title": "Little Kids Bubbles by Fubbles | Made in The USA | 64oz Non Toxic Bubble Solution | Refill Solution for Bubble Machines and Bubble Toys",
+      "brand": "Little Kids",
+      "price": 11.59,
+      "salesParent": 12333,
+      "revenue": 135663.0,
+      "rating": 4.4,
+      "reviews": 3284
+    },
+    {
+      "rank": 3,
+      "asin": "B0721ZKZ6X",
+      "title": "JOYIN 32 OZ Concentrated Bubble Solution for Bubble Machines (Up to 2.5 Gallons), Concentrated Solution Refills for Machine, Wands, Blower, Easter, Kids, Parties",
+      "brand": "JOYIN",
+      "price": 16.99,
+      "salesParent": 6075,
+      "revenue": 104793.75,
+      "rating": 4.7,
+      "reviews": 13016
+    },
+    {
+      "rank": 4,
+      "asin": "B087QHXW6Z",
+      "title": "Lulu Home 33.8 OZ/1 L Concentrated Bubble Solution, Refill for Bubble Machines, Giant Wands, and Blowers - Up to 2.5 Gallons for Kids' Birthday Parties",
+      "brand": "Lulu Home",
+      "price": 16.99,
+      "salesParent": 6161,
+      "revenue": 99130.49,
+      "rating": 4.5,
+      "reviews": 12608
+    },
+    {
+      "rank": 5,
+      "asin": "B0CBL4RPSW",
+      "title": "JOYIN 32 OZ Concentrated Bubble Solution for Bubble Machines (Up to 2.5 Gallons), Concentrated Solution Refills for Machine, Wands, Blower, Easter, Kids, Parties",
+      "brand": "JOYIN",
+      "price": 15.99,
+      "salesParent": 5971,
+      "revenue": 95476.29,
+      "rating": 4.3,
+      "reviews": 16
+    },
+    {
+      "rank": 6,
+      "asin": "B09X22LQTG",
+      "title": "64 oz Iridescent Bubble Solution Refill | Non-Toxic Pre-Mix Bubble Refill Solution No Mixing or Measuring Required | Bubbles for Kids | Bubbles Bulk | Bubble Machine Solution | Giant Bubble Solution",
+      "brand": "Klevly",
+      "price": 17.97,
+      "salesParent": 3464,
+      "revenue": 62248.08,
+      "rating": 4.7,
+      "reviews": 1442
+    },
+    {
+      "rank": 7,
+      "asin": "B09QCSB5RR",
+      "title": "Bubble Solution Refill - 70 OZ Non-Toxic Pre-Mix Refill for Bubble Machine",
+      "brand": "Aujazyble",
+      "price": 21.99,
+      "salesParent": 2101,
+      "revenue": 43301.61,
+      "rating": 4.7,
+      "reviews": 1109
+    },
+    {
+      "rank": 8,
+      "asin": "B0DDRHYB2T",
+      "title": "Maxx Bubbles 32 Oz Bubble Solution Concentrate - Non-Toxic, Dye Free",
+      "brand": "Maxx Bubbles",
+      "price": 8.24,
+      "salesParent": 3616,
+      "revenue": 39269.76,
+      "rating": 4.7,
+      "reviews": 360
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 9,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 9,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1194981,
+    "priorHeadRevenue": 1098633,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 98,
+      "newCount": 28,
+      "pct": 29,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 64,
+      "brandCount": 52,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.39,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0H37PNN7B",
+        "title": "Made in USA Bubble Solution Refill with Wand 64oz Non Toxic Dye Free (1/2 Gallon), Kids Easy Grip Bottle Refill for Bubble Machine, Bubble Wands, Bubble Toys, Blue Bottle",
+        "rating": 4.6,
+        "reviews": 6335
+      },
+      {
+        "rank": 2,
+        "asin": "B09TK9JGRH",
+        "title": "Little Kids Bubbles by Fubbles | Made in The USA | 64oz Non Toxic Bubble Solution | Refill Solution for Bubble Machines and Bubble Toys",
+        "rating": 4.4,
+        "reviews": 3284
+      },
+      {
+        "rank": 3,
+        "asin": "B0721ZKZ6X",
+        "title": "JOYIN 32 OZ Concentrated Bubble Solution for Bubble Machines (Up to 2.5 Gallons), Concentrated Solution Refills for Machine, Wands, Blower, Easter, Kids, Parties",
+        "rating": 4.7,
+        "reviews": 13016
+      },
+      {
+        "rank": 4,
+        "asin": "B087QHXW6Z",
+        "title": "Lulu Home 33.8 OZ/1 L Concentrated Bubble Solution, Refill for Bubble Machines, Giant Wands, and Blowers - Up to 2.5 Gallons for Kids' Birthday Parties",
+        "rating": 4.5,
+        "reviews": 12608
+      },
+      {
+        "rank": 5,
+        "asin": "B0CBL4RPSW",
+        "title": "JOYIN 32 OZ Concentrated Bubble Solution for Bubble Machines (Up to 2.5 Gallons), Concentrated Solution Refills for Machine, Wands, Blower, Easter, Kids, Parties",
+        "rating": 4.3,
+        "reviews": 16
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166420011:21571225011:21571226011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

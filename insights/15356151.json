@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "15356151",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Household Supplies > Household Cleaning > Glass Cleaners",
+  "categoryPathCn": "健康与家居 > 家居用品 > 家庭清洁剂 > 玻璃清洁剂",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 4374071,
+    "avgRevenue": 43741,
+    "medianPrice": 21.99,
+    "priceBand": "$13.86 - $31.34",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0CF3BDBL2",
+      "title": "Windex Glass &amp; Window Cleaner Spray Bottle, Original, 23 oz",
+      "brand": "Windex",
+      "price": 3.75,
+      "salesParent": 151883,
+      "revenue": 637908.56,
+      "rating": 4.8,
+      "reviews": 16764
+    },
+    {
+      "rank": 2,
+      "asin": "B0F9PBTX7L",
+      "title": "Sprayway Foaming Glass Cleaner | Fresh Scent | Value Pack",
+      "brand": "Sprayway",
+      "price": 4.11,
+      "salesParent": 108908,
+      "revenue": 516223.91,
+      "rating": 4.8,
+      "reviews": 15147
+    },
+    {
+      "rank": 3,
+      "asin": "B07114L91X",
+      "title": "Windex Outdoor Glass &amp; Window Cleaner for All Garden Hoses, 32 oz (2-Pack)",
+      "brand": "Windex",
+      "price": 20.53,
+      "salesParent": 20460,
+      "revenue": 419634.59,
+      "rating": 4.3,
+      "reviews": 16073
+    },
+    {
+      "rank": 4,
+      "asin": "B0FK1DCFKY",
+      "title": "Windex 1 Gallon Refill, Glass Cleaner Refill Refill 1 Gallon Original",
+      "brand": "Windex",
+      "price": 39.99,
+      "salesParent": 4056,
+      "revenue": 162199.45,
+      "rating": 4.9,
+      "reviews": 177
+    },
+    {
+      "rank": 5,
+      "asin": "B0DG8RT88Q",
+      "title": "Amazon Basics Glass Cleaner, Streak-Free Shine, 32 Fl Oz, Pack of 2 with 1 Sprayer",
+      "brand": "Amazon Basics",
+      "price": 4.99,
+      "salesParent": 28430,
+      "revenue": 162051.0,
+      "rating": 4.3,
+      "reviews": 1022
+    },
+    {
+      "rank": 6,
+      "asin": "B0D6X4PSZ3",
+      "title": "Rain-X 630542 Shower Door Water Repellent, 16 fl oz (2 Pack)",
+      "brand": "Rain-X",
+      "price": 19.06,
+      "salesParent": 7365,
+      "revenue": 142070.86,
+      "rating": 4.3,
+      "reviews": 15764
+    },
+    {
+      "rank": 7,
+      "asin": "B06XD797LS",
+      "title": "Windex Glass &amp; Window Cleaner Spray Bottle, Original, 23 oz (6-Pack)",
+      "brand": "Windex",
+      "price": 19.11,
+      "salesParent": 6103,
+      "revenue": 123097.51,
+      "rating": 4.9,
+      "reviews": 2724
+    },
+    {
+      "rank": 8,
+      "asin": "B084VVF3WS",
+      "title": "Windex Glass and Window Cleaner Wipes, Portable Cleaning, 38 Count",
+      "brand": "Windex",
+      "price": 4.99,
+      "salesParent": 18980,
+      "revenue": 93002.0,
+      "rating": 4.6,
+      "reviews": 8974
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -14,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -14,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 4374071,
+    "priorHeadRevenue": 5064233,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 24,
+      "pct": 24,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 63,
+      "brandCount": 64,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.45,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0CF3BDBL2",
+        "title": "Windex Glass &amp; Window Cleaner Spray Bottle, Original, 23 oz",
+        "rating": 4.8,
+        "reviews": 16764
+      },
+      {
+        "rank": 2,
+        "asin": "B0F9PBTX7L",
+        "title": "Sprayway Foaming Glass Cleaner | Fresh Scent | Value Pack",
+        "rating": 4.8,
+        "reviews": 15147
+      },
+      {
+        "rank": 3,
+        "asin": "B07114L91X",
+        "title": "Windex Outdoor Glass &amp; Window Cleaner for All Garden Hoses, 32 oz (2-Pack)",
+        "rating": 4.3,
+        "reviews": 16073
+      },
+      {
+        "rank": 4,
+        "asin": "B0FK1DCFKY",
+        "title": "Windex 1 Gallon Refill, Glass Cleaner Refill Refill 1 Gallon Original",
+        "rating": 4.9,
+        "reviews": 177
+      },
+      {
+        "rank": 5,
+        "asin": "B0DG8RT88Q",
+        "title": "Amazon Basics Glass Cleaner, Streak-Free Shine, 32 Fl Oz, Pack of 2 with 1 Sprayer",
+        "rating": 4.3,
+        "reviews": 1022
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:15342811:15342821:15356151",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

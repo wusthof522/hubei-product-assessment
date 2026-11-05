@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "21579652011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Health Care > Eye Health > Moisturizing Eye Drops",
+  "categoryPathCn": "健康与家居 > 卫生保健 > 眼睛健康 > 保湿眼药水",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 19259725,
+    "avgRevenue": 194543,
+    "medianPrice": 19.74,
+    "priceBand": "$14.59 - $30.57",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B07BVYZL88",
+      "title": "Lumify Redness Relief Eye Drops, Whiter &amp; Brighter Looking Eyes, 0.25 oz",
+      "brand": "LUMIFY",
+      "price": 18.99,
+      "salesParent": 200685,
+      "revenue": 3811008.0,
+      "rating": 4.8,
+      "reviews": 70909
+    },
+    {
+      "rank": 2,
+      "asin": "B000092YOV",
+      "title": "REFRESH PLUS Lubricant Eye Drops Preservative-Free Artificial Tears, 0.01 fl oz (0.4 mL), 70 Single-Use Containers",
+      "brand": "Refresh",
+      "price": 15.41,
+      "salesParent": 85178,
+      "revenue": 1645638.88,
+      "rating": 4.8,
+      "reviews": 25467
+    },
+    {
+      "rank": 3,
+      "asin": "B00008BRR8",
+      "title": "Refresh TEARS Lubricant Eye Drops Artificial Tears, 2x0.5 fl oz (30 mL), 2 Count",
+      "brand": "Refresh",
+      "price": 14.75,
+      "salesParent": 78944,
+      "revenue": 1165213.5,
+      "rating": 4.8,
+      "reviews": 35840
+    },
+    {
+      "rank": 4,
+      "asin": "B09NRYCNDC",
+      "title": "Complete Preservative Free Dry Eye Drops, 0.33 Fl Oz, 2 Pack",
+      "brand": "Systane",
+      "price": 21.49,
+      "salesParent": 45447,
+      "revenue": 1108452.25,
+      "rating": 4.6,
+      "reviews": 18561
+    },
+    {
+      "rank": 5,
+      "asin": "B0036B8QL0",
+      "title": "Systane Ultra Lubricating Eye Drops, 0.33 oz, Twin Pack",
+      "brand": "Systane",
+      "price": 18.39,
+      "salesParent": 52711,
+      "revenue": 1095861.75,
+      "rating": 4.8,
+      "reviews": 35703
+    },
+    {
+      "rank": 6,
+      "asin": "B092G6QKNV",
+      "title": "REFRESH OPTIVE MEGA-3 Lubricant Eye Drops Preservative-Free Artificial Tears, 0.01 fl oz (0.4 mL), 60 Single-Use Containers",
+      "brand": "Refresh",
+      "price": 28.02,
+      "salesParent": 33715,
+      "revenue": 875915.69,
+      "rating": 4.7,
+      "reviews": 27635
+    },
+    {
+      "rank": 7,
+      "asin": "B0C2S4163L",
+      "title": "Systane ULTRA Preservative Free Lubricant Eye Drops, 0.34 fl oz, 2 Pack",
+      "brand": "Systane",
+      "price": 23.98,
+      "salesParent": 23047,
+      "revenue": 524088.78,
+      "rating": 4.6,
+      "reviews": 3993
+    },
+    {
+      "rank": 8,
+      "asin": "B0FY864FYP",
+      "title": "Refresh OPTIVE MEGA-3 PF Lubricant Eye Drops Preservative-Free Artificial Tears, 0.33 fl oz (10mL)",
+      "brand": "Refresh",
+      "price": 18.99,
+      "salesParent": 25388,
+      "revenue": 472978.41,
+      "rating": 4.3,
+      "reviews": 1411
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 37,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 37,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 19259725,
+    "priorHeadRevenue": 14047801,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 14,
+      "pct": 14,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 88,
+      "brandCount": 26,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.65,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B07BVYZL88",
+        "title": "Lumify Redness Relief Eye Drops, Whiter &amp; Brighter Looking Eyes, 0.25 oz",
+        "rating": 4.8,
+        "reviews": 70909
+      },
+      {
+        "rank": 2,
+        "asin": "B000092YOV",
+        "title": "REFRESH PLUS Lubricant Eye Drops Preservative-Free Artificial Tears, 0.01 fl oz (0.4 mL), 70 Single-Use Containers",
+        "rating": 4.8,
+        "reviews": 25467
+      },
+      {
+        "rank": 3,
+        "asin": "B00008BRR8",
+        "title": "Refresh TEARS Lubricant Eye Drops Artificial Tears, 2x0.5 fl oz (30 mL), 2 Count",
+        "rating": 4.8,
+        "reviews": 35840
+      },
+      {
+        "rank": 4,
+        "asin": "B09NRYCNDC",
+        "title": "Complete Preservative Free Dry Eye Drops, 0.33 Fl Oz, 2 Pack",
+        "rating": 4.6,
+        "reviews": 18561
+      },
+      {
+        "rank": 5,
+        "asin": "B0036B8QL0",
+        "title": "Systane Ultra Lubricating Eye Drops, 0.33 oz, Twin Pack",
+        "rating": 4.8,
+        "reviews": 35703
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3760941:3779691:21579652011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

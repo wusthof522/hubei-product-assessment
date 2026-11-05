@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "10342354011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Household Supplies > Lighters & Matches > Lighters",
+  "categoryPathCn": "健康与家居 > 家居用品 > 打火机和火柴 > 打火机",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 5054889,
+    "avgRevenue": 51059,
+    "medianPrice": 15.99,
+    "priceBand": "$12.39 - $21.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B00GUQWAS8",
+      "title": "BIC Multi-Purpose Classic Edition Lighters, 4-Count, Utility Lighter",
+      "brand": "BIC",
+      "price": 15.24,
+      "salesParent": 31604,
+      "revenue": 518937.69,
+      "rating": 4.6,
+      "reviews": 26847
+    },
+    {
+      "rank": 2,
+      "asin": "B086R3LFBW",
+      "title": "BIC Maxi Pocket Lighters, Dependable, Long-Lasting, 10-Pack, Assorted",
+      "brand": "BIC",
+      "price": 13.49,
+      "salesParent": 18610,
+      "revenue": 251048.89,
+      "rating": 4.8,
+      "reviews": 35150
+    },
+    {
+      "rank": 3,
+      "asin": "B07BRBJFW7",
+      "title": "BIC Maxi Pocket Lighters, Long-Lasting, Safe, Assorted Colors, 15-Pack",
+      "brand": "BIC",
+      "price": 17.24,
+      "salesParent": 10680,
+      "revenue": 194803.2,
+      "rating": 4.8,
+      "reviews": 5907
+    },
+    {
+      "rank": 4,
+      "asin": "B0FH4MW2GZ",
+      "title": "MK Candle Lighter, Butane Refillable Wind-Resistant Flame, 4-Pack for BBQ, Camping, Outdoor Use (Earthy-4PC)",
+      "brand": "MK LIGHTER",
+      "price": 14.99,
+      "salesParent": 13423,
+      "revenue": 186445.47,
+      "rating": 4.2,
+      "reviews": 2246
+    },
+    {
+      "rank": 5,
+      "asin": "B0D341H4JB",
+      "title": "Zippo Double Torch Butane Lighter Insert",
+      "brand": "Zippo",
+      "price": 20.34,
+      "salesParent": 8739,
+      "revenue": 174867.39,
+      "rating": 4.3,
+      "reviews": 646
+    },
+    {
+      "rank": 6,
+      "asin": "B098VYV9WP",
+      "title": "SUPRUS Electric Lighter Arc Windproof Flameless USB Rechargeable Lighter with Safety Lock for Candle BBQ Camping (Champagne Gold)",
+      "brand": "SUPRUS",
+      "price": 8.49,
+      "salesParent": 17114,
+      "revenue": 163096.42,
+      "rating": 4.4,
+      "reviews": 26566
+    },
+    {
+      "rank": 7,
+      "asin": "B08GLRLH25",
+      "title": "FUKKUDA Electric Candle Lighter, Rechargeable USB Arc Lighter for Candles, Fireplace, Camping BBQ, Christmas Stocking Stuffers, Birthday, Valentines Day and Easter Gifts for Women Men (Obsidian Black)",
+      "brand": "fukkuda",
+      "price": 8.99,
+      "salesParent": 17698,
+      "revenue": 157866.16,
+      "rating": 4.4,
+      "reviews": 20822
+    },
+    {
+      "rank": 8,
+      "asin": "B0D4PHGPMN",
+      "title": "2 PCS Candle Lighter, long Electric Lighter，Stocking Stuffers for Women",
+      "brand": "Beyio",
+      "price": 8.95,
+      "salesParent": 13308,
+      "revenue": 130019.0,
+      "rating": 4.6,
+      "reviews": 4243
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 5,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 5,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 5054889,
+    "priorHeadRevenue": 4819336,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 22,
+      "pct": 22,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 63,
+      "brandCount": 50,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.34,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B00GUQWAS8",
+        "title": "BIC Multi-Purpose Classic Edition Lighters, 4-Count, Utility Lighter",
+        "rating": 4.6,
+        "reviews": 26847
+      },
+      {
+        "rank": 2,
+        "asin": "B086R3LFBW",
+        "title": "BIC Maxi Pocket Lighters, Dependable, Long-Lasting, 10-Pack, Assorted",
+        "rating": 4.8,
+        "reviews": 35150
+      },
+      {
+        "rank": 3,
+        "asin": "B07BRBJFW7",
+        "title": "BIC Maxi Pocket Lighters, Long-Lasting, Safe, Assorted Colors, 15-Pack",
+        "rating": 4.8,
+        "reviews": 5907
+      },
+      {
+        "rank": 4,
+        "asin": "B0FH4MW2GZ",
+        "title": "MK Candle Lighter, Butane Refillable Wind-Resistant Flame, 4-Pack for BBQ, Camping, Outdoor Use (Earthy-4PC)",
+        "rating": 4.2,
+        "reviews": 2246
+      },
+      {
+        "rank": 5,
+        "asin": "B0D341H4JB",
+        "title": "Zippo Double Torch Butane Lighter Insert",
+        "rating": 4.3,
+        "reviews": 646
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:15342811:10342347011:10342354011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

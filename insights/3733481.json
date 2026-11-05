@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3733481",
+  "level": "L4",
+  "categoryPathEn": "Home & Kitchen > Furniture > Living Room Furniture > Living Room Sets",
+  "categoryPathCn": "家居用品 > 家具 > 客厅家具 > 客厅套装",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 73,
+    "totalRevenue": 5370146,
+    "avgRevenue": 73564,
+    "medianPrice": 1479.0,
+    "priceBand": "$1054.49 - $1714.98",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0DR8QC3CL",
+      "title": "Faux Leather Recliner Sofa Furniture Set for Living Room, 2 Recliner Chairs, 3 Seat Reclining Sofa Couch Set for Meeting Room, Brown",
+      "brand": "EBELLO",
+      "price": 1399.98,
+      "salesParent": 418,
+      "revenue": 585191.62,
+      "rating": 4.4,
+      "reviews": 324
+    },
+    {
+      "rank": 2,
+      "asin": "B0D12R1V39",
+      "title": "Furmax Sectional Couches for Living Room, Chenille, Grey",
+      "brand": "Furmax",
+      "price": 339.98,
+      "salesParent": 743,
+      "revenue": 250985.39,
+      "rating": 3.6,
+      "reviews": 2050
+    },
+    {
+      "rank": 3,
+      "asin": "B0GJZJKR99",
+      "title": "ANJ 3-Piece Faux Leather Power Recliner Sofa Set with USB&amp;Type-C Charging Ports, Include Loveseat Sofa with Hidden Storage &amp; Cup Holders and 2 3-Seater Reclining Couches for Living Room, Black",
+      "brand": "ANJ",
+      "price": 2199.99,
+      "salesParent": 70,
+      "revenue": 153999.3,
+      "rating": 4.5,
+      "reviews": 20
+    },
+    {
+      "rank": 4,
+      "asin": "B0GR2V61YJ",
+      "title": "Shintenchi Boneless Couches for Living Room with 2 Cup Holders,L Shaped Modular Sectional Sofa Set,No Assembly Needed Plush Corduroy Living Room Set,White",
+      "brand": "Shintenchi",
+      "price": 459.99,
+      "salesParent": 301,
+      "revenue": 138456.98,
+      "rating": 5.0,
+      "reviews": 298
+    },
+    {
+      "rank": 5,
+      "asin": "B0DNN1QYV8",
+      "title": "Breathing Leather Power Reclining Sofa Set,Sectional Couch with LED Light",
+      "brand": "Pon Living Furniture Inc",
+      "price": 1599.0,
+      "salesParent": 82,
+      "revenue": 131152.44,
+      "rating": 4.7,
+      "reviews": 83
+    },
+    {
+      "rank": 6,
+      "asin": "B0FKPY5616",
+      "title": "Power Recliner Sofa Sectional Sofa with LED Light for Living Room, Air Leather Reclining Corner Sectional Sofa Set, Cup Holder, Storage Console for Home Theater Seating (Black, Sectional)",
+      "brand": "AYCP Furniture",
+      "price": 1598.99,
+      "salesParent": 77,
+      "revenue": 123122.23,
+      "rating": 4.5,
+      "reviews": 58
+    },
+    {
+      "rank": 7,
+      "asin": "B0FSRNKJWM",
+      "title": "Leather L-Shaped Couch Set, 97.5&quot;L x 69.5&quot;W Sectional Sofas Black",
+      "brand": "Topcomfy",
+      "price": 489.99,
+      "salesParent": 248,
+      "revenue": 121912.0,
+      "rating": 4.3,
+      "reviews": 76
+    },
+    {
+      "rank": 8,
+      "asin": "B0HKFZ2ZGL",
+      "title": "Boneless Couch, L Shaped Cloud Couch Sofa",
+      "brand": "KOPSEE",
+      "price": 419.99,
+      "salesParent": 299,
+      "revenue": 120517.93,
+      "rating": 5.0,
+      "reviews": 34
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -13,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -13,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 5370146,
+    "priorHeadRevenue": 6164493,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 73,
+      "newCount": 56,
+      "pct": 77,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 46,
+      "brandCount": 49,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.51,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0DR8QC3CL",
+        "title": "Faux Leather Recliner Sofa Furniture Set for Living Room, 2 Recliner Chairs, 3 Seat Reclining Sofa Couch Set for Meeting Room, Brown",
+        "rating": 4.4,
+        "reviews": 324
+      },
+      {
+        "rank": 2,
+        "asin": "B0D12R1V39",
+        "title": "Furmax Sectional Couches for Living Room, Chenille, Grey",
+        "rating": 3.6,
+        "reviews": 2050
+      },
+      {
+        "rank": 3,
+        "asin": "B0GJZJKR99",
+        "title": "ANJ 3-Piece Faux Leather Power Recliner Sofa Set with USB&amp;Type-C Charging Ports, Include Loveseat Sofa with Hidden Storage &amp; Cup Holders and 2 3-Seater Reclining Couches for Living Room, Black",
+        "rating": 4.5,
+        "reviews": 20
+      },
+      {
+        "rank": 4,
+        "asin": "B0GR2V61YJ",
+        "title": "Shintenchi Boneless Couches for Living Room with 2 Cup Holders,L Shaped Modular Sectional Sofa Set,No Assembly Needed Plush Corduroy Living Room Set,White",
+        "rating": 5.0,
+        "reviews": 298
+      },
+      {
+        "rank": 5,
+        "asin": "B0DNN1QYV8",
+        "title": "Breathing Leather Power Reclining Sofa Set,Sectional Couch with LED Light",
+        "rating": 4.7,
+        "reviews": 83
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "1055398:1063306:1063318:3733481",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

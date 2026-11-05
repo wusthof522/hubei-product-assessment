@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3254638011",
+  "level": "L4",
+  "categoryPathEn": "Home & Kitchen > Furniture > Home Office Furniture > Hutch Furniture Attachments",
+  "categoryPathCn": "家居用品 > 家具 > 家庭办公家具 > 办公桌组合柜",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 60,
+    "totalRevenue": 121874,
+    "avgRevenue": 2031,
+    "medianPrice": 191.3,
+    "priceBand": "$101.89 - $327.76",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B00NIYX9LC",
+      "title": "FURINNO Simplistic Study Table, Espresso",
+      "brand": "Furinno",
+      "price": 29.99,
+      "salesParent": 1974,
+      "revenue": 50672.58,
+      "rating": 4.1,
+      "reviews": 16666
+    },
+    {
+      "rank": 2,
+      "asin": "B08CB1QK3W",
+      "title": "GIANTEX Wall Mounted Storage Cabinet, 2 Cube Floating Desk with Doors,White",
+      "brand": "GIANTEX",
+      "price": 69.99,
+      "salesParent": 125,
+      "revenue": 8520.0,
+      "rating": 4.1,
+      "reviews": 387
+    },
+    {
+      "rank": 3,
+      "asin": "B0H41BT6NQ",
+      "title": "30&quot; Black Desk Hutch Dorm Top Only with Sheves Felt Board for College",
+      "brand": "IGERI",
+      "price": 64.82,
+      "salesParent": 122,
+      "revenue": 7908.04,
+      "rating": 4.5,
+      "reviews": 73
+    },
+    {
+      "rank": 4,
+      "asin": "B0FZHKS6JW",
+      "title": "YITAHOME 67&quot; Kitchen Hutch with Outlet, Shelves &amp; Drawer, Antique Gray",
+      "brand": "YITAHOME",
+      "price": 159.99,
+      "salesParent": 38,
+      "revenue": 6079.62,
+      "rating": 4.9,
+      "reviews": 15
+    },
+    {
+      "rank": 5,
+      "asin": "B0778124GK",
+      "title": "Bush Business Furniture Studio C 72W Desk Hutch, White",
+      "brand": "Bush Furniture",
+      "price": 558.49,
+      "salesParent": 9,
+      "revenue": 5240.88,
+      "rating": 3.5,
+      "reviews": 5
+    },
+    {
+      "rank": 6,
+      "asin": "B0H41Q49YR",
+      "title": "37 Inch Natural Wood Desk Hutch Dorm Top Only With Felt Board For College",
+      "brand": "IGERI",
+      "price": 59.82,
+      "salesParent": 85,
+      "revenue": 5084.7,
+      "rating": 4.8,
+      "reviews": 6
+    },
+    {
+      "rank": 7,
+      "asin": "B0H41GW11R",
+      "title": "37 Inch White Desk Hutch Dorm Top Only with Felt Board for College",
+      "brand": "IGERI",
+      "price": 64.82,
+      "salesParent": 71,
+      "revenue": 4602.22,
+      "rating": 3.7,
+      "reviews": 8
+    },
+    {
+      "rank": 8,
+      "asin": "B0GF3LRYN9",
+      "title": "Guard Booth with AC and Heating, 4x6.5ft, Light Gray",
+      "brand": "Generic",
+      "price": 4300.0,
+      "salesParent": 1,
+      "revenue": 4300.0,
+      "rating": null,
+      "reviews": null
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 2,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 2,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 121874,
+    "priorHeadRevenue": 119339,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 60,
+      "newCount": 27,
+      "pct": 45,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 76,
+      "brandCount": 37,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.14,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B00NIYX9LC",
+        "title": "FURINNO Simplistic Study Table, Espresso",
+        "rating": 4.1,
+        "reviews": 16666
+      },
+      {
+        "rank": 2,
+        "asin": "B08CB1QK3W",
+        "title": "GIANTEX Wall Mounted Storage Cabinet, 2 Cube Floating Desk with Doors,White",
+        "rating": 4.1,
+        "reviews": 387
+      },
+      {
+        "rank": 3,
+        "asin": "B0H41BT6NQ",
+        "title": "30&quot; Black Desk Hutch Dorm Top Only with Sheves Felt Board for College",
+        "rating": 4.5,
+        "reviews": 73
+      },
+      {
+        "rank": 4,
+        "asin": "B0FZHKS6JW",
+        "title": "YITAHOME 67&quot; Kitchen Hutch with Outlet, Shelves &amp; Drawer, Antique Gray",
+        "rating": 4.9,
+        "reviews": 15
+      },
+      {
+        "rank": 5,
+        "asin": "B0778124GK",
+        "title": "Bush Business Furniture Studio C 72W Desk Hutch, White",
+        "rating": 3.5,
+        "reviews": 5
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "1055398:1063306:1063312:3254638011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

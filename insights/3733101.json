@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3733101",
+  "level": "L4",
+  "categoryPathEn": "Home & Kitchen > Furniture > Bedroom Furniture > Beds, Frames & Bases",
+  "categoryPathCn": "家居用品 > 家具 > 家具卧室 > 床，框架",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 94,
+    "totalRevenue": 46084179,
+    "avgRevenue": 490257,
+    "medianPrice": 163.23,
+    "priceBand": "$112.18 - $273.24",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0B8VQLN6Y",
+      "title": "NEW JETO Metal Bed Frame,Queen Size Bed Frame with Storage Space,14 Inch",
+      "brand": "NEW JETO",
+      "price": 55.99,
+      "salesParent": 64384,
+      "revenue": 3575887.5,
+      "rating": 4.6,
+      "reviews": 35895
+    },
+    {
+      "rank": 2,
+      "asin": "B07DZT2SZ3",
+      "title": "Mellow Naturalista Classic - 12 Inch Solid Wood Platform Bed with Wooden Slats, No Box Spring Needed, Easy Assembly, Queen, Pine",
+      "brand": "Mellow",
+      "price": 149.99,
+      "salesParent": 10447,
+      "revenue": 1593898.88,
+      "rating": 4.6,
+      "reviews": 22863
+    },
+    {
+      "rank": 3,
+      "asin": "B086M58PQ3",
+      "title": "Allewie Queen Size Platform Bed Frame with Fabric Upholstered Headboard",
+      "brand": "Allewie",
+      "price": 139.16,
+      "salesParent": 9837,
+      "revenue": 1448793.38,
+      "rating": 4.5,
+      "reviews": 12415
+    },
+    {
+      "rank": 4,
+      "asin": "B0C9JFV24R",
+      "title": "Allewie Queen Size Lift Up Hydraulic Storage Bed Frame Light Beige",
+      "brand": "Allewie",
+      "price": 219.86,
+      "salesParent": 5841,
+      "revenue": 1298980.0,
+      "rating": 4.4,
+      "reviews": 4255
+    },
+    {
+      "rank": 5,
+      "asin": "B0DKQV2SZY",
+      "title": "Heavy Duty Bunkie Board Queen Size (60x80) - Under Bed Support",
+      "brand": "Meliusly",
+      "price": 99.99,
+      "salesParent": 11171,
+      "revenue": 1246571.88,
+      "rating": 4.5,
+      "reviews": 2667
+    },
+    {
+      "rank": 6,
+      "asin": "B0C9QBVNW8",
+      "title": "SHA CERLIN 14 Inch Queen Size Metal Platform Bed Frame with Wooden Headboard and Footboard, Mattress Foundation, No Box Spring Needed, Large Under Bed Storage, Non-Slip Without Noise, Black Oak",
+      "brand": "SHA CERLIN",
+      "price": 119.98,
+      "salesParent": 9221,
+      "revenue": 1123394.5,
+      "rating": 4.4,
+      "reviews": 10112
+    },
+    {
+      "rank": 7,
+      "asin": "B0G6F23WDL",
+      "title": "Marsail Split King Adjustable Bed Frame Electric Bed Bases with Remote",
+      "brand": "Marsail",
+      "price": 559.99,
+      "salesParent": 1965,
+      "revenue": 1097118.5,
+      "rating": 4.5,
+      "reviews": 161
+    },
+    {
+      "rank": 8,
+      "asin": "B07MHWDTX9",
+      "title": "Sven &amp; Son Classic Adjustable Bed Base, Head and Foot Lift, Massage, Under-Bed Lights, USB, Gel Memory, Zero Gravity Smart Frame - Split King + 14 inch Hybrid Spring Matt (Medium Soft)",
+      "brand": "Sven &amp; Son",
+      "price": 1994.95,
+      "salesParent": 471,
+      "revenue": 939621.44,
+      "rating": 4.5,
+      "reviews": 2015
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -10,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -10,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 46084179,
+    "priorHeadRevenue": 51474754,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 94,
+      "newCount": 50,
+      "pct": 53,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 38,
+      "brandCount": 55,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.39,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0B8VQLN6Y",
+        "title": "NEW JETO Metal Bed Frame,Queen Size Bed Frame with Storage Space,14 Inch",
+        "rating": 4.6,
+        "reviews": 35895
+      },
+      {
+        "rank": 2,
+        "asin": "B07DZT2SZ3",
+        "title": "Mellow Naturalista Classic - 12 Inch Solid Wood Platform Bed with Wooden Slats, No Box Spring Needed, Easy Assembly, Queen, Pine",
+        "rating": 4.6,
+        "reviews": 22863
+      },
+      {
+        "rank": 3,
+        "asin": "B086M58PQ3",
+        "title": "Allewie Queen Size Platform Bed Frame with Fabric Upholstered Headboard",
+        "rating": 4.5,
+        "reviews": 12415
+      },
+      {
+        "rank": 4,
+        "asin": "B0C9JFV24R",
+        "title": "Allewie Queen Size Lift Up Hydraulic Storage Bed Frame Light Beige",
+        "rating": 4.4,
+        "reviews": 4255
+      },
+      {
+        "rank": 5,
+        "asin": "B0DKQV2SZY",
+        "title": "Heavy Duty Bunkie Board Queen Size (60x80) - Under Bed Support",
+        "rating": 4.5,
+        "reviews": 2667
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "1055398:1063306:1063308:3733101",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

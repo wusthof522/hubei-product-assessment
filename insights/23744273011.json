@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23744273011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Dress Up & Pretend Play > Dress-Up Accessories > Wands",
+  "categoryPathCn": "Toys & Games > Dress Up & Pretend Play > Dress-Up Accessories > Wands",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 2272495,
+    "avgRevenue": 22954,
+    "medianPrice": 21.99,
+    "priceBand": "$15.99 - $37.5",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0FCLV2HVM",
+      "title": "6 Pack Halloween Glow Sticks Toys for Kids, Light Up Party Favors Supplies",
+      "brand": "Wondrus",
+      "price": 11.89,
+      "salesParent": 14268,
+      "revenue": 169646.53,
+      "rating": 4.3,
+      "reviews": 459
+    },
+    {
+      "rank": 2,
+      "asin": "B0CSYJY4T9",
+      "title": "Wizarding World Harry Potter 12-inch Hermione Collector Wand, Ages 6+",
+      "brand": "Wizarding World",
+      "price": 16.99,
+      "salesParent": 5466,
+      "revenue": 90352.98,
+      "rating": 4.6,
+      "reviews": 1024
+    },
+    {
+      "rank": 3,
+      "asin": "B093PN5FQH",
+      "title": "Gejoy 2 Pcs Magic Wand for Kid Light up with Sound,Black",
+      "brand": "Gejoy",
+      "price": 9.99,
+      "salesParent": 8507,
+      "revenue": 84984.93,
+      "rating": 4.5,
+      "reviews": 1846
+    },
+    {
+      "rank": 4,
+      "asin": "B0CSZ3MNCX",
+      "title": "MewduMewdu Light up Saber Toy (Fully Retracted) With Electronic Lights &amp; FX Sound Effect for Kids and Adults, LED Expandable Sword Toy for Party, Halloween, Holiday, Birthday Gift (Blue)",
+      "brand": "MewduMewdu",
+      "price": 17.99,
+      "salesParent": 4308,
+      "revenue": 77500.92,
+      "rating": 4.3,
+      "reviews": 229
+    },
+    {
+      "rank": 5,
+      "asin": "B09XV2TRL1",
+      "title": "Lightsaber, 2 in 1 Dueling Light Saber with FX Sound 62.4 Inches",
+      "brand": "Oomyeh",
+      "price": 42.95,
+      "salesParent": 1883,
+      "revenue": 76317.98,
+      "rating": 4.2,
+      "reviews": 1126
+    },
+    {
+      "rank": 6,
+      "asin": "B08MFBBT4V",
+      "title": "MewduMewdu Light up Saber Toy with Electronic Lights &amp; FX Sound Effect for Kids and Adults, Red LED Light Expandable Saber Toy for Roleplay(Standalone)",
+      "brand": "MewduMewdu",
+      "price": 16.99,
+      "salesParent": 4019,
+      "revenue": 66233.12,
+      "rating": 4.4,
+      "reviews": 630
+    },
+    {
+      "rank": 7,
+      "asin": "B000UECV3U",
+      "title": "The Noble Collection Hermione Granger's Illuminating Wand",
+      "brand": "The Noble Collection",
+      "price": 29.99,
+      "salesParent": 2333,
+      "revenue": 66210.54,
+      "rating": 4.7,
+      "reviews": 4381
+    },
+    {
+      "rank": 8,
+      "asin": "B0FG9GTM56",
+      "title": "Masters of the Universe 2026 Movie He-Man Power of Grayskull Sword",
+      "brand": "Masters of the Universe",
+      "price": 43.49,
+      "salesParent": 1274,
+      "revenue": 55164.2,
+      "rating": 4.7,
+      "reviews": 153
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 16,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 16,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 2272495,
+    "priorHeadRevenue": 1963988,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 42,
+      "pct": 42,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 28,
+      "brandCount": 78,
+      "level": "分散",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.35,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0FCLV2HVM",
+        "title": "6 Pack Halloween Glow Sticks Toys for Kids, Light Up Party Favors Supplies",
+        "rating": 4.3,
+        "reviews": 459
+      },
+      {
+        "rank": 2,
+        "asin": "B0CSYJY4T9",
+        "title": "Wizarding World Harry Potter 12-inch Hermione Collector Wand, Ages 6+",
+        "rating": 4.6,
+        "reviews": 1024
+      },
+      {
+        "rank": 3,
+        "asin": "B093PN5FQH",
+        "title": "Gejoy 2 Pcs Magic Wand for Kid Light up with Sound,Black",
+        "rating": 4.5,
+        "reviews": 1846
+      },
+      {
+        "rank": 4,
+        "asin": "B0CSZ3MNCX",
+        "title": "MewduMewdu Light up Saber Toy (Fully Retracted) With Electronic Lights &amp; FX Sound Effect for Kids and Adults, LED Expandable Sword Toy for Party, Halloween, Holiday, Birthday Gift (Blue)",
+        "rating": 4.3,
+        "reviews": 229
+      },
+      {
+        "rank": 5,
+        "asin": "B09XV2TRL1",
+        "title": "Lightsaber, 2 in 1 Dueling Light Saber with FX Sound 62.4 Inches",
+        "rating": 4.2,
+        "reviews": 1126
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166316011:23744271011:23744273011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

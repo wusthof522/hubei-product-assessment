@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23602267011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Sports & Outdoor Play > Blasters & Foam Play > Vests",
+  "categoryPathCn": "Toys & Games > Sports & Outdoor Play > Blasters & Foam Play > Vests",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 47,
+    "totalRevenue": 70673,
+    "avgRevenue": 1504,
+    "medianPrice": 29.99,
+    "priceBand": "$19.99 - $37.95",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0F381XWZC",
+      "title": "Pandahero 2-Blaster Tactical Vest Set for Nerf - Birthday Gifts for Boys",
+      "brand": "Pandahero",
+      "price": 29.99,
+      "salesParent": 355,
+      "revenue": 10646.45,
+      "rating": 4.4,
+      "reviews": 125
+    },
+    {
+      "rank": 2,
+      "asin": "B07VVXHH4J",
+      "title": "KKONES Kids Nerf Guns Tactical Vest Kit Darts Pouch Clips Mask Glasses",
+      "brand": "KKONES",
+      "price": 23.99,
+      "salesParent": 438,
+      "revenue": 10161.6,
+      "rating": 4.6,
+      "reviews": 9515
+    },
+    {
+      "rank": 3,
+      "asin": "B01ED3BXXW",
+      "title": "Tactical Vest Accessories Set for Nerf N-Strike Elite Series",
+      "brand": "FURY STRIKE",
+      "price": 19.95,
+      "salesParent": 424,
+      "revenue": 7920.32,
+      "rating": 4.6,
+      "reviews": 875
+    },
+    {
+      "rank": 4,
+      "asin": "B0B6G2D5DN",
+      "title": "Lehoo Castle 2PACK Kids Tactical Vest Kit for Nerf Guns",
+      "brand": "Lehoo Castle",
+      "price": 27.99,
+      "salesParent": 252,
+      "revenue": 7418.88,
+      "rating": 4.5,
+      "reviews": 1796
+    },
+    {
+      "rank": 5,
+      "asin": "B07RTWDC24",
+      "title": "2 Pack Kids Tactical Vest Kit for Nerf Guns Game N-Strike Elite",
+      "brand": "AILUKI",
+      "price": 29.99,
+      "salesParent": 220,
+      "revenue": 6129.2,
+      "rating": 4.6,
+      "reviews": 3151
+    },
+    {
+      "rank": 6,
+      "asin": "B07H727CXV",
+      "title": "Girls Tactical Vest Kit with Blaster - Kids Pink Tactical Vest Compatible with Nerf Rebelle N-Strike Purple Darts Googles for Girl",
+      "brand": "Hely Cancy",
+      "price": 23.99,
+      "salesParent": 206,
+      "revenue": 4941.94,
+      "rating": 4.6,
+      "reviews": 3518
+    },
+    {
+      "rank": 7,
+      "asin": "B08VWMF6XN",
+      "title": "Kids Tactical Vest Kit for Nerf Guns N-Strike Elite Series with 40 Bullets Refill Darts, 2 Reload Clips, Dart Pouch, Tactical Masks, Hand Wrist Band and Protective Glasses Nerf Vest for Boys",
+      "brand": "JGCWorker",
+      "price": 18.99,
+      "salesParent": 204,
+      "revenue": 3767.88,
+      "rating": 4.3,
+      "reviews": 264
+    },
+    {
+      "rank": 8,
+      "asin": "B077J138NM",
+      "title": "POKONBOY 2 Sets Tactical Vest Kits Compatible with Nerf Guns N-Strike Elite Series",
+      "brand": "POKONBOY",
+      "price": 25.6,
+      "salesParent": 112,
+      "revenue": 2947.84,
+      "rating": 4.6,
+      "reviews": 2858
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -49,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -49,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 70673,
+    "priorHeadRevenue": 138232,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 47,
+      "newCount": 10,
+      "pct": 21,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 60,
+      "brandCount": 30,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.42,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0F381XWZC",
+        "title": "Pandahero 2-Blaster Tactical Vest Set for Nerf - Birthday Gifts for Boys",
+        "rating": 4.4,
+        "reviews": 125
+      },
+      {
+        "rank": 2,
+        "asin": "B07VVXHH4J",
+        "title": "KKONES Kids Nerf Guns Tactical Vest Kit Darts Pouch Clips Mask Glasses",
+        "rating": 4.6,
+        "reviews": 9515
+      },
+      {
+        "rank": 3,
+        "asin": "B01ED3BXXW",
+        "title": "Tactical Vest Accessories Set for Nerf N-Strike Elite Series",
+        "rating": 4.6,
+        "reviews": 875
+      },
+      {
+        "rank": 4,
+        "asin": "B0B6G2D5DN",
+        "title": "Lehoo Castle 2PACK Kids Tactical Vest Kit for Nerf Guns",
+        "rating": 4.5,
+        "reviews": 1796
+      },
+      {
+        "rank": 5,
+        "asin": "B07RTWDC24",
+        "title": "2 Pack Kids Tactical Vest Kit for Nerf Guns Game N-Strike Elite",
+        "rating": 4.6,
+        "reviews": 3151
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166420011:2327110011:23602267011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

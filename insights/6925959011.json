@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "6925959011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Remote & App Controlled Vehicles & Parts > Remote & App Controlled Vehicle Parts > Lighting",
+  "categoryPathCn": "玩具 > 遥控 > 遥控 > 照明",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 265526,
+    "avgRevenue": 2655,
+    "medianPrice": 22.99,
+    "priceBand": "$14.98 - $39.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0GX19BD8R",
+      "title": "Mavic 3T/3E Spotlight for DJI Matrice 4T/4E &amp; Mavic 3T/3E/3TA Drone",
+      "brand": "LKTOP",
+      "price": 379.99,
+      "salesParent": 35,
+      "revenue": 12991.3,
+      "rating": 5.0,
+      "reviews": 3
+    },
+    {
+      "rank": 2,
+      "asin": "B0FY39XW4Y",
+      "title": "Matrice 4T/4E Drone Spotlight for Matrice 4T/4E, Dual-Head 40W LED Searchlight with Stabilized Gimbal, 5-Color Strobe Flash, 150m Beam Range, Compatible with DJI Pilot 2 Control for Night Rescue",
+      "brand": "Generic",
+      "price": 616.55,
+      "salesParent": 21,
+      "revenue": 12947.55,
+      "rating": 5.0,
+      "reviews": 2
+    },
+    {
+      "rank": 3,
+      "asin": "B096VCKR97",
+      "title": "VIFLY Drone Strobe Light, FAA-compliant Anti Collision Strobe (1pc)",
+      "brand": "VIFLY",
+      "price": 11.99,
+      "salesParent": 871,
+      "revenue": 10443.29,
+      "rating": 4.6,
+      "reviews": 1757
+    },
+    {
+      "rank": 4,
+      "asin": "B0DDH6NX94",
+      "title": "MEUS RACING RC Car LED Lights Kit - 1/10 &amp; 1/8 Scale RC Crawler Accessories for Axial SCX10, Wraith, Traxxas TRX4 &amp; TRX6, Redcat Gen8 Upgrades",
+      "brand": "MEUS RACING",
+      "price": 23.99,
+      "salesParent": 428,
+      "revenue": 10267.72,
+      "rating": 4.7,
+      "reviews": 193
+    },
+    {
+      "rank": 5,
+      "asin": "B0H5K2LKNR",
+      "title": "BrickSoul Light Kit for LEGO Woodland Mushrooms Set 11505, Light Kit Only",
+      "brand": "BrickSoul",
+      "price": 31.98,
+      "salesParent": 262,
+      "revenue": 8559.54,
+      "rating": 4.7,
+      "reviews": 18
+    },
+    {
+      "rank": 6,
+      "asin": "B0GS5KQNGP",
+      "title": "Tactical Search Light Kit for DJI Avata 2, Night &amp; Indoor Navigation",
+      "brand": "VIFLYRC",
+      "price": 42.99,
+      "salesParent": 176,
+      "revenue": 7566.24,
+      "rating": 4.9,
+      "reviews": 35
+    },
+    {
+      "rank": 7,
+      "asin": "B0GHDX34JF",
+      "title": "Drone Strobe Light, FAA Night Flying Light, Anti Collision LED Flash Light, for DJI Neo 2/ Avata 2/ Mini 4K/ Mini 5/4/ 3/ Mavic 4/3/ 2/ Air 3S Accessories, for Aircraft Car Motorcycles (2 Pack)",
+      "brand": "FPVtosky",
+      "price": 19.59,
+      "salesParent": 347,
+      "revenue": 7512.55,
+      "rating": 4.5,
+      "reviews": 96
+    },
+    {
+      "rank": 8,
+      "asin": "B0HKS2XCWC",
+      "title": "LED Roof Light Bar for 2024-2026 Tesla Cybertruck",
+      "brand": "COOLAUTO",
+      "price": 369.0,
+      "salesParent": 20,
+      "revenue": 7380.0,
+      "rating": null,
+      "reviews": null
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -9,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -9,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 265526,
+    "priorHeadRevenue": 292612,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 45,
+      "pct": 45,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 39,
+      "brandCount": 60,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.42,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0GX19BD8R",
+        "title": "Mavic 3T/3E Spotlight for DJI Matrice 4T/4E &amp; Mavic 3T/3E/3TA Drone",
+        "rating": 5.0,
+        "reviews": 3
+      },
+      {
+        "rank": 2,
+        "asin": "B0FY39XW4Y",
+        "title": "Matrice 4T/4E Drone Spotlight for Matrice 4T/4E, Dual-Head 40W LED Searchlight with Stabilized Gimbal, 5-Color Strobe Flash, 150m Beam Range, Compatible with DJI Pilot 2 Control for Night Rescue",
+        "rating": 5.0,
+        "reviews": 2
+      },
+      {
+        "rank": 3,
+        "asin": "B096VCKR97",
+        "title": "VIFLY Drone Strobe Light, FAA-compliant Anti Collision Strobe (1pc)",
+        "rating": 4.6,
+        "reviews": 1757
+      },
+      {
+        "rank": 4,
+        "asin": "B0DDH6NX94",
+        "title": "MEUS RACING RC Car LED Lights Kit - 1/10 &amp; 1/8 Scale RC Crawler Accessories for Axial SCX10, Wraith, Traxxas TRX4 &amp; TRX6, Redcat Gen8 Upgrades",
+        "rating": 4.7,
+        "reviews": 193
+      },
+      {
+        "rank": 5,
+        "asin": "B0H5K2LKNR",
+        "title": "BrickSoul Light Kit for LEGO Woodland Mushrooms Set 11505, Light Kit Only",
+        "rating": 4.7,
+        "reviews": 18
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:6925830011:2234126011:6925959011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

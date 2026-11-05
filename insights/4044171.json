@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "4044171",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vision > Contact Lens Care > Cases",
+  "categoryPathCn": "健康与家居 > 眼睛护理 > 隐形眼镜配件 > 伴侣盒",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 97,
+    "totalRevenue": 766537,
+    "avgRevenue": 7902,
+    "medianPrice": 11.99,
+    "priceBand": "$7.24 - $28.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0HC6CCY6W",
+      "title": "Colored Case Contact Storage Kits Cosmetic Travel Leakproof for Halloween",
+      "brand": "IMakArt",
+      "price": 41.99,
+      "salesParent": 3689,
+      "revenue": 137857.92,
+      "rating": 3.5,
+      "reviews": 14
+    },
+    {
+      "rank": 2,
+      "asin": "B0CLQ4NG93",
+      "title": "Vastsoon Contact Lens Case with Cleaner Washer, Travel Size Cute Colored Contact Lenses Applicator Removal Tool Kit with Mirror Solution Bottle for Daily Outdoor (Pink)",
+      "brand": "Vastsoon",
+      "price": 5.99,
+      "salesParent": 10872,
+      "revenue": 70341.84,
+      "rating": 4.3,
+      "reviews": 5314
+    },
+    {
+      "rank": 3,
+      "asin": "B0HCBQT2VL",
+      "title": "Halloween Style Eye Contacts Lens Storage Holder Daily Organizer Box (pink)",
+      "brand": "Generic",
+      "price": 42.99,
+      "salesParent": 894,
+      "revenue": 37467.54,
+      "rating": 2.0,
+      "reviews": 1
+    },
+    {
+      "rank": 4,
+      "asin": "B0DHQ43S82",
+      "title": "4 Pack Contact lens case Contact Lens Soak Storage Box, Mixed Colors",
+      "brand": "Smanzu",
+      "price": 3.99,
+      "salesParent": 7670,
+      "revenue": 30603.3,
+      "rating": 4.6,
+      "reviews": 876
+    },
+    {
+      "rank": 5,
+      "asin": "B07FMYS892",
+      "title": "KISEER 12 Pack Colorful Contact Lens Case Box Holder Container Soak Storage Kit",
+      "brand": "KISEER",
+      "price": 4.79,
+      "salesParent": 5124,
+      "revenue": 24595.2,
+      "rating": 4.7,
+      "reviews": 11256
+    },
+    {
+      "rank": 6,
+      "asin": "B0F1MPYGHY",
+      "title": "24 Pack Colorful Cute Contact Lens Cases, Bulk Storage Box with 12 Colors, Leak-Proof and Durable, Portable Storage Kit for Home and Travel",
+      "brand": "Phyyixs",
+      "price": 6.99,
+      "salesParent": 3024,
+      "revenue": 21137.76,
+      "rating": 4.8,
+      "reviews": 421
+    },
+    {
+      "rank": 7,
+      "asin": "B0HJBLSL8V",
+      "title": "CRISTALINAS Contact Lens Case with Cleaner Washer, Travel Size Cute Colored Contact Lenses（BLUE- 1 Pair",
+      "brand": "CRISTALINAS",
+      "price": 29.99,
+      "salesParent": 683,
+      "revenue": 20483.17,
+      "rating": 2.7,
+      "reviews": 11
+    },
+    {
+      "rank": 8,
+      "asin": "B08R3MW8F5",
+      "title": "MoKo Double Eyeglass Case,Glasses and contact case 2 in 1 with Mirror",
+      "brand": "MoKo",
+      "price": 12.14,
+      "salesParent": 1296,
+      "revenue": 18584.64,
+      "rating": 4.4,
+      "reviews": 3918
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -29,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -29,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 766537,
+    "priorHeadRevenue": 1076231,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 97,
+      "newCount": 36,
+      "pct": 37,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 50,
+      "brandCount": 61,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.21,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0HC6CCY6W",
+        "title": "Colored Case Contact Storage Kits Cosmetic Travel Leakproof for Halloween",
+        "rating": 3.5,
+        "reviews": 14
+      },
+      {
+        "rank": 2,
+        "asin": "B0CLQ4NG93",
+        "title": "Vastsoon Contact Lens Case with Cleaner Washer, Travel Size Cute Colored Contact Lenses Applicator Removal Tool Kit with Mirror Solution Bottle for Daily Outdoor (Pink)",
+        "rating": 4.3,
+        "reviews": 5314
+      },
+      {
+        "rank": 3,
+        "asin": "B0HCBQT2VL",
+        "title": "Halloween Style Eye Contacts Lens Storage Holder Daily Organizer Box (pink)",
+        "rating": 2.0,
+        "reviews": 1
+      },
+      {
+        "rank": 4,
+        "asin": "B0DHQ43S82",
+        "title": "4 Pack Contact lens case Contact Lens Soak Storage Box, Mixed Colors",
+        "rating": 4.6,
+        "reviews": 876
+      },
+      {
+        "rank": 5,
+        "asin": "B07FMYS892",
+        "title": "KISEER 12 Pack Colorful Contact Lens Case Box Holder Container Soak Storage Kit",
+        "rating": 4.7,
+        "reviews": 11256
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:10079994011:3779701:4044171",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

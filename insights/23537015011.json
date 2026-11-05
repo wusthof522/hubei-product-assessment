@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23537015011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Health Care > Insect & Pest Repellents > Body Treatments",
+  "categoryPathCn": "健康与家居 > 卫生保健 > 驱虫剂 > 身体护理",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 4046662,
+    "avgRevenue": 40467,
+    "medianPrice": 17.4,
+    "priceBand": "$10.41 - $23.98",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B00VV5KRD8",
+      "title": "Sawyer Products SP564 Premium Insect Repellent with 20% Picaridin, Lotion, 4-Ounce",
+      "brand": "Sawyer",
+      "price": 9.99,
+      "salesParent": 43919,
+      "revenue": 480034.69,
+      "rating": 4.6,
+      "reviews": 25303
+    },
+    {
+      "rank": 2,
+      "asin": "B001ANQVYU",
+      "title": "Sawyer Products SP657 Premium Permethrin Insect Repellent for Clothing, Gear &amp; Tents, Trigger Spray, 24-Ounce",
+      "brand": "Sawyer",
+      "price": 17.99,
+      "salesParent": 24514,
+      "revenue": 439781.19,
+      "rating": 4.6,
+      "reviews": 43241
+    },
+    {
+      "rank": 3,
+      "asin": "B019ZTXU2G",
+      "title": "OFF! Deep Woods Dry Insect &amp; Mosquito Repellent Bug Spray, 4 oz, (2-Pack)",
+      "brand": "OFF!",
+      "price": 12.86,
+      "salesParent": 21952,
+      "revenue": 284717.44,
+      "rating": 4.7,
+      "reviews": 43205
+    },
+    {
+      "rank": 4,
+      "asin": "B074N7D1TV",
+      "title": "Murphy's Naturals Mosquito &amp; Tick Bug Repellent Spray, 4 fl oz (Pack of 2)",
+      "brand": "Murphy's Naturals",
+      "price": 18.99,
+      "salesParent": 13036,
+      "revenue": 247553.64,
+      "rating": 4.4,
+      "reviews": 17660
+    },
+    {
+      "rank": 5,
+      "asin": "B004H89KFC",
+      "title": "Repel 100 Mosquito &amp; Insect Repellent 4 Oz, 98% DEET",
+      "brand": "Repel",
+      "price": 7.48,
+      "salesParent": 31330,
+      "revenue": 220249.91,
+      "rating": 4.6,
+      "reviews": 17418
+    },
+    {
+      "rank": 6,
+      "asin": "B0BTR2DTWM",
+      "title": "Boogie Insect Repellent Lotion for Mosquitoes, Ticks &amp; Flies - 6 fl oz",
+      "brand": "Boogie",
+      "price": 11.99,
+      "salesParent": 10539,
+      "revenue": 126362.61,
+      "rating": 4.7,
+      "reviews": 3386
+    },
+    {
+      "rank": 7,
+      "asin": "B09GF1ND4D",
+      "title": "OFF! Clean Feel Picaridin Insect &amp; Mosquito Repellent Bug Spray, 5 oz",
+      "brand": "OFF!",
+      "price": 6.29,
+      "salesParent": 18623,
+      "revenue": 116952.0,
+      "rating": 4.6,
+      "reviews": 13400
+    },
+    {
+      "rank": 8,
+      "asin": "B00KJS6BQA",
+      "title": "AVON Skin So Soft Bug Guard Plus Picaridin Insect Repellent Spray - 4 oz",
+      "brand": "AVON",
+      "price": 18.99,
+      "salesParent": 5580,
+      "revenue": 106020.0,
+      "rating": 4.5,
+      "reviews": 4722
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 11,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 11,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 4046662,
+    "priorHeadRevenue": 3660761,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 18,
+      "pct": 18,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 68,
+      "brandCount": 48,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.48,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B00VV5KRD8",
+        "title": "Sawyer Products SP564 Premium Insect Repellent with 20% Picaridin, Lotion, 4-Ounce",
+        "rating": 4.6,
+        "reviews": 25303
+      },
+      {
+        "rank": 2,
+        "asin": "B001ANQVYU",
+        "title": "Sawyer Products SP657 Premium Permethrin Insect Repellent for Clothing, Gear &amp; Tents, Trigger Spray, 24-Ounce",
+        "rating": 4.6,
+        "reviews": 43241
+      },
+      {
+        "rank": 3,
+        "asin": "B019ZTXU2G",
+        "title": "OFF! Deep Woods Dry Insect &amp; Mosquito Repellent Bug Spray, 4 oz, (2-Pack)",
+        "rating": 4.7,
+        "reviews": 43205
+      },
+      {
+        "rank": 4,
+        "asin": "B074N7D1TV",
+        "title": "Murphy's Naturals Mosquito &amp; Tick Bug Repellent Spray, 4 fl oz (Pack of 2)",
+        "rating": 4.4,
+        "reviews": 17660
+      },
+      {
+        "rank": 5,
+        "asin": "B004H89KFC",
+        "title": "Repel 100 Mosquito &amp; Insect Repellent 4 Oz, 98% DEET",
+        "rating": 4.6,
+        "reviews": 17418
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3760941:3762971:23537015011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

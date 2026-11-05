@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23627238011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Toy Figures & Playsets > Buildings & Scenery > Train Stations",
+  "categoryPathCn": "玩具 > 玩具图 > 建筑物 > 火车站",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 26,
+    "totalRevenue": 12635,
+    "avgRevenue": 486,
+    "medianPrice": 47.92,
+    "priceBand": "$23.49 - $117.18",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0G6CZ1NC4",
+      "title": "KOTEK Train Table, 94-Piece Wooden Train Set with Activity Table &amp; Storage",
+      "brand": "KOTEK",
+      "price": 109.99,
+      "salesParent": 42,
+      "revenue": 4578.84,
+      "rating": 4.7,
+      "reviews": 14
+    },
+    {
+      "rank": 2,
+      "asin": "B0B52C9PYP",
+      "title": "Lionel Transfer Station O Gauge Model Train Accessory",
+      "brand": "Lionel",
+      "price": 248.84,
+      "salesParent": 8,
+      "revenue": 1990.72,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "rank": 3,
+      "asin": "B0HDD97J24",
+      "title": "Skyline Concourse Toy Airport Terminal Playset with 6 Jetbridges – Airport Toy Set, Compatible with 1:285 Diecast Toy Planes, No Glue Assembly Required",
+      "brand": "tarmac designs",
+      "price": 54.99,
+      "salesParent": 26,
+      "revenue": 1429.74,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "rank": 4,
+      "asin": "B0DZ3YSNLM",
+      "title": "Lionel Halloween O Gauge Model Train Illuminated Station Platform",
+      "brand": "Lionel",
+      "price": 64.77,
+      "salesParent": 17,
+      "revenue": 1084.94,
+      "rating": 5.0,
+      "reviews": 1
+    },
+    {
+      "rank": 5,
+      "asin": "B0DNRQRKKJ",
+      "title": "Wooden Train Tracks Accessories Modular Elevated Railway Build &amp; Play Construction Set 68 PCS STEM Toys Track Expansion Pack #2 with Parallel Tracks Adjustable Columns Station Compatible Thomas Brio",
+      "brand": "Orbrium",
+      "price": 45.99,
+      "salesParent": 19,
+      "revenue": 873.81,
+      "rating": 5.0,
+      "reviews": 1
+    },
+    {
+      "rank": 6,
+      "asin": "B0H6J5TF5J",
+      "title": "SainSmart Jr. Wooden Train Track Accessories Car Wash Toy",
+      "brand": "SainSmart Jr.",
+      "price": 24.99,
+      "salesParent": 32,
+      "revenue": 799.68,
+      "rating": 4.8,
+      "reviews": 9
+    },
+    {
+      "rank": 7,
+      "asin": "B0H1RG99D6",
+      "title": "SainSmart Jr. Wooden Train Track Accessories - Double-Deck Viaduct Bridge Set Wood Train Track Pieces Compatible with Thomas, Brio – Sturdy Hardwood for Long-Lasting Play, Ideal Gift for Kids 3+",
+      "brand": "SainSmart Jr.",
+      "price": 24.99,
+      "salesParent": 28,
+      "revenue": 699.72,
+      "rating": 4.6,
+      "reviews": 10
+    },
+    {
+      "rank": 8,
+      "asin": "B0CGVZXVH5",
+      "title": "Lionel Roadside Plug Expand Play O Gauge Model Train Diner Accessory",
+      "brand": "Lionel",
+      "price": 144.37,
+      "salesParent": 2,
+      "revenue": 288.74,
+      "rating": null,
+      "reviews": null
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": null,
+    "direction": "flat",
+    "comparable": null,
+    "rawYoyPct": 71,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 12635,
+    "priorHeadRevenue": 7373,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 26,
+      "newCount": 13,
+      "pct": 50,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 96,
+      "brandCount": 15,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.61,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0G6CZ1NC4",
+        "title": "KOTEK Train Table, 94-Piece Wooden Train Set with Activity Table &amp; Storage",
+        "rating": 4.7,
+        "reviews": 14
+      },
+      {
+        "rank": 2,
+        "asin": "B0B52C9PYP",
+        "title": "Lionel Transfer Station O Gauge Model Train Accessory",
+        "rating": null,
+        "reviews": null
+      },
+      {
+        "rank": 3,
+        "asin": "B0HDD97J24",
+        "title": "Skyline Concourse Toy Airport Terminal Playset with 6 Jetbridges – Airport Toy Set, Compatible with 1:285 Diecast Toy Planes, No Glue Assembly Required",
+        "rating": null,
+        "reviews": null
+      },
+      {
+        "rank": 4,
+        "asin": "B0DZ3YSNLM",
+        "title": "Lionel Halloween O Gauge Model Train Illuminated Station Platform",
+        "rating": 5.0,
+        "reviews": 1
+      },
+      {
+        "rank": 5,
+        "asin": "B0DNRQRKKJ",
+        "title": "Wooden Train Tracks Accessories Modular Elevated Railway Build &amp; Play Construction Set 68 PCS STEM Toys Track Expansion Pack #2 with Parallel Tracks Adjustable Columns Station Compatible Thomas Brio",
+        "rating": 5.0,
+        "reviews": 1
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:165993011:23627230011:23627238011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

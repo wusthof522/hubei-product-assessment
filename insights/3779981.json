@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3779981",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Health Care > Foot Health > Moleskin",
+  "categoryPathCn": "健康与家居 > 卫生保健 > 足部护理 > 包足绷带布",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 97,
+    "totalRevenue": 553688,
+    "avgRevenue": 5708,
+    "medianPrice": 9.99,
+    "priceBand": "$7.99 - $14.49",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0DCBTXPH3",
+      "title": "Promifun Moleskin Strips with Adhesive Blister Prevention Pads,Beige 24 Pcs",
+      "brand": "Promifun",
+      "price": 9.99,
+      "salesParent": 10726,
+      "revenue": 107153.0,
+      "rating": 4.4,
+      "reviews": 1166
+    },
+    {
+      "rank": 2,
+      "asin": "B0C8PC2F7C",
+      "title": "SpecOps Biosciences Ultra-Thin Moleskin for Blister Prevention, 15 ft Roll",
+      "brand": "SpecOps Biosciences",
+      "price": 19.98,
+      "salesParent": 3413,
+      "revenue": 68191.74,
+      "rating": 4.6,
+      "reviews": 1415
+    },
+    {
+      "rank": 3,
+      "asin": "B007W9MGLI",
+      "title": "Dr. Scholl's Moleskin Padding Roll, Flexible Cushioning, 24&quot; x 4 5/8&quot;",
+      "brand": "Dr. Scholl's",
+      "price": 7.23,
+      "salesParent": 8082,
+      "revenue": 58432.86,
+      "rating": 4.6,
+      "reviews": 12728
+    },
+    {
+      "rank": 4,
+      "asin": "B0G2WSCWYL",
+      "title": "60Pcs Moleskin Strips with Adhesive Blister Prevention Pads",
+      "brand": "kindshine",
+      "price": 6.99,
+      "salesParent": 7992,
+      "revenue": 55544.4,
+      "rating": 4.2,
+      "reviews": 604
+    },
+    {
+      "rank": 5,
+      "asin": "B097YXFWL4",
+      "title": "Dr. Scholl's Moleskin Padding for Cushioning and Pain Relief, 3 Strips",
+      "brand": "Dr. Scholl's",
+      "price": 6.45,
+      "salesParent": 5911,
+      "revenue": 37002.86,
+      "rating": 4.7,
+      "reviews": 2358
+    },
+    {
+      "rank": 6,
+      "asin": "B0HCR8YB22",
+      "title": "SpecOps Biosciences Ultra-Thin Moleskin for Blister Prevention, 60 Strips",
+      "brand": "SpecOps Biosciences",
+      "price": 18.99,
+      "salesParent": 1053,
+      "revenue": 19996.47,
+      "rating": 4.6,
+      "reviews": 39
+    },
+    {
+      "rank": 7,
+      "asin": "B0C16HJBB4",
+      "title": "Happy Hippo Moleskin for Feet, Heavy Duty 2&quot; by 15 Feet (1 Roll)",
+      "brand": "Happy Hippo",
+      "price": 8.99,
+      "salesParent": 2126,
+      "revenue": 19112.74,
+      "rating": 4.4,
+      "reviews": 1963
+    },
+    {
+      "rank": 8,
+      "asin": "B0DHQ6GBNK",
+      "title": "Moleskin for Blisters, 2&quot; by 15 Feet Moleskin for Feet, Flexible Cushioning &amp; Cut to Any Size, Moleskin Tape for Running, Hiking and Walking (1 Roll)",
+      "brand": "Klyranix",
+      "price": 9.99,
+      "salesParent": 1815,
+      "revenue": 18131.85,
+      "rating": 4.4,
+      "reviews": 290
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 28,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 28,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 553688,
+    "priorHeadRevenue": 433267,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 97,
+      "newCount": 46,
+      "pct": 47,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 69,
+      "brandCount": 58,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.35,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0DCBTXPH3",
+        "title": "Promifun Moleskin Strips with Adhesive Blister Prevention Pads,Beige 24 Pcs",
+        "rating": 4.4,
+        "reviews": 1166
+      },
+      {
+        "rank": 2,
+        "asin": "B0C8PC2F7C",
+        "title": "SpecOps Biosciences Ultra-Thin Moleskin for Blister Prevention, 15 ft Roll",
+        "rating": 4.6,
+        "reviews": 1415
+      },
+      {
+        "rank": 3,
+        "asin": "B007W9MGLI",
+        "title": "Dr. Scholl's Moleskin Padding Roll, Flexible Cushioning, 24&quot; x 4 5/8&quot;",
+        "rating": 4.6,
+        "reviews": 12728
+      },
+      {
+        "rank": 4,
+        "asin": "B0G2WSCWYL",
+        "title": "60Pcs Moleskin Strips with Adhesive Blister Prevention Pads",
+        "rating": 4.2,
+        "reviews": 604
+      },
+      {
+        "rank": 5,
+        "asin": "B097YXFWL4",
+        "title": "Dr. Scholl's Moleskin Padding for Cushioning and Pain Relief, 3 Strips",
+        "rating": 4.7,
+        "reviews": 2358
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3760941:3779911:3779981",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

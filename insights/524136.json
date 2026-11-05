@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "524136",
+  "level": "L2",
+  "categoryPathEn": "Electronics > Security & Surveillance",
+  "categoryPathCn": "电子产品 > 安全问题",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 3079249,
+    "avgRevenue": 30792,
+    "medianPrice": 45.93,
+    "priceBand": "$25.99 - $79.76",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B08NYH9JL4",
+      "title": "Driveway Alarm- 1/2 Mile Long Range Motion Sensor- 1 Receiver+2 Sensors",
+      "brand": "HTZSAFE",
+      "price": 43.99,
+      "salesParent": 7617,
+      "revenue": 335071.84,
+      "rating": 4.4,
+      "reviews": 20677
+    },
+    {
+      "rank": 2,
+      "asin": "B0D96YWNYB",
+      "title": "Yale Security Assure Lock 2 Touch Deadbolt, Black Suede Keyed Smart Entry Door Lock with Wi-Fi Connected Keypad and Fingerprint Scanner for Code Entry and Remote Access, YRD410-F-WF1-BSP",
+      "brand": "Yale",
+      "price": 279.99,
+      "salesParent": 621,
+      "revenue": 173538.45,
+      "rating": 3.7,
+      "reviews": 105
+    },
+    {
+      "rank": 3,
+      "asin": "B0DS8S4L9Y",
+      "title": "140dB Personal Safety Alarm for Women 3pack Self Defense Keychain",
+      "brand": "Fauxomor",
+      "price": 14.98,
+      "salesParent": 8779,
+      "revenue": 131509.42,
+      "rating": 4.4,
+      "reviews": 2211
+    },
+    {
+      "rank": 4,
+      "asin": "B0FG2MD3YP",
+      "title": "Aqara Presence Sensor FP300 Wireless 5-in-1 Motion Sensor with mmWave",
+      "brand": "Aqara",
+      "price": 49.99,
+      "salesParent": 2468,
+      "revenue": 119698.0,
+      "rating": 3.7,
+      "reviews": 968
+    },
+    {
+      "rank": 5,
+      "asin": "B07L3TFM2G",
+      "title": "1/2 Mile Solar Wireless Driveway Alarm, 1 Receiver &amp; 1 Sensor",
+      "brand": "eMACROS",
+      "price": 49.99,
+      "salesParent": 2113,
+      "revenue": 105629.0,
+      "rating": 4.3,
+      "reviews": 11534
+    },
+    {
+      "rank": 6,
+      "asin": "B08TT47Y99",
+      "title": "She’s Birdie–The Original Personal Safety Alarm for Women by Women–Loud Siren, Strobe Light and Key Chain in a Variety of Colors (Aqua)",
+      "brand": "She's Birdie",
+      "price": 27.95,
+      "salesParent": 3066,
+      "revenue": 85694.7,
+      "rating": 4.5,
+      "reviews": 17152
+    },
+    {
+      "rank": 7,
+      "asin": "B0FDMDCJ75",
+      "title": "She's Birdie - The Original Personal Safety Alarm Disc for Bikes, Hikes, and Late Nights - Loud Siren, LED Light for Extra Visibility, Rechargeable, Handsfree, Lightweight, Water Resistant (Blossom)",
+      "brand": "She's Birdie",
+      "price": 34.95,
+      "salesParent": 2186,
+      "revenue": 76291.41,
+      "rating": 3.9,
+      "reviews": 143
+    },
+    {
+      "rank": 8,
+      "asin": "B0BYCC8WM4",
+      "title": "Personal Safety Alarm for Women - Loud Self Defense Siren, Waterproof Keychain with Strobe Light - Battery Powered, Rose Gold",
+      "brand": "HerTime2",
+      "price": 26.95,
+      "salesParent": 2492,
+      "revenue": 64268.68,
+      "rating": 4.6,
+      "reviews": 2478
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -63,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -63,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 3079249,
+    "priorHeadRevenue": 8353738,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 31,
+      "pct": 31,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 39,
+      "brandCount": 72,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.28,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B08NYH9JL4",
+        "title": "Driveway Alarm- 1/2 Mile Long Range Motion Sensor- 1 Receiver+2 Sensors",
+        "rating": 4.4,
+        "reviews": 20677
+      },
+      {
+        "rank": 2,
+        "asin": "B0D96YWNYB",
+        "title": "Yale Security Assure Lock 2 Touch Deadbolt, Black Suede Keyed Smart Entry Door Lock with Wi-Fi Connected Keypad and Fingerprint Scanner for Code Entry and Remote Access, YRD410-F-WF1-BSP",
+        "rating": 3.7,
+        "reviews": 105
+      },
+      {
+        "rank": 3,
+        "asin": "B0DS8S4L9Y",
+        "title": "140dB Personal Safety Alarm for Women 3pack Self Defense Keychain",
+        "rating": 4.4,
+        "reviews": 2211
+      },
+      {
+        "rank": 4,
+        "asin": "B0FG2MD3YP",
+        "title": "Aqara Presence Sensor FP300 Wireless 5-in-1 Motion Sensor with mmWave",
+        "rating": 3.7,
+        "reviews": 968
+      },
+      {
+        "rank": 5,
+        "asin": "B07L3TFM2G",
+        "title": "1/2 Mile Solar Wireless Driveway Alarm, 1 Receiver &amp; 1 Sensor",
+        "rating": 4.3,
+        "reviews": 11534
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "172282:524136",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23642798011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Remote & App Controlled Vehicles & Parts > Remote & App Controlled Vehicles > Construction Vehicles",
+  "categoryPathCn": "玩具 > 遥控 > 遥控 > 工程车辆",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 1423093,
+    "avgRevenue": 14231,
+    "medianPrice": 94.99,
+    "priceBand": "$39.99 - $221.98",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0BB16XJXR",
+      "title": "KIDMARKT Remote Control Excavator Toy for Boys, 11-Channel RC Construction Truck with Metal Parts, Lights &amp; Dual Batteries, 120 Minutes Playtime, Rechargeable Digger Toy for Kids Ages 3-12, STEM Gift",
+      "brand": "KIDMARKT",
+      "price": 43.5,
+      "salesParent": 8021,
+      "revenue": 337603.91,
+      "rating": 4.4,
+      "reviews": 473
+    },
+    {
+      "rank": 2,
+      "asin": "B0GJSC3LNB",
+      "title": "1.2 Ton Mini Excavator Set, 13.5HP Digger with 4 Attachments &amp; Canopy",
+      "brand": "HUAYEE",
+      "price": 5599.0,
+      "salesParent": 36,
+      "revenue": 201564.0,
+      "rating": 4.8,
+      "reviews": 37
+    },
+    {
+      "rank": 3,
+      "asin": "B0FN7MDBDZ",
+      "title": "Remote Control Excavator (11-Channel), Dump Truck, Bulldozer, Loader (9-Channel), 2.4GHz Remote Control Construction Vehicles, Made of ABS, with Cool Lights and Sound Effects, 4-Pcs",
+      "brand": "ADTHLIER",
+      "price": 113.99,
+      "salesParent": 1314,
+      "revenue": 146011.69,
+      "rating": 4.2,
+      "reviews": 317
+    },
+    {
+      "rank": 4,
+      "asin": "B0HD6JFBVT",
+      "title": "Mini Excavator,1.2 Ton Compact Rubber Tracked Excavator 13.5HP Gasoline Engine EPA Certified with Hydraulic Thumb,Bucket,Auger,rake,Toolbox,for Landscaping, Farm,Garden&amp;Small DIY Construction",
+      "brand": "RELYMG",
+      "price": 5399.0,
+      "salesParent": 14,
+      "revenue": 75586.0,
+      "rating": 3.2,
+      "reviews": 5
+    },
+    {
+      "rank": 5,
+      "asin": "B07V6HLXZR",
+      "title": "Double E Volvo 1:16 Scale Remote Control Excavator, 17 Channel 3-in-1 Construction Toy with Metal Shovel, Drill, Grab &amp; Lights, 2.4GHz Full Function Digger for Outdoor Sandbox, Gift for Kids &amp; Adults",
+      "brand": "DOUBLE E",
+      "price": 124.99,
+      "salesParent": 724,
+      "revenue": 75324.96,
+      "rating": 4.3,
+      "reviews": 4990
+    },
+    {
+      "rank": 6,
+      "asin": "B0H4568ZZS",
+      "title": "1 Ton Mini Excavator Machine with Hydraulic Thumb, 13.5HP RATO Gas Engine, 90% Pre-Assembled DIY Compact Digger with Installation Video, Includes Shipping &amp; Unloading",
+      "brand": "OKVEQUIP",
+      "price": 4399.0,
+      "salesParent": 12,
+      "revenue": 52788.0,
+      "rating": 5.0,
+      "reviews": 1
+    },
+    {
+      "rank": 7,
+      "asin": "B0H2M9GKXY",
+      "title": "Remote Control Excavator Toy for Boys, 3-in-1 RC Excavator with Alloy Bucket, Breaker &amp; Grapple, Construction Vehicle Toys with Lights &amp; Sounds, 2×1200mAh Batteries, Birthday Gift for Kids 8-12",
+      "brand": "Noizka",
+      "price": 39.99,
+      "salesParent": 1231,
+      "revenue": 46076.33,
+      "rating": 4.4,
+      "reviews": 113
+    },
+    {
+      "rank": 8,
+      "asin": "B0HFVP4XWF",
+      "title": "1.8 Ton Mini Excavator,13.7HP Kubota Diesel Engine with Canopy, Side Swing, Hydraulic Thumb for Farm, Landscaping, Road, Construction etc, Including Transportation and 100% Installation",
+      "brand": "PWBULL",
+      "price": 9159.99,
+      "salesParent": 4,
+      "revenue": 36639.96,
+      "rating": null,
+      "reviews": null
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 55,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 55,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1423093,
+    "priorHeadRevenue": 915795,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 77,
+      "pct": 77,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 63,
+      "brandCount": 62,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.29,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0BB16XJXR",
+        "title": "KIDMARKT Remote Control Excavator Toy for Boys, 11-Channel RC Construction Truck with Metal Parts, Lights &amp; Dual Batteries, 120 Minutes Playtime, Rechargeable Digger Toy for Kids Ages 3-12, STEM Gift",
+        "rating": 4.4,
+        "reviews": 473
+      },
+      {
+        "rank": 2,
+        "asin": "B0GJSC3LNB",
+        "title": "1.2 Ton Mini Excavator Set, 13.5HP Digger with 4 Attachments &amp; Canopy",
+        "rating": 4.8,
+        "reviews": 37
+      },
+      {
+        "rank": 3,
+        "asin": "B0FN7MDBDZ",
+        "title": "Remote Control Excavator (11-Channel), Dump Truck, Bulldozer, Loader (9-Channel), 2.4GHz Remote Control Construction Vehicles, Made of ABS, with Cool Lights and Sound Effects, 4-Pcs",
+        "rating": 4.2,
+        "reviews": 317
+      },
+      {
+        "rank": 4,
+        "asin": "B0HD6JFBVT",
+        "title": "Mini Excavator,1.2 Ton Compact Rubber Tracked Excavator 13.5HP Gasoline Engine EPA Certified with Hydraulic Thumb,Bucket,Auger,rake,Toolbox,for Landscaping, Farm,Garden&amp;Small DIY Construction",
+        "rating": 3.2,
+        "reviews": 5
+      },
+      {
+        "rank": 5,
+        "asin": "B07V6HLXZR",
+        "title": "Double E Volvo 1:16 Scale Remote Control Excavator, 17 Channel 3-in-1 Construction Toy with Metal Shovel, Drill, Grab &amp; Lights, 2.4GHz Full Function Digger for Outdoor Sandbox, Gift for Kids &amp; Adults",
+        "rating": 4.3,
+        "reviews": 4990
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:6925830011:166583011:23642798011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

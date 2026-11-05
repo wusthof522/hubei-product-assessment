@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "10773802011",
+  "level": "L2",
+  "categoryPathEn": "Industrial & Scientific > Commercial Door Products",
+  "categoryPathCn": "工业类 > 商业门产品",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 2043791,
+    "avgRevenue": 20644,
+    "medianPrice": 107.99,
+    "priceBand": "$66.15 - $229.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0DB1FC19P",
+      "title": "Hosmart UltraSpeak Pro Intercoms Wireless for Home, Two-Way Real-time Intercom Full Duplex Wireless Intercom System for Home Use, House Intercom System for Business with 1200 Feet Range",
+      "brand": "HOSMART",
+      "price": 104.99,
+      "salesParent": 1253,
+      "revenue": 131552.47,
+      "rating": 4.2,
+      "reviews": 687
+    },
+    {
+      "rank": 2,
+      "asin": "B00HBA2MBC",
+      "title": "Dynasty Push Bar Panic Exit Device, Painted Aluminum, Exterior Lever",
+      "brand": "Dynasty Hardware",
+      "price": 174.95,
+      "salesParent": 495,
+      "revenue": 86600.25,
+      "rating": 4.6,
+      "reviews": 620
+    },
+    {
+      "rank": 3,
+      "asin": "B07WCQH2KP",
+      "title": "Custom Same Day Access Prox Cards,26 bit,Compatible HID 1386 ISOProx (200)",
+      "brand": "Card Imaging",
+      "price": 593.0,
+      "salesParent": 136,
+      "revenue": 80648.0,
+      "rating": 4.9,
+      "reviews": 124
+    },
+    {
+      "rank": 4,
+      "asin": "B0F5HS2P1T",
+      "title": "Veise KS04 Keypad Door Lock with Zinc Alloy Handle, Satin Nickel",
+      "brand": "Veise",
+      "price": 66.15,
+      "salesParent": 1428,
+      "revenue": 70928.76,
+      "rating": 4.1,
+      "reviews": 641
+    },
+    {
+      "rank": 5,
+      "asin": "B017SSO7GE",
+      "title": "ZOWEETEK CAC Card Reader Military, USB Smart Card Reader for Windows Mac",
+      "brand": "ZOWEETEK",
+      "price": 15.49,
+      "salesParent": 4229,
+      "revenue": 65338.05,
+      "rating": 4.5,
+      "reviews": 3448
+    },
+    {
+      "rank": 6,
+      "asin": "B07P7RZMMK",
+      "title": "LYNN HARDWARE Extra Heavy Duty Commercial Door Closer, Closing Delay Timer",
+      "brand": "LYNN HARDWARE",
+      "price": 239.2,
+      "salesParent": 246,
+      "revenue": 57800.16,
+      "rating": 4.6,
+      "reviews": 245
+    },
+    {
+      "rank": 7,
+      "asin": "B0BD53JHKC",
+      "title": "36 x 80 Inch Clear Freezer Door Curtain Plastic Door Strips Curtain",
+      "brand": "Juexica",
+      "price": 63.99,
+      "salesParent": 901,
+      "revenue": 57654.99,
+      "rating": 4.1,
+      "reviews": 571
+    },
+    {
+      "rank": 8,
+      "asin": "B077D1374H",
+      "title": "UHPPOTE Wireless Remote Control with 600Lbs Electromagnetic Lock System",
+      "brand": "UHPPOTE",
+      "price": 106.9,
+      "salesParent": 518,
+      "revenue": 55027.14,
+      "rating": 4.4,
+      "reviews": 814
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 32,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 32,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 2043791,
+    "priorHeadRevenue": 1546219,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 25,
+      "pct": 25,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 31,
+      "brandCount": 62,
+      "level": "分散",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.34,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0DB1FC19P",
+        "title": "Hosmart UltraSpeak Pro Intercoms Wireless for Home, Two-Way Real-time Intercom Full Duplex Wireless Intercom System for Home Use, House Intercom System for Business with 1200 Feet Range",
+        "rating": 4.2,
+        "reviews": 687
+      },
+      {
+        "rank": 2,
+        "asin": "B00HBA2MBC",
+        "title": "Dynasty Push Bar Panic Exit Device, Painted Aluminum, Exterior Lever",
+        "rating": 4.6,
+        "reviews": 620
+      },
+      {
+        "rank": 3,
+        "asin": "B07WCQH2KP",
+        "title": "Custom Same Day Access Prox Cards,26 bit,Compatible HID 1386 ISOProx (200)",
+        "rating": 4.9,
+        "reviews": 124
+      },
+      {
+        "rank": 4,
+        "asin": "B0F5HS2P1T",
+        "title": "Veise KS04 Keypad Door Lock with Zinc Alloy Handle, Satin Nickel",
+        "rating": 4.1,
+        "reviews": 641
+      },
+      {
+        "rank": 5,
+        "asin": "B017SSO7GE",
+        "title": "ZOWEETEK CAC Card Reader Military, USB Smart Card Reader for Windows Mac",
+        "rating": 4.5,
+        "reviews": 3448
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "16310091:10773802011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

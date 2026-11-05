@@ -1,0 +1,104 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3777621",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Sexual Wellness > Sensual Delights > Edible Items",
+  "categoryPathCn": "健康与家居 > 性健康 > 感官愉悦用品 > 可食用具",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "insufficient",
+  "marketSize": {
+    "sampleCount": 2,
+    "totalRevenue": 598,
+    "avgRevenue": 299,
+    "medianPrice": 19.98,
+    "priceBand": null,
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B01LMPKXLM",
+      "title": "Tums Chewy Delights, Very Cherry 32 ea Pack of 4 by TUMS",
+      "brand": "TUMS",
+      "price": 34.8,
+      "salesParent": 17,
+      "revenue": 598.4,
+      "rating": 4.8,
+      "reviews": 97
+    },
+    {
+      "rank": 2,
+      "asin": "B0FBS4XPFJ",
+      "title": "National Boyfriends Day Gifts for Him, Boo Basket Stuffers for Women Men",
+      "brand": "AMBREGRISSUN",
+      "price": 5.16,
+      "salesParent": 0,
+      "revenue": 0.0,
+      "rating": 5.0,
+      "reviews": 1
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": null,
+    "direction": "flat",
+    "comparable": null,
+    "rawYoyPct": null,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 598,
+    "priorHeadRevenue": null,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 2,
+      "newCount": 1,
+      "pct": 50,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 100,
+      "brandCount": 2,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.9,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B01LMPKXLM",
+        "title": "Tums Chewy Delights, Very Cherry 32 ea Pack of 4 by TUMS",
+        "rating": 4.8,
+        "reviews": 97
+      },
+      {
+        "rank": 2,
+        "asin": "B0FBS4XPFJ",
+        "title": "National Boyfriends Day Gifts for Him, Boo Basket Stuffers for Women Men",
+        "rating": 5.0,
+        "reviews": 1
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3777371:3777591:3777621",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

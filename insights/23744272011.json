@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23744272011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Dress Up & Pretend Play > Dress-Up Accessories > Hair Decoration",
+  "categoryPathCn": "玩具 > 扮靓 > 装扮配件 > 头发装饰",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 98,
+    "totalRevenue": 1388057,
+    "avgRevenue": 14164,
+    "medianPrice": 16.99,
+    "priceBand": "$12.99 - $22.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0CDH69RMR",
+      "title": "Hair Gem Stamper Kit, Birthday Christma Gifts Toys for Girls Ages 3 -12",
+      "brand": "kidzkube",
+      "price": 19.99,
+      "salesParent": 20026,
+      "revenue": 385700.75,
+      "rating": 4.3,
+      "reviews": 2102
+    },
+    {
+      "rank": 2,
+      "asin": "B0D8JJBL5Q",
+      "title": "Hally Hair Gem Pen Kit with 240 Stick-On Hair Gems and Stamper Tool",
+      "brand": "Hally Hair",
+      "price": 34.99,
+      "salesParent": 9033,
+      "revenue": 313987.06,
+      "rating": 4.4,
+      "reviews": 1193
+    },
+    {
+      "rank": 3,
+      "asin": "B0B3WTSVSV",
+      "title": "Pretty Me Headband Making Kit for Girls - Arts &amp; Crafts Easter Gift - Make Your Own Fashion Headbands for Kids - DIY Hair Accessories - Gift for Ages 5-12 Year Old Girl - Little Kids Art &amp; Craft Gifts",
+      "brand": "Pretty Me",
+      "price": 16.97,
+      "salesParent": 5717,
+      "revenue": 98160.89,
+      "rating": 4.6,
+      "reviews": 3710
+    },
+    {
+      "rank": 4,
+      "asin": "B0C1THPCCC",
+      "title": "blinger® Diamond Starter Set",
+      "brand": "blinger",
+      "price": 34.99,
+      "salesParent": 2816,
+      "revenue": 98109.44,
+      "rating": 4.5,
+      "reviews": 4448
+    },
+    {
+      "rank": 5,
+      "asin": "B0FM45G3SZ",
+      "title": "yasest Headband Making Kit - 89pcs DIY Craft Gift for 5 6 7 8 Year Old Girl",
+      "brand": "yasest",
+      "price": 16.65,
+      "salesParent": 2967,
+      "revenue": 47204.97,
+      "rating": 4.7,
+      "reviews": 268
+    },
+    {
+      "rank": 6,
+      "asin": "B0CT62668N",
+      "title": "Make It Real Snap N' Glam Hair Styling Set - 100 Reusable Bead Clips &amp; Gems",
+      "brand": "Make It Real",
+      "price": 19.99,
+      "salesParent": 1261,
+      "revenue": 25207.39,
+      "rating": 4.2,
+      "reviews": 595
+    },
+    {
+      "rank": 7,
+      "asin": "B0DBM4N5QK",
+      "title": "Hair Gem Stamper Kit, DIY Gift for Girls Ages 3-12,Christmas Birthday Gifts",
+      "brand": "Yoloflix",
+      "price": 17.99,
+      "salesParent": 1363,
+      "revenue": 23334.56,
+      "rating": 4.2,
+      "reviews": 818
+    },
+    {
+      "rank": 8,
+      "asin": "B0GKL1PM2C",
+      "title": "Hair Beads for Girls, Hair Accessories Gifts for 5 6 7 8 9 10 Year Old Kids",
+      "brand": "Flnlano",
+      "price": 13.58,
+      "salesParent": 1542,
+      "revenue": 21295.02,
+      "rating": 4.3,
+      "reviews": 1964
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -26,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -26,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1388057,
+    "priorHeadRevenue": 1876616,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 98,
+      "newCount": 56,
+      "pct": 57,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 71,
+      "brandCount": 72,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.4,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0CDH69RMR",
+        "title": "Hair Gem Stamper Kit, Birthday Christma Gifts Toys for Girls Ages 3 -12",
+        "rating": 4.3,
+        "reviews": 2102
+      },
+      {
+        "rank": 2,
+        "asin": "B0D8JJBL5Q",
+        "title": "Hally Hair Gem Pen Kit with 240 Stick-On Hair Gems and Stamper Tool",
+        "rating": 4.4,
+        "reviews": 1193
+      },
+      {
+        "rank": 3,
+        "asin": "B0B3WTSVSV",
+        "title": "Pretty Me Headband Making Kit for Girls - Arts &amp; Crafts Easter Gift - Make Your Own Fashion Headbands for Kids - DIY Hair Accessories - Gift for Ages 5-12 Year Old Girl - Little Kids Art &amp; Craft Gifts",
+        "rating": 4.6,
+        "reviews": 3710
+      },
+      {
+        "rank": 4,
+        "asin": "B0C1THPCCC",
+        "title": "blinger® Diamond Starter Set",
+        "rating": 4.5,
+        "reviews": 4448
+      },
+      {
+        "rank": 5,
+        "asin": "B0FM45G3SZ",
+        "title": "yasest Headband Making Kit - 89pcs DIY Craft Gift for 5 6 7 8 Year Old Girl",
+        "rating": 4.7,
+        "reviews": 268
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166316011:23744271011:23744272011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23912499011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Oral Care > Dental Floss & Picks > Power Flossers & Irrigator Accessories",
+  "categoryPathCn": "Health & Household > Oral Care > Dental Floss & Picks > Power Flossers & Irrigator Accessories",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 683889,
+    "avgRevenue": 6908,
+    "medianPrice": 10.39,
+    "priceBand": "$8.99 - $18.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B09KX5PWGV",
+      "title": "Replacement Heads for Waterpik, Replacement Tips for Waterpik Water Flosser",
+      "brand": "FreFeel",
+      "price": 5.99,
+      "salesParent": 9613,
+      "revenue": 57581.87,
+      "rating": 4.7,
+      "reviews": 2536
+    },
+    {
+      "rank": 2,
+      "asin": "B001NIZ5UI",
+      "title": "Waterpik Handheld Water Flosser Precision Replacement Tips, 2 Count JT-450E",
+      "brand": "Waterpik",
+      "price": 14.99,
+      "salesParent": 3215,
+      "revenue": 48192.85,
+      "rating": 4.7,
+      "reviews": 8835
+    },
+    {
+      "rank": 3,
+      "asin": "B003FSTE4W",
+      "title": "Waterpik Water Flosser Plaque Seeker Replacement Tips, 2 Count PS-100E",
+      "brand": "Waterpik",
+      "price": 14.99,
+      "salesParent": 1907,
+      "revenue": 28585.93,
+      "rating": 4.7,
+      "reviews": 8853
+    },
+    {
+      "rank": 4,
+      "asin": "B0D9LKPWBB",
+      "title": "for Waterpik Replacement Heads, Replacement Tips for Waterpik Water Flosser, Suitable for Waterpik Accessories Replacement Tips, for JT-100E(6 Classic Jet Tips)",
+      "brand": "Oralphi",
+      "price": 5.69,
+      "salesParent": 3761,
+      "revenue": 28207.5,
+      "rating": 4.7,
+      "reviews": 942
+    },
+    {
+      "rank": 5,
+      "asin": "B005GD1EP6",
+      "title": "Waterpik 6 Replacement Tips With Case for Hygienic Storage &amp; Travel TS-100E",
+      "brand": "Waterpik",
+      "price": 19.99,
+      "salesParent": 1327,
+      "revenue": 26526.73,
+      "rating": 4.7,
+      "reviews": 11307
+    },
+    {
+      "rank": 6,
+      "asin": "B001NIZ5V2",
+      "title": "Waterpik Water Flosser Pik Pocket Replacement Tips, 2 Count PP-100E",
+      "brand": "Waterpik",
+      "price": 10.39,
+      "salesParent": 2528,
+      "revenue": 26215.36,
+      "rating": 4.5,
+      "reviews": 1854
+    },
+    {
+      "rank": 7,
+      "asin": "B0D2687YX8",
+      "title": "Replacement Heads for Waterpik, Replacement Tips for Waterpik Water Flosser",
+      "brand": "FreFeel",
+      "price": 9.99,
+      "salesParent": 2314,
+      "revenue": 23116.86,
+      "rating": 4.6,
+      "reviews": 1000
+    },
+    {
+      "rank": 8,
+      "asin": "B08RK4XSNF",
+      "title": "Waterpik Water Flosser Implant Denture Replacement Tips, 2 Count DT-100E",
+      "brand": "Waterpik",
+      "price": 14.99,
+      "salesParent": 1431,
+      "revenue": 21450.69,
+      "rating": 4.6,
+      "reviews": 3047
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 11,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 11,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 683889,
+    "priorHeadRevenue": 617677,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 36,
+      "pct": 36,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 58,
+      "brandCount": 64,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.39,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B09KX5PWGV",
+        "title": "Replacement Heads for Waterpik, Replacement Tips for Waterpik Water Flosser",
+        "rating": 4.7,
+        "reviews": 2536
+      },
+      {
+        "rank": 2,
+        "asin": "B001NIZ5UI",
+        "title": "Waterpik Handheld Water Flosser Precision Replacement Tips, 2 Count JT-450E",
+        "rating": 4.7,
+        "reviews": 8835
+      },
+      {
+        "rank": 3,
+        "asin": "B003FSTE4W",
+        "title": "Waterpik Water Flosser Plaque Seeker Replacement Tips, 2 Count PS-100E",
+        "rating": 4.7,
+        "reviews": 8853
+      },
+      {
+        "rank": 4,
+        "asin": "B0D9LKPWBB",
+        "title": "for Waterpik Replacement Heads, Replacement Tips for Waterpik Water Flosser, Suitable for Waterpik Accessories Replacement Tips, for JT-100E(6 Classic Jet Tips)",
+        "rating": 4.7,
+        "reviews": 942
+      },
+      {
+        "rank": 5,
+        "asin": "B005GD1EP6",
+        "title": "Waterpik 6 Replacement Tips With Case for Hygienic Storage &amp; Travel TS-100E",
+        "rating": 4.7,
+        "reviews": 11307
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:10079992011:13213824011:23912499011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "166887011",
+  "level": "L2",
+  "categoryPathEn": "Baby Products > Potty Training",
+  "categoryPathCn": "婴儿产品 > 如厕训练",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 19299608,
+    "avgRevenue": 194946,
+    "medianPrice": 26.99,
+    "priceBand": "$19.99 - $33.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B078W9SH24",
+      "title": "Easy Ups Girls &amp; Boys Potty Training Pants, Size 5 (3T-4T), 124 Count, Bluey Absorbent Pull Up Training Underwear, Up to 100% Leakproof Day and Night, Hypoallergenic",
+      "brand": "Pampers",
+      "price": 46.98,
+      "salesParent": 81696,
+      "revenue": 3827457.5,
+      "rating": 4.7,
+      "reviews": 46045
+    },
+    {
+      "rank": 2,
+      "asin": "B07XCVWZ51",
+      "title": "Pull-Ups Boys' Potty Training Pants, Size 3T-4T, 112 Count",
+      "brand": "Pull-Ups",
+      "price": 47.95,
+      "salesParent": 60399,
+      "revenue": 2846000.75,
+      "rating": 4.7,
+      "reviews": 25642
+    },
+    {
+      "rank": 3,
+      "asin": "B07X8ND2B6",
+      "title": "Pull-Ups Girls' Potty Training Pants, Size 3T-4T, 112 Count",
+      "brand": "Pull-Ups",
+      "price": 47.2,
+      "salesParent": 48385,
+      "revenue": 2244580.0,
+      "rating": 4.8,
+      "reviews": 34102
+    },
+    {
+      "rank": 4,
+      "asin": "B0CQ8SJYQV",
+      "title": "Pull-Ups Boys' Night-Time Potty Training Pants, Size 4T-5T, 52 Count",
+      "brand": "Pull-Ups",
+      "price": 29.97,
+      "salesParent": 27683,
+      "revenue": 829659.5,
+      "rating": 4.7,
+      "reviews": 11286
+    },
+    {
+      "rank": 5,
+      "asin": "B0CQ8S4G25",
+      "title": "Pull-Ups Girls' Night-Time Potty Training Pants, Size 4T-5T, 52 Count",
+      "brand": "Pull-Ups",
+      "price": 29.97,
+      "salesParent": 21363,
+      "revenue": 640249.12,
+      "rating": 4.7,
+      "reviews": 7938
+    },
+    {
+      "rank": 6,
+      "asin": "B0GPZQZZ28",
+      "title": "Frida Drop Down Potty Training Seat for Toddlers &amp; Kids, Easy to Clean",
+      "brand": "Frida",
+      "price": 16.99,
+      "salesParent": 32792,
+      "revenue": 557136.06,
+      "rating": 4.5,
+      "reviews": 5793
+    },
+    {
+      "rank": 7,
+      "asin": "B078W998V4",
+      "title": "Easy Ups Girls &amp; Boys Potty Training Pants, Size 5 (3T-4T), 124 Count, Peppa Pig Absorbent Pull Up Training Underwear, Up to 100% Leakproof Day and Night, Hypoallergenic",
+      "brand": "Pampers",
+      "price": 39.99,
+      "salesParent": 11890,
+      "revenue": 552885.0,
+      "rating": 4.7,
+      "reviews": 30954
+    },
+    {
+      "rank": 8,
+      "asin": "B0CQZS53HL",
+      "title": "Potty Training Toilet for Toddlers, 2-in-1 Potty Training seat, Anti-Slip",
+      "brand": "SKYROKU",
+      "price": 35.99,
+      "salesParent": 12265,
+      "revenue": 441417.38,
+      "rating": 4.5,
+      "reviews": 36707
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -4,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -4,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 19299608,
+    "priorHeadRevenue": 20207821,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 22,
+      "pct": 22,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 72,
+      "brandCount": 58,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.5,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B078W9SH24",
+        "title": "Easy Ups Girls &amp; Boys Potty Training Pants, Size 5 (3T-4T), 124 Count, Bluey Absorbent Pull Up Training Underwear, Up to 100% Leakproof Day and Night, Hypoallergenic",
+        "rating": 4.7,
+        "reviews": 46045
+      },
+      {
+        "rank": 2,
+        "asin": "B07XCVWZ51",
+        "title": "Pull-Ups Boys' Potty Training Pants, Size 3T-4T, 112 Count",
+        "rating": 4.7,
+        "reviews": 25642
+      },
+      {
+        "rank": 3,
+        "asin": "B07X8ND2B6",
+        "title": "Pull-Ups Girls' Potty Training Pants, Size 3T-4T, 112 Count",
+        "rating": 4.8,
+        "reviews": 34102
+      },
+      {
+        "rank": 4,
+        "asin": "B0CQ8SJYQV",
+        "title": "Pull-Ups Boys' Night-Time Potty Training Pants, Size 4T-5T, 52 Count",
+        "rating": 4.7,
+        "reviews": 11286
+      },
+      {
+        "rank": 5,
+        "asin": "B0CQ8S4G25",
+        "title": "Pull-Ups Girls' Night-Time Potty Training Pants, Size 4T-5T, 52 Count",
+        "rating": 4.7,
+        "reviews": 7938
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165796011:166887011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

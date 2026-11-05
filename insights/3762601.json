@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3762601",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Health Care > First Aid > Antibiotics & Antiseptics",
+  "categoryPathCn": "健康与家居 > 卫生保健 > 急救 > 抗生素和防腐剂",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 21035543,
+    "avgRevenue": 210355,
+    "medianPrice": 17.01,
+    "priceBand": "$9.99 - $25.18",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B09YSYB2XW",
+      "title": "Touchland Blossom 5 Hydrating Hand Sanitizer Spray Set Travel Size",
+      "brand": "Touchland",
+      "price": 45.0,
+      "salesParent": 50232,
+      "revenue": 2260440.0,
+      "rating": 4.8,
+      "reviews": 14687
+    },
+    {
+      "rank": 2,
+      "asin": "B005UEB96K",
+      "title": "Aquaphor Baby Advanced Therapy Healing Ointment Skin Protectant, 14 OZ",
+      "brand": "Aquaphor",
+      "price": 17.79,
+      "salesParent": 60880,
+      "revenue": 1045918.0,
+      "rating": 4.9,
+      "reviews": 92276
+    },
+    {
+      "rank": 3,
+      "asin": "B07F2MQ9NJ",
+      "title": "MED PRIDE Sterile Alcohol Prep Pads, 70% Isopropyl, 2-Ply, 200-Count Pack",
+      "brand": "MED PRIDE",
+      "price": 6.99,
+      "salesParent": 128012,
+      "revenue": 894803.88,
+      "rating": 4.7,
+      "reviews": 48824
+    },
+    {
+      "rank": 4,
+      "asin": "B016F3MG2U",
+      "title": "CeraVe Healing Ointment, Hyaluronic Acid Skin Protectant for Dry Skin, 12oz",
+      "brand": "CeraVe",
+      "price": 19.99,
+      "salesParent": 41960,
+      "revenue": 831647.19,
+      "rating": 4.7,
+      "reviews": 44859
+    },
+    {
+      "rank": 5,
+      "asin": "B001ECQ778",
+      "title": "Neosporin Original Triple Antibiotic Ointment, 1 oz",
+      "brand": "Neosporin",
+      "price": 8.97,
+      "salesParent": 90424,
+      "revenue": 816528.69,
+      "rating": 4.8,
+      "reviews": 72789
+    },
+    {
+      "rank": 6,
+      "asin": "B00KOSP454",
+      "title": "CURAD Alcohol Prep Pads, 400 Count, Medium 70% Isopropyl Alcohol Wipes, Individually Wrapped, First Aid Alcohol Swabs for Cuts &amp; Scrapes, Medical Alcohol Pads",
+      "brand": "Curad",
+      "price": 4.49,
+      "salesParent": 166868,
+      "revenue": 747568.62,
+      "rating": 4.8,
+      "reviews": 63117
+    },
+    {
+      "rank": 7,
+      "asin": "B08CYD3WQ2",
+      "title": "The Honest Company Sanitizing Wipes, Fragrance-Free, Antibacterial, 150ct",
+      "brand": "The Honest Company",
+      "price": 14.97,
+      "salesParent": 46612,
+      "revenue": 697781.62,
+      "rating": 4.7,
+      "reviews": 9023
+    },
+    {
+      "rank": 8,
+      "asin": "B07234GWJH",
+      "title": "Active Skin Repair First Aid Spray with Medical Grade Hypochlorous, 3 oz",
+      "brand": "BLDG ACTIVE",
+      "price": 29.6,
+      "salesParent": 20296,
+      "revenue": 604008.94,
+      "rating": 4.6,
+      "reviews": 3200
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 23,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 23,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 21035543,
+    "priorHeadRevenue": 17046618,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 10,
+      "pct": 10,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 46,
+      "brandCount": 55,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.68,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B09YSYB2XW",
+        "title": "Touchland Blossom 5 Hydrating Hand Sanitizer Spray Set Travel Size",
+        "rating": 4.8,
+        "reviews": 14687
+      },
+      {
+        "rank": 2,
+        "asin": "B005UEB96K",
+        "title": "Aquaphor Baby Advanced Therapy Healing Ointment Skin Protectant, 14 OZ",
+        "rating": 4.9,
+        "reviews": 92276
+      },
+      {
+        "rank": 3,
+        "asin": "B07F2MQ9NJ",
+        "title": "MED PRIDE Sterile Alcohol Prep Pads, 70% Isopropyl, 2-Ply, 200-Count Pack",
+        "rating": 4.7,
+        "reviews": 48824
+      },
+      {
+        "rank": 4,
+        "asin": "B016F3MG2U",
+        "title": "CeraVe Healing Ointment, Hyaluronic Acid Skin Protectant for Dry Skin, 12oz",
+        "rating": 4.7,
+        "reviews": 44859
+      },
+      {
+        "rank": 5,
+        "asin": "B001ECQ778",
+        "title": "Neosporin Original Triple Antibiotic Ointment, 1 oz",
+        "rating": 4.8,
+        "reviews": 72789
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3760941:3762591:3762601",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

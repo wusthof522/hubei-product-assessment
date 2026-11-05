@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "13213826011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Oral Care > Dental Floss & Picks > Power Dental Flossers",
+  "categoryPathCn": "Health & Household > Oral Care > Dental Floss & Picks > Power Dental Flossers",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 97,
+    "totalRevenue": 28579923,
+    "avgRevenue": 294638,
+    "medianPrice": 44.99,
+    "priceBand": "$27.49 - $79.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B00HFQQ0VU",
+      "title": "Waterpik Aquarius Countertop Water Flosser with 10 Settings, 7 Tips, White",
+      "brand": "Waterpik",
+      "price": 99.47,
+      "salesParent": 69841,
+      "revenue": 5570518.5,
+      "rating": 4.6,
+      "reviews": 158814
+    },
+    {
+      "rank": 2,
+      "asin": "B01GNVF8S8",
+      "title": "Waterpik Cordless Advanced Portable Water Flosser, Rechargeable, White",
+      "brand": "Waterpik",
+      "price": 99.99,
+      "salesParent": 47301,
+      "revenue": 4315270.5,
+      "rating": 4.2,
+      "reviews": 78730
+    },
+    {
+      "rank": 3,
+      "asin": "B0BG52SJ5N",
+      "title": "COSLUS ADA Accepted C20 Water Dental Flosser Pick, Professional Set Black",
+      "brand": "COSLUS",
+      "price": 35.98,
+      "salesParent": 83164,
+      "revenue": 2998894.0,
+      "rating": 4.4,
+      "reviews": 55126
+    },
+    {
+      "rank": 4,
+      "asin": "B0CNTRVZPW",
+      "title": "Waterpik Cordless Pulse 3100 Portable Water Flosser, Rechargeable, White",
+      "brand": "Waterpik",
+      "price": 34.95,
+      "salesParent": 67797,
+      "revenue": 2612218.25,
+      "rating": 4.2,
+      "reviews": 15576
+    },
+    {
+      "rank": 5,
+      "asin": "B0GQXDBFRN",
+      "title": "Waterpik Cordless Gem 5100 Portable Water Flosser, Rechargeable, White",
+      "brand": "Waterpik",
+      "price": 79.99,
+      "salesParent": 15692,
+      "revenue": 1027983.0,
+      "rating": 4.1,
+      "reviews": 461
+    },
+    {
+      "rank": 6,
+      "asin": "B0D5RFBB7M",
+      "title": "Onlyone Water Flosser with Adjustable Water Pressure for Daily Oral Care",
+      "brand": "Onlyone",
+      "price": 19.9,
+      "salesParent": 37884,
+      "revenue": 834205.69,
+      "rating": 4.5,
+      "reviews": 10397
+    },
+    {
+      "rank": 7,
+      "asin": "B08WSTTCMG",
+      "title": "Waterpik Sonic-Fusion Flossing Electric Toothbrush Water Flosser, White",
+      "brand": "Waterpik",
+      "price": 179.99,
+      "salesParent": 4461,
+      "revenue": 812169.62,
+      "rating": 4.4,
+      "reviews": 19563
+    },
+    {
+      "rank": 8,
+      "asin": "B0GFH1VT2G",
+      "title": "Waterpik Promax Countertop Water Flosser, SmartAdvance, 10 Settings, 5 Tips",
+      "brand": "Waterpik",
+      "price": 119.99,
+      "salesParent": 5266,
+      "revenue": 708592.94,
+      "rating": 4.4,
+      "reviews": 676
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -17,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -17,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 28579923,
+    "priorHeadRevenue": 34266646,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 97,
+      "newCount": 44,
+      "pct": 45,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 85,
+      "brandCount": 40,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.3,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B00HFQQ0VU",
+        "title": "Waterpik Aquarius Countertop Water Flosser with 10 Settings, 7 Tips, White",
+        "rating": 4.6,
+        "reviews": 158814
+      },
+      {
+        "rank": 2,
+        "asin": "B01GNVF8S8",
+        "title": "Waterpik Cordless Advanced Portable Water Flosser, Rechargeable, White",
+        "rating": 4.2,
+        "reviews": 78730
+      },
+      {
+        "rank": 3,
+        "asin": "B0BG52SJ5N",
+        "title": "COSLUS ADA Accepted C20 Water Dental Flosser Pick, Professional Set Black",
+        "rating": 4.4,
+        "reviews": 55126
+      },
+      {
+        "rank": 4,
+        "asin": "B0CNTRVZPW",
+        "title": "Waterpik Cordless Pulse 3100 Portable Water Flosser, Rechargeable, White",
+        "rating": 4.2,
+        "reviews": 15576
+      },
+      {
+        "rank": 5,
+        "asin": "B0GQXDBFRN",
+        "title": "Waterpik Cordless Gem 5100 Portable Water Flosser, Rechargeable, White",
+        "rating": 4.1,
+        "reviews": 461
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:10079992011:13213824011:13213826011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

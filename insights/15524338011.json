@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "15524338011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Household Supplies > Household Cleaning > Disinfectant Wipes",
+  "categoryPathCn": "健康与家居 > 家居用品 > 家庭清洁剂 > 消毒液",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 98,
+    "totalRevenue": 249337462,
+    "avgRevenue": 2544260,
+    "medianPrice": 18.99,
+    "priceBand": "$12.76 - $32.95",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0C4Z3CN9Q",
+      "title": "Amazon Basics Disinfecting Wipes, Fresh Scent, Sanitizes, Cleans, Disinfects, Deodorizes, 85 Count: Pallet of 480 (80 x 6-Pack), Packaging May Vary",
+      "brand": "Amazon Basics",
+      "price": 1854.28,
+      "salesParent": 131641,
+      "revenue": 232196288.0,
+      "rating": 4.7,
+      "reviews": 97784
+    },
+    {
+      "rank": 2,
+      "asin": "B00GRUK048",
+      "title": "Lysol Disinfectant Wipes, Multi-Surface Antibacterial Cleaning Wipes, Dorm Room Essentials for Disinfecting and Cleaning, Early Morning Breeze, 80 Count (Pack of 6)",
+      "brand": "Lysol",
+      "price": 37.71,
+      "salesParent": 75906,
+      "revenue": 2862415.25,
+      "rating": 4.8,
+      "reviews": 37379
+    },
+    {
+      "rank": 3,
+      "asin": "B0G3RGV4KR",
+      "title": "Lysol Disinfecting Wipes, Multi-Surface, Lavender + Mango, 80 ct. (4 Pack)",
+      "brand": "Lysol",
+      "price": 17.84,
+      "salesParent": 101591,
+      "revenue": 2221795.25,
+      "rating": 4.7,
+      "reviews": 2891
+    },
+    {
+      "rank": 4,
+      "asin": "B00HSC9F2C",
+      "title": "Clorox Disinfecting Wipes Variety Pack Bleach Free 75 Count 3 Pack",
+      "brand": "Clorox",
+      "price": 12.78,
+      "salesParent": 138017,
+      "revenue": 1744534.88,
+      "rating": 4.8,
+      "reviews": 122376
+    },
+    {
+      "rank": 5,
+      "asin": "B0HM6Y45XD",
+      "title": "Amazon Basics Disinfecting Wipes, Lemon Scent, for Sanitizing, Cleaning &amp; Deodorizing, Packaging May Vary, 85 Count (Pack of 12)",
+      "brand": "Amazon Brand - Solimo",
+      "price": 42.8,
+      "salesParent": 37977,
+      "revenue": 1625415.62,
+      "rating": 4.7,
+      "reviews": 2551
+    },
+    {
+      "rank": 6,
+      "asin": "B0GXCDWQFG",
+      "title": "Clorox Disinfecting Wipes Variety Bundle, 2 Crisp Lemon &amp; 2 Cherry Blossom, 300 Total Wipes",
+      "brand": "Clorox",
+      "price": 21.02,
+      "salesParent": 45129,
+      "revenue": 948611.62,
+      "rating": 5.0,
+      "reviews": 4
+    },
+    {
+      "rank": 7,
+      "asin": "B00Q70RCW6",
+      "title": "Lysol Disinfecting Wipes, Multi-Surface Cleaner, Lemon, 80 ct. (4 Pack)",
+      "brand": "Lysol",
+      "price": 14.97,
+      "salesParent": 61417,
+      "revenue": 918184.12,
+      "rating": 4.8,
+      "reviews": 91953
+    },
+    {
+      "rank": 8,
+      "asin": "B08R17N9VV",
+      "title": "Amazon Basics Disinfecting Wipes, Lemon &amp; Fresh Scent, Sanitizes, Cleans, Disinfects, Deodorizes, 340 Count (4 Packs of 85), Packaging May Vary",
+      "brand": "Amazon Basics",
+      "price": 12.72,
+      "salesParent": 46307,
+      "revenue": 604306.38,
+      "rating": 4.7,
+      "reviews": 17294
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": null,
+    "direction": "flat",
+    "comparable": false,
+    "rawYoyPct": 1453,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 249337462,
+    "priorHeadRevenue": 16050136,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 98,
+      "newCount": 13,
+      "pct": 13,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 99,
+      "brandCount": 37,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.63,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0C4Z3CN9Q",
+        "title": "Amazon Basics Disinfecting Wipes, Fresh Scent, Sanitizes, Cleans, Disinfects, Deodorizes, 85 Count: Pallet of 480 (80 x 6-Pack), Packaging May Vary",
+        "rating": 4.7,
+        "reviews": 97784
+      },
+      {
+        "rank": 2,
+        "asin": "B00GRUK048",
+        "title": "Lysol Disinfectant Wipes, Multi-Surface Antibacterial Cleaning Wipes, Dorm Room Essentials for Disinfecting and Cleaning, Early Morning Breeze, 80 Count (Pack of 6)",
+        "rating": 4.8,
+        "reviews": 37379
+      },
+      {
+        "rank": 3,
+        "asin": "B0G3RGV4KR",
+        "title": "Lysol Disinfecting Wipes, Multi-Surface, Lavender + Mango, 80 ct. (4 Pack)",
+        "rating": 4.7,
+        "reviews": 2891
+      },
+      {
+        "rank": 4,
+        "asin": "B00HSC9F2C",
+        "title": "Clorox Disinfecting Wipes Variety Pack Bleach Free 75 Count 3 Pack",
+        "rating": 4.8,
+        "reviews": 122376
+      },
+      {
+        "rank": 5,
+        "asin": "B0HM6Y45XD",
+        "title": "Amazon Basics Disinfecting Wipes, Lemon Scent, for Sanitizing, Cleaning &amp; Deodorizing, Packaging May Vary, 85 Count (Pack of 12)",
+        "rating": 4.7,
+        "reviews": 2551
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:15342811:15342821:15524338011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

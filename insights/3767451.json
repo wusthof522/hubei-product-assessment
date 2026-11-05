@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3767451",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins, Minerals & Supplements > Herbal Supplements > Yohimbe",
+  "categoryPathCn": "健康与家居 > 身、泳和附剂 > 草本补充 > 育亨宾",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "insufficient",
+  "marketSize": {
+    "sampleCount": 18,
+    "totalRevenue": 144372,
+    "avgRevenue": 8021,
+    "medianPrice": 14.95,
+    "priceBand": "$12.73 - $21.67",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B01J4EVPMO",
+      "title": "Nutricost Yohimbine HCl 5mg, 120 Capsules - Gluten Free and Non-GMO",
+      "brand": "Nutricost",
+      "price": 11.95,
+      "salesParent": 4763,
+      "revenue": 56917.85,
+      "rating": 4.4,
+      "reviews": 9723
+    },
+    {
+      "rank": 2,
+      "asin": "B079Y8BFBD",
+      "title": "PrimaForce Yohimbine HCl (2.5mg) 270 Capsules, Gluten-Free",
+      "brand": "Primaforce",
+      "price": 21.5,
+      "salesParent": 1387,
+      "revenue": 29820.5,
+      "rating": 4.4,
+      "reviews": 3220
+    },
+    {
+      "rank": 3,
+      "asin": "B010OOAMTA",
+      "title": "Yellow Hornet Herbal Dietary Supplement 20ct (Lot of 6 X) = 120 Capsules",
+      "brand": "STACKER 2",
+      "price": 22.19,
+      "salesParent": 445,
+      "revenue": 9852.3,
+      "rating": 4.5,
+      "reviews": 446
+    },
+    {
+      "rank": 4,
+      "asin": "B002A04ILK",
+      "title": "GNC Men's Yohimbe 451 Supplement, Pure Extract, 60 Capsules",
+      "brand": "GNC",
+      "price": 29.98,
+      "salesParent": 243,
+      "revenue": 7285.14,
+      "rating": 4.2,
+      "reviews": 774
+    },
+    {
+      "rank": 5,
+      "asin": "B0BYFF8ZV1",
+      "title": "Healthfare Yohimbine HCL 10mg | 240 Vegan Capsules | Maximum Strength Formula | Non-GMO &amp; Gluten-Free | Made in USA",
+      "brand": "Healthfare",
+      "price": 14.95,
+      "salesParent": 401,
+      "revenue": 5994.95,
+      "rating": 4.3,
+      "reviews": 332
+    },
+    {
+      "rank": 6,
+      "asin": "B082RKD6SY",
+      "title": "Jacked Factory Yohimbine Extra Strength Supplement, 270 Capsules - Premium Yohimbe Bark Extract for Experienced Users - Body Recomposition, Energy &amp; More - Zero Fillers - 270 Veggie Capsule Pills",
+      "brand": "Jacked Factory",
+      "price": 17.99,
+      "salesParent": 279,
+      "revenue": 5019.21,
+      "rating": 4.2,
+      "reviews": 4864
+    },
+    {
+      "rank": 7,
+      "asin": "B07NSJ8Z8V",
+      "title": "Horbäach Yohimbe Bark Liquid Extract | 2 Fl Oz",
+      "brand": "Horbäach",
+      "price": 16.49,
+      "salesParent": 273,
+      "revenue": 4501.77,
+      "rating": 4.0,
+      "reviews": 1186
+    },
+    {
+      "rank": 8,
+      "asin": "B0DK473WVK",
+      "title": "Wild &amp; Organic Yohimbe Supplements for Men &amp; Women - 5 mg Yohimbine - 4 oz",
+      "brand": "Wild &amp; Organic",
+      "price": 28.49,
+      "salesParent": 138,
+      "revenue": 3931.62,
+      "rating": 4.2,
+      "reviews": 215
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": null,
+    "direction": "flat",
+    "comparable": null,
+    "rawYoyPct": 9,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 144372,
+    "priorHeadRevenue": 131959,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 18,
+      "newCount": 0,
+      "pct": 0,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 79,
+      "brandCount": 15,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.17,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B01J4EVPMO",
+        "title": "Nutricost Yohimbine HCl 5mg, 120 Capsules - Gluten Free and Non-GMO",
+        "rating": 4.4,
+        "reviews": 9723
+      },
+      {
+        "rank": 2,
+        "asin": "B079Y8BFBD",
+        "title": "PrimaForce Yohimbine HCl (2.5mg) 270 Capsules, Gluten-Free",
+        "rating": 4.4,
+        "reviews": 3220
+      },
+      {
+        "rank": 3,
+        "asin": "B010OOAMTA",
+        "title": "Yellow Hornet Herbal Dietary Supplement 20ct (Lot of 6 X) = 120 Capsules",
+        "rating": 4.5,
+        "reviews": 446
+      },
+      {
+        "rank": 4,
+        "asin": "B002A04ILK",
+        "title": "GNC Men's Yohimbe 451 Supplement, Pure Extract, 60 Capsules",
+        "rating": 4.2,
+        "reviews": 774
+      },
+      {
+        "rank": 5,
+        "asin": "B0BYFF8ZV1",
+        "title": "Healthfare Yohimbine HCL 10mg | 240 Vegan Capsules | Maximum Strength Formula | Non-GMO &amp; Gluten-Free | Made in USA",
+        "rating": 4.3,
+        "reviews": 332
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:23675621011:3764461:3767451",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "256409011",
+  "level": "L2",
+  "categoryPathEn": "Industrial & Scientific > Test, Measure & Inspect",
+  "categoryPathCn": "工业类 > 测试，测量",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 17416386,
+    "avgRevenue": 175923,
+    "medianPrice": 159.0,
+    "priceBand": "$59.85 - $457.01",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0F29969G1",
+      "title": "TOPDON TC004 Mini Thermal Imaging Camera, 240 x 240 TISR Resolution",
+      "brand": "TOPDON",
+      "price": 159.0,
+      "salesParent": 4043,
+      "revenue": 642796.56,
+      "rating": 4.4,
+      "reviews": 1103
+    },
+    {
+      "rank": 2,
+      "asin": "B0CJY5C9QX",
+      "title": "Teslong Articulating Borescope for Mechanic Automotive HVAC Wall Inspection",
+      "brand": "Teslong",
+      "price": 129.99,
+      "salesParent": 4289,
+      "revenue": 557527.12,
+      "rating": 4.6,
+      "reviews": 2108
+    },
+    {
+      "rank": 3,
+      "asin": "B097YW5Q72",
+      "title": "Airthings 2960 View Plus - Battery Powered Radon &amp; Air Quality Monitor (PM, CO2, VOC, Humidity, Temp, Pressure)",
+      "brand": "Airthings",
+      "price": 329.99,
+      "salesParent": 1459,
+      "revenue": 481178.19,
+      "rating": 4.0,
+      "reviews": 1988
+    },
+    {
+      "rank": 4,
+      "asin": "B091FXSL4P",
+      "title": "Fluke Networks LIQ-KIT LinkIQ Cable + Network Tester Kit",
+      "brand": "Fluke Networks",
+      "price": 3056.36,
+      "salesParent": 117,
+      "revenue": 354796.66,
+      "rating": 4.6,
+      "reviews": 111
+    },
+    {
+      "rank": 5,
+      "asin": "B0GXKL2PXD",
+      "title": "TD2e Acoustic Imaging Camera,64 MEMS Digital Microphones,Acoustic Imager for Compressed Air Leaks, Vacuum Leaks, Vibration Problems Detection,2k~100kHz Frequency Range, 3.5&quot; Touch Screen,5MP",
+      "brand": "FOTRIC",
+      "price": 799.0,
+      "salesParent": 439,
+      "revenue": 350761.0,
+      "rating": 4.2,
+      "reviews": 53
+    },
+    {
+      "rank": 6,
+      "asin": "B0B71HFH9K",
+      "title": "Etekcity Infrared Thermometer Laser Temperature Gun 774",
+      "brand": "Etekcity",
+      "price": 16.99,
+      "salesParent": 18983,
+      "revenue": 342263.5,
+      "rating": 4.6,
+      "reviews": 48904
+    },
+    {
+      "rank": 7,
+      "asin": "B0892MZZT1",
+      "title": "Flir C5 Compact Thermal Imaging Camera, WiFi, 160x120 MSX, Ignite",
+      "brand": "FLIR",
+      "price": 649.0,
+      "salesParent": 519,
+      "revenue": 332336.47,
+      "rating": 4.3,
+      "reviews": 1058
+    },
+    {
+      "rank": 8,
+      "asin": "B091FXL53D",
+      "title": "Fluke Networks LIQ-100 LinkIQ Cable + Network Tester",
+      "brand": "Fluke Networks",
+      "price": 2539.02,
+      "salesParent": 130,
+      "revenue": 325661.72,
+      "rating": 4.4,
+      "reviews": 97
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 7,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 7,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 17416386,
+    "priorHeadRevenue": 16289676,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 29,
+      "pct": 29,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 35,
+      "brandCount": 59,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.48,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0F29969G1",
+        "title": "TOPDON TC004 Mini Thermal Imaging Camera, 240 x 240 TISR Resolution",
+        "rating": 4.4,
+        "reviews": 1103
+      },
+      {
+        "rank": 2,
+        "asin": "B0CJY5C9QX",
+        "title": "Teslong Articulating Borescope for Mechanic Automotive HVAC Wall Inspection",
+        "rating": 4.6,
+        "reviews": 2108
+      },
+      {
+        "rank": 3,
+        "asin": "B097YW5Q72",
+        "title": "Airthings 2960 View Plus - Battery Powered Radon &amp; Air Quality Monitor (PM, CO2, VOC, Humidity, Temp, Pressure)",
+        "rating": 4.0,
+        "reviews": 1988
+      },
+      {
+        "rank": 4,
+        "asin": "B091FXSL4P",
+        "title": "Fluke Networks LIQ-KIT LinkIQ Cable + Network Tester Kit",
+        "rating": 4.6,
+        "reviews": 111
+      },
+      {
+        "rank": 5,
+        "asin": "B0GXKL2PXD",
+        "title": "TD2e Acoustic Imaging Camera,64 MEMS Digital Microphones,Acoustic Imager for Compressed Air Leaks, Vacuum Leaks, Vibration Problems Detection,2k~100kHz Frequency Range, 3.5&quot; Touch Screen,5MP",
+        "rating": 4.2,
+        "reviews": 53
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "16310091:256409011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3777801",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Sexual Wellness > Adult Toys & Games > Sex Games",
+  "categoryPathCn": "健康与家居 > 性健康 > 成人玩具和游戏 > 情趣游戏用具",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "insufficient",
+  "marketSize": {
+    "sampleCount": 11,
+    "totalRevenue": 9498,
+    "avgRevenue": 863,
+    "medianPrice": 9.99,
+    "priceBand": "$8.06 - $15.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0G44D81QP",
+      "title": "SPICY &amp; DICEY – Adult Couples Date Night Game with 210 Cards and Dice Set",
+      "brand": "aesthec",
+      "price": 22.69,
+      "salesParent": 347,
+      "revenue": 8487.62,
+      "rating": 4.1,
+      "reviews": 14
+    },
+    {
+      "rank": 2,
+      "asin": "B0CCNJ8FQY",
+      "title": "Santa Swap Gift Exchange Dice Christmas Exchange Dice Game Couple Food Dice",
+      "brand": "FOOZDEEVAAQ",
+      "price": 8.06,
+      "salesParent": 76,
+      "revenue": 661.96,
+      "rating": 4.6,
+      "reviews": 371
+    },
+    {
+      "rank": 3,
+      "asin": "B0GC6WY864",
+      "title": "Romantic Naughty Dice Set for Couple, Date Night Dice for Couples Valentine's Day Gift, Acrylic Position Decision Dice Glow in the Dark (Glow Dice 4)",
+      "brand": "Lalamingo",
+      "price": 6.99,
+      "salesParent": 35,
+      "revenue": 244.65,
+      "rating": 4.5,
+      "reviews": 47
+    },
+    {
+      "rank": 4,
+      "asin": "B0D7Q1475N",
+      "title": "The Hottest 54 Positions Games Cards - Couples Games Cards Adults Spicy Playing Cards Sex Games for Date Night Funny Naughty Boyfriend Friend Gifts for Husband or Wife Position Decision Sex Toy",
+      "brand": "Lalamingo",
+      "price": 8.39,
+      "salesParent": 10,
+      "revenue": 83.9,
+      "rating": 4.2,
+      "reviews": 320
+    },
+    {
+      "rank": 5,
+      "asin": "B0HF8TM37Q",
+      "title": "Sex Positions Games Cards for Couples, Adults Sex Game Gifts for Date Night",
+      "brand": "BikiFizz",
+      "price": 9.99,
+      "salesParent": 2,
+      "revenue": 19.98,
+      "rating": 5.0,
+      "reviews": 3
+    },
+    {
+      "rank": 6,
+      "asin": "B0F4MVVFM9",
+      "title": "LWMUQUK fairypitta Lust Tower Game- 48Pcs Super Naughty Block Tower for Couples Adults, Valentine Tumbling Tower Stacking Couple Games, Wooden Date Night Tower Games Night Party Game",
+      "brand": "fairypitta",
+      "price": 15.99,
+      "salesParent": 0,
+      "revenue": 0.0,
+      "rating": 4.3,
+      "reviews": 33
+    },
+    {
+      "rank": 7,
+      "asin": "B0DQ7ZXW6J",
+      "title": "oyeftp Funny Couple Position Selector, Fun Night Dating Decision",
+      "brand": "oyeftp",
+      "price": 5.99,
+      "salesParent": 0,
+      "revenue": 0.0,
+      "rating": 4.1,
+      "reviews": 83
+    },
+    {
+      "rank": 8,
+      "asin": "B0G39LBC4L",
+      "title": "Cryptic Killers Unsolved Murder Mystery Game - Cold Case Files Investigation Detective Evidence &amp; Crime File - Individuals, Date Nights &amp; Party Games- Murder in Medieval Britain",
+      "brand": "Cryptic Killers",
+      "price": 19.99,
+      "salesParent": 0,
+      "revenue": 0.0,
+      "rating": 4.7,
+      "reviews": 20
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": null,
+    "direction": "flat",
+    "comparable": null,
+    "rawYoyPct": 36,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 9498,
+    "priorHeadRevenue": 6960,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 11,
+      "newCount": 7,
+      "pct": 64,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 100,
+      "brandCount": 7,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.5,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0G44D81QP",
+        "title": "SPICY &amp; DICEY – Adult Couples Date Night Game with 210 Cards and Dice Set",
+        "rating": 4.1,
+        "reviews": 14
+      },
+      {
+        "rank": 2,
+        "asin": "B0CCNJ8FQY",
+        "title": "Santa Swap Gift Exchange Dice Christmas Exchange Dice Game Couple Food Dice",
+        "rating": 4.6,
+        "reviews": 371
+      },
+      {
+        "rank": 3,
+        "asin": "B0GC6WY864",
+        "title": "Romantic Naughty Dice Set for Couple, Date Night Dice for Couples Valentine's Day Gift, Acrylic Position Decision Dice Glow in the Dark (Glow Dice 4)",
+        "rating": 4.5,
+        "reviews": 47
+      },
+      {
+        "rank": 4,
+        "asin": "B0D7Q1475N",
+        "title": "The Hottest 54 Positions Games Cards - Couples Games Cards Adults Spicy Playing Cards Sex Games for Date Night Funny Naughty Boyfriend Friend Gifts for Husband or Wife Position Decision Sex Toy",
+        "rating": 4.2,
+        "reviews": 320
+      },
+      {
+        "rank": 5,
+        "asin": "B0HF8TM37Q",
+        "title": "Sex Positions Games Cards for Couples, Adults Sex Game Gifts for Date Night",
+        "rating": 5.0,
+        "reviews": 3
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3777371:3777781:3777801",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

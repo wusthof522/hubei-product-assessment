@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3386071",
+  "level": "L2",
+  "categoryPathEn": "Sports & Outdoors > Fan Shop",
+  "categoryPathCn": "运动与户外 > 粉丝专卖店",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 98,
+    "totalRevenue": 15993949,
+    "avgRevenue": 163204,
+    "medianPrice": 34.99,
+    "priceBand": "$25.7 - $49.95",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B003L9GQ4G",
+      "title": "Franklin Sports NFL Kids Football Uniform Costume - Helmet, Jersey + Pants",
+      "brand": "Franklin Sports",
+      "price": 59.99,
+      "salesParent": 19415,
+      "revenue": 1037149.0,
+      "rating": 4.6,
+      "reviews": 15650
+    },
+    {
+      "rank": 2,
+      "asin": "B0G59P5QCJ",
+      "title": "Top Cup NFL Philadelphia Eagles Aluminum Party Cups, 20oz, 20 Count",
+      "brand": "Top Cup",
+      "price": 26.99,
+      "salesParent": 22254,
+      "revenue": 600635.44,
+      "rating": 4.6,
+      "reviews": 1386
+    },
+    {
+      "rank": 3,
+      "asin": "B0DJWMR6YX",
+      "title": "adidas FIFA World Cup 26™ Trionda Soccer Ball",
+      "brand": "adidas",
+      "price": 18.0,
+      "salesParent": 27712,
+      "revenue": 562276.5,
+      "rating": 4.4,
+      "reviews": 3242
+    },
+    {
+      "rank": 4,
+      "asin": "B0HG1YCSKY",
+      "title": "2026 Topps NFL Holiday Football - Factory Sealed - Mega Box",
+      "brand": "Topps",
+      "price": 47.75,
+      "salesParent": 10229,
+      "revenue": 446291.28,
+      "rating": 3.6,
+      "reviews": 47
+    },
+    {
+      "rank": 5,
+      "asin": "B091MMRXCK",
+      "title": "WILSON NBA DRV Series Outdoor Basketballs",
+      "brand": "WILSON",
+      "price": 9.54,
+      "salesParent": 36172,
+      "revenue": 426467.88,
+      "rating": 4.6,
+      "reviews": 11347
+    },
+    {
+      "rank": 6,
+      "asin": "B0C4QZCB13",
+      "title": "Ultra Game Men's NFL Premium Quality Ultra-Soft Quarter Zip Athletic Shirt",
+      "brand": "Ultra Game",
+      "price": 39.99,
+      "salesParent": 9101,
+      "revenue": 359489.5,
+      "rating": 4.6,
+      "reviews": 4198
+    },
+    {
+      "rank": 7,
+      "asin": "B09JXTB3M9",
+      "title": "NFL Football Gameday Fleece Hoodie Pullover Sweatshirt for Men and Women",
+      "brand": "Team Fan Apparel",
+      "price": 59.95,
+      "salesParent": 5535,
+      "revenue": 331823.25,
+      "rating": 4.6,
+      "reviews": 9747
+    },
+    {
+      "rank": 8,
+      "asin": "B09VB7SL4P",
+      "title": "Junk Food NFL - Bold Logo Adult SS T-Shirt",
+      "brand": "Junk Food",
+      "price": 24.71,
+      "salesParent": 11876,
+      "revenue": 311388.72,
+      "rating": 4.6,
+      "reviews": 7262
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 28,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 28,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 15993949,
+    "priorHeadRevenue": 12454577,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 98,
+      "newCount": 15,
+      "pct": 15,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 44,
+      "brandCount": 42,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.59,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B003L9GQ4G",
+        "title": "Franklin Sports NFL Kids Football Uniform Costume - Helmet, Jersey + Pants",
+        "rating": 4.6,
+        "reviews": 15650
+      },
+      {
+        "rank": 2,
+        "asin": "B0G59P5QCJ",
+        "title": "Top Cup NFL Philadelphia Eagles Aluminum Party Cups, 20oz, 20 Count",
+        "rating": 4.6,
+        "reviews": 1386
+      },
+      {
+        "rank": 3,
+        "asin": "B0DJWMR6YX",
+        "title": "adidas FIFA World Cup 26™ Trionda Soccer Ball",
+        "rating": 4.4,
+        "reviews": 3242
+      },
+      {
+        "rank": 4,
+        "asin": "B0HG1YCSKY",
+        "title": "2026 Topps NFL Holiday Football - Factory Sealed - Mega Box",
+        "rating": 3.6,
+        "reviews": 47
+      },
+      {
+        "rank": 5,
+        "asin": "B091MMRXCK",
+        "title": "WILSON NBA DRV Series Outdoor Basketballs",
+        "rating": 4.6,
+        "reviews": 11347
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3375251:3386071",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

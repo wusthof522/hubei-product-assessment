@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "511228",
+  "level": "L2",
+  "categoryPathEn": "Tools & Home Improvement > Hardware",
+  "categoryPathCn": "工具 > 硬件设施",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 95,
+    "totalRevenue": 38499260,
+    "avgRevenue": 405255,
+    "medianPrice": 79.45,
+    "priceBand": "$31.97 - $169.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B09RS6C1SJ",
+      "title": "Schlage Encode Plus Smart WiFi Deadbolt Lock, Tap to Unlock, Matte Black",
+      "brand": "SCHLAGE",
+      "price": 329.0,
+      "salesParent": 9563,
+      "revenue": 3085119.25,
+      "rating": 3.7,
+      "reviews": 1232
+    },
+    {
+      "rank": 2,
+      "asin": "B07HXMLCBT",
+      "title": "Schlage Encode Smart WiFi Deadbolt Lock with Century Trim, Matte Black",
+      "brand": "SCHLAGE",
+      "price": 229.0,
+      "salesParent": 12429,
+      "revenue": 2846241.0,
+      "rating": 4.3,
+      "reviews": 16719
+    },
+    {
+      "rank": 3,
+      "asin": "B0FRS6T6HL",
+      "title": "Aqara UWB Smart Lock U400, Apple Home Key, Fingerprint Deadbolt, Black",
+      "brand": "Aqara",
+      "price": 269.99,
+      "salesParent": 3720,
+      "revenue": 989445.62,
+      "rating": 4.1,
+      "reviews": 460
+    },
+    {
+      "rank": 4,
+      "asin": "B0F61WG9F2",
+      "title": "Philips WiFi Keypad Deadbolt with Handle, Built-in WiFi, APP Remote Control",
+      "brand": "PHILIPS",
+      "price": 169.99,
+      "salesParent": 6302,
+      "revenue": 948135.88,
+      "rating": 4.4,
+      "reviews": 923
+    },
+    {
+      "rank": 5,
+      "asin": "B0942BQ81N",
+      "title": "Rhino USA Retractable Ratchet Straps (4-Pack) - 1in x 10ft, Black",
+      "brand": "Rhino USA",
+      "price": 79.9,
+      "salesParent": 11240,
+      "revenue": 898076.0,
+      "rating": 4.6,
+      "reviews": 9914
+    },
+    {
+      "rank": 6,
+      "asin": "B000NJDRDA",
+      "title": "Schlage Electronic Keypad Deadbolt Lock, Camelot Trim, Aged Bronze",
+      "brand": "SCHLAGE",
+      "price": 116.99,
+      "salesParent": 6701,
+      "revenue": 796078.81,
+      "rating": 4.3,
+      "reviews": 19467
+    },
+    {
+      "rank": 7,
+      "asin": "B0B4F5PXW1",
+      "title": "Command 15 &amp; 10 lb Assorted Picture Hanging Strips, 28 Pairs, SIOC",
+      "brand": "Command",
+      "price": 13.99,
+      "salesParent": 51418,
+      "revenue": 719337.81,
+      "rating": 4.5,
+      "reviews": 58535
+    },
+    {
+      "rank": 8,
+      "asin": "B0DTHMFMKP",
+      "title": "eufy Security Video Smart Lock FamiLock S3 Max with Palm Vein Recognition",
+      "brand": "eufy Security",
+      "price": 299.99,
+      "salesParent": 2062,
+      "revenue": 689842.06,
+      "rating": 4.2,
+      "reviews": 629
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 6,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 6,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 38499260,
+    "priorHeadRevenue": 36179334,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 95,
+      "newCount": 17,
+      "pct": 18,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 43,
+      "brandCount": 62,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.39,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B09RS6C1SJ",
+        "title": "Schlage Encode Plus Smart WiFi Deadbolt Lock, Tap to Unlock, Matte Black",
+        "rating": 3.7,
+        "reviews": 1232
+      },
+      {
+        "rank": 2,
+        "asin": "B07HXMLCBT",
+        "title": "Schlage Encode Smart WiFi Deadbolt Lock with Century Trim, Matte Black",
+        "rating": 4.3,
+        "reviews": 16719
+      },
+      {
+        "rank": 3,
+        "asin": "B0FRS6T6HL",
+        "title": "Aqara UWB Smart Lock U400, Apple Home Key, Fingerprint Deadbolt, Black",
+        "rating": 4.1,
+        "reviews": 460
+      },
+      {
+        "rank": 4,
+        "asin": "B0F61WG9F2",
+        "title": "Philips WiFi Keypad Deadbolt with Handle, Built-in WiFi, APP Remote Control",
+        "rating": 4.4,
+        "reviews": 923
+      },
+      {
+        "rank": 5,
+        "asin": "B0942BQ81N",
+        "title": "Rhino USA Retractable Ratchet Straps (4-Pack) - 1in x 10ft, Black",
+        "rating": 4.6,
+        "reviews": 9914
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "228013:511228",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

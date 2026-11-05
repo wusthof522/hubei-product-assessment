@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "7427876011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Games & Accessories > Casino Equipment > Craps Equipment",
+  "categoryPathCn": "玩具与游戏 > 游戏和配件 > 赌场设备 > 骰子设备",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 62,
+    "totalRevenue": 110374,
+    "avgRevenue": 1780,
+    "medianPrice": 56.99,
+    "priceBand": "$34.99 - $134.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0FDK9TSR8",
+      "title": "Craps Tabletop Game Set with 35 * 70&quot; Tabletop Mat Strategy Card",
+      "brand": "Proshine",
+      "price": 129.99,
+      "salesParent": 136,
+      "revenue": 18256.64,
+      "rating": 4.6,
+      "reviews": 59
+    },
+    {
+      "rank": 2,
+      "asin": "B0CG93DFRD",
+      "title": "Crap Table 93 inches with Diamond Pyramid Bumper Rubber Green",
+      "brand": "INO Design",
+      "price": 2099.0,
+      "salesParent": 8,
+      "revenue": 17121.44,
+      "rating": 5.0,
+      "reviews": 1
+    },
+    {
+      "rank": 3,
+      "asin": "B0F894R5BN",
+      "title": "Craps Mat 70&quot; x 35&quot; Craps Table Top Set Craps Table Mat",
+      "brand": "iEsstros",
+      "price": 75.99,
+      "salesParent": 109,
+      "revenue": 8282.91,
+      "rating": 4.9,
+      "reviews": 95
+    },
+    {
+      "rank": 4,
+      "asin": "B07QWMCYSB",
+      "title": "Brybelly Casino Night 4-in-1 Complete Game Set with Felts, Wheel, 100 Chips, Dice &amp; Cards for Blackjack, Craps, Roulette &amp; Texas Hold'em - Green Felt Double Sided Casino Tabletop Gaming Mat",
+      "brand": "Brybelly",
+      "price": 49.99,
+      "salesParent": 139,
+      "revenue": 6948.61,
+      "rating": 4.4,
+      "reviews": 1215
+    },
+    {
+      "rank": 5,
+      "asin": "B0FPX4HL8Z",
+      "title": "NEWTRY Craps Game Set with Tabletop Layout &amp; Rubber Diamond Pyramid Bumper",
+      "brand": "NEWTRY",
+      "price": 129.99,
+      "salesParent": 49,
+      "revenue": 6369.51,
+      "rating": 4.7,
+      "reviews": 16
+    },
+    {
+      "rank": 6,
+      "asin": "B07Z9LWWX5",
+      "title": "New 3.0 Craps Mat Home Party Game - Featuring Universal Side Bet Options - Lightweight Portable Tabletop Craps Game with Strong Foam Walls",
+      "brand": "Casino Dealer Mats",
+      "price": 149.0,
+      "salesParent": 34,
+      "revenue": 5066.0,
+      "rating": 4.6,
+      "reviews": 172
+    },
+    {
+      "rank": 7,
+      "asin": "B0FK52Z7C4",
+      "title": "Lunmon Craps Tabletop Game Set with 35x70 Rubber Tabletop Layout Mat",
+      "brand": "Lunmon",
+      "price": 139.99,
+      "salesParent": 33,
+      "revenue": 4619.67,
+      "rating": 4.8,
+      "reviews": 10
+    },
+    {
+      "rank": 8,
+      "asin": "B07BS5XGCZ",
+      "title": "Craps Diamond Pyramid Rubber Bumper - Craps Table Top Set Felt Mat Wall,48&quot;x11&quot;Dark Green Backboard,Great for Casinos Crap Dice Games and Poker Nights",
+      "brand": "YH Poker",
+      "price": 56.99,
+      "salesParent": 74,
+      "revenue": 4217.26,
+      "rating": 4.8,
+      "reviews": 317
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -5,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -5,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 110374,
+    "priorHeadRevenue": 116380,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 62,
+      "newCount": 18,
+      "pct": 29,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 56,
+      "brandCount": 29,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.38,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0FDK9TSR8",
+        "title": "Craps Tabletop Game Set with 35 * 70&quot; Tabletop Mat Strategy Card",
+        "rating": 4.6,
+        "reviews": 59
+      },
+      {
+        "rank": 2,
+        "asin": "B0CG93DFRD",
+        "title": "Crap Table 93 inches with Diamond Pyramid Bumper Rubber Green",
+        "rating": 5.0,
+        "reviews": 1
+      },
+      {
+        "rank": 3,
+        "asin": "B0F894R5BN",
+        "title": "Craps Mat 70&quot; x 35&quot; Craps Table Top Set Craps Table Mat",
+        "rating": 4.9,
+        "reviews": 95
+      },
+      {
+        "rank": 4,
+        "asin": "B07QWMCYSB",
+        "title": "Brybelly Casino Night 4-in-1 Complete Game Set with Felts, Wheel, 100 Chips, Dice &amp; Cards for Blackjack, Craps, Roulette &amp; Texas Hold'em - Green Felt Double Sided Casino Tabletop Gaming Mat",
+        "rating": 4.4,
+        "reviews": 1215
+      },
+      {
+        "rank": 5,
+        "asin": "B0FPX4HL8Z",
+        "title": "NEWTRY Craps Game Set with Tabletop Layout &amp; Rubber Diamond Pyramid Bumper",
+        "rating": 4.7,
+        "reviews": 16
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166220011:13291101:7427876011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

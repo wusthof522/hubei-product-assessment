@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "6973705011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Diet & Sports Nutrition > Nutrition Bars & Drinks > Nutrition Bars > Protein Bars",
+  "categoryPathCn": "健康与家居 > 暮和喜欢 > 营养棒和饮料 > 营养棒 > 蛋白质棒",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 98,
+    "totalRevenue": 56126750,
+    "avgRevenue": 572722,
+    "medianPrice": 25.04,
+    "priceBand": "$20.86 - $34.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B09421W1D3",
+      "title": "Barebells Salty Peanut Protein Bars, 12 Count,Pack of 2-20g Protein, 1g Sugar Snack Bars…",
+      "brand": "BAREBELLS",
+      "price": 67.69,
+      "salesParent": 81755,
+      "revenue": 5507834.5,
+      "rating": 4.2,
+      "reviews": 71
+    },
+    {
+      "rank": 2,
+      "asin": "B07J2MM23Z",
+      "title": "Quest Nutrition Ultimate Variety Pack Protein Bars, High Protein, Low Carb, Gluten Free, Keto Friendly, 12 Count",
+      "brand": "Quest",
+      "price": 26.49,
+      "salesParent": 200279,
+      "revenue": 5235293.0,
+      "rating": 4.3,
+      "reviews": 11799
+    },
+    {
+      "rank": 3,
+      "asin": "B08K96RLMP",
+      "title": "Barebells Protein Bars Hazelnut &amp; Nougat - 12 Count, 1.9oz Bars - Protein Snacks with 20g of High Protein - Chocolate Protein Bar with 1g of Total Sugars - On The Go Protein Snack &amp; Breakfast Bars",
+      "brand": "BAREBELLS",
+      "price": 49.89,
+      "salesParent": 98786,
+      "revenue": 4929421.5,
+      "rating": 4.4,
+      "reviews": 785
+    },
+    {
+      "rank": 4,
+      "asin": "B0F8FS6B7S",
+      "title": "Barebells Protein Bars Wild Cherry - 12 Count, Pack of 2 - 1.9oz Bars - Protein Snacks with 20g of High Protein - White Chocolate Protein Bar with 1g of Total Sugars - On The Go Protein Snack &amp; Breakfast Bars",
+      "brand": "BAREBELLS",
+      "price": 61.98,
+      "salesParent": 74228,
+      "revenue": 4904986.5,
+      "rating": 4.6,
+      "reviews": 27
+    },
+    {
+      "rank": 5,
+      "asin": "B00GJ82VK4",
+      "title": "Pure Protein Chocolate Peanut Butter Protein Bars, 20g Protein, 12 Ct",
+      "brand": "Pure Protein",
+      "price": 18.98,
+      "salesParent": 229710,
+      "revenue": 4614874.0,
+      "rating": 4.5,
+      "reviews": 23200
+    },
+    {
+      "rank": 6,
+      "asin": "B08171M7GN",
+      "title": "Barebells Protein Bars White Chocolate Almond, 55g, 12-Pack",
+      "brand": "BAREBELLS",
+      "price": 61.37,
+      "salesParent": 69783,
+      "revenue": 4092773.0,
+      "rating": 3.9,
+      "reviews": 1190
+    },
+    {
+      "rank": 7,
+      "asin": "B09PYB4MQS",
+      "title": "Barebells Classics Protein Bars Variety Pack, 12 Bars, 20g Protein",
+      "brand": "BAREBELLS",
+      "price": 31.99,
+      "salesParent": 127708,
+      "revenue": 4091764.5,
+      "rating": 4.5,
+      "reviews": 4627
+    },
+    {
+      "rank": 8,
+      "asin": "B0BCR4H9KJ",
+      "title": "BUILT Puff Protein Bars, Variety Pack, 15g-17g Protein - 12 Count",
+      "brand": "Built Bar",
+      "price": 29.99,
+      "salesParent": 74609,
+      "revenue": 2263637.0,
+      "rating": 4.4,
+      "reviews": 4495
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 73,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 73,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 56126750,
+    "priorHeadRevenue": 32429859,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 98,
+      "newCount": 18,
+      "pct": 18,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 73,
+      "brandCount": 56,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.32,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B09421W1D3",
+        "title": "Barebells Salty Peanut Protein Bars, 12 Count,Pack of 2-20g Protein, 1g Sugar Snack Bars…",
+        "rating": 4.2,
+        "reviews": 71
+      },
+      {
+        "rank": 2,
+        "asin": "B07J2MM23Z",
+        "title": "Quest Nutrition Ultimate Variety Pack Protein Bars, High Protein, Low Carb, Gluten Free, Keto Friendly, 12 Count",
+        "rating": 4.3,
+        "reviews": 11799
+      },
+      {
+        "rank": 3,
+        "asin": "B08K96RLMP",
+        "title": "Barebells Protein Bars Hazelnut &amp; Nougat - 12 Count, 1.9oz Bars - Protein Snacks with 20g of High Protein - Chocolate Protein Bar with 1g of Total Sugars - On The Go Protein Snack &amp; Breakfast Bars",
+        "rating": 4.4,
+        "reviews": 785
+      },
+      {
+        "rank": 4,
+        "asin": "B0F8FS6B7S",
+        "title": "Barebells Protein Bars Wild Cherry - 12 Count, Pack of 2 - 1.9oz Bars - Protein Snacks with 20g of High Protein - White Chocolate Protein Bar with 1g of Total Sugars - On The Go Protein Snack &amp; Breakfast Bars",
+        "rating": 4.6,
+        "reviews": 27
+      },
+      {
+        "rank": 5,
+        "asin": "B00GJ82VK4",
+        "title": "Pure Protein Chocolate Peanut Butter Protein Bars, 20g Protein, 12 Ct",
+        "rating": 4.5,
+        "reviews": 23200
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3764441:23675622011:7309635011:6973705011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

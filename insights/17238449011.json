@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "17238449011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Novelty & Gag Toys > Fidget Toys > Fidget Blocks",
+  "categoryPathCn": "玩具 > 新颖性 > 益智玩具 > 小玩具块",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 98,
+    "totalRevenue": 1412989,
+    "avgRevenue": 14418,
+    "medianPrice": 13.99,
+    "priceBand": "$9.99 - $19.19",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B07W5QM4DP",
+      "title": "Shashibo DODECA Magnetic Puzzle Cube, Stress Relief Fidget Toy",
+      "brand": "Shashibo",
+      "price": 24.99,
+      "salesParent": 24586,
+      "revenue": 558593.88,
+      "rating": 4.6,
+      "reviews": 87093
+    },
+    {
+      "rank": 2,
+      "asin": "B097SG3RTJ",
+      "title": "ONO Roller - Handheld Fidget Toy for Adults | Help Relieve Stress, Anxiety, Tension | Promotes Focus, Clarity | Compact, Portable Design (Orange, Junior Size - ABS Plastic)",
+      "brand": "ONO",
+      "price": 28.0,
+      "salesParent": 3910,
+      "revenue": 109480.0,
+      "rating": 4.5,
+      "reviews": 2308
+    },
+    {
+      "rank": 3,
+      "asin": "B0CPKPGCJ8",
+      "title": "ONO Roller - Handheld Fidget Toy for Adults | Help Relieve Stress, Anxiety, Tension | Promotes Focus, Clarity | Compact, Portable Design (Titanium, Junior Size - Titanium)",
+      "brand": "ONO",
+      "price": 132.0,
+      "salesParent": 363,
+      "revenue": 47916.0,
+      "rating": 4.7,
+      "reviews": 29
+    },
+    {
+      "rank": 4,
+      "asin": "B09J9ZCN1L",
+      "title": "Rubik's Cube 4x4 Master Puzzle Cube &amp; Brain Teaser Fidget Toy",
+      "brand": "Rubik's",
+      "price": 19.99,
+      "salesParent": 2322,
+      "revenue": 46416.78,
+      "rating": 4.5,
+      "reviews": 921
+    },
+    {
+      "rank": 5,
+      "asin": "B08LVFSWSN",
+      "title": "8Pcs Fidgets Wacky Tracks Fidget Toys for Kids Classroom Students Gifts",
+      "brand": "Abodhu",
+      "price": 6.69,
+      "salesParent": 6230,
+      "revenue": 41678.7,
+      "rating": 4.8,
+      "reviews": 4117
+    },
+    {
+      "rank": 6,
+      "asin": "B0FP3X5NKS",
+      "title": "30 Pack Mini Fidget Snake Cube Toys Goodie Bag Stuffers for Kids, Treasure Box Toys for Classroom, Twist Puzzle for Party Favors, Birthday &amp; Back to School Gifts, Stocking Stuffers for Kids",
+      "brand": "LENDOD",
+      "price": 16.89,
+      "salesParent": 1929,
+      "revenue": 32580.81,
+      "rating": 4.6,
+      "reviews": 170
+    },
+    {
+      "rank": 7,
+      "asin": "B071X8S8WQ",
+      "title": "Infinity Cube Fidget Toys for Kids, Adults Anxiety Relief Items Fidget Cube",
+      "brand": "SMALL FISH",
+      "price": 9.99,
+      "salesParent": 3383,
+      "revenue": 32206.16,
+      "rating": 4.6,
+      "reviews": 22937
+    },
+    {
+      "rank": 8,
+      "asin": "B074J6KPWD",
+      "title": "Fidget Cube Metal Infinity Cube for Stress and Anxiety Relief/ADHD",
+      "brand": "JOEYANK",
+      "price": 21.99,
+      "salesParent": 1167,
+      "revenue": 24051.87,
+      "rating": 4.5,
+      "reviews": 4306
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -24,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -24,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1412989,
+    "priorHeadRevenue": 1859855,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 98,
+      "newCount": 33,
+      "pct": 34,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 61,
+      "brandCount": 80,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.46,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B07W5QM4DP",
+        "title": "Shashibo DODECA Magnetic Puzzle Cube, Stress Relief Fidget Toy",
+        "rating": 4.6,
+        "reviews": 87093
+      },
+      {
+        "rank": 2,
+        "asin": "B097SG3RTJ",
+        "title": "ONO Roller - Handheld Fidget Toy for Adults | Help Relieve Stress, Anxiety, Tension | Promotes Focus, Clarity | Compact, Portable Design (Orange, Junior Size - ABS Plastic)",
+        "rating": 4.5,
+        "reviews": 2308
+      },
+      {
+        "rank": 3,
+        "asin": "B0CPKPGCJ8",
+        "title": "ONO Roller - Handheld Fidget Toy for Adults | Help Relieve Stress, Anxiety, Tension | Promotes Focus, Clarity | Compact, Portable Design (Titanium, Junior Size - Titanium)",
+        "rating": 4.7,
+        "reviews": 29
+      },
+      {
+        "rank": 4,
+        "asin": "B09J9ZCN1L",
+        "title": "Rubik's Cube 4x4 Master Puzzle Cube &amp; Brain Teaser Fidget Toy",
+        "rating": 4.5,
+        "reviews": 921
+      },
+      {
+        "rank": 5,
+        "asin": "B08LVFSWSN",
+        "title": "8Pcs Fidgets Wacky Tracks Fidget Toys for Kids Classroom Students Gifts",
+        "rating": 4.8,
+        "reviews": 4117
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166027011:17238448011:17238449011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "85968011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Medical Supplies & Equipment > Health Monitors > Body Weight Scales",
+  "categoryPathCn": "健康与家居 > 医疗用品和设备 > 健康音响 > 健康秤",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 93,
+    "totalRevenue": 13613016,
+    "avgRevenue": 146377,
+    "medianPrice": 39.99,
+    "priceBand": "$24.99 - $102.49",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B01HI1W1V4",
+      "title": "Etekcity Digital Body Weight Bathroom Scale, 6mm Tempered Glass, 400 lbs",
+      "brand": "Etekcity",
+      "price": 16.83,
+      "salesParent": 66397,
+      "revenue": 1163275.5,
+      "rating": 4.7,
+      "reviews": 187426
+    },
+    {
+      "rank": 2,
+      "asin": "B0FJFL8KP4",
+      "title": "RENPHO Smart Scale for Body Weight, TFT Handle Display, Rechargeable",
+      "brand": "RENPHO",
+      "price": 199.99,
+      "salesParent": 4752,
+      "revenue": 969645.62,
+      "rating": 4.5,
+      "reviews": 32971
+    },
+    {
+      "rank": 3,
+      "asin": "B00F3J9G1W",
+      "title": "Etekcity Bathroom Scale for Body Weight, Digital, Highly Accurate, 400 lbs",
+      "brand": "Etekcity",
+      "price": 21.99,
+      "salesParent": 34047,
+      "revenue": 729627.25,
+      "rating": 4.6,
+      "reviews": 155780
+    },
+    {
+      "rank": 4,
+      "asin": "B0CDX3MPTQ",
+      "title": "Bathroom Scales Digital Weight 450lb, Most Accurate to 0.05lb",
+      "brand": "Ovutek",
+      "price": 36.99,
+      "salesParent": 16798,
+      "revenue": 587258.06,
+      "rating": 4.7,
+      "reviews": 6333
+    },
+    {
+      "rank": 5,
+      "asin": "B0BZL5GWVL",
+      "title": "Vitafit Bathroom Scale for Body Weight Accuracy 0.1lb, Weight Scale 400lb",
+      "brand": "Vitafit",
+      "price": 15.99,
+      "salesParent": 30053,
+      "revenue": 450193.94,
+      "rating": 4.6,
+      "reviews": 12175
+    },
+    {
+      "rank": 6,
+      "asin": "B01N1UX8RW",
+      "title": "RENPHO Smart Scale for Body Weight, BMI &amp; Body Fat, 13 Metrics, Elis 1",
+      "brand": "RENPHO",
+      "price": 24.99,
+      "salesParent": 17979,
+      "revenue": 440845.09,
+      "rating": 4.6,
+      "reviews": 340112
+    },
+    {
+      "rank": 7,
+      "asin": "B0C3JNJPZ7",
+      "title": "WITHINGS Body Smart - Accurate Scale for Body Weight and Fat Percentage, Body Composition Wi-Fi and Bluetooth Weight Scale, Baby Weight Scale, Smart Scale Apple Health Compatible, Bathroom Scale",
+      "brand": "Withings",
+      "price": 129.95,
+      "salesParent": 3311,
+      "revenue": 430264.44,
+      "rating": 4.2,
+      "reviews": 39874
+    },
+    {
+      "rank": 8,
+      "asin": "B0GYP37RZW",
+      "title": "RENPHO Smart Scale with Large Handle Display, Wi-Fi &amp; Wireless Connection",
+      "brand": "RENPHO",
+      "price": 169.99,
+      "salesParent": 2551,
+      "revenue": 412012.0,
+      "rating": 4.3,
+      "reviews": 1723
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -34,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -34,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 13613016,
+    "priorHeadRevenue": 20737728,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 93,
+      "newCount": 33,
+      "pct": 35,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 58,
+      "brandCount": 39,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.48,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B01HI1W1V4",
+        "title": "Etekcity Digital Body Weight Bathroom Scale, 6mm Tempered Glass, 400 lbs",
+        "rating": 4.7,
+        "reviews": 187426
+      },
+      {
+        "rank": 2,
+        "asin": "B0FJFL8KP4",
+        "title": "RENPHO Smart Scale for Body Weight, TFT Handle Display, Rechargeable",
+        "rating": 4.5,
+        "reviews": 32971
+      },
+      {
+        "rank": 3,
+        "asin": "B00F3J9G1W",
+        "title": "Etekcity Bathroom Scale for Body Weight, Digital, Highly Accurate, 400 lbs",
+        "rating": 4.6,
+        "reviews": 155780
+      },
+      {
+        "rank": 4,
+        "asin": "B0CDX3MPTQ",
+        "title": "Bathroom Scales Digital Weight 450lb, Most Accurate to 0.05lb",
+        "rating": 4.7,
+        "reviews": 6333
+      },
+      {
+        "rank": 5,
+        "asin": "B0BZL5GWVL",
+        "title": "Vitafit Bathroom Scale for Body Weight Accuracy 0.1lb, Weight Scale 400lb",
+        "rating": 4.6,
+        "reviews": 12175
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3775161:3777131:85968011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

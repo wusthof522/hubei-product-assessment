@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3779961",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Health Care > Foot Health > Corn & Callus Remover Cushions",
+  "categoryPathCn": "健康与家居 > 卫生保健 > 足部护理 > 鸡眼和老茧去除器垫片",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 98,
+    "totalRevenue": 1105832,
+    "avgRevenue": 11284,
+    "medianPrice": 10.34,
+    "priceBand": "$8.99 - $14.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B097YY2798",
+      "title": "Dr. Scholl's Corn REMOVERS, 9 Ct // Removes Corns in as Few as 2 Treatments, Maximum Strength, Stays on All Day",
+      "brand": "Dr. Scholl's",
+      "price": 4.47,
+      "salesParent": 23621,
+      "revenue": 105585.87,
+      "rating": 4.2,
+      "reviews": 6807
+    },
+    {
+      "rank": 2,
+      "asin": "B0GPBKKRMR",
+      "title": "Corn Remover Pads for Feet Toes: 30-Pack Extra Strength Salicylic Acid",
+      "brand": "Ulensy",
+      "price": 15.99,
+      "salesParent": 5501,
+      "revenue": 87960.99,
+      "rating": 4.3,
+      "reviews": 6381
+    },
+    {
+      "rank": 3,
+      "asin": "B07D2MLTDY",
+      "title": "ZenToes U-Shaped Felt Callus Pads, Self-Stick Cushions, 24 Count",
+      "brand": "ZenToes",
+      "price": 14.99,
+      "salesParent": 4460,
+      "revenue": 66855.4,
+      "rating": 4.5,
+      "reviews": 6589
+    },
+    {
+      "rank": 4,
+      "asin": "B016I2JFZY",
+      "title": "Dr. Scholl's Callus Remover Seal &amp; Heal Bandage with Hydrogel Technology, 4ct /Removes Calluses Fast - Provides Cushioning Protection and Friction for All-Day Pain Relief (Pack of 1, 4 Count Total)",
+      "brand": "Dr. Scholl's",
+      "price": 5.97,
+      "salesParent": 10181,
+      "revenue": 59151.61,
+      "rating": 4.2,
+      "reviews": 14723
+    },
+    {
+      "rank": 5,
+      "asin": "B0CRVL4X1F",
+      "title": "Welnove Gel Blister Bandages for Feet - 21ct Blister Cushion for Heel, Toe - Water-Resistant Heel Protectors Bandages - Blister Pads for Prevention &amp; Recovery",
+      "brand": "Welnove",
+      "price": 13.99,
+      "salesParent": 3637,
+      "revenue": 48772.17,
+      "rating": 4.4,
+      "reviews": 2829
+    },
+    {
+      "rank": 6,
+      "asin": "B072QYFJZX",
+      "title": "ZenToes Callus Cushions, Water-Resistant Adhesive Corn Pads, 24 Count",
+      "brand": "ZenToes",
+      "price": 12.99,
+      "salesParent": 3220,
+      "revenue": 41827.8,
+      "rating": 4.4,
+      "reviews": 4247
+    },
+    {
+      "rank": 7,
+      "asin": "B09WMX7LJQ",
+      "title": "Welnove 42Pcs Callus Pad with Water-Resistant Self-Stick Adhesive, Protects Foot, Heel and Toes from Rubbing and Friction,Oval Shape Design,Reduce Pressure and Friction from Shoes Rubbing-White",
+      "brand": "Welnove",
+      "price": 12.49,
+      "salesParent": 2770,
+      "revenue": 34597.3,
+      "rating": 4.5,
+      "reviews": 1760
+    },
+    {
+      "rank": 8,
+      "asin": "B0964JQ5MH",
+      "title": "Dr. Scholl's Extra Thick Callus Remover, 4ct // Helps Soften Hard Calluses and Cushions for All-Day Pain Relief",
+      "brand": "Dr. Scholl's",
+      "price": 7.99,
+      "salesParent": 4993,
+      "revenue": 32254.78,
+      "rating": 4.4,
+      "reviews": 5011
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -8,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -8,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1105832,
+    "priorHeadRevenue": 1198238,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 98,
+      "newCount": 20,
+      "pct": 20,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 63,
+      "brandCount": 62,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.28,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B097YY2798",
+        "title": "Dr. Scholl's Corn REMOVERS, 9 Ct // Removes Corns in as Few as 2 Treatments, Maximum Strength, Stays on All Day",
+        "rating": 4.2,
+        "reviews": 6807
+      },
+      {
+        "rank": 2,
+        "asin": "B0GPBKKRMR",
+        "title": "Corn Remover Pads for Feet Toes: 30-Pack Extra Strength Salicylic Acid",
+        "rating": 4.3,
+        "reviews": 6381
+      },
+      {
+        "rank": 3,
+        "asin": "B07D2MLTDY",
+        "title": "ZenToes U-Shaped Felt Callus Pads, Self-Stick Cushions, 24 Count",
+        "rating": 4.5,
+        "reviews": 6589
+      },
+      {
+        "rank": 4,
+        "asin": "B016I2JFZY",
+        "title": "Dr. Scholl's Callus Remover Seal &amp; Heal Bandage with Hydrogel Technology, 4ct /Removes Calluses Fast - Provides Cushioning Protection and Friction for All-Day Pain Relief (Pack of 1, 4 Count Total)",
+        "rating": 4.2,
+        "reviews": 14723
+      },
+      {
+        "rank": 5,
+        "asin": "B0CRVL4X1F",
+        "title": "Welnove Gel Blister Bandages for Feet - 21ct Blister Cushion for Heel, Toe - Water-Resistant Heel Protectors Bandages - Blister Pads for Prevention &amp; Recovery",
+        "rating": 4.4,
+        "reviews": 2829
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3760941:3779911:3779961",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

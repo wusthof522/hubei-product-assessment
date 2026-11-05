@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3774801",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins, Minerals & Supplements > Vitamins > Vitamin K1",
+  "categoryPathCn": "健康与家居 > 身、泳和附剂 > 形象 > 维生素K1",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 42,
+    "totalRevenue": 1440828,
+    "avgRevenue": 34305,
+    "medianPrice": 20.22,
+    "priceBand": "$17.71 - $26.96",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B07RL1J9BV",
+      "title": "Life Extension Super K, Vitamin K1 and K2, 90 Softgels",
+      "brand": "Life Extension",
+      "price": 23.94,
+      "salesParent": 12825,
+      "revenue": 307415.25,
+      "rating": 4.6,
+      "reviews": 7149
+    },
+    {
+      "rank": 2,
+      "asin": "B00T8NROWM",
+      "title": "InnovixLabs Full Spectrum Vitamin K2 MK7 + MK4, 600 mcg (90 Softgels)",
+      "brand": "InnovixLabs",
+      "price": 26.95,
+      "salesParent": 9573,
+      "revenue": 257992.36,
+      "rating": 4.7,
+      "reviews": 7626
+    },
+    {
+      "rank": 3,
+      "asin": "B00JGCPAYY",
+      "title": "Sports Research® Vitamin K2 as MK-7 100mcg, 60 Count Plantgels™",
+      "brand": "Sports Research",
+      "price": 17.95,
+      "salesParent": 12718,
+      "revenue": 228288.11,
+      "rating": 4.7,
+      "reviews": 14036
+    },
+    {
+      "rank": 4,
+      "asin": "B01K33AQNO",
+      "title": "Bronson Vitamin K Triple Play Full Spectrum K1 &amp; K2 MK-4/MK-7, 180 Capsules",
+      "brand": "Bronson",
+      "price": 17.99,
+      "salesParent": 4374,
+      "revenue": 78688.26,
+      "rating": 4.7,
+      "reviews": 8630
+    },
+    {
+      "rank": 5,
+      "asin": "B0FH5FQXS8",
+      "title": "Dr. Green Mom Natal K Oral Vitamin K1 Drops for Newborns | Organic Phytonadione in MCT Oil | Natural VIT K for Babies to Support Blood Clotting",
+      "brand": "Dr. Green Mom",
+      "price": 38.99,
+      "salesParent": 1783,
+      "revenue": 69519.17,
+      "rating": 4.7,
+      "reviews": 261
+    },
+    {
+      "rank": 6,
+      "asin": "B088B4L5WB",
+      "title": "DEAL SUPPLEMENT Vitamin K2 MK-7 200mcg Per Serving, 240 Coconut Oil Softgels | Easily Absorbed Menaquinone-7 Form | Bone, Joint, &amp; Immune Support – Non-GMO",
+      "brand": "Deal Supplement",
+      "price": 21.99,
+      "salesParent": 2909,
+      "revenue": 57801.83,
+      "rating": 4.6,
+      "reviews": 2269
+    },
+    {
+      "rank": 7,
+      "asin": "B087DZKHVW",
+      "title": "Micro Ingredients Vitamin K2 MK-7 200 mcg Per Serving, 300 Coconut Oil Softgels | K2 Vitamin Supplement with Coconut Oil | Non-GMO",
+      "brand": "Micro Ingredients",
+      "price": 19.16,
+      "salesParent": 2415,
+      "revenue": 54748.05,
+      "rating": 4.7,
+      "reviews": 2603
+    },
+    {
+      "rank": 8,
+      "asin": "B0098U0REC",
+      "title": "Garden of Life Vitamin Code Raw K-Complex with Vitamin K1 &amp; K2, 60 Capsules",
+      "brand": "Garden of Life",
+      "price": 24.24,
+      "salesParent": 1891,
+      "revenue": 44589.78,
+      "rating": 4.7,
+      "reviews": 1666
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 29,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 29,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1440828,
+    "priorHeadRevenue": 1118622,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 42,
+      "newCount": 5,
+      "pct": 12,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 66,
+      "brandCount": 35,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.64,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B07RL1J9BV",
+        "title": "Life Extension Super K, Vitamin K1 and K2, 90 Softgels",
+        "rating": 4.6,
+        "reviews": 7149
+      },
+      {
+        "rank": 2,
+        "asin": "B00T8NROWM",
+        "title": "InnovixLabs Full Spectrum Vitamin K2 MK7 + MK4, 600 mcg (90 Softgels)",
+        "rating": 4.7,
+        "reviews": 7626
+      },
+      {
+        "rank": 3,
+        "asin": "B00JGCPAYY",
+        "title": "Sports Research® Vitamin K2 as MK-7 100mcg, 60 Count Plantgels™",
+        "rating": 4.7,
+        "reviews": 14036
+      },
+      {
+        "rank": 4,
+        "asin": "B01K33AQNO",
+        "title": "Bronson Vitamin K Triple Play Full Spectrum K1 &amp; K2 MK-4/MK-7, 180 Capsules",
+        "rating": 4.7,
+        "reviews": 8630
+      },
+      {
+        "rank": 5,
+        "asin": "B0FH5FQXS8",
+        "title": "Dr. Green Mom Natal K Oral Vitamin K1 Drops for Newborns | Organic Phytonadione in MCT Oil | Natural VIT K for Babies to Support Blood Clotting",
+        "rating": 4.7,
+        "reviews": 261
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:23675621011:6936790011:3774801",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

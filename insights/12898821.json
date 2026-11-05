@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "12898821",
+  "level": "L2",
+  "categoryPathEn": "Arts, Crafts & Sewing > Scrapbooking & Stamping",
+  "categoryPathCn": "艺术、手工艺 > 剪贴簿",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 93,
+    "totalRevenue": 9194602,
+    "avgRevenue": 98867,
+    "medianPrice": 23.99,
+    "priceBand": "$9.99 - $249.5",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0GJFL3WHS",
+      "title": "Cricut Explore® 5 Essential Bundle + Digital Content, Taupe",
+      "brand": "Cricut",
+      "price": 249.0,
+      "salesParent": 4603,
+      "revenue": 1086906.38,
+      "rating": 4.4,
+      "reviews": 320
+    },
+    {
+      "rank": 2,
+      "asin": "B0HDRJGM6V",
+      "title": "Cricut Maker® 5 Essential Bundle + Digital Content, Slate Blue",
+      "brand": "Cricut",
+      "price": 399.0,
+      "salesParent": 2166,
+      "revenue": 864234.0,
+      "rating": 4.6,
+      "reviews": 72
+    },
+    {
+      "rank": 3,
+      "asin": "B0BS4BVG3M",
+      "title": "MYDBUYSOME 2774pcs Gem Stickers Jewels for Crafts, Adhesive Gems Rhinestone",
+      "brand": "MYDBUYSOME",
+      "price": 9.97,
+      "salesParent": 31595,
+      "revenue": 315002.16,
+      "rating": 4.7,
+      "reviews": 2039
+    },
+    {
+      "rank": 4,
+      "asin": "B0DTQBZ3J3",
+      "title": "Cricut Maker 4 - Smart Cutting Machine (Seashell) | Digital Content Bundle",
+      "brand": "Cricut",
+      "price": 378.0,
+      "salesParent": 828,
+      "revenue": 303445.44,
+      "rating": 4.5,
+      "reviews": 684
+    },
+    {
+      "rank": 5,
+      "asin": "B0B3QSDYRL",
+      "title": "Happizza Button Maker Machine Multiple-Sizes - Pin Maker Machine 1.25 inch+2.25 inch, Interchangeable Button-models Badge Button Press Machine with 200 Sets 32+58mm Button Maker Supplies&amp;Circle Cutter",
+      "brand": "Happizza",
+      "price": 59.99,
+      "salesParent": 4841,
+      "revenue": 291767.06,
+      "rating": 4.1,
+      "reviews": 1284
+    },
+    {
+      "rank": 6,
+      "asin": "B0DVWGRJBX",
+      "title": "Cricut Maker 4 Cutting Machine Bundle with EasyPress SE, Vinyl &amp; Iron-On",
+      "brand": "Cricut",
+      "price": 499.99,
+      "salesParent": 506,
+      "revenue": 274160.94,
+      "rating": 4.5,
+      "reviews": 315
+    },
+    {
+      "rank": 7,
+      "asin": "B0GJFS6L4M",
+      "title": "Cricut Joy™ 2 Essential Bundle + Digital Content, Blue",
+      "brand": "Cricut",
+      "price": 139.0,
+      "salesParent": 1926,
+      "revenue": 237629.88,
+      "rating": 4.3,
+      "reviews": 357
+    },
+    {
+      "rank": 8,
+      "asin": "B0DCWDJ2GX",
+      "title": "Cricut Joy Xtra - Smart Cutting Machine | Digital Content Bundle",
+      "brand": "Cricut",
+      "price": 179.0,
+      "salesParent": 1325,
+      "revenue": 226826.75,
+      "rating": 4.4,
+      "reviews": 786
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -4,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -4,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 9194602,
+    "priorHeadRevenue": 9559537,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 93,
+      "newCount": 38,
+      "pct": 41,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 62,
+      "brandCount": 53,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.51,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0GJFL3WHS",
+        "title": "Cricut Explore® 5 Essential Bundle + Digital Content, Taupe",
+        "rating": 4.4,
+        "reviews": 320
+      },
+      {
+        "rank": 2,
+        "asin": "B0HDRJGM6V",
+        "title": "Cricut Maker® 5 Essential Bundle + Digital Content, Slate Blue",
+        "rating": 4.6,
+        "reviews": 72
+      },
+      {
+        "rank": 3,
+        "asin": "B0BS4BVG3M",
+        "title": "MYDBUYSOME 2774pcs Gem Stickers Jewels for Crafts, Adhesive Gems Rhinestone",
+        "rating": 4.7,
+        "reviews": 2039
+      },
+      {
+        "rank": 4,
+        "asin": "B0DTQBZ3J3",
+        "title": "Cricut Maker 4 - Smart Cutting Machine (Seashell) | Digital Content Bundle",
+        "rating": 4.5,
+        "reviews": 684
+      },
+      {
+        "rank": 5,
+        "asin": "B0B3QSDYRL",
+        "title": "Happizza Button Maker Machine Multiple-Sizes - Pin Maker Machine 1.25 inch+2.25 inch, Interchangeable Button-models Badge Button Press Machine with 200 Sets 32+58mm Button Maker Supplies&amp;Circle Cutter",
+        "rating": 4.1,
+        "reviews": 1284
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "2617941011:12898821",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

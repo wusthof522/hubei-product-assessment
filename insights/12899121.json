@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "12899121",
+  "level": "L2",
+  "categoryPathEn": "Arts, Crafts & Sewing > Fabric",
+  "categoryPathCn": "艺术、手工艺 > 布料",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 96,
+    "totalRevenue": 4628935,
+    "avgRevenue": 48218,
+    "medianPrice": 14.98,
+    "priceBand": "$9.98 - $20.74",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B094MV3P25",
+      "title": "Tatuo 60 X 18 Inch White Fake Fur Fabric for Crafts Sewing DIY",
+      "brand": "Tatuo",
+      "price": 22.99,
+      "salesParent": 8605,
+      "revenue": 172960.5,
+      "rating": 4.4,
+      "reviews": 2335
+    },
+    {
+      "rank": 2,
+      "asin": "B0D6K9ZP35",
+      "title": "12 Rolls 8&quot;x35&quot; 1.4mm Thick Soft Felt Fabric Sheet 12 Assorted Morandi Series Colors Felt Pack for DIY Craft Sewing Squares Nonwoven Patchwork",
+      "brand": "XSEINO",
+      "price": 12.99,
+      "salesParent": 11677,
+      "revenue": 135920.28,
+      "rating": 4.7,
+      "reviews": 1560
+    },
+    {
+      "rank": 3,
+      "asin": "B01GCLS32M",
+      "title": "42pcs Felt Fabric Sheet 4&quot;x4&quot; Assorted Color DIY Craft Squares Nonwoven 1mm Thick",
+      "brand": "flic-flac",
+      "price": 6.79,
+      "salesParent": 18724,
+      "revenue": 127135.96,
+      "rating": 4.4,
+      "reviews": 10033
+    },
+    {
+      "rank": 4,
+      "asin": "B09P7GN1LG",
+      "title": "White Tulle Fabric Roll 54 Inch 40 Yards, Large Tulle Spool Bolt",
+      "brand": "Ableme Deco",
+      "price": 18.99,
+      "salesParent": 5628,
+      "revenue": 106875.72,
+      "rating": 4.7,
+      "reviews": 2713
+    },
+    {
+      "rank": 5,
+      "asin": "B08C55X8ZN",
+      "title": "Boao Halloween White Cheesecloth for Craft, 85 x 197 Inch",
+      "brand": "Boao",
+      "price": 6.99,
+      "salesParent": 8239,
+      "revenue": 97961.71,
+      "rating": 4.5,
+      "reviews": 2123
+    },
+    {
+      "rank": 6,
+      "asin": "B0DHL4VHDC",
+      "title": "13 Rolls 8&quot;x35&quot; 1.4mm Thick Soft Felt Fabric Sheet 13 Assorted Green Series Colors Felt Pack Pastel Felt Sheets for DIY Craft Sewing Squares Nonwoven Patchwork",
+      "brand": "XSEINO",
+      "price": 14.99,
+      "salesParent": 6802,
+      "revenue": 95228.0,
+      "rating": 4.7,
+      "reviews": 1030
+    },
+    {
+      "rank": 7,
+      "asin": "B06W55D3VR",
+      "title": "AK TRADING CO. Muslin Fabric/Textile Unbleached - Draping Fabric - Natural 10 Yards Medium Weight - 100% Cotton (63in. Wide)",
+      "brand": "AK TRADING CO.",
+      "price": 37.95,
+      "salesParent": 2509,
+      "revenue": 95216.56,
+      "rating": 4.5,
+      "reviews": 2507
+    },
+    {
+      "rank": 8,
+      "asin": "B08W98KP9H",
+      "title": "Barcelonetta | Felt Fabric | 72&quot; Wide | 1.6mm Thick | Acrylic &amp; Soft | Felt by the Yard | Felt for DIY Crafts, Projects, Sewing (White, Half Yard)",
+      "brand": "Barcelonetta",
+      "price": 12.9,
+      "salesParent": 7618,
+      "revenue": 91492.18,
+      "rating": 4.6,
+      "reviews": 2241
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 4,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 4,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 4628935,
+    "priorHeadRevenue": 4437444,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 96,
+      "newCount": 25,
+      "pct": 26,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 28,
+      "brandCount": 65,
+      "level": "分散",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.46,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B094MV3P25",
+        "title": "Tatuo 60 X 18 Inch White Fake Fur Fabric for Crafts Sewing DIY",
+        "rating": 4.4,
+        "reviews": 2335
+      },
+      {
+        "rank": 2,
+        "asin": "B0D6K9ZP35",
+        "title": "12 Rolls 8&quot;x35&quot; 1.4mm Thick Soft Felt Fabric Sheet 12 Assorted Morandi Series Colors Felt Pack for DIY Craft Sewing Squares Nonwoven Patchwork",
+        "rating": 4.7,
+        "reviews": 1560
+      },
+      {
+        "rank": 3,
+        "asin": "B01GCLS32M",
+        "title": "42pcs Felt Fabric Sheet 4&quot;x4&quot; Assorted Color DIY Craft Squares Nonwoven 1mm Thick",
+        "rating": 4.4,
+        "reviews": 10033
+      },
+      {
+        "rank": 4,
+        "asin": "B09P7GN1LG",
+        "title": "White Tulle Fabric Roll 54 Inch 40 Yards, Large Tulle Spool Bolt",
+        "rating": 4.7,
+        "reviews": 2713
+      },
+      {
+        "rank": 5,
+        "asin": "B08C55X8ZN",
+        "title": "Boao Halloween White Cheesecloth for Craft, 85 x 197 Inch",
+        "rating": 4.5,
+        "reviews": 2123
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "2617941011:12899121",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "2327106011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Sports & Outdoor Play > Pools & Water Toys > Basketball & Volleyball Sets",
+  "categoryPathCn": "玩具 > 体育 > 游泳池 > 篮球足球",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 93,
+    "totalRevenue": 618772,
+    "avgRevenue": 6653,
+    "medianPrice": 48.99,
+    "priceBand": "$26.49 - $167.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0812LQ8GW",
+      "title": "GoSports Splash Hoop PRO Pool Basketball Game – Modern Poolside Basketball Hoop with Backboard, Ball &amp; Pump – Swimming Pool Basketball Hoop for Inground &amp; Above Ground Pools",
+      "brand": "GoSports",
+      "price": 129.99,
+      "salesParent": 920,
+      "revenue": 117760.0,
+      "rating": 4.8,
+      "reviews": 7971
+    },
+    {
+      "rank": 2,
+      "asin": "B09PWH3FGC",
+      "title": "GoSports Splash Hoop 2-in-1 Full Court Pool Basketball &amp; Volleyball Game Set",
+      "brand": "GoSports",
+      "price": 299.99,
+      "salesParent": 85,
+      "revenue": 24898.2,
+      "rating": 4.7,
+      "reviews": 364
+    },
+    {
+      "rank": 3,
+      "asin": "B0H87Q595Q",
+      "title": "Goplus Pool Basketball Hoop w/42'' PC Backboard, 2 Balls, Pump",
+      "brand": "Goplus",
+      "price": 165.99,
+      "salesParent": 144,
+      "revenue": 23902.56,
+      "rating": 4.9,
+      "reviews": 13
+    },
+    {
+      "rank": 4,
+      "asin": "B0DT9KGYQT",
+      "title": "2-in-1 LED Pool Volleyball &amp; Basketball Game Set, Light Up Pool Sport Combo Set with 14in LED Rim/4 Glow Pool Balls/2 Base/Pump, Inground Swimming Pool Toy Game for Adults &amp; Family",
+      "brand": "OHYEMO",
+      "price": 169.99,
+      "salesParent": 99,
+      "revenue": 16829.01,
+      "rating": 4.2,
+      "reviews": 101
+    },
+    {
+      "rank": 5,
+      "asin": "B0DWYKW9KX",
+      "title": "GoSports Splash Hoop Legend - Aqua or Black - Pool Basketball Hoop Game with Water Weighted Base, Adjustable Height, and Regulation Steel Rim",
+      "brand": "GoSports",
+      "price": 349.99,
+      "salesParent": 48,
+      "revenue": 16799.52,
+      "rating": 4.1,
+      "reviews": 52
+    },
+    {
+      "rank": 6,
+      "asin": "B07Q8JC9X4",
+      "title": "JOYIN Pool Toys Games Set-Inflatable Pool Float Set Volleyball Net &amp; Basketball Hoops, 2 in1 Floating Swimming Game Toy, Volleyball Swimming Pool Game for Kids and Adults, Backyard Beach Summer Toys",
+      "brand": "JOYIN",
+      "price": 33.98,
+      "salesParent": 439,
+      "revenue": 14917.22,
+      "rating": 4.2,
+      "reviews": 9570
+    },
+    {
+      "rank": 7,
+      "asin": "B0CKKNPVS9",
+      "title": "GoSports Splash Hoop Classic Swimming Pool Basketball Game - White",
+      "brand": "GoSports",
+      "price": 79.99,
+      "salesParent": 169,
+      "revenue": 13335.79,
+      "rating": 4.5,
+      "reviews": 221
+    },
+    {
+      "rank": 8,
+      "asin": "B084BLFHWW",
+      "title": "GoSports Water Basketballs 2 Pack - Choose Between Size 3 and Size 6, Great for Swimming Pool Basketball Hoops",
+      "brand": "GoSports",
+      "price": 19.99,
+      "salesParent": 650,
+      "revenue": 12993.5,
+      "rating": 4.7,
+      "reviews": 626
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -8,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -8,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 618772,
+    "priorHeadRevenue": 672193,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 93,
+      "newCount": 41,
+      "pct": 44,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 52,
+      "brandCount": 68,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.16,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0812LQ8GW",
+        "title": "GoSports Splash Hoop PRO Pool Basketball Game – Modern Poolside Basketball Hoop with Backboard, Ball &amp; Pump – Swimming Pool Basketball Hoop for Inground &amp; Above Ground Pools",
+        "rating": 4.8,
+        "reviews": 7971
+      },
+      {
+        "rank": 2,
+        "asin": "B09PWH3FGC",
+        "title": "GoSports Splash Hoop 2-in-1 Full Court Pool Basketball &amp; Volleyball Game Set",
+        "rating": 4.7,
+        "reviews": 364
+      },
+      {
+        "rank": 3,
+        "asin": "B0H87Q595Q",
+        "title": "Goplus Pool Basketball Hoop w/42'' PC Backboard, 2 Balls, Pump",
+        "rating": 4.9,
+        "reviews": 13
+      },
+      {
+        "rank": 4,
+        "asin": "B0DT9KGYQT",
+        "title": "2-in-1 LED Pool Volleyball &amp; Basketball Game Set, Light Up Pool Sport Combo Set with 14in LED Rim/4 Glow Pool Balls/2 Base/Pump, Inground Swimming Pool Toy Game for Adults &amp; Family",
+        "rating": 4.2,
+        "reviews": 101
+      },
+      {
+        "rank": 5,
+        "asin": "B0DWYKW9KX",
+        "title": "GoSports Splash Hoop Legend - Aqua or Black - Pool Basketball Hoop Game with Water Weighted Base, Adjustable Height, and Regulation Steel Rim",
+        "rating": 4.1,
+        "reviews": 52
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166420011:166437011:2327106011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

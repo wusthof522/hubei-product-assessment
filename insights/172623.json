@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "172623",
+  "level": "L2",
+  "categoryPathEn": "Electronics > Portable Audio & Video",
+  "categoryPathCn": "电子产品 > 便携式音频",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 98,
+    "totalRevenue": 44589569,
+    "avgRevenue": 454996,
+    "medianPrice": 114.99,
+    "priceBand": "$53.71 - $271.67",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0FYQ4Y2ZZ",
+      "title": "Plaud Note Pro AI Voice Recorder, Capture, Understood, Done, Black",
+      "brand": "Plaud",
+      "price": 189.0,
+      "salesParent": 19792,
+      "revenue": 3740688.0,
+      "rating": 4.5,
+      "reviews": 3564
+    },
+    {
+      "rank": 2,
+      "asin": "B0DN2ZCZX6",
+      "title": "JBL Charge 6 - Portable Waterproof &amp; DropProof Bluetooth Speaker (Black)",
+      "brand": "JBL",
+      "price": 149.95,
+      "salesParent": 14821,
+      "revenue": 2352982.0,
+      "rating": 4.6,
+      "reviews": 6748
+    },
+    {
+      "rank": 3,
+      "asin": "B0D6WD2QSQ",
+      "title": "Bose SoundLink Flex Bluetooth Speaker (2nd Gen) - Portable Outdoor Speaker with Hi-Fi Audio, Waterproof and Dustproof, USB-C, Up to 12 Hours Battery Life, Black",
+      "brand": "Bose",
+      "price": 149.0,
+      "salesParent": 14638,
+      "revenue": 2144613.25,
+      "rating": 4.7,
+      "reviews": 13755
+    },
+    {
+      "rank": 4,
+      "asin": "B0FX3GFYJP",
+      "title": "Midland ER10VP Weather Radio - Flashlight &amp; Emergency Alert - AM/FM Radio",
+      "brand": "Midland",
+      "price": 99.99,
+      "salesParent": 16977,
+      "revenue": 1697530.25,
+      "rating": 4.5,
+      "reviews": 249
+    },
+    {
+      "rank": 5,
+      "asin": "B0GHYJ7BS9",
+      "title": "JBL Go 5 - Ultra-portable IP68 waterproof &amp; drop-proof speaker (Black)",
+      "brand": "JBL",
+      "price": 54.95,
+      "salesParent": 33998,
+      "revenue": 1461574.12,
+      "rating": 4.6,
+      "reviews": 1390
+    },
+    {
+      "rank": 6,
+      "asin": "B07QK2SPP7",
+      "title": "JBL FLIP 5, Waterproof Portable Bluetooth Speaker, Black, Small",
+      "brand": "JBL",
+      "price": 89.95,
+      "salesParent": 16293,
+      "revenue": 1443071.0,
+      "rating": 4.8,
+      "reviews": 87190
+    },
+    {
+      "rank": 7,
+      "asin": "B0GV214XQ9",
+      "title": "Pocket AI Voice Recorder, Auto Transcription, AI Note Taker, Space Grey",
+      "brand": "Pocket",
+      "price": 159.0,
+      "salesParent": 9038,
+      "revenue": 1437042.0,
+      "rating": 4.6,
+      "reviews": 705
+    },
+    {
+      "rank": 8,
+      "asin": "B0CTNWBT1Z",
+      "title": "JBL Go 4 - Ultra-Portable, Waterproof and Dustproof Bluetooth Speaker, Big JBL Pro Sound with Punchy bass, 7-Hour Built-in Battery, Made in Part with Recycled Materials (Black)",
+      "brand": "JBL",
+      "price": 49.95,
+      "salesParent": 26055,
+      "revenue": 1282948.25,
+      "rating": 4.7,
+      "reviews": 20203
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -12,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -12,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 44589569,
+    "priorHeadRevenue": 50699521,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 98,
+      "newCount": 36,
+      "pct": 37,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 57,
+      "brandCount": 54,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.51,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0FYQ4Y2ZZ",
+        "title": "Plaud Note Pro AI Voice Recorder, Capture, Understood, Done, Black",
+        "rating": 4.5,
+        "reviews": 3564
+      },
+      {
+        "rank": 2,
+        "asin": "B0DN2ZCZX6",
+        "title": "JBL Charge 6 - Portable Waterproof &amp; DropProof Bluetooth Speaker (Black)",
+        "rating": 4.6,
+        "reviews": 6748
+      },
+      {
+        "rank": 3,
+        "asin": "B0D6WD2QSQ",
+        "title": "Bose SoundLink Flex Bluetooth Speaker (2nd Gen) - Portable Outdoor Speaker with Hi-Fi Audio, Waterproof and Dustproof, USB-C, Up to 12 Hours Battery Life, Black",
+        "rating": 4.7,
+        "reviews": 13755
+      },
+      {
+        "rank": 4,
+        "asin": "B0FX3GFYJP",
+        "title": "Midland ER10VP Weather Radio - Flashlight &amp; Emergency Alert - AM/FM Radio",
+        "rating": 4.5,
+        "reviews": 249
+      },
+      {
+        "rank": 5,
+        "asin": "B0GHYJ7BS9",
+        "title": "JBL Go 5 - Ultra-portable IP68 waterproof &amp; drop-proof speaker (Black)",
+        "rating": 4.6,
+        "reviews": 1390
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "172282:172623",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

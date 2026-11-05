@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "8516082011",
+  "level": "L4",
+  "categoryPathEn": "Home & Kitchen > Furniture > Replacement Parts > Recliner Parts",
+  "categoryPathCn": "家居用品 > 家具 > 替换零件 > 躺椅替换零件",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 706780,
+    "avgRevenue": 7139,
+    "medianPrice": 29.99,
+    "priceBand": "$16.99 - $78.84",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B01D9W9ZWO",
+      "title": "Power Recliner Power Supply, Sopito 2-Pin AC/DC Adapter 100-240V 50/60hz",
+      "brand": "Sopito",
+      "price": 15.98,
+      "salesParent": 3909,
+      "revenue": 60315.87,
+      "rating": 4.7,
+      "reviews": 7209
+    },
+    {
+      "rank": 2,
+      "asin": "B07W3PFBZH",
+      "title": "Enouvation E6 Cordless High-Capacity Power Pack, 6000mAh",
+      "brand": "Enouvation",
+      "price": 279.0,
+      "salesParent": 176,
+      "revenue": 49104.0,
+      "rating": 4.3,
+      "reviews": 415
+    },
+    {
+      "rank": 3,
+      "asin": "B0CRB31JJJ",
+      "title": "Universal Electric Couch Power Recliner Adapter 29V 2A Power",
+      "brand": "sevkumz",
+      "price": 19.99,
+      "salesParent": 1203,
+      "revenue": 23638.95,
+      "rating": 4.6,
+      "reviews": 755
+    },
+    {
+      "rank": 4,
+      "asin": "B072BVST39",
+      "title": "Power Recliner Power Supply, AC/DC Switching Power Supply Transformer 2-pin 29V/24V 2A Adapter with AC Power Cord for Electric Power Recliner Lift Chair",
+      "brand": "Ponkor",
+      "price": 15.99,
+      "salesParent": 1219,
+      "revenue": 19491.81,
+      "rating": 4.7,
+      "reviews": 13054
+    },
+    {
+      "rank": 5,
+      "asin": "B0CLNLC62J",
+      "title": "Universal Power Cord for Recliner Chair - 2-Pin Power Adapter with Extension Cord for Lift Chair, Recliner Sofa, Recliner Couch, 29V 2A Recliner Power Supply Compatible with Most Makes &amp; Models…",
+      "brand": "HUZUM",
+      "price": 20.89,
+      "salesParent": 745,
+      "revenue": 15563.05,
+      "rating": 4.7,
+      "reviews": 672
+    },
+    {
+      "rank": 6,
+      "asin": "B086L8LD9D",
+      "title": "Universal Heavy-Duty Metal Sofa Chair Recliner Release Pull Handle Replacement Parts, Fits Ashley, Lazy Boy and Most Recliner Brands, 3.5&quot;L x 3&quot;W x 1.2&quot;H Handle Size",
+      "brand": "ttmagic",
+      "price": 13.99,
+      "salesParent": 1103,
+      "revenue": 15430.97,
+      "rating": 4.7,
+      "reviews": 4894
+    },
+    {
+      "rank": 7,
+      "asin": "B07TC5J4W9",
+      "title": "Metal Recliner Handle Replacement Parts with Cable, Universal Recliner Sofa Chair Couch Release Lever Pull Handle, Fits Ashley and Major Recliner Brands, Exposed Cable Length 4.9“",
+      "brand": "ttmagic",
+      "price": 11.99,
+      "salesParent": 1256,
+      "revenue": 15059.44,
+      "rating": 4.8,
+      "reviews": 5024
+    },
+    {
+      "rank": 8,
+      "asin": "B0CCQQJPVK",
+      "title": "10 Button 5 Pin Lift Chair Remote for Pride VivaLift USB - CTL1707190",
+      "brand": "AlveyTech",
+      "price": 69.89,
+      "salesParent": 176,
+      "revenue": 12881.44,
+      "rating": 4.6,
+      "reviews": 544
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -1,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -1,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 706780,
+    "priorHeadRevenue": 712075,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 20,
+      "pct": 20,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 36,
+      "brandCount": 55,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.53,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B01D9W9ZWO",
+        "title": "Power Recliner Power Supply, Sopito 2-Pin AC/DC Adapter 100-240V 50/60hz",
+        "rating": 4.7,
+        "reviews": 7209
+      },
+      {
+        "rank": 2,
+        "asin": "B07W3PFBZH",
+        "title": "Enouvation E6 Cordless High-Capacity Power Pack, 6000mAh",
+        "rating": 4.3,
+        "reviews": 415
+      },
+      {
+        "rank": 3,
+        "asin": "B0CRB31JJJ",
+        "title": "Universal Electric Couch Power Recliner Adapter 29V 2A Power",
+        "rating": 4.6,
+        "reviews": 755
+      },
+      {
+        "rank": 4,
+        "asin": "B072BVST39",
+        "title": "Power Recliner Power Supply, AC/DC Switching Power Supply Transformer 2-pin 29V/24V 2A Adapter with AC Power Cord for Electric Power Recliner Lift Chair",
+        "rating": 4.7,
+        "reviews": 13054
+      },
+      {
+        "rank": 5,
+        "asin": "B0CLNLC62J",
+        "title": "Universal Power Cord for Recliner Chair - 2-Pin Power Adapter with Extension Cord for Lift Chair, Recliner Sofa, Recliner Couch, 29V 2A Recliner Power Supply Compatible with Most Makes &amp; Models…",
+        "rating": 4.7,
+        "reviews": 672
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "1055398:1063306:8516080011:8516082011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

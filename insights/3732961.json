@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3732961",
+  "level": "L4",
+  "categoryPathEn": "Home & Kitchen > Furniture > Bedroom Furniture > Mattresses & Box Springs",
+  "categoryPathCn": "家居用品 > 家具 > 家具卧室 > 床垫",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 87,
+    "totalRevenue": 106080044,
+    "avgRevenue": 1219311,
+    "medianPrice": 329.99,
+    "priceBand": "$199.99 - $459.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0DKT9ZGW3",
+      "title": "EGOHOME Full Size Memory Foam Mattress 8 Inch, Green Tea, Medium Firm",
+      "brand": "EGOHOME",
+      "price": 139.99,
+      "salesParent": 65561,
+      "revenue": 9177885.0,
+      "rating": 4.3,
+      "reviews": 13767
+    },
+    {
+      "rank": 2,
+      "asin": "B083YYBNF9",
+      "title": "Novilla Bliss Queen Size Mattress, 12 Inch Gel Memory Foam Mattress Queen",
+      "brand": "Novilla",
+      "price": 299.99,
+      "salesParent": 19459,
+      "revenue": 5841008.5,
+      "rating": 4.4,
+      "reviews": 28852
+    },
+    {
+      "rank": 3,
+      "asin": "B0DCXFXGBM",
+      "title": "Nectar 12” Memory Foam Mattress, Queen, Firm Feel, 1-Year Trial",
+      "brand": "Nectar",
+      "price": 699.0,
+      "salesParent": 6277,
+      "revenue": 4387623.0,
+      "rating": 4.3,
+      "reviews": 1226
+    },
+    {
+      "rank": 4,
+      "asin": "B0DWK7DTNW",
+      "title": "Novilla 12 Inch Queen Mattress in a Box, Gel Memory Foam for Cooling Night",
+      "brand": "Novilla",
+      "price": 215.99,
+      "salesParent": 18589,
+      "revenue": 4040133.25,
+      "rating": 4.4,
+      "reviews": 5624
+    },
+    {
+      "rank": 5,
+      "asin": "B0G87T2GPP",
+      "title": "EGOHOME Cal King 12 inch Memory Foam Mattress for Back Pain Relief Firm",
+      "brand": "MLILY",
+      "price": 539.99,
+      "salesParent": 7074,
+      "revenue": 3819889.25,
+      "rating": 4.2,
+      "reviews": 57
+    },
+    {
+      "rank": 6,
+      "asin": "B08YDJS51B",
+      "title": "FDW | 8 Inch Twin Mattress | Medium Firm | Gel Memory Foam | White",
+      "brand": "FDW",
+      "price": 99.99,
+      "salesParent": 30712,
+      "revenue": 2886928.0,
+      "rating": 4.4,
+      "reviews": 19361
+    },
+    {
+      "rank": 7,
+      "asin": "B0CSJTDWXS",
+      "title": "Zinus 8 Inch Full Cooling Essential Memory Foam Mattress, Medium Feel",
+      "brand": "Zinus",
+      "price": 137.99,
+      "salesParent": 21321,
+      "revenue": 2882812.5,
+      "rating": 4.3,
+      "reviews": 6449
+    },
+    {
+      "rank": 8,
+      "asin": "B0FX2Q6Z9R",
+      "title": "Sleepmax Extra Firm King Mattress 14 Inch, Luxury Mattress Pain Relief",
+      "brand": "Sleepmax",
+      "price": 599.99,
+      "salesParent": 4607,
+      "revenue": 2764154.0,
+      "rating": 4.4,
+      "reviews": 598
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 0,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 0,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 106080044,
+    "priorHeadRevenue": 105768467,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 87,
+      "newCount": 59,
+      "pct": 68,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 45,
+      "brandCount": 37,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.36,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0DKT9ZGW3",
+        "title": "EGOHOME Full Size Memory Foam Mattress 8 Inch, Green Tea, Medium Firm",
+        "rating": 4.3,
+        "reviews": 13767
+      },
+      {
+        "rank": 2,
+        "asin": "B083YYBNF9",
+        "title": "Novilla Bliss Queen Size Mattress, 12 Inch Gel Memory Foam Mattress Queen",
+        "rating": 4.4,
+        "reviews": 28852
+      },
+      {
+        "rank": 3,
+        "asin": "B0DCXFXGBM",
+        "title": "Nectar 12” Memory Foam Mattress, Queen, Firm Feel, 1-Year Trial",
+        "rating": 4.3,
+        "reviews": 1226
+      },
+      {
+        "rank": 4,
+        "asin": "B0DWK7DTNW",
+        "title": "Novilla 12 Inch Queen Mattress in a Box, Gel Memory Foam for Cooling Night",
+        "rating": 4.4,
+        "reviews": 5624
+      },
+      {
+        "rank": 5,
+        "asin": "B0G87T2GPP",
+        "title": "EGOHOME Cal King 12 inch Memory Foam Mattress for Back Pain Relief Firm",
+        "rating": 4.2,
+        "reviews": 57
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "1055398:1063306:1063308:3732961",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

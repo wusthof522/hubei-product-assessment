@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23642794011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Remote & App Controlled Vehicles & Parts > Remote & App Controlled Vehicles > Submarines",
+  "categoryPathCn": "玩具 > 遥控 > 遥控 > 潜艇",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 46,
+    "totalRevenue": 18898,
+    "avgRevenue": 411,
+    "medianPrice": 29.98,
+    "priceBand": "$25.99 - $32.07",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B07V4CX4SZ",
+      "title": "6 Channels Mini RC Submarine Toy (Blue)",
+      "brand": "YEIBOBO !",
+      "price": 32.99,
+      "salesParent": 182,
+      "revenue": 6004.18,
+      "rating": 3.8,
+      "reviews": 555
+    },
+    {
+      "rank": 2,
+      "asin": "B092VHN1V4",
+      "title": "Tipmant RC Submarine Toy Remote Control Boat Underwater Diving Waterproof for Fish Water Tank Children Birthday Gift (White)",
+      "brand": "Tipmant",
+      "price": 29.98,
+      "salesParent": 91,
+      "revenue": 2728.18,
+      "rating": 3.9,
+      "reviews": 122
+    },
+    {
+      "rank": 3,
+      "asin": "B0GXVRV73T",
+      "title": "Mini RC Submarine Remote Control Boat, Waterproof 6 Channel Electric Military Model, Diving RC Water Toy for Fish Tank, Bathtub &amp; Pool, Kids Birthday Gift (Green)",
+      "brand": "Knizartt",
+      "price": 29.59,
+      "salesParent": 39,
+      "revenue": 1118.91,
+      "rating": 5.0,
+      "reviews": 1
+    },
+    {
+      "rank": 4,
+      "asin": "B07X94MKQS",
+      "title": "Tipmant Mini RC Submarine Remote Control Boat Ship Military Model Electronic Water Toy Diving for Fish Tank Water Tub Kids Birthday Gift (Green)",
+      "brand": "Tipmant",
+      "price": 29.99,
+      "salesParent": 37,
+      "revenue": 1109.63,
+      "rating": 3.7,
+      "reviews": 318
+    },
+    {
+      "rank": 5,
+      "asin": "B01EJ1LMVQ",
+      "title": "Tipmant Mini RC Submarine Toy Remote Control Boat Underwater Electric Diving Water Fish Tank Kids Birthday Gift (Yellow)",
+      "brand": "Tipmant",
+      "price": 29.98,
+      "salesParent": 31,
+      "revenue": 929.38,
+      "rating": 3.6,
+      "reviews": 466
+    },
+    {
+      "rank": 6,
+      "asin": "B08QJDRDRH",
+      "title": "GoolRC Mini RC Submarine, LSRC-SMI Remote Control Boat Waterproof Diving Toy (Blue)",
+      "brand": "GoolRC",
+      "price": 29.99,
+      "salesParent": 31,
+      "revenue": 873.89,
+      "rating": 3.6,
+      "reviews": 182
+    },
+    {
+      "rank": 7,
+      "asin": "B0FB86F2GZ",
+      "title": "6CH Hi-Speed Waterproof Mini Nuclear RC Submarine for Kids, Blue",
+      "brand": "ynapmoc",
+      "price": 25.49,
+      "salesParent": 30,
+      "revenue": 764.7,
+      "rating": 3.8,
+      "reviews": 5
+    },
+    {
+      "rank": 8,
+      "asin": "B0F21P53J5",
+      "title": "Mini RC Boat Toy Remote Control Tourist Submarine Underwater Electric Fish Tank Diving Child's Birthday Present(Blue)",
+      "brand": "Ouhgnoh",
+      "price": 29.99,
+      "salesParent": 24,
+      "revenue": 719.76,
+      "rating": 4.0,
+      "reviews": 6
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 5,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 5,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 18898,
+    "priorHeadRevenue": 17999,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 46,
+      "newCount": 32,
+      "pct": 70,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 80,
+      "brandCount": 29,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 3.53,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B07V4CX4SZ",
+        "title": "6 Channels Mini RC Submarine Toy (Blue)",
+        "rating": 3.8,
+        "reviews": 555
+      },
+      {
+        "rank": 2,
+        "asin": "B092VHN1V4",
+        "title": "Tipmant RC Submarine Toy Remote Control Boat Underwater Diving Waterproof for Fish Water Tank Children Birthday Gift (White)",
+        "rating": 3.9,
+        "reviews": 122
+      },
+      {
+        "rank": 3,
+        "asin": "B0GXVRV73T",
+        "title": "Mini RC Submarine Remote Control Boat, Waterproof 6 Channel Electric Military Model, Diving RC Water Toy for Fish Tank, Bathtub &amp; Pool, Kids Birthday Gift (Green)",
+        "rating": 5.0,
+        "reviews": 1
+      },
+      {
+        "rank": 4,
+        "asin": "B07X94MKQS",
+        "title": "Tipmant Mini RC Submarine Remote Control Boat Ship Military Model Electronic Water Toy Diving for Fish Tank Water Tub Kids Birthday Gift (Green)",
+        "rating": 3.7,
+        "reviews": 318
+      },
+      {
+        "rank": 5,
+        "asin": "B01EJ1LMVQ",
+        "title": "Tipmant Mini RC Submarine Toy Remote Control Boat Underwater Electric Diving Water Fish Tank Kids Birthday Gift (Yellow)",
+        "rating": 3.6,
+        "reviews": 466
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:6925830011:166583011:23642794011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

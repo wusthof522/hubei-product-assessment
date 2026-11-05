@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "19574764011",
+  "level": "L4",
+  "categoryPathEn": "Clothing, Shoes & Jewelry > Sport Specific Clothing > Baseball > Men",
+  "categoryPathCn": "服装、鞋履和珠宝 > 运动专用服装 > 棒球 > 男人",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 2277802,
+    "avgRevenue": 22778,
+    "medianPrice": 26.98,
+    "priceBand": "$18.2 - $36.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0GRZJHBP2",
+      "title": "Mens/Women/Youth/Kid Milwaukee Baseball Stitched T-Shirt",
+      "brand": "NZUONODAI",
+      "price": 60.98,
+      "salesParent": 3214,
+      "revenue": 195989.72,
+      "rating": 4.3,
+      "reviews": 152
+    },
+    {
+      "rank": 2,
+      "asin": "B09BKD44D1",
+      "title": "Nike Adult Baseball Softball Over-The-Calf Socks (2 Pairs) | Mens &amp; Womens",
+      "brand": "Nike",
+      "price": 22.0,
+      "salesParent": 4887,
+      "revenue": 107514.0,
+      "rating": 4.7,
+      "reviews": 445
+    },
+    {
+      "rank": 3,
+      "asin": "B0C4Q9V1MZ",
+      "title": "Easton Mens Easton | Mojo Baseball Pants | Full Length Semi-Relaxed Fit | Adult Sizes | Multiple Colors",
+      "brand": "Easton",
+      "price": 16.8,
+      "salesParent": 5529,
+      "revenue": 98360.91,
+      "rating": 4.3,
+      "reviews": 744
+    },
+    {
+      "rank": 4,
+      "asin": "B098Q67ZTG",
+      "title": "CUTHBERT Baseball Jersey Men Women Casual Button Down Shirt",
+      "brand": "CUTHBERT",
+      "price": 14.99,
+      "salesParent": 6074,
+      "revenue": 91049.26,
+      "rating": 4.6,
+      "reviews": 1621
+    },
+    {
+      "rank": 5,
+      "asin": "B09JL3XC89",
+      "title": "Under Armour Men's Utility Baseball Pants 22",
+      "brand": "Under Armour",
+      "price": 33.0,
+      "salesParent": 2610,
+      "revenue": 86130.0,
+      "rating": 4.5,
+      "reviews": 2117
+    },
+    {
+      "rank": 6,
+      "asin": "B0HCTWVPBR",
+      "title": "Horror Movie Character Halloween Baseball Jersey Shirts for Women Men",
+      "brand": "GEPOS",
+      "price": 41.95,
+      "salesParent": 2227,
+      "revenue": 82955.75,
+      "rating": 4.3,
+      "reviews": 188
+    },
+    {
+      "rank": 7,
+      "asin": "B077YDDCPR",
+      "title": "Augusta Sportswear Mens Baseball 3/4 Sleeve Tee 2.0 | Soft Cotton Blend Raglan Tee",
+      "brand": "Augusta Sportswear",
+      "price": 11.25,
+      "salesParent": 6299,
+      "revenue": 74013.25,
+      "rating": 4.3,
+      "reviews": 1682
+    },
+    {
+      "rank": 8,
+      "asin": "B013I2A3RG",
+      "title": "Rawlings | Men’s Semi-Relaxed Full Length Baseball Pants | Piped | Adult Sizes | Multiple Colors",
+      "brand": "Rawlings",
+      "price": 20.65,
+      "salesParent": 3509,
+      "revenue": 72460.85,
+      "rating": 4.5,
+      "reviews": 5057
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 17,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 17,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 2277802,
+    "priorHeadRevenue": 1947293,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 18,
+      "pct": 18,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 44,
+      "brandCount": 59,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.52,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0GRZJHBP2",
+        "title": "Mens/Women/Youth/Kid Milwaukee Baseball Stitched T-Shirt",
+        "rating": 4.3,
+        "reviews": 152
+      },
+      {
+        "rank": 2,
+        "asin": "B09BKD44D1",
+        "title": "Nike Adult Baseball Softball Over-The-Calf Socks (2 Pairs) | Mens &amp; Womens",
+        "rating": 4.7,
+        "reviews": 445
+      },
+      {
+        "rank": 3,
+        "asin": "B0C4Q9V1MZ",
+        "title": "Easton Mens Easton | Mojo Baseball Pants | Full Length Semi-Relaxed Fit | Adult Sizes | Multiple Colors",
+        "rating": 4.3,
+        "reviews": 744
+      },
+      {
+        "rank": 4,
+        "asin": "B098Q67ZTG",
+        "title": "CUTHBERT Baseball Jersey Men Women Casual Button Down Shirt",
+        "rating": 4.6,
+        "reviews": 1621
+      },
+      {
+        "rank": 5,
+        "asin": "B09JL3XC89",
+        "title": "Under Armour Men's Utility Baseball Pants 22",
+        "rating": 4.5,
+        "reviews": 2117
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "7141123011:23575629011:19574753011:19574764011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

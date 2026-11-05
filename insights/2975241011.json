@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "2975241011",
+  "level": "L2",
+  "categoryPathEn": "Pet Supplies > Cats",
+  "categoryPathCn": "宠物用品 > 猫",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 155752305,
+    "avgRevenue": 1573256,
+    "medianPrice": 32.76,
+    "priceBand": "$22.99 - $48.98",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0009X29WK",
+      "title": "Dr. Elsey's Ultra UnScented Clumping Clay Cat Litter 40 lb. Bag",
+      "brand": "Dr. Elsey's",
+      "price": 22.99,
+      "salesParent": 292965,
+      "revenue": 6609290.0,
+      "rating": 4.4,
+      "reviews": 70626
+    },
+    {
+      "rank": 2,
+      "asin": "B07D323MFZ",
+      "title": "INABA Churu Cat Treats, Lickable, Squeezable Creamy Purée Cat Treat with Green Tea Extract &amp; Taurine, 0.5 Ounces Each Tube, 50 Tubes, Tuna &amp; Chicken Variety",
+      "brand": "INABA",
+      "price": 32.96,
+      "salesParent": 172679,
+      "revenue": 5691499.5,
+      "rating": 4.9,
+      "reviews": 13957
+    },
+    {
+      "rank": 3,
+      "asin": "B0FTTFJS69",
+      "title": "ARM &amp; HAMMER Slide Platinum Easy Clean-Up Clumping Cat Litter, 24/7 Odor Control with Triple-Action Freshness, Non-Stick, Low Tracking &amp; Multi-Cat Formula, Scented, 18 Lbs (Pack of 2)",
+      "brand": "ARM &amp; HAMMER",
+      "price": 35.98,
+      "salesParent": 147798,
+      "revenue": 5317772.0,
+      "rating": 4.8,
+      "reviews": 42105
+    },
+    {
+      "rank": 4,
+      "asin": "B005OB3E30",
+      "title": "Purina Fancy Feast Gravy Lovers, Poultry &amp; Beef Wet Cat Food, 3oz, 24-Pack",
+      "brand": "Fancy Feast",
+      "price": 22.86,
+      "salesParent": 225051,
+      "revenue": 5144666.0,
+      "rating": 4.7,
+      "reviews": 55811
+    },
+    {
+      "rank": 5,
+      "asin": "B0GTLN8JGD",
+      "title": "ARM &amp; Hammer Clump &amp; Seal Platinum Cat Litter, Multi-Cat Clumping Litter Forms Rock-Hard Clumps, Powerful Odor Eliminators with Baking Soda, 14-Day Odor Control, 18 lbs (Pack of 2)",
+      "brand": "ARM &amp; HAMMER",
+      "price": 35.98,
+      "salesParent": 133205,
+      "revenue": 4792716.0,
+      "rating": 4.5,
+      "reviews": 22083
+    },
+    {
+      "rank": 6,
+      "asin": "B0GM2D2MGG",
+      "title": "PetArmor Plus Cat, 6ct + PetArmor CapAction Cat, 6ct Treat and Prevent Bundle – Fast Acting and Long Lasting Flea and Tick Care",
+      "brand": "PetArmor",
+      "price": 67.84,
+      "salesParent": 61306,
+      "revenue": 4158998.75,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "rank": 7,
+      "asin": "B089PM6FRC",
+      "title": "Fresh Step Advanced Odor Shield Clumping Cat Litter with Gain, 18.5 lb, 2Pk",
+      "brand": "Fresh Step",
+      "price": 28.99,
+      "salesParent": 126256,
+      "revenue": 3806618.25,
+      "rating": 4.7,
+      "reviews": 69386
+    },
+    {
+      "rank": 8,
+      "asin": "B072DTFZHL",
+      "title": "Sheba Perfect Portions Cuts Wet Cat Food, Multipack, 2.6 oz, 24 ct",
+      "brand": "Sheba",
+      "price": 27.96,
+      "salesParent": 126109,
+      "revenue": 3517180.0,
+      "rating": 4.7,
+      "reviews": 21251
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 25,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 25,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 155752305,
+    "priorHeadRevenue": 124149932,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 16,
+      "pct": 16,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 38,
+      "brandCount": 53,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.54,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0009X29WK",
+        "title": "Dr. Elsey's Ultra UnScented Clumping Clay Cat Litter 40 lb. Bag",
+        "rating": 4.4,
+        "reviews": 70626
+      },
+      {
+        "rank": 2,
+        "asin": "B07D323MFZ",
+        "title": "INABA Churu Cat Treats, Lickable, Squeezable Creamy Purée Cat Treat with Green Tea Extract &amp; Taurine, 0.5 Ounces Each Tube, 50 Tubes, Tuna &amp; Chicken Variety",
+        "rating": 4.9,
+        "reviews": 13957
+      },
+      {
+        "rank": 3,
+        "asin": "B0FTTFJS69",
+        "title": "ARM &amp; HAMMER Slide Platinum Easy Clean-Up Clumping Cat Litter, 24/7 Odor Control with Triple-Action Freshness, Non-Stick, Low Tracking &amp; Multi-Cat Formula, Scented, 18 Lbs (Pack of 2)",
+        "rating": 4.8,
+        "reviews": 42105
+      },
+      {
+        "rank": 4,
+        "asin": "B005OB3E30",
+        "title": "Purina Fancy Feast Gravy Lovers, Poultry &amp; Beef Wet Cat Food, 3oz, 24-Pack",
+        "rating": 4.7,
+        "reviews": 55811
+      },
+      {
+        "rank": 5,
+        "asin": "B0GTLN8JGD",
+        "title": "ARM &amp; Hammer Clump &amp; Seal Platinum Cat Litter, Multi-Cat Clumping Litter Forms Rock-Hard Clumps, Powerful Odor Eliminators with Baking Soda, 14-Day Odor Control, 18 lbs (Pack of 2)",
+        "rating": 4.5,
+        "reviews": 22083
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "2619533011:2975241011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

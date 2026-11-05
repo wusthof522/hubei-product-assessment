@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23642768011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Toy Figures & Playsets > Play Figure Vehicles > Helicopters",
+  "categoryPathCn": "玩具 > 玩具图 > 游戏人物车辆 > 直升机",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 40,
+    "totalRevenue": 42585,
+    "avgRevenue": 1065,
+    "medianPrice": 27.23,
+    "priceBand": "$18.96 - $58.6",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B00IL7IFOM",
+      "title": "Green Toys Helicopter, Blue/Green",
+      "brand": "Green Toys",
+      "price": 9.41,
+      "salesParent": 953,
+      "revenue": 10569.0,
+      "rating": 4.8,
+      "reviews": 4752
+    },
+    {
+      "rank": 2,
+      "asin": "B0G4XW274V",
+      "title": "Marvel Spider-Man IR RC Flying Figure, Jetpack, LED Lights, Action Phrases",
+      "brand": "World Tech Toys",
+      "price": 59.19,
+      "salesParent": 115,
+      "revenue": 7010.4,
+      "rating": 2.8,
+      "reviews": 143
+    },
+    {
+      "rank": 3,
+      "asin": "B00IL7IFOC",
+      "title": "Green Toys Helicopter, Green/Blue",
+      "brand": "Green Toys",
+      "price": 24.98,
+      "salesParent": 274,
+      "revenue": 6844.52,
+      "rating": 4.8,
+      "reviews": 1466
+    },
+    {
+      "rank": 4,
+      "asin": "B0BNNM4F5W",
+      "title": "Lollipop United States Army Helicopter Toy, Military Rescue Copter w/Lights, Sound &amp; Accessories, Soldier Transport Aircraft Model, 3+",
+      "brand": "Lollipop",
+      "price": 22.95,
+      "salesParent": 175,
+      "revenue": 4016.25,
+      "rating": 4.2,
+      "reviews": 19
+    },
+    {
+      "rank": 5,
+      "asin": "B0BKH34SQX",
+      "title": "Thomas &amp; Friends Fisher-Price Harold Metal Engine Helicopter Toy for Preschool Kids Ages 3 Years and Up",
+      "brand": "THOMAS &amp; FRIENDS",
+      "price": 16.99,
+      "salesParent": 203,
+      "revenue": 3448.97,
+      "rating": 4.6,
+      "reviews": 144
+    },
+    {
+      "rank": 6,
+      "asin": "B003VZP3DK",
+      "title": "Marvel Spider-Man Jetpack Flying Figure RC Helicopter, Kids 8+",
+      "brand": "World Tech Toys",
+      "price": 60.0,
+      "salesParent": 35,
+      "revenue": 2046.45,
+      "rating": 3.9,
+      "reviews": 412
+    },
+    {
+      "rank": 7,
+      "asin": "B0CGV94X9X",
+      "title": "Fisher Price Helicopter Little People Vehicle",
+      "brand": "Fisher-Price",
+      "price": 16.49,
+      "salesParent": 118,
+      "revenue": 1955.26,
+      "rating": 4.8,
+      "reviews": 118
+    },
+    {
+      "rank": 8,
+      "asin": "B0GV1VMZ6X",
+      "title": "Sonic the Hedgehog IR RC Jetpack Flying Figure, LED Lights, Twin Rotors",
+      "brand": "World Tech Toys",
+      "price": 47.96,
+      "salesParent": 34,
+      "revenue": 1800.3,
+      "rating": 1.0,
+      "reviews": 9
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 57,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 57,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 42585,
+    "priorHeadRevenue": 27084,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 40,
+      "newCount": 9,
+      "pct": 22,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 96,
+      "brandCount": 19,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.1,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B00IL7IFOM",
+        "title": "Green Toys Helicopter, Blue/Green",
+        "rating": 4.8,
+        "reviews": 4752
+      },
+      {
+        "rank": 2,
+        "asin": "B0G4XW274V",
+        "title": "Marvel Spider-Man IR RC Flying Figure, Jetpack, LED Lights, Action Phrases",
+        "rating": 2.8,
+        "reviews": 143
+      },
+      {
+        "rank": 3,
+        "asin": "B00IL7IFOC",
+        "title": "Green Toys Helicopter, Green/Blue",
+        "rating": 4.8,
+        "reviews": 1466
+      },
+      {
+        "rank": 4,
+        "asin": "B0BNNM4F5W",
+        "title": "Lollipop United States Army Helicopter Toy, Military Rescue Copter w/Lights, Sound &amp; Accessories, Soldier Transport Aircraft Model, 3+",
+        "rating": 4.2,
+        "reviews": 19
+      },
+      {
+        "rank": 5,
+        "asin": "B0BKH34SQX",
+        "title": "Thomas &amp; Friends Fisher-Price Harold Metal Engine Helicopter Toy for Preschool Kids Ages 3 Years and Up",
+        "rating": 4.6,
+        "reviews": 144
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:165993011:274293011:23642768011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

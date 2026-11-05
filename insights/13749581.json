@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "13749581",
+  "level": "L2",
+  "categoryPathEn": "Tools & Home Improvement > Rough Plumbing",
+  "categoryPathCn": "工具 > 粗糙的管道系统",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 97,
+    "totalRevenue": 24602258,
+    "avgRevenue": 253632,
+    "medianPrice": 157.5,
+    "priceBand": "$60.7 - $349.45",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B00PM8STLM",
+      "title": "INSINKERATOR BADGER 5 Garbage Disposal with Cord, 1/2 HP Continuous Feed",
+      "brand": "InSinkErator",
+      "price": 121.76,
+      "salesParent": 16106,
+      "revenue": 1797751.75,
+      "rating": 4.7,
+      "reviews": 17446
+    },
+    {
+      "rank": 2,
+      "asin": "B0CR9WJXX9",
+      "title": "InSinkErator EVOLUTION 0.75HP 3/4 HP &amp; Garbage Disposal EZ Connect 3-Foot Power Cord for EZ Connect Power and Advanced Series Continuous Feed Food Waste Disposer Models, CRD-EZ",
+      "brand": "InSinkErator",
+      "price": 304.58,
+      "salesParent": 2993,
+      "revenue": 911607.88,
+      "rating": 4.6,
+      "reviews": 26
+    },
+    {
+      "rank": 3,
+      "asin": "B0C9QCCBVW",
+      "title": "AQUASTRONG 1 HP Sump Pump 4500 GPH Submersible Water Pump for Water Removal",
+      "brand": "AQUASTRONG",
+      "price": 59.38,
+      "salesParent": 10975,
+      "revenue": 697790.5,
+      "rating": 4.4,
+      "reviews": 3813
+    },
+    {
+      "rank": 4,
+      "asin": "B00004U9JO",
+      "title": "InSinkErator Badger 5 Garbage Disposal, Badger Series 1/2 HP Continuous Feed Food Waste Disposer",
+      "brand": "InSinkErator",
+      "price": 116.29,
+      "salesParent": 5797,
+      "revenue": 620105.12,
+      "rating": 4.6,
+      "reviews": 20104
+    },
+    {
+      "rank": 5,
+      "asin": "B01NB0729G",
+      "title": "FlexiSnake Drain Weasel Sink Snake Hair Clog Remover Tool Kit, 5 Wands",
+      "brand": "FlexiSnake",
+      "price": 19.99,
+      "salesParent": 30027,
+      "revenue": 600239.75,
+      "rating": 4.4,
+      "reviews": 41479
+    },
+    {
+      "rank": 6,
+      "asin": "B00XAJK52Q",
+      "title": "Aquasana Whole House Water Filter System | 1M Gal | UV | WH-1000-CS-UVS-B",
+      "brand": "Aquasana",
+      "price": 2696.0,
+      "salesParent": 205,
+      "revenue": 579059.38,
+      "rating": 4.2,
+      "reviews": 2322
+    },
+    {
+      "rank": 7,
+      "asin": "B0CM4L8VKC",
+      "title": "Rinnai RX199iN Condensing Smart Sense Tankless Water Heater",
+      "brand": "Rinnai",
+      "price": 1532.79,
+      "salesParent": 362,
+      "revenue": 555554.19,
+      "rating": 4.7,
+      "reviews": 152
+    },
+    {
+      "rank": 8,
+      "asin": "B01MR7Z39V",
+      "title": "Rheem 18kW 240V Tankless Electric Water Heater, Gray",
+      "brand": "Rheem",
+      "price": 420.0,
+      "salesParent": 1281,
+      "revenue": 543259.31,
+      "rating": 4.2,
+      "reviews": 2188
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 15,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 15,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 24602258,
+    "priorHeadRevenue": 21398716,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 97,
+      "newCount": 11,
+      "pct": 11,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 39,
+      "brandCount": 57,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.45,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B00PM8STLM",
+        "title": "INSINKERATOR BADGER 5 Garbage Disposal with Cord, 1/2 HP Continuous Feed",
+        "rating": 4.7,
+        "reviews": 17446
+      },
+      {
+        "rank": 2,
+        "asin": "B0CR9WJXX9",
+        "title": "InSinkErator EVOLUTION 0.75HP 3/4 HP &amp; Garbage Disposal EZ Connect 3-Foot Power Cord for EZ Connect Power and Advanced Series Continuous Feed Food Waste Disposer Models, CRD-EZ",
+        "rating": 4.6,
+        "reviews": 26
+      },
+      {
+        "rank": 3,
+        "asin": "B0C9QCCBVW",
+        "title": "AQUASTRONG 1 HP Sump Pump 4500 GPH Submersible Water Pump for Water Removal",
+        "rating": 4.4,
+        "reviews": 3813
+      },
+      {
+        "rank": 4,
+        "asin": "B00004U9JO",
+        "title": "InSinkErator Badger 5 Garbage Disposal, Badger Series 1/2 HP Continuous Feed Food Waste Disposer",
+        "rating": 4.6,
+        "reviews": 20104
+      },
+      {
+        "rank": 5,
+        "asin": "B01NB0729G",
+        "title": "FlexiSnake Drain Weasel Sink Snake Hair Clog Remover Tool Kit, 5 Wands",
+        "rating": 4.4,
+        "reviews": 41479
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "228013:13749581",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

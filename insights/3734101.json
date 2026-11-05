@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3734101",
+  "level": "L4",
+  "categoryPathEn": "Home & Kitchen > Furniture > Game & Recreation Room Furniture > Home Bar Furniture",
+  "categoryPathCn": "家居用品 > 家具 > 游戏 > 家庭酒吧家具",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 67,
+    "totalRevenue": 13805199,
+    "avgRevenue": 206048,
+    "medianPrice": 239.99,
+    "priceBand": "$161.49 - $398.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0HPNR6TVJ",
+      "title": "Nalupatio Modern Bar Stools Set of 4, Adjustable Faux Leather Upholstered Swivel Bar Stools, Counter Height Bar Chairs with Back for Kitchen Island, Slate Gray",
+      "brand": "Nalupatio",
+      "price": 239.99,
+      "salesParent": 5040,
+      "revenue": 1209549.62,
+      "rating": 4.5,
+      "reviews": 2769
+    },
+    {
+      "rank": 2,
+      "asin": "B0BZ8D2CYM",
+      "title": "Counter Height Bar Stools Set of 2, 360° Swivel Upholstered Barstools with Backs and Metal Legs, 26&quot; H Seat Height, Linen Fabric in Black",
+      "brand": "VATROS",
+      "price": 179.99,
+      "salesParent": 3887,
+      "revenue": 699621.12,
+      "rating": 4.8,
+      "reviews": 296
+    },
+    {
+      "rank": 3,
+      "asin": "B0D5CMJRG7",
+      "title": "26&quot; H Counter Height Bar Stools Set of 2, Modern Barrel Counter Stools with Backrest and Arms, Linen Fabric Upholstered Accent Barstools for Kitchen Island,Support 450 LBS (Beige)",
+      "brand": "VATROS",
+      "price": 159.99,
+      "salesParent": 3214,
+      "revenue": 564506.94,
+      "rating": 4.5,
+      "reviews": 1065
+    },
+    {
+      "rank": 4,
+      "asin": "B0GJYYNN3B",
+      "title": "UVV Bar Stools Set of 4, Upholstered Counter Height Bar Stools, Modern Counter Stools with Wood Legs for Kitchen Island Dining Room Bar, Green",
+      "brand": "UVV",
+      "price": 399.99,
+      "salesParent": 1207,
+      "revenue": 482787.91,
+      "rating": 4.8,
+      "reviews": 158
+    },
+    {
+      "rank": 5,
+      "asin": "B07MBBRCR9",
+      "title": "Signature Design by Ashley Valebeck Counter Height Bar Stool, Brown",
+      "brand": "Signature Design by Ashley",
+      "price": 146.99,
+      "salesParent": 2703,
+      "revenue": 392718.84,
+      "rating": 4.5,
+      "reviews": 4347
+    },
+    {
+      "rank": 6,
+      "asin": "B0FP4VW716",
+      "title": "Counter Height Bar Stools Set of 4, Modern Counter Stools for Dining Room, 24 Inch Barstools for Kitchen Island, Faux Leather Bar Stool with Metal Legs and Back Footrest, Green",
+      "brand": "KRAMZMING",
+      "price": 449.99,
+      "salesParent": 878,
+      "revenue": 348653.81,
+      "rating": 4.4,
+      "reviews": 6
+    },
+    {
+      "rank": 7,
+      "asin": "B0DXPT5SXF",
+      "title": "Sophia &amp; William 30 Inch Swivel Bar Stools Set of 4, Bar Height Barstools",
+      "brand": "Sophia &amp; William",
+      "price": 399.99,
+      "salesParent": 793,
+      "revenue": 344352.31,
+      "rating": 4.6,
+      "reviews": 212
+    },
+    {
+      "rank": 8,
+      "asin": "B0FB3TD7Y5",
+      "title": "Counter Height Bar Stools Set of 3, FSC Certified Upholstered Faux Leather Barstools with Back, Metal Base, 27&quot; Seat Height, Modern Upholstered Counter Stools for Kitchen Island,(Walnut Brown",
+      "brand": "VATROS",
+      "price": 169.99,
+      "salesParent": 1666,
+      "revenue": 302362.34,
+      "rating": 4.6,
+      "reviews": 247
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -5,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -5,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 13805199,
+    "priorHeadRevenue": 14507616,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 67,
+      "newCount": 36,
+      "pct": 54,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 38,
+      "brandCount": 44,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.53,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0HPNR6TVJ",
+        "title": "Nalupatio Modern Bar Stools Set of 4, Adjustable Faux Leather Upholstered Swivel Bar Stools, Counter Height Bar Chairs with Back for Kitchen Island, Slate Gray",
+        "rating": 4.5,
+        "reviews": 2769
+      },
+      {
+        "rank": 2,
+        "asin": "B0BZ8D2CYM",
+        "title": "Counter Height Bar Stools Set of 2, 360° Swivel Upholstered Barstools with Backs and Metal Legs, 26&quot; H Seat Height, Linen Fabric in Black",
+        "rating": 4.8,
+        "reviews": 296
+      },
+      {
+        "rank": 3,
+        "asin": "B0D5CMJRG7",
+        "title": "26&quot; H Counter Height Bar Stools Set of 2, Modern Barrel Counter Stools with Backrest and Arms, Linen Fabric Upholstered Accent Barstools for Kitchen Island,Support 450 LBS (Beige)",
+        "rating": 4.5,
+        "reviews": 1065
+      },
+      {
+        "rank": 4,
+        "asin": "B0GJYYNN3B",
+        "title": "UVV Bar Stools Set of 4, Upholstered Counter Height Bar Stools, Modern Counter Stools with Wood Legs for Kitchen Island Dining Room Bar, Green",
+        "rating": 4.8,
+        "reviews": 158
+      },
+      {
+        "rank": 5,
+        "asin": "B07MBBRCR9",
+        "title": "Signature Design by Ashley Valebeck Counter Height Bar Stool, Brown",
+        "rating": 4.5,
+        "reviews": 4347
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "1055398:1063306:5422303011:3734101",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3773651",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins, Minerals & Supplements > Glandular Extracts > Liver Extracts",
+  "categoryPathCn": "健康与家居 > 身、泳和附剂 > 圣诞体提取物 > 肝脏提取物",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 98,
+    "totalRevenue": 7340822,
+    "avgRevenue": 74906,
+    "medianPrice": 31.07,
+    "priceBand": "$23.96 - $41.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B01MSBZYQW",
+      "title": "Ancestral Supplements Beef Liver Support Capsules, Iron &amp; Energy, 180 Ct",
+      "brand": "Ancestral Supplements",
+      "price": 38.0,
+      "salesParent": 50743,
+      "revenue": 1928234.0,
+      "rating": 4.6,
+      "reviews": 20750
+    },
+    {
+      "rank": 2,
+      "asin": "B0CPJTZWY8",
+      "title": "Primal Queen Grass Fed Beef Organ Supplement for Women, 60 Capsules",
+      "brand": "Primal Queen",
+      "price": 58.0,
+      "salesParent": 16302,
+      "revenue": 945516.0,
+      "rating": 4.1,
+      "reviews": 5184
+    },
+    {
+      "rank": 3,
+      "asin": "B07MS8MXF5",
+      "title": "Wholesome Wellness Grass Fed Desiccated Beef Liver Capsules (180 Pills, 750mg Each) - Natural Iron, Vitamin A, B12 for Energy - Raised Undefatted in New Zealand Without Hormones or Chemicals",
+      "brand": "Wholesome Wellness",
+      "price": 31.99,
+      "salesParent": 11820,
+      "revenue": 362401.19,
+      "rating": 4.6,
+      "reviews": 9883
+    },
+    {
+      "rank": 4,
+      "asin": "B07YQ6J6FW",
+      "title": "TUDCA Bile Salts, 250mg Capsule, Tauroursodeoxycholic Acid, 60 Capsules",
+      "brand": "Double Wood Supplements",
+      "price": 25.95,
+      "salesParent": 14288,
+      "revenue": 349913.12,
+      "rating": 4.6,
+      "reviews": 5748
+    },
+    {
+      "rank": 5,
+      "asin": "B0DNRDM997",
+      "title": "Beef Organ Supplement for Women, Natural Source of Iron, 120 Capsules",
+      "brand": "Left Coast Performance",
+      "price": 34.99,
+      "salesParent": 7878,
+      "revenue": 275730.0,
+      "rating": 4.4,
+      "reviews": 1835
+    },
+    {
+      "rank": 6,
+      "asin": "B08B3GXD7G",
+      "title": "HEART &amp; SOIL Beef Organs Supplement, 180 Capsules",
+      "brand": "HEART &amp; SOIL",
+      "price": 49.96,
+      "salesParent": 4033,
+      "revenue": 225848.0,
+      "rating": 4.6,
+      "reviews": 1011
+    },
+    {
+      "rank": 7,
+      "asin": "B0DCKPRX8C",
+      "title": "Dr. Berg TUDCA Supplement (Tauroursodeoxycholic Acid) - Powerful Formula for Liver Health, Bile Flow, Gallbladder Support, and Digestive Health* - 30 Capsules",
+      "brand": "Dr. Berg Nutritionals",
+      "price": 26.99,
+      "salesParent": 8257,
+      "revenue": 222856.42,
+      "rating": 4.6,
+      "reviews": 1840
+    },
+    {
+      "rank": 8,
+      "asin": "B0DP798KJN",
+      "title": "Beef Organ Supplement for Women | Supports Hormone Balance | Ovary, Uterus &amp; Reproductive Nourishment + Liver, Kidney &amp; Heart for Cycle Harmony, Mood Ease &amp; Feminine Energy | 90 Day Supply",
+      "brand": "Optimal Carnivore",
+      "price": 58.95,
+      "salesParent": 2988,
+      "revenue": 163443.61,
+      "rating": 4.4,
+      "reviews": 1971
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -3,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -3,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 7340822,
+    "priorHeadRevenue": 7585485,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 98,
+      "newCount": 34,
+      "pct": 35,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 56,
+      "brandCount": 81,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.47,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B01MSBZYQW",
+        "title": "Ancestral Supplements Beef Liver Support Capsules, Iron &amp; Energy, 180 Ct",
+        "rating": 4.6,
+        "reviews": 20750
+      },
+      {
+        "rank": 2,
+        "asin": "B0CPJTZWY8",
+        "title": "Primal Queen Grass Fed Beef Organ Supplement for Women, 60 Capsules",
+        "rating": 4.1,
+        "reviews": 5184
+      },
+      {
+        "rank": 3,
+        "asin": "B07MS8MXF5",
+        "title": "Wholesome Wellness Grass Fed Desiccated Beef Liver Capsules (180 Pills, 750mg Each) - Natural Iron, Vitamin A, B12 for Energy - Raised Undefatted in New Zealand Without Hormones or Chemicals",
+        "rating": 4.6,
+        "reviews": 9883
+      },
+      {
+        "rank": 4,
+        "asin": "B07YQ6J6FW",
+        "title": "TUDCA Bile Salts, 250mg Capsule, Tauroursodeoxycholic Acid, 60 Capsules",
+        "rating": 4.6,
+        "reviews": 5748
+      },
+      {
+        "rank": 5,
+        "asin": "B0DNRDM997",
+        "title": "Beef Organ Supplement for Women, Natural Source of Iron, 120 Capsules",
+        "rating": 4.4,
+        "reviews": 1835
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:23675621011:3773631:3773651",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

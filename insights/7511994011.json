@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "7511994011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Games & Accessories > Casino Equipment > Roulette Equipment",
+  "categoryPathCn": "玩具与游戏 > 游戏和配件 > 赌场设备 > 轮盘赌设备",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 164905,
+    "avgRevenue": 1649,
+    "medianPrice": 31.0,
+    "priceBand": "$19.99 - $95.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0GBLYXXFV",
+      "title": "11 Inch Roulette Wheel Set for Adults with Rubber Roulette Table Mat 35&quot; x 16&quot; Wood Roulette Wheel 11 Inch 100 Poker Chips Set Win Mark Dealer Button-Green",
+      "brand": "iEsstros",
+      "price": 119.99,
+      "salesParent": 93,
+      "revenue": 11159.07,
+      "rating": 4.8,
+      "reviews": 27
+    },
+    {
+      "rank": 2,
+      "asin": "B0DNRZ4G1V",
+      "title": "Lunmon 16&quot; Roulette Wheel Set Layout Mat (36&quot;x 18&quot;) for Casino Night, Black",
+      "brand": "Lunmon",
+      "price": 99.99,
+      "salesParent": 112,
+      "revenue": 10866.24,
+      "rating": 4.4,
+      "reviews": 54
+    },
+    {
+      "rank": 3,
+      "asin": "B0CGDPG9Y6",
+      "title": "Leyndo 20 Inch Wooden Roulette Wheel with 4 Roulette Balls Casino Grade Precision Bearings Roulettes Wheel Turntable Leisure Table Games for Home Professional Use Night Party Game(Classic Pro)",
+      "brand": "Leyndo",
+      "price": 249.99,
+      "salesParent": 38,
+      "revenue": 9499.62,
+      "rating": 4.4,
+      "reviews": 74
+    },
+    {
+      "rank": 4,
+      "asin": "B0GMZBNDL4",
+      "title": "Wooden Roulette Wheel Set,20 Inch Solid Wood Roulette Wheel With Retractable Chip Rake，200 Chips, Roulette Marker, 2 Decks of Cards, 3 Dices,1 Dealer Button Win Marker, 6 Roulette Balls, 1 Storage Bag",
+      "brand": "Extguds",
+      "price": 299.99,
+      "salesParent": 30,
+      "revenue": 8713.2,
+      "rating": 4.0,
+      "reviews": 3
+    },
+    {
+      "rank": 5,
+      "asin": "B001JSX7KW",
+      "title": "Shot Glass Roulette Drinking Game – 16-Piece Red/Black Set with 2 Metal Balls, Fun Adult Party Game for White Elephant, Game Nights, and Gifts",
+      "brand": "Fairly Odd Novelties",
+      "price": 24.99,
+      "salesParent": 350,
+      "revenue": 8263.5,
+      "rating": 4.4,
+      "reviews": 9607
+    },
+    {
+      "rank": 6,
+      "asin": "B08SBMB6JQ",
+      "title": "Yuanhe Deluxe Wooden Roulette Wheel - 20Inch Roulette Wheel Set, Casino Grade Precision Bearings,Chrome-Plated Brass Turret,Very Smooth Spinning Action,Great for Home Game Night or Professional Use",
+      "brand": "Yuanhe",
+      "price": 292.99,
+      "salesParent": 24,
+      "revenue": 7031.76,
+      "rating": 4.4,
+      "reviews": 51
+    },
+    {
+      "rank": 7,
+      "asin": "B0G5PHM8P5",
+      "title": "Roulette Wheel Set for Adults with Rubber Roulette Table Mat 35&quot; x 16&quot; Wood Roulette Wheel 20 Inch 100 Poker Chips Set Win Mark Dealer Button-Green",
+      "brand": "iEsstros",
+      "price": 315.99,
+      "salesParent": 22,
+      "revenue": 6951.78,
+      "rating": 3.9,
+      "reviews": 19
+    },
+    {
+      "rank": 8,
+      "asin": "B0C3M68ZWG",
+      "title": "Roulette Wheel Game Set with Chips, Rake, Balls &amp; Texas Holdem Poker for Casino Night",
+      "brand": "GOTHINK",
+      "price": 26.99,
+      "salesParent": 211,
+      "revenue": 5694.89,
+      "rating": 4.4,
+      "reviews": 189
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -23,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -23,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 164905,
+    "priorHeadRevenue": 215244,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 28,
+      "pct": 28,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 50,
+      "brandCount": 65,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.28,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0GBLYXXFV",
+        "title": "11 Inch Roulette Wheel Set for Adults with Rubber Roulette Table Mat 35&quot; x 16&quot; Wood Roulette Wheel 11 Inch 100 Poker Chips Set Win Mark Dealer Button-Green",
+        "rating": 4.8,
+        "reviews": 27
+      },
+      {
+        "rank": 2,
+        "asin": "B0DNRZ4G1V",
+        "title": "Lunmon 16&quot; Roulette Wheel Set Layout Mat (36&quot;x 18&quot;) for Casino Night, Black",
+        "rating": 4.4,
+        "reviews": 54
+      },
+      {
+        "rank": 3,
+        "asin": "B0CGDPG9Y6",
+        "title": "Leyndo 20 Inch Wooden Roulette Wheel with 4 Roulette Balls Casino Grade Precision Bearings Roulettes Wheel Turntable Leisure Table Games for Home Professional Use Night Party Game(Classic Pro)",
+        "rating": 4.4,
+        "reviews": 74
+      },
+      {
+        "rank": 4,
+        "asin": "B0GMZBNDL4",
+        "title": "Wooden Roulette Wheel Set,20 Inch Solid Wood Roulette Wheel With Retractable Chip Rake，200 Chips, Roulette Marker, 2 Decks of Cards, 3 Dices,1 Dealer Button Win Marker, 6 Roulette Balls, 1 Storage Bag",
+        "rating": 4.0,
+        "reviews": 3
+      },
+      {
+        "rank": 5,
+        "asin": "B001JSX7KW",
+        "title": "Shot Glass Roulette Drinking Game – 16-Piece Red/Black Set with 2 Metal Balls, Fun Adult Party Game for White Elephant, Game Nights, and Gifts",
+        "rating": 4.4,
+        "reviews": 9607
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166220011:13291101:7511994011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

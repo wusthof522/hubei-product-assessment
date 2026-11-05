@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "15342991",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Household Supplies > Paper & Plastic > Disposable Plates, Bowls & Cutlery",
+  "categoryPathCn": "健康与家居 > 家居用品 > 纸张和塑料 > 一次性餐具",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 98,
+    "totalRevenue": 25444318,
+    "avgRevenue": 259636,
+    "medianPrice": 32.3,
+    "priceBand": "$23.06 - $49.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B099BWGZBP",
+      "title": "Dixie Ultra Large Paper Plates, 10 Inch, Heavy Duty Disposable Plates",
+      "brand": "Dixie Ultra",
+      "price": 23.08,
+      "salesParent": 151045,
+      "revenue": 3410596.0,
+      "rating": 4.8,
+      "reviews": 40508
+    },
+    {
+      "rank": 2,
+      "asin": "B0748J34WZ",
+      "title": "Dixie Paper Plates 8.5 Inch, 90 Count, Disposable Plates",
+      "brand": "Dixie",
+      "price": 6.39,
+      "salesParent": 283733,
+      "revenue": 1742120.62,
+      "rating": 4.8,
+      "reviews": 69126
+    },
+    {
+      "rank": 3,
+      "asin": "B010OV9KQ4",
+      "title": "Dixie Ultra Large Paper Bowls 20 Oz, 150 Count, Microwave Safe",
+      "brand": "Dixie Ultra",
+      "price": 18.66,
+      "salesParent": 79177,
+      "revenue": 1453689.75,
+      "rating": 4.8,
+      "reviews": 31219
+    },
+    {
+      "rank": 4,
+      "asin": "B0CBQFKXP2",
+      "title": "Dealusy 360 Count Extra Heavy Duty Clear Plastic Forks Disposable",
+      "brand": "Dealusy",
+      "price": 26.99,
+      "salesParent": 46830,
+      "revenue": 1369309.25,
+      "rating": 4.8,
+      "reviews": 9925
+    },
+    {
+      "rank": 5,
+      "asin": "B0DN895DMC",
+      "title": "Amazon Basics Ultra Paper Plates, 10 Inch, Disposable, 100 Count, Packaging May Vary",
+      "brand": "Amazon Basics",
+      "price": 11.49,
+      "salesParent": 63377,
+      "revenue": 737708.31,
+      "rating": 4.8,
+      "reviews": 12911
+    },
+    {
+      "rank": 6,
+      "asin": "B0CLH1VCLC",
+      "title": "Amazon Basics Disposable Clear Plastic Cutlery Set, Premium Quality, Strong, 192 Count, Large Combo Pack Forks, Spoons and Knives",
+      "brand": "Amazon Basics",
+      "price": 9.49,
+      "salesParent": 71253,
+      "revenue": 686166.38,
+      "rating": 4.8,
+      "reviews": 6804
+    },
+    {
+      "rank": 7,
+      "asin": "B0CLH1445W",
+      "title": "Amazon Basics Disposable Clear Plastic Forks, Premium Quality, 100 Count, Large Pack, Packaging May Vary",
+      "brand": "Amazon Basics",
+      "price": 6.21,
+      "salesParent": 106047,
+      "revenue": 642644.81,
+      "rating": 4.8,
+      "reviews": 8383
+    },
+    {
+      "rank": 8,
+      "asin": "B0DN7Z7P17",
+      "title": "Amazon Basics Ultra Disposable Paper Bowls, 20 oz, Microwave Safe, Soak Proof, Strong &amp; Sturdy, White, 50 Count, Packaging May Vary",
+      "brand": "Amazon Basics",
+      "price": 5.96,
+      "salesParent": 92099,
+      "revenue": 532332.25,
+      "rating": 4.8,
+      "reviews": 10769
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 12,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 12,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 25444318,
+    "priorHeadRevenue": 22699857,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 98,
+      "newCount": 14,
+      "pct": 14,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 53,
+      "brandCount": 54,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.64,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B099BWGZBP",
+        "title": "Dixie Ultra Large Paper Plates, 10 Inch, Heavy Duty Disposable Plates",
+        "rating": 4.8,
+        "reviews": 40508
+      },
+      {
+        "rank": 2,
+        "asin": "B0748J34WZ",
+        "title": "Dixie Paper Plates 8.5 Inch, 90 Count, Disposable Plates",
+        "rating": 4.8,
+        "reviews": 69126
+      },
+      {
+        "rank": 3,
+        "asin": "B010OV9KQ4",
+        "title": "Dixie Ultra Large Paper Bowls 20 Oz, 150 Count, Microwave Safe",
+        "rating": 4.8,
+        "reviews": 31219
+      },
+      {
+        "rank": 4,
+        "asin": "B0CBQFKXP2",
+        "title": "Dealusy 360 Count Extra Heavy Duty Clear Plastic Forks Disposable",
+        "rating": 4.8,
+        "reviews": 9925
+      },
+      {
+        "rank": 5,
+        "asin": "B0DN895DMC",
+        "title": "Amazon Basics Ultra Paper Plates, 10 Inch, Disposable, 100 Count, Packaging May Vary",
+        "rating": 4.8,
+        "reviews": 12911
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:15342811:15342841:15342991",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

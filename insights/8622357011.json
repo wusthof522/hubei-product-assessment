@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "8622357011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Health Care > Incontinence & Ostomy > Barrier Rings & Strips",
+  "categoryPathCn": "健康与家居 > 卫生保健 > 成人失禁用品 > 屏障环/带",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 673819,
+    "avgRevenue": 6738,
+    "medianPrice": 26.98,
+    "priceBand": "$18.99 - $38.0",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0BVFNFG83",
+      "title": "Carbou 20 Pcs Elastic Ostomy Barrier Strips, Hydrocolloid Waterproof Leak",
+      "brand": "CARBOU",
+      "price": 19.99,
+      "salesParent": 3092,
+      "revenue": 61809.08,
+      "rating": 4.4,
+      "reviews": 849
+    },
+    {
+      "rank": 2,
+      "asin": "B000GG61QK",
+      "title": "Hollister 14603 New Image™ Flat Flextend™ Skin Barrier, 5-pack",
+      "brand": "Hollister",
+      "price": 34.5,
+      "salesParent": 1274,
+      "revenue": 44131.36,
+      "rating": 4.6,
+      "reviews": 967
+    },
+    {
+      "rank": 3,
+      "asin": "B07GVQXBYC",
+      "title": "Hollister 8805 Adapt Wide Flat CeraRing Barrier Rings, 4 in, 2 in",
+      "brand": "Adapt",
+      "price": 43.0,
+      "salesParent": 883,
+      "revenue": 38507.63,
+      "rating": 4.5,
+      "reviews": 459
+    },
+    {
+      "rank": 4,
+      "asin": "B07D7J8QW8",
+      "title": "Hollister 79402 CeraPlus™ Barrier Extenders, 30 Pack",
+      "brand": "Hollister",
+      "price": 34.62,
+      "salesParent": 1096,
+      "revenue": 34984.32,
+      "rating": 4.7,
+      "reviews": 525
+    },
+    {
+      "rank": 5,
+      "asin": "B087TCFHVV",
+      "title": "Hollister 11703 CeraPlus Soft Convex Skin Barrier, 5 Pack, Cut-to-Fit Up to 1-1/2” – Flange Size 2-1/4”, Red Color Code Match",
+      "brand": "Hollister",
+      "price": 49.0,
+      "salesParent": 560,
+      "revenue": 27333.6,
+      "rating": 4.5,
+      "reviews": 223
+    },
+    {
+      "rank": 6,
+      "asin": "B001V9V062",
+      "title": "Hollister 7805 Adapt 2” Flat Barrier Rings, 10 Pack – Ostomy Barrier Ring, Ostomy Supplies, Customizable Skin Barrer Ring",
+      "brand": "Hollister",
+      "price": 43.19,
+      "salesParent": 605,
+      "revenue": 26275.15,
+      "rating": 4.5,
+      "reviews": 1409
+    },
+    {
+      "rank": 7,
+      "asin": "B011QGQOZ6",
+      "title": "Safe n' Simple Elastic Hydrocolloid Ostomy Barrier Strips - 2&quot; - 30 Count",
+      "brand": "Safe n' Simple",
+      "price": 19.99,
+      "salesParent": 895,
+      "revenue": 17891.05,
+      "rating": 4.3,
+      "reviews": 410
+    },
+    {
+      "rank": 8,
+      "asin": "B012DP3SMG",
+      "title": "Hollister 11403 CeraPlus Convex Skin Barrier, 5 Pack, Cut-to-Fit Up to 1-1/2” – 2-1/4” Flange, Ostomy Skin Barrier, Ostomy Supplies",
+      "brand": "Hollister",
+      "price": 46.0,
+      "salesParent": 377,
+      "revenue": 17330.69,
+      "rating": 4.4,
+      "reviews": 198
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -8,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -8,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 673819,
+    "priorHeadRevenue": 732700,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 26,
+      "pct": 26,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 67,
+      "brandCount": 36,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.35,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0BVFNFG83",
+        "title": "Carbou 20 Pcs Elastic Ostomy Barrier Strips, Hydrocolloid Waterproof Leak",
+        "rating": 4.4,
+        "reviews": 849
+      },
+      {
+        "rank": 2,
+        "asin": "B000GG61QK",
+        "title": "Hollister 14603 New Image™ Flat Flextend™ Skin Barrier, 5-pack",
+        "rating": 4.6,
+        "reviews": 967
+      },
+      {
+        "rank": 3,
+        "asin": "B07GVQXBYC",
+        "title": "Hollister 8805 Adapt Wide Flat CeraRing Barrier Rings, 4 in, 2 in",
+        "rating": 4.5,
+        "reviews": 459
+      },
+      {
+        "rank": 4,
+        "asin": "B07D7J8QW8",
+        "title": "Hollister 79402 CeraPlus™ Barrier Extenders, 30 Pack",
+        "rating": 4.7,
+        "reviews": 525
+      },
+      {
+        "rank": 5,
+        "asin": "B087TCFHVV",
+        "title": "Hollister 11703 CeraPlus Soft Convex Skin Barrier, 5 Pack, Cut-to-Fit Up to 1-1/2” – Flange Size 2-1/4”, Red Color Code Match",
+        "rating": 4.5,
+        "reviews": 223
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3760941:3763261:8622357011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

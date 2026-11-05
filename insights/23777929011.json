@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23777929011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins, Minerals & Supplements > Herbal Supplements > Cissus Quadrangularis",
+  "categoryPathCn": "健康与家居 > 身、泳和附剂 > 草本补充 > 四棱松",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "insufficient",
+  "marketSize": {
+    "sampleCount": 17,
+    "totalRevenue": 8482,
+    "avgRevenue": 499,
+    "medianPrice": 19.99,
+    "priceBand": "$13.98 - $27.14",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0B6CNSV45",
+      "title": "Organic Cissus Quadrangularis 1500mg, 45 Servings, Vegetarian, Gluten Free, 90 Vegetarian Tablets",
+      "brand": "Brieofood",
+      "price": 9.99,
+      "salesParent": 221,
+      "revenue": 2207.79,
+      "rating": 4.4,
+      "reviews": 121
+    },
+    {
+      "rank": 2,
+      "asin": "B0FDX93KWB",
+      "title": "Cissus Quadrangularis Supplement 1000mg, 150 Pills, Pure Extract Powder with 40% Ketosterones, Non-GMO and Gluten-Free Cissus Extract Capsules for Men and Women",
+      "brand": "Immortal Herbs",
+      "price": 19.99,
+      "salesParent": 51,
+      "revenue": 1019.49,
+      "rating": 4.7,
+      "reviews": 36
+    },
+    {
+      "rank": 3,
+      "asin": "B08QDQMDP9",
+      "title": "Pure Original Ingredients, Cissus Quadrangularis, 365 Capsules",
+      "brand": "PURE ORIGINAL INGREDIENTS",
+      "price": 27.29,
+      "salesParent": 35,
+      "revenue": 955.15,
+      "rating": 4.3,
+      "reviews": 47
+    },
+    {
+      "rank": 4,
+      "asin": "B0DK2T2V55",
+      "title": "BB LAB Cissus One Diet, 300mg Cissus Extract Formula for Metabolism, Niacin, Vitamin B1, Vitamin B2, and Pantothenic Acid, Body Balancing",
+      "brand": "BB LAB",
+      "price": 42.99,
+      "salesParent": 18,
+      "revenue": 773.82,
+      "rating": 3.4,
+      "reviews": 29
+    },
+    {
+      "rank": 5,
+      "asin": "B08Q1L9TLY",
+      "title": "PURE ORIGINAL INGREDIENTS, Cissus Quadrangularis Extract, 1 Lb",
+      "brand": "PURE ORIGINAL INGREDIENTS",
+      "price": 17.99,
+      "salesParent": 45,
+      "revenue": 680.85,
+      "rating": 4.2,
+      "reviews": 26
+    },
+    {
+      "rank": 6,
+      "asin": "B0GQLSGRRN",
+      "title": "Cissus Quadrangularis – 3 Organic Certifications",
+      "brand": "GeVica Biosciences",
+      "price": 19.99,
+      "salesParent": 27,
+      "revenue": 539.73,
+      "rating": 4.5,
+      "reviews": 25
+    },
+    {
+      "rank": 7,
+      "asin": "B07XBLV7JB",
+      "title": "MB Herbals Cissus (Hadjod) Powder 227g | 8 oz| Half Pound | Cissus quadrangularis St. Powder",
+      "brand": "MB Herbals",
+      "price": 9.99,
+      "salesParent": 60,
+      "revenue": 528.0,
+      "rating": 4.4,
+      "reviews": 34
+    },
+    {
+      "rank": 8,
+      "asin": "B0GSSP8M93",
+      "title": "Cissus Quadrangularis Supplement – USDA Organic, 1200 mg per Serving, Whole Herb, No Extract, NPOP &amp; BioAgriCert Certified, 120 Vegan Tablets",
+      "brand": "GeVica Biosciences",
+      "price": 19.99,
+      "salesParent": 21,
+      "revenue": 419.79,
+      "rating": 4.6,
+      "reviews": 27
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": null,
+    "direction": "flat",
+    "comparable": null,
+    "rawYoyPct": -63,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 8482,
+    "priorHeadRevenue": 22685,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 17,
+      "newCount": 8,
+      "pct": 47,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 78,
+      "brandCount": 13,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.22,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0B6CNSV45",
+        "title": "Organic Cissus Quadrangularis 1500mg, 45 Servings, Vegetarian, Gluten Free, 90 Vegetarian Tablets",
+        "rating": 4.4,
+        "reviews": 121
+      },
+      {
+        "rank": 2,
+        "asin": "B0FDX93KWB",
+        "title": "Cissus Quadrangularis Supplement 1000mg, 150 Pills, Pure Extract Powder with 40% Ketosterones, Non-GMO and Gluten-Free Cissus Extract Capsules for Men and Women",
+        "rating": 4.7,
+        "reviews": 36
+      },
+      {
+        "rank": 3,
+        "asin": "B08QDQMDP9",
+        "title": "Pure Original Ingredients, Cissus Quadrangularis, 365 Capsules",
+        "rating": 4.3,
+        "reviews": 47
+      },
+      {
+        "rank": 4,
+        "asin": "B0DK2T2V55",
+        "title": "BB LAB Cissus One Diet, 300mg Cissus Extract Formula for Metabolism, Niacin, Vitamin B1, Vitamin B2, and Pantothenic Acid, Body Balancing",
+        "rating": 3.4,
+        "reviews": 29
+      },
+      {
+        "rank": 5,
+        "asin": "B08Q1L9TLY",
+        "title": "PURE ORIGINAL INGREDIENTS, Cissus Quadrangularis Extract, 1 Lb",
+        "rating": 4.2,
+        "reviews": 26
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:23675621011:3764461:23777929011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

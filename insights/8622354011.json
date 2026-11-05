@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "8622354011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Health Care > Incontinence & Ostomy > Adhesive Removers",
+  "categoryPathCn": "健康与家居 > 卫生保健 > 成人失禁用品 > 胶粘剂去除剂",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 98,
+    "totalRevenue": 817317,
+    "avgRevenue": 8340,
+    "medianPrice": 17.32,
+    "priceBand": "$9.99 - $23.98",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B07NF9D9YR",
+      "title": "Goo Gone Skin Adhesive Remover - Safe and Pain Free Removal for Sticky Residue From Continuous Glucose Monitors, KT Tape, Medical Tape, Heart Rate Monitors, Insulin Pumps, 8 oz.",
+      "brand": "Goo Gone",
+      "price": 16.99,
+      "salesParent": 4719,
+      "revenue": 80175.81,
+      "rating": 4.5,
+      "reviews": 8231
+    },
+    {
+      "rank": 2,
+      "asin": "B00M3IKRFU",
+      "title": "Uni Solve 402300 Adhesive Remover Wipe, Pack of 50",
+      "brand": "Uni Solve",
+      "price": 9.35,
+      "salesParent": 8060,
+      "revenue": 75361.0,
+      "rating": 4.7,
+      "reviews": 11618
+    },
+    {
+      "rank": 3,
+      "asin": "B09V73H3W9",
+      "title": "ConvaTec ESENTA Adhesive Remover Spray for Around Stomas and Wounds, Sting Free, Alcohol Free, 50 mL Bottle (Pack of 1)",
+      "brand": "ConvaTec",
+      "price": 15.99,
+      "salesParent": 3399,
+      "revenue": 57816.99,
+      "rating": 4.7,
+      "reviews": 1265
+    },
+    {
+      "rank": 4,
+      "asin": "B0DJZDXDY7",
+      "title": "100 CT Adhesive Remover Wipes – Strong &amp; Effective Skin Adhesive Remover – 2 Ply 2.56x1.18in (6.5x3cm) – Medical Adhesive Remover for Bandage, Tape, Dressings, and Ostomy Residue - By Livaclean Health",
+      "brand": "Livaclean Health",
+      "price": 9.49,
+      "salesParent": 4510,
+      "revenue": 42799.9,
+      "rating": 4.4,
+      "reviews": 1887
+    },
+    {
+      "rank": 5,
+      "asin": "B0195KJNBW",
+      "title": "Hollister 7737 Adapt Medical Adhesive Remover Spray, 1.7 oz. – Adhesive Remover for Skin, Medical Supplies",
+      "brand": "Hollister",
+      "price": 17.49,
+      "salesParent": 2335,
+      "revenue": 40979.25,
+      "rating": 4.7,
+      "reviews": 1830
+    },
+    {
+      "rank": 6,
+      "asin": "B002NSCHY4",
+      "title": "Skin-Tac™ Adhesive Barrier Wipes 50 count",
+      "brand": "Torbot",
+      "price": 16.98,
+      "salesParent": 2295,
+      "revenue": 40369.05,
+      "rating": 4.7,
+      "reviews": 12965
+    },
+    {
+      "rank": 7,
+      "asin": "B0DLGZ3H5L",
+      "title": "Safe n' Simple Medical Adhesive Remover Spray for Skin - 1.7 Oz Bottle",
+      "brand": "Safe n' Simple",
+      "price": 14.99,
+      "salesParent": 1657,
+      "revenue": 32079.52,
+      "rating": 4.6,
+      "reviews": 416
+    },
+    {
+      "rank": 8,
+      "asin": "B00DUEEEZ0",
+      "title": "Safe n’ Simple Resealable Adhesive Remover Wipes - 5&quot; x 7&quot; - 50 Wipes",
+      "brand": "Safe n' Simple",
+      "price": 9.99,
+      "salesParent": 2449,
+      "revenue": 24465.51,
+      "rating": 4.2,
+      "reviews": 3989
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 15,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 15,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 817317,
+    "priorHeadRevenue": 708174,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 98,
+      "newCount": 25,
+      "pct": 26,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 47,
+      "brandCount": 54,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.46,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B07NF9D9YR",
+        "title": "Goo Gone Skin Adhesive Remover - Safe and Pain Free Removal for Sticky Residue From Continuous Glucose Monitors, KT Tape, Medical Tape, Heart Rate Monitors, Insulin Pumps, 8 oz.",
+        "rating": 4.5,
+        "reviews": 8231
+      },
+      {
+        "rank": 2,
+        "asin": "B00M3IKRFU",
+        "title": "Uni Solve 402300 Adhesive Remover Wipe, Pack of 50",
+        "rating": 4.7,
+        "reviews": 11618
+      },
+      {
+        "rank": 3,
+        "asin": "B09V73H3W9",
+        "title": "ConvaTec ESENTA Adhesive Remover Spray for Around Stomas and Wounds, Sting Free, Alcohol Free, 50 mL Bottle (Pack of 1)",
+        "rating": 4.7,
+        "reviews": 1265
+      },
+      {
+        "rank": 4,
+        "asin": "B0DJZDXDY7",
+        "title": "100 CT Adhesive Remover Wipes – Strong &amp; Effective Skin Adhesive Remover – 2 Ply 2.56x1.18in (6.5x3cm) – Medical Adhesive Remover for Bandage, Tape, Dressings, and Ostomy Residue - By Livaclean Health",
+        "rating": 4.4,
+        "reviews": 1887
+      },
+      {
+        "rank": 5,
+        "asin": "B0195KJNBW",
+        "title": "Hollister 7737 Adapt Medical Adhesive Remover Spray, 1.7 oz. – Adhesive Remover for Skin, Medical Supplies",
+        "rating": 4.7,
+        "reviews": 1830
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3760941:3763261:8622354011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

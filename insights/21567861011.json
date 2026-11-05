@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "21567861011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Household Supplies > Laundry > Dryer Balls",
+  "categoryPathCn": "健康与家居 > 家居用品 > 衣物清洁 > 烘干机球",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 1951246,
+    "avgRevenue": 19710,
+    "medianPrice": 14.99,
+    "priceBand": "$9.99 - $19.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B014WOWNAY",
+      "title": "Handy Laundry Wool Dryer Balls 6-Pack, Reusable Natural Fabric Softener",
+      "brand": "Handy Laundry",
+      "price": 12.99,
+      "salesParent": 54309,
+      "revenue": 716335.69,
+      "rating": 4.6,
+      "reviews": 96595
+    },
+    {
+      "rank": 2,
+      "asin": "B06ZYN7LLK",
+      "title": "Budieggs Wool Dryer Balls XL 6-Pack, 100% New Zealand Wool Handmade",
+      "brand": "Budieggs",
+      "price": 9.97,
+      "salesParent": 15242,
+      "revenue": 151962.75,
+      "rating": 4.7,
+      "reviews": 17595
+    },
+    {
+      "rank": 3,
+      "asin": "B00GA9P5P0",
+      "title": "Wool Dryer Balls - Smart Sheep 6-Pack - XL Premium Natural Fabric Softener Award-Winning - Wool Balls Replaces Dryer Sheets - Wool Balls for Dryer - Laundry Balls for Dryer, 6 Count (Pack of 1)",
+      "brand": "Smart Sheep",
+      "price": 19.95,
+      "salesParent": 5111,
+      "revenue": 101964.45,
+      "rating": 4.6,
+      "reviews": 71884
+    },
+    {
+      "rank": 4,
+      "asin": "B0CMMNDT63",
+      "title": "Friendsheep Wool Dryer Balls, Organic Reusable Fabric Softener Alternative for Laundry, Handmade, Fair Trade, Hypoallergenic, Eco-Friendly, Plastic-Free (3 Pack XL – Sprites)",
+      "brand": "Friendsheep",
+      "price": 21.0,
+      "salesParent": 3974,
+      "revenue": 82897.64,
+      "rating": 4.7,
+      "reviews": 13726
+    },
+    {
+      "rank": 5,
+      "asin": "B0CCSKZ7HR",
+      "title": "Otylzto Wool Dryer Balls 6-Pack, Drying Balls for Laundry,Reusable As Natural Fabric Softener, Reduce Clothing Wrinkles, Drying Clothes Faster Eco-Friendly",
+      "brand": "otylzto",
+      "price": 6.49,
+      "salesParent": 10164,
+      "revenue": 69318.48,
+      "rating": 4.6,
+      "reviews": 8169
+    },
+    {
+      "rank": 6,
+      "asin": "B0FLK1QDFB",
+      "title": "Wool Dryer Balls, New Zealand Dryer Balls Laundry Reusable Reduce Static Cling, Dryer Ball to Reduce Wrinkles &amp; Shorten Drying Time, Drying Balls Fabric Softener Ball for Laundry（Pack of 6)",
+      "brand": "YONSEN",
+      "price": 6.99,
+      "salesParent": 6358,
+      "revenue": 48829.44,
+      "rating": 4.6,
+      "reviews": 1014
+    },
+    {
+      "rank": 7,
+      "asin": "B0D78ZMRNH",
+      "title": "WoollyPals Dryer Balls (6-Pack, XL Size) - 100% New Zealand Wool - No More Dryer Sheets - Eco Dryer Balls - Reusable - Softens Laundry - Reduces Drying Time &amp; Static - with Storage Bag (Plain White)",
+      "brand": "Prushh",
+      "price": 18.95,
+      "salesParent": 2591,
+      "revenue": 48348.06,
+      "rating": 4.7,
+      "reviews": 724
+    },
+    {
+      "rank": 8,
+      "asin": "B0826QDZ5X",
+      "title": "Chemical Free &amp; Baby Safe! Reusable Wool Dryer Balls XL 6-Pack - Reduces Static, Cuts Dry Time, &amp; Softens Naturally",
+      "brand": "WOOLY HEROES",
+      "price": 25.95,
+      "salesParent": 1853,
+      "revenue": 48085.35,
+      "rating": 4.7,
+      "reviews": 4861
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 2,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 2,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1951246,
+    "priorHeadRevenue": 1914922,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 34,
+      "pct": 34,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 59,
+      "brandCount": 88,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.58,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B014WOWNAY",
+        "title": "Handy Laundry Wool Dryer Balls 6-Pack, Reusable Natural Fabric Softener",
+        "rating": 4.6,
+        "reviews": 96595
+      },
+      {
+        "rank": 2,
+        "asin": "B06ZYN7LLK",
+        "title": "Budieggs Wool Dryer Balls XL 6-Pack, 100% New Zealand Wool Handmade",
+        "rating": 4.7,
+        "reviews": 17595
+      },
+      {
+        "rank": 3,
+        "asin": "B00GA9P5P0",
+        "title": "Wool Dryer Balls - Smart Sheep 6-Pack - XL Premium Natural Fabric Softener Award-Winning - Wool Balls Replaces Dryer Sheets - Wool Balls for Dryer - Laundry Balls for Dryer, 6 Count (Pack of 1)",
+        "rating": 4.6,
+        "reviews": 71884
+      },
+      {
+        "rank": 4,
+        "asin": "B0CMMNDT63",
+        "title": "Friendsheep Wool Dryer Balls, Organic Reusable Fabric Softener Alternative for Laundry, Handmade, Fair Trade, Hypoallergenic, Eco-Friendly, Plastic-Free (3 Pack XL – Sprites)",
+        "rating": 4.7,
+        "reviews": 13726
+      },
+      {
+        "rank": 5,
+        "asin": "B0CCSKZ7HR",
+        "title": "Otylzto Wool Dryer Balls 6-Pack, Drying Balls for Laundry,Reusable As Natural Fabric Softener, Reduce Clothing Wrinkles, Drying Clothes Faster Eco-Friendly",
+        "rating": 4.6,
+        "reviews": 8169
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:15342811:15356111:21567861011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

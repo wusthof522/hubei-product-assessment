@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3767501",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Wellness & Relaxation > Massage Tools & Equipment > Magnetic Therapy",
+  "categoryPathCn": "健康与家居 > 保健生活用品 > 按摩工具和设备 > 磁疗",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 94,
+    "totalRevenue": 312105,
+    "avgRevenue": 3320,
+    "medianPrice": 21.99,
+    "priceBand": "$13.99 - $30.24",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0FCKHJVX6",
+      "title": "Copper Magnetic Bracelet Set for Women Men, Pure Copper Jewelry Gift",
+      "brand": "BioMag",
+      "price": 9.99,
+      "salesParent": 7142,
+      "revenue": 71348.58,
+      "rating": 4.4,
+      "reviews": 1506
+    },
+    {
+      "rank": 2,
+      "asin": "B0HKN37PVG",
+      "title": "Patch Pro for Fingers Magnetic Patches, 100 Count, 5 Sealed Packs of 20, Round Joint Patches for Everyday Comfort, Lightweight, Discreet &amp; Travel-Friendly (1 Box)",
+      "brand": "MAGNEFIT",
+      "price": 59.99,
+      "salesParent": 641,
+      "revenue": 39921.48,
+      "rating": 5.0,
+      "reviews": 1
+    },
+    {
+      "rank": 3,
+      "asin": "B08FF5SC7F",
+      "title": "MagnetRX® Magnetic Acupressure Patches - 3,500 Gauss Ultra Strength Healing Magnets for The Body - Acupressure Magnets Patch (20 Pack)",
+      "brand": "MagnetRX",
+      "price": 24.95,
+      "salesParent": 1238,
+      "revenue": 30888.1,
+      "rating": 4.0,
+      "reviews": 1679
+    },
+    {
+      "rank": 4,
+      "asin": "B0GKF81QLR",
+      "title": "Shockwave Therapy Machine, Pneumatic Radial Shock Wave Device ESWT",
+      "brand": "Fumooean",
+      "price": 1099.0,
+      "salesParent": 20,
+      "revenue": 22161.8,
+      "rating": 1.0,
+      "reviews": 1
+    },
+    {
+      "rank": 5,
+      "asin": "B0FLD7QCK9",
+      "title": "Pure Copper Bracelet for Women and Men 99.99% Pure Cooper Beads",
+      "brand": "PEALICIOUS",
+      "price": 9.99,
+      "salesParent": 2046,
+      "revenue": 21421.62,
+      "rating": 4.2,
+      "reviews": 379
+    },
+    {
+      "rank": 6,
+      "asin": "B0H4QG36Z4",
+      "title": "Copper Anklet for Women Nature Crystal 7 Chakra Ankle Bracelet",
+      "brand": "PEALICIOUS",
+      "price": 14.99,
+      "salesParent": 821,
+      "revenue": 12306.79,
+      "rating": 4.2,
+      "reviews": 36
+    },
+    {
+      "rank": 7,
+      "asin": "B0FMNSB1SG",
+      "title": "Copper Bracelet for Men-3X Strength Magnetic Bracelet-Ring Set",
+      "brand": "MagEnergy",
+      "price": 23.74,
+      "salesParent": 434,
+      "revenue": 10311.84,
+      "rating": 4.3,
+      "reviews": 520
+    },
+    {
+      "rank": 8,
+      "asin": "B0HMRWC21B",
+      "title": "Patch Pro for Fingers, Thin and Flexible Magnetic Patches, Self-Adhesive Lightweight Design for Everyday Wear, 100 Count (5 Packs of 20)",
+      "brand": "MAGNEFIT",
+      "price": 59.99,
+      "salesParent": 117,
+      "revenue": 7018.83,
+      "rating": 5.0,
+      "reviews": 2
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 22,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 22,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 312105,
+    "priorHeadRevenue": 256505,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 94,
+      "newCount": 42,
+      "pct": 45,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 68,
+      "brandCount": 58,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.07,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0FCKHJVX6",
+        "title": "Copper Magnetic Bracelet Set for Women Men, Pure Copper Jewelry Gift",
+        "rating": 4.4,
+        "reviews": 1506
+      },
+      {
+        "rank": 2,
+        "asin": "B0HKN37PVG",
+        "title": "Patch Pro for Fingers Magnetic Patches, 100 Count, 5 Sealed Packs of 20, Round Joint Patches for Everyday Comfort, Lightweight, Discreet &amp; Travel-Friendly (1 Box)",
+        "rating": 5.0,
+        "reviews": 1
+      },
+      {
+        "rank": 3,
+        "asin": "B08FF5SC7F",
+        "title": "MagnetRX® Magnetic Acupressure Patches - 3,500 Gauss Ultra Strength Healing Magnets for The Body - Acupressure Magnets Patch (20 Pack)",
+        "rating": 4.0,
+        "reviews": 1679
+      },
+      {
+        "rank": 4,
+        "asin": "B0GKF81QLR",
+        "title": "Shockwave Therapy Machine, Pneumatic Radial Shock Wave Device ESWT",
+        "rating": 1.0,
+        "reviews": 1
+      },
+      {
+        "rank": 5,
+        "asin": "B0FLD7QCK9",
+        "title": "Pure Copper Bracelet for Women and Men 99.99% Pure Cooper Beads",
+        "rating": 4.2,
+        "reviews": 379
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:10079996011:10080000011:3767501",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "19431285011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Collectible Toys > Trading Cards & Accessories > Stickers & Sticker Collections",
+  "categoryPathCn": "玩具 > 收藏品玩具 > 交易卡 > 贴纸",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "insufficient",
+  "marketSize": {
+    "sampleCount": 13,
+    "totalRevenue": 8799,
+    "avgRevenue": 677,
+    "medianPrice": 8.95,
+    "priceBand": "$8.45 - $25.72",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0G5Q7491B",
+      "title": "Panini FIFA World Cup 2026 Sticker – Blister Pack with 8 Envelopes",
+      "brand": "Panini",
+      "price": 39.5,
+      "salesParent": 68,
+      "revenue": 2690.08,
+      "rating": 4.4,
+      "reviews": 1709
+    },
+    {
+      "rank": 2,
+      "asin": "B0DM6NK22T",
+      "title": "FB Phoenix (25-26) Mega Box",
+      "brand": "Panini",
+      "price": 53.52,
+      "salesParent": 42,
+      "revenue": 2248.26,
+      "rating": 3.9,
+      "reviews": 43
+    },
+    {
+      "rank": 3,
+      "asin": "B0CC8ZYSC4",
+      "title": "Joyppy Tarot Stickers for Journaling - 336 PCS Mini Tarot Card Stickers for Beginners - 1.25&quot; x 0.78&quot; - Tarot Journal Stickers Based on Rider Waite Tarot Deck, Tarot Cheat Sheet Included",
+      "brand": "Joyppy",
+      "price": 11.95,
+      "salesParent": 183,
+      "revenue": 1861.11,
+      "rating": 4.8,
+      "reviews": 1103
+    },
+    {
+      "rank": 4,
+      "asin": "B0F5X1D8S2",
+      "title": "Sticki Rolls Sticker Capsule, Portable Sticker Jewelry, Collectible Toys, Disney Stitch, Styles May Vary, One Shipped Randomly",
+      "brand": "STICKI ROLLS",
+      "price": 8.89,
+      "salesParent": 159,
+      "revenue": 1413.51,
+      "rating": 4.2,
+      "reviews": 69
+    },
+    {
+      "rank": 5,
+      "asin": "B0CXT2MWZZ",
+      "title": "2023/24 Panini Donruss Basketball 6-Pack Blaster Box - 2023/24 Panini Donras Basketball 6 Pack Blaster Box, Blue",
+      "brand": "Panini",
+      "price": 68.99,
+      "salesParent": 8,
+      "revenue": 541.04,
+      "rating": 4.2,
+      "reviews": 31
+    },
+    {
+      "rank": 6,
+      "asin": "B0GFGQ584R",
+      "title": "Nevermore Access Card – Credit Card Skin Sticker Cover Decal Wrap 2-Pack – Gothic Fantasy School Academy Badge Design",
+      "brand": "Mama Lu's Crew",
+      "price": 8.95,
+      "salesParent": 3,
+      "revenue": 26.85,
+      "rating": 4.4,
+      "reviews": 6
+    },
+    {
+      "rank": 7,
+      "asin": "B09P2PCGQM",
+      "title": "2021/22 Topps NHL Hockey Sticker Collection Album (includes 10 starter stickers)",
+      "brand": "Topps",
+      "price": 6.0,
+      "salesParent": 3,
+      "revenue": 18.0,
+      "rating": 4.6,
+      "reviews": 55
+    },
+    {
+      "rank": 8,
+      "asin": "B0DP3QX5BZ",
+      "title": "Credit Card Skin Sticker Cover Decal Wrap 3-Pack – Funny Sea Bucks Currency Design – Durable Vinyl Stickers for Cards - CCS006",
+      "brand": "KCD",
+      "price": 8.45,
+      "salesParent": 0,
+      "revenue": 0.0,
+      "rating": 4.6,
+      "reviews": 269
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": null,
+    "direction": "flat",
+    "comparable": null,
+    "rawYoyPct": 3,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 8799,
+    "priorHeadRevenue": 8552,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 13,
+      "newCount": 9,
+      "pct": 69,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 100,
+      "brandCount": 8,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.41,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0G5Q7491B",
+        "title": "Panini FIFA World Cup 2026 Sticker – Blister Pack with 8 Envelopes",
+        "rating": 4.4,
+        "reviews": 1709
+      },
+      {
+        "rank": 2,
+        "asin": "B0DM6NK22T",
+        "title": "FB Phoenix (25-26) Mega Box",
+        "rating": 3.9,
+        "reviews": 43
+      },
+      {
+        "rank": 3,
+        "asin": "B0CC8ZYSC4",
+        "title": "Joyppy Tarot Stickers for Journaling - 336 PCS Mini Tarot Card Stickers for Beginners - 1.25&quot; x 0.78&quot; - Tarot Journal Stickers Based on Rider Waite Tarot Deck, Tarot Cheat Sheet Included",
+        "rating": 4.8,
+        "reviews": 1103
+      },
+      {
+        "rank": 4,
+        "asin": "B0F5X1D8S2",
+        "title": "Sticki Rolls Sticker Capsule, Portable Sticker Jewelry, Collectible Toys, Disney Stitch, Styles May Vary, One Shipped Randomly",
+        "rating": 4.2,
+        "reviews": 69
+      },
+      {
+        "rank": 5,
+        "asin": "B0CXT2MWZZ",
+        "title": "2023/24 Panini Donruss Basketball 6-Pack Blaster Box - 2023/24 Panini Donras Basketball 6 Pack Blaster Box, Blue",
+        "rating": 4.2,
+        "reviews": 31
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:19431275011:19431284011:19431285011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

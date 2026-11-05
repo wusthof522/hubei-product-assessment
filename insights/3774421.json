@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3774421",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins, Minerals & Supplements > Minerals > Manganese",
+  "categoryPathCn": "健康与家居 > 身、泳和附剂 > 出国 > 锰",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "insufficient",
+  "marketSize": {
+    "sampleCount": 16,
+    "totalRevenue": 148485,
+    "avgRevenue": 9280,
+    "medianPrice": 16.99,
+    "priceBand": "$12.66 - $35.07",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B003PQLJW4",
+      "title": "Standard Process Ligaplex I, Ligament, Cartilage &amp; Joint, 150 Capsules",
+      "brand": "Standard Process Inc.",
+      "price": 46.8,
+      "salesParent": 991,
+      "revenue": 46378.8,
+      "rating": 4.5,
+      "reviews": 1384
+    },
+    {
+      "rank": 2,
+      "asin": "B004GEVERY",
+      "title": "Special pack of 6 MAG 64 535MG RISI 60TB X 6",
+      "brand": "Rising",
+      "price": 39.56,
+      "salesParent": 629,
+      "revenue": 24531.0,
+      "rating": 4.8,
+      "reviews": 697
+    },
+    {
+      "rank": 3,
+      "asin": "B000H6UM2S",
+      "title": "Pure Encapsulations Manganese (Aspartate/Citrate), 60 Capsules",
+      "brand": "Pure Encapsulations",
+      "price": 13.0,
+      "salesParent": 1084,
+      "revenue": 14092.0,
+      "rating": 4.6,
+      "reviews": 842
+    },
+    {
+      "rank": 4,
+      "asin": "B071LF3TBQ",
+      "title": "Standard Process Biost, Skeletal &amp; Cellular Supplement, 180 Tablets",
+      "brand": "Standard Process Inc.",
+      "price": 57.0,
+      "salesParent": 237,
+      "revenue": 13509.0,
+      "rating": 4.6,
+      "reviews": 216
+    },
+    {
+      "rank": 5,
+      "asin": "B0GFWHQ447",
+      "title": "Magnesium Glycinate Complex for Women &amp; Men with Vitamin D3 &amp; B6, 500mg",
+      "brand": "Purify Life",
+      "price": 16.99,
+      "salesParent": 600,
+      "revenue": 10662.0,
+      "rating": 4.8,
+      "reviews": 36
+    },
+    {
+      "rank": 6,
+      "asin": "B0H6F58XYX",
+      "title": "Magnesium Complex for Women &amp; Men 1300mg - VIT. B6 &amp; D3, 120 Caps",
+      "brand": "UNcena",
+      "price": 16.99,
+      "salesParent": 542,
+      "revenue": 10541.9,
+      "rating": 4.6,
+      "reviews": 64
+    },
+    {
+      "rank": 7,
+      "asin": "B09WBRPB8V",
+      "title": "Nutricost Chelated Manganese Supplement 8mg, Amino Acid Chelate, 120 Caps",
+      "brand": "Nutricost",
+      "price": 11.95,
+      "salesParent": 634,
+      "revenue": 7576.3,
+      "rating": 4.5,
+      "reviews": 543
+    },
+    {
+      "rank": 8,
+      "asin": "B00AEJ4BDY",
+      "title": "Standard Process Manganese B12, Bone &amp; Connective Tissue, 90 Tablets",
+      "brand": "Standard Process Inc.",
+      "price": 21.6,
+      "salesParent": 258,
+      "revenue": 5572.8,
+      "rating": 4.7,
+      "reviews": 399
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": null,
+    "direction": "flat",
+    "comparable": null,
+    "rawYoyPct": 5,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 148485,
+    "priorHeadRevenue": 141387,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 16,
+      "newCount": 3,
+      "pct": 19,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 84,
+      "brandCount": 13,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.61,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B003PQLJW4",
+        "title": "Standard Process Ligaplex I, Ligament, Cartilage &amp; Joint, 150 Capsules",
+        "rating": 4.5,
+        "reviews": 1384
+      },
+      {
+        "rank": 2,
+        "asin": "B004GEVERY",
+        "title": "Special pack of 6 MAG 64 535MG RISI 60TB X 6",
+        "rating": 4.8,
+        "reviews": 697
+      },
+      {
+        "rank": 3,
+        "asin": "B000H6UM2S",
+        "title": "Pure Encapsulations Manganese (Aspartate/Citrate), 60 Capsules",
+        "rating": 4.6,
+        "reviews": 842
+      },
+      {
+        "rank": 4,
+        "asin": "B071LF3TBQ",
+        "title": "Standard Process Biost, Skeletal &amp; Cellular Supplement, 180 Tablets",
+        "rating": 4.6,
+        "reviews": 216
+      },
+      {
+        "rank": 5,
+        "asin": "B0GFWHQ447",
+        "title": "Magnesium Glycinate Complex for Women &amp; Men with Vitamin D3 &amp; B6, 500mg",
+        "rating": 4.8,
+        "reviews": 36
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:23675621011:3774271:3774421",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

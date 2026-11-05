@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "166330011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Learning & Education > Musical Instruments > Guitars & Strings",
+  "categoryPathCn": "玩具 > 学习 > 乐器 > 吉他",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 98,
+    "totalRevenue": 1211375,
+    "avgRevenue": 12361,
+    "medianPrice": 28.99,
+    "priceBand": "$19.98 - $37.18",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0GN834HP5",
+      "title": "VTech Kidi Star Rockstar Guitar, Black",
+      "brand": "VTech",
+      "price": 49.97,
+      "salesParent": 2449,
+      "revenue": 122376.53,
+      "rating": 5.0,
+      "reviews": 28
+    },
+    {
+      "rank": 2,
+      "asin": "B0GQJX98J3",
+      "title": "FAO Schwarz Stage Stars Kids Electric Guitar &amp; Amp, 6-String Beginner Set",
+      "brand": "FAO Schwarz",
+      "price": 200.0,
+      "salesParent": 402,
+      "revenue": 80400.0,
+      "rating": 5.0,
+      "reviews": 9
+    },
+    {
+      "rank": 3,
+      "asin": "B0D4LYWFWC",
+      "title": "Kids Toy Ukulele Guitar,17 Inch Classical Guitar Musical Toy,4 Strings Guitar Ukulele Educational Learning Toy for Toddlers and Preschoolers",
+      "brand": "Woozettn",
+      "price": 9.88,
+      "salesParent": 7098,
+      "revenue": 70128.24,
+      "rating": 4.3,
+      "reviews": 1192
+    },
+    {
+      "rank": 4,
+      "asin": "B072B9V2KB",
+      "title": "Loog Mini Acoustic kids Guitar for Beginners 3-strings Ages 3+ Learning app and lessons included",
+      "brand": "Loog",
+      "price": 119.0,
+      "salesParent": 531,
+      "revenue": 63189.0,
+      "rating": 4.5,
+      "reviews": 1515
+    },
+    {
+      "rank": 5,
+      "asin": "B00JLGGR88",
+      "title": "KidKraft Lil' Symphony Wooden Play Guitar, Kids Musical Instrument Toy, Gift for Ages 3+",
+      "brand": "KidKraft",
+      "price": 36.57,
+      "salesParent": 1541,
+      "revenue": 50652.67,
+      "rating": 4.4,
+      "reviews": 3117
+    },
+    {
+      "rank": 6,
+      "asin": "B01M584GAS",
+      "title": "Best Choice Products Kids Guitar Set with Microphone &amp; Amp, Pink",
+      "brand": "Best Choice Products",
+      "price": 49.99,
+      "salesParent": 948,
+      "revenue": 49106.4,
+      "rating": 3.9,
+      "reviews": 4027
+    },
+    {
+      "rank": 7,
+      "asin": "B0GXXT2ZHJ",
+      "title": "Pink Kids Guitar Set - 8 in 1 Toddler Montessori Musical Instruments",
+      "brand": "ZECIMYNO",
+      "price": 39.99,
+      "salesParent": 1212,
+      "revenue": 48467.88,
+      "rating": 4.4,
+      "reviews": 123
+    },
+    {
+      "rank": 8,
+      "asin": "B0FG9V6PZ7",
+      "title": "23&quot; Acoustic Guitar, Kids 6 String Toy Guitar - Realistic Steel Strings - Beginner Practice First Musical Instrument for Children, Toddlers (Pink)",
+      "brand": "Liberty Imports",
+      "price": 32.95,
+      "salesParent": 1440,
+      "revenue": 47448.0,
+      "rating": 3.9,
+      "reviews": 4466
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 31,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 31,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1211375,
+    "priorHeadRevenue": 926806,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 98,
+      "newCount": 36,
+      "pct": 37,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 36,
+      "brandCount": 72,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.26,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0GN834HP5",
+        "title": "VTech Kidi Star Rockstar Guitar, Black",
+        "rating": 5.0,
+        "reviews": 28
+      },
+      {
+        "rank": 2,
+        "asin": "B0GQJX98J3",
+        "title": "FAO Schwarz Stage Stars Kids Electric Guitar &amp; Amp, 6-String Beginner Set",
+        "rating": 5.0,
+        "reviews": 9
+      },
+      {
+        "rank": 3,
+        "asin": "B0D4LYWFWC",
+        "title": "Kids Toy Ukulele Guitar,17 Inch Classical Guitar Musical Toy,4 Strings Guitar Ukulele Educational Learning Toy for Toddlers and Preschoolers",
+        "rating": 4.3,
+        "reviews": 1192
+      },
+      {
+        "rank": 4,
+        "asin": "B072B9V2KB",
+        "title": "Loog Mini Acoustic kids Guitar for Beginners 3-strings Ages 3+ Learning app and lessons included",
+        "rating": 4.5,
+        "reviews": 1515
+      },
+      {
+        "rank": 5,
+        "asin": "B00JLGGR88",
+        "title": "KidKraft Lil' Symphony Wooden Play Guitar, Kids Musical Instrument Toy, Gift for Ages 3+",
+        "rating": 4.4,
+        "reviews": 3117
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166269011:166326011:166330011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

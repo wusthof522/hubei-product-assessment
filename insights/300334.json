@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "300334",
+  "level": "L2",
+  "categoryPathEn": "Electronics > Video Projectors",
+  "categoryPathCn": "电子产品 > 投影仪",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 98,
+    "totalRevenue": 404603,
+    "avgRevenue": 4129,
+    "medianPrice": 299.99,
+    "priceBand": "$129.99 - $867.98",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0BYTQPM84",
+      "title": "BenQ TH575 1080p DLP Gaming Projector, 3800 Lumen, 16.7ms Low Latency, Enhanced Game-Mode, High Contrast, Rec.709, Dual HDMI, 3D Ready, Auto Vertical Keystone, 1.1x Zoom (Renewed) (Renewed)",
+      "brand": "BenQ",
+      "price": 544.99,
+      "salesParent": 199,
+      "revenue": 108453.01,
+      "rating": 3.6,
+      "reviews": 7
+    },
+    {
+      "rank": 2,
+      "asin": "B0H7K8THG2",
+      "title": "[Netflix &amp; Native 1080P ] VOPLLS Smart Projector with WiFi and Bluetooth",
+      "brand": "VOPLLS",
+      "price": 229.99,
+      "salesParent": 280,
+      "revenue": 59729.6,
+      "rating": 4.2,
+      "reviews": 975
+    },
+    {
+      "rank": 3,
+      "asin": "B0H8275Q39",
+      "title": "【Ultra-Slim 1.8&quot; &amp; Official apps】Smart Mini Projector with WiFi and Bluetooth, Himovies Portable Projector, Native 1080P Projector for Outdoor/Home/Bedroom, 4K Supported, Projector Lens",
+      "brand": "Himovies",
+      "price": 107.99,
+      "salesParent": 244,
+      "revenue": 36931.84,
+      "rating": 4.9,
+      "reviews": 90
+    },
+    {
+      "rank": 4,
+      "asin": "B082F13J55",
+      "title": "TMY Native 1080P Mini Portable Projector, 2-way Bluetooth, with 80in Screen",
+      "brand": "TMY",
+      "price": 79.99,
+      "salesParent": 436,
+      "revenue": 32778.48,
+      "rating": 4.3,
+      "reviews": 22439
+    },
+    {
+      "rank": 5,
+      "asin": "B0HLKNYZKQ",
+      "title": "【Native 1080P &amp; Netflix Ready 】Smart Projector with WiFi and Bluetooth",
+      "brand": "VOPLLS",
+      "price": 114.98,
+      "salesParent": 143,
+      "revenue": 31392.79,
+      "rating": 4.8,
+      "reviews": 48
+    },
+    {
+      "rank": 6,
+      "asin": "B0GXYQS6FN",
+      "title": "Outdoor Projector with WiFi and Bluetooth, Auto Focus Keystone Smart Projector, Outdoor Projector with Adjustable Stand for Home Bedroom",
+      "brand": "VOPLLS",
+      "price": 139.99,
+      "salesParent": 191,
+      "revenue": 28982.34,
+      "rating": 4.3,
+      "reviews": 1122
+    },
+    {
+      "rank": 7,
+      "asin": "B07W62S2SJ",
+      "title": "Optoma GT1080HDR – Full HD 1080p Short Throw Projector, 3,800 Lumens, 4K HDR Compatible, Low Input Lag Gaming, Home Entertainment &amp; Golf Simulator Ready",
+      "brand": "Optoma",
+      "price": 799.0,
+      "salesParent": 30,
+      "revenue": 23993.7,
+      "rating": 4.3,
+      "reviews": 694
+    },
+    {
+      "rank": 8,
+      "asin": "B0HC6N9131",
+      "title": "[Officially-Licensed APP &amp; 3500 ANSI] Mini Projector with WiFi and Bluetooth, VOPLLS Smart Portable Outdoor Projector 4K Support with TOF Real-Time Focus, Native 1080P Movie Projector",
+      "brand": "VOPLLS",
+      "price": 199.99,
+      "salesParent": 72,
+      "revenue": 14399.28,
+      "rating": 4.4,
+      "reviews": 2686
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": null,
+    "direction": "flat",
+    "comparable": false,
+    "rawYoyPct": -97,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 404603,
+    "priorHeadRevenue": 14870341,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 98,
+      "newCount": 22,
+      "pct": 23,
+      "unknownLaunch": 1,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 89,
+      "brandCount": 41,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.09,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0BYTQPM84",
+        "title": "BenQ TH575 1080p DLP Gaming Projector, 3800 Lumen, 16.7ms Low Latency, Enhanced Game-Mode, High Contrast, Rec.709, Dual HDMI, 3D Ready, Auto Vertical Keystone, 1.1x Zoom (Renewed) (Renewed)",
+        "rating": 3.6,
+        "reviews": 7
+      },
+      {
+        "rank": 2,
+        "asin": "B0H7K8THG2",
+        "title": "[Netflix &amp; Native 1080P ] VOPLLS Smart Projector with WiFi and Bluetooth",
+        "rating": 4.2,
+        "reviews": 975
+      },
+      {
+        "rank": 3,
+        "asin": "B0H8275Q39",
+        "title": "【Ultra-Slim 1.8&quot; &amp; Official apps】Smart Mini Projector with WiFi and Bluetooth, Himovies Portable Projector, Native 1080P Projector for Outdoor/Home/Bedroom, 4K Supported, Projector Lens",
+        "rating": 4.9,
+        "reviews": 90
+      },
+      {
+        "rank": 4,
+        "asin": "B082F13J55",
+        "title": "TMY Native 1080P Mini Portable Projector, 2-way Bluetooth, with 80in Screen",
+        "rating": 4.3,
+        "reviews": 22439
+      },
+      {
+        "rank": 5,
+        "asin": "B0HLKNYZKQ",
+        "title": "【Native 1080P &amp; Netflix Ready 】Smart Projector with WiFi and Bluetooth",
+        "rating": 4.8,
+        "reviews": 48
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "172282:300334",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

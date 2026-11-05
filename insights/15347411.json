@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "15347411",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Household Supplies > Paper & Plastic > Disposable Napkins",
+  "categoryPathCn": "健康与家居 > 家居用品 > 纸张和塑料 > 餐巾纸",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 97,
+    "totalRevenue": 6684339,
+    "avgRevenue": 68911,
+    "medianPrice": 20.36,
+    "priceBand": "$14.66 - $29.98",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0HBR1Y3CQ",
+      "title": "Amazon Basics Everyday Paper Napkins, 400 Count (Pack of 3)",
+      "brand": "Amazon Basics",
+      "price": 14.97,
+      "salesParent": 56500,
+      "revenue": 845805.0,
+      "rating": 4.4,
+      "reviews": 9
+    },
+    {
+      "rank": 2,
+      "asin": "B0H9RXHTF2",
+      "title": "Amazon Basics Everyday Paper Napkins, 400 Count (Pack of 2)",
+      "brand": "Amazon Basics",
+      "price": 9.98,
+      "salesParent": 54498,
+      "revenue": 543890.0,
+      "rating": 4.4,
+      "reviews": 22
+    },
+    {
+      "rank": 3,
+      "asin": "B000VCFB0G",
+      "title": "Bounty Paper Napkins, White, 200 Count, Packaging may vary",
+      "brand": "Bounty",
+      "price": 3.48,
+      "salesParent": 144548,
+      "revenue": 501581.56,
+      "rating": 4.8,
+      "reviews": 43242
+    },
+    {
+      "rank": 4,
+      "asin": "B078GDLCT5",
+      "title": "Vanity Fair Entertain Paper Napkins, Disposable Dinner Napkins, 320 Count",
+      "brand": "Vanity Fair",
+      "price": 22.24,
+      "salesParent": 15159,
+      "revenue": 337439.34,
+      "rating": 4.8,
+      "reviews": 10531
+    },
+    {
+      "rank": 5,
+      "asin": "B01HSEI1RY",
+      "title": "200 Pack Disposable Guest Towels for Bathroom, Linen-Feel Hand Towels",
+      "brand": "BloominGoods",
+      "price": 37.99,
+      "salesParent": 8225,
+      "revenue": 308273.0,
+      "rating": 4.8,
+      "reviews": 10292
+    },
+    {
+      "rank": 6,
+      "asin": "B0DPLRQBK4",
+      "title": "Amazon Basics Everyday Paper Napkins, 400 Count",
+      "brand": "Amazon Basics",
+      "price": 4.99,
+      "salesParent": 61647,
+      "revenue": 307618.53,
+      "rating": 4.4,
+      "reviews": 3660
+    },
+    {
+      "rank": 7,
+      "asin": "B0014E89WM",
+      "title": "Vanity Fair Everyday Paper Napkins, 100 Count, Disposable",
+      "brand": "Vanity Fair",
+      "price": 2.98,
+      "salesParent": 96402,
+      "revenue": 273781.66,
+      "rating": 4.8,
+      "reviews": 24803
+    },
+    {
+      "rank": 8,
+      "asin": "B001BQVCDQ",
+      "title": "Tork Xpressnap Dispenser Napkins, White, Advanced, 12 Packs of 500 (DX900)",
+      "brand": "Tork",
+      "price": 73.96,
+      "salesParent": 3464,
+      "revenue": 254292.25,
+      "rating": 4.8,
+      "reviews": 787
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 14,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 14,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 6684339,
+    "priorHeadRevenue": 5848708,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 97,
+      "newCount": 17,
+      "pct": 18,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 55,
+      "brandCount": 58,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.65,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0HBR1Y3CQ",
+        "title": "Amazon Basics Everyday Paper Napkins, 400 Count (Pack of 3)",
+        "rating": 4.4,
+        "reviews": 9
+      },
+      {
+        "rank": 2,
+        "asin": "B0H9RXHTF2",
+        "title": "Amazon Basics Everyday Paper Napkins, 400 Count (Pack of 2)",
+        "rating": 4.4,
+        "reviews": 22
+      },
+      {
+        "rank": 3,
+        "asin": "B000VCFB0G",
+        "title": "Bounty Paper Napkins, White, 200 Count, Packaging may vary",
+        "rating": 4.8,
+        "reviews": 43242
+      },
+      {
+        "rank": 4,
+        "asin": "B078GDLCT5",
+        "title": "Vanity Fair Entertain Paper Napkins, Disposable Dinner Napkins, 320 Count",
+        "rating": 4.8,
+        "reviews": 10531
+      },
+      {
+        "rank": 5,
+        "asin": "B01HSEI1RY",
+        "title": "200 Pack Disposable Guest Towels for Bathroom, Linen-Feel Hand Towels",
+        "rating": 4.8,
+        "reviews": 10292
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:15342811:15342841:15347411",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

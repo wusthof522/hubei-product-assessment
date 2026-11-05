@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "393459011",
+  "level": "L2",
+  "categoryPathEn": "Industrial & Scientific > Science Education",
+  "categoryPathCn": "工业类 > 科学教育",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 1364221,
+    "avgRevenue": 13642,
+    "medianPrice": 31.22,
+    "priceBand": "$17.97 - $93.8",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B07HQD6WRX",
+      "title": "Medarchitect Suture Practice Complete Kit for Medical Student Training, Include Upgrade Pad with Pre-Cut Wounds, Tools, Suture Thread",
+      "brand": "Medarchitect",
+      "price": 27.99,
+      "salesParent": 3096,
+      "revenue": 86657.04,
+      "rating": 4.6,
+      "reviews": 6912
+    },
+    {
+      "rank": 2,
+      "asin": "B0BKQ4J2DB",
+      "title": "FINDMAG Magnets for Crafts, Magnets with Adhesive Backing, 20 Pack",
+      "brand": "FINDMAG",
+      "price": 5.99,
+      "salesParent": 14104,
+      "revenue": 84341.92,
+      "rating": 4.3,
+      "reviews": 2540
+    },
+    {
+      "rank": 3,
+      "asin": "B09QFWKLTS",
+      "title": "FINDMAG Strong Bar Magnets with Adhesive Backing, 6 Pack, 2.36x0.39x0.12in",
+      "brand": "FINDMAG",
+      "price": 7.99,
+      "salesParent": 8430,
+      "revenue": 67355.7,
+      "rating": 4.3,
+      "reviews": 7612
+    },
+    {
+      "rank": 4,
+      "asin": "B0CZLLBTKT",
+      "title": "15 Insect specimens,Real Specimens of Various Butterflies and Beetles Made of Resin, Used for Science Classroom Science Education Animal Specimens, Bug Preserved,Oddities, Biology (15 Pcs Beetles)",
+      "brand": "SINGEWOW",
+      "price": 23.95,
+      "salesParent": 1624,
+      "revenue": 38894.8,
+      "rating": 4.6,
+      "reviews": 510
+    },
+    {
+      "rank": 5,
+      "asin": "B07PV14HWF",
+      "title": "Alcedo Suture Practice Kit (32-Pc), includes Large Pad, Suture Thread",
+      "brand": "Alcedo",
+      "price": 26.99,
+      "salesParent": 1407,
+      "revenue": 37524.69,
+      "rating": 4.7,
+      "reviews": 3786
+    },
+    {
+      "rank": 6,
+      "asin": "B075LK4H82",
+      "title": "PRESTAN AED UltraTrainer, Single Unit",
+      "brand": "Prestan",
+      "price": 124.0,
+      "salesParent": 235,
+      "revenue": 29140.0,
+      "rating": 4.6,
+      "reviews": 501
+    },
+    {
+      "rank": 7,
+      "asin": "B0HG9XGWCW",
+      "title": "Magnets for Crafts 20pcs Science Education Magnets Magnetism Kits",
+      "brand": "TRYMAG",
+      "price": 4.99,
+      "salesParent": 5970,
+      "revenue": 28715.7,
+      "rating": 4.3,
+      "reviews": 717
+    },
+    {
+      "rank": 8,
+      "asin": "B0G4V2R1YV",
+      "title": "Bloomost Human Anatomy Labeling Workbook, 198-Page Dry Erase Study Guide",
+      "brand": "Bloomost",
+      "price": 49.95,
+      "salesParent": 575,
+      "revenue": 27830.0,
+      "rating": 4.7,
+      "reviews": 58
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 6,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 6,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1364221,
+    "priorHeadRevenue": 1292691,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 22,
+      "pct": 22,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 31,
+      "brandCount": 75,
+      "level": "分散",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.48,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B07HQD6WRX",
+        "title": "Medarchitect Suture Practice Complete Kit for Medical Student Training, Include Upgrade Pad with Pre-Cut Wounds, Tools, Suture Thread",
+        "rating": 4.6,
+        "reviews": 6912
+      },
+      {
+        "rank": 2,
+        "asin": "B0BKQ4J2DB",
+        "title": "FINDMAG Magnets for Crafts, Magnets with Adhesive Backing, 20 Pack",
+        "rating": 4.3,
+        "reviews": 2540
+      },
+      {
+        "rank": 3,
+        "asin": "B09QFWKLTS",
+        "title": "FINDMAG Strong Bar Magnets with Adhesive Backing, 6 Pack, 2.36x0.39x0.12in",
+        "rating": 4.3,
+        "reviews": 7612
+      },
+      {
+        "rank": 4,
+        "asin": "B0CZLLBTKT",
+        "title": "15 Insect specimens,Real Specimens of Various Butterflies and Beetles Made of Resin, Used for Science Classroom Science Education Animal Specimens, Bug Preserved,Oddities, Biology (15 Pcs Beetles)",
+        "rating": 4.6,
+        "reviews": 510
+      },
+      {
+        "rank": 5,
+        "asin": "B07PV14HWF",
+        "title": "Alcedo Suture Practice Kit (32-Pc), includes Large Pad, Suture Thread",
+        "rating": 4.7,
+        "reviews": 3786
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "16310091:393459011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

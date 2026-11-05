@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "166085011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Arts & Crafts > Drawing & Painting Supplies > Paintbrushes",
+  "categoryPathCn": "玩具 > 艺术 > 绘图 > 画笔、笔刷",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 733389,
+    "avgRevenue": 7334,
+    "medianPrice": 12.97,
+    "priceBand": "$8.05 - $18.86",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B084Y3DLFJ",
+      "title": "Crayola Color Wonder Magic Light Brush, Mess Free Painting for Toddlers",
+      "brand": "Crayola",
+      "price": 17.69,
+      "salesParent": 23819,
+      "revenue": 438031.41,
+      "rating": 4.5,
+      "reviews": 7847
+    },
+    {
+      "rank": 2,
+      "asin": "B07PPKQZ7B",
+      "title": "10Pcs Paint Brushes for Kids, Anezus Kids Paint Brushes Toddler Large Chubby Brushes Round and Flat Preschool Painting Brushes for Washable Paint Acrylic Paint",
+      "brand": "anezus",
+      "price": 6.99,
+      "salesParent": 16805,
+      "revenue": 117467.0,
+      "rating": 4.6,
+      "reviews": 7438
+    },
+    {
+      "rank": 3,
+      "asin": "B0C53FJY2P",
+      "title": "20 Pcs Kids Paint Brushes - Round &amp; Flat, Easy Hold &amp; Clean, Bristle Craft for Acrylic, Oil &amp; Watercolor Paint",
+      "brand": "REGUICORP",
+      "price": 6.99,
+      "salesParent": 3714,
+      "revenue": 24809.52,
+      "rating": 4.7,
+      "reviews": 635
+    },
+    {
+      "rank": 4,
+      "asin": "B08DKTF7RV",
+      "title": "Paint Brushes for Kids, 10 Pcs Big Washable Chubby Toddler Paint Brushes, Easy to Clean &amp; Grip Round and Flat Preschool Paint Brushes with No Shed Bristle for Acrylic Paint, Washable Paint",
+      "brand": "YGAOHF",
+      "price": 6.99,
+      "salesParent": 2894,
+      "revenue": 20229.06,
+      "rating": 4.5,
+      "reviews": 4638
+    },
+    {
+      "rank": 5,
+      "asin": "B0976247R2",
+      "title": "Honeysticks My First Paint Brush Set (3 Pack) - Jumbo Brushes, Ages 1+",
+      "brand": "Honeysticks",
+      "price": 16.95,
+      "salesParent": 1154,
+      "revenue": 19560.3,
+      "rating": 4.7,
+      "reviews": 624
+    },
+    {
+      "rank": 6,
+      "asin": "B0FFN3PQHJ",
+      "title": "Kids Paint Brushes Bulk, 36PCS Classroom Paint Brushes for Kids",
+      "brand": "GACDR",
+      "price": 24.99,
+      "salesParent": 609,
+      "revenue": 15334.62,
+      "rating": 4.9,
+      "reviews": 29
+    },
+    {
+      "rank": 7,
+      "asin": "B0FBW34XMC",
+      "title": "JUPITEARTH Natural Wood Handle Paint Brushes for Kids, 10-Pack",
+      "brand": "JUPITEARTH",
+      "price": 7.99,
+      "salesParent": 1495,
+      "revenue": 11945.05,
+      "rating": 4.6,
+      "reviews": 249
+    },
+    {
+      "rank": 8,
+      "asin": "B0GDTLB5M5",
+      "title": "50 Pack 1 Inch Paint Brushes, Acrylic Paint Brushes Bulk, Large Flat Bristle Brush Set for Arts &amp; Crafts, Watercolor, Tempera, Glue, Classroom Projects, Touch-Up, Washable &amp; Reusable",
+      "brand": "PinEther",
+      "price": 29.8,
+      "salesParent": 345,
+      "revenue": 10281.0,
+      "rating": 4.5,
+      "reviews": 25
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -33,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -33,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 733389,
+    "priorHeadRevenue": 1089839,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 50,
+      "pct": 50,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 87,
+      "brandCount": 70,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.45,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B084Y3DLFJ",
+        "title": "Crayola Color Wonder Magic Light Brush, Mess Free Painting for Toddlers",
+        "rating": 4.5,
+        "reviews": 7847
+      },
+      {
+        "rank": 2,
+        "asin": "B07PPKQZ7B",
+        "title": "10Pcs Paint Brushes for Kids, Anezus Kids Paint Brushes Toddler Large Chubby Brushes Round and Flat Preschool Painting Brushes for Washable Paint Acrylic Paint",
+        "rating": 4.6,
+        "reviews": 7438
+      },
+      {
+        "rank": 3,
+        "asin": "B0C53FJY2P",
+        "title": "20 Pcs Kids Paint Brushes - Round &amp; Flat, Easy Hold &amp; Clean, Bristle Craft for Acrylic, Oil &amp; Watercolor Paint",
+        "rating": 4.7,
+        "reviews": 635
+      },
+      {
+        "rank": 4,
+        "asin": "B08DKTF7RV",
+        "title": "Paint Brushes for Kids, 10 Pcs Big Washable Chubby Toddler Paint Brushes, Easy to Clean &amp; Grip Round and Flat Preschool Paint Brushes with No Shed Bristle for Acrylic Paint, Washable Paint",
+        "rating": 4.5,
+        "reviews": 4638
+      },
+      {
+        "rank": 5,
+        "asin": "B0976247R2",
+        "title": "Honeysticks My First Paint Brush Set (3 Pack) - Jumbo Brushes, Ages 1+",
+        "rating": 4.7,
+        "reviews": 624
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166057011:2488275011:166085011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

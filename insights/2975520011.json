@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "2975520011",
+  "level": "L2",
+  "categoryPathEn": "Pet Supplies > Small Animals",
+  "categoryPathCn": "宠物用品 > 小宠用品",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 9756286,
+    "avgRevenue": 97563,
+    "medianPrice": 20.19,
+    "priceBand": "$12.79 - $45.24",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B006AYMMRY",
+      "title": "Oxbow Western Timothy Hay, Rabbit &amp; Guinea Pig Hay, High Fiber, USA, 90 oz",
+      "brand": "Oxbow",
+      "price": 21.68,
+      "salesParent": 30313,
+      "revenue": 657185.88,
+      "rating": 4.6,
+      "reviews": 17030
+    },
+    {
+      "rank": 2,
+      "asin": "B079RR6CC3",
+      "title": "Kaytee Timothy Hay, High Fiber for Rabbits, Guinea Pigs, 12 Pounds",
+      "brand": "Kaytee",
+      "price": 34.95,
+      "salesParent": 17014,
+      "revenue": 597021.25,
+      "rating": 4.6,
+      "reviews": 14526
+    },
+    {
+      "rank": 3,
+      "asin": "B003SLLF48",
+      "title": "Oxbow Essentials Adult Rabbit Food, Timothy Hay Rabbit Pellets, USA, 5 lb",
+      "brand": "Oxbow",
+      "price": 10.99,
+      "salesParent": 38463,
+      "revenue": 475402.66,
+      "rating": 4.8,
+      "reviews": 11999
+    },
+    {
+      "rank": 4,
+      "asin": "B007R6G8JW",
+      "title": "Kaytee Clean &amp; Cozy Paper Bedding for Small Animals, White, 49.2 Liters",
+      "brand": "Kaytee",
+      "price": 14.95,
+      "salesParent": 31598,
+      "revenue": 472390.09,
+      "rating": 4.7,
+      "reviews": 19656
+    },
+    {
+      "rank": 5,
+      "asin": "B00DW79Y4G",
+      "title": "Kaytee Wafer Cut Timothy Hay for Rabbit &amp; Guinea Pigs, 60 Ounce",
+      "brand": "Kaytee",
+      "price": 13.95,
+      "salesParent": 17006,
+      "revenue": 237233.7,
+      "rating": 4.6,
+      "reviews": 10420
+    },
+    {
+      "rank": 6,
+      "asin": "B07CJ2FRNC",
+      "title": "Small Pet Select 2nd Cutting Perfect Blend Timothy Hay Pet Food for Rabbits, Guinea Pigs, Chinchillas and Other Small Animals, Premium Natural Hay Grown in the US, 12 LB",
+      "brand": "Small Pet Select",
+      "price": 36.99,
+      "salesParent": 6301,
+      "revenue": 233074.0,
+      "rating": 4.3,
+      "reviews": 9422
+    },
+    {
+      "rank": 7,
+      "asin": "B01LTI1WOE",
+      "title": "Oxbow Small Animal Bedding, Hamster, Guinea Pig, Rabbit, White, USA, 72 L",
+      "brand": "Oxbow",
+      "price": 17.99,
+      "salesParent": 12341,
+      "revenue": 222014.59,
+      "rating": 4.6,
+      "reviews": 6485
+    },
+    {
+      "rank": 8,
+      "asin": "B00COWGFUG",
+      "title": "Oxbow Essentials Adult Guinea Pig Food, Timothy Hay Pellets, USA, 5 lb",
+      "brand": "Oxbow",
+      "price": 12.4,
+      "salesParent": 17347,
+      "revenue": 215102.8,
+      "rating": 4.8,
+      "reviews": 10629
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 11,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 11,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 9756286,
+    "priorHeadRevenue": 8783689,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 19,
+      "pct": 19,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 60,
+      "brandCount": 43,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.53,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B006AYMMRY",
+        "title": "Oxbow Western Timothy Hay, Rabbit &amp; Guinea Pig Hay, High Fiber, USA, 90 oz",
+        "rating": 4.6,
+        "reviews": 17030
+      },
+      {
+        "rank": 2,
+        "asin": "B079RR6CC3",
+        "title": "Kaytee Timothy Hay, High Fiber for Rabbits, Guinea Pigs, 12 Pounds",
+        "rating": 4.6,
+        "reviews": 14526
+      },
+      {
+        "rank": 3,
+        "asin": "B003SLLF48",
+        "title": "Oxbow Essentials Adult Rabbit Food, Timothy Hay Rabbit Pellets, USA, 5 lb",
+        "rating": 4.8,
+        "reviews": 11999
+      },
+      {
+        "rank": 4,
+        "asin": "B007R6G8JW",
+        "title": "Kaytee Clean &amp; Cozy Paper Bedding for Small Animals, White, 49.2 Liters",
+        "rating": 4.7,
+        "reviews": 19656
+      },
+      {
+        "rank": 5,
+        "asin": "B00DW79Y4G",
+        "title": "Kaytee Wafer Cut Timothy Hay for Rabbit &amp; Guinea Pigs, 60 Ounce",
+        "rating": 4.6,
+        "reviews": 10420
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "2619533011:2975520011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

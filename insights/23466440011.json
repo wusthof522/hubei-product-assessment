@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23466440011",
+  "level": "L4",
+  "categoryPathEn": "Clothing, Shoes & Jewelry > Sport Specific Clothing > Gymnastics > Women",
+  "categoryPathCn": "服装、鞋履和珠宝 > 运动专用服装 > 体操 > 女性",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 98,
+    "totalRevenue": 1901411,
+    "avgRevenue": 19402,
+    "medianPrice": 23.99,
+    "priceBand": "$19.99 - $27.24",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B07TV4TXVS",
+      "title": "Adult High Neck Long Sleeve Dance Unitard for Women Bodysuits Full Body Leotard Spandex Catsuit",
+      "brand": "OVIGILY",
+      "price": 32.98,
+      "salesParent": 5264,
+      "revenue": 173606.72,
+      "rating": 4.4,
+      "reviews": 854
+    },
+    {
+      "rank": 2,
+      "asin": "B078R7Z28Q",
+      "title": "SUPRNOWA Full Body Unitard Turtleneck Spandex Footed/Footless Long Sleeve Unisex",
+      "brand": "SUPRNOWA",
+      "price": 30.99,
+      "salesParent": 5364,
+      "revenue": 166230.36,
+      "rating": 4.3,
+      "reviews": 364
+    },
+    {
+      "rank": 3,
+      "asin": "B01I38X4JE",
+      "title": "speerise Long Sleeve Bodysuit One Piece Bodycon Tummy Control Jumpsuits",
+      "brand": "speerise",
+      "price": 41.49,
+      "salesParent": 4103,
+      "revenue": 163053.23,
+      "rating": 4.4,
+      "reviews": 4870
+    },
+    {
+      "rank": 4,
+      "asin": "B00PG8JN9K",
+      "title": "Bloch Dance Women's Nejor Microlux Camisole Leotard",
+      "brand": "Bloch",
+      "price": 19.0,
+      "salesParent": 5894,
+      "revenue": 111986.0,
+      "rating": 4.6,
+      "reviews": 1646
+    },
+    {
+      "rank": 5,
+      "asin": "B07BMRZMNS",
+      "title": "SUPRNOWA Turtleneck Leotard Long Sleeves Spandex Dance Workout Fitness Bodysuit for Women",
+      "brand": "SUPRNOWA",
+      "price": 19.99,
+      "salesParent": 3808,
+      "revenue": 79320.64,
+      "rating": 4.3,
+      "reviews": 630
+    },
+    {
+      "rank": 6,
+      "asin": "B0F8N7DN7K",
+      "title": "Stelle Women's Ballet Leotard for Dance Scoop Neck Double Lined Bodysuit",
+      "brand": "Stelle",
+      "price": 19.99,
+      "salesParent": 3479,
+      "revenue": 77790.45,
+      "rating": 4.8,
+      "reviews": 291
+    },
+    {
+      "rank": 7,
+      "asin": "B07TVN9JPX",
+      "title": "Women's Long Sleeve Unitard Dance Costume Spandex Full Body Suits One Piece Jumpsuits",
+      "brand": "OVIGILY",
+      "price": 29.99,
+      "salesParent": 2594,
+      "revenue": 77456.84,
+      "rating": 4.4,
+      "reviews": 826
+    },
+    {
+      "rank": 8,
+      "asin": "B002KIHHTC",
+      "title": "Capezio Women's Classic Short Sleeve Leotard",
+      "brand": "Capezio",
+      "price": 27.0,
+      "salesParent": 1844,
+      "revenue": 49197.92,
+      "rating": 4.6,
+      "reviews": 6359
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 27,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 27,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1901411,
+    "priorHeadRevenue": 1496681,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 98,
+      "newCount": 36,
+      "pct": 37,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 58,
+      "brandCount": 48,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.39,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B07TV4TXVS",
+        "title": "Adult High Neck Long Sleeve Dance Unitard for Women Bodysuits Full Body Leotard Spandex Catsuit",
+        "rating": 4.4,
+        "reviews": 854
+      },
+      {
+        "rank": 2,
+        "asin": "B078R7Z28Q",
+        "title": "SUPRNOWA Full Body Unitard Turtleneck Spandex Footed/Footless Long Sleeve Unisex",
+        "rating": 4.3,
+        "reviews": 364
+      },
+      {
+        "rank": 3,
+        "asin": "B01I38X4JE",
+        "title": "speerise Long Sleeve Bodysuit One Piece Bodycon Tummy Control Jumpsuits",
+        "rating": 4.4,
+        "reviews": 4870
+      },
+      {
+        "rank": 4,
+        "asin": "B00PG8JN9K",
+        "title": "Bloch Dance Women's Nejor Microlux Camisole Leotard",
+        "rating": 4.6,
+        "reviews": 1646
+      },
+      {
+        "rank": 5,
+        "asin": "B07BMRZMNS",
+        "title": "SUPRNOWA Turtleneck Leotard Long Sleeves Spandex Dance Workout Fitness Bodysuit for Women",
+        "rating": 4.3,
+        "reviews": 630
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "7141123011:23575629011:23466415011:23466440011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

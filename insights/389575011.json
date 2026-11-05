@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "389575011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Household Supplies > Household Batteries > 6V",
+  "categoryPathCn": "健康与家居 > 家居用品 > 家用电池 > 6V",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 832179,
+    "avgRevenue": 8406,
+    "medianPrice": 19.63,
+    "priceBand": "$13.99 - $34.54",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0009811TW",
+      "title": "PetSafe RFA-67 6V Replacement Battery, 2-Pack",
+      "brand": "PetSafe",
+      "price": 7.95,
+      "salesParent": 11141,
+      "revenue": 88570.95,
+      "rating": 4.6,
+      "reviews": 37029
+    },
+    {
+      "rank": 2,
+      "asin": "B09QFQHGCN",
+      "title": "NPP 6V 225Ah AGM SLA Battery with T16 (M8) Terminal for Golf Cart (6 Pcs)",
+      "brand": "NPP",
+      "price": 1439.99,
+      "salesParent": 31,
+      "revenue": 44639.69,
+      "rating": 5.0,
+      "reviews": 8
+    },
+    {
+      "rank": 3,
+      "asin": "B0FKF34LQR",
+      "title": "Moultrie 6V Tab Top Battery for Feeders - 5Ah, Rechargeable",
+      "brand": "Moultrie",
+      "price": 19.63,
+      "salesParent": 2100,
+      "revenue": 41664.0,
+      "rating": 4.6,
+      "reviews": 250
+    },
+    {
+      "rank": 4,
+      "asin": "B0043CHX38",
+      "title": "EVEREADY Super Heavy Duty 1209 6 Volt Spring Lantern Battery",
+      "brand": "EVEREADY",
+      "price": 5.18,
+      "salesParent": 6544,
+      "revenue": 38544.16,
+      "rating": 4.6,
+      "reviews": 9831
+    },
+    {
+      "rank": 5,
+      "asin": "B00K8V32VU",
+      "title": "Mighty Max Battery ML4-6 - 6 Volt 4.5 AH, F1 Terminal, Rechargeable SLA AGM Battery",
+      "brand": "Mighty Max Battery",
+      "price": 13.99,
+      "salesParent": 2542,
+      "revenue": 35562.58,
+      "rating": 4.6,
+      "reviews": 3888
+    },
+    {
+      "rank": 6,
+      "asin": "B001E8CVRM",
+      "title": "Streamlight 74175 Battery Lithium for Strion Made By Streamlight",
+      "brand": "Streamlight",
+      "price": 34.54,
+      "salesParent": 896,
+      "revenue": 30920.96,
+      "rating": 4.7,
+      "reviews": 3282
+    },
+    {
+      "rank": 7,
+      "asin": "B0DZR7T5R2",
+      "title": "Trojan T-105 (T105) 6V 225Ah Deep-Cycle Flooded Battery | Golf Cart, Renewable Energy, Floor Scrubber, Industrial Use, Pack of 4",
+      "brand": "Trojan Battery Company",
+      "price": 1140.0,
+      "salesParent": 27,
+      "revenue": 30780.0,
+      "rating": 5.0,
+      "reviews": 4
+    },
+    {
+      "rank": 8,
+      "asin": "B09Y68H7M5",
+      "title": "Interstate Batteries 6V HD Lantern Flashlight Battery (6-Pack) 6 Volt 7000 mAH Square Shape Beam Light (Spring Terminals) Camping, Hiking, Household, Lamps, Outdoors (DRY1403)",
+      "brand": "Interstate Batteries",
+      "price": 36.99,
+      "salesParent": 813,
+      "revenue": 30072.87,
+      "rating": 4.4,
+      "reviews": 387
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 3,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 3,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 832179,
+    "priorHeadRevenue": 809008,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 21,
+      "pct": 21,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 37,
+      "brandCount": 56,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.46,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0009811TW",
+        "title": "PetSafe RFA-67 6V Replacement Battery, 2-Pack",
+        "rating": 4.6,
+        "reviews": 37029
+      },
+      {
+        "rank": 2,
+        "asin": "B09QFQHGCN",
+        "title": "NPP 6V 225Ah AGM SLA Battery with T16 (M8) Terminal for Golf Cart (6 Pcs)",
+        "rating": 5.0,
+        "reviews": 8
+      },
+      {
+        "rank": 3,
+        "asin": "B0FKF34LQR",
+        "title": "Moultrie 6V Tab Top Battery for Feeders - 5Ah, Rechargeable",
+        "rating": 4.6,
+        "reviews": 250
+      },
+      {
+        "rank": 4,
+        "asin": "B0043CHX38",
+        "title": "EVEREADY Super Heavy Duty 1209 6 Volt Spring Lantern Battery",
+        "rating": 4.6,
+        "reviews": 9831
+      },
+      {
+        "rank": 5,
+        "asin": "B00K8V32VU",
+        "title": "Mighty Max Battery ML4-6 - 6 Volt 4.5 AH, F1 Terminal, Rechargeable SLA AGM Battery",
+        "rating": 4.6,
+        "reviews": 3888
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:15342811:15745581:389575011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

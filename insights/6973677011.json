@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "6973677011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Diet & Sports Nutrition > Endurance & Energy > Powders",
+  "categoryPathCn": "健康与家居 > 暮和喜欢 > 耐力和能量 > 能量粉",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 9532128,
+    "avgRevenue": 95321,
+    "medianPrice": 39.99,
+    "priceBand": "$29.99 - $45.92",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B08HR994NJ",
+      "title": "Dr. Berg Zero Sugar Hydration Keto Electrolyte Powder - Enhanced w/ 1000 mg of Potassium &amp; Real Pink Himalayan Salt (NOT Table Salt) - Raspberry &amp; Lemon Flavor Hydration Drink Supplement, 100 Servings",
+      "brand": "Dr. Berg Nutritionals",
+      "price": 47.99,
+      "salesParent": 25854,
+      "revenue": 1240733.5,
+      "rating": 4.4,
+      "reviews": 9269
+    },
+    {
+      "rank": 2,
+      "asin": "B0GYZKNJ1B",
+      "title": "AdvoCare Spark Energy &amp; Focus, Sugar-Free, Fruit Punch, 50 Servings",
+      "brand": "AdvoCare",
+      "price": 58.5,
+      "salesParent": 13172,
+      "revenue": 770562.0,
+      "rating": 4.6,
+      "reviews": 2740
+    },
+    {
+      "rank": 3,
+      "asin": "B00PYB335O",
+      "title": "Optimum Nutrition Gold Standard PreWorkout Powder Blueberry Lemonade 10.6Oz",
+      "brand": "Optimum Nutrition",
+      "price": 27.44,
+      "salesParent": 25719,
+      "revenue": 666122.06,
+      "rating": 4.5,
+      "reviews": 17079
+    },
+    {
+      "rank": 4,
+      "asin": "B002RSRURY",
+      "title": "CELSIUS On-The-Go Powder Stick Packs, Zero Sugar (14 Sticks per Pack)",
+      "brand": "CELSIUS",
+      "price": 9.99,
+      "salesParent": 53667,
+      "revenue": 581213.62,
+      "rating": 4.7,
+      "reviews": 7415
+    },
+    {
+      "rank": 5,
+      "asin": "B07BHKNF78",
+      "title": "MTN OPS Ignite Energy Powder, Zero Sugar, Tiger's Blood",
+      "brand": "MTN OPS",
+      "price": 49.51,
+      "salesParent": 9105,
+      "revenue": 452791.66,
+      "rating": 4.7,
+      "reviews": 867
+    },
+    {
+      "rank": 6,
+      "asin": "B06XGL55ND",
+      "title": "AdvoCare Spark Energy &amp; Focus Drink Mix, Sugar-Free, Fruit Punch, 14 Sticks",
+      "brand": "AdvoCare",
+      "price": 28.95,
+      "salesParent": 12588,
+      "revenue": 364422.62,
+      "rating": 4.7,
+      "reviews": 2067
+    },
+    {
+      "rank": 7,
+      "asin": "B071ZBXLML",
+      "title": "BARE PERFORMANCE NUTRITION BPN Electrolytes Hydration Drink Mix | Sugar Free Electrolyte Powder | 500mg Sodium per Serving | Naturally Sweetened | Lemon Lime, 50 Servings",
+      "brand": "BARE PERFORMANCE NUTRITION",
+      "price": 44.99,
+      "salesParent": 8119,
+      "revenue": 363974.78,
+      "rating": 4.7,
+      "reviews": 479
+    },
+    {
+      "rank": 8,
+      "asin": "B0DPR36HHD",
+      "title": "BODi Energize Pre Workout Powder - Lemon, 40 Servings",
+      "brand": "BODi",
+      "price": 59.95,
+      "salesParent": 5420,
+      "revenue": 324929.0,
+      "rating": 4.6,
+      "reviews": 309
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -39,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -39,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 9532128,
+    "priorHeadRevenue": 15659543,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 29,
+      "pct": 29,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 45,
+      "brandCount": 71,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.39,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B08HR994NJ",
+        "title": "Dr. Berg Zero Sugar Hydration Keto Electrolyte Powder - Enhanced w/ 1000 mg of Potassium &amp; Real Pink Himalayan Salt (NOT Table Salt) - Raspberry &amp; Lemon Flavor Hydration Drink Supplement, 100 Servings",
+        "rating": 4.4,
+        "reviews": 9269
+      },
+      {
+        "rank": 2,
+        "asin": "B0GYZKNJ1B",
+        "title": "AdvoCare Spark Energy &amp; Focus, Sugar-Free, Fruit Punch, 50 Servings",
+        "rating": 4.6,
+        "reviews": 2740
+      },
+      {
+        "rank": 3,
+        "asin": "B00PYB335O",
+        "title": "Optimum Nutrition Gold Standard PreWorkout Powder Blueberry Lemonade 10.6Oz",
+        "rating": 4.5,
+        "reviews": 17079
+      },
+      {
+        "rank": 4,
+        "asin": "B002RSRURY",
+        "title": "CELSIUS On-The-Go Powder Stick Packs, Zero Sugar (14 Sticks per Pack)",
+        "rating": 4.7,
+        "reviews": 7415
+      },
+      {
+        "rank": 5,
+        "asin": "B07BHKNF78",
+        "title": "MTN OPS Ignite Energy Powder, Zero Sugar, Tiger's Blood",
+        "rating": 4.7,
+        "reviews": 867
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3764441:6973669011:6973677011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

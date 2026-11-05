@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "2515156011",
+  "level": "L4",
+  "categoryPathEn": "Clothing, Shoes & Jewelry > Sport Specific Clothing > Dance > Women",
+  "categoryPathCn": "服装、鞋履和珠宝 > 运动专用服装 > 舞蹈 > 女性",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 11416800,
+    "avgRevenue": 114168,
+    "medianPrice": 19.48,
+    "priceBand": "$12.96 - $34.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B09XFLFXR1",
+      "title": "Women's Metallic Rave Booty Shorts Shiny High Waisted Bottoms for Dance Festival",
+      "brand": "Gatielzana",
+      "price": 9.99,
+      "salesParent": 84515,
+      "revenue": 1060663.25,
+      "rating": 4.2,
+      "reviews": 1301
+    },
+    {
+      "rank": 2,
+      "asin": "B08T68Y8YM",
+      "title": "Libin Women's Joggers Pants Athletic Casual Sweatpants Petite/Regular/Tall",
+      "brand": "Libin",
+      "price": 32.98,
+      "salesParent": 25956,
+      "revenue": 810865.44,
+      "rating": 4.4,
+      "reviews": 11196
+    },
+    {
+      "rank": 3,
+      "asin": "B0FR1WGMGY",
+      "title": "Vinaderhom Women's Metallic Booty Shorts Shiny High Waisted Rave Bottoms for Dance Festival",
+      "brand": "Vinaderhom",
+      "price": 16.99,
+      "salesParent": 40974,
+      "revenue": 696148.25,
+      "rating": 4.4,
+      "reviews": 816
+    },
+    {
+      "rank": 4,
+      "asin": "B0BBM2GDK2",
+      "title": "Tutus for Women Adult Tutu Skirts for Women 5 Layers Tulle Skirt Halloween Tutu Womens Tutu Skirt 80s Costumes for Women",
+      "brand": "Olreco",
+      "price": 14.99,
+      "salesParent": 30274,
+      "revenue": 439578.5,
+      "rating": 4.2,
+      "reviews": 1085
+    },
+    {
+      "rank": 5,
+      "asin": "B0951942YT",
+      "title": "Tutus for Women 5 Layered Tutus Girl Teens Short Skirt Colorful Running Skirts Rave Costume Tutu Dance Skirt",
+      "brand": "HIWIND",
+      "price": 7.99,
+      "salesParent": 43650,
+      "revenue": 398524.5,
+      "rating": 4.4,
+      "reviews": 1772
+    },
+    {
+      "rank": 6,
+      "asin": "B0DBQ8KMCY",
+      "title": "Vinaderhom Women's Shiny Metallic Booty Shorts Rave Festival Dance Bottoms for Costume",
+      "brand": "Vinaderhom",
+      "price": 9.99,
+      "salesParent": 32946,
+      "revenue": 329130.53,
+      "rating": 4.2,
+      "reviews": 240
+    },
+    {
+      "rank": 7,
+      "asin": "B0BKRKK5YS",
+      "title": "Women's Metallic Crop Tube Top Shiny Strapless Bandeau Bra for Dancing, Raves, Festivals, Costumes",
+      "brand": "Gatielzana",
+      "price": 13.99,
+      "salesParent": 22621,
+      "revenue": 301990.34,
+      "rating": 4.0,
+      "reviews": 340
+    },
+    {
+      "rank": 8,
+      "asin": "B0DN52X1V9",
+      "title": "Women 5 Layers Tutu Fluffy Dance Ballet Bubble Skirt Puffy Elastic Tulle Short Skirts Halloween Christmas Costume",
+      "brand": "BOOSINI",
+      "price": 9.99,
+      "salesParent": 27606,
+      "revenue": 301457.53,
+      "rating": 4.2,
+      "reviews": 771
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 42,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 42,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 11416800,
+    "priorHeadRevenue": 8028236,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 44,
+      "pct": 44,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 44,
+      "brandCount": 67,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.19,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B09XFLFXR1",
+        "title": "Women's Metallic Rave Booty Shorts Shiny High Waisted Bottoms for Dance Festival",
+        "rating": 4.2,
+        "reviews": 1301
+      },
+      {
+        "rank": 2,
+        "asin": "B08T68Y8YM",
+        "title": "Libin Women's Joggers Pants Athletic Casual Sweatpants Petite/Regular/Tall",
+        "rating": 4.4,
+        "reviews": 11196
+      },
+      {
+        "rank": 3,
+        "asin": "B0FR1WGMGY",
+        "title": "Vinaderhom Women's Metallic Booty Shorts Shiny High Waisted Rave Bottoms for Dance Festival",
+        "rating": 4.4,
+        "reviews": 816
+      },
+      {
+        "rank": 4,
+        "asin": "B0BBM2GDK2",
+        "title": "Tutus for Women Adult Tutu Skirts for Women 5 Layers Tulle Skirt Halloween Tutu Womens Tutu Skirt 80s Costumes for Women",
+        "rating": 4.2,
+        "reviews": 1085
+      },
+      {
+        "rank": 5,
+        "asin": "B0951942YT",
+        "title": "Tutus for Women 5 Layered Tutus Girl Teens Short Skirt Colorful Running Skirts Rave Costume Tutu Dance Skirt",
+        "rating": 4.4,
+        "reviews": 1772
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "7141123011:23575629011:2515155011:2515156011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

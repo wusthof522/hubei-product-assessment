@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3779721",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vision > Contact Lens Care > Hard Lens Care",
+  "categoryPathCn": "健康与家居 > 眼睛护理 > 隐形眼镜配件 > 硬隐形眼镜护理",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 67,
+    "totalRevenue": 133262,
+    "avgRevenue": 1989,
+    "medianPrice": 8.99,
+    "priceBand": "$5.99 - $14.76",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B00OJWNY1C",
+      "title": "DMV Ultra Contact Lens Remover Tool Applicator Made in USA 3 Pack - Orange",
+      "brand": "DMV",
+      "price": 6.99,
+      "salesParent": 4670,
+      "revenue": 33997.6,
+      "rating": 4.5,
+      "reviews": 12918
+    },
+    {
+      "rank": 2,
+      "asin": "B00TOIGJSG",
+      "title": "Soft Contact Applicator &amp; Remover Tool, Contact Plunger 3 Pack - Green",
+      "brand": "SPORTS WORLD VISION",
+      "price": 9.99,
+      "salesParent": 3252,
+      "revenue": 32487.48,
+      "rating": 3.2,
+      "reviews": 6835
+    },
+    {
+      "rank": 3,
+      "asin": "B00S5LQAUU",
+      "title": "DMV Scleral Cup Contact Lens Applicator Tool Made in USA 3 Pack - Blue",
+      "brand": "DMV",
+      "price": 9.99,
+      "salesParent": 2103,
+      "revenue": 21008.97,
+      "rating": 4.6,
+      "reviews": 6767
+    },
+    {
+      "rank": 4,
+      "asin": "B0BY4Y2DRX",
+      "title": "12 Pieces Hard Contact Lens Remover Tool for RGP &amp; Scleral Lenses",
+      "brand": "MUSHENJI",
+      "price": 8.99,
+      "salesParent": 1600,
+      "revenue": 14384.0,
+      "rating": 4.3,
+      "reviews": 1193
+    },
+    {
+      "rank": 5,
+      "asin": "B0D2NG3ZRG",
+      "title": "6 Pieces Hard Scleral Lens Remover Tool for RGP",
+      "brand": "MUQING",
+      "price": 6.99,
+      "salesParent": 477,
+      "revenue": 3334.23,
+      "rating": 4.1,
+      "reviews": 469
+    },
+    {
+      "rank": 6,
+      "asin": "B0D2S2PYBF",
+      "title": "[6 Pack] Scleral Lens Inserter + Remover, Ventless Contact Lens Applicator",
+      "brand": "Samorillo",
+      "price": 15.99,
+      "salesParent": 184,
+      "revenue": 2942.16,
+      "rating": 4.4,
+      "reviews": 304
+    },
+    {
+      "rank": 7,
+      "asin": "B07TJK8YND",
+      "title": "DMV Classic Vented Hard Contact Lens Remover (Blue, 3 Packs)",
+      "brand": "DMV",
+      "price": 12.99,
+      "salesParent": 196,
+      "revenue": 2581.32,
+      "rating": 4.2,
+      "reviews": 837
+    },
+    {
+      "rank": 8,
+      "asin": "B000E4Q27C",
+      "title": "DMV Soft Lens Handler, colors may vary",
+      "brand": "DMV",
+      "price": 9.27,
+      "salesParent": 203,
+      "revenue": 1971.13,
+      "rating": 3.7,
+      "reviews": 1525
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 37,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 37,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 133262,
+    "priorHeadRevenue": 97394,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 67,
+      "newCount": 23,
+      "pct": 34,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 90,
+      "brandCount": 34,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 3.93,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B00OJWNY1C",
+        "title": "DMV Ultra Contact Lens Remover Tool Applicator Made in USA 3 Pack - Orange",
+        "rating": 4.5,
+        "reviews": 12918
+      },
+      {
+        "rank": 2,
+        "asin": "B00TOIGJSG",
+        "title": "Soft Contact Applicator &amp; Remover Tool, Contact Plunger 3 Pack - Green",
+        "rating": 3.2,
+        "reviews": 6835
+      },
+      {
+        "rank": 3,
+        "asin": "B00S5LQAUU",
+        "title": "DMV Scleral Cup Contact Lens Applicator Tool Made in USA 3 Pack - Blue",
+        "rating": 4.6,
+        "reviews": 6767
+      },
+      {
+        "rank": 4,
+        "asin": "B0BY4Y2DRX",
+        "title": "12 Pieces Hard Contact Lens Remover Tool for RGP &amp; Scleral Lenses",
+        "rating": 4.3,
+        "reviews": 1193
+      },
+      {
+        "rank": 5,
+        "asin": "B0D2NG3ZRG",
+        "title": "6 Pieces Hard Scleral Lens Remover Tool for RGP",
+        "rating": 4.1,
+        "reviews": 469
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:10079994011:3779701:3779721",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

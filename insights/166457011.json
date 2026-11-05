@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "166457011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Sports & Outdoor Play > Toy Sports > Toy Golf",
+  "categoryPathCn": "玩具 > 体育 > 玩具运动 > 玩具高尔夫",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 96,
+    "totalRevenue": 1583488,
+    "avgRevenue": 16495,
+    "medianPrice": 49.48,
+    "priceBand": "$29.99 - $93.74",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0B5ZLCBJM",
+      "title": "Liberry Toddler Golf Clubs Set Toy for 1 2 3 4 Years Old Boys Girls, Blue",
+      "brand": "Liberry",
+      "price": 29.99,
+      "salesParent": 9034,
+      "revenue": 270929.66,
+      "rating": 4.6,
+      "reviews": 1620
+    },
+    {
+      "rank": 2,
+      "asin": "B09LTZB5ZB",
+      "title": "BucketGolf Pro Portable 9 Hole Backyard Golf Game for Family",
+      "brand": "BUCKETGOLF",
+      "price": 134.99,
+      "salesParent": 814,
+      "revenue": 109881.87,
+      "rating": 4.6,
+      "reviews": 701
+    },
+    {
+      "rank": 3,
+      "asin": "B0DKX98PQW",
+      "title": "BucketGolf Original Backyard Golf Game",
+      "brand": "BUCKETGOLF",
+      "price": 134.99,
+      "salesParent": 574,
+      "revenue": 77484.27,
+      "rating": 4.7,
+      "reviews": 142
+    },
+    {
+      "rank": 4,
+      "asin": "B0FN6Z8TDR",
+      "title": "PJG 22 Pcs Toddler Golf Clubs Set, Kids Golf Toys, Birthday Gift Boys Girls",
+      "brand": "PJG",
+      "price": 25.99,
+      "salesParent": 3112,
+      "revenue": 74656.88,
+      "rating": 4.4,
+      "reviews": 375
+    },
+    {
+      "rank": 5,
+      "asin": "B0DKX8RLPB",
+      "title": "BucketGolf 6 Hole Bundle with Clubs, Backyard Golf Game for All Ages",
+      "brand": "BUCKETGOLF",
+      "price": 179.99,
+      "salesParent": 406,
+      "revenue": 73075.95,
+      "rating": 4.7,
+      "reviews": 72
+    },
+    {
+      "rank": 6,
+      "asin": "B0F8NMF3L1",
+      "title": "Liberry Toddler Golf Clubs Set Toy for Boys Girls 1 2 3 4 Years Old, Green",
+      "brand": "Liberry",
+      "price": 37.99,
+      "salesParent": 1769,
+      "revenue": 65771.42,
+      "rating": 4.7,
+      "reviews": 721
+    },
+    {
+      "rank": 7,
+      "asin": "B07QN1YBGT",
+      "title": "Gator Golf - Putt The Ball into The Gator's Mouth to Score Game by Goliath, Single, Gator Golf, 27 x 27 x 12.5 cm for age 3+ years",
+      "brand": "Goliath",
+      "price": 19.82,
+      "salesParent": 2268,
+      "revenue": 44112.6,
+      "rating": 4.3,
+      "reviews": 5937
+    },
+    {
+      "rank": 8,
+      "asin": "B0CLHKBNQ4",
+      "title": "Official BucketGolf Club - Backyard Outdoor Golf Club with Oversize Club Head to Play BucketGolf, Hit Plastic Or Foam Golf Balls in Grass, Parks, Yards",
+      "brand": "BUCKETGOLF",
+      "price": 39.99,
+      "salesParent": 928,
+      "revenue": 37110.72,
+      "rating": 4.7,
+      "reviews": 466
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -18,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -18,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1583488,
+    "priorHeadRevenue": 1922815,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 96,
+      "newCount": 56,
+      "pct": 58,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 64,
+      "brandCount": 58,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.36,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0B5ZLCBJM",
+        "title": "Liberry Toddler Golf Clubs Set Toy for 1 2 3 4 Years Old Boys Girls, Blue",
+        "rating": 4.6,
+        "reviews": 1620
+      },
+      {
+        "rank": 2,
+        "asin": "B09LTZB5ZB",
+        "title": "BucketGolf Pro Portable 9 Hole Backyard Golf Game for Family",
+        "rating": 4.6,
+        "reviews": 701
+      },
+      {
+        "rank": 3,
+        "asin": "B0DKX98PQW",
+        "title": "BucketGolf Original Backyard Golf Game",
+        "rating": 4.7,
+        "reviews": 142
+      },
+      {
+        "rank": 4,
+        "asin": "B0FN6Z8TDR",
+        "title": "PJG 22 Pcs Toddler Golf Clubs Set, Kids Golf Toys, Birthday Gift Boys Girls",
+        "rating": 4.4,
+        "reviews": 375
+      },
+      {
+        "rank": 5,
+        "asin": "B0DKX8RLPB",
+        "title": "BucketGolf 6 Hole Bundle with Clubs, Backyard Golf Game for All Ages",
+        "rating": 4.7,
+        "reviews": 72
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166420011:166453011:166457011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

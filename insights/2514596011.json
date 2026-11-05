@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "2514596011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Collectible Toys > Statues, Bobbleheads & Busts > Statues",
+  "categoryPathCn": "玩具 > 收藏品玩具 > 雕像，弹头 > 雕像",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 1244550,
+    "avgRevenue": 12446,
+    "medianPrice": 59.19,
+    "priceBand": "$29.99 - $100.39",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0CWSMZ18M",
+      "title": "TAMASHII NATIONS - One Piece - Nami -Romance Dawn- S.H.Figuarts Action Figure",
+      "brand": "TAMASHII NATIONS",
+      "price": 55.88,
+      "salesParent": 4759,
+      "revenue": 266123.28,
+      "rating": 4.7,
+      "reviews": 143
+    },
+    {
+      "rank": 2,
+      "asin": "B0FT2DNKC3",
+      "title": "TAMASHII NATIONS - My Hero Academia - Tomura Shigaraki S.H.Figuarts Action Figure",
+      "brand": "TAMASHII NATIONS",
+      "price": 138.0,
+      "salesParent": 662,
+      "revenue": 91547.98,
+      "rating": 4.6,
+      "reviews": 62
+    },
+    {
+      "rank": 3,
+      "asin": "B0H7Y4JWS5",
+      "title": "Haunted Hill Farm 6.9-Ft. Tall Specter Lady Ghost Halloween Animatronic",
+      "brand": "Haunted Hill Farm",
+      "price": 199.43,
+      "salesParent": 334,
+      "revenue": 59979.72,
+      "rating": 4.0,
+      "reviews": 14
+    },
+    {
+      "rank": 4,
+      "asin": "B0H7XPZ61T",
+      "title": "Haunted Hill Farm 4.6-Ft. Head-Spinning Beatrix Halloween Animatronic Prop",
+      "brand": "Haunted Hill Farm",
+      "price": 153.99,
+      "salesParent": 334,
+      "revenue": 51830.12,
+      "rating": 4.5,
+      "reviews": 10
+    },
+    {
+      "rank": 5,
+      "asin": "B0DPGYVVTF",
+      "title": "TAMASHII NATIONS - Hunter x Hunter - Killua S.H.Figuarts Action Figure",
+      "brand": "TAMASHII NATIONS",
+      "price": 60.5,
+      "salesParent": 721,
+      "revenue": 42481.32,
+      "rating": 4.8,
+      "reviews": 263
+    },
+    {
+      "rank": 6,
+      "asin": "B0BYBQL4YG",
+      "title": "Spirit Halloween 24 Inch Chucky Good Guys Doll",
+      "brand": "Spirit Halloween",
+      "price": 89.99,
+      "salesParent": 416,
+      "revenue": 37435.84,
+      "rating": 4.7,
+      "reviews": 2312
+    },
+    {
+      "rank": 7,
+      "asin": "B0FFSJ3611",
+      "title": "TAMASHII NATIONS - Kaiju No. 8 - ISAO Shinomiya S.H.Figuarts Action Figure",
+      "brand": "TAMASHII NATIONS",
+      "price": 96.76,
+      "salesParent": 263,
+      "revenue": 25461.03,
+      "rating": 4.5,
+      "reviews": 469
+    },
+    {
+      "rank": 8,
+      "asin": "B0966FVGSY",
+      "title": "LEGO Marvel Super Heroes Playset, from 16 Years - Daily Bugle 76178",
+      "brand": "LEGO",
+      "price": 649.0,
+      "salesParent": 36,
+      "revenue": 23370.48,
+      "rating": 4.5,
+      "reviews": 285
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 14,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 14,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1244550,
+    "priorHeadRevenue": 1091212,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 42,
+      "pct": 42,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 69,
+      "brandCount": 37,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.62,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0CWSMZ18M",
+        "title": "TAMASHII NATIONS - One Piece - Nami -Romance Dawn- S.H.Figuarts Action Figure",
+        "rating": 4.7,
+        "reviews": 143
+      },
+      {
+        "rank": 2,
+        "asin": "B0FT2DNKC3",
+        "title": "TAMASHII NATIONS - My Hero Academia - Tomura Shigaraki S.H.Figuarts Action Figure",
+        "rating": 4.6,
+        "reviews": 62
+      },
+      {
+        "rank": 3,
+        "asin": "B0H7Y4JWS5",
+        "title": "Haunted Hill Farm 6.9-Ft. Tall Specter Lady Ghost Halloween Animatronic",
+        "rating": 4.0,
+        "reviews": 14
+      },
+      {
+        "rank": 4,
+        "asin": "B0H7XPZ61T",
+        "title": "Haunted Hill Farm 4.6-Ft. Head-Spinning Beatrix Halloween Animatronic Prop",
+        "rating": 4.5,
+        "reviews": 10
+      },
+      {
+        "rank": 5,
+        "asin": "B0DPGYVVTF",
+        "title": "TAMASHII NATIONS - Hunter x Hunter - Killua S.H.Figuarts Action Figure",
+        "rating": 4.8,
+        "reviews": 263
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:19431275011:166026011:2514596011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

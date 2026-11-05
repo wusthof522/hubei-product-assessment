@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "2528105011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Sports & Outdoor Play > Pogo Sticks & Hoppers > Hoppers",
+  "categoryPathCn": "玩具 > 体育 > 滑翔机杆 > 斗牛士",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 1574692,
+    "avgRevenue": 15906,
+    "medianPrice": 29.95,
+    "priceBand": "$21.99 - $35.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B09B1QZLXW",
+      "title": "Bouncy Pals Toddler Dinosaur Hopper Toy, Kids Outdoor Ride on Bounce Animal",
+      "brand": "iPlay, iLearn",
+      "price": 35.99,
+      "salesParent": 10334,
+      "revenue": 371920.69,
+      "rating": 4.7,
+      "reviews": 26209
+    },
+    {
+      "rank": 2,
+      "asin": "B0D5BC9XZ4",
+      "title": "QPAU Inflatable Dinosaur Bouncy Hopper Toy, 2 Pack with Hand Pump",
+      "brand": "QPAU",
+      "price": 42.85,
+      "salesParent": 2110,
+      "revenue": 93388.59,
+      "rating": 4.3,
+      "reviews": 1516
+    },
+    {
+      "rank": 3,
+      "asin": "B094PM44P1",
+      "title": "Inflatable Horse Hopping Toy, Ride-on Bouncy Animal for Toddler 18M+",
+      "brand": "ZOOJOY",
+      "price": 33.99,
+      "salesParent": 2209,
+      "revenue": 75194.36,
+      "rating": 4.7,
+      "reviews": 1150
+    },
+    {
+      "rank": 4,
+      "asin": "B07C6YN9K7",
+      "title": "EVERICH TOY Giraffe Bouncy Animal Hopper for Kids 18 Months+, Inflatable Bouncing Hopper Toys, Outdoor Indoor Ride on Horse Bouncer Hopping Toys, Birthday Gifts for Boys Girls 2 3 4 5 6 Years Old",
+      "brand": "EVERICH TOY",
+      "price": 33.99,
+      "salesParent": 1710,
+      "revenue": 58464.9,
+      "rating": 4.6,
+      "reviews": 3744
+    },
+    {
+      "rank": 5,
+      "asin": "B09BG13L2R",
+      "title": "Waddle Large Inflatable Bouncy Hopper - Ride On, Indoor, Outdoor Toys, Bouncy Horse, Toys for Girls and Boys, Durable, Unicorn Toys for Girls, Kids, Adult Toys, Up to 250lbs, Ages 5 and Up (Unicorn)",
+      "brand": "WADDLE",
+      "price": 27.99,
+      "salesParent": 1597,
+      "revenue": 44700.03,
+      "rating": 4.0,
+      "reviews": 1943
+    },
+    {
+      "rank": 6,
+      "asin": "B0GZP1VWLZ",
+      "title": "Bouncy Pals Paw Patrol x The Dino Movie Toddler Dinosaur Hopper Toy-Rhubarb",
+      "brand": "Bouncy Pals",
+      "price": 39.99,
+      "salesParent": 1121,
+      "revenue": 43427.54,
+      "rating": 4.4,
+      "reviews": 56
+    },
+    {
+      "rank": 7,
+      "asin": "B0DHCBNL86",
+      "title": "INPODAK Hopper Ball 18 Inch Bouncy Ball with Handle for Kids, Hippity Hop Jumping Bounce Hopping Toy for Boys Girls Ages 3-6 Includes Pump and Gift Box Great Gift for Birthday",
+      "brand": "INPODAK",
+      "price": 21.99,
+      "salesParent": 1945,
+      "revenue": 42770.55,
+      "rating": 4.7,
+      "reviews": 531
+    },
+    {
+      "rank": 8,
+      "asin": "B07K2N4CXC",
+      "title": "Bouncy Horse Hopper Toys, 2-4 Kids Riding Horse, Gifts Toy for Kids",
+      "brand": "INPANY",
+      "price": 25.99,
+      "salesParent": 1449,
+      "revenue": 37007.46,
+      "rating": 4.7,
+      "reviews": 5636
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 19,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 19,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1574692,
+    "priorHeadRevenue": 1328412,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 36,
+      "pct": 36,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 55,
+      "brandCount": 51,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.45,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B09B1QZLXW",
+        "title": "Bouncy Pals Toddler Dinosaur Hopper Toy, Kids Outdoor Ride on Bounce Animal",
+        "rating": 4.7,
+        "reviews": 26209
+      },
+      {
+        "rank": 2,
+        "asin": "B0D5BC9XZ4",
+        "title": "QPAU Inflatable Dinosaur Bouncy Hopper Toy, 2 Pack with Hand Pump",
+        "rating": 4.3,
+        "reviews": 1516
+      },
+      {
+        "rank": 3,
+        "asin": "B094PM44P1",
+        "title": "Inflatable Horse Hopping Toy, Ride-on Bouncy Animal for Toddler 18M+",
+        "rating": 4.7,
+        "reviews": 1150
+      },
+      {
+        "rank": 4,
+        "asin": "B07C6YN9K7",
+        "title": "EVERICH TOY Giraffe Bouncy Animal Hopper for Kids 18 Months+, Inflatable Bouncing Hopper Toys, Outdoor Indoor Ride on Horse Bouncer Hopping Toys, Birthday Gifts for Boys Girls 2 3 4 5 6 Years Old",
+        "rating": 4.6,
+        "reviews": 3744
+      },
+      {
+        "rank": 5,
+        "asin": "B09BG13L2R",
+        "title": "Waddle Large Inflatable Bouncy Hopper - Ride On, Indoor, Outdoor Toys, Bouncy Horse, Toys for Girls and Boys, Durable, Unicorn Toys for Girls, Kids, Adult Toys, Up to 250lbs, Ages 5 and Up (Unicorn)",
+        "rating": 4.0,
+        "reviews": 1943
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166420011:166436011:2528105011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

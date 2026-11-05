@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "1069242",
+  "level": "L2",
+  "categoryPathEn": "Office Products > Office & School Supplies",
+  "categoryPathCn": "办公产品 > 办公室",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 98,
+    "totalRevenue": 78517805,
+    "avgRevenue": 801202,
+    "medianPrice": 21.49,
+    "priceBand": "$12.44 - $44.49",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0H36BB72C",
+      "title": "MNGARISTA 2-Pack Retractable Keychain, Heavy Duty Carabiner Badge Holder, Tactical ID Badge Reel Key Chain with 31.5” Steel Retractable Cord, 8.0 oz",
+      "brand": "MNGARISTA",
+      "price": 199.99,
+      "salesParent": 26885,
+      "revenue": 5376731.5,
+      "rating": 4.4,
+      "reviews": 28605
+    },
+    {
+      "rank": 2,
+      "asin": "B01FV0F75G",
+      "title": "Amazon Basics Multipurpose Copy Printer Paper, 20 lb, 8.5 x 11 Inches, 3 Reams (1,500 Sheets), 92 Bright White for Home Use",
+      "brand": "Amazon Basics",
+      "price": 20.99,
+      "salesParent": 204392,
+      "revenue": 4435306.5,
+      "rating": 4.8,
+      "reviews": 232296
+    },
+    {
+      "rank": 3,
+      "asin": "B0C9V811L6",
+      "title": "Skylight Calendar – 15&quot; Touchscreen Digital Calendar &amp; Chore Chart, White",
+      "brand": "Skylight",
+      "price": 299.0,
+      "salesParent": 14636,
+      "revenue": 4372358.5,
+      "rating": 4.4,
+      "reviews": 7115
+    },
+    {
+      "rank": 4,
+      "asin": "B072FVQNWM",
+      "title": "Hammermill Printer Paper, 20 lb Copy, 8.5 x 11-8 Ream (4,000 Sheets) - 92 Bright, Made in the USA",
+      "brand": "Hammermill",
+      "price": 54.87,
+      "salesParent": 58714,
+      "revenue": 3144134.75,
+      "rating": 4.8,
+      "reviews": 66113
+    },
+    {
+      "rank": 5,
+      "asin": "B09BYVPYR3",
+      "title": "La psicología del dinero: Cómo piensan los ricos: 18 claves imperecederas sobre riqueza y felicidad",
+      "brand": "Audible",
+      "price": 899.0,
+      "salesParent": 3109,
+      "revenue": 2794991.0,
+      "rating": 4.7,
+      "reviews": 6739
+    },
+    {
+      "rank": 6,
+      "asin": "B004O4LTFI",
+      "title": "TRU RED by Staples Copy &amp; Printer Paper, 8.5x11, 20lb, 92 Bright, 5,000 Sheets/Carton",
+      "brand": "STAPLES",
+      "price": 56.97,
+      "salesParent": 43387,
+      "revenue": 2479133.25,
+      "rating": 4.8,
+      "reviews": 2179
+    },
+    {
+      "rank": 7,
+      "asin": "B0GPZYQK94",
+      "title": "Scotch Heavy Duty Shipping Packaging Tape 3850, Clear, 1.88 in x 54.6 yd (48 mm x 50 m), 12 Pack (12 Rolls), 3.0 Mil Box Sealing Tape",
+      "brand": "Scotch",
+      "price": 69.95,
+      "salesParent": 38615,
+      "revenue": 2384090.25,
+      "rating": 5.0,
+      "reviews": 4
+    },
+    {
+      "rank": 8,
+      "asin": "B000J07BRQ",
+      "title": "Scotch Heavy Duty Packing Tape, 1.88 in x 800 in, 6 Rolls",
+      "brand": "Scotch",
+      "price": 11.98,
+      "salesParent": 162930,
+      "revenue": 1948642.75,
+      "rating": 4.8,
+      "reviews": 136664
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -44,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -44,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 78517805,
+    "priorHeadRevenue": 139353575,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 98,
+      "newCount": 17,
+      "pct": 17,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 45,
+      "brandCount": 60,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.66,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0H36BB72C",
+        "title": "MNGARISTA 2-Pack Retractable Keychain, Heavy Duty Carabiner Badge Holder, Tactical ID Badge Reel Key Chain with 31.5” Steel Retractable Cord, 8.0 oz",
+        "rating": 4.4,
+        "reviews": 28605
+      },
+      {
+        "rank": 2,
+        "asin": "B01FV0F75G",
+        "title": "Amazon Basics Multipurpose Copy Printer Paper, 20 lb, 8.5 x 11 Inches, 3 Reams (1,500 Sheets), 92 Bright White for Home Use",
+        "rating": 4.8,
+        "reviews": 232296
+      },
+      {
+        "rank": 3,
+        "asin": "B0C9V811L6",
+        "title": "Skylight Calendar – 15&quot; Touchscreen Digital Calendar &amp; Chore Chart, White",
+        "rating": 4.4,
+        "reviews": 7115
+      },
+      {
+        "rank": 4,
+        "asin": "B072FVQNWM",
+        "title": "Hammermill Printer Paper, 20 lb Copy, 8.5 x 11-8 Ream (4,000 Sheets) - 92 Bright, Made in the USA",
+        "rating": 4.8,
+        "reviews": 66113
+      },
+      {
+        "rank": 5,
+        "asin": "B09BYVPYR3",
+        "title": "La psicología del dinero: Cómo piensan los ricos: 18 claves imperecederas sobre riqueza y felicidad",
+        "rating": 4.7,
+        "reviews": 6739
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "1064954:1069242",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

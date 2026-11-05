@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "6125376011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Health Care > First Aid > Gloves",
+  "categoryPathCn": "健康与家居 > 卫生保健 > 急救 > 手套",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 30,
+    "totalRevenue": 49383,
+    "avgRevenue": 1646,
+    "medianPrice": 13.67,
+    "priceBand": "$11.94 - $21.73",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0CPBKW84Z",
+      "title": "JMU Latex Gloves, 5 Mil Thick Disposable Powder-Free Medical Exam Gloves",
+      "brand": "JMU",
+      "price": 12.99,
+      "salesParent": 1869,
+      "revenue": 24278.31,
+      "rating": 4.6,
+      "reviews": 331
+    },
+    {
+      "rank": 2,
+      "asin": "B0F1TZB3KG",
+      "title": "3 Pairs Elderly Skin Thin Protector Gloves",
+      "brand": "Yearntown",
+      "price": 18.99,
+      "salesParent": 455,
+      "revenue": 8640.45,
+      "rating": 3.5,
+      "reviews": 190
+    },
+    {
+      "rank": 3,
+      "asin": "B00TV23DBG",
+      "title": "Shamrock Latex Exam Gloves, Powder-Free, Disposable, Fully Textured Grip, 5 Mil, Non-Sterile, Ambidextrous, Large (Pack of 100)",
+      "brand": "Shamrock",
+      "price": 12.92,
+      "salesParent": 400,
+      "revenue": 5168.0,
+      "rating": 4.6,
+      "reviews": 1384
+    },
+    {
+      "rank": 4,
+      "asin": "B00FX7FAV4",
+      "title": "Truform Donning Gloves for Medical Compression Stockings Pantyhose Support Tights, Increased Grip and Protection, 1 Pair",
+      "brand": "Truform",
+      "price": 7.12,
+      "salesParent": 413,
+      "revenue": 3089.24,
+      "rating": 3.9,
+      "reviews": 1191
+    },
+    {
+      "rank": 5,
+      "asin": "B004ALAAAK",
+      "title": "BSN Medical Jobst Donning Gloves for Compression Stockings, Medium",
+      "brand": "BSN Medical",
+      "price": 23.64,
+      "salesParent": 74,
+      "revenue": 1801.9,
+      "rating": 4.3,
+      "reviews": 687
+    },
+    {
+      "rank": 6,
+      "asin": "B0G1WXQDX8",
+      "title": "Anti scratch gloves for adults,Anti Scratch Hand Mitts for Skin Picking Prevention,Breathable Cotton Sleep Gloves",
+      "brand": "ANBANREY",
+      "price": 14.99,
+      "salesParent": 112,
+      "revenue": 1678.88,
+      "rating": 5.0,
+      "reviews": 2
+    },
+    {
+      "rank": 7,
+      "asin": "B071JBD4WD",
+      "title": "Posey 2819 Double-Security Mitts, Double-Padded",
+      "brand": "Posey",
+      "price": 28.99,
+      "salesParent": 35,
+      "revenue": 1173.2,
+      "rating": 4.3,
+      "reviews": 322
+    },
+    {
+      "rank": 8,
+      "asin": "B001OSTSI2",
+      "title": "Sigvaris Unisex Rubber Compression Stocking Donning Gloves",
+      "brand": "Sigvaris",
+      "price": 10.76,
+      "salesParent": 71,
+      "revenue": 763.96,
+      "rating": 4.3,
+      "reviews": 370
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 147,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 147,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 49383,
+    "priorHeadRevenue": 20003,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 30,
+      "newCount": 18,
+      "pct": 60,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 88,
+      "brandCount": 27,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.06,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0CPBKW84Z",
+        "title": "JMU Latex Gloves, 5 Mil Thick Disposable Powder-Free Medical Exam Gloves",
+        "rating": 4.6,
+        "reviews": 331
+      },
+      {
+        "rank": 2,
+        "asin": "B0F1TZB3KG",
+        "title": "3 Pairs Elderly Skin Thin Protector Gloves",
+        "rating": 3.5,
+        "reviews": 190
+      },
+      {
+        "rank": 3,
+        "asin": "B00TV23DBG",
+        "title": "Shamrock Latex Exam Gloves, Powder-Free, Disposable, Fully Textured Grip, 5 Mil, Non-Sterile, Ambidextrous, Large (Pack of 100)",
+        "rating": 4.6,
+        "reviews": 1384
+      },
+      {
+        "rank": 4,
+        "asin": "B00FX7FAV4",
+        "title": "Truform Donning Gloves for Medical Compression Stockings Pantyhose Support Tights, Increased Grip and Protection, 1 Pair",
+        "rating": 3.9,
+        "reviews": 1191
+      },
+      {
+        "rank": 5,
+        "asin": "B004ALAAAK",
+        "title": "BSN Medical Jobst Donning Gloves for Compression Stockings, Medium",
+        "rating": 4.3,
+        "reviews": 687
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3760941:3762591:6125376011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

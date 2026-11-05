@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3774491",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins, Minerals & Supplements > Minerals > Sodium",
+  "categoryPathCn": "健康与家居 > 身、泳和附剂 > 出国 > 钠",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 58,
+    "totalRevenue": 1838667,
+    "avgRevenue": 31701,
+    "medianPrice": 20.94,
+    "priceBand": "$13.99 - $32.14",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0FN4TR316",
+      "title": "SaltStick High Sodium Electrolyte FastChews Variety Pack - 90 Tablets",
+      "brand": "SaltStick",
+      "price": 34.99,
+      "salesParent": 29253,
+      "revenue": 1023562.5,
+      "rating": 4.6,
+      "reviews": 311
+    },
+    {
+      "rank": 2,
+      "asin": "B0B7SFQSCJ",
+      "title": "Vitassium Electrolytes Salt Pills For POTS Scientifically Formulated 100ct",
+      "brand": "Vitassium",
+      "price": 24.99,
+      "salesParent": 13388,
+      "revenue": 334566.12,
+      "rating": 4.7,
+      "reviews": 2067
+    },
+    {
+      "rank": 3,
+      "asin": "B0C6MXP3C7",
+      "title": "Electrolyte Tablets with Magnesium, Sodium, Potassium, Chloride - 120 Tabs",
+      "brand": "NUTRAHARMONY",
+      "price": 22.89,
+      "salesParent": 3343,
+      "revenue": 76521.27,
+      "rating": 4.5,
+      "reviews": 2313
+    },
+    {
+      "rank": 4,
+      "asin": "B0FJMXG83P",
+      "title": "Rosabella Electrolyte Drink Powder – Watermelon – Sugar-Free Hydration Drink Mix – Electrolytes Powder with Sodium, Potassium, Magnesium, Calcium – Travel Jar – 30 Servings (5.6 oz)",
+      "brand": "Rosabella",
+      "price": 19.99,
+      "salesParent": 3307,
+      "revenue": 66106.93,
+      "rating": 4.3,
+      "reviews": 1096
+    },
+    {
+      "rank": 5,
+      "asin": "B09TFX2H8P",
+      "title": "Vitassium FastChews, Chewable Electrolyte Tablets for Management of POTS and High Sodium Diets, Fast-Acting Sodium Tablets, Fruit Punch, 60 Count",
+      "brand": "Vitassium",
+      "price": 17.99,
+      "salesParent": 3417,
+      "revenue": 61471.83,
+      "rating": 4.7,
+      "reviews": 939
+    },
+    {
+      "rank": 6,
+      "asin": "B0CFZC937H",
+      "title": "Sodium Butyrate 300mg - Microencapsulated - 120 Capsules",
+      "brand": "LongJuvity Labs",
+      "price": 34.95,
+      "salesParent": 819,
+      "revenue": 24881.22,
+      "rating": 4.5,
+      "reviews": 388
+    },
+    {
+      "rank": 7,
+      "asin": "B0D92PL2DY",
+      "title": "Electrolyte Capsules with 1000mg Sodium, Potassium &amp; Magnesium, 90 Count",
+      "brand": "SmarterVitamins",
+      "price": 44.99,
+      "salesParent": 535,
+      "revenue": 24069.65,
+      "rating": 4.6,
+      "reviews": 67
+    },
+    {
+      "rank": 8,
+      "asin": "B0DMPJ7R4M",
+      "title": "Heivy Salt Tablets 1000mg, 365 Tablets Pure Sodium Chloride Pills",
+      "brand": "Heivy",
+      "price": 12.99,
+      "salesParent": 1711,
+      "revenue": 17725.96,
+      "rating": 4.6,
+      "reviews": 798
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 163,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 163,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1838667,
+    "priorHeadRevenue": 700429,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 58,
+      "newCount": 21,
+      "pct": 36,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 87,
+      "brandCount": 45,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.41,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0FN4TR316",
+        "title": "SaltStick High Sodium Electrolyte FastChews Variety Pack - 90 Tablets",
+        "rating": 4.6,
+        "reviews": 311
+      },
+      {
+        "rank": 2,
+        "asin": "B0B7SFQSCJ",
+        "title": "Vitassium Electrolytes Salt Pills For POTS Scientifically Formulated 100ct",
+        "rating": 4.7,
+        "reviews": 2067
+      },
+      {
+        "rank": 3,
+        "asin": "B0C6MXP3C7",
+        "title": "Electrolyte Tablets with Magnesium, Sodium, Potassium, Chloride - 120 Tabs",
+        "rating": 4.5,
+        "reviews": 2313
+      },
+      {
+        "rank": 4,
+        "asin": "B0FJMXG83P",
+        "title": "Rosabella Electrolyte Drink Powder – Watermelon – Sugar-Free Hydration Drink Mix – Electrolytes Powder with Sodium, Potassium, Magnesium, Calcium – Travel Jar – 30 Servings (5.6 oz)",
+        "rating": 4.3,
+        "reviews": 1096
+      },
+      {
+        "rank": 5,
+        "asin": "B09TFX2H8P",
+        "title": "Vitassium FastChews, Chewable Electrolyte Tablets for Management of POTS and High Sodium Diets, Fast-Acting Sodium Tablets, Fruit Punch, 60 Count",
+        "rating": 4.7,
+        "reviews": 939
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:23675621011:3774271:3774491",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

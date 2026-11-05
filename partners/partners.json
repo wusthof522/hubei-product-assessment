@@ -1,0 +1,12 @@
+{
+  "_comment": "湖北版只保留湖北省电子商务行业协会一家。logo 和 qrWechat 填相对路径；qrWechat 为 null 时完成页显示『二维码即将上线』。二维码是亚马逊全球开店湖北经理的企业微信。",
+  "list": [
+    {
+      "id": "hubei-ec",
+      "name": "湖北省电子商务行业协会",
+      "shortName": "湖北省电商行业协会",
+      "logo": "partners/heca-emblem.png",
+      "qrWechat": null
+    }
+  ]
+}

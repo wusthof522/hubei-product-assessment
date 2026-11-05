@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "2236415011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Vehicles > Slot Cars, Race Tracks & Accessories > Slot Cars",
+  "categoryPathCn": "玩具 > 车辆 > 滑板车、赛车场 > 槽车",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 520879,
+    "avgRevenue": 5209,
+    "medianPrice": 35.99,
+    "priceBand": "$24.62 - $53.88",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0FLDB14N8",
+      "title": "Stay Fun 2-IN-1 Ball Drop &amp; Car Ramp Race Track Montessori Toy for Toddlers",
+      "brand": "Stay Fun",
+      "price": 29.99,
+      "salesParent": 12916,
+      "revenue": 396133.72,
+      "rating": 4.6,
+      "reviews": 865
+    },
+    {
+      "rank": 2,
+      "asin": "B0BR85PVY3",
+      "title": "Slot Car Race Track Sets with 4 High-Speed Racing Car, Battery or Electric Race Car Track for Boys and Kids, Dual Racing Game Lap Counter Circular Overpass Track, Gifts Toys for Boys Kids Age 6 7 8-12",
+      "brand": "Wupuaait",
+      "price": 49.98,
+      "salesParent": 756,
+      "revenue": 34413.12,
+      "rating": 4.2,
+      "reviews": 1739
+    },
+    {
+      "rank": 3,
+      "asin": "B09Y857YK7",
+      "title": "hahaland 3 Year Old Toys, Car Race Track City Rescue Toy Gifts for Boys 3-4",
+      "brand": "hahaland",
+      "price": 28.99,
+      "salesParent": 872,
+      "revenue": 25279.28,
+      "rating": 4.1,
+      "reviews": 3596
+    },
+    {
+      "rank": 4,
+      "asin": "B0CQTLYY5W",
+      "title": "Carrera Evolution 20025248 NASCAR Darlington Showdown Analog Electric 1:32 Scale Slot Car Racing Track Set - Includes Two 1:32 Scale Cars &amp; Two Dual-Speed Controllers Ages 8+",
+      "brand": "Carrera",
+      "price": 231.23,
+      "salesParent": 30,
+      "revenue": 7075.5,
+      "rating": 4.7,
+      "reviews": 20
+    },
+    {
+      "rank": 5,
+      "asin": "B0F843MRJ7",
+      "title": "Car Race Track for Kids Ages 3+, Kids Car Toys for 3 Year Old Boys",
+      "brand": "KIZONLY",
+      "price": 26.99,
+      "salesParent": 227,
+      "revenue": 6126.73,
+      "rating": 3.8,
+      "reviews": 302
+    },
+    {
+      "rank": 6,
+      "asin": "B0FY44KLFV",
+      "title": "Carrera Digital 132 Slot Car Aston Martin Vantage AMR GT3 Evo, Item #32069",
+      "brand": "Carrera",
+      "price": 63.19,
+      "salesParent": 32,
+      "revenue": 2022.08,
+      "rating": 5.0,
+      "reviews": 2
+    },
+    {
+      "rank": 7,
+      "asin": "B0FQMWKJF2",
+      "title": "Carrera GO Mercedes-AMG F1 W14 E Performance G. Russell, No.63 Slot Car",
+      "brand": "Carrera",
+      "price": 24.5,
+      "salesParent": 78,
+      "revenue": 1878.24,
+      "rating": 4.4,
+      "reviews": 19
+    },
+    {
+      "rank": 8,
+      "asin": "B0DJDLJD5Y",
+      "title": "AFX 22071 Shelby GT350R 1965 Donohue White/Blue",
+      "brand": "AFX",
+      "price": 53.56,
+      "salesParent": 37,
+      "revenue": 1811.89,
+      "rating": 4.8,
+      "reviews": 50
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 113,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 113,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 520879,
+    "priorHeadRevenue": 244758,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 53,
+      "pct": 53,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 97,
+      "brandCount": 22,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.55,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0FLDB14N8",
+        "title": "Stay Fun 2-IN-1 Ball Drop &amp; Car Ramp Race Track Montessori Toy for Toddlers",
+        "rating": 4.6,
+        "reviews": 865
+      },
+      {
+        "rank": 2,
+        "asin": "B0BR85PVY3",
+        "title": "Slot Car Race Track Sets with 4 High-Speed Racing Car, Battery or Electric Race Car Track for Boys and Kids, Dual Racing Game Lap Counter Circular Overpass Track, Gifts Toys for Boys Kids Age 6 7 8-12",
+        "rating": 4.2,
+        "reviews": 1739
+      },
+      {
+        "rank": 3,
+        "asin": "B09Y857YK7",
+        "title": "hahaland 3 Year Old Toys, Car Race Track City Rescue Toy Gifts for Boys 3-4",
+        "rating": 4.1,
+        "reviews": 3596
+      },
+      {
+        "rank": 4,
+        "asin": "B0CQTLYY5W",
+        "title": "Carrera Evolution 20025248 NASCAR Darlington Showdown Analog Electric 1:32 Scale Slot Car Racing Track Set - Includes Two 1:32 Scale Cars &amp; Two Dual-Speed Controllers Ages 8+",
+        "rating": 4.7,
+        "reviews": 20
+      },
+      {
+        "rank": 5,
+        "asin": "B0F843MRJ7",
+        "title": "Car Race Track for Kids Ages 3+, Kids Car Toys for 3 Year Old Boys",
+        "rating": 3.8,
+        "reviews": 302
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:23539911011:2519971011:2236415011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

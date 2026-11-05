@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23642799011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Remote & App Controlled Vehicles & Parts > Remote & App Controlled Vehicles > Motorcycles",
+  "categoryPathCn": "玩具 > 遥控 > 遥控 > 摩托车",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 44,
+    "totalRevenue": 364040,
+    "avgRevenue": 8274,
+    "medianPrice": 624.02,
+    "priceBand": "$36.23 - $1849.74",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0FG9GSJPD",
+      "title": "Hot Wheels Mario Wheelie Motocross RC, Remote-Control Motorcycle",
+      "brand": "Hot Wheels",
+      "price": 26.94,
+      "salesParent": 4364,
+      "revenue": 154354.67,
+      "rating": 4.5,
+      "reviews": 136
+    },
+    {
+      "rank": 2,
+      "asin": "B0DD2M1S4C",
+      "title": "200CC AUTOMATIC MOTORCYCLE, VENOM X19 Full Size Matte Black Auto LED with NO GEARS, Front Tire: 120/70-14 Rear Tire: 140/60-14, HIGH PERFORMANCE CDI BLACK",
+      "brand": "BELMONTE BIKES",
+      "price": 2999.99,
+      "salesParent": 26,
+      "revenue": 76374.74,
+      "rating": 4.4,
+      "reviews": 9
+    },
+    {
+      "rank": 3,
+      "asin": "B0CJRNWBHF",
+      "title": "Losi RC Motorcycle Promoto-MX 1/4 Motorcycle Ready-to-Run Battery and Charger Not Included FXR LOS06000T1 Red",
+      "brand": "Losi",
+      "price": 648.06,
+      "salesParent": 38,
+      "revenue": 23704.4,
+      "rating": 4.6,
+      "reviews": 151
+    },
+    {
+      "rank": 4,
+      "asin": "B0H9XH13NB",
+      "title": "X-PRO Cruiser 300 EFI Motorcycle, 6-Speed Manual, Electric Start,18&quot;/15&quot; Alloy Rim Wheels!",
+      "brand": "X-PRO",
+      "price": 3698.95,
+      "salesParent": 6,
+      "revenue": 22193.7,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "rank": 5,
+      "asin": "B0C8Z7RT7Q",
+      "title": "Losi RC Motorcycle Promoto-MX 1/4 Motorcycle Ready-to-Run Combo Includes Battery and Charger Pro Circuit LOS06002 Green",
+      "brand": "Losi",
+      "price": 780.94,
+      "salesParent": 31,
+      "revenue": 21931.26,
+      "rating": 4.6,
+      "reviews": 157
+    },
+    {
+      "rank": 6,
+      "asin": "B0DDZQW7P2",
+      "title": "NKOK Polaris Switchback Assault RC Snowmobile Toy – 1:10 Scale (Green/Blue)",
+      "brand": "NKOK",
+      "price": 49.99,
+      "salesParent": 240,
+      "revenue": 10948.8,
+      "rating": 4.2,
+      "reviews": 125
+    },
+    {
+      "rank": 7,
+      "asin": "B0DSG3XV19",
+      "title": "Remote Control Motorcycle Toys, Colorful Wheels Light Off-Road RC Dirt Bike with Detachable Rider, 360 Degree Rotation, High Speed, 2.4Ghz RC Motorbike Gift for Kids 5-12",
+      "brand": "iappadore",
+      "price": 29.99,
+      "salesParent": 306,
+      "revenue": 9176.94,
+      "rating": 4.4,
+      "reviews": 430
+    },
+    {
+      "rank": 8,
+      "asin": "B07ZZK8VBG",
+      "title": "Liberty Imports 2.4G RC Remote Control Stunt Motorcycle with Riding Figure, 1:10 Scale High Speed Cross Country 360 Degree Rotation Drift Shockproof Racing Motorbike (Green)",
+      "brand": "Liberty Imports",
+      "price": 39.95,
+      "salesParent": 218,
+      "revenue": 8709.1,
+      "rating": 4.1,
+      "reviews": 532
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 76,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 76,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 364040,
+    "priorHeadRevenue": 206303,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 44,
+      "newCount": 33,
+      "pct": 75,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 86,
+      "brandCount": 36,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.37,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0FG9GSJPD",
+        "title": "Hot Wheels Mario Wheelie Motocross RC, Remote-Control Motorcycle",
+        "rating": 4.5,
+        "reviews": 136
+      },
+      {
+        "rank": 2,
+        "asin": "B0DD2M1S4C",
+        "title": "200CC AUTOMATIC MOTORCYCLE, VENOM X19 Full Size Matte Black Auto LED with NO GEARS, Front Tire: 120/70-14 Rear Tire: 140/60-14, HIGH PERFORMANCE CDI BLACK",
+        "rating": 4.4,
+        "reviews": 9
+      },
+      {
+        "rank": 3,
+        "asin": "B0CJRNWBHF",
+        "title": "Losi RC Motorcycle Promoto-MX 1/4 Motorcycle Ready-to-Run Battery and Charger Not Included FXR LOS06000T1 Red",
+        "rating": 4.6,
+        "reviews": 151
+      },
+      {
+        "rank": 4,
+        "asin": "B0H9XH13NB",
+        "title": "X-PRO Cruiser 300 EFI Motorcycle, 6-Speed Manual, Electric Start,18&quot;/15&quot; Alloy Rim Wheels!",
+        "rating": null,
+        "reviews": null
+      },
+      {
+        "rank": 5,
+        "asin": "B0C8Z7RT7Q",
+        "title": "Losi RC Motorcycle Promoto-MX 1/4 Motorcycle Ready-to-Run Combo Includes Battery and Charger Pro Circuit LOS06002 Green",
+        "rating": 4.6,
+        "reviews": 157
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:6925830011:166583011:23642799011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "389577011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Household Supplies > Household Batteries > AA",
+  "categoryPathCn": "健康与家居 > 家居用品 > 家用电池 > AA",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 98,
+    "totalRevenue": 24503394,
+    "avgRevenue": 250035,
+    "medianPrice": 23.49,
+    "priceBand": "$15.96 - $36.37",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B087GMJXMC",
+      "title": "Energizer AA and AAA Batteries, 48 Count, Combo Pack Contains 24 Max Double A and 24 Max Triple A Batteries",
+      "brand": "Energizer",
+      "price": 35.92,
+      "salesParent": 179853,
+      "revenue": 5303865.0,
+      "rating": 4.8,
+      "reviews": 195449
+    },
+    {
+      "rank": 2,
+      "asin": "B09RTVD1GF",
+      "title": "Energizer AA Batteries Alkaline Power, 32 Count Alkaline Double A Battery Pack",
+      "brand": "Energizer",
+      "price": 21.78,
+      "salesParent": 190235,
+      "revenue": 3871282.25,
+      "rating": 4.8,
+      "reviews": 81206
+    },
+    {
+      "rank": 3,
+      "asin": "B0B1DF9NVJ",
+      "title": "DURACELL Coppertop AA Batteries, 28 Count, 12-Year Shelf Life, Recloseable Storage",
+      "brand": "DURACELL",
+      "price": 25.52,
+      "salesParent": 139029,
+      "revenue": 3286645.5,
+      "rating": 4.8,
+      "reviews": 43503
+    },
+    {
+      "rank": 4,
+      "asin": "B0035LCFNQ",
+      "title": "Duracell Coppertop AA Batteries, 24 Count, 12-Year Shelf Life, Long-lasting",
+      "brand": "DURACELL",
+      "price": 19.99,
+      "salesParent": 122728,
+      "revenue": 2452105.5,
+      "rating": 4.8,
+      "reviews": 140588
+    },
+    {
+      "rank": 5,
+      "asin": "B00EAKP8S0",
+      "title": "Energizer Ultimate Lithium AA Batteries (8 Pack), 1.5V Lithium Double A Batteries",
+      "brand": "Energizer",
+      "price": 19.86,
+      "salesParent": 77257,
+      "revenue": 1378264.88,
+      "rating": 4.7,
+      "reviews": 75266
+    },
+    {
+      "rank": 6,
+      "asin": "B003SIOZB6",
+      "title": "DURACELL Coppertop AA Batteries, 16 Count, 12-Year Shelf Life, Long-Lasting",
+      "brand": "DURACELL",
+      "price": 11.22,
+      "salesParent": 62695,
+      "revenue": 873968.25,
+      "rating": 4.8,
+      "reviews": 130872
+    },
+    {
+      "rank": 7,
+      "asin": "B005GIQXCU",
+      "title": "Energizer MAX AA Batteries (20 Pack), Double A Alkaline Batteries",
+      "brand": "Energizer",
+      "price": 16.49,
+      "salesParent": 55985,
+      "revenue": 863848.56,
+      "rating": 4.7,
+      "reviews": 111279
+    },
+    {
+      "rank": 8,
+      "asin": "B01FVPQDUE",
+      "title": "ACDelco 60-Count Double AA Batteries, Maximum Power Super Alkaline Battery for Home and Office, 10-Year Shelf Life, Reclosable Packaging",
+      "brand": "Powermax",
+      "price": 22.01,
+      "salesParent": 35764,
+      "revenue": 493543.22,
+      "rating": 4.7,
+      "reviews": 55530
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -14,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -14,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 24503394,
+    "priorHeadRevenue": 28482506,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 98,
+      "newCount": 22,
+      "pct": 22,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 90,
+      "brandCount": 44,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.57,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B087GMJXMC",
+        "title": "Energizer AA and AAA Batteries, 48 Count, Combo Pack Contains 24 Max Double A and 24 Max Triple A Batteries",
+        "rating": 4.8,
+        "reviews": 195449
+      },
+      {
+        "rank": 2,
+        "asin": "B09RTVD1GF",
+        "title": "Energizer AA Batteries Alkaline Power, 32 Count Alkaline Double A Battery Pack",
+        "rating": 4.8,
+        "reviews": 81206
+      },
+      {
+        "rank": 3,
+        "asin": "B0B1DF9NVJ",
+        "title": "DURACELL Coppertop AA Batteries, 28 Count, 12-Year Shelf Life, Recloseable Storage",
+        "rating": 4.8,
+        "reviews": 43503
+      },
+      {
+        "rank": 4,
+        "asin": "B0035LCFNQ",
+        "title": "Duracell Coppertop AA Batteries, 24 Count, 12-Year Shelf Life, Long-lasting",
+        "rating": 4.8,
+        "reviews": 140588
+      },
+      {
+        "rank": 5,
+        "asin": "B00EAKP8S0",
+        "title": "Energizer Ultimate Lithium AA Batteries (8 Pack), 1.5V Lithium Double A Batteries",
+        "rating": 4.7,
+        "reviews": 75266
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:15342811:15745581:389577011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

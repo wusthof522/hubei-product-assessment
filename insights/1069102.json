@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "1069102",
+  "level": "L2",
+  "categoryPathEn": "Office Products > Office Furniture & Lighting",
+  "categoryPathCn": "办公产品 > 办公家具",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 95,
+    "totalRevenue": 33336021,
+    "avgRevenue": 350905,
+    "medianPrice": 93.79,
+    "priceBand": "$39.99 - $189.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0D7PM932G",
+      "title": "Veken 47.2 Inch Large Electric Standing Desk, Gaming Table, Brown",
+      "brand": "Veken",
+      "price": 199.99,
+      "salesParent": 8556,
+      "revenue": 1711114.5,
+      "rating": 4.8,
+      "reviews": 2752
+    },
+    {
+      "rank": 2,
+      "asin": "B0GSYY34V2",
+      "title": "Veken 47.2 Inch Large Electric Standing Desk, Gaming Table, Brown",
+      "brand": "Veken",
+      "price": 219.99,
+      "salesParent": 7806,
+      "revenue": 1659945.88,
+      "rating": 4.5,
+      "reviews": 2757
+    },
+    {
+      "rank": 3,
+      "asin": "B08J88HV2P",
+      "title": "Cushion Lab Patented Pressure Relief Seat Cushion for Long Sitting Hours on Office &amp; Home Chair - Extra-Dense Memory Foam for Soft Support. Car Pad for Hip, Tailbone, Coccyx, Sciatica - Black",
+      "brand": "C CUSHION LAB",
+      "price": 74.99,
+      "salesParent": 17636,
+      "revenue": 1322523.62,
+      "rating": 4.3,
+      "reviews": 21817
+    },
+    {
+      "rank": 4,
+      "asin": "B01EBDV9BU",
+      "title": "Everlasting Comfort Doctor Recommended Memory Foam Seat Cushion for Office Chairs &amp; Car - Ergonomic Office Desk Accessories - Cushions for Tailbone Pain Relief, Sciatica (Black, Large)",
+      "brand": "Everlasting Comfort",
+      "price": 47.99,
+      "salesParent": 24987,
+      "revenue": 1214867.88,
+      "rating": 4.3,
+      "reviews": 105931
+    },
+    {
+      "rank": 5,
+      "asin": "B075JYG2TB",
+      "title": "VIVO Manual Height Adjustable Standing Desk Converter, 32&quot; Black Top",
+      "brand": "VIVO",
+      "price": 139.99,
+      "salesParent": 7290,
+      "revenue": 1020527.12,
+      "rating": 4.6,
+      "reviews": 15709
+    },
+    {
+      "rank": 6,
+      "asin": "B0DDKMH28C",
+      "title": "Office Chair Mat for Carpets, 2 Pack, Clear,Heavy Duty, 48&quot; x 30&quot;",
+      "brand": "BesWin",
+      "price": 62.99,
+      "salesParent": 14880,
+      "revenue": 937291.25,
+      "rating": 4.0,
+      "reviews": 7263
+    },
+    {
+      "rank": 7,
+      "asin": "B0DWMNPW7D",
+      "title": "Veken 55 Inch Large Electric Standing Desk, Gaming Table, White",
+      "brand": "Veken",
+      "price": 109.98,
+      "salesParent": 7645,
+      "revenue": 872370.94,
+      "rating": 4.5,
+      "reviews": 2758
+    },
+    {
+      "rank": 8,
+      "asin": "B0GZ372X52",
+      "title": "Big and Tall Office Chair, Flip Armrests for Pets &amp; Cross Legged Sitting",
+      "brand": "HOMRELEXA",
+      "price": 249.99,
+      "salesParent": 3393,
+      "revenue": 842176.56,
+      "rating": 3.8,
+      "reviews": 25
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 25,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 25,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 33336021,
+    "priorHeadRevenue": 26739543,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 95,
+      "newCount": 23,
+      "pct": 24,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 33,
+      "brandCount": 68,
+      "level": "分散",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.38,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0D7PM932G",
+        "title": "Veken 47.2 Inch Large Electric Standing Desk, Gaming Table, Brown",
+        "rating": 4.8,
+        "reviews": 2752
+      },
+      {
+        "rank": 2,
+        "asin": "B0GSYY34V2",
+        "title": "Veken 47.2 Inch Large Electric Standing Desk, Gaming Table, Brown",
+        "rating": 4.5,
+        "reviews": 2757
+      },
+      {
+        "rank": 3,
+        "asin": "B08J88HV2P",
+        "title": "Cushion Lab Patented Pressure Relief Seat Cushion for Long Sitting Hours on Office &amp; Home Chair - Extra-Dense Memory Foam for Soft Support. Car Pad for Hip, Tailbone, Coccyx, Sciatica - Black",
+        "rating": 4.3,
+        "reviews": 21817
+      },
+      {
+        "rank": 4,
+        "asin": "B01EBDV9BU",
+        "title": "Everlasting Comfort Doctor Recommended Memory Foam Seat Cushion for Office Chairs &amp; Car - Ergonomic Office Desk Accessories - Cushions for Tailbone Pain Relief, Sciatica (Black, Large)",
+        "rating": 4.3,
+        "reviews": 105931
+      },
+      {
+        "rank": 5,
+        "asin": "B075JYG2TB",
+        "title": "VIVO Manual Height Adjustable Standing Desk Converter, 32&quot; Black Top",
+        "rating": 4.6,
+        "reviews": 15709
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "1064954:1069102",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

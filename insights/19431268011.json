@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "19431268011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Arts & Crafts > Craft Kits > Drawing",
+  "categoryPathCn": "玩具 > 艺术 > 工艺品套装 > 绘图",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 3166666,
+    "avgRevenue": 31987,
+    "medianPrice": 18.99,
+    "priceBand": "$12.99 - $27.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B08HD89CX6",
+      "title": "Rock Painting Kit- Glow in The Dark Rock Kit, Arts and Crafts for Kids Ages 6-12, Art Supplies Toy, Kids Craft Paint Kits, Arts &amp; Crafts for Boys Girls Birthday Party Gift Toy",
+      "brand": "JOYIN",
+      "price": 19.99,
+      "salesParent": 20058,
+      "revenue": 400959.41,
+      "rating": 4.7,
+      "reviews": 11110
+    },
+    {
+      "rank": 2,
+      "asin": "B0GH2KKKR6",
+      "title": "Crayola Kpop Demon Hunters Art Case, Coloring &amp; Sticker Kit, Holiday Gift",
+      "brand": "Crayola",
+      "price": 24.99,
+      "salesParent": 9018,
+      "revenue": 225359.81,
+      "rating": 4.7,
+      "reviews": 304
+    },
+    {
+      "rank": 3,
+      "asin": "B0CTHQJF57",
+      "title": "JoyCat Paint with Water Coloring Books for Toddlers (Magical Pony)",
+      "brand": "JoyCat",
+      "price": 9.99,
+      "salesParent": 18980,
+      "revenue": 186193.81,
+      "rating": 4.7,
+      "reviews": 5250
+    },
+    {
+      "rank": 4,
+      "asin": "B00CI6J5JQ",
+      "title": "Crayola Inspiration Art Case Coloring Set, 140pc Space Theme – Art Kit for Kids, Crayons, Markers, Pencils, Gift for Boys &amp; Girls, Ages 5, 6, 7, 8 [Amazon Exclusive]",
+      "brand": "Crayola",
+      "price": 26.99,
+      "salesParent": 5546,
+      "revenue": 149686.53,
+      "rating": 4.8,
+      "reviews": 31791
+    },
+    {
+      "rank": 5,
+      "asin": "B009VE38CI",
+      "title": "Spirograph Deluxe Set Arts and Crafts for Kids Drawing Kit Spiral Art",
+      "brand": "Spirograph",
+      "price": 25.49,
+      "salesParent": 5968,
+      "revenue": 146872.48,
+      "rating": 4.7,
+      "reviews": 14064
+    },
+    {
+      "rank": 6,
+      "asin": "B0FFDBQJ62",
+      "title": "Fashion Plates Disney Princess – Mix-and-Match Drawing Kit, Arts and Crafts, Coloring, Art Supplies, Craft Supplies, Stencils, Crayons Included, Create Your Own Designs, Ages 6+",
+      "brand": "PlayMonster",
+      "price": 27.99,
+      "salesParent": 3592,
+      "revenue": 100540.08,
+      "rating": 4.7,
+      "reviews": 7156
+    },
+    {
+      "rank": 7,
+      "asin": "B0BRNY9HZB",
+      "title": "Dan&amp;Darci Kids Rock Painting Kit - Glow in The Dark - Gifts Arts &amp; Crafts for Boys and Girls Ages 6-12 - Craft Activities Kits - Creative Art Toys for 6, 7, 8, 9, 10, 11 &amp; 12 Year Old Kid",
+      "brand": "Dan&amp;Darci",
+      "price": 14.98,
+      "salesParent": 6245,
+      "revenue": 94361.95,
+      "rating": 4.7,
+      "reviews": 31779
+    },
+    {
+      "rank": 8,
+      "asin": "B01BHMJKAA",
+      "title": "Spirograph Jr. — Jumbo Sized Gears Classic Retro Toy For Spiral Drawing Art Design Toy Kit for Smaller Hands — For Kids Ages 3 and Up",
+      "brand": "Spirograph",
+      "price": 13.05,
+      "salesParent": 4179,
+      "revenue": 67490.85,
+      "rating": 4.7,
+      "reviews": 11730
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 1,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 1,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 3166666,
+    "priorHeadRevenue": 3142745,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 35,
+      "pct": 35,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 50,
+      "brandCount": 64,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.6,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B08HD89CX6",
+        "title": "Rock Painting Kit- Glow in The Dark Rock Kit, Arts and Crafts for Kids Ages 6-12, Art Supplies Toy, Kids Craft Paint Kits, Arts &amp; Crafts for Boys Girls Birthday Party Gift Toy",
+        "rating": 4.7,
+        "reviews": 11110
+      },
+      {
+        "rank": 2,
+        "asin": "B0GH2KKKR6",
+        "title": "Crayola Kpop Demon Hunters Art Case, Coloring &amp; Sticker Kit, Holiday Gift",
+        "rating": 4.7,
+        "reviews": 304
+      },
+      {
+        "rank": 3,
+        "asin": "B0CTHQJF57",
+        "title": "JoyCat Paint with Water Coloring Books for Toddlers (Magical Pony)",
+        "rating": 4.7,
+        "reviews": 5250
+      },
+      {
+        "rank": 4,
+        "asin": "B00CI6J5JQ",
+        "title": "Crayola Inspiration Art Case Coloring Set, 140pc Space Theme – Art Kit for Kids, Crayons, Markers, Pencils, Gift for Boys &amp; Girls, Ages 5, 6, 7, 8 [Amazon Exclusive]",
+        "rating": 4.8,
+        "reviews": 31791
+      },
+      {
+        "rank": 5,
+        "asin": "B009VE38CI",
+        "title": "Spirograph Deluxe Set Arts and Crafts for Kids Drawing Kit Spiral Art",
+        "rating": 4.7,
+        "reviews": 14064
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166057011:166064011:19431268011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

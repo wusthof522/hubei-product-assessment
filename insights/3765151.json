@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3765151",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins, Minerals & Supplements > Herbal Supplements > Cayenne",
+  "categoryPathCn": "健康与家居 > 身、泳和附剂 > 草本补充 > 辣椒",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 1549166,
+    "avgRevenue": 15648,
+    "medianPrice": 19.99,
+    "priceBand": "$16.99 - $26.07",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0D7537K4Z",
+      "title": "Cayenne Pepper Drops Supplement, Hawthorn Berry, Beet Root, Vitamin D3 K2",
+      "brand": "Clean Nutraceuticals",
+      "price": 29.95,
+      "salesParent": 11011,
+      "revenue": 329779.47,
+      "rating": 4.4,
+      "reviews": 7851
+    },
+    {
+      "rank": 2,
+      "asin": "B0G1S2LJSY",
+      "title": "Cayenne Pepper Softgels Supplement | 12-in-1 per Serving with Vitamins D3, K2 &amp; E | Supports Healthy Circulation &amp; Daily Energy | Features Hawthorn, Beetroot &amp; Turmeric | 240 Capsules",
+      "brand": "FANSHI",
+      "price": 19.99,
+      "salesParent": 4855,
+      "revenue": 88409.55,
+      "rating": 4.4,
+      "reviews": 561
+    },
+    {
+      "rank": 3,
+      "asin": "B0GMTGCG3J",
+      "title": "Cayenne Pepper Softgels, 20-in-1 Cayenne Pepper Capsaicin Supplements with D3 K2 E, CoQ10, Omega 3, Turmeric, Beet Root, Berberine, Supports Healthy Circulation, 240 Softgels, 80-Day Supply",
+      "brand": "MULIXOR",
+      "price": 24.99,
+      "salesParent": 2698,
+      "revenue": 67423.02,
+      "rating": 4.7,
+      "reviews": 243
+    },
+    {
+      "rank": 4,
+      "asin": "B0851CRNS2",
+      "title": "Blood Flow Care Blood Circulation &amp; Leg Vein Support, 120 Capsules",
+      "brand": "HerbaMe",
+      "price": 28.99,
+      "salesParent": 2211,
+      "revenue": 65158.17,
+      "rating": 4.4,
+      "reviews": 4094
+    },
+    {
+      "rank": 5,
+      "asin": "B0HK2M1NY7",
+      "title": "Vitalia Cayenne Pepper - 12-in-1 Botanical Formula, 30 Softgels",
+      "brand": "Vitalia Cayenne Pepper Softgels",
+      "price": 24.99,
+      "salesParent": 2703,
+      "revenue": 49518.96,
+      "rating": 4.2,
+      "reviews": 28
+    },
+    {
+      "rank": 6,
+      "asin": "B098KGFLX5",
+      "title": "Nutricost Cayenne Pepper (530mg) 240 Capsules, 40,000 Heat Units, GMO-Free",
+      "brand": "Nutricost",
+      "price": 16.95,
+      "salesParent": 2638,
+      "revenue": 44714.1,
+      "rating": 4.6,
+      "reviews": 2379
+    },
+    {
+      "rank": 7,
+      "asin": "B0HJ23HNW9",
+      "title": "Aurivita Capsaicin Power - 300 Softgels Cayenne Pepper Supplement, with Vitamin E D3 &amp; K2, Beetroot &amp; Turmeric, Supports Circulation &amp; Daily Energy",
+      "brand": "CHIAFEYI",
+      "price": 32.99,
+      "salesParent": 1332,
+      "revenue": 43942.68,
+      "rating": 4.5,
+      "reviews": 18
+    },
+    {
+      "rank": 8,
+      "asin": "B0D6J7XCDD",
+      "title": "Now Cayenne (Capsicum annuum) 500 mg, 360 Veg Capsules",
+      "brand": "NOW Foods",
+      "price": 21.99,
+      "salesParent": 1917,
+      "revenue": 42154.83,
+      "rating": 4.6,
+      "reviews": 4535
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -34,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -34,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1549166,
+    "priorHeadRevenue": 2350310,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 56,
+      "pct": 57,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 41,
+      "brandCount": 83,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.38,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0D7537K4Z",
+        "title": "Cayenne Pepper Drops Supplement, Hawthorn Berry, Beet Root, Vitamin D3 K2",
+        "rating": 4.4,
+        "reviews": 7851
+      },
+      {
+        "rank": 2,
+        "asin": "B0G1S2LJSY",
+        "title": "Cayenne Pepper Softgels Supplement | 12-in-1 per Serving with Vitamins D3, K2 &amp; E | Supports Healthy Circulation &amp; Daily Energy | Features Hawthorn, Beetroot &amp; Turmeric | 240 Capsules",
+        "rating": 4.4,
+        "reviews": 561
+      },
+      {
+        "rank": 3,
+        "asin": "B0GMTGCG3J",
+        "title": "Cayenne Pepper Softgels, 20-in-1 Cayenne Pepper Capsaicin Supplements with D3 K2 E, CoQ10, Omega 3, Turmeric, Beet Root, Berberine, Supports Healthy Circulation, 240 Softgels, 80-Day Supply",
+        "rating": 4.7,
+        "reviews": 243
+      },
+      {
+        "rank": 4,
+        "asin": "B0851CRNS2",
+        "title": "Blood Flow Care Blood Circulation &amp; Leg Vein Support, 120 Capsules",
+        "rating": 4.4,
+        "reviews": 4094
+      },
+      {
+        "rank": 5,
+        "asin": "B0HK2M1NY7",
+        "title": "Vitalia Cayenne Pepper - 12-in-1 Botanical Formula, 30 Softgels",
+        "rating": 4.2,
+        "reviews": 28
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:23675621011:3764461:3765151",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

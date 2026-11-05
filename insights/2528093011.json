@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "2528093011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Dress Up & Pretend Play > Shops & Accessories > Shopping Carts",
+  "categoryPathCn": "玩具 > 扮靓 > 商店 > 购物车",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 93,
+    "totalRevenue": 501365,
+    "avgRevenue": 5391,
+    "medianPrice": 35.14,
+    "priceBand": "$21.14 - $57.46",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B000VO3GPG",
+      "title": "Melissa &amp; Doug Toy Shopping Cart",
+      "brand": "Melissa &amp; Doug",
+      "price": 45.99,
+      "salesParent": 2417,
+      "revenue": 111158.0,
+      "rating": 4.8,
+      "reviews": 10581
+    },
+    {
+      "rank": 2,
+      "asin": "B0D95L3S1P",
+      "title": "164Pcs Mini Shopping Cart Basket Miniature Food Drink Toy Supermarket Metal Handcart Trolley DollHouse Store Grocery Accessories Kitchen Play Game Party Model Shelves Cash Register Refrigerator Fridge",
+      "brand": "WEHOO",
+      "price": 25.99,
+      "salesParent": 1317,
+      "revenue": 34228.83,
+      "rating": 4.6,
+      "reviews": 999
+    },
+    {
+      "rank": 3,
+      "asin": "B0G3S8GY87",
+      "title": "Bluey Shopping Basket, 9 Grocery Accessories, Toddler Pretend Play",
+      "brand": "Bluey",
+      "price": 18.99,
+      "salesParent": 1797,
+      "revenue": 34125.03,
+      "rating": 4.7,
+      "reviews": 22
+    },
+    {
+      "rank": 4,
+      "asin": "B0CDM8NGZH",
+      "title": "Radio Flyer Scan &amp; Sort Shopping Cart, for Kids 1+, Red, for Indoor Play",
+      "brand": "Radio Flyer",
+      "price": 59.0,
+      "salesParent": 542,
+      "revenue": 31978.0,
+      "rating": 4.8,
+      "reviews": 561
+    },
+    {
+      "rank": 5,
+      "asin": "B00005BZKD",
+      "title": "Little Tikes Shopping Cart - Yellow/Red",
+      "brand": "Little Tikes",
+      "price": 24.99,
+      "salesParent": 945,
+      "revenue": 28132.65,
+      "rating": 4.7,
+      "reviews": 5040
+    },
+    {
+      "rank": 6,
+      "asin": "B0BPWPBRX5",
+      "title": "102pcs Kids Shopping Cart Trolley Play Set with Pretend Food",
+      "brand": "Jovow",
+      "price": 35.59,
+      "salesParent": 731,
+      "revenue": 26016.29,
+      "rating": 4.4,
+      "reviews": 1211
+    },
+    {
+      "rank": 7,
+      "asin": "B0DP97SMMT",
+      "title": "HONEY JOY Kids Grocery Store Playset, Wooden Play Store with Shopping Cart, Toddler Supermarket Checkout Stand w/Blackboard, Display Shelves, Grocery Store Pretend Play, Gift for Boys Girls, Natural",
+      "brand": "HONEY JOY",
+      "price": 134.99,
+      "salesParent": 116,
+      "revenue": 15364.2,
+      "rating": 4.0,
+      "reviews": 40
+    },
+    {
+      "rank": 8,
+      "asin": "B0F8HTN25K",
+      "title": "TOP BRIGHT Wooden Vending Machine Set with Snacks, Pretend Play Ages 3+",
+      "brand": "TOP BRIGHT",
+      "price": 35.14,
+      "salesParent": 397,
+      "revenue": 14581.81,
+      "rating": 4.4,
+      "reviews": 151
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -21,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -21,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 501365,
+    "priorHeadRevenue": 633026,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 93,
+      "newCount": 47,
+      "pct": 51,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 52,
+      "brandCount": 67,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.09,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B000VO3GPG",
+        "title": "Melissa &amp; Doug Toy Shopping Cart",
+        "rating": 4.8,
+        "reviews": 10581
+      },
+      {
+        "rank": 2,
+        "asin": "B0D95L3S1P",
+        "title": "164Pcs Mini Shopping Cart Basket Miniature Food Drink Toy Supermarket Metal Handcart Trolley DollHouse Store Grocery Accessories Kitchen Play Game Party Model Shelves Cash Register Refrigerator Fridge",
+        "rating": 4.6,
+        "reviews": 999
+      },
+      {
+        "rank": 3,
+        "asin": "B0G3S8GY87",
+        "title": "Bluey Shopping Basket, 9 Grocery Accessories, Toddler Pretend Play",
+        "rating": 4.7,
+        "reviews": 22
+      },
+      {
+        "rank": 4,
+        "asin": "B0CDM8NGZH",
+        "title": "Radio Flyer Scan &amp; Sort Shopping Cart, for Kids 1+, Red, for Indoor Play",
+        "rating": 4.8,
+        "reviews": 561
+      },
+      {
+        "rank": 5,
+        "asin": "B00005BZKD",
+        "title": "Little Tikes Shopping Cart - Yellow/Red",
+        "rating": 4.7,
+        "reviews": 5040
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166316011:166353011:2528093011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

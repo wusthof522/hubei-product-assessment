@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3206324011",
+  "level": "L2",
+  "categoryPathEn": "Home & Kitchen > Heating, Cooling & Air Quality",
+  "categoryPathCn": "家居用品 > 供暖、制冷",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 95,
+    "totalRevenue": 144178750,
+    "avgRevenue": 1517671,
+    "medianPrice": 149.96,
+    "priceBand": "$74.99 - $269.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B01728NLRG",
+      "title": "COWAY Air Purifier for Home Up to 1,748ft², HEPA Filter for Smoke, Allergies, Pet Dander, Odor, Air Quality Monitor, Auto&amp;Eco Mode, Timer, Filter Indicator, 3yr Warranty, Mighty AP-1512HH(W), White",
+      "brand": "Coway",
+      "price": 229.99,
+      "salesParent": 26641,
+      "revenue": 5622849.5,
+      "rating": 4.6,
+      "reviews": 29312
+    },
+    {
+      "rank": 2,
+      "asin": "B07VVK39F7",
+      "title": "Levoit Air Purifier for Home Pets Hair Allergens in Bedroom Quiet Purifiers",
+      "brand": "Levoit",
+      "price": 84.99,
+      "salesParent": 57780,
+      "revenue": 5012415.0,
+      "rating": 4.7,
+      "reviews": 109301
+    },
+    {
+      "rank": 3,
+      "asin": "B0FB3QNL3L",
+      "title": "DREO Tower Fan for Bedroom, 25ft/s Velocity Quiet Floor Fan, 90° Oscillating Fans for Indoors with 4 Speeds, 4 Modes, 8H Timer, Bladeless Fan, Standing Fans, Silver, Nomad One (DR-HTF007)",
+      "brand": "DREO",
+      "price": 86.44,
+      "salesParent": 56375,
+      "revenue": 4873055.0,
+      "rating": 4.5,
+      "reviews": 95509
+    },
+    {
+      "rank": 4,
+      "asin": "B0BGPF71Q6",
+      "title": "LEVOIT Smart Air Purifier for Home Large Room up to 1875 Ft² Vital 200S-P",
+      "brand": "Levoit",
+      "price": 189.99,
+      "salesParent": 27694,
+      "revenue": 4822356.5,
+      "rating": 4.7,
+      "reviews": 15757
+    },
+    {
+      "rank": 5,
+      "asin": "B07X25BNBR",
+      "title": "Levoit Air Purifier for Home Bedroom Small Room, Quiet Operation",
+      "brand": "Levoit",
+      "price": 119.99,
+      "salesParent": 39120,
+      "revenue": 4694008.5,
+      "rating": 4.6,
+      "reviews": 123914
+    },
+    {
+      "rank": 6,
+      "asin": "B0B252LDH7",
+      "title": "Levoit Smart Air Purifier for Large Room, Washable Pre-Filter EverestAir-P",
+      "brand": "Levoit",
+      "price": 499.99,
+      "salesParent": 9185,
+      "revenue": 4260003.0,
+      "rating": 4.6,
+      "reviews": 25306
+    },
+    {
+      "rank": 7,
+      "asin": "B09NBXDXJW",
+      "title": "Levoit Air Purifier for Home PetsBedroom Dorm Room, Smart &amp; Voice Control",
+      "brand": "Levoit",
+      "price": 94.99,
+      "salesParent": 42038,
+      "revenue": 3993189.5,
+      "rating": 4.7,
+      "reviews": 124949
+    },
+    {
+      "rank": 8,
+      "asin": "B0GWLVKN9T",
+      "title": "LEVOIT HEPA Air Purifier for Home Bedroom, Allergen Defense, Eleva 300X",
+      "brand": "Levoit",
+      "price": 129.99,
+      "salesParent": 24882,
+      "revenue": 3142845.25,
+      "rating": 4.6,
+      "reviews": 15757
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -18,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -18,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 144178750,
+    "priorHeadRevenue": 175303420,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 95,
+      "newCount": 38,
+      "pct": 40,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 61,
+      "brandCount": 37,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.43,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B01728NLRG",
+        "title": "COWAY Air Purifier for Home Up to 1,748ft², HEPA Filter for Smoke, Allergies, Pet Dander, Odor, Air Quality Monitor, Auto&amp;Eco Mode, Timer, Filter Indicator, 3yr Warranty, Mighty AP-1512HH(W), White",
+        "rating": 4.6,
+        "reviews": 29312
+      },
+      {
+        "rank": 2,
+        "asin": "B07VVK39F7",
+        "title": "Levoit Air Purifier for Home Pets Hair Allergens in Bedroom Quiet Purifiers",
+        "rating": 4.7,
+        "reviews": 109301
+      },
+      {
+        "rank": 3,
+        "asin": "B0FB3QNL3L",
+        "title": "DREO Tower Fan for Bedroom, 25ft/s Velocity Quiet Floor Fan, 90° Oscillating Fans for Indoors with 4 Speeds, 4 Modes, 8H Timer, Bladeless Fan, Standing Fans, Silver, Nomad One (DR-HTF007)",
+        "rating": 4.5,
+        "reviews": 95509
+      },
+      {
+        "rank": 4,
+        "asin": "B0BGPF71Q6",
+        "title": "LEVOIT Smart Air Purifier for Home Large Room up to 1875 Ft² Vital 200S-P",
+        "rating": 4.7,
+        "reviews": 15757
+      },
+      {
+        "rank": 5,
+        "asin": "B07X25BNBR",
+        "title": "Levoit Air Purifier for Home Bedroom Small Room, Quiet Operation",
+        "rating": 4.6,
+        "reviews": 123914
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "1055398:3206324011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

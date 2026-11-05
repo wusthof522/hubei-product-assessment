@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "8623907011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Health Care > Incontinence & Ostomy > Drain Pouches",
+  "categoryPathCn": "健康与家居 > 卫生保健 > 成人失禁用品 > 排水袋",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 1284537,
+    "avgRevenue": 12975,
+    "medianPrice": 35.48,
+    "priceBand": "$29.99 - $55.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0013Y4UVC",
+      "title": "Hollister 18193 New Image™ Drainable Ostomy Pouch, 10 Pack",
+      "brand": "Hollister",
+      "price": 33.45,
+      "salesParent": 2358,
+      "revenue": 87788.34,
+      "rating": 4.6,
+      "reviews": 1691
+    },
+    {
+      "rank": 2,
+      "asin": "B09XQLHGKR",
+      "title": "Urinary Drainage Bag with Anti-Reflux Chamber, Urine Bag with 2000 mL Volume, 48&quot; Drainage Tube, Clips and Hanging Hook, Professional Urinary Bag for Home and Hospitals Health Aids, 5 Pack",
+      "brand": "GlobalRoll",
+      "price": 25.99,
+      "salesParent": 2294,
+      "revenue": 59621.06,
+      "rating": 4.4,
+      "reviews": 1028
+    },
+    {
+      "rank": 3,
+      "asin": "B07RQT41YX",
+      "title": "Carbou 21 PCS Colostomy Bags, Two Piece Ostomy Bag with Vercol Closure 12&quot;",
+      "brand": "OUCHAN",
+      "price": 33.99,
+      "salesParent": 1697,
+      "revenue": 57681.03,
+      "rating": 4.2,
+      "reviews": 1285
+    },
+    {
+      "rank": 4,
+      "asin": "B0FFG55YMW",
+      "title": "Mastectomy Drain Pouch for Breast Cancer Treatment &amp; Recovery Supplies - Essential Post Surgery Must Haves &amp; Recovery Gift - Comfortable Drain Holder Belt (Medium)",
+      "brand": "RecoverEase",
+      "price": 49.99,
+      "salesParent": 942,
+      "revenue": 47090.58,
+      "rating": 4.5,
+      "reviews": 362
+    },
+    {
+      "rank": 5,
+      "asin": "B09Z777J9D",
+      "title": "20 PCS Colostomy Bags Rainlotus One Piece Ostomy Bag,Ostomy Drainable Pouch for Ileostomy Stoma Care, Cut to Fit.",
+      "brand": "Rainlotus",
+      "price": 29.99,
+      "salesParent": 1503,
+      "revenue": 45074.97,
+      "rating": 4.2,
+      "reviews": 710
+    },
+    {
+      "rank": 6,
+      "asin": "B0DN18HLD6",
+      "title": "Ostomy Bags, 60PCS 2 Piece Drainable Pouches, Cut-to-Fit 70mm",
+      "brand": "Heagimed",
+      "price": 69.99,
+      "salesParent": 547,
+      "revenue": 38284.53,
+      "rating": 4.5,
+      "reviews": 122
+    },
+    {
+      "rank": 7,
+      "asin": "B0BFGT473J",
+      "title": "20 Pack Colostomy Bags, One Piece Ostomy Bag Ostomy Supplies, 15 mm-60 mm Cut to Fit Drainable Pouches with Closure for Ileostomy Stoma Care",
+      "brand": "Heagimed",
+      "price": 29.99,
+      "salesParent": 1218,
+      "revenue": 36527.82,
+      "rating": 4.3,
+      "reviews": 652
+    },
+    {
+      "rank": 8,
+      "asin": "B0F2H7RWHJ",
+      "title": "100 PCS Colostomy Bags, 15mm-65mm Ostomy Supplies, One-Piece Ostomy Bags Drainable Pouches with Closure for Lleostomy Stoma Care, Cut-to-Fit",
+      "brand": "Closecret",
+      "price": 99.99,
+      "salesParent": 356,
+      "revenue": 35596.44,
+      "rating": 4.5,
+      "reviews": 214
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 7,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 7,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1284537,
+    "priorHeadRevenue": 1203476,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 20,
+      "pct": 20,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 54,
+      "brandCount": 35,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.33,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0013Y4UVC",
+        "title": "Hollister 18193 New Image™ Drainable Ostomy Pouch, 10 Pack",
+        "rating": 4.6,
+        "reviews": 1691
+      },
+      {
+        "rank": 2,
+        "asin": "B09XQLHGKR",
+        "title": "Urinary Drainage Bag with Anti-Reflux Chamber, Urine Bag with 2000 mL Volume, 48&quot; Drainage Tube, Clips and Hanging Hook, Professional Urinary Bag for Home and Hospitals Health Aids, 5 Pack",
+        "rating": 4.4,
+        "reviews": 1028
+      },
+      {
+        "rank": 3,
+        "asin": "B07RQT41YX",
+        "title": "Carbou 21 PCS Colostomy Bags, Two Piece Ostomy Bag with Vercol Closure 12&quot;",
+        "rating": 4.2,
+        "reviews": 1285
+      },
+      {
+        "rank": 4,
+        "asin": "B0FFG55YMW",
+        "title": "Mastectomy Drain Pouch for Breast Cancer Treatment &amp; Recovery Supplies - Essential Post Surgery Must Haves &amp; Recovery Gift - Comfortable Drain Holder Belt (Medium)",
+        "rating": 4.5,
+        "reviews": 362
+      },
+      {
+        "rank": 5,
+        "asin": "B09Z777J9D",
+        "title": "20 PCS Colostomy Bags Rainlotus One Piece Ostomy Bag,Ostomy Drainable Pouch for Ileostomy Stoma Care, Cut to Fit.",
+        "rating": 4.2,
+        "reviews": 710
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3760941:3763261:8623907011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

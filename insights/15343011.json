@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "15343011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Household Supplies > Paper & Plastic > Disposable Drinkware",
+  "categoryPathCn": "健康与家居 > 家居用品 > 纸张和塑料 > 一次性饮具",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 18810632,
+    "avgRevenue": 190006,
+    "medianPrice": 25.99,
+    "priceBand": "$18.89 - $29.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B00F2PCKQK",
+      "title": "Dixie PerfecTouch 12 oz Paper Coffee Cups By GP PRO, Coffee Haze Design, 500 Count (25 Disposable Cups Per Sleeve, 20 Sleeves Per Case), 5342DX",
+      "brand": "Georgia-Pacific",
+      "price": 75.39,
+      "salesParent": 22678,
+      "revenue": 1717858.5,
+      "rating": 4.7,
+      "reviews": 5939
+    },
+    {
+      "rank": 2,
+      "asin": "B0CZDSCKJC",
+      "title": "Dealusy 100 Pack - 16 oz Clear Plastic Cups with Lids and Straws",
+      "brand": "Dealusy",
+      "price": 25.98,
+      "salesParent": 26433,
+      "revenue": 766557.0,
+      "rating": 4.8,
+      "reviews": 4801
+    },
+    {
+      "rank": 3,
+      "asin": "B0D6SJWPHL",
+      "title": "Amazon Basics Small Disposable Clear Plastic Cups, 9oz, 100 Count, Packaging May Vary",
+      "brand": "Amazon Basics",
+      "price": 5.96,
+      "salesParent": 95248,
+      "revenue": 574345.44,
+      "rating": 4.7,
+      "reviews": 8245
+    },
+    {
+      "rank": 4,
+      "asin": "B0977LQV1R",
+      "title": "Hefty Party On Disposable Plastic Cups, Red, 18 Ounce, 25 Count (pack of 8)",
+      "brand": "Hefty",
+      "price": 39.92,
+      "salesParent": 13817,
+      "revenue": 550883.75,
+      "rating": 4.3,
+      "reviews": 44
+    },
+    {
+      "rank": 5,
+      "asin": "B00OCGUG02",
+      "title": "Hefty Party On Disposable Plastic Cups, Assorted, 16 Ounce, 100 Count",
+      "brand": "Hefty",
+      "price": 9.97,
+      "salesParent": 47031,
+      "revenue": 500409.84,
+      "rating": 4.8,
+      "reviews": 41487
+    },
+    {
+      "rank": 6,
+      "asin": "B0D31CYVVF",
+      "title": "1000 Count 12 oz Paper Cups, Disposable Coffee Hot Cups",
+      "brand": "Huifany",
+      "price": 115.41,
+      "salesParent": 3356,
+      "revenue": 390705.5,
+      "rating": 4.4,
+      "reviews": 793
+    },
+    {
+      "rank": 7,
+      "asin": "B0CS2ZZN3H",
+      "title": "500 Pack 12 oz Disposable Paper Coffee Cups, White",
+      "brand": "METAPRINT",
+      "price": 49.99,
+      "salesParent": 8496,
+      "revenue": 387502.56,
+      "rating": 3.9,
+      "reviews": 40
+    },
+    {
+      "rank": 8,
+      "asin": "B0BDY88K8V",
+      "title": "RACETOP 8 oz 500 Pack Disposable Paper Coffee Cups",
+      "brand": "RACETOP",
+      "price": 33.99,
+      "salesParent": 11079,
+      "revenue": 357851.69,
+      "rating": 4.5,
+      "reviews": 299
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 28,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 28,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 18810632,
+    "priorHeadRevenue": 14676159,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 18,
+      "pct": 18,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 37,
+      "brandCount": 51,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.56,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B00F2PCKQK",
+        "title": "Dixie PerfecTouch 12 oz Paper Coffee Cups By GP PRO, Coffee Haze Design, 500 Count (25 Disposable Cups Per Sleeve, 20 Sleeves Per Case), 5342DX",
+        "rating": 4.7,
+        "reviews": 5939
+      },
+      {
+        "rank": 2,
+        "asin": "B0CZDSCKJC",
+        "title": "Dealusy 100 Pack - 16 oz Clear Plastic Cups with Lids and Straws",
+        "rating": 4.8,
+        "reviews": 4801
+      },
+      {
+        "rank": 3,
+        "asin": "B0D6SJWPHL",
+        "title": "Amazon Basics Small Disposable Clear Plastic Cups, 9oz, 100 Count, Packaging May Vary",
+        "rating": 4.7,
+        "reviews": 8245
+      },
+      {
+        "rank": 4,
+        "asin": "B0977LQV1R",
+        "title": "Hefty Party On Disposable Plastic Cups, Red, 18 Ounce, 25 Count (pack of 8)",
+        "rating": 4.3,
+        "reviews": 44
+      },
+      {
+        "rank": 5,
+        "asin": "B00OCGUG02",
+        "title": "Hefty Party On Disposable Plastic Cups, Assorted, 16 Ounce, 100 Count",
+        "rating": 4.8,
+        "reviews": 41487
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:15342811:15342841:15343011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

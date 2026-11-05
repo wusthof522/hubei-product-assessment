@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "681148011",
+  "level": "L4",
+  "categoryPathEn": "Home & Kitchen > Furniture > Game & Recreation Room Furniture > Directors Chairs",
+  "categoryPathCn": "家居用品 > 家具 > 游戏 > 董事主席",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 891216,
+    "avgRevenue": 9002,
+    "medianPrice": 84.92,
+    "priceBand": "$60.29 - $105.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B005VAIHHW",
+      "title": "Casual Home Director's Chair ,Black Frame/Black Canvas,30&quot; - Bar Height",
+      "brand": "Casual Home",
+      "price": 84.92,
+      "salesParent": 1620,
+      "revenue": 137570.39,
+      "rating": 4.3,
+      "reviews": 4336
+    },
+    {
+      "rank": 2,
+      "asin": "B0841F7SCB",
+      "title": "EVER ADVANCED Tall Folding Chair 30.7&quot; Seat Height Directors Chair High Foldable Bar Stool for Makeup Artists Face Painting with Side Table Cup Holder and Storage Pocket Supports 350LBS (Blue/Grey)",
+      "brand": "EVER ADVANCED",
+      "price": 129.99,
+      "salesParent": 443,
+      "revenue": 57585.57,
+      "rating": 4.7,
+      "reviews": 1688
+    },
+    {
+      "rank": 3,
+      "asin": "B0H2F857YD",
+      "title": "2 Pack Tall Directors Chair 30.7&quot; Seat Height, Heavy Duty Folding Makeup Artist Chair with Side Table, Cup Holder &amp; Storage Pocket, Portable High Camping Bar Stool Supports 400lbs, Blue/Grey",
+      "brand": "Kamglide",
+      "price": 129.99,
+      "salesParent": 415,
+      "revenue": 55053.9,
+      "rating": 4.5,
+      "reviews": 49
+    },
+    {
+      "rank": 4,
+      "asin": "B07PY3QN83",
+      "title": "EVER ADVANCED 23.2&quot; Medium Tall Directors Chair with Side Table 400LBS Grey",
+      "brand": "EVER ADVANCED",
+      "price": 99.99,
+      "salesParent": 458,
+      "revenue": 45795.42,
+      "rating": 4.7,
+      "reviews": 1965
+    },
+    {
+      "rank": 5,
+      "asin": "B0BWRHXYZW",
+      "title": "Extra Tall Folding Chairs for Adults 330lbs, Portable Bar Height Foldable Director Chairs for Camping Outside, Comfortable with Makeup Pocket, High Back and Footrest, Black",
+      "brand": "Stonehomy",
+      "price": 99.99,
+      "salesParent": 398,
+      "revenue": 39796.02,
+      "rating": 4.7,
+      "reviews": 276
+    },
+    {
+      "rank": 6,
+      "asin": "B08YQYHHF2",
+      "title": "mefeir 30&quot; Tall Directors Chair Black Folding with Side Table Storage Bag,Portable Makeup Artist Bar Height, Aluminum Frame 300 lbs Capacity, 19.2&quot; D x 23.6&quot; W x 45.6&quot; H",
+      "brand": "mefeir",
+      "price": 109.99,
+      "salesParent": 366,
+      "revenue": 38997.3,
+      "rating": 4.6,
+      "reviews": 553
+    },
+    {
+      "rank": 7,
+      "asin": "B0GQM25VLN",
+      "title": "Aluminum Tall Camping Directors Chair 30.7&quot; Seat Height, 400lbs Load",
+      "brand": "LEISURE IMPACT",
+      "price": 137.48,
+      "salesParent": 283,
+      "revenue": 38861.56,
+      "rating": 4.9,
+      "reviews": 23
+    },
+    {
+      "rank": 8,
+      "asin": "B09P2RWB83",
+      "title": "EVER ADVANCED Tall Director Chair 31&quot; Foldable Camping with Carry Bag Black",
+      "brand": "EVER ADVANCED",
+      "price": 99.99,
+      "salesParent": 283,
+      "revenue": 28297.17,
+      "rating": 4.7,
+      "reviews": 570
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 5,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 5,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 891216,
+    "priorHeadRevenue": 844870,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 23,
+      "pct": 23,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 56,
+      "brandCount": 49,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.36,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B005VAIHHW",
+        "title": "Casual Home Director's Chair ,Black Frame/Black Canvas,30&quot; - Bar Height",
+        "rating": 4.3,
+        "reviews": 4336
+      },
+      {
+        "rank": 2,
+        "asin": "B0841F7SCB",
+        "title": "EVER ADVANCED Tall Folding Chair 30.7&quot; Seat Height Directors Chair High Foldable Bar Stool for Makeup Artists Face Painting with Side Table Cup Holder and Storage Pocket Supports 350LBS (Blue/Grey)",
+        "rating": 4.7,
+        "reviews": 1688
+      },
+      {
+        "rank": 3,
+        "asin": "B0H2F857YD",
+        "title": "2 Pack Tall Directors Chair 30.7&quot; Seat Height, Heavy Duty Folding Makeup Artist Chair with Side Table, Cup Holder &amp; Storage Pocket, Portable High Camping Bar Stool Supports 400lbs, Blue/Grey",
+        "rating": 4.5,
+        "reviews": 49
+      },
+      {
+        "rank": 4,
+        "asin": "B07PY3QN83",
+        "title": "EVER ADVANCED 23.2&quot; Medium Tall Directors Chair with Side Table 400LBS Grey",
+        "rating": 4.7,
+        "reviews": 1965
+      },
+      {
+        "rank": 5,
+        "asin": "B0BWRHXYZW",
+        "title": "Extra Tall Folding Chairs for Adults 330lbs, Portable Bar Height Foldable Director Chairs for Camping Outside, Comfortable with Makeup Pocket, High Back and Footrest, Black",
+        "rating": 4.7,
+        "reviews": 276
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "1055398:1063306:5422303011:681148011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

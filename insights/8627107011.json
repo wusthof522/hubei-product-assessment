@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "8627107011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Health Care > Respiratory Aids & Accessories > Oxygen Accessories",
+  "categoryPathCn": "健康与家居 > 卫生保健 > 呼吸辅助设备和配件 > 氧气配件",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 1751874,
+    "avgRevenue": 17519,
+    "medianPrice": 39.99,
+    "priceBand": "$16.12 - $118.0",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B077NQ8MSX",
+      "title": "Boost Oxygen Large Natural 10L Canister, 3 Pack",
+      "brand": "Boost Oxygen",
+      "price": 47.91,
+      "salesParent": 7382,
+      "revenue": 353671.62,
+      "rating": 4.3,
+      "reviews": 20135
+    },
+    {
+      "rank": 2,
+      "asin": "B083FGZ1KJ",
+      "title": "Inogen Extended (16-cell) Battery - for the Inogen One G5/Inogen Rove 6 - Up to 12 hours, 45 minutes of battery life on setting 1-2.18 lbs.",
+      "brand": "Inogen",
+      "price": 359.98,
+      "salesParent": 508,
+      "revenue": 172481.23,
+      "rating": 4.6,
+      "reviews": 1126
+    },
+    {
+      "rank": 3,
+      "asin": "B0CWHKSMHB",
+      "title": "ResOne 7Ft Soft Adult Oxygen Nasal Cannula 5-Pack - Curved Prongs, Crush-Resistant Tubing - Nasal Tubes, Oxygen Concentrator Supplies - Soft Curved Nose Piece, Standard Size, Standard Flow 6 LPM",
+      "brand": "ResOne",
+      "price": 9.99,
+      "salesParent": 11864,
+      "revenue": 115911.29,
+      "rating": 4.6,
+      "reviews": 3049
+    },
+    {
+      "rank": 4,
+      "asin": "B07PGKFS5G",
+      "title": "Inogen Extended (8-Cell) Battery - Replacement Battery - for The Inogen One G4/Rove 4-1.1 lb. - 5.91 x 2.68 x 1.34 in.",
+      "brand": "Inogen",
+      "price": 369.99,
+      "salesParent": 175,
+      "revenue": 62244.0,
+      "rating": 4.6,
+      "reviews": 348
+    },
+    {
+      "rank": 5,
+      "asin": "B0DZHPW663",
+      "title": "Lifestyle Rhythm P2 Battery",
+      "brand": "Arya",
+      "price": 225.0,
+      "salesParent": 264,
+      "revenue": 59373.6,
+      "rating": 4.7,
+      "reviews": 82
+    },
+    {
+      "rank": 6,
+      "asin": "B0FRH7YNYB",
+      "title": "Dog Rescue Oxygen Kit – Portable Oxygen Supply for Pets for Transport and Rescue – Oxygen, Mask, Regulator, Tubing &amp; Travel Case Included (0-11 lbs)",
+      "brand": "Pawprint Oxygen",
+      "price": 225.0,
+      "salesParent": 256,
+      "revenue": 57600.0,
+      "rating": 4.5,
+      "reviews": 49
+    },
+    {
+      "rank": 7,
+      "asin": "B0CSWWW9YM",
+      "title": "Inogen Replacement Column Pair – Inogen Rove 6/Inogen One G5 - Oxygen Accessories - Two Removable Metal Columns - 1.19 lb., 2.90 in. W x 3.04 in. L x 6.55 in. H",
+      "brand": "Inogen",
+      "price": 118.0,
+      "salesParent": 409,
+      "revenue": 48262.0,
+      "rating": 4.6,
+      "reviews": 467
+    },
+    {
+      "rank": 8,
+      "asin": "B01HUDY34I",
+      "title": "Inogen One G4 Replacement Column Pair - Oxygen Accessories - Two Removable Metal Columns - 0.63 lb., 2.21 in. W x 2.37 in. L x 5.50 in. H",
+      "brand": "Inogen",
+      "price": 118.0,
+      "salesParent": 403,
+      "revenue": 47554.0,
+      "rating": 4.7,
+      "reviews": 1908
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -52,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -52,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1751874,
+    "priorHeadRevenue": 3673502,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 28,
+      "pct": 28,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 64,
+      "brandCount": 62,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.41,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B077NQ8MSX",
+        "title": "Boost Oxygen Large Natural 10L Canister, 3 Pack",
+        "rating": 4.3,
+        "reviews": 20135
+      },
+      {
+        "rank": 2,
+        "asin": "B083FGZ1KJ",
+        "title": "Inogen Extended (16-cell) Battery - for the Inogen One G5/Inogen Rove 6 - Up to 12 hours, 45 minutes of battery life on setting 1-2.18 lbs.",
+        "rating": 4.6,
+        "reviews": 1126
+      },
+      {
+        "rank": 3,
+        "asin": "B0CWHKSMHB",
+        "title": "ResOne 7Ft Soft Adult Oxygen Nasal Cannula 5-Pack - Curved Prongs, Crush-Resistant Tubing - Nasal Tubes, Oxygen Concentrator Supplies - Soft Curved Nose Piece, Standard Size, Standard Flow 6 LPM",
+        "rating": 4.6,
+        "reviews": 3049
+      },
+      {
+        "rank": 4,
+        "asin": "B07PGKFS5G",
+        "title": "Inogen Extended (8-Cell) Battery - Replacement Battery - for The Inogen One G4/Rove 4-1.1 lb. - 5.91 x 2.68 x 1.34 in.",
+        "rating": 4.6,
+        "reviews": 348
+      },
+      {
+        "rank": 5,
+        "asin": "B0DZHPW663",
+        "title": "Lifestyle Rhythm P2 Battery",
+        "rating": 4.7,
+        "reviews": 82
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3760941:8627102011:8627107011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

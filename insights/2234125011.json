@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "2234125011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Remote & App Controlled Vehicles & Parts > Remote & App Controlled Vehicles > Crawlers",
+  "categoryPathCn": "玩具 > 遥控 > 遥控 > 爬行器",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 2336080,
+    "avgRevenue": 23361,
+    "medianPrice": 134.99,
+    "priceBand": "$50.49 - $189.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0CTWHSSM8",
+      "title": "QUNREDA Remote Control Car, RC Cars Toys for Kids Ages 6-12, 4WD Stunt Car with LED Lights &amp; 360° Flips, 2.4GHz, Upgraded USB-C Modular Batteries, 8-10 Year Old Boys Birthday Gift 1-Blue",
+      "brand": "QUNREDA",
+      "price": 29.99,
+      "salesParent": 25309,
+      "revenue": 739782.06,
+      "rating": 4.5,
+      "reviews": 7192
+    },
+    {
+      "rank": 2,
+      "asin": "B07HGR2C1G",
+      "title": "Monster Jam Official Grave Digger Remote Control Monster Truck, 1:24 Scale, 2.4 GHz, for Ages 4 and Up",
+      "brand": "Monster Jam",
+      "price": 33.99,
+      "salesParent": 7055,
+      "revenue": 208051.95,
+      "rating": 4.4,
+      "reviews": 18544
+    },
+    {
+      "rank": 3,
+      "asin": "B0H1C68RWD",
+      "title": "RC Wall Climbing Gecko, Rechargeable Remote Control Lizard for Kids Ages 3+",
+      "brand": "Envyvip",
+      "price": 49.99,
+      "salesParent": 1851,
+      "revenue": 78112.2,
+      "rating": 4.5,
+      "reviews": 609
+    },
+    {
+      "rank": 4,
+      "asin": "B0FTTLBY11",
+      "title": "Redcat Racing Ascent-18 APEX, 1/18 Scale Brushless Electric Rock Crawler, Carbon Fiber, 4WD RC Car for Adults with 2.4GHz Radio System (Gray)",
+      "brand": "Redcat Racing",
+      "price": 249.99,
+      "salesParent": 300,
+      "revenue": 74997.0,
+      "rating": 4.5,
+      "reviews": 198
+    },
+    {
+      "rank": 5,
+      "asin": "B0G3Y9XGD3",
+      "title": "Axial 1/30 SCX30 Ford Bronco 4X4 RTR Brushed RC Rock Crawler, Blue",
+      "brand": "Axial",
+      "price": 98.99,
+      "salesParent": 640,
+      "revenue": 58470.4,
+      "rating": 4.6,
+      "reviews": 72
+    },
+    {
+      "rank": 6,
+      "asin": "B0H1HJ6WVL",
+      "title": "UDIRC UCX1804PRO 1/18 Brushless RC Crawler, 4-Wheel Steering Rock Truck",
+      "brand": "UDIRC",
+      "price": 169.99,
+      "salesParent": 307,
+      "revenue": 48122.25,
+      "rating": 4.2,
+      "reviews": 42
+    },
+    {
+      "rank": 7,
+      "asin": "B0GKQYK98L",
+      "title": "Axial SCX30 Chevrolet K10 4X4 RTR RC Truck 1/30, Black",
+      "brand": "Axial",
+      "price": 98.95,
+      "salesParent": 482,
+      "revenue": 47963.82,
+      "rating": 4.6,
+      "reviews": 69
+    },
+    {
+      "rank": 8,
+      "asin": "B0H799NXDM",
+      "title": "RC Wall Climbing Gecko Toy, Birthday Gift for Boys 3 4 5 6 7 8+Years Old",
+      "brand": "Ayyomo",
+      "price": 39.99,
+      "salesParent": 845,
+      "revenue": 34687.25,
+      "rating": 4.3,
+      "reviews": 38
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 7,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 7,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 2336080,
+    "priorHeadRevenue": 2191519,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 59,
+      "pct": 59,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 64,
+      "brandCount": 46,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.38,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0CTWHSSM8",
+        "title": "QUNREDA Remote Control Car, RC Cars Toys for Kids Ages 6-12, 4WD Stunt Car with LED Lights &amp; 360° Flips, 2.4GHz, Upgraded USB-C Modular Batteries, 8-10 Year Old Boys Birthday Gift 1-Blue",
+        "rating": 4.5,
+        "reviews": 7192
+      },
+      {
+        "rank": 2,
+        "asin": "B07HGR2C1G",
+        "title": "Monster Jam Official Grave Digger Remote Control Monster Truck, 1:24 Scale, 2.4 GHz, for Ages 4 and Up",
+        "rating": 4.4,
+        "reviews": 18544
+      },
+      {
+        "rank": 3,
+        "asin": "B0H1C68RWD",
+        "title": "RC Wall Climbing Gecko, Rechargeable Remote Control Lizard for Kids Ages 3+",
+        "rating": 4.5,
+        "reviews": 609
+      },
+      {
+        "rank": 4,
+        "asin": "B0FTTLBY11",
+        "title": "Redcat Racing Ascent-18 APEX, 1/18 Scale Brushless Electric Rock Crawler, Carbon Fiber, 4WD RC Car for Adults with 2.4GHz Radio System (Gray)",
+        "rating": 4.5,
+        "reviews": 198
+      },
+      {
+        "rank": 5,
+        "asin": "B0G3Y9XGD3",
+        "title": "Axial 1/30 SCX30 Ford Bronco 4X4 RTR Brushed RC Rock Crawler, Blue",
+        "rating": 4.6,
+        "reviews": 72
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:6925830011:166583011:2234125011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "274333011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Party Supplies > Party Tableware > Plates",
+  "categoryPathCn": "玩具 > 派对用品 > 宴会餐具 > 盘子",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 98,
+    "totalRevenue": 1217175,
+    "avgRevenue": 12420,
+    "medianPrice": 22.99,
+    "priceBand": "$18.99 - $26.98",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B07PJW9KSQ",
+      "title": "Exquisite 350 Pcs Black Plates and Napkins Party Supplies Plate Sets",
+      "brand": "Exquisite",
+      "price": 25.89,
+      "salesParent": 4193,
+      "revenue": 116901.0,
+      "rating": 4.7,
+      "reviews": 4865
+    },
+    {
+      "rank": 2,
+      "asin": "B0C6M51JQK",
+      "title": "Football Party decorations Kit Serve 24,Includes Dinner Plates, Dessert Plates, Napkins, Cups,Banner and Touchdown Tablecloth for Football Birthday Decorations Game Day football Decorations",
+      "brand": "Gatherfun",
+      "price": 23.98,
+      "salesParent": 2654,
+      "revenue": 60405.04,
+      "rating": 4.7,
+      "reviews": 2963
+    },
+    {
+      "rank": 3,
+      "asin": "B0FFM14HVT",
+      "title": "Football Birthday Party Decorations Includes Plates, Napkins, Cups, Banner, Balloons, Touchdown Tablecloth for Football Birthday &amp; Tailgate Party Decorations, Serves 24",
+      "brand": "LINHAXM",
+      "price": 16.98,
+      "salesParent": 2728,
+      "revenue": 47330.8,
+      "rating": 4.6,
+      "reviews": 138
+    },
+    {
+      "rank": 4,
+      "asin": "B0D89WC8FJ",
+      "title": "150 Pcs Halloween Plates and Napkins Sets - Cute Happy Halloween Party Supplies Tableware, Halloweens Disposable Paper Plates Napkins Set for Halloweens Birthday Party Decorations Favors, Serve 50",
+      "brand": "PERFQU",
+      "price": 21.99,
+      "salesParent": 1132,
+      "revenue": 22741.88,
+      "rating": 4.5,
+      "reviews": 137
+    },
+    {
+      "rank": 5,
+      "asin": "B0FGWKFWNR",
+      "title": "150 Pcs Happy Halloween Plates and Napkins Set - Trick or Treat Ghost Paper Tableware, Disposable Dinner Dessert Paper Plates Napkins Kit for Halloween Table Decorations Party Supplies, Serve 50",
+      "brand": "Litmitfu",
+      "price": 22.99,
+      "salesParent": 938,
+      "revenue": 19200.86,
+      "rating": 4.5,
+      "reviews": 218
+    },
+    {
+      "rank": 6,
+      "asin": "B0FV864LC9",
+      "title": "Unicorn Birthday Decorations - Plates, Napkins, Cups, Cutlery, Hanging Swirls, Banner, Honeycomb Centerpiece, Balloons, Tablecloths for Rainbow Girls Birthday Party Decorations, Serves 24",
+      "brand": "NKPDAXM",
+      "price": 22.99,
+      "salesParent": 827,
+      "revenue": 19012.73,
+      "rating": 4.7,
+      "reviews": 111
+    },
+    {
+      "rank": 7,
+      "asin": "B0GJYJ9ZBS",
+      "title": "72 Pcs Soccer Plates and Napkins, Soccer Birthday Party Decorations Including Dinner Plates, Dessert Plates and Napkins for Sports Soccer Party Decorations, Serves 24",
+      "brand": "QIYANPAX",
+      "price": 12.99,
+      "salesParent": 1064,
+      "revenue": 14736.4,
+      "rating": 4.7,
+      "reviews": 116
+    },
+    {
+      "rank": 8,
+      "asin": "B098R74BLN",
+      "title": "Construction Plates for Toddlers - 10&quot; Set of 4",
+      "brand": "Tiny Expressions",
+      "price": 29.99,
+      "salesParent": 489,
+      "revenue": 14665.11,
+      "rating": 4.7,
+      "reviews": 361
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 3,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 3,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1217175,
+    "priorHeadRevenue": 1180327,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 98,
+      "newCount": 73,
+      "pct": 74,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 51,
+      "brandCount": 46,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.58,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B07PJW9KSQ",
+        "title": "Exquisite 350 Pcs Black Plates and Napkins Party Supplies Plate Sets",
+        "rating": 4.7,
+        "reviews": 4865
+      },
+      {
+        "rank": 2,
+        "asin": "B0C6M51JQK",
+        "title": "Football Party decorations Kit Serve 24,Includes Dinner Plates, Dessert Plates, Napkins, Cups,Banner and Touchdown Tablecloth for Football Birthday Decorations Game Day football Decorations",
+        "rating": 4.7,
+        "reviews": 2963
+      },
+      {
+        "rank": 3,
+        "asin": "B0FFM14HVT",
+        "title": "Football Birthday Party Decorations Includes Plates, Napkins, Cups, Banner, Balloons, Touchdown Tablecloth for Football Birthday &amp; Tailgate Party Decorations, Serves 24",
+        "rating": 4.6,
+        "reviews": 138
+      },
+      {
+        "rank": 4,
+        "asin": "B0D89WC8FJ",
+        "title": "150 Pcs Halloween Plates and Napkins Sets - Cute Happy Halloween Party Supplies Tableware, Halloweens Disposable Paper Plates Napkins Set for Halloweens Birthday Party Decorations Favors, Serve 50",
+        "rating": 4.5,
+        "reviews": 137
+      },
+      {
+        "rank": 5,
+        "asin": "B0FGWKFWNR",
+        "title": "150 Pcs Happy Halloween Plates and Napkins Set - Trick or Treat Ghost Paper Tableware, Disposable Dinner Dessert Paper Plates Napkins Kit for Halloween Table Decorations Party Supplies, Serve 50",
+        "rating": 4.5,
+        "reviews": 218
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:1266203011:274330011:274333011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "15342951",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Household Supplies > Laundry > Starch & Anti-static Sprays",
+  "categoryPathCn": "健康与家居 > 家居用品 > 衣物清洁 > 淀粉和抗静电喷雾剂",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 2469709,
+    "avgRevenue": 24697,
+    "medianPrice": 19.13,
+    "priceBand": "$13.02 - $23.6",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0CSL45LLK",
+      "title": "Downy Wrinkle Releaser Spray, All In One Formula, Removes Wrinkles, Static and Odor Eliminator, Crisp Linen Scent, 33.8 Fl Oz, Pack of 2 (Packaging May Vary)",
+      "brand": "Downy",
+      "price": 15.94,
+      "salesParent": 25440,
+      "revenue": 406022.41,
+      "rating": 4.6,
+      "reviews": 4262
+    },
+    {
+      "rank": 2,
+      "asin": "B0CW2D5JV6",
+      "title": "Downy Wrinkle Releaser Spray | All In One Wrinkle Release Spray, Odor Eliminator, Static Remover | Fabric Refresher &amp; Ironing Aid for Clothes | 9.7 Fl Oz (Pack of 2), Fresh Scent",
+      "brand": "Downy",
+      "price": 11.99,
+      "salesParent": 19225,
+      "revenue": 274148.5,
+      "rating": 4.5,
+      "reviews": 15500
+    },
+    {
+      "rank": 3,
+      "asin": "B083G6W6NG",
+      "title": "Downy Wrinkle Releaser Spray | All In One Wrinkle Release Spray, Odor Eliminator, Static Remover | Fabric Refresher &amp; Ironing Aid for Clothes | 16.9 Fl Oz (Pack of 2) &amp; 3 FL Oz, Crisp Linen Scent",
+      "brand": "Downy",
+      "price": 19.99,
+      "salesParent": 9668,
+      "revenue": 193263.31,
+      "rating": 4.6,
+      "reviews": 3785
+    },
+    {
+      "rank": 4,
+      "asin": "B0CSKM5QXK",
+      "title": "Downy Wrinkle Releaser Spray, All In One Wrinkle Release Spray, Odor Eliminator, Static Remover, Fabric Refresher &amp; Ironing Aid for Clothes, 33.8 Fl Oz (Pack of 2), Unstopables Fresh Scent",
+      "brand": "Downy",
+      "price": 15.79,
+      "salesParent": 11543,
+      "revenue": 187112.02,
+      "rating": 4.5,
+      "reviews": 5559
+    },
+    {
+      "rank": 5,
+      "asin": "B002UTOK46",
+      "title": "Linit Starch Crisp Classic Finish Liquid Starch for Ironing, 64 Oz.",
+      "brand": "LINIT",
+      "price": 19.87,
+      "salesParent": 5785,
+      "revenue": 114542.99,
+      "rating": 4.6,
+      "reviews": 2912
+    },
+    {
+      "rank": 6,
+      "asin": "B0BRX4VDBB",
+      "title": "Downy Wrinkle Releaser Spray, Travel Size Spray + 16.9 Fl Oz Pack of 2, All In One Formula, Removes Wrinkles, Static and Odors, Light Fresh Scent",
+      "brand": "Downy",
+      "price": 19.99,
+      "salesParent": 4526,
+      "revenue": 90474.74,
+      "rating": 4.5,
+      "reviews": 2329
+    },
+    {
+      "rank": 7,
+      "asin": "B06XJ6GXMT",
+      "title": "Niagara Spray Starch (22 Oz, 2 Pack) Trigger Pump Liquid Starch for Ironing, Non-Aerosol Spray on Starch, Reduces Ironing Time, No Flaking, Sticking or Clogging, Biodegradable Ingredients, Recyclable",
+      "brand": "Niagara",
+      "price": 17.65,
+      "salesParent": 4979,
+      "revenue": 88377.25,
+      "rating": 4.6,
+      "reviews": 6858
+    },
+    {
+      "rank": 8,
+      "asin": "B005067WAA",
+      "title": "Faultless Premium Luxe Spray Starch (20 Oz, 4 Pack) Spray Starch for Ironing that Makes Your Clothes New Again, Use as a Spray on Starch that Reduces Ironing Time with No Flaking, Sticking or Clogging",
+      "brand": "Faultless",
+      "price": 23.99,
+      "salesParent": 3348,
+      "revenue": 78510.6,
+      "rating": 4.7,
+      "reviews": 3372
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 26,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 26,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 2469709,
+    "priorHeadRevenue": 1963150,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 7,
+      "pct": 7,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 77,
+      "brandCount": 37,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.46,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0CSL45LLK",
+        "title": "Downy Wrinkle Releaser Spray, All In One Formula, Removes Wrinkles, Static and Odor Eliminator, Crisp Linen Scent, 33.8 Fl Oz, Pack of 2 (Packaging May Vary)",
+        "rating": 4.6,
+        "reviews": 4262
+      },
+      {
+        "rank": 2,
+        "asin": "B0CW2D5JV6",
+        "title": "Downy Wrinkle Releaser Spray | All In One Wrinkle Release Spray, Odor Eliminator, Static Remover | Fabric Refresher &amp; Ironing Aid for Clothes | 9.7 Fl Oz (Pack of 2), Fresh Scent",
+        "rating": 4.5,
+        "reviews": 15500
+      },
+      {
+        "rank": 3,
+        "asin": "B083G6W6NG",
+        "title": "Downy Wrinkle Releaser Spray | All In One Wrinkle Release Spray, Odor Eliminator, Static Remover | Fabric Refresher &amp; Ironing Aid for Clothes | 16.9 Fl Oz (Pack of 2) &amp; 3 FL Oz, Crisp Linen Scent",
+        "rating": 4.6,
+        "reviews": 3785
+      },
+      {
+        "rank": 4,
+        "asin": "B0CSKM5QXK",
+        "title": "Downy Wrinkle Releaser Spray, All In One Wrinkle Release Spray, Odor Eliminator, Static Remover, Fabric Refresher &amp; Ironing Aid for Clothes, 33.8 Fl Oz (Pack of 2), Unstopables Fresh Scent",
+        "rating": 4.5,
+        "reviews": 5559
+      },
+      {
+        "rank": 5,
+        "asin": "B002UTOK46",
+        "title": "Linit Starch Crisp Classic Finish Liquid Starch for Ironing, 64 Oz.",
+        "rating": 4.6,
+        "reviews": 2912
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:15342811:15356111:15342951",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

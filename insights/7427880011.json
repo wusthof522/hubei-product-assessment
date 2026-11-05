@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "7427880011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Sports & Outdoor Play > Pools & Water Toys > Beach Balls",
+  "categoryPathCn": "玩具 > 体育 > 游泳池 > 沙滩球",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 845981,
+    "avgRevenue": 8545,
+    "medianPrice": 17.99,
+    "priceBand": "$11.99 - $30.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B09LKRSK1J",
+      "title": "12-Pack Inflatable Footballs Party Decorations &amp; Favors 16-Inch",
+      "brand": "Bedwina",
+      "price": 15.99,
+      "salesParent": 3841,
+      "revenue": 61417.59,
+      "rating": 4.7,
+      "reviews": 3118
+    },
+    {
+      "rank": 2,
+      "asin": "B07NWR7HKD",
+      "title": "JOYIN 12-Pack 12“ Beach Balls - Bulk Classic Beachball Inflatable Swimming Pool Toys for Games Adults Kids Birthday Party Supplies Combo Set, Rainbow Color Blow Up Luau Decorations Favors Gifts (12&quot;)",
+      "brand": "JOYIN",
+      "price": 9.99,
+      "salesParent": 3536,
+      "revenue": 32884.8,
+      "rating": 4.5,
+      "reviews": 4018
+    },
+    {
+      "rank": 3,
+      "asin": "B0GY2XHT4G",
+      "title": "12 Pcs Halloween Ghost Pool Floats 14&quot; Inflatable Beach Balls",
+      "brand": "Vertintong",
+      "price": 39.99,
+      "salesParent": 822,
+      "revenue": 32690.94,
+      "rating": 3.4,
+      "reviews": 4
+    },
+    {
+      "rank": 4,
+      "asin": "B0BZXZ4RRR",
+      "title": "REGUICORP 2 Pack Beach Balls, 20 Inch Beach Balls, Rainbow Color Pool Toys Pool Balls for Swimming Pool, Beach Toys Inflatable Ball for Summer Parties and Water Games",
+      "brand": "REGUICORP",
+      "price": 6.99,
+      "salesParent": 3488,
+      "revenue": 24381.12,
+      "rating": 4.4,
+      "reviews": 1539
+    },
+    {
+      "rank": 5,
+      "asin": "B0GRSC2BNL",
+      "title": "24-Inch Inflatable Sports Beach Balls - Blow Up Party Decoration - 4-Pack",
+      "brand": "KiddieLoot",
+      "price": 24.99,
+      "salesParent": 880,
+      "revenue": 21991.2,
+      "rating": 4.5,
+      "reviews": 127
+    },
+    {
+      "rank": 6,
+      "asin": "B0FCM68BBT",
+      "title": "6 Pcs Halloween Pumpkin Pool Floats for Outdoor 14&quot; Inflatable Beach Balls",
+      "brand": "Vertintong",
+      "price": 23.99,
+      "salesParent": 742,
+      "revenue": 19121.34,
+      "rating": 4.2,
+      "reviews": 14
+    },
+    {
+      "rank": 7,
+      "asin": "B09T2QKS13",
+      "title": "FLAMDYNO 12-Inch Light Up Pool Toys, LED Beach Balls for Kids 3+",
+      "brand": "FLAMDYNO",
+      "price": 27.99,
+      "salesParent": 683,
+      "revenue": 19117.17,
+      "rating": 4.2,
+      "reviews": 1202
+    },
+    {
+      "rank": 8,
+      "asin": "B0BKTLGZN1",
+      "title": "JOYIN 4-Pack 20&quot; Beach Balls - Large Rainbow Beach Ball Inflatable Pool Toys for Party Supplies Decorations, Adults Kids Birthday Luau Summer Beach Water Games Beachball Party Favors",
+      "brand": "JOYIN",
+      "price": 9.99,
+      "salesParent": 1895,
+      "revenue": 18931.05,
+      "rating": 4.5,
+      "reviews": 1764
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 7,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 7,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 845981,
+    "priorHeadRevenue": 792114,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 36,
+      "pct": 36,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 34,
+      "brandCount": 70,
+      "level": "分散",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.27,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B09LKRSK1J",
+        "title": "12-Pack Inflatable Footballs Party Decorations &amp; Favors 16-Inch",
+        "rating": 4.7,
+        "reviews": 3118
+      },
+      {
+        "rank": 2,
+        "asin": "B07NWR7HKD",
+        "title": "JOYIN 12-Pack 12“ Beach Balls - Bulk Classic Beachball Inflatable Swimming Pool Toys for Games Adults Kids Birthday Party Supplies Combo Set, Rainbow Color Blow Up Luau Decorations Favors Gifts (12&quot;)",
+        "rating": 4.5,
+        "reviews": 4018
+      },
+      {
+        "rank": 3,
+        "asin": "B0GY2XHT4G",
+        "title": "12 Pcs Halloween Ghost Pool Floats 14&quot; Inflatable Beach Balls",
+        "rating": 3.4,
+        "reviews": 4
+      },
+      {
+        "rank": 4,
+        "asin": "B0BZXZ4RRR",
+        "title": "REGUICORP 2 Pack Beach Balls, 20 Inch Beach Balls, Rainbow Color Pool Toys Pool Balls for Swimming Pool, Beach Toys Inflatable Ball for Summer Parties and Water Games",
+        "rating": 4.4,
+        "reviews": 1539
+      },
+      {
+        "rank": 5,
+        "asin": "B0GRSC2BNL",
+        "title": "24-Inch Inflatable Sports Beach Balls - Blow Up Party Decoration - 4-Pack",
+        "rating": 4.5,
+        "reviews": 127
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166420011:166437011:7427880011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

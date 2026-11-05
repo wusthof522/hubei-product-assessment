@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3773921",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins, Minerals & Supplements > Enzymes > Multi-Enzymes",
+  "categoryPathCn": "健康与家居 > 身、泳和附剂 > 酵素 > 多酶",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 14624066,
+    "avgRevenue": 146241,
+    "medianPrice": 31.6,
+    "priceBand": "$23.99 - $46.75",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0C21ZLQNC",
+      "title": "Physician's CHOICE Digestive Enzymes for Bloating &amp; Digestion - Fast-Acting 16 Enzyme Formula with Organic Prebiotics &amp; Probiotics for Gut &amp; Digestive Health - Meal Time Discomfort Relief - 60 CT",
+      "brand": "Physician's CHOICE",
+      "price": 13.99,
+      "salesParent": 105854,
+      "revenue": 1863030.5,
+      "rating": 4.4,
+      "reviews": 22432
+    },
+    {
+      "rank": 2,
+      "asin": "B0DLPJH5FX",
+      "title": "Physician's CHOICE Advanced Gut Health Bundle: 60 Billion Probiotics 30ct + Digestive Enzymes 60ct w/Lactase+ Digestive, Gut, Immune Health Supports Occasional Constipation, Diarrhea, Gas, Bloating",
+      "brand": "Physician's CHOICE",
+      "price": 39.97,
+      "salesParent": 29770,
+      "revenue": 1128580.75,
+      "rating": 4.4,
+      "reviews": 6202
+    },
+    {
+      "rank": 3,
+      "asin": "B0BSP42YHD",
+      "title": "FODZYME® Home Kit Digestive Enzymes for Gut Health, Relief for Bloating, Gas, Constipation, Diarrhea, Abdominal Pain, Low FODMAP, 60 Dose",
+      "brand": "FODZYME",
+      "price": 75.99,
+      "salesParent": 8814,
+      "revenue": 669775.81,
+      "rating": 4.3,
+      "reviews": 1030
+    },
+    {
+      "rank": 4,
+      "asin": "B0012QMAHM",
+      "title": "Enzymedica Digest Gold, Maximum Strength, ATPro Energy Support - 45 Caps",
+      "brand": "Enzymedica",
+      "price": 23.98,
+      "salesParent": 25299,
+      "revenue": 601357.25,
+      "rating": 4.6,
+      "reviews": 9566
+    },
+    {
+      "rank": 5,
+      "asin": "B0013OXKHC",
+      "title": "Now Foods Super Enzymes, 180 Capsules",
+      "brand": "NOW Foods",
+      "price": 20.22,
+      "salesParent": 24313,
+      "revenue": 563089.06,
+      "rating": 4.6,
+      "reviews": 23828
+    },
+    {
+      "rank": 6,
+      "asin": "B0016XGOVO",
+      "title": "Pure Encapsulations Digestive Enzymes Ultra, 90 Capsules",
+      "brand": "Pure Encapsulations",
+      "price": 38.0,
+      "salesParent": 14548,
+      "revenue": 552824.0,
+      "rating": 4.6,
+      "reviews": 5314
+    },
+    {
+      "rank": 7,
+      "asin": "B0G2N6TFRD",
+      "title": "Micro Ingredients Nattokinase 10,000 FU Per Serving, 240 Veggie Capsules",
+      "brand": "Micro Ingredients",
+      "price": 29.99,
+      "salesParent": 17451,
+      "revenue": 523355.5,
+      "rating": 4.5,
+      "reviews": 552
+    },
+    {
+      "rank": 8,
+      "asin": "B00HSC5IR8",
+      "title": "Dr. Berg Gallbladder Formula Extra Strength - with Ox Bile Powder and Conjugated Bile Acid - Digestive Enzymes Proprietary Blend - Full 45-Day Supply - 90 Vegetable Capsules",
+      "brand": "Dr. Berg Nutritionals",
+      "price": 37.95,
+      "salesParent": 8059,
+      "revenue": 305839.06,
+      "rating": 4.4,
+      "reviews": 13645
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 24,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 24,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 14624066,
+    "priorHeadRevenue": 11814674,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 12,
+      "pct": 12,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 46,
+      "brandCount": 61,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.48,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0C21ZLQNC",
+        "title": "Physician's CHOICE Digestive Enzymes for Bloating &amp; Digestion - Fast-Acting 16 Enzyme Formula with Organic Prebiotics &amp; Probiotics for Gut &amp; Digestive Health - Meal Time Discomfort Relief - 60 CT",
+        "rating": 4.4,
+        "reviews": 22432
+      },
+      {
+        "rank": 2,
+        "asin": "B0DLPJH5FX",
+        "title": "Physician's CHOICE Advanced Gut Health Bundle: 60 Billion Probiotics 30ct + Digestive Enzymes 60ct w/Lactase+ Digestive, Gut, Immune Health Supports Occasional Constipation, Diarrhea, Gas, Bloating",
+        "rating": 4.4,
+        "reviews": 6202
+      },
+      {
+        "rank": 3,
+        "asin": "B0BSP42YHD",
+        "title": "FODZYME® Home Kit Digestive Enzymes for Gut Health, Relief for Bloating, Gas, Constipation, Diarrhea, Abdominal Pain, Low FODMAP, 60 Dose",
+        "rating": 4.3,
+        "reviews": 1030
+      },
+      {
+        "rank": 4,
+        "asin": "B0012QMAHM",
+        "title": "Enzymedica Digest Gold, Maximum Strength, ATPro Energy Support - 45 Caps",
+        "rating": 4.6,
+        "reviews": 9566
+      },
+      {
+        "rank": 5,
+        "asin": "B0013OXKHC",
+        "title": "Now Foods Super Enzymes, 180 Capsules",
+        "rating": 4.6,
+        "reviews": 23828
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:23675621011:3773511:3773921",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3764081",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Oral Care > Oral Pain Relief > Emergency Dental Care",
+  "categoryPathCn": "Health & Household > Oral Care > Oral Pain Relief > Emergency Dental Care",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 771909,
+    "avgRevenue": 7797,
+    "medianPrice": 15.29,
+    "priceBand": "$9.13 - $21.94",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B00641RE7G",
+      "title": "Temptooth #1 Seller Trusted Patented Temporary Tooth Replacement Product",
+      "brand": "Temptooth",
+      "price": 29.98,
+      "salesParent": 3335,
+      "revenue": 99983.3,
+      "rating": 3.8,
+      "reviews": 16411
+    },
+    {
+      "rank": 2,
+      "asin": "B00NFUBV32",
+      "title": "Dentemp Maximum Strength Loose Cap &amp; Lost Filling Repair Kit – 2.64g (2pk)",
+      "brand": "Dentemp",
+      "price": 8.95,
+      "salesParent": 10908,
+      "revenue": 97626.6,
+      "rating": 3.8,
+      "reviews": 3235
+    },
+    {
+      "rank": 3,
+      "asin": "B0DB2ZBXZD",
+      "title": "Medicinal Foods Dentite Tooth Armor Liquid Drops | Nano Hydroxyapatite Oral Care Formula | Fluoride-Free Toothpaste Booster | Nano Silver + Theobromine Found in Cacao | Fresh Breath Support (60 ml)",
+      "brand": "MEDICINAL FOODS THE ANCIENT FUTURE OF FOOD",
+      "price": 69.97,
+      "salesParent": 1013,
+      "revenue": 59351.67,
+      "rating": 4.2,
+      "reviews": 622
+    },
+    {
+      "rank": 4,
+      "asin": "B002WTCK50",
+      "title": "DenTek Temparin Max Advanced Tooth Repair Kit, 13+ Repairs per Kit, 6 Kits",
+      "brand": "DenTek",
+      "price": 20.34,
+      "salesParent": 2673,
+      "revenue": 51000.84,
+      "rating": 4.3,
+      "reviews": 3113
+    },
+    {
+      "rank": 5,
+      "asin": "B09PNDSHRZ",
+      "title": "SmileFix Standard Dental Repair Kit - Color Matching Compound - For Missing Or Damaged Teeth - Fix Gaps, Broken Tooth, Spaces - Durable Repair - Fast &amp; Easy - Confident Smiles",
+      "brand": "Smile Fix",
+      "price": 24.99,
+      "salesParent": 1767,
+      "revenue": 44157.33,
+      "rating": 3.8,
+      "reviews": 1838
+    },
+    {
+      "rank": 6,
+      "asin": "B083XQ28WV",
+      "title": "Instant Smile Complete Your Smile Temporary Tooth Replacement Kit - Replace a Missing Tooth in Minutes - Patented",
+      "brand": "Instant Smile",
+      "price": 21.94,
+      "salesParent": 1964,
+      "revenue": 43090.16,
+      "rating": 3.1,
+      "reviews": 10737
+    },
+    {
+      "rank": 7,
+      "asin": "B00FN07O7Y",
+      "title": "DenTek Temparin One Step Lost Filling Repair 1 Each",
+      "brand": "DenTek",
+      "price": 7.54,
+      "salesParent": 4519,
+      "revenue": 33937.69,
+      "rating": 4.2,
+      "reviews": 1499
+    },
+    {
+      "rank": 8,
+      "asin": "B0CJTR529K",
+      "title": "Sukh 10.9oz Moldable False Teeth Beads - Tooth Repair Kit,Repair Thermoplastic Beads,Plastic Pellets for DIY Tooth Filling,Halloween Vampire Teeth Fangs Ideal for Chipped, Cracked",
+      "brand": "Sukh",
+      "price": 8.69,
+      "salesParent": 4324,
+      "revenue": 33121.84,
+      "rating": 4.2,
+      "reviews": 2576
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -28,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -28,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 771909,
+    "priorHeadRevenue": 1075770,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 31,
+      "pct": 31,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 54,
+      "brandCount": 64,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 3.79,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B00641RE7G",
+        "title": "Temptooth #1 Seller Trusted Patented Temporary Tooth Replacement Product",
+        "rating": 3.8,
+        "reviews": 16411
+      },
+      {
+        "rank": 2,
+        "asin": "B00NFUBV32",
+        "title": "Dentemp Maximum Strength Loose Cap &amp; Lost Filling Repair Kit – 2.64g (2pk)",
+        "rating": 3.8,
+        "reviews": 3235
+      },
+      {
+        "rank": 3,
+        "asin": "B0DB2ZBXZD",
+        "title": "Medicinal Foods Dentite Tooth Armor Liquid Drops | Nano Hydroxyapatite Oral Care Formula | Fluoride-Free Toothpaste Booster | Nano Silver + Theobromine Found in Cacao | Fresh Breath Support (60 ml)",
+        "rating": 4.2,
+        "reviews": 622
+      },
+      {
+        "rank": 4,
+        "asin": "B002WTCK50",
+        "title": "DenTek Temparin Max Advanced Tooth Repair Kit, 13+ Repairs per Kit, 6 Kits",
+        "rating": 4.3,
+        "reviews": 3113
+      },
+      {
+        "rank": 5,
+        "asin": "B09PNDSHRZ",
+        "title": "SmileFix Standard Dental Repair Kit - Color Matching Compound - For Missing Or Damaged Teeth - Fix Gaps, Broken Tooth, Spaces - Durable Repair - Fast &amp; Easy - Confident Smiles",
+        "rating": 3.8,
+        "reviews": 1838
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:10079992011:3764051:3764081",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

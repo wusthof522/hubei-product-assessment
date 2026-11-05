@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "7427928011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Sports & Outdoor Play > Play Sets & Playground Equipment > Parts & Hardware",
+  "categoryPathCn": "玩具 > 体育 > 游戏套装 > 零件",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 854992,
+    "avgRevenue": 8636,
+    "medianPrice": 39.99,
+    "priceBand": "$21.99 - $66.98",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B07SDD936K",
+      "title": "ABUSA Heavy Duty Black Swing Hangers Screws Bolts Included Over 5000 lb Capacity Playground Porch Yoga Seat Trapeze Wooden Sets Indoor Outdoor 2 Pack",
+      "brand": "ABUSA",
+      "price": 25.99,
+      "salesParent": 3980,
+      "revenue": 96594.6,
+      "rating": 4.7,
+      "reviews": 4041
+    },
+    {
+      "rank": 2,
+      "asin": "B08N51GPXF",
+      "title": "Heavy Duty Swing Hangers for Wooden Sets 2000 LB Capacity Hammock Hanger 360 Swivel Stainless Steel Swing Hardware Accessories 2 Packs for Porch Playground Yoga Heavy Bag",
+      "brand": "Aisto",
+      "price": 24.99,
+      "salesParent": 1846,
+      "revenue": 43159.48,
+      "rating": 4.8,
+      "reviews": 1652
+    },
+    {
+      "rank": 3,
+      "asin": "B01M28VV0N",
+      "title": "Easy 1-2-3 A-Frame 2 Brackets for Swing Set, Green",
+      "brand": "Eastern Jungle Gym",
+      "price": 78.99,
+      "salesParent": 532,
+      "revenue": 42022.68,
+      "rating": 4.7,
+      "reviews": 6446
+    },
+    {
+      "rank": 4,
+      "asin": "B0CJX645Q3",
+      "title": "Playground Safety Rubber Wearmat for Swingsets and Slides - 1&quot; Thick X 24&quot; W X 40&quot; L (2 Pack, Black)",
+      "brand": "Playsafer",
+      "price": 89.99,
+      "salesParent": 361,
+      "revenue": 30266.24,
+      "rating": 4.4,
+      "reviews": 585
+    },
+    {
+      "rank": 5,
+      "asin": "B07R3V2CJK",
+      "title": "BETOOLL A-Frame 2 Brackets Swing Set Bracket with Mounting Hardware (Green)",
+      "brand": "BETOOLL",
+      "price": 52.99,
+      "salesParent": 465,
+      "revenue": 24640.35,
+      "rating": 4.8,
+      "reviews": 3708
+    },
+    {
+      "rank": 6,
+      "asin": "B0DSCW4WCJ",
+      "title": "ABUSA Heavy Duty Swing Sets Brackets Including 2 Green A-Frame Swing Set Brackets and 4 Swing Hangers for Playground Equipment Mounting Parts Hardware Included (Light Green)",
+      "brand": "ABUSA",
+      "price": 69.98,
+      "salesParent": 292,
+      "revenue": 21926.28,
+      "rating": 4.1,
+      "reviews": 557
+    },
+    {
+      "rank": 7,
+      "asin": "B0DSCSKGT8",
+      "title": "ABUSA Heavy Duty Swing Sets Brackets Including 2 Black A-Frame Swing Set Brackets and 4 Swing Hangers for Playground Equipment Mounting Parts Hardware Included (Black New Edition)",
+      "brand": "ABUSA",
+      "price": 93.99,
+      "salesParent": 205,
+      "revenue": 19267.95,
+      "rating": 3.9,
+      "reviews": 62
+    },
+    {
+      "rank": 8,
+      "asin": "B0CLTDVFNB",
+      "title": "Heavy Duty Commercial Grade Rubber Playground Safety Mat - Playground Protection Mat for Swings and Slides - 54&quot; Long X 32&quot; Wide x 2&quot; Thick (Black)",
+      "brand": "Playsafer",
+      "price": 209.99,
+      "salesParent": 88,
+      "revenue": 18479.12,
+      "rating": 4.4,
+      "reviews": 38
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 4,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 4,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 854992,
+    "priorHeadRevenue": 819785,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 38,
+      "pct": 38,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 43,
+      "brandCount": 66,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.6,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B07SDD936K",
+        "title": "ABUSA Heavy Duty Black Swing Hangers Screws Bolts Included Over 5000 lb Capacity Playground Porch Yoga Seat Trapeze Wooden Sets Indoor Outdoor 2 Pack",
+        "rating": 4.7,
+        "reviews": 4041
+      },
+      {
+        "rank": 2,
+        "asin": "B08N51GPXF",
+        "title": "Heavy Duty Swing Hangers for Wooden Sets 2000 LB Capacity Hammock Hanger 360 Swivel Stainless Steel Swing Hardware Accessories 2 Packs for Porch Playground Yoga Heavy Bag",
+        "rating": 4.8,
+        "reviews": 1652
+      },
+      {
+        "rank": 3,
+        "asin": "B01M28VV0N",
+        "title": "Easy 1-2-3 A-Frame 2 Brackets for Swing Set, Green",
+        "rating": 4.7,
+        "reviews": 6446
+      },
+      {
+        "rank": 4,
+        "asin": "B0CJX645Q3",
+        "title": "Playground Safety Rubber Wearmat for Swingsets and Slides - 1&quot; Thick X 24&quot; W X 40&quot; L (2 Pack, Black)",
+        "rating": 4.4,
+        "reviews": 585
+      },
+      {
+        "rank": 5,
+        "asin": "B07R3V2CJK",
+        "title": "BETOOLL A-Frame 2 Brackets Swing Set Bracket with Mounting Hardware (Green)",
+        "rating": 4.8,
+        "reviews": 3708
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166420011:166424011:7427928011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

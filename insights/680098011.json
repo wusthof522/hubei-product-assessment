@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "680098011",
+  "level": "L4",
+  "categoryPathEn": "Home & Kitchen > Furniture > Living Room Furniture > Tables",
+  "categoryPathCn": "家居用品 > 家具 > 客厅家具 > 桌子",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 93,
+    "totalRevenue": 12903104,
+    "avgRevenue": 138743,
+    "medianPrice": 129.99,
+    "priceBand": "$74.49 - $169.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0HM354CKP",
+      "title": "Round Coffee Table and End Table Set,Walnut",
+      "brand": "JOINICE",
+      "price": 249.99,
+      "salesParent": 1541,
+      "revenue": 385234.59,
+      "rating": 4.4,
+      "reviews": 1302
+    },
+    {
+      "rank": 2,
+      "asin": "B0F1XYSW6P",
+      "title": "SUPERJARE 102 Inch Sofa Table with 2 Power Outlets and USB-C Ports",
+      "brand": "SUPERJARE",
+      "price": 99.99,
+      "salesParent": 2719,
+      "revenue": 271872.81,
+      "rating": 4.6,
+      "reviews": 1158
+    },
+    {
+      "rank": 3,
+      "asin": "B0F64KYP45",
+      "title": "31.5&quot; Round Coffee Table with Storage for Living Room, Walnut",
+      "brand": "JOINICE",
+      "price": 136.99,
+      "salesParent": 1982,
+      "revenue": 270820.47,
+      "rating": 4.4,
+      "reviews": 1281
+    },
+    {
+      "rank": 4,
+      "asin": "B0DXQ4R52P",
+      "title": "SUPERJARE 78.8 inch Narrow Behind Couch Table with 2 Charging Stations",
+      "brand": "SUPERJARE",
+      "price": 64.99,
+      "salesParent": 3976,
+      "revenue": 258400.23,
+      "rating": 4.4,
+      "reviews": 1474
+    },
+    {
+      "rank": 5,
+      "asin": "B07FKX3H1H",
+      "title": "Furinno JUST Toolless 3-Tier Side Table, Open Shelf, Columbia Walnut",
+      "brand": "Furinno",
+      "price": 21.99,
+      "salesParent": 7678,
+      "revenue": 247231.61,
+      "rating": 4.5,
+      "reviews": 84313
+    },
+    {
+      "rank": 6,
+      "asin": "B0F62VWHNT",
+      "title": "LINSY HOME Set of 2 Charging End Tables with USB, Wooden Door, Washed Grey",
+      "brand": "LINSY HOME",
+      "price": 239.99,
+      "salesParent": 1031,
+      "revenue": 246151.25,
+      "rating": 4.4,
+      "reviews": 1066
+    },
+    {
+      "rank": 7,
+      "asin": "B0D3CF6B38",
+      "title": "SEDETA 31.5&quot; Lift Top Coffee Table with Storage, Square Coffee Tables for Living Room, Farmhouse Coffee Table with Large Hidden Storage Compartment and Adjustable Shelves, Black",
+      "brand": "SEDETA",
+      "price": 149.99,
+      "salesParent": 1632,
+      "revenue": 235252.8,
+      "rating": 4.6,
+      "reviews": 1149
+    },
+    {
+      "rank": 8,
+      "asin": "B0H1R22QVS",
+      "title": "Kitstorack Narrow Sofa Table with Charging Station, 78.8&quot; Behind Couch Table, Adjustable 24.4&quot;-32.7&quot; Height, Modular 2-piece Design for sectionals, entryways, Apartments, and Narrow Living Spaces",
+      "brand": "Kitstorack",
+      "price": 109.99,
+      "salesParent": 2093,
+      "revenue": 223239.39,
+      "rating": 4.6,
+      "reviews": 1027
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -3,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": -3,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 12903104,
+    "priorHeadRevenue": 13369603,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 93,
+      "newCount": 47,
+      "pct": 51,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 38,
+      "brandCount": 56,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.36,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0HM354CKP",
+        "title": "Round Coffee Table and End Table Set,Walnut",
+        "rating": 4.4,
+        "reviews": 1302
+      },
+      {
+        "rank": 2,
+        "asin": "B0F1XYSW6P",
+        "title": "SUPERJARE 102 Inch Sofa Table with 2 Power Outlets and USB-C Ports",
+        "rating": 4.6,
+        "reviews": 1158
+      },
+      {
+        "rank": 3,
+        "asin": "B0F64KYP45",
+        "title": "31.5&quot; Round Coffee Table with Storage for Living Room, Walnut",
+        "rating": 4.4,
+        "reviews": 1281
+      },
+      {
+        "rank": 4,
+        "asin": "B0DXQ4R52P",
+        "title": "SUPERJARE 78.8 inch Narrow Behind Couch Table with 2 Charging Stations",
+        "rating": 4.4,
+        "reviews": 1474
+      },
+      {
+        "rank": 5,
+        "asin": "B07FKX3H1H",
+        "title": "Furinno JUST Toolless 3-Tier Side Table, Open Shelf, Columbia Walnut",
+        "rating": 4.5,
+        "reviews": 84313
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "1055398:1063306:1063318:680098011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3767781",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Health Care > Alternative Medicine > Single Homeopathic Remedies",
+  "categoryPathCn": "健康与家居 > 卫生保健 > 替代药物 > 单一顺势疗法",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 3893265,
+    "avgRevenue": 38933,
+    "medianPrice": 15.6,
+    "priceBand": "$10.99 - $23.71",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B07F4CPP7C",
+      "title": "Hyland's Restful Legs PM Tablets, Nighttime Formula so You Can Sleep, 50ct",
+      "brand": "Hyland's",
+      "price": 11.99,
+      "salesParent": 24243,
+      "revenue": 281461.22,
+      "rating": 4.3,
+      "reviews": 12671
+    },
+    {
+      "rank": 2,
+      "asin": "B013JKW8Z2",
+      "title": "Boiron Arnica Montana 30C Homeopathic Medicine for Relief from Muscle Pain, Muscle Stiffness, Swelling from Injury, and Discoloration from Bruises - 3 Count (240 Pellets)",
+      "brand": "Boiron",
+      "price": 15.5,
+      "salesParent": 16703,
+      "revenue": 259731.66,
+      "rating": 4.6,
+      "reviews": 20371
+    },
+    {
+      "rank": 3,
+      "asin": "B08PFQTSKW",
+      "title": "Boiron Camilia Teething Drops for Daytime and Nighttime Relief of Painful or Swollen Gums and Irritability in Babies - 40 Liquid Droppers Bundled in 8 separate packs of 5",
+      "brand": "Boiron",
+      "price": 21.99,
+      "salesParent": 11391,
+      "revenue": 250260.27,
+      "rating": 4.7,
+      "reviews": 28927
+    },
+    {
+      "rank": 4,
+      "asin": "B00I9GTE5Y",
+      "title": "VitaMedica Arnica Montana 30X Rapid Dissolve Arnica Tablets, 150 Ct",
+      "brand": "VitaMedica",
+      "price": 22.95,
+      "salesParent": 8715,
+      "revenue": 200009.25,
+      "rating": 4.6,
+      "reviews": 5559
+    },
+    {
+      "rank": 5,
+      "asin": "B0C87B2487",
+      "title": "Boiron Camilia Drops 40 Count (Pack of 3) Relief of Painful or Swollen Gums and Irritability in Babies - for Daytime and Nighttime - Liquid Drop for Baby",
+      "brand": "Boiron",
+      "price": 49.99,
+      "salesParent": 3861,
+      "revenue": 193011.39,
+      "rating": 4.8,
+      "reviews": 28927
+    },
+    {
+      "rank": 6,
+      "asin": "B09JT5SWQV",
+      "title": "Boiron StressCalm Tablets for Relief of Stress, Anxiousness, Nervousness, Irritability, and Fatigue - 120 Count",
+      "brand": "Boiron",
+      "price": 20.88,
+      "salesParent": 8966,
+      "revenue": 181382.17,
+      "rating": 4.3,
+      "reviews": 8124
+    },
+    {
+      "rank": 7,
+      "asin": "B078L3RQDM",
+      "title": "VitaMedica Arnica Montana 30X Rapid Dissolve Tablets - 30 Ct",
+      "brand": "VitaMedica",
+      "price": 16.95,
+      "salesParent": 9904,
+      "revenue": 167872.81,
+      "rating": 4.7,
+      "reviews": 2851
+    },
+    {
+      "rank": 8,
+      "asin": "B07KL345N2",
+      "title": "Boiron Arnica Montana 30C Homeopathic Medicine for Muscle Pain and Stiffness - Pack of 3 (240 Pellets)",
+      "brand": "Boiron",
+      "price": 15.5,
+      "salesParent": 6770,
+      "revenue": 105544.0,
+      "rating": 4.7,
+      "reviews": 5683
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 16,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 16,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 3893265,
+    "priorHeadRevenue": 3356742,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 4,
+      "pct": 4,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 87,
+      "brandCount": 21,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.56,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B07F4CPP7C",
+        "title": "Hyland's Restful Legs PM Tablets, Nighttime Formula so You Can Sleep, 50ct",
+        "rating": 4.3,
+        "reviews": 12671
+      },
+      {
+        "rank": 2,
+        "asin": "B013JKW8Z2",
+        "title": "Boiron Arnica Montana 30C Homeopathic Medicine for Relief from Muscle Pain, Muscle Stiffness, Swelling from Injury, and Discoloration from Bruises - 3 Count (240 Pellets)",
+        "rating": 4.6,
+        "reviews": 20371
+      },
+      {
+        "rank": 3,
+        "asin": "B08PFQTSKW",
+        "title": "Boiron Camilia Teething Drops for Daytime and Nighttime Relief of Painful or Swollen Gums and Irritability in Babies - 40 Liquid Droppers Bundled in 8 separate packs of 5",
+        "rating": 4.7,
+        "reviews": 28927
+      },
+      {
+        "rank": 4,
+        "asin": "B00I9GTE5Y",
+        "title": "VitaMedica Arnica Montana 30X Rapid Dissolve Arnica Tablets, 150 Ct",
+        "rating": 4.6,
+        "reviews": 5559
+      },
+      {
+        "rank": 5,
+        "asin": "B0C87B2487",
+        "title": "Boiron Camilia Drops 40 Count (Pack of 3) Relief of Painful or Swollen Gums and Irritability in Babies - for Daytime and Nighttime - Liquid Drop for Baby",
+        "rating": 4.8,
+        "reviews": 28927
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3760941:13052911:3767781",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

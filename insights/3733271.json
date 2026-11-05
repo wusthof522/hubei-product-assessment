@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3733271",
+  "level": "L4",
+  "categoryPathEn": "Home & Kitchen > Furniture > Bedroom Furniture > Bedroom Armoires",
+  "categoryPathCn": "家居用品 > 家具 > 家具卧室 > 衣柜",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 93,
+    "totalRevenue": 5642719,
+    "avgRevenue": 60674,
+    "medianPrice": 349.98,
+    "priceBand": "$254.49 - $563.88",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0DCYZRSSJ",
+      "title": "Metal Wardrobe Cabinet with 2 Drawers, 71&quot; Clothing Storage Cabinets",
+      "brand": "GAIOUS",
+      "price": 179.99,
+      "salesParent": 2354,
+      "revenue": 404793.84,
+      "rating": 4.3,
+      "reviews": 224
+    },
+    {
+      "rank": 2,
+      "asin": "B0HDNZ6643",
+      "title": "Metal Armoire Wardrobe Closet, Freestanding Clothing Storage Cabinet",
+      "brand": "GAIOUS",
+      "price": 305.99,
+      "salesParent": 1120,
+      "revenue": 360752.0,
+      "rating": 2.9,
+      "reviews": 4
+    },
+    {
+      "rank": 3,
+      "asin": "B0F9YNN9GC",
+      "title": "VOWNER 71&quot; Armoire Wardrobe Closet with Drawers and Mirror, 6 Doors",
+      "brand": "VOWNER",
+      "price": 390.0,
+      "salesParent": 597,
+      "revenue": 230698.7,
+      "rating": 4.5,
+      "reviews": 135
+    },
+    {
+      "rank": 4,
+      "asin": "B0G2RPX5R6",
+      "title": "Metal Armoire Wardrobe Closet with Drawers,Clothing Storage Cabinet with Doors and Shelves,Coat Closet with Hanging Rod,Bedroom,Home,Cloak Room,White-71 H x 32&quot; W x 18&quot; D",
+      "brand": "Letaya",
+      "price": 169.99,
+      "salesParent": 1070,
+      "revenue": 181889.31,
+      "rating": 4.1,
+      "reviews": 706
+    },
+    {
+      "rank": 5,
+      "asin": "B0FC27XQ9P",
+      "title": "VOWNER 71&quot;H Armoire Wardrobe Closet with 3 Drawers and Mirror",
+      "brand": "VOWNER",
+      "price": 287.0,
+      "salesParent": 594,
+      "revenue": 174249.91,
+      "rating": 4.3,
+      "reviews": 164
+    },
+    {
+      "rank": 6,
+      "asin": "B0FBWS3QJY",
+      "title": "Metal Armoire Wardrobe Closet, 71&quot; Clothing Storage Cabinet with Mirror",
+      "brand": "winiowa",
+      "price": 159.99,
+      "salesParent": 954,
+      "revenue": 142766.09,
+      "rating": 4.2,
+      "reviews": 321
+    },
+    {
+      "rank": 7,
+      "asin": "B0G72CX5H4",
+      "title": "Metal Armoire Wardrobe Closet, 71&quot; Tall Wardrobe Cabinet with 2 Doors",
+      "brand": "Polup",
+      "price": 156.74,
+      "salesParent": 726,
+      "revenue": 113234.22,
+      "rating": 4.2,
+      "reviews": 76
+    },
+    {
+      "rank": 8,
+      "asin": "B0DPLXH1KC",
+      "title": "VOWNER 71&quot; Tall Armoire Wardrobe Closet with Drawers and Mirror",
+      "brand": "VOWNER",
+      "price": 197.99,
+      "salesParent": 507,
+      "revenue": 101775.18,
+      "rating": 4.3,
+      "reviews": 436
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 37,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 37,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 5642719,
+    "priorHeadRevenue": 4117189,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 93,
+      "newCount": 68,
+      "pct": 73,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 42,
+      "brandCount": 56,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.19,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0DCYZRSSJ",
+        "title": "Metal Wardrobe Cabinet with 2 Drawers, 71&quot; Clothing Storage Cabinets",
+        "rating": 4.3,
+        "reviews": 224
+      },
+      {
+        "rank": 2,
+        "asin": "B0HDNZ6643",
+        "title": "Metal Armoire Wardrobe Closet, Freestanding Clothing Storage Cabinet",
+        "rating": 2.9,
+        "reviews": 4
+      },
+      {
+        "rank": 3,
+        "asin": "B0F9YNN9GC",
+        "title": "VOWNER 71&quot; Armoire Wardrobe Closet with Drawers and Mirror, 6 Doors",
+        "rating": 4.5,
+        "reviews": 135
+      },
+      {
+        "rank": 4,
+        "asin": "B0G2RPX5R6",
+        "title": "Metal Armoire Wardrobe Closet with Drawers,Clothing Storage Cabinet with Doors and Shelves,Coat Closet with Hanging Rod,Bedroom,Home,Cloak Room,White-71 H x 32&quot; W x 18&quot; D",
+        "rating": 4.1,
+        "reviews": 706
+      },
+      {
+        "rank": 5,
+        "asin": "B0FC27XQ9P",
+        "title": "VOWNER 71&quot;H Armoire Wardrobe Closet with 3 Drawers and Mirror",
+        "rating": 4.3,
+        "reviews": 164
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "1055398:1063306:1063308:3733271",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

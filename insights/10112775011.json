@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "10112775011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Household Supplies > Household Batteries > 3V",
+  "categoryPathCn": "健康与家居 > 家居用品 > 家用电池 > 3V",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 4553580,
+    "avgRevenue": 45536,
+    "medianPrice": 9.99,
+    "priceBand": "$7.12 - $19.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0002RID4G",
+      "title": "Energizer 2032 Batteries (6 Pack), 3V Lithium Coin Batteries",
+      "brand": "Energizer",
+      "price": 9.69,
+      "salesParent": 118726,
+      "revenue": 911815.69,
+      "rating": 4.8,
+      "reviews": 280543
+    },
+    {
+      "rank": 2,
+      "asin": "B085LW4XKQ",
+      "title": "Duracell CR123A 3V Lithium Battery, 6 Count, 10-Year Storage, High Power",
+      "brand": "DURACELL",
+      "price": 29.48,
+      "salesParent": 29130,
+      "revenue": 860208.94,
+      "rating": 4.8,
+      "reviews": 22470
+    },
+    {
+      "rank": 3,
+      "asin": "B098BQHB2G",
+      "title": "Duracell 2032 Lithium Battery, 8 Count, AirTag &amp; Key Fob, CR2032 3V Cell",
+      "brand": "DURACELL",
+      "price": 7.98,
+      "salesParent": 66047,
+      "revenue": 525073.62,
+      "rating": 4.8,
+      "reviews": 12143
+    },
+    {
+      "rank": 4,
+      "asin": "B0F28618FV",
+      "title": "CR2032 Batteries 24 Pack, Long Lasting Power for AirTag, Car Remote Key Fob, 3V Lithium Coin Cell Cr 2032 Battery",
+      "brand": "NICEBATT",
+      "price": 8.99,
+      "salesParent": 20503,
+      "revenue": 173660.42,
+      "rating": 4.5,
+      "reviews": 1078
+    },
+    {
+      "rank": 5,
+      "asin": "B096YWL7HM",
+      "title": "PGSONIC CR2450 3V Lithium Battery (5pcs)",
+      "brand": "PGSONIC",
+      "price": 6.49,
+      "salesParent": 25498,
+      "revenue": 165482.02,
+      "rating": 4.6,
+      "reviews": 22953
+    },
+    {
+      "rank": 6,
+      "asin": "B0DF4TJ83Q",
+      "title": "HW CR123A 3V Lithium Battery 6-Pack, 1700mAh High Capacity 123 Batteries",
+      "brand": "HW",
+      "price": 9.99,
+      "salesParent": 9659,
+      "revenue": 93692.3,
+      "rating": 4.6,
+      "reviews": 784
+    },
+    {
+      "rank": 7,
+      "asin": "B08QMW96W5",
+      "title": "Voniko CR123A 3V Lithium Battery (6 Pack), High Capacity 123 Batteries, 3 Volt CR17345 for Smoke Alarm, Flashlight, Home Automation",
+      "brand": "Voniko",
+      "price": 9.99,
+      "salesParent": 8181,
+      "revenue": 81728.19,
+      "rating": 4.5,
+      "reviews": 10127
+    },
+    {
+      "rank": 8,
+      "asin": "B0BVM18YR7",
+      "title": "DURNERGY CR123A Lithium Batteries 12 Pack 3 Volt 10 Year Shelf Life High Power 123A Battery Compatible with CR17345, CR17335",
+      "brand": "DURNERGY",
+      "price": 18.88,
+      "salesParent": 4125,
+      "revenue": 75363.75,
+      "rating": 4.5,
+      "reviews": 2608
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -24,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -24,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 4553580,
+    "priorHeadRevenue": 6005759,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 23,
+      "pct": 23,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 71,
+      "brandCount": 41,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.55,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0002RID4G",
+        "title": "Energizer 2032 Batteries (6 Pack), 3V Lithium Coin Batteries",
+        "rating": 4.8,
+        "reviews": 280543
+      },
+      {
+        "rank": 2,
+        "asin": "B085LW4XKQ",
+        "title": "Duracell CR123A 3V Lithium Battery, 6 Count, 10-Year Storage, High Power",
+        "rating": 4.8,
+        "reviews": 22470
+      },
+      {
+        "rank": 3,
+        "asin": "B098BQHB2G",
+        "title": "Duracell 2032 Lithium Battery, 8 Count, AirTag &amp; Key Fob, CR2032 3V Cell",
+        "rating": 4.8,
+        "reviews": 12143
+      },
+      {
+        "rank": 4,
+        "asin": "B0F28618FV",
+        "title": "CR2032 Batteries 24 Pack, Long Lasting Power for AirTag, Car Remote Key Fob, 3V Lithium Coin Cell Cr 2032 Battery",
+        "rating": 4.5,
+        "reviews": 1078
+      },
+      {
+        "rank": 5,
+        "asin": "B096YWL7HM",
+        "title": "PGSONIC CR2450 3V Lithium Battery (5pcs)",
+        "rating": 4.6,
+        "reviews": 22953
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:15342811:15745581:10112775011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

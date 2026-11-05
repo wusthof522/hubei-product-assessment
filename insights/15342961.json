@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "15342961",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Household Supplies > Laundry > Lint Removers",
+  "categoryPathCn": "健康与家居 > 家居用品 > 衣物清洁 > 毛球修剪器",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 6146791,
+    "avgRevenue": 62089,
+    "medianPrice": 15.99,
+    "priceBand": "$9.99 - $24.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0CBL9ZHBX",
+      "title": "Electrolux Rechargeable Fabric Shaver | 3-Speed Lint Remover for Clothes &amp; Furniture | Eliminates Fuzz &amp; Pilling | Electric Lint Shaver with LED Display &amp; Type-C Fast Charging Port - Blue",
+      "brand": "Electrolux",
+      "price": 35.99,
+      "salesParent": 19233,
+      "revenue": 692195.69,
+      "rating": 4.7,
+      "reviews": 3731
+    },
+    {
+      "rank": 2,
+      "asin": "B01NAQD0KD",
+      "title": "BEAUTURAL Fabric Shaver and Lint Remover, Portable Sweater Defuzzer",
+      "brand": "BEAUTURAL",
+      "price": 9.99,
+      "salesParent": 51758,
+      "revenue": 598322.5,
+      "rating": 4.5,
+      "reviews": 143857
+    },
+    {
+      "rank": 3,
+      "asin": "B0CJRM936N",
+      "title": "Fabric Shaver, Lint Remover Rechargeable, Electric Portable Sweater Defuzzer with 3 Speeds, 6 Leaf Blades, Digital LED Display to Remove Pilling for Clothes, Furniture, Sweater, Couch, Blanket",
+      "brand": "Peiyuu",
+      "price": 11.69,
+      "salesParent": 24480,
+      "revenue": 326318.41,
+      "rating": 4.6,
+      "reviews": 17561
+    },
+    {
+      "rank": 4,
+      "asin": "B07GV57JYJ",
+      "title": "PetLovers Extra Sticky Lint Roller Mega Value Set 450 Sheets for Pet Hair Removal and Clothes, Dog and Cat Lint Remover 5 Pack",
+      "brand": "PetLovers",
+      "price": 12.99,
+      "salesParent": 26404,
+      "revenue": 317640.12,
+      "rating": 4.6,
+      "reviews": 39472
+    },
+    {
+      "rank": 5,
+      "asin": "B07CZGVXKZ",
+      "title": "Evercare Pet Hair Lint Rollers All Purpose Use 100 Easy-Tear Sheets Per Roll Reusable Sticky Roller Pets Cat &amp; Dog Hair Remover Contoured Handle For Furniture Clothing &amp; Cars, Set of 3, Green",
+      "brand": "Evercare",
+      "price": 12.86,
+      "salesParent": 20718,
+      "revenue": 265397.59,
+      "rating": 4.6,
+      "reviews": 3243
+    },
+    {
+      "rank": 6,
+      "asin": "B0FCYJD8N6",
+      "title": "Fabric Shaver, Ziitty Lint Remover for Clothes, Type-C Rechargeable Lint Shaver with LCD Display &amp; 6-Blade, Sweater Shavers to Remove Pilling，Fuzz Remover Fabric Shaver for Clothing and Furniture",
+      "brand": "Ziitty",
+      "price": 19.99,
+      "salesParent": 9714,
+      "revenue": 194182.86,
+      "rating": 4.7,
+      "reviews": 2288
+    },
+    {
+      "rank": 7,
+      "asin": "B002DQ6EU4",
+      "title": "Scotch-Brite Everyday Clean Lint Roller, 475 Sheets Total,5 Pack",
+      "brand": "Scotch-Brite",
+      "price": 20.99,
+      "salesParent": 8327,
+      "revenue": 175283.34,
+      "rating": 4.6,
+      "reviews": 57312
+    },
+    {
+      "rank": 8,
+      "asin": "B008I25368",
+      "title": "Conair Fabric Shaver and Lint Remover, Battery-Operated Portable Clothes Shaver with 3 Settings, Fuzz Remover for Sweaters, Clothing and Furniture, Large 2-Inch Shaving Head, White",
+      "brand": "Conair",
+      "price": 8.99,
+      "salesParent": 14739,
+      "revenue": 132503.61,
+      "rating": 4.4,
+      "reviews": 94788
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 15,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 15,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 6146791,
+    "priorHeadRevenue": 5364798,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 26,
+      "pct": 26,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 42,
+      "brandCount": 67,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.46,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0CBL9ZHBX",
+        "title": "Electrolux Rechargeable Fabric Shaver | 3-Speed Lint Remover for Clothes &amp; Furniture | Eliminates Fuzz &amp; Pilling | Electric Lint Shaver with LED Display &amp; Type-C Fast Charging Port - Blue",
+        "rating": 4.7,
+        "reviews": 3731
+      },
+      {
+        "rank": 2,
+        "asin": "B01NAQD0KD",
+        "title": "BEAUTURAL Fabric Shaver and Lint Remover, Portable Sweater Defuzzer",
+        "rating": 4.5,
+        "reviews": 143857
+      },
+      {
+        "rank": 3,
+        "asin": "B0CJRM936N",
+        "title": "Fabric Shaver, Lint Remover Rechargeable, Electric Portable Sweater Defuzzer with 3 Speeds, 6 Leaf Blades, Digital LED Display to Remove Pilling for Clothes, Furniture, Sweater, Couch, Blanket",
+        "rating": 4.6,
+        "reviews": 17561
+      },
+      {
+        "rank": 4,
+        "asin": "B07GV57JYJ",
+        "title": "PetLovers Extra Sticky Lint Roller Mega Value Set 450 Sheets for Pet Hair Removal and Clothes, Dog and Cat Lint Remover 5 Pack",
+        "rating": 4.6,
+        "reviews": 39472
+      },
+      {
+        "rank": 5,
+        "asin": "B07CZGVXKZ",
+        "title": "Evercare Pet Hair Lint Rollers All Purpose Use 100 Easy-Tear Sheets Per Roll Reusable Sticky Roller Pets Cat &amp; Dog Hair Remover Contoured Handle For Furniture Clothing &amp; Cars, Set of 3, Green",
+        "rating": 4.6,
+        "reviews": 3243
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:15342811:15356111:15342961",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "18746931011",
+  "level": "L2",
+  "categoryPathEn": "Industrial & Scientific > Digital Signage",
+  "categoryPathCn": "工业类 > 数字标牌",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 2141539,
+    "avgRevenue": 21415,
+    "medianPrice": 282.0,
+    "priceBand": "$122.49 - $844.98",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0H1Q3T1T7",
+      "title": "Portable LED Display Wall Panel | P2.9 P3.91 P4.81 P6 3840Hz High Refresh Rate, IP65 Waterproof Aluminum Cabinet | Includes Frame &amp; Case for Stage Event Rental (24, P4.81, B：50*100cm(1.64ft*3.28ft))",
+      "brand": "MKORMK",
+      "price": 24990.0,
+      "salesParent": 18,
+      "revenue": 449820.0,
+      "rating": 5.0,
+      "reviews": 2
+    },
+    {
+      "rank": 2,
+      "asin": "B0864RNGZQ",
+      "title": "Samsung 65-Inch BE65T-H Pro TV | Commercial | Easy Digital Signage Software | 4K | HDMI | USB | TV Tuner | Speakers | 250 nits, Black",
+      "brand": "Samsung",
+      "price": 863.35,
+      "salesParent": 346,
+      "revenue": 297622.28,
+      "rating": 4.1,
+      "reviews": 592
+    },
+    {
+      "rank": 3,
+      "asin": "B08ZJRGRC2",
+      "title": "Antique Gold 65&quot; Deco TV Frame for Samsung The Frame/Pro TVs",
+      "brand": "Frame My TV",
+      "price": 699.0,
+      "salesParent": 155,
+      "revenue": 103549.3,
+      "rating": 4.8,
+      "reviews": 230
+    },
+    {
+      "rank": 4,
+      "asin": "B09LRF5KCJ",
+      "title": "OptiSigns OptiStick Digital Signage Player - Android-Based 4K UHD HDMI Stick, Quad Core, WiFi/Ethernet, Remote Screen Management",
+      "brand": "OptiSigns",
+      "price": 99.99,
+      "salesParent": 995,
+      "revenue": 99490.05,
+      "rating": 4.5,
+      "reviews": 236
+    },
+    {
+      "rank": 5,
+      "asin": "B0C6QM2L4Z",
+      "title": "Infomir MAG544w3 4K Linux Set-Top Box, Dual-Band Wi-Fi, HDR, HDMI 2.1",
+      "brand": "Infomir",
+      "price": 96.0,
+      "salesParent": 837,
+      "revenue": 80569.63,
+      "rating": 4.0,
+      "reviews": 477
+    },
+    {
+      "rank": 6,
+      "asin": "B0H2YRBMP2",
+      "title": "HelloBaby Official Baby Monitor Clip Mount for HB6550, 20&quot; Flexible Arm",
+      "brand": "HelloBaby",
+      "price": 19.99,
+      "salesParent": 1964,
+      "revenue": 39260.36,
+      "rating": 5.0,
+      "reviews": 5
+    },
+    {
+      "rank": 7,
+      "asin": "B0GY77HFL5",
+      "title": "80&quot; LED Digital Signage Display with Flight Case,P1.86 GOB LED Screen Poster,Foldable Spliceable Screen with Publishing System,WiFi/USB/HDMIfor Giant Commercial Events &amp; Rentals(Black, 2 Panel)",
+      "brand": "PULIJAZ",
+      "price": 5749.0,
+      "salesParent": 6,
+      "revenue": 34494.0,
+      "rating": 5.0,
+      "reviews": 1
+    },
+    {
+      "rank": 8,
+      "asin": "B0F1YC6SVG",
+      "title": "MOUNTUP Outdoor TV Mount Weatherproof for Most 42-75 Inch TVs, Fits for Gazebo and Patio, Anti Rust 37.9&quot; Long Arm Wall Mount Full Motion with Tilt &amp; Swivel, Max VESA 600x400mm and Up to 99 LBS",
+      "brand": "MOUNTUP",
+      "price": 129.99,
+      "salesParent": 250,
+      "revenue": 32497.5,
+      "rating": 4.7,
+      "reviews": 44
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 76,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 76,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 2141539,
+    "priorHeadRevenue": 1220073,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 43,
+      "pct": 44,
+      "unknownLaunch": 2,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 50,
+      "brandCount": 69,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.3,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0H1Q3T1T7",
+        "title": "Portable LED Display Wall Panel | P2.9 P3.91 P4.81 P6 3840Hz High Refresh Rate, IP65 Waterproof Aluminum Cabinet | Includes Frame &amp; Case for Stage Event Rental (24, P4.81, B：50*100cm(1.64ft*3.28ft))",
+        "rating": 5.0,
+        "reviews": 2
+      },
+      {
+        "rank": 2,
+        "asin": "B0864RNGZQ",
+        "title": "Samsung 65-Inch BE65T-H Pro TV | Commercial | Easy Digital Signage Software | 4K | HDMI | USB | TV Tuner | Speakers | 250 nits, Black",
+        "rating": 4.1,
+        "reviews": 592
+      },
+      {
+        "rank": 3,
+        "asin": "B08ZJRGRC2",
+        "title": "Antique Gold 65&quot; Deco TV Frame for Samsung The Frame/Pro TVs",
+        "rating": 4.8,
+        "reviews": 230
+      },
+      {
+        "rank": 4,
+        "asin": "B09LRF5KCJ",
+        "title": "OptiSigns OptiStick Digital Signage Player - Android-Based 4K UHD HDMI Stick, Quad Core, WiFi/Ethernet, Remote Screen Management",
+        "rating": 4.5,
+        "reviews": 236
+      },
+      {
+        "rank": 5,
+        "asin": "B0C6QM2L4Z",
+        "title": "Infomir MAG544w3 4K Linux Set-Top Box, Dual-Band Wi-Fi, HDR, HDMI 2.1",
+        "rating": 4.0,
+        "reviews": 477
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "16310091:18746931011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

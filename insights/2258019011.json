@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "2258019011",
+  "level": "L2",
+  "categoryPathEn": "Automotive > RV Parts & Accessories",
+  "categoryPathCn": "汽车 > 房车配件",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 93,
+    "totalRevenue": 27370543,
+    "avgRevenue": 294307,
+    "medianPrice": 186.99,
+    "priceBand": "$85.73 - $274.49",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0G2RLG2X1",
+      "title": "Travel Trailer RV Cover 14-16ft: 9-Layer Waterproof Camper Cover",
+      "brand": "Umbrauto",
+      "price": 319.99,
+      "salesParent": 4278,
+      "revenue": 1341794.62,
+      "rating": 4.3,
+      "reviews": 1380
+    },
+    {
+      "rank": 2,
+      "asin": "B08W2J578J",
+      "title": "5th Wheel Cover 28-31ft: Waterproof Fifth Wheel RV Cover, Camper Cover",
+      "brand": "Umbrauto",
+      "price": 287.96,
+      "salesParent": 4170,
+      "revenue": 1200793.12,
+      "rating": 4.4,
+      "reviews": 1379
+    },
+    {
+      "rank": 3,
+      "asin": "B0GS9RWPNM",
+      "title": "RV Cover 27-30ft: 9 Layers Travel Trailer Cover, Waterproof Camper Cover, Toy Hauler Cover with Tongue Jack Cover, Extra Windproof Ropes, Gutter Covers",
+      "brand": "Umbrauto",
+      "price": 184.98,
+      "salesParent": 4427,
+      "revenue": 963226.69,
+      "rating": 4.3,
+      "reviews": 1380
+    },
+    {
+      "rank": 4,
+      "asin": "B07K8NK525",
+      "title": "Camco Rhino 36-Gallon RV Tote Tank, (39006)",
+      "brand": "Camco",
+      "price": 297.65,
+      "salesParent": 2895,
+      "revenue": 861696.75,
+      "rating": 4.6,
+      "reviews": 27513
+    },
+    {
+      "rank": 5,
+      "asin": "B0FGGT4GV3",
+      "title": "WEWE Pull-Down Kitchen Faucet, 3-Mode Sprayer, Matte Gray, Stainless Steel",
+      "brand": "WEWE",
+      "price": 74.99,
+      "salesParent": 8909,
+      "revenue": 668085.88,
+      "rating": 4.4,
+      "reviews": 309
+    },
+    {
+      "rank": 6,
+      "asin": "B0GLLYV4QH",
+      "title": "MOFEEZ 5th Wheel RV Cover 37-41ft, 420D Oxford Fabric Fifth Wheel Cover",
+      "brand": "MOFEEZ",
+      "price": 286.99,
+      "salesParent": 2296,
+      "revenue": 641387.62,
+      "rating": 4.5,
+      "reviews": 3187
+    },
+    {
+      "rank": 7,
+      "asin": "B0GXYV36T1",
+      "title": "MOFEEZ 5th Wheel RV Cover 29-33ft, 9 Layers Top Fifth Wheel Camper Cover",
+      "brand": "MOFEEZ",
+      "price": 268.99,
+      "salesParent": 2317,
+      "revenue": 597299.44,
+      "rating": 4.5,
+      "reviews": 3190
+    },
+    {
+      "rank": 8,
+      "asin": "B0DQ52MT51",
+      "title": "Class A RV Cover 34-37ft, 420D Oxford Fabric Class A Motorhome Cover",
+      "brand": "MOFEEZ",
+      "price": 242.99,
+      "salesParent": 2090,
+      "revenue": 547015.75,
+      "rating": 4.5,
+      "reviews": 3191
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 7,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 7,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 27370543,
+    "priorHeadRevenue": 25574006,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 93,
+      "newCount": 28,
+      "pct": 30,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 49,
+      "brandCount": 57,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.43,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0G2RLG2X1",
+        "title": "Travel Trailer RV Cover 14-16ft: 9-Layer Waterproof Camper Cover",
+        "rating": 4.3,
+        "reviews": 1380
+      },
+      {
+        "rank": 2,
+        "asin": "B08W2J578J",
+        "title": "5th Wheel Cover 28-31ft: Waterproof Fifth Wheel RV Cover, Camper Cover",
+        "rating": 4.4,
+        "reviews": 1379
+      },
+      {
+        "rank": 3,
+        "asin": "B0GS9RWPNM",
+        "title": "RV Cover 27-30ft: 9 Layers Travel Trailer Cover, Waterproof Camper Cover, Toy Hauler Cover with Tongue Jack Cover, Extra Windproof Ropes, Gutter Covers",
+        "rating": 4.3,
+        "reviews": 1380
+      },
+      {
+        "rank": 4,
+        "asin": "B07K8NK525",
+        "title": "Camco Rhino 36-Gallon RV Tote Tank, (39006)",
+        "rating": 4.6,
+        "reviews": 27513
+      },
+      {
+        "rank": 5,
+        "asin": "B0FGGT4GV3",
+        "title": "WEWE Pull-Down Kitchen Faucet, 3-Mode Sprayer, Matte Gray, Stainless Steel",
+        "rating": 4.4,
+        "reviews": 309
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "15684181:2258019011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

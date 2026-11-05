@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23627239011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Toy Figures & Playsets > Buildings & Scenery > Castles",
+  "categoryPathCn": "玩具 > 玩具图 > 建筑物 > 城堡",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 26,
+    "totalRevenue": 80597,
+    "avgRevenue": 3100,
+    "medianPrice": 36.99,
+    "priceBand": "$23.91 - $68.03",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0CX4SSBTJ",
+      "title": "MAGNA-TILES Castle DLX 48-Piece Magnetic Construction Set, The Original Magnetic Building Brand",
+      "brand": "MAGNA-TILES",
+      "price": 67.99,
+      "salesParent": 842,
+      "revenue": 58156.94,
+      "rating": 4.8,
+      "reviews": 666
+    },
+    {
+      "rank": 2,
+      "asin": "B0H28MF927",
+      "title": "53&quot; X 65&quot; Pink Princess Cardboard Castle Playhouse Party Decoration",
+      "brand": "Xihaian",
+      "price": 28.99,
+      "salesParent": 169,
+      "revenue": 4787.77,
+      "rating": 3.3,
+      "reviews": 11
+    },
+    {
+      "rank": 3,
+      "asin": "B0H8THK6PH",
+      "title": "5.9 x 4.5 ft Christmas Gingerbread House Decor PP Playhouse",
+      "brand": "Thenshop",
+      "price": 49.99,
+      "salesParent": 70,
+      "revenue": 3017.7,
+      "rating": 5.0,
+      "reviews": 1
+    },
+    {
+      "rank": 4,
+      "asin": "B0H7JH9MXR",
+      "title": "Pink Mouse Party Decor Oh Twodles Pink Cardboard Castle Playhouse for Girls",
+      "brand": "OU RUI",
+      "price": 29.99,
+      "salesParent": 90,
+      "revenue": 2699.1,
+      "rating": 4.0,
+      "reviews": 1
+    },
+    {
+      "rank": 5,
+      "asin": "B0F8HVQ1YK",
+      "title": "Rolife Super Creator Series Accessroies, DIY Mini Flower Garden Scenery Kit, Miniature Dollhouse Castle Building Kit's Part, Sunny Break Terrace Gift for Kids Adults Women",
+      "brand": "Rolife",
+      "price": 18.99,
+      "salesParent": 98,
+      "revenue": 2122.68,
+      "rating": 4.8,
+      "reviews": 68
+    },
+    {
+      "rank": 6,
+      "asin": "B0DVWRKJTN",
+      "title": "Chuckle &amp; Roar Inflatable Air Castle Play Tent – 4.5 Ft Tall Indoor Inflatable Castle, No Poles Needed, Inflates with Box Fan (Not Included) – Pretend Play Fort for Kids Ages 3+",
+      "brand": "Chuckle &amp; Roar",
+      "price": 32.6,
+      "salesParent": 51,
+      "revenue": 1658.01,
+      "rating": 4.1,
+      "reviews": 64
+    },
+    {
+      "rank": 7,
+      "asin": "B08C4SZMP4",
+      "title": "Dragon Stars Series - Dragon Ball Super - World Martial Arts Tournament Stage",
+      "brand": "DRAGON STARS SERIES",
+      "price": 47.99,
+      "salesParent": 30,
+      "revenue": 1439.7,
+      "rating": 4.8,
+      "reviews": 1020
+    },
+    {
+      "rank": 8,
+      "asin": "B0HKGHMJMM",
+      "title": "Large Indoor Cardboard Castle Playhouse for Kids to Color &amp; Decorate",
+      "brand": "Faefold",
+      "price": 119.0,
+      "salesParent": 11,
+      "revenue": 1309.0,
+      "rating": null,
+      "reviews": null
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": null,
+    "direction": "flat",
+    "comparable": null,
+    "rawYoyPct": -37,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 80597,
+    "priorHeadRevenue": 128448,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 26,
+      "newCount": 18,
+      "pct": 69,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 88,
+      "brandCount": 25,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.19,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0CX4SSBTJ",
+        "title": "MAGNA-TILES Castle DLX 48-Piece Magnetic Construction Set, The Original Magnetic Building Brand",
+        "rating": 4.8,
+        "reviews": 666
+      },
+      {
+        "rank": 2,
+        "asin": "B0H28MF927",
+        "title": "53&quot; X 65&quot; Pink Princess Cardboard Castle Playhouse Party Decoration",
+        "rating": 3.3,
+        "reviews": 11
+      },
+      {
+        "rank": 3,
+        "asin": "B0H8THK6PH",
+        "title": "5.9 x 4.5 ft Christmas Gingerbread House Decor PP Playhouse",
+        "rating": 5.0,
+        "reviews": 1
+      },
+      {
+        "rank": 4,
+        "asin": "B0H7JH9MXR",
+        "title": "Pink Mouse Party Decor Oh Twodles Pink Cardboard Castle Playhouse for Girls",
+        "rating": 4.0,
+        "reviews": 1
+      },
+      {
+        "rank": 5,
+        "asin": "B0F8HVQ1YK",
+        "title": "Rolife Super Creator Series Accessroies, DIY Mini Flower Garden Scenery Kit, Miniature Dollhouse Castle Building Kit's Part, Sunny Break Terrace Gift for Kids Adults Women",
+        "rating": 4.8,
+        "reviews": 68
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:165993011:23627230011:23627239011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

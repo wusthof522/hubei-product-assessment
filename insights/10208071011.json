@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "10208071011",
+  "level": "L4",
+  "categoryPathEn": "Clothing, Shoes & Jewelry > Sport Specific Clothing > Ice Skating > Girls",
+  "categoryPathCn": "服装、鞋履和珠宝 > 运动专用服装 > 溜冰 > 女孩们",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 281719,
+    "avgRevenue": 2817,
+    "medianPrice": 59.99,
+    "priceBand": "$32.66 - $103.73",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0BWSFSZ9Z",
+      "title": "Padded Ice Skating Gloves Figure Skating Fall Protection Glove",
+      "brand": "CRS Cross",
+      "price": 24.99,
+      "salesParent": 1018,
+      "revenue": 25439.82,
+      "rating": 4.5,
+      "reviews": 178
+    },
+    {
+      "rank": 2,
+      "asin": "B0G13W89MN",
+      "title": "Figure Skating Dress Girl Sparkly Sequin Mock Neck Toddler Ice Skating Rhythmic Gymnastics Leotard with Chiffon Skirt",
+      "brand": "IBAKOM",
+      "price": 34.99,
+      "salesParent": 331,
+      "revenue": 11581.69,
+      "rating": 4.5,
+      "reviews": 54
+    },
+    {
+      "rank": 3,
+      "asin": "B0D6YRJ9NX",
+      "title": "Girl's Long Sleeved Purple Gradient Figure Skating Dress Elegant Figure Skating Skirt for Performance and Practice",
+      "brand": "JoyCan",
+      "price": 109.0,
+      "salesParent": 101,
+      "revenue": 11009.0,
+      "rating": 4.8,
+      "reviews": 35
+    },
+    {
+      "rank": 4,
+      "asin": "B08PD3VN5K",
+      "title": "Ice Figure Skating Pants Girls Practice Over Boots Pants Thin Fleece Tights Trousers Rhinestones Child Skate Leggings",
+      "brand": "LIUHUO",
+      "price": 35.0,
+      "salesParent": 295,
+      "revenue": 10325.0,
+      "rating": 4.8,
+      "reviews": 232
+    },
+    {
+      "rank": 5,
+      "asin": "B0FN7HXYY8",
+      "title": "LIUHUO Blue Ice Figure Skating Dress for Girls Women Backless Long-Sleeved Beaded Dresses…",
+      "brand": "LIUHUO",
+      "price": 99.98,
+      "salesParent": 103,
+      "revenue": 10297.94,
+      "rating": 4.5,
+      "reviews": 72
+    },
+    {
+      "rank": 6,
+      "asin": "B0F7K9JDNW",
+      "title": "LIUHUO Figure Skating Training Pants Jackets Girls Fleece Shiny Colored Diamond Girl Comfortable Warm Tracksuit",
+      "brand": "LIUHUO",
+      "price": 79.0,
+      "salesParent": 120,
+      "revenue": 9480.0,
+      "rating": 4.7,
+      "reviews": 31
+    },
+    {
+      "rank": 7,
+      "asin": "B0GKPCWQMQ",
+      "title": "LIUHUO Ice Figure Skating Dress Gradient Girls Competition Perform Women Hand Diamond Long Sleeves Elastic",
+      "brand": "LIUHUO",
+      "price": 149.0,
+      "salesParent": 59,
+      "revenue": 8791.0,
+      "rating": 3.6,
+      "reviews": 7
+    },
+    {
+      "rank": 8,
+      "asin": "B0CH8BLPR8",
+      "title": "Ramede 3 Pcs Figure Skating Tights Rhinestone for Girls Women",
+      "brand": "Ramede",
+      "price": 39.99,
+      "salesParent": 204,
+      "revenue": 8157.96,
+      "rating": 4.2,
+      "reviews": 107
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 4,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 4,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 281719,
+    "priorHeadRevenue": 269920,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 38,
+      "pct": 38,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 79,
+      "brandCount": 33,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.48,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0BWSFSZ9Z",
+        "title": "Padded Ice Skating Gloves Figure Skating Fall Protection Glove",
+        "rating": 4.5,
+        "reviews": 178
+      },
+      {
+        "rank": 2,
+        "asin": "B0G13W89MN",
+        "title": "Figure Skating Dress Girl Sparkly Sequin Mock Neck Toddler Ice Skating Rhythmic Gymnastics Leotard with Chiffon Skirt",
+        "rating": 4.5,
+        "reviews": 54
+      },
+      {
+        "rank": 3,
+        "asin": "B0D6YRJ9NX",
+        "title": "Girl's Long Sleeved Purple Gradient Figure Skating Dress Elegant Figure Skating Skirt for Performance and Practice",
+        "rating": 4.8,
+        "reviews": 35
+      },
+      {
+        "rank": 4,
+        "asin": "B08PD3VN5K",
+        "title": "Ice Figure Skating Pants Girls Practice Over Boots Pants Thin Fleece Tights Trousers Rhinestones Child Skate Leggings",
+        "rating": 4.8,
+        "reviews": 232
+      },
+      {
+        "rank": 5,
+        "asin": "B0FN7HXYY8",
+        "title": "LIUHUO Blue Ice Figure Skating Dress for Girls Women Backless Long-Sleeved Beaded Dresses…",
+        "rating": 4.5,
+        "reviews": 72
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "7141123011:23575629011:10208069011:10208071011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

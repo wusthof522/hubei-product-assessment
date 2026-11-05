@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "166306011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Learning & Education > Optics > Microscopes",
+  "categoryPathCn": "玩具 > 学习 > 光学元件 > 显微镜",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 2772198,
+    "avgRevenue": 27722,
+    "medianPrice": 31.48,
+    "priceBand": "$28.49 - $39.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0FFSSWTB6",
+      "title": "1000X Handheld Digital Microscope for Kids: Pocket Microscope with 2.0&quot; IPS Screen - STEM Toys Birthday Gifts for Girls Boys Child - Portable Edu Science Kits Toddler Age 3-6 6-12",
+      "brand": "BMDSAE",
+      "price": 29.99,
+      "salesParent": 19317,
+      "revenue": 559806.62,
+      "rating": 4.5,
+      "reviews": 1410
+    },
+    {
+      "rank": 2,
+      "asin": "B0GWF37P99",
+      "title": "4K 1000X Handheld Digital Microscope for Kids with 2.0&quot; IPS Screen(Blue)",
+      "brand": "ASPOVEN",
+      "price": 29.99,
+      "salesParent": 5568,
+      "revenue": 161026.56,
+      "rating": 4.4,
+      "reviews": 396
+    },
+    {
+      "rank": 3,
+      "asin": "B0D56Q3BFN",
+      "title": "Kids Microscope, 500X Digital Magnifying Glass, Explore STEM Toy, Purple",
+      "brand": "Ashfly",
+      "price": 26.99,
+      "salesParent": 6224,
+      "revenue": 155973.44,
+      "rating": 4.2,
+      "reviews": 2377
+    },
+    {
+      "rank": 4,
+      "asin": "B0D1BZLQMY",
+      "title": "Kids Digital Microscope STEM Toy: Complete Science Gift Kit for Ages 4-12",
+      "brand": "BEBANG",
+      "price": 38.49,
+      "salesParent": 3486,
+      "revenue": 135640.27,
+      "rating": 4.5,
+      "reviews": 2388
+    },
+    {
+      "rank": 5,
+      "asin": "B09ZDRP5DM",
+      "title": "National Geographic Microscope for Kids with Up to 400x Magnification",
+      "brand": "Blue Marble",
+      "price": 39.99,
+      "salesParent": 3479,
+      "revenue": 135020.0,
+      "rating": 4.6,
+      "reviews": 2850
+    },
+    {
+      "rank": 6,
+      "asin": "B0FCBKGG3Q",
+      "title": "1000X Digital Handheld Microscope for Kids Portable Outdoor Toys &amp; Gifts",
+      "brand": "Ashfly",
+      "price": 29.99,
+      "salesParent": 4183,
+      "revenue": 119591.97,
+      "rating": 4.4,
+      "reviews": 1362
+    },
+    {
+      "rank": 7,
+      "asin": "B0FH76F7CW",
+      "title": "4K 1000X Digital Microscope for Kids with 32G Card, Long Distance Viewing &amp; 2.4&quot; Screen Portable Handheld Edu Toys for Age 3-12 Exploring Bugs Plants at Home Classroom &amp; Outdoor Travel, Blue",
+      "brand": "Odatay",
+      "price": 34.17,
+      "salesParent": 2428,
+      "revenue": 103821.27,
+      "rating": 4.5,
+      "reviews": 778
+    },
+    {
+      "rank": 8,
+      "asin": "B0GK5NS4GV",
+      "title": "1000X Handheld Digital Microscope for Kids",
+      "brand": "ASPOVEN",
+      "price": 29.99,
+      "salesParent": 3213,
+      "revenue": 96357.87,
+      "rating": 4.4,
+      "reviews": 37
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 28,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 28,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 2772198,
+    "priorHeadRevenue": 2167310,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 76,
+      "pct": 76,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 53,
+      "brandCount": 65,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.5,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0FFSSWTB6",
+        "title": "1000X Handheld Digital Microscope for Kids: Pocket Microscope with 2.0&quot; IPS Screen - STEM Toys Birthday Gifts for Girls Boys Child - Portable Edu Science Kits Toddler Age 3-6 6-12",
+        "rating": 4.5,
+        "reviews": 1410
+      },
+      {
+        "rank": 2,
+        "asin": "B0GWF37P99",
+        "title": "4K 1000X Handheld Digital Microscope for Kids with 2.0&quot; IPS Screen(Blue)",
+        "rating": 4.4,
+        "reviews": 396
+      },
+      {
+        "rank": 3,
+        "asin": "B0D56Q3BFN",
+        "title": "Kids Microscope, 500X Digital Magnifying Glass, Explore STEM Toy, Purple",
+        "rating": 4.2,
+        "reviews": 2377
+      },
+      {
+        "rank": 4,
+        "asin": "B0D1BZLQMY",
+        "title": "Kids Digital Microscope STEM Toy: Complete Science Gift Kit for Ages 4-12",
+        "rating": 4.5,
+        "reviews": 2388
+      },
+      {
+        "rank": 5,
+        "asin": "B09ZDRP5DM",
+        "title": "National Geographic Microscope for Kids with Up to 400x Magnification",
+        "rating": 4.6,
+        "reviews": 2850
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:166269011:19318811011:166306011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "510240",
+  "level": "L2",
+  "categoryPathEn": "Home & Kitchen > Irons & Steamers",
+  "categoryPathCn": "家居用品 > 铁杆",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 73,
+    "totalRevenue": 23822327,
+    "avgRevenue": 326333,
+    "medianPrice": 53.99,
+    "priceBand": "$33.16 - $99.95",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B07V91437Y",
+      "title": "Conair Steamer for Clothes &amp; Upholstery, Handheld, 3 Attachments, White",
+      "brand": "Conair",
+      "price": 65.0,
+      "salesParent": 38396,
+      "revenue": 2573299.75,
+      "rating": 4.2,
+      "reviews": 25925
+    },
+    {
+      "rank": 2,
+      "asin": "B0FYF2X322",
+      "title": "OGHom Steamer for Clothes, 110-240V Travel Steamer &amp; Iron 2 in 1, 1000W Powerful Steam, Portable Handheld Garment Wrinkle Remover, 30s Fast Heat-Up with Dry &amp; 2-Steam Control, for Global &amp; Europe",
+      "brand": "OGHom",
+      "price": 35.99,
+      "salesParent": 49558,
+      "revenue": 1882212.88,
+      "rating": 4.3,
+      "reviews": 1766
+    },
+    {
+      "rank": 3,
+      "asin": "B0CF88RN17",
+      "title": "Jack ＆ Rose Travel Steamer for Clothes,100-240V Portable Iron,15s Heat Up,Steamer ＆ Iron 2 In 1, Travel Size,Large Ceramic Heat Panel,for Global and Europe",
+      "brand": "Jack &amp; Rose",
+      "price": 39.99,
+      "salesParent": 35789,
+      "revenue": 1619094.38,
+      "rating": 4.2,
+      "reviews": 5861
+    },
+    {
+      "rank": 4,
+      "asin": "B07HF3X6Y4",
+      "title": "HiLIFE Steamer for Clothes, Portable Handheld Clothing Steamer, 240ml Big Capacity, 700W, Strong Power, Fabric Quick Wrinkle Remover with Brush for Home, Office(ONLY 120V) -Blue",
+      "brand": "HiLIFE",
+      "price": 23.98,
+      "salesParent": 54129,
+      "revenue": 1348894.62,
+      "rating": 4.2,
+      "reviews": 131750
+    },
+    {
+      "rank": 5,
+      "asin": "B01NB05WI5",
+      "title": "BLACK+DECKER Easy Steam Compact Iron for Clothes, Automatic Shutoff, Nonstick Plate, Light Weight, 1200 Watts",
+      "brand": "BLACK+DECKER",
+      "price": 20.99,
+      "salesParent": 47231,
+      "revenue": 990906.38,
+      "rating": 4.3,
+      "reviews": 46108
+    },
+    {
+      "rank": 6,
+      "asin": "B08DZJX8L1",
+      "title": "Rowenta Focus Excel Steam Iron for Clothes, Anti-Drip Protection, Iron Steamer for Clothes, 1725 Watts, DW5280, Grey",
+      "brand": "Rowenta",
+      "price": 91.48,
+      "salesParent": 7806,
+      "revenue": 693094.75,
+      "rating": 4.3,
+      "reviews": 11596
+    },
+    {
+      "rank": 7,
+      "asin": "B0B9BKQ8S9",
+      "title": "OGHom Steamer for Clothes, Handheld Clothing Steamer for Garment, 240ml Big Capacity 700W Portable Travel Steam Iron (Only for 120V)",
+      "brand": "OGHom",
+      "price": 22.99,
+      "salesParent": 23331,
+      "revenue": 542679.06,
+      "rating": 4.3,
+      "reviews": 55247
+    },
+    {
+      "rank": 8,
+      "asin": "B0GKP29MLK",
+      "title": "Travel Steamer for Clothes,100-240V Travel Steamer &amp; Iron 2 in 1 with Fast Heat-Up,1200W Portable Handheld Garment Steamer,Travel Size,Large Heat Panel,Fabric Quick Wrinkle Remover for Global &amp; Europe",
+      "brand": "Reewit",
+      "price": 39.99,
+      "salesParent": 12996,
+      "revenue": 526987.81,
+      "rating": 4.6,
+      "reviews": 916
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -15,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -15,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 23822327,
+    "priorHeadRevenue": 27994815,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 73,
+      "newCount": 26,
+      "pct": 36,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 52,
+      "brandCount": 43,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.35,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B07V91437Y",
+        "title": "Conair Steamer for Clothes &amp; Upholstery, Handheld, 3 Attachments, White",
+        "rating": 4.2,
+        "reviews": 25925
+      },
+      {
+        "rank": 2,
+        "asin": "B0FYF2X322",
+        "title": "OGHom Steamer for Clothes, 110-240V Travel Steamer &amp; Iron 2 in 1, 1000W Powerful Steam, Portable Handheld Garment Wrinkle Remover, 30s Fast Heat-Up with Dry &amp; 2-Steam Control, for Global &amp; Europe",
+        "rating": 4.3,
+        "reviews": 1766
+      },
+      {
+        "rank": 3,
+        "asin": "B0CF88RN17",
+        "title": "Jack ＆ Rose Travel Steamer for Clothes,100-240V Portable Iron,15s Heat Up,Steamer ＆ Iron 2 In 1, Travel Size,Large Ceramic Heat Panel,for Global and Europe",
+        "rating": 4.2,
+        "reviews": 5861
+      },
+      {
+        "rank": 4,
+        "asin": "B07HF3X6Y4",
+        "title": "HiLIFE Steamer for Clothes, Portable Handheld Clothing Steamer, 240ml Big Capacity, 700W, Strong Power, Fabric Quick Wrinkle Remover with Brush for Home, Office(ONLY 120V) -Blue",
+        "rating": 4.2,
+        "reviews": 131750
+      },
+      {
+        "rank": 5,
+        "asin": "B01NB05WI5",
+        "title": "BLACK+DECKER Easy Steam Compact Iron for Clothes, Automatic Shutoff, Nonstick Plate, Light Weight, 1200 Watts",
+        "rating": 4.3,
+        "reviews": 46108
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "1055398:510240",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

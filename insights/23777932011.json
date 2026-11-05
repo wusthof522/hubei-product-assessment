@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23777932011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Vitamins, Minerals & Supplements > Herbal Supplements > Bacopa Monnieri",
+  "categoryPathCn": "健康与家居 > 身、泳和附剂 > 草本补充 > 假马齿苋",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 80,
+    "totalRevenue": 1222361,
+    "avgRevenue": 15280,
+    "medianPrice": 23.98,
+    "priceBand": "$17.11 - $29.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0DCWYJFPH",
+      "title": "Stonehenge Health Dynamic Brain | Bacopa Supplement for Memory and Focus",
+      "brand": "Stonehenge Health",
+      "price": 58.0,
+      "salesParent": 6889,
+      "revenue": 399562.0,
+      "rating": 4.3,
+      "reviews": 1810
+    },
+    {
+      "rank": 2,
+      "asin": "B0745KCWLC",
+      "title": "Neuro Health Brain Supplements for Memory and Focus - Nootropic Pills 90ct",
+      "brand": "Natures Craft",
+      "price": 26.99,
+      "salesParent": 9674,
+      "revenue": 259940.39,
+      "rating": 4.3,
+      "reviews": 22811
+    },
+    {
+      "rank": 3,
+      "asin": "B0006NZPGA",
+      "title": "Himalaya USDA Organic Bacopa Monnieri Supplement,750 mg,60 Caplets",
+      "brand": "Himalaya",
+      "price": 25.99,
+      "salesParent": 4724,
+      "revenue": 122776.76,
+      "rating": 4.5,
+      "reviews": 5566
+    },
+    {
+      "rank": 4,
+      "asin": "B07TKBTW3J",
+      "title": "Advanced Memory Formula | NeuroFactor &amp; Bacopa Memory Support | 60 Tablets",
+      "brand": "Advanced Bionutritionals",
+      "price": 54.95,
+      "salesParent": 862,
+      "revenue": 47366.9,
+      "rating": 4.3,
+      "reviews": 1005
+    },
+    {
+      "rank": 5,
+      "asin": "B07RP44QPT",
+      "title": "Vital Vitamins Brain Booster Supplements for Memory and Focus, 30 Capsules",
+      "brand": "Vital Vitamins",
+      "price": 22.95,
+      "salesParent": 2035,
+      "revenue": 46703.25,
+      "rating": 4.0,
+      "reviews": 42018
+    },
+    {
+      "rank": 6,
+      "asin": "B09CX59Q91",
+      "title": "Nutricost Bacopa Monnieri 1,000mg, 120 Capsules, 60 Servings, Gluten Free",
+      "brand": "Nutricost",
+      "price": 16.95,
+      "salesParent": 2000,
+      "revenue": 33900.0,
+      "rating": 4.4,
+      "reviews": 610
+    },
+    {
+      "rank": 7,
+      "asin": "B0CJCQNHKL",
+      "title": "JoySpring Sulforaphane for Kids, BrainyBrocc Broccoli Seed Drops, 30 Ct",
+      "brand": "JoySpring",
+      "price": 29.99,
+      "salesParent": 1122,
+      "revenue": 33648.78,
+      "rating": 4.4,
+      "reviews": 464
+    },
+    {
+      "rank": 8,
+      "asin": "B0G2JF4MSK",
+      "title": "Zazzee USDA Organic Bacopa 30:1 Extract, 50% Bacosides, 120 Vegan Capsules",
+      "brand": "Zazzee",
+      "price": 22.97,
+      "salesParent": 1061,
+      "revenue": 24371.17,
+      "rating": 4.6,
+      "reviews": 200
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -16,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -16,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1222361,
+    "priorHeadRevenue": 1457480,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 80,
+      "newCount": 27,
+      "pct": 34,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 74,
+      "brandCount": 66,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.42,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0DCWYJFPH",
+        "title": "Stonehenge Health Dynamic Brain | Bacopa Supplement for Memory and Focus",
+        "rating": 4.3,
+        "reviews": 1810
+      },
+      {
+        "rank": 2,
+        "asin": "B0745KCWLC",
+        "title": "Neuro Health Brain Supplements for Memory and Focus - Nootropic Pills 90ct",
+        "rating": 4.3,
+        "reviews": 22811
+      },
+      {
+        "rank": 3,
+        "asin": "B0006NZPGA",
+        "title": "Himalaya USDA Organic Bacopa Monnieri Supplement,750 mg,60 Caplets",
+        "rating": 4.5,
+        "reviews": 5566
+      },
+      {
+        "rank": 4,
+        "asin": "B07TKBTW3J",
+        "title": "Advanced Memory Formula | NeuroFactor &amp; Bacopa Memory Support | 60 Tablets",
+        "rating": 4.3,
+        "reviews": 1005
+      },
+      {
+        "rank": 5,
+        "asin": "B07RP44QPT",
+        "title": "Vital Vitamins Brain Booster Supplements for Memory and Focus, 30 Capsules",
+        "rating": 4.0,
+        "reviews": 42018
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:23675621011:3764461:23777932011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

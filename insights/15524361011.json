@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "15524361011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Household Supplies > Cleaning Tools > Cleaning Cloths",
+  "categoryPathCn": "健康与家居 > 家居用品 > 清洁工具 > 清洁布",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 97,
+    "totalRevenue": 8620357,
+    "avgRevenue": 88870,
+    "medianPrice": 19.99,
+    "priceBand": "$13.24 - $29.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0HDB2VY6J",
+      "title": "HOMEXCEL Yellow Microfiber Cleaning Cloth, 24 Pack Premium Microfiber Towels for Cars, Lint Free, Highly Absorbent, Reusable Cleaning Rags for Car, Household, Kitchen, Window, 11.5&quot;X11.5&quot;",
+      "brand": "HOMEXCEL",
+      "price": 19.98,
+      "salesParent": 60844,
+      "revenue": 1215663.12,
+      "rating": 4.5,
+      "reviews": 51744
+    },
+    {
+      "rank": 2,
+      "asin": "B07HRCDDL1",
+      "title": "MR.SIGA Microfiber Cleaning Cloths, Streak Free Microfiber Towels, 12 Pack",
+      "brand": "MR.SIGA",
+      "price": 13.5,
+      "salesParent": 62329,
+      "revenue": 868866.25,
+      "rating": 4.7,
+      "reviews": 105513
+    },
+    {
+      "rank": 3,
+      "asin": "B098D79MQB",
+      "title": "HOMEXCEL 12PK Microfiber Cleaning Cloth, Cleaning Rag for Home, 11.5x11.5in",
+      "brand": "HOMEXCEL",
+      "price": 5.99,
+      "salesParent": 64369,
+      "revenue": 473112.16,
+      "rating": 4.5,
+      "reviews": 51702
+    },
+    {
+      "rank": 4,
+      "asin": "B0B27JSN71",
+      "title": "Fantasticlean Microfiber Cleaning Cloth Roll -75 Pack, 12&quot; x 12&quot; (Pink)",
+      "brand": "Fantasticlean",
+      "price": 25.99,
+      "salesParent": 17745,
+      "revenue": 461192.53,
+      "rating": 4.8,
+      "reviews": 6162
+    },
+    {
+      "rank": 5,
+      "asin": "B084WHPZYM",
+      "title": "S&amp;T INC. Microfiber Cleaning Cloth, 150 Pack, 11.5&quot; x 11.5&quot;",
+      "brand": "S&amp;T INC.",
+      "price": 37.79,
+      "salesParent": 6013,
+      "revenue": 220797.38,
+      "rating": 4.6,
+      "reviews": 26940
+    },
+    {
+      "rank": 6,
+      "asin": "B083DMY62F",
+      "title": "Microfiber Cleaning Cloth - Pack of 50, Microfiber Towels for Cars 16 x 12 in, Highly Absorbent Cleaning Rags, Lint-Free, Streak-Free Cleaning Cloths for Car Kitchen Home Office",
+      "brand": "FIXSMITH",
+      "price": 19.79,
+      "salesParent": 8694,
+      "revenue": 173706.11,
+      "rating": 4.4,
+      "reviews": 22724
+    },
+    {
+      "rank": 7,
+      "asin": "B09X17377F",
+      "title": "JOYMOOP Microfiber Cleaning Cloth, 18 Piece Set, Small, Multi Color",
+      "brand": "JOYMOOP",
+      "price": 19.99,
+      "salesParent": 9327,
+      "revenue": 169191.78,
+      "rating": 4.7,
+      "reviews": 5403
+    },
+    {
+      "rank": 8,
+      "asin": "B07J3BLQPM",
+      "title": "Simpli-Magic Cotton Shop Towels 14&quot;x12&quot; (145 Pack) – Reusable Cleaning Shop Rags for Automobiles, Industries, Garage and Homes (White)",
+      "brand": "SIMPLI-MAGIC",
+      "price": 36.98,
+      "salesParent": 4032,
+      "revenue": 149103.36,
+      "rating": 4.4,
+      "reviews": 3712
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 11,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 11,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 8620357,
+    "priorHeadRevenue": 7741869,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 97,
+      "newCount": 20,
+      "pct": 21,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 50,
+      "brandCount": 64,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.47,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0HDB2VY6J",
+        "title": "HOMEXCEL Yellow Microfiber Cleaning Cloth, 24 Pack Premium Microfiber Towels for Cars, Lint Free, Highly Absorbent, Reusable Cleaning Rags for Car, Household, Kitchen, Window, 11.5&quot;X11.5&quot;",
+        "rating": 4.5,
+        "reviews": 51744
+      },
+      {
+        "rank": 2,
+        "asin": "B07HRCDDL1",
+        "title": "MR.SIGA Microfiber Cleaning Cloths, Streak Free Microfiber Towels, 12 Pack",
+        "rating": 4.7,
+        "reviews": 105513
+      },
+      {
+        "rank": 3,
+        "asin": "B098D79MQB",
+        "title": "HOMEXCEL 12PK Microfiber Cleaning Cloth, Cleaning Rag for Home, 11.5x11.5in",
+        "rating": 4.5,
+        "reviews": 51702
+      },
+      {
+        "rank": 4,
+        "asin": "B0B27JSN71",
+        "title": "Fantasticlean Microfiber Cleaning Cloth Roll -75 Pack, 12&quot; x 12&quot; (Pink)",
+        "rating": 4.8,
+        "reviews": 6162
+      },
+      {
+        "rank": 5,
+        "asin": "B084WHPZYM",
+        "title": "S&amp;T INC. Microfiber Cleaning Cloth, 150 Pack, 11.5&quot; x 11.5&quot;",
+        "rating": 4.6,
+        "reviews": 26940
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:15342811:15342831:15524361011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

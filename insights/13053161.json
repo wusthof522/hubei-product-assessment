@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "13053161",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Health Care > Alternative Medicine > Manipulation Therapies",
+  "categoryPathCn": "健康与家居 > 卫生保健 > 替代药物 > 推拿疗法",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 21,
+    "totalRevenue": 754,
+    "avgRevenue": 36,
+    "medianPrice": 27.71,
+    "priceBand": "$10.64 - $86.62",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B00EFBCDAA",
+      "title": "Überlube Travel Lube Latex-Safe Natural Silicone Lube for Sex with Vitamin E Unscented Flavorless Zero Residue Works Underwater - 15ml Silver Good-to-Go Traveler + 2 Refills (45ml Total)",
+      "brand": "Uberlube",
+      "price": 36.0,
+      "salesParent": 8,
+      "revenue": 288.0,
+      "rating": 4.7,
+      "reviews": 1809
+    },
+    {
+      "rank": 2,
+      "asin": "B01A9F5PGO",
+      "title": "Glass Fire Cupping Jars Thick Glass Cupping Set 4 Sizes Vacuum cupping glass Fire Cupping Jars with Finger Grips (#6)",
+      "brand": "Royal Massage",
+      "price": 27.71,
+      "salesParent": 7,
+      "revenue": 193.97,
+      "rating": 4.5,
+      "reviews": 41
+    },
+    {
+      "rank": 3,
+      "asin": "B0DQD7Y9LT",
+      "title": "lasenersm 2 Pieces Fire Cupping Stick Metal Vacuum Cupping Rod Cupping Ignition Rod Vacuum Cupping Torch Fire Cupping Torch Fire Supplies with Handle, Red",
+      "brand": "lasenersm",
+      "price": 9.99,
+      "salesParent": 18,
+      "revenue": 179.82,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "rank": 4,
+      "asin": "B0DZTVWSLJ",
+      "title": "Hemoton Handheld Vacuum Cupping Pump Tool Manual Cupping Therapy Supply for Home Use Vacuum Pump for Massage and Relief Two Color Design",
+      "brand": "Hemoton",
+      "price": 9.59,
+      "salesParent": 9,
+      "revenue": 91.8,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "rank": 5,
+      "asin": "B003Z3AR5C",
+      "title": "Portable Deluxe Therapy Kit",
+      "brand": "AliMed",
+      "price": 74.25,
+      "salesParent": 0,
+      "revenue": 0.0,
+      "rating": 4.8,
+      "reviews": 2
+    },
+    {
+      "rank": 6,
+      "asin": "B00KLLG36I",
+      "title": "Dherbs Female Inhaler, 1 Milliliters",
+      "brand": "Dherbs",
+      "price": 23.94,
+      "salesParent": 0,
+      "revenue": 0.0,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "rank": 7,
+      "asin": "B00ODC9T3U",
+      "title": "Spoonk Acupressure Eco Mat, Cherry Red - Combo Regular &amp; Travel Mat - Back &amp; Neck Massager - Great Travel Pillow - Stress &amp; Muscle Relief - Sleep Aid - Relaxation Kit - Made with Organic Hemp…",
+      "brand": "Spoonk",
+      "price": 150.0,
+      "salesParent": 0,
+      "revenue": 0.0,
+      "rating": 3.6,
+      "reviews": 26
+    },
+    {
+      "rank": 8,
+      "asin": "B00ODC9T4O",
+      "title": "Spoonk Acupressure Eco Mat, Sage - Regular &amp; Travel Mat - Back &amp; Neck Massager - Great Travel Pillow - Stress &amp; Muscle Relief - Sleep Aid - Relaxation Kit - Made with Organic Hemp",
+      "brand": "Spoonk",
+      "price": 99.0,
+      "salesParent": 0,
+      "revenue": 0.0,
+      "rating": 4.4,
+      "reviews": 16
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": null,
+    "direction": "flat",
+    "comparable": null,
+    "rawYoyPct": -79,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 754,
+    "priorHeadRevenue": 3600,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 21,
+      "newCount": 6,
+      "pct": 29,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 100,
+      "brandCount": 18,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.37,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B00EFBCDAA",
+        "title": "Überlube Travel Lube Latex-Safe Natural Silicone Lube for Sex with Vitamin E Unscented Flavorless Zero Residue Works Underwater - 15ml Silver Good-to-Go Traveler + 2 Refills (45ml Total)",
+        "rating": 4.7,
+        "reviews": 1809
+      },
+      {
+        "rank": 2,
+        "asin": "B01A9F5PGO",
+        "title": "Glass Fire Cupping Jars Thick Glass Cupping Set 4 Sizes Vacuum cupping glass Fire Cupping Jars with Finger Grips (#6)",
+        "rating": 4.5,
+        "reviews": 41
+      },
+      {
+        "rank": 3,
+        "asin": "B0DQD7Y9LT",
+        "title": "lasenersm 2 Pieces Fire Cupping Stick Metal Vacuum Cupping Rod Cupping Ignition Rod Vacuum Cupping Torch Fire Cupping Torch Fire Supplies with Handle, Red",
+        "rating": null,
+        "reviews": null
+      },
+      {
+        "rank": 4,
+        "asin": "B0DZTVWSLJ",
+        "title": "Hemoton Handheld Vacuum Cupping Pump Tool Manual Cupping Therapy Supply for Home Use Vacuum Pump for Massage and Relief Two Color Design",
+        "rating": null,
+        "reviews": null
+      },
+      {
+        "rank": 5,
+        "asin": "B003Z3AR5C",
+        "title": "Portable Deluxe Therapy Kit",
+        "rating": 4.8,
+        "reviews": 2
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3760941:13052911:13053161",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

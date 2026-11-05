@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "15243733011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Oral Care > Toothbrushes & Accessories > Toothbrush Travel Containers",
+  "categoryPathCn": "Health & Household > Oral Care > Toothbrushes & Accessories > Toothbrush Travel Containers",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 98,
+    "totalRevenue": 1510050,
+    "avgRevenue": 15409,
+    "medianPrice": 9.98,
+    "priceBand": "$6.97 - $15.24",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0873WSPQ5",
+      "title": "Steripod Clip-On Toothbrush Protector, Pink/Blue, 2 Count",
+      "brand": "Steripod",
+      "price": 5.83,
+      "salesParent": 29470,
+      "revenue": 175935.89,
+      "rating": 4.7,
+      "reviews": 23470
+    },
+    {
+      "rank": 2,
+      "asin": "B09JRTFMH2",
+      "title": "UV-C Toothbrush Sanitizer and Holder – Wall Mounted, Rechargeable, 30-Day Battery, Magnetic Mount, Fits Electric and Manual Brushes, Portable Travel Case, Auto-Shutoff – White",
+      "brand": "Bril",
+      "price": 27.99,
+      "salesParent": 5137,
+      "revenue": 147123.67,
+      "rating": 4.2,
+      "reviews": 6829
+    },
+    {
+      "rank": 3,
+      "asin": "B094QW9FV8",
+      "title": "Mspan Toothbrush Head Cover Cap: Toothbrush Protector Brush Pod Case Protective Plastic Clip Bathroom Cool Stuff for Household Travel",
+      "brand": "Mspan",
+      "price": 6.99,
+      "salesParent": 17624,
+      "revenue": 123191.76,
+      "rating": 4.7,
+      "reviews": 24081
+    },
+    {
+      "rank": 4,
+      "asin": "B0CX9J8S1L",
+      "title": "UV-C Toothbrush Sanitizer and Holder, Travel Case Cover Cap",
+      "brand": "Mondano",
+      "price": 26.99,
+      "salesParent": 3847,
+      "revenue": 103830.53,
+      "rating": 4.4,
+      "reviews": 1105
+    },
+    {
+      "rank": 5,
+      "asin": "B08748KKSB",
+      "title": "Steripod Clip-On Toothbrush Protector, Multicolor, 4 Count",
+      "brand": "Steripod",
+      "price": 9.9,
+      "salesParent": 6886,
+      "revenue": 68860.0,
+      "rating": 4.8,
+      "reviews": 9546
+    },
+    {
+      "rank": 6,
+      "asin": "B0DCJJY2SG",
+      "title": "Aluminum Toothbrush Travel Case, Portable Travel Toothbrush Holder, Durable Manual Toothbrush Box Container for Traveling, Bathroom, Camping, Business Trip-1Pack Silver",
+      "brand": "Oralphi",
+      "price": 9.99,
+      "salesParent": 6683,
+      "revenue": 50790.8,
+      "rating": 4.6,
+      "reviews": 2204
+    },
+    {
+      "rank": 7,
+      "asin": "B0FF9S3CNL",
+      "title": "Toothbrush Covers Caps, Clip-On Toothbrush Protector for Household Travel",
+      "brand": "Frekare",
+      "price": 5.94,
+      "salesParent": 6704,
+      "revenue": 45721.28,
+      "rating": 4.6,
+      "reviews": 841
+    },
+    {
+      "rank": 8,
+      "asin": "B0CNH9N1C5",
+      "title": "GuruNanda Brush Pods Manual &amp; Electric Toothbrush Covers, 4 ct",
+      "brand": "GuruNanda",
+      "price": 4.99,
+      "salesParent": 7839,
+      "revenue": 39116.61,
+      "rating": 4.6,
+      "reviews": 3705
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 7,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 7,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 1510050,
+    "priorHeadRevenue": 1411581,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 98,
+      "newCount": 32,
+      "pct": 33,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 54,
+      "brandCount": 79,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.47,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0873WSPQ5",
+        "title": "Steripod Clip-On Toothbrush Protector, Pink/Blue, 2 Count",
+        "rating": 4.7,
+        "reviews": 23470
+      },
+      {
+        "rank": 2,
+        "asin": "B09JRTFMH2",
+        "title": "UV-C Toothbrush Sanitizer and Holder – Wall Mounted, Rechargeable, 30-Day Battery, Magnetic Mount, Fits Electric and Manual Brushes, Portable Travel Case, Auto-Shutoff – White",
+        "rating": 4.2,
+        "reviews": 6829
+      },
+      {
+        "rank": 3,
+        "asin": "B094QW9FV8",
+        "title": "Mspan Toothbrush Head Cover Cap: Toothbrush Protector Brush Pod Case Protective Plastic Clip Bathroom Cool Stuff for Household Travel",
+        "rating": 4.7,
+        "reviews": 24081
+      },
+      {
+        "rank": 4,
+        "asin": "B0CX9J8S1L",
+        "title": "UV-C Toothbrush Sanitizer and Holder, Travel Case Cover Cap",
+        "rating": 4.4,
+        "reviews": 1105
+      },
+      {
+        "rank": 5,
+        "asin": "B08748KKSB",
+        "title": "Steripod Clip-On Toothbrush Protector, Multicolor, 4 Count",
+        "rating": 4.8,
+        "reviews": 9546
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:10079992011:18065341011:15243733011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

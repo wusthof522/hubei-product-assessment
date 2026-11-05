@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "2489384011",
+  "level": "L4",
+  "categoryPathEn": "Toys & Games > Party Supplies > Decorations > Banners",
+  "categoryPathCn": "Toys & Games > Party Supplies > Decorations > Banners",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 94,
+    "totalRevenue": 2171469,
+    "avgRevenue": 23101,
+    "medianPrice": 13.99,
+    "priceBand": "$9.96 - $18.49",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0DKDSZBN4",
+      "title": "CANREVEL 3 PCS Pre-Strung 3D Happy Birthday Banner Decorations, Rainbow",
+      "brand": "CANREVEL",
+      "price": 19.99,
+      "salesParent": 6052,
+      "revenue": 115411.64,
+      "rating": 4.8,
+      "reviews": 586
+    },
+    {
+      "rank": 2,
+      "asin": "B0CK6HGKQ4",
+      "title": "Birthday Decorations Happy Birthday Banner with Honeycomb Balls",
+      "brand": "meowtastic",
+      "price": 11.99,
+      "salesParent": 7419,
+      "revenue": 87395.82,
+      "rating": 4.6,
+      "reviews": 3437
+    },
+    {
+      "rank": 3,
+      "asin": "B0DKNRMVKW",
+      "title": "116 PCS A-Z DIY Letter Custom Banner Birthday Party Decor",
+      "brand": "BEISHIDA",
+      "price": 9.15,
+      "salesParent": 8609,
+      "revenue": 78772.34,
+      "rating": 4.6,
+      "reviews": 900
+    },
+    {
+      "rank": 4,
+      "asin": "B0CRYMMC16",
+      "title": "18 FT Cinco De Mayo Party Decorations, 1 Pack Fiesta Banner with 9 Plastic Papel Picado, Colorful Mexican Theme Party Flag Banner Dia De Los Muertos Day of the Dead Hanging Decor Home Party Supplies",
+      "brand": "Heartome",
+      "price": 5.99,
+      "salesParent": 13528,
+      "revenue": 62228.8,
+      "rating": 4.7,
+      "reviews": 1469
+    },
+    {
+      "rank": 5,
+      "asin": "B074QLKJ2W",
+      "title": "4PCS Halloween Decorations Bloody Banners: Horror Party Garland Decor",
+      "brand": "Moon Boat",
+      "price": 14.99,
+      "salesParent": 4460,
+      "revenue": 59764.0,
+      "rating": 4.4,
+      "reviews": 5281
+    },
+    {
+      "rank": 6,
+      "asin": "B07V228P3Y",
+      "title": "Mexican Party Decoration, 18 FT Plastic Papel Picado Fiesta Banner",
+      "brand": "DomeStar",
+      "price": 5.99,
+      "salesParent": 9507,
+      "revenue": 55045.53,
+      "rating": 4.7,
+      "reviews": 4054
+    },
+    {
+      "rank": 7,
+      "asin": "B0FKBJSMFG",
+      "title": "TaoBary Spider Theme 5th Birthday Banner Swinging into 5,Multicolor",
+      "brand": "TaoBary",
+      "price": 13.99,
+      "salesParent": 3667,
+      "revenue": 51301.33,
+      "rating": 4.8,
+      "reviews": 573
+    },
+    {
+      "rank": 8,
+      "asin": "B0D2WVYK9F",
+      "title": "Happy Birthday Banner NO DIY Birthday Sign Blue",
+      "brand": "KINGLAKE GARDEN",
+      "price": 6.99,
+      "salesParent": 6676,
+      "revenue": 46665.24,
+      "rating": 4.8,
+      "reviews": 862
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 1,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 1,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 2171469,
+    "priorHeadRevenue": 2142916,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 94,
+      "newCount": 33,
+      "pct": 35,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 21,
+      "brandCount": 77,
+      "level": "分散",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.65,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0DKDSZBN4",
+        "title": "CANREVEL 3 PCS Pre-Strung 3D Happy Birthday Banner Decorations, Rainbow",
+        "rating": 4.8,
+        "reviews": 586
+      },
+      {
+        "rank": 2,
+        "asin": "B0CK6HGKQ4",
+        "title": "Birthday Decorations Happy Birthday Banner with Honeycomb Balls",
+        "rating": 4.6,
+        "reviews": 3437
+      },
+      {
+        "rank": 3,
+        "asin": "B0DKNRMVKW",
+        "title": "116 PCS A-Z DIY Letter Custom Banner Birthday Party Decor",
+        "rating": 4.6,
+        "reviews": 900
+      },
+      {
+        "rank": 4,
+        "asin": "B0CRYMMC16",
+        "title": "18 FT Cinco De Mayo Party Decorations, 1 Pack Fiesta Banner with 9 Plastic Papel Picado, Colorful Mexican Theme Party Flag Banner Dia De Los Muertos Day of the Dead Hanging Decor Home Party Supplies",
+        "rating": 4.7,
+        "reviews": 1469
+      },
+      {
+        "rank": 5,
+        "asin": "B074QLKJ2W",
+        "title": "4PCS Halloween Decorations Bloody Banners: Horror Party Garland Decor",
+        "rating": 4.4,
+        "reviews": 5281
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "165793011:1266203011:274320011:2489384011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

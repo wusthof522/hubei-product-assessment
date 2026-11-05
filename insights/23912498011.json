@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "23912498011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Oral Care > Toothbrushes & Accessories > Toothbrush Sanitizers",
+  "categoryPathCn": "健康与家居 > 口腔护理 > 牙刷 > 牙刷消毒剂",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 49,
+    "totalRevenue": 161620,
+    "avgRevenue": 3298,
+    "medianPrice": 23.99,
+    "priceBand": "$18.97 - $34.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0H4RSLHGJ",
+      "title": "Made By Dentists PRO-X UV Toothbrush Sanitizer Clip - 5-Minute UV-C Cycle, 30-Day Battery, Universal Fit for Manual &amp; Electric Toothbrushes, TSA-Friendly, Portable, White",
+      "brand": "Made by Dentists",
+      "price": 34.99,
+      "salesParent": 2139,
+      "revenue": 74843.62,
+      "rating": 4.7,
+      "reviews": 67
+    },
+    {
+      "rank": 2,
+      "asin": "B0FJDQ9J3G",
+      "title": "Jetfresh UV Toothbrush Sanitizer and Holder with Fan Drying | Wall Mounted UV-C Toothbrush Cleaner | Tooth Brush Sanitizer Holder Auto Shut-Off, USB Rechargeable, Fits All Brushes.",
+      "brand": "JetFresh",
+      "price": 27.99,
+      "salesParent": 800,
+      "revenue": 22392.0,
+      "rating": 4.4,
+      "reviews": 201
+    },
+    {
+      "rank": 3,
+      "asin": "B0DP2414WD",
+      "title": "iHave Toothbrush Sanitizer Wall Mount, Portable UV Toothbrush Holder Travel",
+      "brand": "iHave",
+      "price": 16.99,
+      "salesParent": 908,
+      "revenue": 15317.96,
+      "rating": 4.1,
+      "reviews": 965
+    },
+    {
+      "rank": 4,
+      "asin": "B0H392SJGS",
+      "title": "POPCHOSE Toothbrush Sanitizer Holder with Dual-Mode UV &amp; Heated Drying",
+      "brand": "POPCHOSE",
+      "price": 29.99,
+      "salesParent": 326,
+      "revenue": 9424.66,
+      "rating": 4.3,
+      "reviews": 39
+    },
+    {
+      "rank": 5,
+      "asin": "B0DY81GRWJ",
+      "title": "Jetfresh UV Toothbrush Sanitizer Holder &amp; Cleaner with LED Clock Display, Fan Drying &amp; Heating | Wall-Mounted &amp; Portable Toothbrush Sanitizer and Holder Case for Bathroom &amp; Travel. Fits All Brushes.",
+      "brand": "JetFresh",
+      "price": 22.99,
+      "salesParent": 413,
+      "revenue": 9119.04,
+      "rating": 4.0,
+      "reviews": 174
+    },
+    {
+      "rank": 6,
+      "asin": "B084T7K3WS",
+      "title": "TAO Clean Germ Shield UV Toothbrush Sanitizer – Universal Cleaning Station that Accommodates all Manual and Electric Toothbrushes, Travel Friendly, Kills 99.9% of Germs",
+      "brand": "Tao Clean",
+      "price": 69.0,
+      "salesParent": 129,
+      "revenue": 8901.0,
+      "rating": 3.9,
+      "reviews": 817
+    },
+    {
+      "rank": 7,
+      "asin": "B0FWC7BTGR",
+      "title": "iHave Toothbrush Sanitizer Portable Travel Case for Electric Toothbrushes",
+      "brand": "iHave",
+      "price": 13.99,
+      "salesParent": 183,
+      "revenue": 3008.52,
+      "rating": 4.0,
+      "reviews": 100
+    },
+    {
+      "rank": 8,
+      "asin": "B0B2KH8LFT",
+      "title": "Steripod UV Countertop Toothbrush Sanitizer, Holds 4 Brushes",
+      "brand": "Steripod",
+      "price": 24.33,
+      "salesParent": 108,
+      "revenue": 2688.12,
+      "rating": 3.7,
+      "reviews": 129
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 161,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 161,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 161620,
+    "priorHeadRevenue": 61995,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 49,
+      "newCount": 18,
+      "pct": 37,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 91,
+      "brandCount": 33,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.08,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0H4RSLHGJ",
+        "title": "Made By Dentists PRO-X UV Toothbrush Sanitizer Clip - 5-Minute UV-C Cycle, 30-Day Battery, Universal Fit for Manual &amp; Electric Toothbrushes, TSA-Friendly, Portable, White",
+        "rating": 4.7,
+        "reviews": 67
+      },
+      {
+        "rank": 2,
+        "asin": "B0FJDQ9J3G",
+        "title": "Jetfresh UV Toothbrush Sanitizer and Holder with Fan Drying | Wall Mounted UV-C Toothbrush Cleaner | Tooth Brush Sanitizer Holder Auto Shut-Off, USB Rechargeable, Fits All Brushes.",
+        "rating": 4.4,
+        "reviews": 201
+      },
+      {
+        "rank": 3,
+        "asin": "B0DP2414WD",
+        "title": "iHave Toothbrush Sanitizer Wall Mount, Portable UV Toothbrush Holder Travel",
+        "rating": 4.1,
+        "reviews": 965
+      },
+      {
+        "rank": 4,
+        "asin": "B0H392SJGS",
+        "title": "POPCHOSE Toothbrush Sanitizer Holder with Dual-Mode UV &amp; Heated Drying",
+        "rating": 4.3,
+        "reviews": 39
+      },
+      {
+        "rank": 5,
+        "asin": "B0DY81GRWJ",
+        "title": "Jetfresh UV Toothbrush Sanitizer Holder &amp; Cleaner with LED Clock Display, Fan Drying &amp; Heating | Wall-Mounted &amp; Portable Toothbrush Sanitizer and Holder Case for Bathroom &amp; Travel. Fits All Brushes.",
+        "rating": 4.0,
+        "reviews": 174
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:10079992011:18065341011:23912498011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "18116205011",
+  "level": "L2",
+  "categoryPathEn": "Appliances > Garbage Disposals & Compactors",
+  "categoryPathCn": "家电 > 垃圾处理机",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 85,
+    "totalRevenue": 60393,
+    "avgRevenue": 711,
+    "medianPrice": 41.99,
+    "priceBand": "$34.04 - $68.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B06XQ2YLK4",
+      "title": "YARDMAX YC0850 1850 lb. Compaction Force Plate Compactor, 2.5 hp, 79cc, 5900 BPM",
+      "brand": "YARDMAX",
+      "price": 399.0,
+      "salesParent": 31,
+      "revenue": 12369.0,
+      "rating": 4.3,
+      "reviews": 200
+    },
+    {
+      "rank": 2,
+      "asin": "B00ZIAWPF0",
+      "title": "Multiquip MVC88VTHW Honda GX160 Plate Compactor with Water Tank, 20&quot; Wide",
+      "brand": "Multiquip",
+      "price": 2989.76,
+      "salesParent": 3,
+      "revenue": 9029.7,
+      "rating": 5.0,
+      "reviews": 2
+    },
+    {
+      "rank": 3,
+      "asin": "B002S4LH08",
+      "title": "Vestil MTC-55 Steel Mechanical Trash Compactor 55 Gallon 7000 Lb. Compacting Force Blue",
+      "brand": "Vestil",
+      "price": 1234.98,
+      "salesParent": 6,
+      "revenue": 7344.3,
+      "rating": null,
+      "reviews": null
+    },
+    {
+      "rank": 4,
+      "asin": "B0FF9M2RSL",
+      "title": "Trash Compactor for Kitchen All-Metal Manual Trash Can with No Electric",
+      "brand": "AMENER",
+      "price": 27.98,
+      "salesParent": 185,
+      "revenue": 5067.15,
+      "rating": 4.5,
+      "reviews": 95
+    },
+    {
+      "rank": 5,
+      "asin": "B0CC3V4ZZ4",
+      "title": "Handheld Trash Compactor – Compress Garbage to Make More Room in Your Trash Can – Reusable Kitchen Trash Tamper with Wide 6&quot; x 10&quot; Head, Built-In Hook &amp; Dishwasher-Safe Design",
+      "brand": "Waste Smasher",
+      "price": 28.04,
+      "salesParent": 126,
+      "revenue": 3553.2,
+      "rating": 4.4,
+      "reviews": 186
+    },
+    {
+      "rank": 6,
+      "asin": "B0DF6T581H",
+      "title": "Manual Trash Compactor, Waste Recycling Hand Tool for Outdoor Use, Touchless Bin Compactor for 120-660L Wheelie Bins, Iron Compacting Trash Can",
+      "brand": "BINGOX",
+      "price": 39.99,
+      "salesParent": 51,
+      "revenue": 2097.12,
+      "rating": 3.7,
+      "reviews": 52
+    },
+    {
+      "rank": 7,
+      "asin": "B09ZRVD9M6",
+      "title": "Rattleware 33.9-Inch Stainless Steel Trash Compactor Masher with Handle",
+      "brand": "Rattleware",
+      "price": 72.8,
+      "salesParent": 26,
+      "revenue": 1892.8,
+      "rating": 4.0,
+      "reviews": 6
+    },
+    {
+      "rank": 8,
+      "asin": "B0FXGBPQW8",
+      "title": "NEWRTY Manual Trash Compactor Plus for 360L Wheelie Bin, Adjustable Depth",
+      "brand": "NEWTRY",
+      "price": 69.99,
+      "salesParent": 26,
+      "revenue": 1819.74,
+      "rating": 3.0,
+      "reviews": 10
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -17,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -17,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 60393,
+    "priorHeadRevenue": 72470,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 85,
+      "newCount": 45,
+      "pct": 53,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 62,
+      "brandCount": 68,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 3.69,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B06XQ2YLK4",
+        "title": "YARDMAX YC0850 1850 lb. Compaction Force Plate Compactor, 2.5 hp, 79cc, 5900 BPM",
+        "rating": 4.3,
+        "reviews": 200
+      },
+      {
+        "rank": 2,
+        "asin": "B00ZIAWPF0",
+        "title": "Multiquip MVC88VTHW Honda GX160 Plate Compactor with Water Tank, 20&quot; Wide",
+        "rating": 5.0,
+        "reviews": 2
+      },
+      {
+        "rank": 3,
+        "asin": "B002S4LH08",
+        "title": "Vestil MTC-55 Steel Mechanical Trash Compactor 55 Gallon 7000 Lb. Compacting Force Blue",
+        "rating": null,
+        "reviews": null
+      },
+      {
+        "rank": 4,
+        "asin": "B0FF9M2RSL",
+        "title": "Trash Compactor for Kitchen All-Metal Manual Trash Can with No Electric",
+        "rating": 4.5,
+        "reviews": 95
+      },
+      {
+        "rank": 5,
+        "asin": "B0CC3V4ZZ4",
+        "title": "Handheld Trash Compactor – Compress Garbage to Make More Room in Your Trash Can – Reusable Kitchen Trash Tamper with Wide 6&quot; x 10&quot; Head, Built-In Hook &amp; Dishwasher-Safe Design",
+        "rating": 4.4,
+        "reviews": 186
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "2619525011:18116205011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

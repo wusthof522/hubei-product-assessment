@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "8622211011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Health Care > Diabetes Care > Socks & Insoles",
+  "categoryPathCn": "健康与家居 > 卫生保健 > 糖尿病护理 > 糖尿病袜",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 3670757,
+    "avgRevenue": 37078,
+    "medianPrice": 17.49,
+    "priceBand": "$14.89 - $19.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B08P2D1R7K",
+      "title": "Dr. Scholl's Men's Diabetic &amp; Circulatory Non-Binding Cushioned Socks",
+      "brand": "Dr. Scholl's",
+      "price": 12.98,
+      "salesParent": 18215,
+      "revenue": 232605.56,
+      "rating": 4.5,
+      "reviews": 1772
+    },
+    {
+      "rank": 2,
+      "asin": "B07MXQVZY1",
+      "title": "Doctor's Choice Diabetic Crew Socks for Men, Non-Binding Top, 4 Pairs",
+      "brand": "Doctor's Choice",
+      "price": 21.99,
+      "salesParent": 9865,
+      "revenue": 216931.34,
+      "rating": 4.6,
+      "reviews": 15945
+    },
+    {
+      "rank": 3,
+      "asin": "B0F2N6G5XH",
+      "title": "Pembrook® Cable Knit Bamboo Viscose Diabetic Socks for Women - 6 Pairs",
+      "brand": "Pembrook",
+      "price": 19.95,
+      "salesParent": 6195,
+      "revenue": 120183.0,
+      "rating": 4.6,
+      "reviews": 1826
+    },
+    {
+      "rank": 4,
+      "asin": "B0BPJYPFDS",
+      "title": "Diabetic Crew Socks Men &amp; Women, 12 Pairs, Non-Binding",
+      "brand": "Special Essentials",
+      "price": 24.99,
+      "salesParent": 4693,
+      "revenue": 117278.07,
+      "rating": 4.5,
+      "reviews": 8224
+    },
+    {
+      "rank": 5,
+      "asin": "B093LMD99W",
+      "title": "Dr. Scholl's Women's Diabetic &amp; Circulatory Non-Binding Flat-Knit Socks",
+      "brand": "Dr. Scholl's",
+      "price": 12.97,
+      "salesParent": 6808,
+      "revenue": 88299.77,
+      "rating": 4.4,
+      "reviews": 692
+    },
+    {
+      "rank": 6,
+      "asin": "B0FB97VVWM",
+      "title": "Cirorld Bamboo Viscose Diabetic Ankle Socks for Women, Non Binding Wide Top",
+      "brand": "Cirorld",
+      "price": 12.99,
+      "salesParent": 6737,
+      "revenue": 81719.81,
+      "rating": 4.4,
+      "reviews": 1875
+    },
+    {
+      "rank": 7,
+      "asin": "B0BBKN7FGB",
+      "title": "Pembrook® Bamboo Viscose Ankle Diabetic Socks for Women &amp; Men - 6 Pairs",
+      "brand": "Pembrook",
+      "price": 19.95,
+      "salesParent": 3863,
+      "revenue": 77066.85,
+      "rating": 4.6,
+      "reviews": 6212
+    },
+    {
+      "rank": 8,
+      "asin": "B093BMR16W",
+      "title": "Pembrook® Ankle Diabetic Socks for Women &amp; Men, Non Binding Socks - 6 Pairs",
+      "brand": "Pembrook",
+      "price": 19.95,
+      "salesParent": 3990,
+      "revenue": 74134.2,
+      "rating": 4.5,
+      "reviews": 9599
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 3,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 3,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 3670757,
+    "priorHeadRevenue": 3571955,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 19,
+      "pct": 19,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 50,
+      "brandCount": 38,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.46,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B08P2D1R7K",
+        "title": "Dr. Scholl's Men's Diabetic &amp; Circulatory Non-Binding Cushioned Socks",
+        "rating": 4.5,
+        "reviews": 1772
+      },
+      {
+        "rank": 2,
+        "asin": "B07MXQVZY1",
+        "title": "Doctor's Choice Diabetic Crew Socks for Men, Non-Binding Top, 4 Pairs",
+        "rating": 4.6,
+        "reviews": 15945
+      },
+      {
+        "rank": 3,
+        "asin": "B0F2N6G5XH",
+        "title": "Pembrook® Cable Knit Bamboo Viscose Diabetic Socks for Women - 6 Pairs",
+        "rating": 4.6,
+        "reviews": 1826
+      },
+      {
+        "rank": 4,
+        "asin": "B0BPJYPFDS",
+        "title": "Diabetic Crew Socks Men &amp; Women, 12 Pairs, Non-Binding",
+        "rating": 4.5,
+        "reviews": 8224
+      },
+      {
+        "rank": 5,
+        "asin": "B093LMD99W",
+        "title": "Dr. Scholl's Women's Diabetic &amp; Circulatory Non-Binding Flat-Knit Socks",
+        "rating": 4.4,
+        "reviews": 692
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:3760941:3761401:8622211011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

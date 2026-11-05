@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "15524339011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Household Supplies > Household Cleaning > Septic Treatments",
+  "categoryPathCn": "健康与家居 > 家居用品 > 家庭清洁剂 > 便池处理",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 3334212,
+    "avgRevenue": 33342,
+    "medianPrice": 42.48,
+    "priceBand": "$19.99 - $86.0",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B071WMZCFC",
+      "title": "Septic Tank Treatment Pods - 1 Year Supply (12 Count) - Made in USA",
+      "brand": "SEPTIC TREATMENT BY CABIN OBSESSION",
+      "price": 23.96,
+      "salesParent": 16321,
+      "revenue": 391051.16,
+      "rating": 4.7,
+      "reviews": 26312
+    },
+    {
+      "rank": 2,
+      "asin": "B08KFRKFNK",
+      "title": "Green Gobbler Septic Tank Treatment Packets, 12 Month Supply - Powerful Natural Bacterial &amp; Enzymes to Prevent Costly Septic Issues, Back-Ups, Foul Odor",
+      "brand": "Green Gobbler",
+      "price": 23.98,
+      "salesParent": 17679,
+      "revenue": 390352.31,
+      "rating": 4.7,
+      "reviews": 39964
+    },
+    {
+      "rank": 3,
+      "asin": "B001N09KN4",
+      "title": "Bio-Clean Drain Septic 2# Can Cleans Drains- Septic Tanks - Grease Traps All Natural and 100% Guaranteed No Caustic Chemicals! Removes fats Oil and Grease, Completely Cleans Your System.",
+      "brand": "Bio-Clean",
+      "price": 49.95,
+      "salesParent": 6461,
+      "revenue": 322016.25,
+      "rating": 4.4,
+      "reviews": 9626
+    },
+    {
+      "rank": 4,
+      "asin": "B0057UUHGK",
+      "title": "Rid-X Septic Tank Treatment, 3.2 Ounce",
+      "brand": "Rid-X",
+      "price": 13.99,
+      "salesParent": 22310,
+      "revenue": 313455.5,
+      "rating": 4.8,
+      "reviews": 17267
+    },
+    {
+      "rank": 5,
+      "asin": "B09G4DBM9V",
+      "title": "Dr. Pooper Septic Drain Field Cleaner Tablets – 20 Count, 10 Month Supply",
+      "brand": "Accelerator by Dr. Pooper",
+      "price": 59.97,
+      "salesParent": 4984,
+      "revenue": 298890.5,
+      "rating": 4.4,
+      "reviews": 5885
+    },
+    {
+      "rank": 6,
+      "asin": "B0C24VY5PJ",
+      "title": "Septic Tank System Treatment Pods - 12 Dissolving Packets | Enzyme-Producing Live Bacteria Solution | 1 Year Supply Professional Eco-Friendly Maintenance | Prevent Clogs, Odor &amp; Backups | Made in USA",
+      "brand": "ACTIVE",
+      "price": 24.95,
+      "salesParent": 6529,
+      "revenue": 162898.56,
+      "rating": 4.7,
+      "reviews": 5386
+    },
+    {
+      "rank": 7,
+      "asin": "B0DJRV3H5J",
+      "title": "Dr. Pooper Drain Field Cleaner Tablets – 2-Pack, Septic Tank &amp; Drain Field",
+      "brand": "Accelerator by Dr. Pooper",
+      "price": 99.97,
+      "salesParent": 935,
+      "revenue": 93471.95,
+      "rating": 4.5,
+      "reviews": 588
+    },
+    {
+      "rank": 8,
+      "asin": "B000BQWKUQ",
+      "title": "Roebic K-77 Granular Tree Root Killer for Sewer Lines, 32 oz",
+      "brand": "Roebic",
+      "price": 21.95,
+      "salesParent": 4264,
+      "revenue": 89586.64,
+      "rating": 4.4,
+      "reviews": 6286
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 6,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 6,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 3334212,
+    "priorHeadRevenue": 3152913,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 19,
+      "pct": 19,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 63,
+      "brandCount": 58,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.49,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B071WMZCFC",
+        "title": "Septic Tank Treatment Pods - 1 Year Supply (12 Count) - Made in USA",
+        "rating": 4.7,
+        "reviews": 26312
+      },
+      {
+        "rank": 2,
+        "asin": "B08KFRKFNK",
+        "title": "Green Gobbler Septic Tank Treatment Packets, 12 Month Supply - Powerful Natural Bacterial &amp; Enzymes to Prevent Costly Septic Issues, Back-Ups, Foul Odor",
+        "rating": 4.7,
+        "reviews": 39964
+      },
+      {
+        "rank": 3,
+        "asin": "B001N09KN4",
+        "title": "Bio-Clean Drain Septic 2# Can Cleans Drains- Septic Tanks - Grease Traps All Natural and 100% Guaranteed No Caustic Chemicals! Removes fats Oil and Grease, Completely Cleans Your System.",
+        "rating": 4.4,
+        "reviews": 9626
+      },
+      {
+        "rank": 4,
+        "asin": "B0057UUHGK",
+        "title": "Rid-X Septic Tank Treatment, 3.2 Ounce",
+        "rating": 4.8,
+        "reviews": 17267
+      },
+      {
+        "rank": 5,
+        "asin": "B09G4DBM9V",
+        "title": "Dr. Pooper Septic Drain Field Cleaner Tablets – 20 Count, 10 Month Supply",
+        "rating": 4.4,
+        "reviews": 5885
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:15342811:15342821:15524339011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "553788",
+  "level": "L2",
+  "categoryPathEn": "Patio, Lawn & Garden > Outdoor Décor",
+  "categoryPathCn": "庭院、草坪和园艺 > 彩绘装饰",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 27905419,
+    "avgRevenue": 279054,
+    "medianPrice": 39.99,
+    "priceBand": "$25.49 - $79.74",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B07YCSNLDG",
+      "title": "ZPISF 1400 sqft Halloween Spider Webs Decorations with 150 Extra Fake Spiders, Super Stretchy Cobwebs for Halloween Decor Indoor and Outdoor",
+      "brand": "ZPISF",
+      "price": 15.99,
+      "salesParent": 53798,
+      "revenue": 898426.62,
+      "rating": 4.6,
+      "reviews": 4793
+    },
+    {
+      "rank": 2,
+      "asin": "B07HMRZSWT",
+      "title": "1000 sqft Spider Webs Halloween Decorations with 30 Fake Spiders",
+      "brand": "ZPISF",
+      "price": 14.49,
+      "salesParent": 54547,
+      "revenue": 755476.0,
+      "rating": 4.5,
+      "reviews": 5401
+    },
+    {
+      "rank": 3,
+      "asin": "B097MP3R3Y",
+      "title": "5.9FT Skeleton Halloween Full Size, Life Size Skeleton with Posable Joints",
+      "brand": "CAMIRUS",
+      "price": 41.99,
+      "salesParent": 14066,
+      "revenue": 636345.88,
+      "rating": 4.5,
+      "reviews": 2536
+    },
+    {
+      "rank": 4,
+      "asin": "B0CSDF3YFB",
+      "title": "BEQHAUSE Dirt Trapper Door Mat 20&quot; x 32&quot;, Non-Slip Washable Doormats, Beige",
+      "brand": "BEQHAUSE",
+      "price": 17.99,
+      "salesParent": 34847,
+      "revenue": 626897.5,
+      "rating": 4.6,
+      "reviews": 4219
+    },
+    {
+      "rank": 5,
+      "asin": "B0H1W18KGL",
+      "title": "5FT Halloween Swinging Ghost Outdoor Decor,Spooky Hanging Ghost Decorations",
+      "brand": "CYSKXYI",
+      "price": 35.99,
+      "salesParent": 16968,
+      "revenue": 612884.12,
+      "rating": 3.9,
+      "reviews": 99
+    },
+    {
+      "rank": 6,
+      "asin": "B01HMWWLCI",
+      "title": "American Flag Made in USA | American Flags for Outside 3X5 | Premium US Flag 3X5 Heavy Duty Outdoor with Embroidered Stars and Sewn Stripes.FMAA Certified",
+      "brand": "Rushmore Rose USA",
+      "price": 39.98,
+      "salesParent": 15912,
+      "revenue": 604019.5,
+      "rating": 4.6,
+      "reviews": 38897
+    },
+    {
+      "rank": 7,
+      "asin": "B000WQZCQO",
+      "title": "Little Giant APCP-1700 1/3 HP, 1745 GPH Automatic Pool Cover Pump, 25' Cord",
+      "brand": "Little Giant",
+      "price": 155.99,
+      "salesParent": 3964,
+      "revenue": 594639.62,
+      "rating": 4.5,
+      "reviews": 5672
+    },
+    {
+      "rank": 8,
+      "asin": "B01N5TEHLI",
+      "title": "Ambient Weather WS-2902 Wi-Fi Smart Weather Station",
+      "brand": "Ambient Weather",
+      "price": 199.99,
+      "salesParent": 2844,
+      "revenue": 568771.56,
+      "rating": 4.4,
+      "reviews": 13169
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 8,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 8,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 27905419,
+    "priorHeadRevenue": 25728791,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 28,
+      "pct": 28,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 29,
+      "brandCount": 70,
+      "level": "分散",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.39,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B07YCSNLDG",
+        "title": "ZPISF 1400 sqft Halloween Spider Webs Decorations with 150 Extra Fake Spiders, Super Stretchy Cobwebs for Halloween Decor Indoor and Outdoor",
+        "rating": 4.6,
+        "reviews": 4793
+      },
+      {
+        "rank": 2,
+        "asin": "B07HMRZSWT",
+        "title": "1000 sqft Spider Webs Halloween Decorations with 30 Fake Spiders",
+        "rating": 4.5,
+        "reviews": 5401
+      },
+      {
+        "rank": 3,
+        "asin": "B097MP3R3Y",
+        "title": "5.9FT Skeleton Halloween Full Size, Life Size Skeleton with Posable Joints",
+        "rating": 4.5,
+        "reviews": 2536
+      },
+      {
+        "rank": 4,
+        "asin": "B0CSDF3YFB",
+        "title": "BEQHAUSE Dirt Trapper Door Mat 20&quot; x 32&quot;, Non-Slip Washable Doormats, Beige",
+        "rating": 4.6,
+        "reviews": 4219
+      },
+      {
+        "rank": 5,
+        "asin": "B0H1W18KGL",
+        "title": "5FT Halloween Swinging Ghost Outdoor Decor,Spooky Hanging Ghost Decorations",
+        "rating": 3.9,
+        "reviews": 99
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "2972638011:553788",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

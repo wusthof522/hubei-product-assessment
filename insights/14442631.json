@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "14442631",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Wellness & Relaxation > Massage Tools & Equipment > Massage Oils",
+  "categoryPathCn": "健康与家居 > 保健生活用品 > 按摩工具和设备 > 按摩精油",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 100,
+    "totalRevenue": 4035376,
+    "avgRevenue": 40354,
+    "medianPrice": 21.97,
+    "priceBand": "$15.26 - $32.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0H5RQ5HNR",
+      "title": "Handcraft Blends Fractionated Coconut Oil - 64 Fl Oz",
+      "brand": "Handcraft Blends",
+      "price": 29.99,
+      "salesParent": 27159,
+      "revenue": 814498.38,
+      "rating": 4.6,
+      "reviews": 490
+    },
+    {
+      "rank": 2,
+      "asin": "B076DSBHD1",
+      "title": "Firming Body Oil, Cellulite Massage Oil for Legs and Body, 8 fl oz by M3",
+      "brand": "M3 Naturals",
+      "price": 24.81,
+      "salesParent": 27782,
+      "revenue": 689271.38,
+      "rating": 4.3,
+      "reviews": 68943
+    },
+    {
+      "rank": 3,
+      "asin": "B07HQ4Q4GY",
+      "title": "Majestic Pure Arnica Sore Muscle Massage Oil for Massage Therapy - 8 Fl Oz",
+      "brand": "Majestic Pure",
+      "price": 13.49,
+      "salesParent": 24042,
+      "revenue": 324326.56,
+      "rating": 4.5,
+      "reviews": 38428
+    },
+    {
+      "rank": 4,
+      "asin": "B019FW8PA0",
+      "title": "Aromatherapy Sensual Massage Oil for Couples - Relaxing Lavender Massaging Oil for Massage Therapy with Vitamin E Jojoba &amp; Sweet Almond - Naturally Scented Vegan Non GMO &amp; Gluten Free (8 Fl Oz)",
+      "brand": "Maple Holistics",
+      "price": 14.95,
+      "salesParent": 10461,
+      "revenue": 156391.95,
+      "rating": 4.5,
+      "reviews": 39637
+    },
+    {
+      "rank": 5,
+      "asin": "B0D2JHSTGK",
+      "title": "Coconu Organic Coconut Massage Oil, Gentle, Unscented, 3 oz",
+      "brand": "COCONU",
+      "price": 29.99,
+      "salesParent": 3166,
+      "revenue": 94948.34,
+      "rating": 4.6,
+      "reviews": 616
+    },
+    {
+      "rank": 6,
+      "asin": "B0927NW3MQ",
+      "title": "Bruizex Lymphatic Drainage Massage Oil, Arnica &amp; Coconut, 8.5 fl oz",
+      "brand": "Bruizex",
+      "price": 16.9,
+      "salesParent": 5022,
+      "revenue": 86679.72,
+      "rating": 4.5,
+      "reviews": 3796
+    },
+    {
+      "rank": 7,
+      "asin": "B07WTLZC18",
+      "title": "Vanilla Massage Oil with Fractionated Coconut Oil.16 Ounce",
+      "brand": "NOOKY",
+      "price": 19.94,
+      "salesParent": 4334,
+      "revenue": 85553.16,
+      "rating": 4.5,
+      "reviews": 2539
+    },
+    {
+      "rank": 8,
+      "asin": "B08LMNZ8GZ",
+      "title": "Cosmetasa Sore Muscle Massage Oil - 8.8 oz, Soothes Muscle and Joint with Arnica Extract, Peppermint, Chamomile, and Lavender Oil (8.8 oz, Sore Muscle)",
+      "brand": "Cosmetasa",
+      "price": 9.98,
+      "salesParent": 5082,
+      "revenue": 62559.42,
+      "rating": 4.6,
+      "reviews": 10514
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 2,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 2,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 4035376,
+    "priorHeadRevenue": 3938863,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 100,
+      "newCount": 12,
+      "pct": 12,
+      "unknownLaunch": 1,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 55,
+      "brandCount": 71,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.43,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0H5RQ5HNR",
+        "title": "Handcraft Blends Fractionated Coconut Oil - 64 Fl Oz",
+        "rating": 4.6,
+        "reviews": 490
+      },
+      {
+        "rank": 2,
+        "asin": "B076DSBHD1",
+        "title": "Firming Body Oil, Cellulite Massage Oil for Legs and Body, 8 fl oz by M3",
+        "rating": 4.3,
+        "reviews": 68943
+      },
+      {
+        "rank": 3,
+        "asin": "B07HQ4Q4GY",
+        "title": "Majestic Pure Arnica Sore Muscle Massage Oil for Massage Therapy - 8 Fl Oz",
+        "rating": 4.5,
+        "reviews": 38428
+      },
+      {
+        "rank": 4,
+        "asin": "B019FW8PA0",
+        "title": "Aromatherapy Sensual Massage Oil for Couples - Relaxing Lavender Massaging Oil for Massage Therapy with Vitamin E Jojoba &amp; Sweet Almond - Naturally Scented Vegan Non GMO &amp; Gluten Free (8 Fl Oz)",
+        "rating": 4.5,
+        "reviews": 39637
+      },
+      {
+        "rank": 5,
+        "asin": "B0D2JHSTGK",
+        "title": "Coconu Organic Coconut Massage Oil, Gentle, Unscented, 3 oz",
+        "rating": 4.6,
+        "reviews": 616
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:10079996011:10080000011:14442631",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "15342941",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Household Supplies > Laundry > Bleach",
+  "categoryPathCn": "健康与家居 > 家居用品 > 衣物清洁 > 漂白剂",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 2305525,
+    "avgRevenue": 23288,
+    "medianPrice": 18.49,
+    "priceBand": "$12.92 - $29.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B07YVG8WTY",
+      "title": "Molly's Suds Oxygen Whitener | Powerful Bleach Alternative, Chlorine Free &amp; Color Safe | Brightens Whites and Removes Stains (Pure Lemon Essential Oil - 79 oz)",
+      "brand": "Molly's Suds",
+      "price": 47.9,
+      "salesParent": 9265,
+      "revenue": 313434.97,
+      "rating": 4.6,
+      "reviews": 5660
+    },
+    {
+      "rank": 2,
+      "asin": "B086LWNVQW",
+      "title": "Clorox No Splash Bleach, 117 Fluid Ounces (Package May Vary)",
+      "brand": "Clorox",
+      "price": 16.75,
+      "salesParent": 11040,
+      "revenue": 184588.8,
+      "rating": 4.8,
+      "reviews": 2096
+    },
+    {
+      "rank": 3,
+      "asin": "B0FT9GY34C",
+      "title": "Clorox Regular Disinfecting Bleach Cleaner, 2 Pack Concentrated Liquid Bleach, Removes Mold, Mildew and Stains, Whitens, for Multi Purpose Cleaning and Laundry, 24 oz Bottles",
+      "brand": "Clorox",
+      "price": 13.25,
+      "salesParent": 11721,
+      "revenue": 146981.34,
+      "rating": 4.5,
+      "reviews": 669
+    },
+    {
+      "rank": 4,
+      "asin": "B07TRX9XLL",
+      "title": "AMAZE Ultra Concentrated Bleach Tablets – Original Scent [32 tablets]",
+      "brand": "AMAZE",
+      "price": 4.57,
+      "salesParent": 31010,
+      "revenue": 139855.11,
+      "rating": 4.5,
+      "reviews": 12256
+    },
+    {
+      "rank": 5,
+      "asin": "B012647L8G",
+      "title": "Clorox Zero Splash Bleach Packs, 12 Count",
+      "brand": "Clorox",
+      "price": 6.1,
+      "salesParent": 20819,
+      "revenue": 126995.9,
+      "rating": 4.7,
+      "reviews": 16194
+    },
+    {
+      "rank": 6,
+      "asin": "B0FX3K251L",
+      "title": "Clorox Splashless Disinfecting Bleach Cleaner, 2 Pack Regular Concentrated Liquid Bleach, Removes Mold, Mildew and Stains, Whitens, for Multi Purpose Cleaning and Laundry, 40 oz Bottles",
+      "brand": "Clorox",
+      "price": 14.99,
+      "salesParent": 8956,
+      "revenue": 123503.24,
+      "rating": 4.5,
+      "reviews": 809
+    },
+    {
+      "rank": 7,
+      "asin": "B086LWRKX2",
+      "title": "Clorox No Splash Bleach, 77 Fluid Ounces (Package May Vary)",
+      "brand": "Clorox",
+      "price": 13.85,
+      "salesParent": 6372,
+      "revenue": 88252.2,
+      "rating": 4.8,
+      "reviews": 2869
+    },
+    {
+      "rank": 8,
+      "asin": "B08G2KCDHP",
+      "title": "Evolve Concentrated Bleach Tablet Bulk Size 240 Tablets 1 Pack Original Scent",
+      "brand": "Evolve",
+      "price": 29.99,
+      "salesParent": 2806,
+      "revenue": 86677.34,
+      "rating": 4.8,
+      "reviews": 2780
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 34,
+    "direction": "up",
+    "comparable": true,
+    "rawYoyPct": 34,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 2305525,
+    "priorHeadRevenue": 1723769,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 31,
+      "pct": 31,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 78,
+      "brandCount": 41,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.51,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B07YVG8WTY",
+        "title": "Molly's Suds Oxygen Whitener | Powerful Bleach Alternative, Chlorine Free &amp; Color Safe | Brightens Whites and Removes Stains (Pure Lemon Essential Oil - 79 oz)",
+        "rating": 4.6,
+        "reviews": 5660
+      },
+      {
+        "rank": 2,
+        "asin": "B086LWNVQW",
+        "title": "Clorox No Splash Bleach, 117 Fluid Ounces (Package May Vary)",
+        "rating": 4.8,
+        "reviews": 2096
+      },
+      {
+        "rank": 3,
+        "asin": "B0FT9GY34C",
+        "title": "Clorox Regular Disinfecting Bleach Cleaner, 2 Pack Concentrated Liquid Bleach, Removes Mold, Mildew and Stains, Whitens, for Multi Purpose Cleaning and Laundry, 24 oz Bottles",
+        "rating": 4.5,
+        "reviews": 669
+      },
+      {
+        "rank": 4,
+        "asin": "B07TRX9XLL",
+        "title": "AMAZE Ultra Concentrated Bleach Tablets – Original Scent [32 tablets]",
+        "rating": 4.5,
+        "reviews": 12256
+      },
+      {
+        "rank": 5,
+        "asin": "B012647L8G",
+        "title": "Clorox Zero Splash Bleach Packs, 12 Count",
+        "rating": 4.7,
+        "reviews": 16194
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:15342811:15356111:15342941",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "15754811",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Household Supplies > Cleaning Tools > Sponges",
+  "categoryPathCn": "健康与家居 > 家居用品 > 清洁工具 > 海绵",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 99,
+    "totalRevenue": 8198405,
+    "avgRevenue": 82812,
+    "medianPrice": 11.69,
+    "priceBand": "$8.99 - $15.99",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0CJ1B6D6S",
+      "title": "Scrub Mommy Kitchen Sponges - Dual-Sided Dish Sponges for Scrubbing - Non-Scratch Cleaning Sponges for Washing Dishes, Bathroom &amp; Multi-Surface Cleaning - Online Exclusive (3 Count)",
+      "brand": "Scrub Daddy",
+      "price": 13.99,
+      "salesParent": 66269,
+      "revenue": 927103.31,
+      "rating": 4.8,
+      "reviews": 34383
+    },
+    {
+      "rank": 2,
+      "asin": "B086YYM4SZ",
+      "title": "AIDEA Non Scratch Scrub Sponge-24Count, Sponges Kitchen, Sponges for Dishes",
+      "brand": "AIDEA",
+      "price": 9.99,
+      "salesParent": 81288,
+      "revenue": 785242.06,
+      "rating": 4.3,
+      "reviews": 27338
+    },
+    {
+      "rank": 3,
+      "asin": "B0043P0IAK",
+      "title": "Scotch-Brite Zero Scratch Scrub Sponge, 6 Pack",
+      "brand": "Scotch-Brite",
+      "price": 5.99,
+      "salesParent": 72771,
+      "revenue": 460640.44,
+      "rating": 4.8,
+      "reviews": 66731
+    },
+    {
+      "rank": 4,
+      "asin": "B0DF33VKZK",
+      "title": "Amazon Basics Non-Scratch Dual-Sided Sponges for Nonstick Pots and Pans, Dish Scrubber, All-Purpose, 12-Pack (2 Packs of 6), Packaging May Vary",
+      "brand": "Amazon Basics",
+      "price": 7.0,
+      "salesParent": 64400,
+      "revenue": 450800.0,
+      "rating": 4.4,
+      "reviews": 11550
+    },
+    {
+      "rank": 5,
+      "asin": "B0917GV13P",
+      "title": "AIRNEX Natural Kitchen Sponges (12 Pack) - Plant-Based Cellulose &amp; Coconut Scrubber Dish Sponges for Kitchen - Eco-Friendly, Non Scratch, Compostable, Non Toxic S-Shaped Natural Sponges for Dishes",
+      "brand": "AIRNEX",
+      "price": 16.95,
+      "salesParent": 23647,
+      "revenue": 400816.66,
+      "rating": 4.6,
+      "reviews": 7641
+    },
+    {
+      "rank": 6,
+      "asin": "B0FX5QX4NV",
+      "title": "Mr. Clean Magic Eraser Sponge, Bathroom, Shower, Tub Cleaner, Soap Scum Remover, Bathroom Cleaning Supplies, Dawn Cleaning Power with Lavender Scent, Shower &amp; Tub, 8ct",
+      "brand": "Mr. Clean",
+      "price": 12.94,
+      "salesParent": 25702,
+      "revenue": 337724.28,
+      "rating": 4.6,
+      "reviews": 1367
+    },
+    {
+      "rank": 7,
+      "asin": "B0043P0GRA",
+      "title": "Scotch-Brite Zero Scratch Scrub Sponge, 9 Pack",
+      "brand": "Scotch-Brite",
+      "price": 8.72,
+      "salesParent": 33531,
+      "revenue": 287695.97,
+      "rating": 4.8,
+      "reviews": 40422
+    },
+    {
+      "rank": 8,
+      "asin": "B004IR3044",
+      "title": "Scotch-Brite Heavy Duty Scrub Sponge, 6 Pack",
+      "brand": "Scotch-Brite",
+      "price": 5.97,
+      "salesParent": 39062,
+      "revenue": 233200.12,
+      "rating": 4.8,
+      "reviews": 29721
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -18,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -18,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 8198405,
+    "priorHeadRevenue": 9942461,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 99,
+      "newCount": 18,
+      "pct": 18,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 61,
+      "brandCount": 54,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.53,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0CJ1B6D6S",
+        "title": "Scrub Mommy Kitchen Sponges - Dual-Sided Dish Sponges for Scrubbing - Non-Scratch Cleaning Sponges for Washing Dishes, Bathroom &amp; Multi-Surface Cleaning - Online Exclusive (3 Count)",
+        "rating": 4.8,
+        "reviews": 34383
+      },
+      {
+        "rank": 2,
+        "asin": "B086YYM4SZ",
+        "title": "AIDEA Non Scratch Scrub Sponge-24Count, Sponges Kitchen, Sponges for Dishes",
+        "rating": 4.3,
+        "reviews": 27338
+      },
+      {
+        "rank": 3,
+        "asin": "B0043P0IAK",
+        "title": "Scotch-Brite Zero Scratch Scrub Sponge, 6 Pack",
+        "rating": 4.8,
+        "reviews": 66731
+      },
+      {
+        "rank": 4,
+        "asin": "B0DF33VKZK",
+        "title": "Amazon Basics Non-Scratch Dual-Sided Sponges for Nonstick Pots and Pans, Dish Scrubber, All-Purpose, 12-Pack (2 Packs of 6), Packaging May Vary",
+        "rating": 4.4,
+        "reviews": 11550
+      },
+      {
+        "rank": 5,
+        "asin": "B0917GV13P",
+        "title": "AIRNEX Natural Kitchen Sponges (12 Pack) - Plant-Based Cellulose &amp; Coconut Scrubber Dish Sponges for Kitchen - Eco-Friendly, Non Scratch, Compostable, Non Toxic S-Shaped Natural Sponges for Dishes",
+        "rating": 4.6,
+        "reviews": 7641
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:15342811:15342831:15754811",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

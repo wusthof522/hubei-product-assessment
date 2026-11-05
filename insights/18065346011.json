@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "18065346011",
+  "level": "L4",
+  "categoryPathEn": "Health & Household > Oral Care > Toothbrushes & Accessories > Powered Toothbrushes & Accessories",
+  "categoryPathCn": "健康与家居 > 口腔护理 > 牙刷 > 电动牙刷",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 96,
+    "totalRevenue": 62749944,
+    "avgRevenue": 653645,
+    "medianPrice": 39.72,
+    "priceBand": "$19.83 - $89.95",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0GQWSKBLD",
+      "title": "Philips Sonicare 5950 Rechargeable Electric Toothbrush, 2 Brush Head, Black",
+      "brand": "Philips Sonicare",
+      "price": 109.99,
+      "salesParent": 54149,
+      "revenue": 5955848.5,
+      "rating": 4.4,
+      "reviews": 1953
+    },
+    {
+      "rank": 2,
+      "asin": "B01AKGRTUM",
+      "title": "Oral-B Pro 1000 Rechargeable Electric Toothbrush, Black",
+      "brand": "Oral-B",
+      "price": 47.94,
+      "salesParent": 72519,
+      "revenue": 3601293.5,
+      "rating": 4.5,
+      "reviews": 165718
+    },
+    {
+      "rank": 3,
+      "asin": "B0CM44GT41",
+      "title": "Philips Sonicare DiamondClean 9500 Electric Toothbrush 3 Brush Heads, Black",
+      "brand": "Philips Sonicare",
+      "price": 278.99,
+      "salesParent": 10473,
+      "revenue": 2880598.5,
+      "rating": 4.2,
+      "reviews": 1651
+    },
+    {
+      "rank": 4,
+      "asin": "B09LD8T445",
+      "title": "Philips Sonicare 4100 Rechargeable Electric Toothbrush, 1 Brush Head, White",
+      "brand": "Philips Sonicare",
+      "price": 45.99,
+      "salesParent": 51092,
+      "revenue": 2446795.75,
+      "rating": 4.2,
+      "reviews": 21303
+    },
+    {
+      "rank": 5,
+      "asin": "B071HQ3MPD",
+      "title": "Philips Sonicare C3 Two-in-One Brush Heads, 4-Pack, 1 Year Supply, Black",
+      "brand": "Philips Sonicare",
+      "price": 54.96,
+      "salesParent": 42715,
+      "revenue": 2347616.25,
+      "rating": 4.8,
+      "reviews": 28734
+    },
+    {
+      "rank": 6,
+      "asin": "B072YVWBXH",
+      "title": "Aquasonic Black Series Ultra Whitening Toothbrush – ADA Accepted Electric Toothbrush- 8 Brush Heads &amp; Travel Case – 40,000 VPM Electric Motor &amp; Wireless Charging - 4 Modes w Smart Timer",
+      "brand": "Aquasonic",
+      "price": 39.95,
+      "salesParent": 58084,
+      "revenue": 2344270.25,
+      "rating": 4.5,
+      "reviews": 139401
+    },
+    {
+      "rank": 7,
+      "asin": "B078BF27BF",
+      "title": "Philips Sonicare C2 Brush Heads, 3-Pack, 9 Month Supply, White",
+      "brand": "Philips Sonicare",
+      "price": 30.79,
+      "salesParent": 69352,
+      "revenue": 2209554.75,
+      "rating": 4.8,
+      "reviews": 73004
+    },
+    {
+      "rank": 8,
+      "asin": "B0FLR3YRFL",
+      "title": "SURI Pro Sonic Electric Toothbrush | Over 4+ Weeks Battery | UV Cleaning Travel Case | Pressure Sensor | Aluminium Body | 2-Minute Timer | Plant-Based Head | Green",
+      "brand": "SURI",
+      "price": 134.99,
+      "salesParent": 15648,
+      "revenue": 2112323.5,
+      "rating": 4.4,
+      "reviews": 2257
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": 5,
+    "direction": "flat",
+    "comparable": true,
+    "rawYoyPct": 5,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 62749944,
+    "priorHeadRevenue": 59702184,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 96,
+      "newCount": 31,
+      "pct": 32,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 91,
+      "brandCount": 27,
+      "level": "寡头",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.5,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0GQWSKBLD",
+        "title": "Philips Sonicare 5950 Rechargeable Electric Toothbrush, 2 Brush Head, Black",
+        "rating": 4.4,
+        "reviews": 1953
+      },
+      {
+        "rank": 2,
+        "asin": "B01AKGRTUM",
+        "title": "Oral-B Pro 1000 Rechargeable Electric Toothbrush, Black",
+        "rating": 4.5,
+        "reviews": 165718
+      },
+      {
+        "rank": 3,
+        "asin": "B0CM44GT41",
+        "title": "Philips Sonicare DiamondClean 9500 Electric Toothbrush 3 Brush Heads, Black",
+        "rating": 4.2,
+        "reviews": 1651
+      },
+      {
+        "rank": 4,
+        "asin": "B09LD8T445",
+        "title": "Philips Sonicare 4100 Rechargeable Electric Toothbrush, 1 Brush Head, White",
+        "rating": 4.2,
+        "reviews": 21303
+      },
+      {
+        "rank": 5,
+        "asin": "B071HQ3MPD",
+        "title": "Philips Sonicare C3 Two-in-One Brush Heads, 4-Pack, 1 Year Supply, Black",
+        "rating": 4.8,
+        "reviews": 28734
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "3760901:10079992011:18065341011:18065346011",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}

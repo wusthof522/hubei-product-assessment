@@ -1,0 +1,191 @@
+{
+  "schema": "category-insight/v3",
+  "nodeId": "3733551",
+  "level": "L4",
+  "categoryPathEn": "Home & Kitchen > Furniture > Living Room Furniture > Sofas & Couches",
+  "categoryPathCn": "家居用品 > 家具 > 客厅家具 > 沙发",
+  "generatedAt": "2026-11-05",
+  "snapshotDate": "2026-10",
+  "source": "sellersprite-mcp",
+  "isEstimated": true,
+  "sampleStatus": "ok",
+  "marketSize": {
+    "sampleCount": 67,
+    "totalRevenue": 31609749,
+    "avgRevenue": 471787,
+    "medianPrice": 598.49,
+    "priceBand": "$311.99 - $849.98",
+    "currency": "USD",
+    "window": "month-202610",
+    "rankBy": "monthlyRevenue"
+  },
+  "topProducts": [
+    {
+      "rank": 1,
+      "asin": "B0H6HZ4KKZ",
+      "title": "EASE MOOSE Leather Sectional Couch, U Shaped Deep Seat Sofa, Grey",
+      "brand": "EASE MOOSE",
+      "price": 1799.99,
+      "salesParent": 755,
+      "revenue": 1358992.5,
+      "rating": 4.8,
+      "reviews": 198
+    },
+    {
+      "rank": 2,
+      "asin": "B0FWKDCQ3F",
+      "title": "48.6&quot; Single Sofa, Small Boneless Couches for Living Room, Cloud Couch for Bedroom, Office, Brown",
+      "brand": "ohllob",
+      "price": 997.98,
+      "salesParent": 1007,
+      "revenue": 1004965.81,
+      "rating": 4.1,
+      "reviews": 445
+    },
+    {
+      "rank": 3,
+      "asin": "B0FH4CYTS3",
+      "title": "MONVANE Modular Sectional Cloud Couch for Living Room - 130'' 6 Seater Convertible Chenille Couches Set with Ottoman, No Assembly Compression Sofas, Comfy Floor Sofa with Memory Foam, Grey",
+      "brand": "MONVANE",
+      "price": 799.99,
+      "salesParent": 1268,
+      "revenue": 916548.44,
+      "rating": 4.4,
+      "reviews": 381
+    },
+    {
+      "rank": 4,
+      "asin": "B0DT8VX7V6",
+      "title": "Ihanherry 111.4&quot; U Shaped Cloud Couch Modern Modular Sectional Sofa with 2 Ottoman, 5-Seat Chenille Deep Seat Sofa with 5 Pillows for Living Room, Bedroom and Apartment, Beige",
+      "brand": "Ihanherry",
+      "price": 258.99,
+      "salesParent": 1201,
+      "revenue": 888872.06,
+      "rating": 4.3,
+      "reviews": 1185
+    },
+    {
+      "rank": 5,
+      "asin": "B0GDXZTS85",
+      "title": "EASE MOOSE Oversized L Shape Sectional Cloud Modular deep seat Sofa",
+      "brand": "EASE MOOSE",
+      "price": 899.99,
+      "salesParent": 829,
+      "revenue": 801692.75,
+      "rating": 4.7,
+      "reviews": 283
+    },
+    {
+      "rank": 6,
+      "asin": "B0GMWKDNBC",
+      "title": "Cloud Sectional Boneless Couches for Living Room, Modular L Shaped Couch with Deep Seat Oversized Right Facing Chaise, Memory Foam Compressed Spineless 3 Seater Sofa for Apartment, Black",
+      "brand": "GRUSIGN",
+      "price": 322.99,
+      "salesParent": 2314,
+      "revenue": 734857.0,
+      "rating": 4.3,
+      "reviews": 318
+    },
+    {
+      "rank": 7,
+      "asin": "B0FKTQTYG4",
+      "title": "EASE MOOSE Sectional Couches for Living Room, U Shaped Sofa,Grey",
+      "brand": "EASE MOOSE",
+      "price": 999.99,
+      "salesParent": 725,
+      "revenue": 724992.75,
+      "rating": 4.8,
+      "reviews": 208
+    },
+    {
+      "rank": 8,
+      "asin": "B0G7D2PDLK",
+      "title": "EASE MOOSE Boneless Couch for Living Room, Large Modular Sectional, Green",
+      "brand": "EASE MOOSE",
+      "price": 1386.99,
+      "salesParent": 511,
+      "revenue": 715057.62,
+      "rating": 4.8,
+      "reviews": 68
+    }
+  ],
+  "trend": {
+    "kind": "head-revenue-yoy",
+    "yoyPct": -17,
+    "direction": "down",
+    "comparable": true,
+    "rawYoyPct": -17,
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "currentHeadRevenue": 31609749,
+    "priorHeadRevenue": 38227292,
+    "note": "头部 100 款月销售额 202610 对比 202510 的同比。"
+  },
+  "competition": {
+    "newProductShare": {
+      "total": 67,
+      "newCount": 57,
+      "pct": 85,
+      "unknownLaunch": 0,
+      "window": "18m",
+      "cutoff": "2025-05-01"
+    },
+    "concentration": {
+      "topN": 5,
+      "sharePct": 40,
+      "brandCount": 39,
+      "level": "中等",
+      "basis": "monthlyRevenue"
+    }
+  },
+  "voc": {
+    "avgRating": 4.24,
+    "top5": [
+      {
+        "rank": 1,
+        "asin": "B0H6HZ4KKZ",
+        "title": "EASE MOOSE Leather Sectional Couch, U Shaped Deep Seat Sofa, Grey",
+        "rating": 4.8,
+        "reviews": 198
+      },
+      {
+        "rank": 2,
+        "asin": "B0FWKDCQ3F",
+        "title": "48.6&quot; Single Sofa, Small Boneless Couches for Living Room, Cloud Couch for Bedroom, Office, Brown",
+        "rating": 4.1,
+        "reviews": 445
+      },
+      {
+        "rank": 3,
+        "asin": "B0FH4CYTS3",
+        "title": "MONVANE Modular Sectional Cloud Couch for Living Room - 130'' 6 Seater Convertible Chenille Couches Set with Ottoman, No Assembly Compression Sofas, Comfy Floor Sofa with Memory Foam, Grey",
+        "rating": 4.4,
+        "reviews": 381
+      },
+      {
+        "rank": 4,
+        "asin": "B0DT8VX7V6",
+        "title": "Ihanherry 111.4&quot; U Shaped Cloud Couch Modern Modular Sectional Sofa with 2 Ottoman, 5-Seat Chenille Deep Seat Sofa with 5 Pillows for Living Room, Bedroom and Apartment, Beige",
+        "rating": 4.3,
+        "reviews": 1185
+      },
+      {
+        "rank": 5,
+        "asin": "B0GDXZTS85",
+        "title": "EASE MOOSE Oversized L Shape Sectional Cloud Modular deep seat Sofa",
+        "rating": 4.7,
+        "reviews": 283
+      }
+    ],
+    "painPoints": [],
+    "cta": "您的产品能解决这些痛点吗?上传产品图,我们帮您比对市场缺口。"
+  },
+  "_provenance": {
+    "tool": "sellersprite MCP asin.list (bestSellingVariant, orderField=total_amount, size=100)",
+    "path": "1055398:1063306:1063318:3733551",
+    "currentMonth": "202610",
+    "priorMonth": "202510",
+    "fetchedAt": "2026-11-05",
+    "note": "卖家精灵估算数据，非亚马逊真实销量。痛点关键词旧数据已移除，待评论接口另行更新。"
+  }
+}
