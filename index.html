@@ -2774,44 +2774,320 @@
     /* ===== round 2b (owner-visible fix after the second verdict) ===== */
     .pp-nowrap { white-space: nowrap; }
     @media (max-width: 420px) { .pp-issuer { padding-right: 0; } }
+
+    /* ===== mobile habits (2026-11-23) ===== */
+    /* thumbs: every tap target at least 44px tall; no double-tap zoom delay or grey flash */
+    a, button, label, select, summary, .btn { touch-action: manipulation; -webkit-tap-highlight-color: transparent; }
+    .pp-mgr { height: 44px; padding: 0 12px; font-size: 14px; }
+    .pp-crest { min-height: 44px; }
+    /* fields read as boxes you can tap, not lines on patterned paper */
+    .step-panel input:not([type="checkbox"]):not([type="radio"]):not([type="file"]),
+    .step-panel select,
+    .step-panel textarea {
+      min-height: 48px;
+      border: 1px solid var(--rule-strong);
+      border-radius: 2px;
+      background: var(--paper-white);
+      padding-left: 12px;
+    }
+    .step-panel input:not([type="checkbox"]):not([type="radio"]):not([type="file"]):focus,
+    .step-panel select:focus,
+    .step-panel textarea:focus { border-color: var(--navy); box-shadow: 0 0 0 3px rgba(30, 42, 86, 0.14); }
+    .step-panel .invalid { border-color: var(--danger) !important; box-shadow: 0 0 0 3px rgba(180, 35, 24, 0.12) !important; }
+    .upload-zone { border-style: dashed; background: var(--paper-white); }
+    /* a field scrolled to (error, keyboard) is not hidden under the sticky bar */
+    .field, .choice-group, .consent, .upload-zone { scroll-margin-top: 76px; scroll-margin-bottom: 96px; }
+    .step-panel .error:not(:empty) { font-size: 14px; }
+    .optional { font-size: 12px; }
+    /* toast: centred near the top, clear of bottom-sheet buttons and the bottom bar, readable size */
+    .toast {
+      left: 50%;
+      right: auto;
+      top: calc(72px + env(safe-area-inset-top));
+      bottom: auto;
+      width: max-content;
+      max-width: calc(100vw - 32px);
+      font-size: 14px;
+      line-height: 1.5;
+      text-align: center;
+      transform: translate(-50%, -8px);
+    }
+    .toast.show { transform: translate(-50%, 0); }
+
+    /* ===== Stall world · 汉正街档口 (owner choice 2026-11-23) =====
+       Layered after passport.css: same form, modal and result structure, re-skinned as a
+       Hanzheng Street wholesale stall: lightbox sign, roller shutter, red cloth banner,
+       steel shelf rail with clipped price tags, kraft-paper archive envelope. */
+    :root {
+      --red: #c8102e;
+      --red-deep: #9e0c24;
+      --yellow: #ffd23f;
+      --blue: #1f4e9c;
+      --wall: #f7f5f1;
+      --kraft: #c89f62;
+      --kraft-deep: #a87c42;
+      /* passport tokens re-pointed into the stall */
+      --burgundy: var(--red);
+      --burgundy-deep: var(--red-deep);
+      --gold: #ffffff;
+      --gold-soft: #ffffff;
+      --paper: var(--wall);
+      --paper-white: #ffffff;
+      --ink: #141414;
+      --ink-soft: #3a3a3a;
+      --muted: #5c5c5c;
+      --rule: #dcd8d0;
+      --rule-strong: #8f8a82;
+      --navy: var(--blue);
+      --purple: var(--blue);
+      --stamp-red: var(--red);
+      --stamp-green: #1d7a46;
+      --visa-paper: #ffffff;
+      --entry-paper: #ffffff;
+    }
+
+    body.world-stall { background: #2b2b2b; }
+    .world-stall ::selection { background: rgba(200, 16, 46, 0.18); }
+    .world-stall .app { background: var(--wall); }
+
+    /* lightbox shop sign in a black steel frame (sticky) */
+    .world-stall .st-sign {
+      height: auto;
+      min-height: 66px;
+      padding: 8px 12px;
+      border-top: 5px solid var(--ink);
+      border-bottom: 5px solid var(--ink);
+      background: linear-gradient(180deg, #db1f3d 0, var(--red) 55%, #b30d28 100%);
+    }
+    .world-stall .pp-crest { color: #fff; }
+    .world-stall .pp-roundel { border: 0; background: #fff; }
+    .world-stall .pp-crest-name { font-size: 15px; font-weight: 800; letter-spacing: 0.02em; }
+    .world-stall .pp-mgr { border: 0; background: #fff; color: var(--red); font-weight: 800; }
+    .world-stall .pp-mgr:active { background: #ffe9ec; }
+    .st-shutter { height: 12px; background: repeating-linear-gradient(180deg, #d9d6d0 0 3px, #c4c0b8 3px 4px); border-bottom: 1px solid #b5b0a6; }
+
+    /* red cloth banner tied at both ends */
+    .st-banner {
+      position: relative;
+      margin: 14px 12px 0;
+      padding: 12px 16px 13px;
+      background: var(--red);
+      background-image: repeating-linear-gradient(90deg, rgba(255, 255, 255, 0.035) 0 1px, transparent 1px 3px);
+      box-shadow: 0 3px 6px rgba(20, 20, 20, 0.18);
+      color: #fff;
+      text-align: center;
+    }
+    .st-banner::before, .st-banner::after { content: ""; position: absolute; top: 7px; width: 8px; height: 8px; border-radius: 50%; background: var(--wall); box-shadow: inset 0 0 0 2px #8c8c8c; }
+    .st-banner::before { left: 6px; }
+    .st-banner::after { right: 6px; }
+    .st-banner h1 { margin: 0; font-size: clamp(22px, 6.6vw, 28px); line-height: 1.25; font-weight: 800; letter-spacing: 0.06em; }
+
+    .st-hero { padding: 14px 16px 0; }
+    .world-stall .pp-invite { font-size: 15px; line-height: 1.65; color: var(--ink-soft); }
+    .world-stall .pp-terms { margin-top: 6px; color: var(--blue); font-size: 14px; font-weight: 800; }
+    .world-stall .pp-apply { margin-top: 12px; }
+    .world-stall .pp-apply label { margin-bottom: 6px; color: var(--ink); font-size: 15px; font-weight: 800; letter-spacing: 0; }
+    .world-stall .pp-apply-row { border: 2px solid var(--ink); border-radius: 0; background: #fff; }
+    .world-stall .pp-apply-row:focus-within { outline: 3px solid rgba(31, 78, 156, 0.35); outline-offset: 0; }
+    .world-stall .pp-apply-row button { border-left: 0; background: var(--red); color: #fff; font-size: 17px; font-weight: 800; letter-spacing: 0.02em; }
+    .world-stall .pp-apply-row button:active { background: var(--red-deep); }
+
+    /* two "tofu" blocks: free self-study | 299 course */
+    .st-tofu { padding: 14px 12px 0; display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+    .st-block {
+      position: relative;
+      min-height: 132px;
+      padding: 12px 12px 10px;
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 2px;
+      border: 2px solid var(--ink);
+      border-radius: 0;
+      color: var(--ink);
+      font: inherit;
+      text-align: left;
+      cursor: pointer;
+      box-shadow: 3px 3px 0 var(--ink);
+    }
+    .st-block:active { transform: translate(2px, 2px); box-shadow: 1px 1px 0 var(--ink); }
+    .st-block strong { font-size: 17px; line-height: 1.3; font-weight: 800; }
+    .st-block-sub { font-size: 14px; line-height: 1.4; font-weight: 700; }
+    .st-block-go { margin-top: auto; padding-top: 6px; font-size: 13.5px; font-weight: 800; }
+    .st-block-free { background: #fff; }
+    .st-block-free .st-block-sub { color: var(--blue); }
+    .st-block-free .st-block-go { color: var(--blue); }
+    .st-badge { margin-bottom: 4px; padding: 1px 8px; background: var(--blue); color: #fff; font-size: 13px; font-weight: 800; letter-spacing: 0.08em; }
+    .st-block-course { background: var(--yellow); }
+    .st-block-course .st-block-go { color: var(--red); }
+    .st-price { color: var(--red); font-size: 30px; line-height: 1.05; font-weight: 800; font-variant-numeric: tabular-nums; }
+    .st-price small { font-size: 18px; margin-right: 1px; }
+
+    /* sample report folded into a kraft-paper archive envelope */
+    .st-dossier { margin: 16px 12px 0; }
+    .st-dossier > summary {
+      position: relative;
+      min-height: 92px;
+      padding: 14px 14px 14px 12px;
+      display: grid;
+      grid-template-columns: 74px minmax(0, 1fr) auto;
+      align-items: center;
+      gap: 12px;
+      list-style: none;
+      border: 2px solid var(--kraft-deep);
+      background: linear-gradient(180deg, #d6b27a 0, var(--kraft) 100%);
+      box-shadow: 0 6px 14px rgba(20, 20, 20, 0.16);
+      cursor: pointer;
+      -webkit-tap-highlight-color: transparent;
+    }
+    .st-dossier > summary::-webkit-details-marker { display: none; }
+    .st-folder { position: relative; width: 74px; height: 62px; background: #e2c48f; border: 1.5px solid var(--kraft-deep); }
+    .st-folder-flap { position: absolute; left: -1.5px; right: -1.5px; top: -1.5px; height: 24px; background: #d2ad72; border: 1.5px solid var(--kraft-deep); clip-path: polygon(0 0, 100% 0, 100% 60%, 50% 100%, 0 60%); }
+    .st-folder-tie { position: absolute; left: 50%; top: 14px; width: 14px; height: 14px; margin-left: -7px; border-radius: 50%; background: #f3e6c8; border: 1.5px solid var(--kraft-deep); box-shadow: 0 22px 0 -1px #f3e6c8, 0 22px 0 0.5px var(--kraft-deep); }
+    .st-folder-tie::after { content: ""; position: absolute; left: 5px; top: 10px; width: 2px; height: 20px; background: #7a5a2c; transform: rotate(18deg); }
+    .st-folder-chop { position: absolute; right: -8px; bottom: -8px; padding: 0 4px; border: 2px solid var(--red); color: var(--red); background: rgba(255, 255, 255, 0.55); font-size: 12px; font-weight: 800; line-height: 1.4; transform: rotate(-12deg); }
+    .st-dossier-text strong { display: block; color: var(--ink); font-size: 18px; font-weight: 800; }
+    .st-dossier-text span { display: block; margin-top: 2px; color: #3b2a12; font-size: 13.5px; line-height: 1.45; }
+    .st-dossier-cta { padding: 6px 10px; background: var(--ink); color: #fff; font-size: 13.5px; font-weight: 800; white-space: nowrap; }
+    .st-dossier-cta::after { content: "打开看看"; }
+    .st-dossier[open] .st-dossier-cta::after { content: "收起"; }
+    .st-dossier[open] > summary { box-shadow: none; }
+    .st-dossier-body { padding: 0 0 4px; border: 2px solid var(--kraft-deep); border-top: 0; background: #efe3cb; }
+    .st-dossier[open] .st-dossier-body { animation: st-unfold 260ms cubic-bezier(0.16, 1, 0.3, 1) both; }
+    @keyframes st-unfold { from { opacity: 0; transform: translateY(-8px); } to { opacity: 1; transform: none; } }
+
+    /* the report sheet (sample and issued result): shop board with price tags on a shelf rail */
+    .world-stall .sheet { border: 2px solid var(--ink); background: #fff; }
+    .st-dossier .sheet { border: 0; }
+    .world-stall .sheet .sheet-head { padding: 14px 14px 12px; border-top: 6px solid var(--red); border-bottom: 0; }
+    .world-stall .sheet .sheet-title { color: var(--red); font-size: 22px; font-weight: 800; }
+    .world-stall .sheet .sheet-head:not(.is-issued) { padding-right: 14px; }
+    .world-stall .sheet .stamp:not(.stamp-issued) { display: none; }
+    .world-stall .sheet-mrz { display: none; }
+    .world-stall .sheet-rows {
+      position: relative;
+      padding: 30px 10px 14px;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 26px 10px;
+      background: var(--wall);
+    }
+    .world-stall .sheet-rows::before { content: ""; position: absolute; left: 0; right: 0; top: 0; height: 9px; background: linear-gradient(180deg, #4a4a4a, #1c1c1c 60%, #000); }
+    .world-stall .sheet-row,
+    .world-stall .sheet-row.has-stamp,
+    .world-stall .sheet-row.has-rect {
+      position: relative;
+      min-height: 0;
+      padding: 16px 10px 10px;
+      display: block;
+      border: 0;
+      background: #fff;
+      box-shadow: 0 6px 12px rgba(20, 20, 20, 0.14), 0 1px 2px rgba(20, 20, 20, 0.12);
+      transform-origin: top center;
+    }
+    .world-stall .sheet-row::before { content: ""; position: absolute; top: -20px; left: 50%; width: 22px; height: 26px; margin-left: -11px; background: linear-gradient(180deg, #2a2a2a, #111); clip-path: polygon(18% 0, 82% 0, 100% 100%, 0 100%); }
+    .world-stall .sheet-row:nth-child(4n + 1), .world-stall .sheet-row:nth-child(4n + 4) { background: var(--yellow); }
+    .world-stall .sheet-row:nth-child(4n + 2), .world-stall .sheet-row:nth-child(4n + 3) { outline: 2px solid var(--blue); outline-offset: -2px; }
+    .world-stall .sheet-row:nth-child(odd) { transform: rotate(-1.2deg); }
+    .world-stall .sheet-row:nth-child(even) { transform: rotate(1.4deg); }
+    .world-stall .sheet-row dt { color: var(--ink); font-size: 13.5px; font-weight: 800; letter-spacing: 0; }
+    .world-stall .sheet-row strong { margin-top: 2px; font-size: 20px; line-height: 1.25; font-weight: 800; }
+    .world-stall .sheet-row dd span { margin-top: 4px; color: #2b2b2b; font-size: 13px; line-height: 1.5; }
+    .world-stall .sheet-products { padding: 14px 14px 6px; border-bottom: 0; background: #fff; }
+    .world-stall .sheet-products li, .world-stall .sheet-products li:first-child { border-top: 1px dashed var(--rule); }
+    .world-stall .sheet-products li:first-child { border-top: 0; }
+    .world-stall .sheet .sheet-foot { border-top: 1px solid var(--rule); background: #fff; }
+    @media (prefers-reduced-motion: reduce) {
+      .st-dossier[open] .st-dossier-body { animation: none; }
+    }
+
+    /* form on a white board, step tabs as hanging signs */
+    .world-stall .pp-form { background: var(--wall); }
+    .world-stall .pp-h2 { color: var(--ink); font-weight: 800; letter-spacing: 0.02em; }
+    .world-stall .pp-h2::before { content: ""; display: inline-block; width: 6px; height: 0.9em; margin-right: 8px; vertical-align: -0.08em; background: var(--red); }
+    .world-stall .form-shell { border: 2px solid var(--ink); border-top: 6px solid var(--red); background: #fff; }
+    .world-stall .step-tabs { border-top: 0; border-bottom: 2px solid var(--ink); background: var(--wall); }
+    .world-stall .step-tab { color: var(--muted); font-weight: 700; }
+    .world-stall .step-tab.active { background: var(--red); color: #fff; box-shadow: none; }
+    .world-stall .step-tab.done { color: var(--stamp-green); }
+    .world-stall .field label, .world-stall .field-label { color: var(--ink); font-weight: 800; }
+    .world-stall .upload-zone { background: #fff; }
+    .world-stall .category-suggestion { background: #fff8d6; }
+    .world-stall .choice-grid .choice input:checked + label::before { border-color: var(--red); background: var(--red); }
+    .world-stall .btn:not(.btn-secondary):not(.btn-ghost) { background: var(--red); color: #fff; font-weight: 800; }
+    .world-stall .btn:not(.btn-secondary):not(.btn-ghost):hover { background: var(--red-deep); }
+    .world-stall .btn-secondary { border: 2px solid var(--ink); background: #fff; color: var(--ink); font-weight: 800; }
+    .world-stall .pp-steps li::before { border-color: var(--red); color: var(--red); }
+    .world-stall .pp-promise li::before { background: var(--red); }
+    .world-stall .success h3 { color: var(--ink); font-weight: 800; }
+    .world-stall .qr-card-main { border: 2px solid var(--ink); background: #fff; }
+    .world-stall .qr-card strong { color: var(--red); }
+
+    /* back cover: the sign again */
+    .world-stall .pp-back { background: linear-gradient(180deg, #b30d28, var(--red)); color: #fff; border-top: 5px solid var(--ink); }
+    .world-stall .pp-back::before { border-color: rgba(255, 255, 255, 0.35); }
+    .world-stall .pp-dock { border-top: 3px solid var(--ink); background: #fff; }
+
+    /* modals */
+    .world-stall .modal-head h2 { color: var(--ink); font-weight: 800; }
+    .st-learn p, .st-course p { margin: 0; color: var(--ink-soft); font-size: 15px; line-height: 1.7; }
+    .st-learn-qr { display: block; width: min(260px, 72%); height: auto; margin: 14px auto 8px; border: 1px solid var(--rule); }
+    .st-hint { text-align: center; font-size: 14px !important; color: var(--muted) !important; }
+    .st-soon { margin-top: 12px !important; padding: 10px 12px; border: 1px dashed var(--rule-strong); background: var(--wall); font-size: 14px !important; }
+
+    .world-stall .st-learn .form-actions, .world-stall .st-course .form-actions { margin-top: 14px; }
+    @media (min-width: 520px) { body.world-stall { background: #2b2b2b; } }
+
+    /* course details as readable text (the long image is 1440px wide; unreadable at phone width) */
+    .st-course h3 { margin: 18px 0 6px; padding-left: 10px; border-left: 4px solid var(--red); color: var(--ink); font-size: 16px; font-weight: 800; }
+    .st-course-hero { padding: 14px; display: grid; gap: 4px; border: 2px solid var(--ink); background: var(--yellow); }
+    .st-course-hero strong { font-size: 21px; line-height: 1.3; font-weight: 800; }
+    .st-course-hero span { font-size: 14.5px; line-height: 1.55; font-weight: 700; }
+    .st-course-kicker { color: var(--red); font-size: 13px !important; }
+    .st-course-price { margin-top: 4px; color: var(--red); }
+    .st-course-list { margin: 0; padding: 0; list-style: none; }
+    .st-course-list li { padding: 8px 0; border-top: 1px dashed var(--rule); color: var(--ink-soft); font-size: 14.5px; line-height: 1.6; }
+    .st-course-list li:first-child { border-top: 0; }
+    .st-course-list strong { display: block; color: var(--ink); font-size: 15px; }
+    .st-course-note { margin-top: 4px !important; color: var(--muted) !important; font-size: 13.5px !important; }
+    .st-course-days { margin: 0; padding: 0 0 0 1.8em; }
+    .st-course-days li { padding: 5px 0; color: var(--ink); font-size: 15px; line-height: 1.5; }
+    .st-course-days li::marker { color: var(--red); font-weight: 800; }
+    .st-course-link { display: inline-flex; align-items: center; min-height: 44px; margin-top: 8px; color: var(--blue); font-size: 15px; font-weight: 800; text-decoration: none; }
+
+    .world-stall .sheet-row strong { font-size: clamp(17px, 4.7vw, 20px); text-wrap: balance; }
+
+    /* banner in the HECA emblem blue (owner 2026-11-23; sampled from partners/heca-emblem.png, dominant #083880) */
+    :root { --heca-blue: #0b3c84; }
+    .st-banner { background-color: var(--heca-blue); box-shadow: 0 3px 6px rgba(11, 60, 132, 0.25); }
+
+    /* course modal: group QR slot at the top (placeholder until the real code arrives) */
+    .st-group { margin-bottom: 16px; padding: 14px; display: grid; grid-template-columns: 132px minmax(0, 1fr); gap: 14px; align-items: center; border: 2px solid var(--ink); background: #fff; }
+    .st-group-qr { width: 132px; height: 132px; display: grid; place-items: center; border: 2px dashed var(--rule-strong); background: repeating-linear-gradient(45deg, #f4f2ee 0 8px, #fff 8px 16px); color: var(--muted); font-size: 13px; font-weight: 700; text-align: center; line-height: 1.4; }
+    .st-group-qr img { width: 100%; height: 100%; display: block; }
+    .st-group strong { display: block; color: var(--ink); font-size: 16px; font-weight: 800; }
+    .st-group span { display: block; margin-top: 4px; color: var(--ink-soft); font-size: 14px; line-height: 1.55; }
   </style>
 </head>
-<body>
+<body class="world-stall">
 <div class="app">
-  <header class="pp-bar">
+  <header class="pp-bar st-sign">
     <a class="pp-crest" href="#top" aria-label="湖北省电子商务行业协会">
       <span class="pp-roundel"><img src="partners/heca-emblem.png" alt="HECA" width="30" height="23"></span>
       <span class="pp-crest-name">湖北省电子商务行业协会</span>
     </a>
     <button class="pp-mgr" type="button" data-open="consultModal">加亚马逊官方经理</button>
   </header>
+  <div class="st-shutter" aria-hidden="true"></div>
 
   <main id="top">
-    <section class="pp-cover" aria-labelledby="heroTitle">
-      <h1 class="pp-title" id="heroTitle">湖北产品出海<br>免费初评</h1>
-      <p class="pp-issuer"><span>出海护照 · <span class="pp-nowrap">湖北省电子商务行业协会 签发</span></span><span class="pp-docno">No. HB-2026</span></p>
-    </section>
+    <div class="st-banner"><h1 id="heroTitle">湖北产品出海免费初评</h1></div>
 
-    <section class="pp-data" aria-label="申请">
-      <svg class="stamp stamp-entry pp-hero-stamp" viewBox="0 0 120 120" width="92" height="92" aria-hidden="true" focusable="false">
-      <defs><path id="hero-ring" d="M60,60 m-44,0 a44,44 0 1,1 88,0 a44,44 0 1,1 -88,0"/><filter id="hero-ink" x="-5%" y="-5%" width="110%" height="110%">
-      <feTurbulence type="fractalNoise" baseFrequency="1.15" numOctaves="2" seed="2" result="noise"/>
-      <feColorMatrix in="noise" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 -2 2.25" result="mask"/>
-      <feComposite in="SourceGraphic" in2="mask" operator="in"/>
-    </filter></defs>
-      <g filter="url(#hero-ink)">
-        <circle cx="60" cy="60" r="56" fill="none" stroke="currentColor" stroke-width="3.2"/>
-        <circle cx="60" cy="60" r="51" fill="none" stroke="currentColor" stroke-width="1.2"/>
-        <circle cx="60" cy="60" r="35" fill="none" stroke="currentColor" stroke-width="1.2"/>
-        <text fill="currentColor" font-size="12.5" font-weight="700" letter-spacing="1.6"><textPath href="#hero-ring">美国站 · 入境 · 美国站 · 入境 · </textPath></text>
-        <text x="60" y="63" fill="currentColor" text-anchor="middle" font-size="19" font-weight="800">美国站</text>
-        <text x="60" y="80" fill="currentColor" text-anchor="middle" font-size="12.5" font-weight="700">2026.10</text>
-      </g>
-    </svg>
+    <section class="st-hero" aria-labelledby="heroTitle">
       <p class="pp-invite">工厂、外贸和电商团队、刚起步的小微企业都欢迎。写下一款产品，免费看它在亚马逊美国站卖得怎么样。</p>
       <p class="pp-terms">不限企业规模 · 不需要营业执照 · 不用先开店</p>
       <form class="pp-apply" id="hbStart" novalidate>
-        <label for="hbStartName">您的产品叫什么？</label>
+        <label for="hbStartName">报个货名</label>
         <div class="pp-apply-row">
           <input id="hbStartName" type="text" placeholder="如：实木床架" autocomplete="off" enterkeyhint="go">
           <button type="submit">免费出一份</button>
@@ -2819,13 +3095,35 @@
       </form>
     </section>
 
-    <div class="static-demo-notice" id="staticDemoNotice" role="status" hidden>
-      当前为在线流程测试版。填写和提交结果仅保存在本浏览器，不会发送给协会或亚马逊。
-    </div>
+    <section class="st-tofu" aria-label="学习资源">
+      <button class="st-block st-block-free" type="button" data-open="freeLearnModal">
+        <span class="st-badge">免费</span>
+        <strong>自学 AI Agent</strong>
+        <span class="st-block-sub">＋ 亚马逊知识库</span>
+        <span class="st-block-go">扫码就能看 ›</span>
+      </button>
+      <button class="st-block st-block-course" type="button" data-open="courseModal">
+        <span class="st-price"><small>¥</small>299</span>
+        <strong>AI Agent 培训课</strong>
+        <span class="st-block-sub">7 天线上实践课</span>
+        <span class="st-block-go">看课程安排 ›</span>
+      </button>
+    </section>
 
-    <section class="pp-visa-wrap" aria-label="签证页示例">
-      <p class="pp-page-label">签证页示例：提交后，您的产品会拿到这样一页。</p>
-      <div id="hbSampleSheet">
+    <details class="st-dossier" id="sampleDossier">
+      <summary>
+        <span class="st-folder" aria-hidden="true">
+          <span class="st-folder-flap"></span>
+          <span class="st-folder-tie"></span>
+          <span class="st-folder-chop">样本</span>
+        </span>
+        <span class="st-dossier-text">
+          <strong>示例报告</strong>
+          <span>床架 · 美国站 · 提交后拿到同样一份</span>
+        </span>
+        <span class="st-dossier-cta"></span>
+      </summary>
+      <div class="st-dossier-body" id="hbSampleSheet">
       <article class="sheet">
         <header class="sheet-head">
           <p class="sheet-letterhead"><img src="partners/heca-emblem.png" alt="" width="26" height="20"><span>湖北省电子商务行业协会</span></p>
@@ -2904,10 +3202,14 @@
         <p class="sheet-mrz" aria-hidden="true">V&lt;HBEC&lt;&lt;3733101&lt;&lt;US&lt;&lt;202610&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</p>
         <footer class="sheet-foot">数据来源：卖家精灵估算，不是亚马逊的真实销量，仅供参考。人民币按 1 美元约 6.8 元换算。</footer>
       </article></div>
-    </section>
+    </details>
+
+    <div class="static-demo-notice" id="staticDemoNotice" role="status" hidden>
+      当前为在线流程测试版。填写和提交结果仅保存在本浏览器，不会发送给协会或亚马逊。
+    </div>
 
     <section class="pp-form" id="assessment" aria-labelledby="formTitle">
-      <h2 class="pp-h2" id="formTitle">填写出海申请</h2>
+      <h2 class="pp-h2" id="formTitle">填写初评申请</h2>
       <p class="pp-lead">3 页，约 3 分钟。填写的文字会自动保存在本机，退出后可以接着填。</p>
         <div class="form-shell">
           <div id="formArea">
@@ -2961,7 +3263,7 @@
 
                   <div class="field">
                     <label for="productLink">现有商品链接 <span class="optional">选填</span></label>
-                    <input id="productLink" name="productLink" type="url" placeholder="1688、淘宝、独立站等">
+                    <input id="productLink" name="productLink" type="url" inputmode="url" autocapitalize="off" enterkeyhint="next" placeholder="1688、淘宝、独立站等">
                     <p class="hint">有链接可帮助专员更快了解产品。</p>
                   </div>
 
@@ -2979,7 +3281,7 @@
                   </div>
 
                   <div class="field field-full">
-                    <span class="field-label">产品图片或产品说明 <span class="optional">强烈建议上传产品图片</span></span>
+                    <span class="field-label"><span class="required">产品图片或产品说明</span> <span class="optional">二选一，建议传图</span></span>
                     <label class="upload-zone" id="uploadZone" for="productImages">
                       <span>
                         <i class="icon" data-lucide="image-up"></i>
@@ -3068,17 +3370,17 @@
                 <div class="field-grid">
                   <div class="field">
                     <label class="required" for="company">公司或工厂名称</label>
-                    <input id="company" name="company" type="text" placeholder="公司、工厂或店铺名称，简称也可以">
+                    <input id="company" name="company" type="text" autocomplete="organization" enterkeyhint="next" placeholder="公司、工厂或店铺名称，简称也可以">
                     <p class="error" data-error-for="company"></p>
                   </div>
                   <div class="field">
                     <label class="required" for="contact">联系人</label>
-                    <input id="contact" name="contact" type="text" placeholder="您的姓名" autocomplete="name">
+                    <input id="contact" name="contact" type="text" placeholder="您的姓名" autocomplete="name" enterkeyhint="next">
                     <p class="error" data-error-for="contact"></p>
                   </div>
                   <div class="field">
                     <label class="required" for="phone">手机号码</label>
-                    <input id="phone" name="phone" type="tel" inputmode="numeric" maxlength="11" placeholder="请输入常用手机号" autocomplete="tel">
+                    <input id="phone" name="phone" type="tel" inputmode="numeric" maxlength="11" placeholder="请输入常用手机号" autocomplete="tel" enterkeyhint="done">
                     <p class="error" data-error-for="phone"></p>
                     <p class="contact-notice">
                       <i class="icon" data-lucide="message-circle-warning"></i>
@@ -3163,7 +3465,7 @@
     <section class="pp-page pp-after" aria-labelledby="afterTitle">
       <h2 class="pp-h2" id="afterTitle">提交以后</h2>
       <ol class="pp-steps">
-        <li><strong>马上拿到签证页</strong><span>页面直接显示您这款产品所在类目的市场数据。</span></li>
+        <li><strong>马上拿到市场初评</strong><span>页面直接显示您这款产品所在类目的市场数据。</span></li>
         <li><strong>经理核对</strong><span>亚马逊全球开店湖北经理核对产品、站点和您的需求。</span></li>
         <li><strong>给出建议</strong><span>经理联系您，讲清楚初评结论和下一步怎么做。</span></li>
       </ol>
@@ -3172,11 +3474,6 @@
         <li>可以随时要求查询、更正或删除您的资料。</li>
       </ul>
     </section>
-
-    <div class="pp-next" aria-label="课程预告">
-      <strong>AI Agent 亚马逊运营扫盲课</strong>
-      <span>敬请期待</span>
-    </div>
 
     <section class="pp-page" aria-labelledby="faqTitle">
       <h2 class="pp-h2" id="faqTitle">常见问题</h2>
@@ -3208,6 +3505,83 @@
     <a class="btn" href="#assessment">免费出一份初评</a>
   </div>
 </div>
+
+  <div class="modal-backdrop" id="freeLearnModal" role="dialog" aria-modal="true" aria-labelledby="freeLearnTitle">
+    <div class="modal modal-sm">
+      <div class="modal-head">
+        <h2 id="freeLearnTitle">免费自学 · 亚马逊知识库</h2>
+        <button class="icon-btn" type="button" data-close aria-label="关闭">
+          <i class="icon" data-lucide="x"></i>
+        </button>
+      </div>
+      <div class="modal-body st-learn">
+        <p>知识库整理了亚马逊全球开店官网的公开资料，截至 2026 年 11 月 5 日。用微信扫码加入，不收费。</p>
+        <img class="st-learn-qr" src="partners/ima-kb.jpg" alt="ima 知识库二维码：亚马逊官网信息" width="600" height="931" loading="lazy">
+        <p class="st-hint">在微信里长按二维码，选「识别图中二维码」。</p>
+        <p class="st-soon">AI Agent 自学资料正在整理，整理好后放在这里。</p>
+        <div class="form-actions">
+          <button class="btn btn-secondary" type="button" data-close>关闭</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="modal-backdrop" id="courseModal" role="dialog" aria-modal="true" aria-labelledby="courseTitle">
+    <div class="modal modal-sm">
+      <div class="modal-head">
+        <h2 id="courseTitle">AI Agent 培训课 · 299 元</h2>
+        <button class="icon-btn" type="button" data-close aria-label="关闭">
+          <i class="icon" data-lucide="x"></i>
+        </button>
+      </div>
+      <div class="modal-body st-course">
+        <!-- group QR placeholder: replace the .st-group-qr text with <img src="partners/course-group-qr.jpg" alt="课程咨询群二维码"> when the code arrives -->
+        <div class="st-group" id="courseGroup">
+          <div class="st-group-qr" role="img" aria-label="课程群二维码，即将放出">群二维码<br>即将放出</div>
+          <div><strong>课程咨询群</strong><span>在微信里长按二维码，选「识别图中二维码」进群。</span></div>
+        </div>
+        <!-- text transcribed from 299元-AI跨境入门实践课-课程介绍.png (Orcha Output, 2026-11-03); keep in sync with that image -->
+        <div class="st-course-hero">
+          <span class="st-course-kicker">7 天线上实践课</span>
+          <strong>AI 跨境入门实践课</strong>
+          <span>搭好个人知识库，跑通第一条选品工作流</span>
+          <span class="st-course-price">299 元 / 人 · 录播课程 · 两场直播 · 社群每日答疑</span>
+        </div>
+        <h3>适合谁</h3>
+        <p>想了解亚马逊开店的入门者。还没用好 AI 的卖家，以及希望提高效率的初级运营。</p>
+        <h3>学完带走四样成果</h3>
+        <ul class="st-course-list">
+          <li><strong>个人知识库</strong>用 WorkBuddy 整理亚马逊公开资料、学习笔记和工作经验。</li>
+          <li><strong>亚马逊选品工作流</strong>结合第三方数据与官方选品工具，拆解任务并实际跑通。</li>
+          <li><strong>开店准备与步骤指南</strong>基于知识库整理材料清单、注册链接获取方式及后续步骤。</li>
+          <li><strong>可复用的 AI 技能</strong>安装并验证 2—3 个现成 Skill，再制作一个专属 Skill。</li>
+        </ul>
+        <p class="st-course-note">官方选品工具需具备相应的卖家账户权限。</p>
+        <h3>每天做一步</h3>
+        <ol class="st-course-days">
+          <li>安装工具，搭建知识库</li>
+          <li>查找、安装并安全验证技能</li>
+          <li>拆解亚马逊选品任务</li>
+          <li>实际操作并调整流程</li>
+          <li>固化一个重复操作</li>
+          <li>调用知识库整理开店步骤</li>
+          <li>展示作品，接受点评与答疑</li>
+        </ol>
+        <h3>怎样陪你学完</h3>
+        <ul class="st-course-list">
+          <li><strong>录播学习</strong>跟着课程逐步操作。</li>
+          <li><strong>两场直播</strong>开营说明安排，结营展示答疑。</li>
+          <li><strong>社群陪伴</strong>每日答疑，每日完成一项任务。</li>
+          <li><strong>打卡与点评</strong>生成打卡图发群，结营接受讲师点评。</li>
+        </ul>
+        <a class="st-course-link" href="partners/course-299.jpg" target="_blank" rel="noopener">查看课程长图 ›</a>
+        <p class="st-soon">报名入口正在准备，开放后在这里报名。</p>
+        <div class="form-actions">
+          <button class="btn btn-secondary" type="button" data-close>关闭</button>
+        </div>
+      </div>
+    </div>
+  </div>
 
   <div class="toast" id="toast" role="status" aria-live="polite"></div>
 

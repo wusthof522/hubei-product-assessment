@@ -246,6 +246,11 @@
       document
         .querySelector(`[data-step="${step}"] .error:not(:empty)`)
         ?.scrollIntoView({ behavior: "smooth", block: "center" });
+      // mobile: put the cursor in the first field to fix, so the user can type right away
+      const firstInvalid = document.querySelector(
+        `[data-step="${step}"] input.invalid:not([type="checkbox"]):not([type="radio"]):not([type="file"]), [data-step="${step}"] textarea.invalid`,
+      );
+      firstInvalid?.focus({ preventScroll: true });
     }
     return valid;
   }
@@ -1239,7 +1244,10 @@
       );
       successView.scrollIntoView({ behavior: "smooth", block: "start" });
     } catch (error) {
-      showToast(`提交失败：${error.message}。请检查网络后重试。`);
+      const offline = error instanceof TypeError || navigator.onLine === false;
+      showToast(offline
+        ? "网络不稳定，这次没有提交成功。已填的内容还在，请稍后再点一次。"
+        : `这次没有提交成功（${error.message}）。已填的内容还在，请稍后再点一次。`);
       modal.dataset.submitting = "false";
       modal.removeAttribute("aria-busy");
       button.disabled = false;
@@ -1536,6 +1544,25 @@
     form.addEventListener("change", clearOwnError);
     form.addEventListener("change", scheduleSave);
     form.addEventListener("submit", submitAssessment);
+    // Phone keyboards' 前往/下一项/完成 key sends Enter. Move to the next field of the
+    // current page instead of submitting the whole form from page 1 or 2.
+    form.addEventListener("keydown", (event) => {
+      if (event.key !== "Enter" || event.isComposing || event.keyCode === 229) return;
+      const target = event.target;
+      if (!(target instanceof HTMLInputElement) || ["checkbox", "radio", "file", "submit", "button"].includes(target.type)) return;
+      if (target === productName && categoryOptions.classList.contains("show")) {
+        event.preventDefault();
+        categoryOptions.querySelector(".category-option")?.focus();
+        return;
+      }
+      event.preventDefault();
+      const panel = target.closest(".step-panel");
+      const fields = [...(panel?.querySelectorAll("input, textarea") || [])].filter((el) =>
+        !["checkbox", "radio", "file", "hidden"].includes(el.type) && !el.hidden && el.offsetParent !== null);
+      const next = fields[fields.indexOf(target) + 1];
+      if (next) next.focus();
+      else target.blur();
+    });
     document.getElementById("confirmSubmission").addEventListener("click", confirmSubmission);
 
     document.getElementById("clearDraft").addEventListener("click", () => {
