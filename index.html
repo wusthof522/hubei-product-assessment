@@ -3072,6 +3072,12 @@
     .world-stall .st-sign { background: linear-gradient(180deg, #1550a3 0, var(--heca-blue) 55%, #082f69 100%); }
     .world-stall .pp-mgr { color: var(--heca-blue); }
     .world-stall .pp-mgr:active { background: #e6edf7; }
+
+    /* all large red areas toned down to the HECA blue (owner 2026-11-23); form errors keep --danger red */
+    :root { --red: var(--heca-blue); --red-deep: #082f69; }
+    .world-stall .pp-back { background: linear-gradient(180deg, #082f69, var(--heca-blue)); }
+    .world-stall .pp-mgr:active, .world-stall .pp-apply-row button:active { background: #e6edf7; }
+    .world-stall .pp-apply-row button:active { background: var(--red-deep); }
   </style>
 </head>
 <body class="world-stall">
