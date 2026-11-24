@@ -3082,6 +3082,80 @@
     /* course group QR is a real image now: stack it, large enough to scan (owner 2026-11-24) */
     .st-group { grid-template-columns: 1fr; justify-items: center; text-align: center; }
     .st-group-img { display: block; width: min(240px, 78%); height: auto; }
+
+    /* ===== owner round 2026-11-24 ===== */
+    /* the kraft folder is now a button that opens the report in a modal */
+    button.st-dossier {
+      width: calc(100% - 24px);
+      margin: 16px 12px 0;
+      min-height: 92px;
+      padding: 14px 14px 14px 12px;
+      display: grid;
+      grid-template-columns: 74px minmax(0, 1fr) auto;
+      align-items: center;
+      gap: 12px;
+      border: 2px solid var(--kraft-deep);
+      border-radius: 0;
+      background: linear-gradient(180deg, #d6b27a 0, var(--kraft) 100%);
+      box-shadow: 0 6px 14px rgba(20, 20, 20, 0.16);
+      font: inherit;
+      color: inherit;
+      text-align: left;
+      cursor: pointer;
+    }
+    button.st-dossier:active { transform: translateY(1px); box-shadow: 0 3px 8px rgba(20, 20, 20, 0.16); }
+    button.st-dossier .st-dossier-cta::after { content: none; }
+
+    /* the report: an analyst's document in the same blue family, not the stall's signage.
+       Hairline rules instead of black frames, a soft blue head band, flat figure cells, no tags or tilt. */
+    .world-stall { --rep-ink: #1b2a3f; --rep-muted: #5a6779; --rep-rule: #d6dee9; --rep-band: #eef3fa; --rep-paper: #fcfdfe; }
+    .world-stall .sheet { border: 1px solid var(--rep-rule); background: var(--rep-paper); box-shadow: 0 8px 22px rgba(11, 60, 132, 0.08); }
+    .world-stall .sheet .sheet-head { padding: 16px 16px 14px; border-top: 0; border-bottom: 1px solid var(--rep-rule); background: var(--rep-band); }
+    .world-stall .sheet .sheet-letterhead { color: var(--rep-muted); font-size: 12.5px; font-weight: 700; letter-spacing: 0.04em; }
+    .world-stall .sheet .sheet-title { color: var(--heca-blue); font-size: 21px; font-weight: 700; letter-spacing: 0.02em; }
+    .world-stall .sheet .sheet-sub { color: var(--rep-muted); font-size: 13.5px; }
+    .world-stall .sheet-rows { padding: 0; gap: 0; background: transparent; grid-template-columns: 1fr 1fr; }
+    .world-stall .sheet-rows::before { content: none; }
+    .world-stall .sheet-row,
+    .world-stall .sheet-row.has-stamp,
+    .world-stall .sheet-row.has-rect,
+    .world-stall .sheet-row:nth-child(n) {
+      padding: 14px 14px 13px;
+      background: transparent;
+      outline: 0;
+      box-shadow: none;
+      transform: none;
+      border-bottom: 1px solid var(--rep-rule);
+    }
+    .world-stall .sheet-row:nth-child(odd) { border-right: 1px solid var(--rep-rule); }
+    .world-stall .sheet-row::before { content: none; }
+    .world-stall .sheet-row dt { color: var(--rep-muted); font-size: 12.5px; font-weight: 700; letter-spacing: 0.04em; }
+    .world-stall .sheet-row strong { margin-top: 4px; color: var(--heca-blue); font-size: clamp(18px, 5vw, 21px); font-weight: 700; font-variant-numeric: tabular-nums; }
+    .world-stall .sheet-row dd span { margin-top: 4px; color: var(--rep-ink); font-size: 13px; line-height: 1.55; }
+    .world-stall .sheet-products { padding: 14px 16px 6px; background: transparent; }
+    .world-stall .sheet-products h5 { color: var(--rep-muted); font-size: 13px; }
+    .world-stall .sheet-products li, .world-stall .sheet-products li:first-child { border-top: 1px solid var(--rep-rule); }
+    .world-stall .sheet-products li:first-child { border-top: 0; }
+    .world-stall .sheet-product-meta { color: var(--rep-muted); }
+    .world-stall .sheet .sheet-foot { border-top: 1px solid var(--rep-rule); background: var(--rep-band); color: var(--rep-muted); font-size: 12.5px; }
+    .world-stall .sheet .stamp-issued { color: var(--heca-blue); }
+
+    /* report modal: full-height sheet on the phone, the report fills it edge to edge */
+    .modal-report .report-body { padding: 0 0 12px; }
+    .modal-report .report-note { margin: 0; padding: 12px 16px; color: var(--rep-muted); font-size: 14px; line-height: 1.6; }
+    .modal-report .sheet { border-left: 0; border-right: 0; box-shadow: none; }
+    .modal-report .report-actions { padding: 14px 16px 0; display: grid; grid-template-columns: auto 1fr; gap: 10px; }
+    .modal-report .report-actions .btn { min-height: 48px; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; }
+
+    /* free-learn: the "coming soon" line is the call to action now */
+    .st-soon-strong { border: 1px solid var(--heca-blue) !important; border-style: solid !important; background: #eef3fa !important; color: var(--heca-blue) !important; font-weight: 800; text-align: center; }
+
+    /* product-name guidance and the 二选一 marker */
+    .field label.pn-label { justify-content: space-between; gap: 8px; }
+    .pn-hint { color: var(--heca-blue); font-size: 13px; font-weight: 700; letter-spacing: 0; }
+    .pick-one { padding: 2px 8px; background: var(--yellow); color: var(--ink); font-size: 13px; font-weight: 800; letter-spacing: 0; white-space: nowrap; }
+
+    .world-stall .sheet-row strong { word-break: keep-all; }
   </style>
 </head>
 <body class="world-stall">
@@ -3125,99 +3199,18 @@
       </button>
     </section>
 
-    <details class="st-dossier" id="sampleDossier">
-      <summary>
-        <span class="st-folder" aria-hidden="true">
-          <span class="st-folder-flap"></span>
-          <span class="st-folder-tie"></span>
-          <span class="st-folder-chop">样本</span>
-        </span>
-        <span class="st-dossier-text">
-          <strong>示例报告</strong>
-          <span>床架 · 美国站 · 提交后拿到同样一份</span>
-        </span>
-        <span class="st-dossier-cta"></span>
-      </summary>
-      <div class="st-dossier-body" id="hbSampleSheet">
-      <article class="sheet">
-        <header class="sheet-head">
-          <p class="sheet-letterhead"><img src="partners/heca-emblem.png" alt="" width="26" height="20"><span>湖北省电子商务行业协会</span></p>
-          <h2 class="sheet-title">床架 · 市场初评</h2>
-          <p class="sheet-sub">家具 · 家具卧室 · 美国站<br>数据月份 2026 年 10 月<br><span class="sheet-docno">示例编号 HB-SAMPLE</span></p>
-          <svg class="stamp stamp-entry" viewBox="0 0 120 120" width="100" height="100" aria-hidden="true" focusable="false">
-      <defs><path id="samplee-ring" d="M60,60 m-44,0 a44,44 0 1,1 88,0 a44,44 0 1,1 -88,0"/><filter id="samplee-ink" x="-5%" y="-5%" width="110%" height="110%">
-      <feTurbulence type="fractalNoise" baseFrequency="1.15" numOctaves="2" seed="2" result="noise"/>
-      <feColorMatrix in="noise" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 -2 2.25" result="mask"/>
-      <feComposite in="SourceGraphic" in2="mask" operator="in"/>
-    </filter></defs>
-      <g filter="url(#samplee-ink)">
-        <circle cx="60" cy="60" r="56" fill="none" stroke="currentColor" stroke-width="3.2"/>
-        <circle cx="60" cy="60" r="51" fill="none" stroke="currentColor" stroke-width="1.2"/>
-        <circle cx="60" cy="60" r="35" fill="none" stroke="currentColor" stroke-width="1.2"/>
-        <text fill="currentColor" font-size="12.5" font-weight="700" letter-spacing="1.6"><textPath href="#samplee-ring">美国站 · 入境 · 美国站 · 入境 · </textPath></text>
-        <text x="60" y="63" fill="currentColor" text-anchor="middle" font-size="19" font-weight="800">美国站</text>
-        <text x="60" y="80" fill="currentColor" text-anchor="middle" font-size="12.5" font-weight="700">2026.10</text>
-      </g>
-    </svg>
-        </header>
-        <dl class="sheet-rows">
-          
-          <div class="sheet-row has-stamp has-rect">
-            <dt>市场有多大</dt>
-            <dd><strong>约 ¥3.1 亿 / 月</strong><span>头部 94 款商品的月销售额，约 $4,608 万。</span></dd><svg class="stamp stamp-market" viewBox="0 0 156 76" width="142" height="69" aria-hidden="true" focusable="false">
-      <defs><filter id="samplem-ink" x="-5%" y="-5%" width="110%" height="110%">
-      <feTurbulence type="fractalNoise" baseFrequency="1.15" numOctaves="2" seed="3" result="noise"/>
-      <feColorMatrix in="noise" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 -2 2.25" result="mask"/>
-      <feComposite in="SourceGraphic" in2="mask" operator="in"/>
-    </filter></defs>
-      <g filter="url(#samplem-ink)">
-        <rect x="3" y="3" width="150" height="70" fill="none" stroke="currentColor" stroke-width="3.2"/>
-        <rect x="9" y="9" width="138" height="58" fill="none" stroke="currentColor" stroke-width="1.2"/>
-        <text x="78" y="40" fill="currentColor" text-anchor="middle" font-size="21" font-weight="800" textLength="122" lengthAdjust="spacingAndGlyphs">约 ¥3.1 亿</text>
-        <text x="78" y="57" fill="currentColor" text-anchor="middle" font-size="12" font-weight="700">月销售额</text>
-      </g>
-    </svg>
-          </div>
-          <div class="sheet-row">
-            <dt>卖什么价</dt>
-            <dd><strong>约 ¥1,110</strong><span>多数在 ¥763–1,858 之间。对照一下您的出厂价、运费和平台费用。</span></dd>
-          </div>
-          <div class="sheet-row">
-            <dt>和去年比</dt>
-            <dd><strong>下降 10%</strong><span>头部销售额比去年同月少 10%。</span></dd>
-          </div>
-          <div class="sheet-row has-stamp">
-            <dt>新品机会</dt>
-            <dd><strong>53%</strong><span>头部商品里，53% 是近 18 个月才上架的。新品还有空间。</span></dd><svg class="stamp stamp-new" viewBox="0 0 120 120" width="100" height="100" aria-hidden="true" focusable="false">
-      <defs><path id="samplen-ring" d="M60,60 m-44,0 a44,44 0 1,1 88,0 a44,44 0 1,1 -88,0"/><filter id="samplen-ink" x="-5%" y="-5%" width="110%" height="110%">
-      <feTurbulence type="fractalNoise" baseFrequency="1.15" numOctaves="2" seed="2" result="noise"/>
-      <feColorMatrix in="noise" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 -2 2.25" result="mask"/>
-      <feComposite in="SourceGraphic" in2="mask" operator="in"/>
-    </filter></defs>
-      <g filter="url(#samplen-ink)">
-        <circle cx="60" cy="60" r="56" fill="none" stroke="currentColor" stroke-width="3.2"/>
-        <circle cx="60" cy="60" r="51" fill="none" stroke="currentColor" stroke-width="1.2"/>
-        <circle cx="60" cy="60" r="35" fill="none" stroke="currentColor" stroke-width="1.2"/>
-        <text fill="currentColor" font-size="12.5" font-weight="700" letter-spacing="1.6"><textPath href="#samplen-ring">近 18 个月 · 新品上架 · 近 18 个月 · </textPath></text>
-        <text x="60" y="63" fill="currentColor" text-anchor="middle" font-size="19" font-weight="800">53%</text>
-        <text x="60" y="80" fill="currentColor" text-anchor="middle" font-size="12.5" font-weight="700">新品占比</text>
-      </g>
-    </svg>
-          </div>
-          <div class="sheet-row">
-            <dt>竞争</dt>
-            <dd><strong>前 5 个品牌占 38%</strong><span>有头部品牌，但没有被少数几家垄断。</span></dd>
-          </div>
-          <div class="sheet-row">
-            <dt>买家评价</dt>
-            <dd><strong>平均 4.4 分</strong><span>差评里反复出现的问题，往往就是改款方向。</span></dd>
-          </div>
-        </dl>
-        
-        <p class="sheet-mrz" aria-hidden="true">V&lt;HBEC&lt;&lt;3733101&lt;&lt;US&lt;&lt;202610&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</p>
-        <footer class="sheet-foot">数据来源：卖家精灵估算，不是亚马逊的真实销量，仅供参考。人民币按 1 美元约 6.8 元换算。</footer>
-      </article></div>
-    </details>
+    <button class="st-dossier" id="sampleDossier" type="button" data-open="sampleModal">
+      <span class="st-folder" aria-hidden="true">
+        <span class="st-folder-flap"></span>
+        <span class="st-folder-tie"></span>
+        <span class="st-folder-chop">样本</span>
+      </span>
+      <span class="st-dossier-text">
+        <strong>示例报告</strong>
+        <span>床架 · 美国站 · 提交后拿到同样一份</span>
+      </span>
+      <span class="st-dossier-cta">打开看看</span>
+    </button>
 
     <div class="static-demo-notice" id="staticDemoNotice" role="status" hidden>
       当前为在线流程测试版。填写和提交结果仅保存在本浏览器，不会发送给协会或亚马逊。
@@ -3255,7 +3248,7 @@
                 </div>
                 <div class="field-grid">
                   <div class="field field-full">
-                    <label class="required" for="productName">产品名称</label>
+                    <label class="pn-label" for="productName"><span class="required">产品名称</span><span class="pn-hint">输入后，点选最接近的类目</span></label>
                     <input
                       id="productName"
                       name="productName"
@@ -3282,21 +3275,8 @@
                     <p class="hint">有链接可帮助专员更快了解产品。</p>
                   </div>
 
-                  <div class="field">
-                    <label for="priceRange">大概的出厂价 <span class="optional">选填</span></label>
-                    <select id="priceRange" name="priceRange">
-                      <option value="">请选择价格区间</option>
-                      <option>50 元以内</option>
-                      <option>50–200 元</option>
-                      <option>200–500 元</option>
-                      <option>500–1000 元</option>
-                      <option>1000 元以上</option>
-                      <option>暂不确定</option>
-                    </select>
-                  </div>
-
                   <div class="field field-full">
-                    <span class="field-label"><span class="required">产品图片或产品说明</span> <span class="optional">二选一，建议传图</span></span>
+                    <span class="field-label"><span class="required">产品图片或产品说明</span> <span class="pick-one">二选一，建议传图</span></span>
                     <label class="upload-zone" id="uploadZone" for="productImages">
                       <span>
                         <i class="icon" data-lucide="image-up"></i>
@@ -3332,8 +3312,8 @@
 
               <section class="step-panel" data-step="2">
                 <div class="panel-heading">
-                  <h3>您希望先解决什么问题？</h3>
-                  <p>可多选，不确定的项目后续由专员协助判断。</p>
+                  <h3>您打算去哪个站点？</h3>
+                  <p>站点可多选，拿不准的经理会帮您判断。</p>
                 </div>
                 <div class="field-grid">
                   <div class="field field-full">
@@ -3355,15 +3335,6 @@
                     <p class="error" data-error-for="stage"></p>
                   </div>
 
-                  <div class="field field-full">
-                    <span class="field-label">希望获得的支持 <span class="optional">可多选</span></span>
-                    <div class="choice-grid services">
-                      <div class="choice"><input id="needMarket" name="needs" value="市场评估" type="checkbox"><label for="needMarket">市场与选品评估</label></div>
-                      <div class="choice"><input id="needModify" name="needs" value="产品改款" type="checkbox"><label for="needModify">产品改款建议</label></div>
-                      <div class="choice"><input id="needStore" name="needs" value="开店运营" type="checkbox"><label for="needStore">开店与运营</label></div>
-                      <div class="choice"><input id="needLogistics" name="needs" value="合规物流" type="checkbox"><label for="needLogistics">合规与物流</label></div>
-                    </div>
-                  </div>
                 </div>
                 <div class="form-actions">
                   <button class="btn btn-secondary" type="button" data-prev>
@@ -3521,6 +3492,103 @@
   </div>
 </div>
 
+  <div class="modal-backdrop" id="sampleModal" role="dialog" aria-modal="true" aria-labelledby="sampleTitle">
+    <div class="modal modal-sm modal-report">
+      <div class="modal-head">
+        <h2 id="sampleTitle">示例报告 · 床架</h2>
+        <button class="icon-btn" type="button" data-close aria-label="关闭">
+          <i class="icon" data-lucide="x"></i>
+        </button>
+      </div>
+      <div class="modal-body report-body">
+        <p class="report-note">这是「床架」的示例。提交您的产品后，会拿到同样格式的一份。</p>
+        <div id="hbSampleSheet">
+      <article class="sheet">
+        <header class="sheet-head">
+          <p class="sheet-letterhead"><img src="partners/heca-emblem.png" alt="" width="26" height="20"><span>湖北省电子商务行业协会</span></p>
+          <h2 class="sheet-title">床架 · 市场初评</h2>
+          <p class="sheet-sub">家具 · 家具卧室 · 美国站<br>数据月份 2026 年 10 月<br><span class="sheet-docno">示例编号 HB-SAMPLE</span></p>
+          <svg class="stamp stamp-entry" viewBox="0 0 120 120" width="100" height="100" aria-hidden="true" focusable="false">
+      <defs><path id="samplee-ring" d="M60,60 m-44,0 a44,44 0 1,1 88,0 a44,44 0 1,1 -88,0"/><filter id="samplee-ink" x="-5%" y="-5%" width="110%" height="110%">
+      <feTurbulence type="fractalNoise" baseFrequency="1.15" numOctaves="2" seed="2" result="noise"/>
+      <feColorMatrix in="noise" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 -2 2.25" result="mask"/>
+      <feComposite in="SourceGraphic" in2="mask" operator="in"/>
+    </filter></defs>
+      <g filter="url(#samplee-ink)">
+        <circle cx="60" cy="60" r="56" fill="none" stroke="currentColor" stroke-width="3.2"/>
+        <circle cx="60" cy="60" r="51" fill="none" stroke="currentColor" stroke-width="1.2"/>
+        <circle cx="60" cy="60" r="35" fill="none" stroke="currentColor" stroke-width="1.2"/>
+        <text fill="currentColor" font-size="12.5" font-weight="700" letter-spacing="1.6"><textPath href="#samplee-ring">美国站 · 入境 · 美国站 · 入境 · </textPath></text>
+        <text x="60" y="63" fill="currentColor" text-anchor="middle" font-size="19" font-weight="800">美国站</text>
+        <text x="60" y="80" fill="currentColor" text-anchor="middle" font-size="12.5" font-weight="700">2026.10</text>
+      </g>
+    </svg>
+        </header>
+        <dl class="sheet-rows">
+          
+          <div class="sheet-row has-stamp has-rect">
+            <dt>市场有多大</dt>
+            <dd><strong>约 ¥3.1 亿 / 月</strong><span>头部 94 款商品的月销售额，约 $4,608 万。</span></dd><svg class="stamp stamp-market" viewBox="0 0 156 76" width="142" height="69" aria-hidden="true" focusable="false">
+      <defs><filter id="samplem-ink" x="-5%" y="-5%" width="110%" height="110%">
+      <feTurbulence type="fractalNoise" baseFrequency="1.15" numOctaves="2" seed="3" result="noise"/>
+      <feColorMatrix in="noise" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 -2 2.25" result="mask"/>
+      <feComposite in="SourceGraphic" in2="mask" operator="in"/>
+    </filter></defs>
+      <g filter="url(#samplem-ink)">
+        <rect x="3" y="3" width="150" height="70" fill="none" stroke="currentColor" stroke-width="3.2"/>
+        <rect x="9" y="9" width="138" height="58" fill="none" stroke="currentColor" stroke-width="1.2"/>
+        <text x="78" y="40" fill="currentColor" text-anchor="middle" font-size="21" font-weight="800" textLength="122" lengthAdjust="spacingAndGlyphs">约 ¥3.1 亿</text>
+        <text x="78" y="57" fill="currentColor" text-anchor="middle" font-size="12" font-weight="700">月销售额</text>
+      </g>
+    </svg>
+          </div>
+          <div class="sheet-row">
+            <dt>卖什么价</dt>
+            <dd><strong>约 ¥1,110</strong><span>多数在 ¥763–1,858 之间。对照一下您的出厂价、运费和平台费用。</span></dd>
+          </div>
+          <div class="sheet-row">
+            <dt>和去年比</dt>
+            <dd><strong>下降 10%</strong><span>头部销售额比去年同月少 10%。</span></dd>
+          </div>
+          <div class="sheet-row has-stamp">
+            <dt>新品机会</dt>
+            <dd><strong>53%</strong><span>头部商品里，53% 是近 18 个月才上架的。新品还有空间。</span></dd><svg class="stamp stamp-new" viewBox="0 0 120 120" width="100" height="100" aria-hidden="true" focusable="false">
+      <defs><path id="samplen-ring" d="M60,60 m-44,0 a44,44 0 1,1 88,0 a44,44 0 1,1 -88,0"/><filter id="samplen-ink" x="-5%" y="-5%" width="110%" height="110%">
+      <feTurbulence type="fractalNoise" baseFrequency="1.15" numOctaves="2" seed="2" result="noise"/>
+      <feColorMatrix in="noise" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 -2 2.25" result="mask"/>
+      <feComposite in="SourceGraphic" in2="mask" operator="in"/>
+    </filter></defs>
+      <g filter="url(#samplen-ink)">
+        <circle cx="60" cy="60" r="56" fill="none" stroke="currentColor" stroke-width="3.2"/>
+        <circle cx="60" cy="60" r="51" fill="none" stroke="currentColor" stroke-width="1.2"/>
+        <circle cx="60" cy="60" r="35" fill="none" stroke="currentColor" stroke-width="1.2"/>
+        <text fill="currentColor" font-size="12.5" font-weight="700" letter-spacing="1.6"><textPath href="#samplen-ring">近 18 个月 · 新品上架 · 近 18 个月 · </textPath></text>
+        <text x="60" y="63" fill="currentColor" text-anchor="middle" font-size="19" font-weight="800">53%</text>
+        <text x="60" y="80" fill="currentColor" text-anchor="middle" font-size="12.5" font-weight="700">新品占比</text>
+      </g>
+    </svg>
+          </div>
+          <div class="sheet-row">
+            <dt>竞争</dt>
+            <dd><strong>前 5 个品牌占 38%</strong><span>有头部品牌，但没有被少数几家垄断。</span></dd>
+          </div>
+          <div class="sheet-row">
+            <dt>买家评价</dt>
+            <dd><strong>平均 4.4 分</strong><span>差评里反复出现的问题，往往就是改款方向。</span></dd>
+          </div>
+        </dl>
+        
+        <p class="sheet-mrz" aria-hidden="true">V&lt;HBEC&lt;&lt;3733101&lt;&lt;US&lt;&lt;202610&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</p>
+        <footer class="sheet-foot">数据来源：卖家精灵估算，不是亚马逊的真实销量，仅供参考。人民币按 1 美元约 6.8 元换算。</footer>
+      </article></div>
+        <div class="form-actions report-actions">
+          <button class="btn btn-secondary" type="button" data-close>关闭</button>
+          <a class="btn" href="#assessment" data-close>免费出一份我的</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
   <div class="modal-backdrop" id="freeLearnModal" role="dialog" aria-modal="true" aria-labelledby="freeLearnTitle">
     <div class="modal modal-sm">
       <div class="modal-head">
@@ -3533,7 +3601,7 @@
         <p>知识库整理了亚马逊全球开店官网的公开资料，截至 2026 年 11 月 5 日。用微信扫码加入，不收费。</p>
         <img class="st-learn-qr" src="partners/ima-kb.jpg" alt="ima 知识库二维码：亚马逊官网信息" width="600" height="931" loading="lazy">
         <p class="st-hint">在微信里长按二维码，选「识别图中二维码」。</p>
-        <p class="st-soon">AI Agent 自学资料正在整理，整理好后放在这里。</p>
+        <p class="st-soon st-soon-strong">敬请期待：联系协会工作人员，预约未来更多资源</p>
         <div class="form-actions">
           <button class="btn btn-secondary" type="button" data-close>关闭</button>
         </div>
