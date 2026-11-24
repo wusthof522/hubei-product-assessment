@@ -555,7 +555,7 @@
       syncManualSourceField();
       renderConsultQr(consultPartner.value);
     } catch (error) {
-      listNode.innerHTML = '<span class="partner">合作单位信息暂时无法加载</span>';
+      listNode.innerHTML = '<span class="partner">协会信息暂时无法加载，请稍后刷新</span>';
       console.warn("partners load failed", error);
     }
   }
@@ -1093,15 +1093,16 @@
     });
   }
 
+  // This page belongs to one association. Every submission is filed under it, so the shared
+  // /amz/admin can tell this association's records from other pages; the optional 「从哪里了解到本页面」
+  // answer rides along as channel fields instead of replacing the partner (2026-11-24).
   function getSelectedPartner() {
+    const owner = state.partners[0] || { id: "hubei-ec", name: "湖北省电子商务行业协会" };
     const source = form.elements.source.value;
-    const partner = state.partners.find((item) => item.id === source);
-    if (partner) return { id: partner.id, name: partner.name };
-    if (source === "manual") {
-      return { id: "manual", name: sourceOther.value.trim() || "其他渠道" };
-    }
-    const selectedText = form.elements.source.selectedOptions[0]?.textContent || "";
-    return { id: source || "unspecified", name: selectedText || "未填写" };
+    const channel = source === "manual"
+      ? (sourceOther.value.trim() || "其他渠道")
+      : (source ? (form.elements.source.selectedOptions[0]?.textContent || source) : "未填写");
+    return { id: owner.id, name: owner.name, channelId: source || "unspecified", channel };
   }
 
   async function buildSubmission() {
@@ -1301,7 +1302,9 @@
     zone.innerHTML = '<div class="insight-loading">正在调取该类目的市场初评...</div>';
     try {
       const response = await fetch(
-        STATIC_DEMO && /^[A-Za-z0-9]+$/.test(String(nodeId))
+        // Hubei ships its own 2026-10 category insights next to the page; the shared /amz/ server
+        // carries an older snapshot, so always read the page's own copy (2026-11-24).
+        /^[A-Za-z0-9]+$/.test(String(nodeId))
           ? `insights/${encodeURIComponent(nodeId)}.json`
           : appUrl(`/category-insight?nodeId=${encodeURIComponent(nodeId)}`),
         { cache: "no-cache" },
@@ -1339,7 +1342,7 @@
     if (!slot || !window.HBVisa) return;
     try {
       const response = await fetch(
-        STATIC_DEMO ? `insights/${SAMPLE_NODE_ID}.json` : appUrl(`/category-insight?nodeId=${SAMPLE_NODE_ID}`),
+        `insights/${SAMPLE_NODE_ID}.json`,
         { cache: "no-cache" },
       );
       if (!response.ok) return;

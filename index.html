@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta name="description" content="湖北企业产品出海免费初评：写下一款产品，免费看它在亚马逊美国站的市场体量、价格和竞争。不限企业规模。">
   <meta property="og:title" content="湖北产品出海免费初评 · 湖北省电子商务行业协会">
-  <meta property="og:description" content="免费获得市场体量、价格带、竞争度和差评痛点初评。">
+  <meta property="og:description" content="写下一款产品，免费看它在亚马逊美国站的市场体量、价格和竞争。">
   <link rel="icon" href="data:,">
   <title>湖北产品出海免费初评 · 湖北省电子商务行业协会</title>
   <style>
@@ -3078,6 +3078,10 @@
     .world-stall .pp-back { background: linear-gradient(180deg, #082f69, var(--heca-blue)); }
     .world-stall .pp-mgr:active, .world-stall .pp-apply-row button:active { background: #e6edf7; }
     .world-stall .pp-apply-row button:active { background: var(--red-deep); }
+
+    /* course group QR is a real image now: stack it, large enough to scan (owner 2026-11-24) */
+    .st-group { grid-template-columns: 1fr; justify-items: center; text-align: center; }
+    .st-group-img { display: block; width: min(240px, 78%); height: auto; }
   </style>
 </head>
 <body class="world-stall">
@@ -3546,9 +3550,9 @@
         </button>
       </div>
       <div class="modal-body st-course">
-        <!-- group QR placeholder: replace the .st-group-qr text with <img src="partners/course-group-qr.jpg" alt="课程咨询群二维码"> when the code arrives -->
+        <!-- course group QR: WeChat group「Ai快速入门分享群」, from Downloads/AI课程群聊分享.png (2026-11-24). The code expires 2026-12-01; replace partners/course-group-qr.png before then. -->
         <div class="st-group" id="courseGroup">
-          <div class="st-group-qr" role="img" aria-label="课程群二维码，即将放出">群二维码<br>即将放出</div>
+          <img class="st-group-img" src="partners/course-group-qr.png" alt="微信群「Ai快速入门分享群」二维码" width="437" height="429">
           <div><strong>课程咨询群</strong><span>在微信里长按二维码，选「识别图中二维码」进群。</span></div>
         </div>
         <!-- text transcribed from 299元-AI跨境入门实践课-课程介绍.png (Orcha Output, 2026-11-03); keep in sync with that image -->
