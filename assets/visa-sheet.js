@@ -128,7 +128,7 @@
         roundStamp({ cls: "stamp-new", ring: "近 18 个月 · 新品上架 · 近 18 个月 · ", main: `${newProducts.pct}%`, sub: "新品占比", idPrefix: `${p}n` })]);
     }
     if (concentration.sharePct != null) {
-      rows.push(["竞争", `前 5 个品牌占 ${concentration.sharePct}%`,
+      rows.push(["竞争", `前 5 个品牌占 ${concentration.sharePct}%`,
         concentration.sharePct >= 60 ? "头部品牌占得多，新品牌进入较难。"
           : concentration.sharePct >= 35 ? "有头部品牌，但没有被少数几家垄断。" : "品牌比较分散，新品牌有机会。", ""]);
     }
