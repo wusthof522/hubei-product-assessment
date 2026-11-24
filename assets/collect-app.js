@@ -82,7 +82,7 @@
 
   const stepCopy = {
     1: ["第 1 步：产品信息", "先让我们了解您想评估的产品"],
-    2: ["第 2 步：出海需求", "选择目标市场和当前需要的支持"],
+    2: ["第 2 步：出海需求", "选择意向站点和目前的亚马逊阶段"],
     3: ["第 3 步：联系方式", "留下联系方式，等待亚马逊全球开店湖北经理承接"],
   };
 
@@ -1135,7 +1135,7 @@
       product: {
         title: productName.value.trim(),
         link: form.elements.productLink.value.trim() || null,
-        factoryPriceRange: form.elements.priceRange.value || null,
+        factoryPriceRange: form.elements.priceRange?.value || null,
         category: state.picked
           ? `${state.picked.labelEn || ""}${state.picked.labelCn ? ` / ${state.picked.labelCn}` : ""}`.trim()
           : productName.value.trim(),
